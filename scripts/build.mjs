@@ -3,6 +3,7 @@ import { cpSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
+import { emblemPicture, writeEmblems } from './emblems.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -36,18 +37,18 @@ ${noindex ? '<meta name="robots" content="noindex">\n' : ''}<link rel="canonical
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${esc(url)}">
-<meta name="theme-color" content="#f5efe3" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&family=EB+Garamond:ital,wght@0,400;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap">
 <link rel="stylesheet" href="/styles.css">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
 <body>
 <header class="site-header">
-  <a class="brand" href="/"><span class="seal" aria-hidden="true">梵</span><span>${esc(SITE_NAME)}<small>${esc(SITE_NAME_EN)}</small></span></a>
-  <a class="home-link" href="${MAIN_SITE}/">eden-tan.com ↗</a>
+  <a class="brand" href="/"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span>${esc(SITE_NAME)}<small>${esc(SITE_NAME_EN)}</small></span></a>
+  <a class="home-link" href="${MAIN_SITE}/">Eden ↗</a>
 </header>
 <main>
 ${body}
@@ -74,19 +75,25 @@ function homePage(books) {
     .map(([key, label]) => [label, books.filter((b) => b.tradition === key)])
     .filter(([, list]) => list.length);
   const body = `
-<section class="hero">
-  <h1>从梵文直接读懂经书<span lang="en">${esc(SITE_NAME_EN)}</span></h1>
-  <p>每一段先给从梵文直译的白话，再把玄奘、鸠摩罗什这些古代译本放在旁边对照：古人多译了什么、少译了什么、哪里和梵文不一样，都标出来。最后附梵文原文和罗马转写。</p>
+<section class="hero hero--art">
+  <div class="hero-copy">
+    <p class="kicker">Scripture / ${books.length} 部梵文经典</p>
+    <h1>从梵文直接读懂经书<span lang="en">${esc(SITE_NAME_EN)}</span></h1>
+    <p>每一段先给从梵文直译的白话，再把玄奘、鸠摩罗什这些古代译本放在旁边对照：古人多译了什么、少译了什么、哪里和梵文不一样，都标出来。最后附梵文原文和罗马转写。</p>
+  </div>
+  ${emblemPicture('lotus', 'hero-emblem hero-scene', { kind: 'scenes' })}
 </section>
 ${groups
   .map(
-    ([label, list]) => `
+    ([label, list], gi) => `
 <section class="tradition">
-  <h2>${esc(label.zh)} <span lang="en">${esc(label.en)}</span></h2>
+  <p class="kicker">${String(gi + 1).padStart(2, '0')} / ${esc(label.en)}</p>
+  <h2>${esc(label.zh)}</h2>
   <ul class="book-list">
     ${list
       .map(
         (b) => `<li><a href="${bookPath(b)}">
+      ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(b.title)}</strong>
       <span class="sa-name" lang="sa-Latn">${esc(b.sanskrit)}</span>
       <p>${esc(b.summary)}</p>
@@ -118,10 +125,13 @@ ${groups
 function bookIndexPage(b) {
   const body = `
 <nav class="crumbs" aria-label="breadcrumb"><a href="/">首页</a> / ${esc(TRADITIONS[b.tradition].zh)}</nav>
-<section class="hero">
+<section class="hero hero--art hero--book">
+  <div class="hero-copy">
   <h1>${esc(b.title)}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
   <p>${esc(b.summary)}</p>
   <p class="meta">${b.chapters.length} 章 · ${verseCount(b)} 段 · 梵文直译 · ${esc(compare(b))}</p>
+  </div>
+  ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
 </section>
 <ol class="chapter-list">
   ${b.chapters
@@ -185,10 +195,13 @@ function chapterPage(b, i) {
   const hasOld = ch.verses.some((v) => v.old);
   const body = `
 <nav class="crumbs" aria-label="breadcrumb"><a href="/">首页</a> / ${single ? esc(b.title) : `<a href="${bookPath(b)}">${esc(b.title)}</a> / ${esc(ch.title)}`}</nav>
-<section class="hero compact">
+<section class="hero compact hero--art hero--book">
+  <div class="hero-copy">
   <h1>${esc(heading)}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
   ${single ? `<p>${esc(b.summary)}</p>` : ''}
   <p class="meta">${ch.verses.length} 段 · 梵文直译 · ${esc(compare(b))}</p>
+  </div>
+  ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
 </section>
 <div class="col-toggle" role="group" aria-label="显示哪几栏">
   <button type="button" data-toggle="zh" aria-pressed="true">白话直译</button>
@@ -235,6 +248,7 @@ export function build() {
   const books = loadBooks();
   rmSync(OUT, { recursive: true, force: true });
   cpSync(join(ROOT, 'src'), OUT, { recursive: true });
+  writeEmblems(OUT);
 
   const pages = [['/', homePage(books)]];
   for (const b of books) {

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#b8321f"/><text x="32" y="45" font-size="38" text-anchor="middle" fill="#fff8ee" font-family="Songti SC, STSong, serif">经</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="梵文经书">
+  <!-- 和 eden-tan.com 的图标同一家族:深底圆角方块 + 白色粗线,中间一条 Mint。
+       这里是三行经文:上下两行白,中间一行 Mint,左端对齐像翻开的一页。 -->
+  <rect width="32" height="32" rx="8" fill="#1c1917"/>
+  <g fill="#fafaf9">
+    <rect x="8" y="8.5" width="16" height="3.2" rx="1.2"/>
+    <rect x="8" y="20.3" width="12" height="3.2" rx="1.2"/>
+  </g>
+  <rect x="8" y="14.4" width="9.5" height="3.2" rx="1.2" fill="#7bdcb5"/>
+</svg>
