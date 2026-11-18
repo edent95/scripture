@@ -10,7 +10,8 @@
 - **英译**是本站自己的叠加层 `translations/en/<slug>.json`（不经面板，导入脚本不会碰它）：英文从梵文直译，每段带梵文指纹 `h`（`sa.tr` 的 sha1 前 8 位），可选 `cmp[{ w, note }]` 写这一段英文、中文、梵文具体差在哪（只在真有差别时写）；整部书的 `compare` 是三语对照总结（多章书显示在目录页，单章书在经文后面）。面板重新导入后某段梵文变了，指纹对不上，构建会报错，那一段英译要重译。`node scripts/en-skeleton.mjs <slug> [章]` 打印带指纹的底稿。已有英译：心经、金刚经、阿弥陀经、薄伽梵歌、瑜伽经；法华经、楞伽经、维摩诘经、无量寿经还没做。
 - **中英两版**：中文版在 `/…`，英文版在 `/en/…`，格式见下面「多语言规则」。
 - `scripts/build.mjs` 生成 `dist/`：首页、多章经书的目录页、每章一页（单章经书的章节页就是 `/<slug>/`，多章是 `/<slug>/<n>/`），加 `sitemap.xml`、`robots.txt`、`llms.txt`、`CNAME`、`404.html`。
-- `src/` 原样复制进 `dist/`（样式、三栏开关脚本、favicon）。零依赖，不要为小事加 npm 包。
+- `src/` 原样复制进 `dist/`（样式、三栏开关脚本、图标）。零依赖，不要为小事加 npm 包。
+- 图标：`src/favicon.svg` 是唯一的源(天城体顶线 + 三根竖笔，中间 Mint)。`favicon.ico`、`apple-touch-icon.png`、`icon-192.png`、`icon-512.png` 由 `node scripts/icons.mjs` 用本机 Chrome 生成并提交;改了 SVG 要重跑。`site.webmanifest` 引用 192/512。
 
 ## 内容规矩
 
