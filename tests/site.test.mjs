@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { existsSync, mkdtempSync, readFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { validateBook, loadBooks } from '../scripts/content.mjs';
+import { validateBook, loadBooks, mergeEnglish, verseKey } from '../scripts/content.mjs';
 
 process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
@@ -27,6 +27,17 @@ test('缺梵文罗马转写的段落会被拒绝', () => {
   assert.throws(() => validateBook(bad, 'x.json'), /sa\.tr/);
 });
 
+test('英译：段数或梵文指纹对不上就拒绝', () => {
+  const book = () => ({
+    slug: 'x',
+    chapters: [{ title: 'a', verses: [{ zh: 'a', sa: { text: 'अ', tr: 'a' } }] }],
+  });
+  const en = (h) => ({ slug: 'x', title: 'X', summary: 'x', compare: ['差别'], chapters: [{ title: 'A', verses: [{ h, en: 'a' }] }] });
+  assert.equal(mergeEnglish(book(), en(verseKey({ sa: { tr: 'a' } })), 'x').chapters[0].verses[0].en.text, 'a');
+  assert.throws(() => mergeEnglish(book(), en('00000000'), 'x'), /梵文指纹/);
+  assert.throws(() => mergeEnglish(book(), { ...en('x'), chapters: [{ title: 'A', verses: [] }] }, 'x'), /段数/);
+});
+
 test('构建出每一章的页面、sitemap、CNAME，站内链接都指向存在的页面', () => {
   const paths = build();
   for (const p of paths) assert.ok(existsSync(join(OUT, p, 'index.html')), `缺 ${p}`);
@@ -44,7 +55,7 @@ test('构建出每一章的页面、sitemap、CNAME，站内链接都指向存�
   }
 });
 
-test('章节页段数和内容一致：每段都有白话和梵文，古译数和数据一致', () => {
+test('章节页段数和内容一致：每段都有白话和梵文，有英译的书每段都有英文，古译数和数据一致', () => {
   build();
   for (const b of loadBooks()) {
     b.chapters.forEach((ch, i) => {
@@ -54,6 +65,7 @@ test('章节页段数和内容一致：每段都有白话和梵文，古译数�
       assert.equal(count('zh'), ch.verses.length, `${p} 白话段数不对`);
       assert.equal(count('sa'), ch.verses.length, `${p} 梵文段数不对`);
       assert.equal(count('old'), ch.verses.filter((v) => v.old).length, `${p} 古译段数不对`);
+      assert.equal(count('en'), b.en ? ch.verses.length : 0, `${p} 英译段数不对`);
     });
   }
 });

@@ -246,7 +246,20 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .deva { margin: 0; font-family: var(--deva); font-size: 1.1rem; line-height: 1.9; }
 .iast { margin: 6px 0 0; font-size: 0.92rem; font-style: italic; overflow-wrap: anywhere; }
 
-body.hide-zh .col.zh, body.hide-old .col.old, body.hide-sa .col.sa { display: none; }
+/* 英译:和白话同级的正文,左边一条主品牌色细线标出「这是另一种语言」 */
+.col.en { padding-left: 16px; border-left: 3px solid var(--primary); }
+.en-text { margin: 0; font-size: 1.04rem; line-height: 1.75; }
+.cmp { margin-top: 8px; }
+.en-name { display: block; margin-top: 2px; color: var(--muted); font-size: 0.88rem; font-style: italic; }
+.en-summary { color: var(--muted); font-style: italic; }
+.chapter-list em { display: block; margin-top: 4px; color: var(--muted); font-size: 0.86rem; font-weight: 400; }
+
+/* 三语对照总结 */
+.compare { max-width: var(--measure); margin-top: 56px; padding: 32px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
+.compare h2 { margin: 6px 0 16px; }
+.compare p { line-height: 1.9; }
+
+body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa .col.sa { display: none; }
 
 .pager { display: flex; justify-content: space-between; gap: 16px; max-width: var(--measure); padding: 40px 0 0; }
 .pager a {

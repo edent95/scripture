@@ -1,7 +1,7 @@
-// 三栏开关：白话直译 / 古译 / 梵文。至少留一栏；选择记在本机，读不到就全显示。
+// 栏目开关：白话直译 / English / 古译 / 梵文。至少留一栏；选择记在本机，读不到就全显示。
 (() => {
-  const KEY = 'scripture.cols.v2';
-  const ALL = ['zh', 'old', 'sa'];
+  const KEY = 'scripture.cols.v3'; // v3 加了 English 栏，旧的选择不沿用，免得新栏默认被藏
+  const ALL = ['zh', 'en', 'old', 'sa'];
   const buttons = [...document.querySelectorAll('[data-toggle]')];
   if (!buttons.length) return;
   // 没有古译的书（如瑜伽经部分章节）页面上没有那颗按钮，只在现有的栏里切换

@@ -1,0 +1,721 @@
+{
+ "slug": "diamond-sutra",
+ "title": "The Diamond Cutter Perfection of Wisdom",
+ "summary": "The Buddha and his student Subhuti talk through one question: how should someone set on helping all beings stand, practice, and hold their mind? The answer keeps cutting away every idea one might lean on, even the ideas of \"beings,\" \"merit,\" \"the Buddha,\" and \"the teaching\" itself.",
+ "compare": [
+  "这部经最常见的句型是「所谓 A，如来说它不是 A，所以才叫做 A」。梵文里这个句型常常是在拆词：福德之聚 puṇya-skandha 说成 a-skandha「不是聚」，凡夫 pṛthag-jana 说成 a-jana「不是人」，身体 ātma-bhāva 说成 na bhāva「不是存在」，执取 grāha 和 parigraha 只差一个前缀。英文用 heap / no heap、people / no people、take up / grab 尽量保住这种拆法；鸠摩罗什几乎统一写成「即非……是名……」，句子整齐好背，但原来每一处在哪个字上做文章，中文读者就看不出来了。",
+  "第二个大差别是 saṃjñā 和 nimitta。梵文 saṃjñā 是「心里生起的观念、认定」，nimitta 是「让人认出东西的记号」，lakṣaṇa 是「身上的特征」，三个词各管一层。鸠摩罗什全都译成「相」：「我相、人相」「不住于相」「三十二相」「离一切诸相」。好处是一个字贯穿全经，坏处是读者容易以为「相」就是外表。本站英文分别写 idea、sign、marks，白话写「观念」「相状」「身相」，把三层拆开。另外梵文的观念清单是「自我、众生、命者、人」，有时还有「养育者」，鸠摩罗什固定成「我、人、众生、寿者」四相，连只列三项的地方也补成四项。",
+  "鸠摩罗什的译本比梵本短得多，而且删减很有选择：开头一千三百人改成「千二百五十人」，须菩提的三问「怎样站住、怎样修行、怎样把握心」剩两问并改成「降伏其心」；「踏上菩萨乘」一律改写成「发阿耨多罗三藐三菩提心」；第二首偈「要从法去看佛，可法性也不可知」整首没有译；结尾九个比喻（星、眼翳、灯、幻、露、泡、梦、电、云）剪成六个，还加了梵文没有的「影」。反过来，「应无所住而生其心」「凡所有相，皆是虚妄」「不取于相，如如不动」「一切有为法，如梦幻泡影」这些中文名句，有的是把梵文几句话凝成一句，有的是把范围放大，有的是梵文根本没有。可以说中文《金刚经》的锋利，有一半是鸠摩罗什剪出来的。",
+  "也有几处鸠摩罗什的意思和梵文对不上：须菩提在梵文里一开始就说「不能凭身相认出如来」，鸠摩罗什本却让他先答「可以」再被佛纠正；「别以为如来是靠身相证悟的」在鸠摩罗什本里变成「别以为如来不是靠具足相证悟的」；「比燃灯佛更早更早」变成「在燃灯佛面前」。英文和白话都照梵文译，读者可以直接看到这些分歧。",
+  "英文的得失也很清楚。apratiṣṭhita 译成 without resting anywhere、vastupatita 译成 fallen into things、piṇḍagrāha 译成 grasping at a lump，比中文「无所住」「住于法」「一合相」更有画面；但 Tathagata 只能保留原词，「如来」那种一个字就带出「如、来」双关的便利，英文没有。dharma 在本经里大多指「事物」而不是「佛法」，英文保留 dharma 原词并配上 no-dharma，避免了中文「非法」被读成「违法」的尴尬。"
+ ],
+ "chapters": [
+  {
+   "title": "The Whole Sutra",
+   "verses": [
+    {
+     "h": "a37fc9f7",
+     "en": "The Perfection of Wisdom in Three Hundred Lines, called the Diamond Cutter.",
+     "cmp": [
+      {
+       "w": "Vajracchedikā",
+       "note": "梵文是「能切断金刚的」：vajra 是金刚石，也是雷神手里的金刚杵；chedikā 是「切割者」。意思是这部智慧锋利到连最硬的东西都能切开。英文 Diamond Cutter 保住了「切」；鸠摩罗什的经题只写「金刚」，读者容易理解成「像金刚一样坚固」，切断的动作不见了。"
+      },
+      {
+       "w": "triśatikā",
+       "note": "「三百（颂）的」，说明这是般若经里篇幅约三百颂的一部。英文、白话都照译；鸠摩罗什的经题没有这个字。"
+      }
+     ]
+    },
+    {
+     "h": "8de4a89d",
+     "en": "Homage to the blessed, noble Perfection of Wisdom!",
+     "cmp": [
+      {
+       "w": "bhagavatyai",
+       "note": "和《心经》开头一样，梵文用「世尊」的阴性，把智慧的圆满当成一位女性圣者来礼敬。英文 blessed 看不出性别；鸠摩罗什本没有译这一句。"
+      }
+     ]
+    },
+    {
+     "h": "0e9ba57a",
+     "en": "This is what I heard. Once the Lord was staying at Shravasti, in Jeta's Grove, in the park of Anathapindada, with a large community of monks, thirteen hundred of them, and with many bodhisattvas, great beings. Then, early in the day, the Lord put on his lower robe, took his bowl and outer robe, and went into the great city of Shravasti for alms. He walked through the great city of Shravasti for alms, ate his meal, and came back from the almsround. He put away his bowl and robe, washed his feet, and sat down on the seat that had been set out for him. He crossed his legs, held his body straight, and set his mindfulness right in front of him. Then a number of monks came to where the Lord was.",
+     "cmp": [
+      {
+       "w": "trayodaśabhir bhikṣuśataiḥ",
+       "note": "梵文是「十三个一百位比丘」，也就是一千三百人，而且还提到「许多菩萨大士」。英文、白话都照译；鸠摩罗什写「千二百五十人」，这是汉译佛经里最常见的听众人数，菩萨也没有提。"
+      },
+      {
+       "w": "pratimukhīṃ smṛtim upasthāpya",
+       "note": "「把正念安放在面前」，是坐下来开始禅修的标准说法。英文 set his mindfulness right in front of him、白话都保留了；鸠摩罗什本到「敷座而坐」就停了，世尊盘腿、正身、安住正念这几步都没有译。"
+      }
+     ]
+    },
+    {
+     "h": "c929fe87",
+     "en": "When they had come, they bowed their heads to the Lord's feet, walked around him three times keeping him on their right, and sat down to one side."
+    },
+    {
+     "h": "df6018d5",
+     "en": "At that time the venerable Subhuti had joined that same gathering and was sitting there. He rose from his seat, put his upper robe over one shoulder, set his right knee on the ground, joined his palms toward the Lord, and said to him: \"It is wonderful, Lord, utterly wonderful, Sugata (Well-Gone One), how much the Tathagata, the worthy one, the fully awakened one, has helped the bodhisattvas, the great beings, with the highest help. It is wonderful, Lord, how much the Tathagata has entrusted the bodhisattvas, the great beings, with the highest trust. So, Lord, how should a son or daughter of good family who has set out in the bodhisattva vehicle stand? How should they practice? How should they hold their mind?\"",
+     "cmp": [
+      {
+       "w": "sthātavyaṃ kathaṃ pratipattavyaṃ kathaṃ cittaṃ pragrahītavyam",
+       "note": "梵文问了三件事：怎样「站住」、怎样「修行」、怎样「把握心」。英文、白话都照译三问；鸠摩罗什只留两问「应云何住？云何降伏其心？」，而且把「把握、扶持」译成「降伏」，像是要把心压服下去，语气重了许多。"
+      },
+      {
+       "w": "bodhisattvayānasaṃprasthita",
+       "note": "「已经踏上菩萨乘（这辆车）出发的人」。英文 set out in the bodhisattva vehicle 保留了上路的画面；鸠摩罗什改写成「发阿耨多罗三藐三菩提心」，把「上车出发」换成了「发心求无上觉悟」。"
+      }
+     ]
+    },
+    {
+     "h": "43b7bc46",
+     "en": "When he had said this, the Lord said to the venerable Subhuti: \"Good, good, Subhuti. That is so, Subhuti, it is just as you say. The Tathagata has helped the bodhisattvas, the great beings, with the highest help. The Tathagata has entrusted the bodhisattvas, the great beings, with the highest trust. So listen, Subhuti, and pay close and careful attention. I will tell you how someone who has set out in the bodhisattva vehicle should stand, how they should practice, how they should hold their mind.\" \"Yes, Lord,\" the venerable Subhuti answered the Lord."
+    },
+    {
+     "h": "ae4d5869",
+     "en": "The Lord said to him: \"Here, Subhuti, someone who has set out in the bodhisattva vehicle should make this resolve: 'However many beings there are in the world of beings, counted as beings — born from eggs, born from a womb, born from moisture, or born spontaneously; with form or without form; with perception, without perception, or with neither perception nor non-perception — whatever world of beings can be named, all of them I must lead to final nirvana, into the realm of nirvana where nothing is left over.' And yet, after leading countless beings to final nirvana in this way, no being at all has been led to final nirvana. Why is that? Subhuti, if the idea of a 'being' were to come up in a bodhisattva, he should not be called a bodhisattva. Why is that?",
+     "cmp": [
+      {
+       "w": "sattvasaṃjñā",
+       "note": "saṃjñā 是「心里生起的观念、认定」。英文 idea、白话「观念」都是这个意思；鸠摩罗什一律译成「相」，像在说外表的样子，后面「我相、人相」都是这个字，读者容易以为在讲外貌。"
+      }
+     ]
+    },
+    {
+     "h": "9c5d13cb",
+     "en": "Subhuti, no one should be called a bodhisattva in whom the idea of a being comes up, or the idea of a living soul, or the idea of a person.",
+     "cmp": [
+      {
+       "w": "sattva / jīva / pudgala",
+       "note": "这里梵文只列了三个观念：众生、命者（活着的灵魂）、人。英文、白话都只有三项；鸠摩罗什补成「我相、人相、众生相、寿者相」四项，把下文才出现的「我」提前放了进来。"
+      }
+     ]
+    },
+    {
+     "h": "9988ea65",
+     "en": "\"Moreover, Subhuti, a bodhisattva should not give a gift while resting on any thing. He should not give a gift while resting anywhere at all. He should not give a gift while resting on form. He should not give a gift while resting on sounds, smells, tastes, things touched, or objects of the mind. Subhuti, a bodhisattva, a great being, should give a gift in such a way that he does not rest even on the idea of a sign. Why is that? Subhuti, for the bodhisattva who gives a gift without resting anywhere, the heap of merit is not easy to measure. What do you think, Subhuti — is it easy to measure the space to the east?\" Subhuti said: \"No indeed, Lord.\" The Lord said: \"In the same way, is it easy to measure the space to the south, west, north, below, above, in all the in-between directions, all around in the ten directions?\"",
+     "cmp": [
+      {
+       "w": "apratiṣṭhita",
+       "note": "pratiṣṭhita 是「站在上面、靠在上面」。英文 without resting anywhere 保留了「不把重量压在任何东西上」的画面；鸠摩罗什译「无所住」，白话译「不执着」，后者已经换成心理学说法，比原词抽象。"
+      },
+      {
+       "w": "nimittasaṃjñā",
+       "note": "nimitta 是「记号、标志」，让人认出一样东西的特征。英文 sign 照字面；白话「相状」、鸠摩罗什「相」都把它和上面的 saṃjñā 混成同一个字，中文读者分不出两层。"
+      }
+     ]
+    },
+    {
+     "h": "1c43b274",
+     "en": "Subhuti said: \"No indeed, Lord.\" The Lord said: \"Just so, Subhuti, for the bodhisattva who gives a gift without resting anywhere, the heap of merit is not easy to measure. That is how, Subhuti, someone who has set out in the bodhisattva vehicle should give a gift — so that he does not rest even on the idea of a sign.\""
+    },
+    {
+     "h": "d1e2921a",
+     "en": "\"What do you think, Subhuti — should the Tathagata be seen through the perfection of his bodily marks?\" Subhuti said: \"No indeed, Lord. The Tathagata should not be seen through the perfection of his marks. Why is that? Lord, the perfection of marks that the Tathagata has spoken of is itself no perfection of marks.\" When he had said this, the Lord said to the venerable Subhuti: \"Subhuti, wherever there is perfection of marks, there is falsehood. Wherever there is no perfection of marks, there is no falsehood. So the Tathagata should be seen through marks as no marks.\"",
+     "cmp": [
+      {
+       "w": "yāvat … tāvan mṛṣā",
+       "note": "梵文说的是佛身上的殊胜特征：「只要有特征的具足，就有虚妄」。鸠摩罗什改写成「凡所有相，皆是虚妄」，把范围从佛身的三十二相扩大到「一切相」，成了后来最有名的一句。英文、白话照梵文，范围窄得多。"
+      },
+      {
+       "w": "lakṣaṇālakṣaṇatas",
+       "note": "「从相即非相」去看。英文 through marks as no marks 尽量保留了梵文「相—非相」并列的节奏；鸠摩罗什译「若见诸相非相，则见如来」，变成一个条件句，读起来更像教诲。"
+      }
+     ]
+    },
+    {
+     "h": "24bec57f",
+     "en": "When he had said this, the venerable Subhuti said to the Lord: \"Lord, will there be any beings in the future, in the last time, the last age, the last five hundred years, when the true teaching is falling apart, who will take these words of the sutra as true when they hear them?\" \"Subhuti, in the future, in the last time, the last age, the last five hundred years, when the true teaching is falling apart, there will be bodhisattvas, great beings, who are good, keep their precepts, and are wise, who will take these words of the sutra as true when they hear them. And Subhuti, these bodhisattvas, great beings, will not have served just one buddha, nor planted their roots of good under just one buddha.",
+     "cmp": [
+      {
+       "w": "paścimāyāṃ pañcaśatyāṃ",
+       "note": "「最后的五百年」，是梵文里的末世说法。英文、白话照译；鸠摩罗什写「如来灭后后五百岁」，加上了「如来去世以后」作为起点，而且省掉「正法衰亡」。"
+      },
+      {
+       "w": "guṇavantaḥ śīlavantaḥ prajñāvantaś",
+       "note": "梵文说这些人有德行、守戒、有智慧，三样都有。英文照译；鸠摩罗什只写「持戒修福者」，智慧这一项不见了。此外梵文原本没有「莫作是说」，那句责备是鸠摩罗什本独有的。"
+      }
+     ]
+    },
+    {
+     "h": "f0e87495",
+     "en": "Rather, Subhuti, these bodhisattvas, great beings, will have served many hundreds of thousands of buddhas and planted their roots of good under many hundreds of thousands of buddhas — the ones who, when these words of the sutra are spoken, will find even a single moment of clear faith. The Tathagata knows them, Subhuti, with his buddha-knowledge. The Tathagata sees them, Subhuti, with his buddha-eye. The Tathagata is fully aware of them, Subhuti. All of them, Subhuti, will produce and take up an immeasurable, countless heap of merit. Why is that? Because, Subhuti, in these bodhisattvas, great beings, the idea of a self does not come up, nor the idea of a being, nor of a living soul, nor of a person. Nor, Subhuti, does the idea of a dharma come up in them — and in the same way, not the idea of a no-dharma.",
+     "cmp": [
+      {
+       "w": "buddhāste … tathāgatena",
+       "note": "梵文用三个动词：如来「知道」他们、「看见」他们、「觉知」他们，最后一个和「佛」（buddha，觉悟者）是同一个词根，是个文字游戏。英文 fully aware 只能保住意思；鸠摩罗什浓缩成「悉知悉见」，第三项省掉了。"
+      },
+      {
+       "w": "dharmasaṃjñā",
+       "note": "dharma 在这里是「事物、法」，不是「佛法」。英文直接保留 dharma，配上 no-dharma；白话「法」「非法」、鸠摩罗什「法相」「非法相」都容易被读成「合法、违法」。"
+      }
+     ]
+    },
+    {
+     "h": "6b23e79d",
+     "en": "Nor does an idea come up in them, nor a no-idea. Why is that? Subhuti, if the idea of a dharma were to come up in these bodhisattvas, great beings, that would be grasping at a self in them, grasping at a being, at a living soul, at a person. If the idea of a no-dharma were to come up, that too would be grasping at a self in them, grasping at a being, at a living soul, at a person. Why is that? Subhuti, a bodhisattva, a great being, should take up neither a dharma nor a no-dharma. That is why the Tathagata said, with this hidden meaning in mind: 'Those who understand that this teaching is like a raft should let go even of dharmas, let alone no-dharmas.'",
+     "cmp": [
+      {
+       "w": "kolopamaṃ",
+       "note": "「像木筏一样」：过了河就把筏子放下。英文 like a raft、白话「像筏子」都照译；鸠摩罗什加了一句「汝等比丘」，把它写成佛对比丘们常说的话（「如来常说」），梵文只说如来「带着深意说过」。"
+      },
+      {
+       "w": "saṃdhāya",
+       "note": "「有所指地、带着言外之意」，暗示这句话不能只按字面听。英文 with this hidden meaning in mind、白话「带着这层深意」都译出来了；鸠摩罗什写「以是义故」，这层「话里有话」淡了。"
+      }
+     ]
+    },
+    {
+     "h": "1432d55b",
+     "en": "Then the Lord said further to the venerable Subhuti: \"What do you think, Subhuti — is there any dharma that the Tathagata has fully awakened to as 'unsurpassed, perfect awakening'? Or is there any dharma that the Tathagata has taught?\" When he had said this, the venerable Subhuti said to the Lord: \"As I understand the meaning of what the Lord has said, there is no dharma that the Tathagata has fully awakened to as 'unsurpassed, perfect awakening,' and there is no dharma that the Tathagata has taught. Why is that? The dharma the Tathagata has awakened to or taught cannot be grasped and cannot be put into words. It is neither a dharma nor a no-dharma. Why is that? Because the noble ones are made manifest by the unconditioned.\"",
+     "cmp": [
+      {
+       "w": "anuttarā samyaksaṃbodhi",
+       "note": "「无上的、完全的觉悟」。英文、白话都意译；鸠摩罗什照音写成「阿耨多罗三藐三菩提」，这是全经最典型的「音译不意译」，中文读者只能当成一个专有名词背下来。"
+      },
+      {
+       "w": "asaṃskṛtaprabhāvitā",
+       "note": "「由无为所显现」，说圣者是从「不造作的东西」里显出来的。英文 made manifest by the unconditioned 照译；鸠摩罗什译「一切贤圣皆以无为法而有差别」，把「显现」换成「有差别」，意思转成了圣者之间的高低不同。"
+      }
+     ]
+    },
+    {
+     "h": "39968f6f",
+     "en": "The Lord said: \"What do you think, Subhuti? If a son or daughter of good family were to fill this great galaxy of a billion worlds with the seven precious things and give it as a gift to the Tathagatas, the worthy ones, the fully awakened ones, would that son or daughter of good family produce a great heap of merit from it?\" Subhuti said: \"A great one, Lord, a great one, Sugata. That son or daughter of good family would produce a heap of merit from it. Why is that? Lord, the heap of merit the Tathagata has spoken of — the Tathagata has spoken of it as no heap. That is why the Tathagata says, 'a heap of merit, a heap of merit.'\"",
+     "cmp": [
+      {
+       "w": "puṇyaskandha / askandha",
+       "note": "梵文的妙处在 skandha（堆、聚）这个词：「福德之聚」，如来说它「不是聚」。英文 heap / no heap、白话「聚」都保留了这个对比；鸠摩罗什译成「是福德即非福德性」，换成了「性」，原来「一堆东西其实不成一堆」的画面没了。"
+      },
+      {
+       "w": "trisāhasramahāsāhasra",
+       "note": "直译是「三千大千」，指一千的三次方个世界。英文用 a great galaxy of a billion worlds 换算给读者；中文保留「三千大千世界」，读者常以为是三千个。"
+      }
+     ]
+    },
+    {
+     "h": "846141b9",
+     "en": "The Lord said: \"Subhuti, suppose a son or daughter of good family were to fill this great galaxy of a billion worlds with the seven precious things and give it as a gift to the Tathagatas, the worthy ones, the fully awakened ones. And suppose someone else were to take from this teaching even a single verse of four lines, and teach it and explain it to others in full. The second would produce from it a far greater heap of merit, immeasurable and countless. Why is that? Because, Subhuti, the unsurpassed, perfect awakening of the Tathagatas, the worthy ones, the fully awakened ones, comes out of this, and the buddhas, the blessed ones, come out of this. Why is that? 'Buddha-dharmas, buddha-dharmas,' Subhuti — the Tathagata has spoken of them as no buddha-dharmas. That is why they are called buddha-dharmas.\""
+    },
+    {
+     "h": "95aa33fa",
+     "en": "\"What do you think, Subhuti — does a stream-enterer think, 'I have reached the fruit of entering the stream'?\" Subhuti said: \"No indeed, Lord. A stream-enterer does not think, 'I have reached the fruit of entering the stream.' Why is that? Because, Lord, he has not entered any dharma. That is why he is called a stream-enterer. He has not entered form, nor sounds, nor smells, nor tastes, nor things touched, nor objects of the mind. That is why he is called a stream-enterer. Lord, if a stream-enterer were to think, 'I have reached the fruit of entering the stream,' that would be grasping at a self in him, grasping at a being, at a living soul, at a person.\"",
+     "cmp": [
+      {
+       "w": "srotaāpanna",
+       "note": "「入了流的人」：第一次走进通往解脱的那条河。英文 stream-enterer、白话「入流者」都是意译，双关「入流 / 没有进入任何东西」读得出来；鸠摩罗什先音译「须陀洹」再解释「名为入流」，而且删掉了最后一句「那就是执取自我」。"
+      }
+     ]
+    },
+    {
+     "h": "ef5f89ec",
+     "en": "The Lord said: \"What do you think, Subhuti — does a once-returner think, 'I have reached the fruit of the once-returner'?\" Subhuti said: \"No indeed, Lord. A once-returner does not think, 'I have reached the fruit of the once-returner.' Why is that? Because there is no dharma at all that has arrived at once-returning. That is why he is called a once-returner.\""
+    },
+    {
+     "h": "7dfb6917",
+     "en": "The Lord said: \"What do you think, Subhuti — does a never-returner think, 'I have reached the fruit of the never-returner'?\" Subhuti said: \"No indeed, Lord. A never-returner does not think, 'I have reached the fruit of the never-returner.' Why is that? Because, Lord, there is no dharma at all that has arrived at never-returning. That is why he is called a never-returner.\""
+    },
+    {
+     "h": "084ab8db",
+     "en": "The Lord said: \"What do you think, Subhuti — does a worthy one, an arhat, think, 'I have reached arhatship'?\" Subhuti said: \"No indeed, Lord. An arhat does not think, 'I have reached arhatship.' Why is that? Because, Lord, there is no dharma at all that is called an arhat. That is why one is called an arhat. Lord, if an arhat were to think, 'I have reached arhatship,' that would be grasping at a self in him, grasping at a being, at a living soul, at a person. Why is that? Lord, the Tathagata, the worthy one, the fully awakened one, has named me the foremost of those who dwell in peace. Lord, I am an arhat, free from desire. And yet, Lord, I do not think, 'I am an arhat, free from desire.'",
+     "cmp": [
+      {
+       "w": "araṇāvihārin",
+       "note": "araṇa 是「没有争斗、没有烦扰」。英文 dwell in peace、白话「安住于无诤」都是意译；鸠摩罗什这里译「无诤三昧」，下一句却音译成「阿兰那行」，同一个词前后用了两种译法。"
+      }
+     ]
+    },
+    {
+     "h": "d086de50",
+     "en": "Lord, if I were to think, 'I have reached arhatship,' the Tathagata would not have declared of me: 'Subhuti, son of good family, is the foremost of those who dwell in peace. He does not dwell anywhere at all. That is why he is called one who dwells in peace, one who dwells in peace.'\"",
+     "cmp": [
+      {
+       "w": "na kvacid viharati",
+       "note": "梵文的玩笑在「住」字上：须菩提是「安住无诤第一」，正因为他「哪里都不住」。英文 dwell 前后同一个词，保留了这个对比；鸠摩罗什把后半句译成「实无所行」，「住」变成了「行」，双关少了一半。"
+      }
+     ]
+    },
+    {
+     "h": "0b4c2938",
+     "en": "The Lord said: \"What do you think, Subhuti — is there any dharma that the Tathagata took up from the Tathagata Dipankara, the worthy one, the fully awakened one?\" Subhuti said: \"No indeed, Lord. There is no dharma at all that the Tathagata took up from the Tathagata Dipankara, the worthy one, the fully awakened one.\""
+    },
+    {
+     "h": "b8fa23be",
+     "en": "The Lord said: \"Subhuti, if any bodhisattva were to say, 'I will bring about the splendid arrays of buddha-fields,' he would be saying something untrue. Why is that? 'Arrays of fields, arrays of fields,' Subhuti — the Tathagata has spoken of them as no arrays. That is why they are called arrays of fields. So then, Subhuti, a bodhisattva, a great being, should give rise to a mind that does not rest on anything — a mind that rests nowhere at all. He should give rise to a mind that does not rest on form, a mind that does not rest on sounds, smells, tastes, things touched, or objects of the mind. Subhuti, suppose there were a man with a full, huge body, so that his bodily existence was like Sumeru, the king of mountains. What do you think, Subhuti — would that bodily existence be great?\"",
+     "cmp": [
+      {
+       "w": "apratiṣṭhitaṃ cittam utpādayitavyam",
+       "note": "「应当生起不住于任何地方的心」。鸠摩罗什把它凝成「应无所住而生其心」，相传禅宗六祖慧能就是听到这一句开悟的。梵文其实前后说了好几遍、比较啰嗦；英文和白话照着保留了重复，这句名言的锋利来自鸠摩罗什的剪裁。"
+      },
+      {
+       "w": "kṣetravyūha",
+       "note": "vyūha 是「排列、布置得很壮观」，指佛土的庄严景象。英文 splendid arrays 保住「排列」的画面；中文「庄严」现在多指「严肃」，意思已经偏了。"
+      }
+     ]
+    },
+    {
+     "h": "2ede30af",
+     "en": "Subhuti said: \"Great, Lord, great, Sugata, would that bodily existence be. Why is that? 'Bodily existence, bodily existence,' Lord — the Tathagata has spoken of it as no existence. That is why it is called bodily existence. For, Lord, it is neither existence nor non-existence. That is why it is called bodily existence.\"",
+     "cmp": [
+      {
+       "w": "ātmabhāva / na bhāvaḥ",
+       "note": "梵文 ātmabhāva 字面是「自己的存在」，指身体；接着说它「不是 bhāva（存在）」，在词尾上做文章。英文 bodily existence / no existence 把这个拆词游戏保住了；鸠摩罗什只写「佛说非身，是名大身」，「非有非无」那一句没有译。"
+      }
+     ]
+    },
+    {
+     "h": "e93289fe",
+     "en": "The Lord said: \"What do you think, Subhuti? If there were as many Ganges rivers as there are grains of sand in the great river Ganges, would the grains of sand in them be many?\" Subhuti said: \"Those Ganges rivers alone would be many, Lord — let alone the grains of sand in those Ganges rivers.\" The Lord said: \"I tell you, Subhuti, I make it known to you: suppose a woman or a man were to fill as many worlds as there are grains of sand in those Ganges rivers with the seven precious things and give it as a gift to the Tathagatas, the worthy ones, the fully awakened ones. What do you think, Subhuti — would that woman or man produce a great heap of merit from it?\" Subhuti said: \"A great one, Lord, a great one, Sugata. That woman or man would produce from it a heap of merit, immeasurable and countless.\""
+    },
+    {
+     "h": "9764dbda",
+     "en": "The Lord said: \"Subhuti, suppose a woman or a man were to fill that many worlds with the seven precious things and give it as a gift to the Tathagatas, the worthy ones, the fully awakened ones. And suppose a son or daughter of good family were to take from this teaching even a single verse of four lines and teach it and explain it to others. The second would produce from it a far greater heap of merit, immeasurable and countless.\""
+    },
+    {
+     "h": "e3e1f2fb",
+     "en": "\"And again, Subhuti, any spot of earth where even a single verse of four lines from this teaching is taken up and recited or explained becomes a shrine for the world with its gods, humans, and asuras (warring demigods). How much more so for those who will keep this whole teaching to the end, recite it, master it, and explain it to others in full! Subhuti, they will be endowed with the highest wonder. And in that spot of earth, Subhuti, the Teacher himself dwells, or someone who stands in the place of a wise teacher.\"",
+     "cmp": [
+      {
+       "w": "caityabhūta",
+       "note": "caitya 是供人礼拜的塔、祠。英文 shrine 是意译；鸠摩罗什译「如佛塔庙」，白话「塔庙一样的圣地」，中文的「塔」带着具体的建筑画面，英文只剩下「神圣之处」。"
+      },
+      {
+       "w": "vijñagurusthānīya",
+       "note": "「处在智慧尊师位置上的人」。鸠摩罗什译「若尊重弟子」，变成「值得尊重的弟子」，身份从「师」转成了「弟子」。英文、白话照梵文。"
+      }
+     ]
+    },
+    {
+     "h": "9e6b9299",
+     "en": "When he had said this, the venerable Subhuti said to the Lord: \"Lord, what is this teaching called, and how should I keep it?\" When he had said this, the Lord said to the venerable Subhuti: \"Subhuti, this teaching is called the Perfection of Wisdom. Keep it in that way. Why is that? Subhuti, the very Perfection of Wisdom the Tathagata has spoken of — the Tathagata has spoken of it as no perfection. That is why it is called the Perfection of Wisdom.\"",
+     "cmp": [
+      {
+       "w": "prajñāpāramitā nāmāyaṃ",
+       "note": "梵文这里佛说经名就叫「智慧的圆满」。鸠摩罗什写成「金刚般若波罗蜜」，把经题里的「金刚」也放进佛的话里。英文、白话照梵文，只有「智慧的圆满」。"
+      },
+      {
+       "w": "pāramitā",
+       "note": "常见的解释是「到了彼岸」，也可以理解成「最高、圆满」。英文 Perfection、白话「圆满」取后一义；鸠摩罗什音译「波罗蜜」，两层意思都包在一个外来词里，交给读者自己去查。"
+      }
+     ]
+    },
+    {
+     "h": "d7b22642",
+     "en": "\"What do you think, Subhuti — is there any dharma at all that the Tathagata has taught?\" Subhuti said: \"No indeed, Lord. There is no dharma at all that the Tathagata has taught.\""
+    },
+    {
+     "h": "e6a49a82",
+     "en": "The Lord said: \"What do you think, Subhuti? All the specks of earth-dust in this great galaxy of a billion worlds — would they be many?\" Subhuti said: \"Many, Lord, many, Sugata, would the specks of earth-dust be. Why is that? Lord, the earth-dust the Tathagata has spoken of — the Tathagata has spoken of it as no dust, Lord. That is why it is called earth-dust. And the world the Tathagata has spoken of — the Tathagata has spoken of it as no world. That is why it is called a world.\""
+    },
+    {
+     "h": "c72bc2a0",
+     "en": "The Lord said: \"What do you think, Subhuti — should the Tathagata, the worthy one, the fully awakened one, be seen through the thirty-two marks of a great man?\" Subhuti said: \"No indeed, Lord. The Tathagata, the worthy one, the fully awakened one, should not be seen through the thirty-two marks of a great man. Why is that? Lord, those thirty-two marks of a great man that the Tathagata has spoken of — the Tathagata has spoken of them as no marks, Lord. That is why they are called the thirty-two marks of a great man.\""
+    },
+    {
+     "h": "a9855921",
+     "en": "The Lord said: \"Subhuti, suppose a woman or a man were to give up, day after day, as many bodies as there are grains of sand in the river Ganges, and kept giving up bodies like this for as many ages as there are grains of sand in the river Ganges. And suppose someone else were to take from this teaching even a single verse of four lines and teach it and explain it to others. The second would produce from it a far greater heap of merit, immeasurable and countless.\""
+    },
+    {
+     "h": "ff28579f",
+     "en": "Then the venerable Subhuti, moved by the force of the teaching, burst into tears. He wiped away his tears and said to the Lord: \"It is wonderful, Lord, utterly wonderful, Sugata, how this teaching has been spoken by the Tathagata for the sake of beings who have set out in the foremost vehicle, for the sake of those who have set out in the best vehicle. From it, Lord, knowledge has arisen in me. Never before, Lord, have I heard a teaching like this. Lord, the bodhisattvas who hear this sutra being spoken and take it as true will be endowed with the highest wonder. Why is that? Lord, this very idea of the true is itself no idea of the true. That is why the Tathagata says, 'the idea of the true, the idea of the true.'\"",
+     "cmp": [
+      {
+       "w": "dharmavegena",
+       "note": "vega 是「冲力、冲击」：须菩提是被法的力量冲击得流泪。英文 moved by the force of the teaching 保留了冲击感；鸠摩罗什写「深解义趣，涕泪悲泣」，改成「懂了才哭」，还加了「悲」字。"
+      },
+      {
+       "w": "bhūtasaṃjñā",
+       "note": "「真实的观念、认为是真的」。英文 idea of the true、白话「真实之想」照译；鸠摩罗什译成「实相」，后来成了中国佛学的大词，意思从「一个念头」升格成「事物的真实面貌」。"
+      }
+     ]
+    },
+    {
+     "h": "14a082b1",
+     "en": "\"It is no wonder in me, Lord, that I trust this teaching as it is spoken and give my heart to it. But Lord, the beings who in the future, in the last time, the last age, the last five hundred years, when the true teaching is falling apart, will take up this teaching, keep it, recite it, master it, and explain it to others in full — they will be endowed with the highest wonder. And yet, Lord, the idea of a self will not come up in them, nor the idea of a being, of a living soul, of a person. No idea at all will come up in them, and no no-idea either. Why is that? Lord, the idea of a self is itself no idea. The idea of a being, of a living soul, of a person, is itself no idea. Why is that?"
+    },
+    {
+     "h": "a9a0b10c",
+     "en": "Because the buddhas, the blessed ones, have left all ideas behind."
+    },
+    {
+     "h": "1a43debc",
+     "en": "When he had said this, the Lord said to the venerable Subhuti: \"That is so, Subhuti, that is so. Those beings will be endowed with the highest wonder who, when this sutra is spoken here, do not tremble, are not frightened, and do not fall into fear. Why is that? Subhuti, the Tathagata has spoken of this highest perfection as no perfection. And Subhuti, the highest perfection the Tathagata speaks of, countless buddhas, blessed ones, speak of too. That is why it is called the highest perfection."
+    },
+    {
+     "h": "a9e21cad",
+     "en": "\"Moreover, Subhuti, the Tathagata's perfection of patience is itself no perfection. Why is that? Subhuti, when the king of Kalinga cut the flesh from my limbs, large and small, at that time I had no idea of a self, no idea of a being, no idea of a living soul, no idea of a person. No idea at all, and no no-idea, arose in me. Why is that? Subhuti, if at that time I had had the idea of a self, I would also have had the idea of ill will at that time. If I had had the idea of a being, of a living soul, of a person, I would also have had the idea of ill will at that time. Why is that? Subhuti, I remember that in the past, for five hundred lives, I was a sage called the Preacher of Patience. Then too I had no idea of a self, no idea of a being, no idea of a living soul, no idea of a person.",
+     "cmp": [
+      {
+       "w": "kalirājā",
+       "note": "梵文可以读成「羯陵伽国王」，也可以读成「kali（争斗、恶世）之王」，是个名字兼寓意。英文写 the king of Kalinga 只取了国名；鸠摩罗什音译「歌利王」，白话「迦利王」，都把两层意思收在一个读音里。"
+      },
+      {
+       "w": "kṣānti",
+       "note": "梵文 kṣānti 是「承受、容忍」。英文 patience 偏向耐心；中文「忍辱」特别点出「忍受侮辱」，在割肉的故事里比英文更贴切。"
+      }
+     ]
+    },
+    {
+     "h": "7a2f52c1",
+     "en": "So then, Subhuti, a bodhisattva, a great being, should put aside all ideas and give rise to the thought of unsurpassed, perfect awakening. He should give rise to a thought that does not rest on form. He should give rise to a thought that does not rest on sounds, smells, tastes, things touched, or objects of the mind. He should give rise to a thought that does not rest on a dharma, nor on a no-dharma. He should give rise to a thought that does not rest anywhere at all. Why is that? Whatever rests is itself no resting. That is why the Tathagata says: a bodhisattva should give a gift without resting anywhere. He should not give a gift while resting on form, sound, smell, taste, touch, or objects of the mind."
+    },
+    {
+     "h": "5c3a4fbc",
+     "en": "\"Moreover, Subhuti, a bodhisattva should give away gifts like this for the good of all beings. Why is that? Subhuti, this idea of a being is itself no idea. And all the beings the Tathagata has spoken of are themselves no beings. Why is that? Subhuti, the Tathagata speaks what is real. The Tathagata speaks the truth, speaks things as they are, speaks nothing other than that. The Tathagata does not speak falsely.",
+     "cmp": [
+      {
+       "w": "tathāvādī",
+       "note": "「如实说的人」，tathā 就是 Tathagata（如来）里的「如」。英文 speaks things as they are 能看出 tathā 的意思，但和 Tathagata 这个名字的关联看不出；中文「如语者」和「如来」共用一个「如」字，这层呼应反而保住了。鸠摩罗什还多了一项「不诳语者」。"
+      }
+     ]
+    },
+    {
+     "h": "adb4f69b",
+     "en": "\"Moreover, Subhuti, in the dharma the Tathagata has awakened to, taught, and pondered, there is neither truth nor falsehood. Subhuti, just as a man who has gone into the dark sees nothing at all, so should you see a bodhisattva who has fallen into things, who gives a gift having fallen into things. Subhuti, just as a man with eyes, when the night has turned to dawn and the sun has risen, sees all kinds of shapes, so should you see a bodhisattva who has not fallen into things, who gives a gift without having fallen into things.",
+     "cmp": [
+      {
+       "w": "vastupatita",
+       "note": "「掉进事物里」，像跌进坑里一样。英文 fallen into things 保留了跌落的画面，和后面「走进黑暗」连成一气；白话加注「执着事物」；鸠摩罗什译「心住于法」，又回到「住」字，跌落的画面没了。"
+      }
+     ]
+    },
+    {
+     "h": "84e28911",
+     "en": "\"Moreover, Subhuti, the sons or daughters of good family who will take up this teaching, keep it, recite it, master it, and explain it to others in full — the Tathagata knows them, Subhuti, with his buddha-knowledge. The Tathagata sees them, Subhuti, with his buddha-eye. The Tathagata is fully aware of them. All these beings, Subhuti, will produce and take up an immeasurable, countless heap of merit.\""
+    },
+    {
+     "h": "895560d4",
+     "en": "\"Subhuti, suppose a woman or a man were to give up, in the morning, as many bodies as there are grains of sand in the river Ganges; at midday, as many bodies as there are grains of sand in the river Ganges; in the evening, as many bodies as there are grains of sand in the river Ganges; and kept giving up bodies like this for many hundreds of thousands of millions of billions of ages. And suppose someone else heard this teaching and did not reject it. The second would produce from it a far greater heap of merit, immeasurable and countless. How much more someone who writes it down, takes it up, keeps it, recites it, masters it, and explains it to others in full!"
+    },
+    {
+     "h": "9af43190",
+     "en": "\"Moreover, Subhuti, this teaching is beyond thought and beyond compare. Subhuti, the Tathagata has spoken this teaching for the sake of beings who have set out in the foremost vehicle, for the sake of beings who have set out in the best vehicle. Those who will take up this teaching, keep it, recite it, master it, and explain it to others in full — the Tathagata knows them, Subhuti, with his buddha-knowledge. The Tathagata sees them, Subhuti, with his buddha-eye. The Tathagata is fully aware of them. All these beings, Subhuti, will be endowed with an immeasurable heap of merit. They will be endowed with a heap of merit beyond thought, beyond compare, beyond measure, without limit. All these beings, Subhuti, will carry awakening on their shoulders equally, recite it, and master it. Why is that?",
+     "cmp": [
+      {
+       "w": "agrayāna / śreṣṭhayāna",
+       "note": "梵文是「最前面的乘」和「最好的乘」。鸠摩罗什译成「大乘」和「最上乘」，把第一个换成了后来通行的宗派名称「大乘」。英文 foremost / best、白话照梵文，没有宗派色彩。"
+      },
+      {
+       "w": "samāṃśena bodhiṃ dhārayiṣyanti",
+       "note": "「平均分担着把菩提扛起来」，像大家一起抬东西。英文 carry awakening on their shoulders equally 保留了扛的画面；鸠摩罗什译「荷担如来阿耨多罗三藐三菩提」，「平均分担」没了，换成「担起如来的」觉悟。"
+      }
+     ]
+    },
+    {
+     "h": "581dcfa9",
+     "en": "Because, Subhuti, beings with low aspirations cannot hear this teaching, nor those who hold a view of a self, a view of a being, a view of a living soul, a view of a person. Beings who have not taken the bodhisattva's vow cannot hear this teaching, or take it up, keep it, recite it, or master it. That cannot happen."
+    },
+    {
+     "h": "e24d04e3",
+     "en": "\"Moreover, Subhuti, wherever on earth this sutra is made known, that spot of earth will be worthy of offerings from the world with its gods, humans, and asuras. That spot of earth will be worthy of bows and of being walked around with respect. That spot of earth will become a shrine.\""
+    },
+    {
+     "h": "fabdb31d",
+     "en": "\"And yet, Subhuti, the sons or daughters of good family who will take up sutras like these, keep them, recite them, master them, think about them wisely, and explain them to others in full — they will be looked down on, badly looked down on. Why is that? Subhuti, whatever bad deeds these beings did in former lives, deeds that would lead them to the lower realms, by being looked down on in this very life they will use up those bad deeds of former lives, and they will reach the awakening of a buddha."
+    },
+    {
+     "h": "af25b483",
+     "en": "Subhuti, I remember that in the past, countless ages ago and more than countless, long, long before the Tathagata Dipankara, the worthy one, the fully awakened one, there were eighty-four hundred thousand million billion buddhas whom I pleased, and having pleased them, I never displeased them.",
+     "cmp": [
+      {
+       "w": "dīpaṃkarasya … pareṇa paratareṇa",
+       "note": "梵文说这些佛在燃灯佛「之前更之前」。鸠摩罗什译「于然灯佛前」，读起来像「在燃灯佛面前」遇见他们，时间变成了地点。"
+      },
+      {
+       "w": "ārāgitāḥ, ārāgya na virāgitāḥ",
+       "note": "梵文是「让他们满意，满意之后没有再让他们不满」，一正一反。英文 pleased / never displeased 保留了这个对仗；鸠摩罗什改成「悉皆供养承事，无空过者」。"
+      }
+     ]
+    },
+    {
+     "h": "f01b250f",
+     "en": "Subhuti, on the one hand I pleased those buddhas, those blessed ones, and having pleased them never displeased them. On the other hand there are those who, in the last time, the last age, the last five hundred years, when the true teaching is falling apart, will take up sutras like these, keep them, recite them, master them, and explain them to others in full. Next to their heap of merit, Subhuti, that earlier heap of merit does not come to a hundredth part, nor a thousandth, nor a hundred-thousandth, nor a ten-millionth, nor a billionth, nor a trillionth, nor a hundred-thousand-million-billionth. It does not bear any number, fraction, count, comparison, likeness, or resemblance at all."
+    },
+    {
+     "h": "0dddef4f",
+     "en": "And Subhuti, if I were to tell how great a heap of merit those sons and daughters of good family will produce and take up at that time, beings would go mad or their minds would be thrown into confusion. But Subhuti, this teaching the Tathagata has spoken is beyond thought and beyond compare, and its ripening, too, should be expected to be beyond thought.\""
+    },
+    {
+     "h": "8493a78a",
+     "en": "Then the venerable Subhuti said to the Lord: \"Lord, how should someone who has set out in the bodhisattva vehicle stand? How should they practice? How should they hold their mind?\" The Lord said: \"Here, Subhuti, someone who has set out in the bodhisattva vehicle should make this resolve: 'All beings I must lead to final nirvana, into the realm of nirvana where nothing is left over.' And yet, after leading beings to final nirvana in this way, no being at all has been led to final nirvana. Why is that? Subhuti, if the idea of a being were to come up in a bodhisattva, he should not be called a bodhisattva. If the idea of a living soul, and so on up to the idea of a person, were to come up, he should not be called a bodhisattva. Why is that? Subhuti, there is no dharma at all called 'one who has set out in the bodhisattva vehicle.'"
+    },
+    {
+     "h": "c3221173",
+     "en": "\"What do you think, Subhuti — is there any dharma by which the Tathagata, in the presence of the Tathagata Dipankara, fully awakened to unsurpassed, perfect awakening?\" When he had said this, the venerable Subhuti said to the Lord: \"As I understand the meaning of what the Lord has said, Lord, there is no dharma by which the Tathagata, in the presence of the Tathagata Dipankara, the worthy one, the fully awakened one, fully awakened to unsurpassed, perfect awakening.\" When he had said this, the Lord said to the venerable Subhuti: \"That is so, Subhuti, that is so. Subhuti, there is no dharma by which the Tathagata, in the presence of the Tathagata Dipankara, the worthy one, the fully awakened one, fully awakened to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "2a88c130",
+     "en": "And Subhuti, if the Tathagata had fully awakened to any dharma, the Tathagata Dipankara would not have foretold of me: 'Young man, in the future you will be a Tathagata, a worthy one, a fully awakened one, called Shakyamuni.' It is because, Subhuti, there is no dharma at all that the Tathagata, the worthy one, the fully awakened one, fully awakened to as unsurpassed, perfect awakening, that the Tathagata Dipankara foretold of me: 'Young man, in the future you will be a Tathagata, a worthy one, a fully awakened one, called Shakyamuni.' Why is that? Subhuti, 'Tathagata' is another name for true suchness. 'Tathagata,' Subhuti, is another name for the nature of things that are not born. 'Tathagata,' Subhuti, is another name for the cutting off of things. 'Tathagata,' Subhuti, is another name for what has never been born at all.",
+     "cmp": [
+      {
+       "w": "tathāgata",
+       "note": "梵文可以拆成 tathā-gata「这样去了的」，也可以拆成 tathā-āgata「这样来了的」，这里把它解释成「真如（事物本来那样）」。英文保留 Tathagata 原词，只好靠 suchness 去补；鸠摩罗什的「如来」选了「来」的读法，又在这里写「如来者，即诸法如义」，正好用「如」字接上，四个定义只译了一个。"
+      },
+      {
+       "w": "māṇava",
+       "note": "燃灯佛叫释迦前世「年轻人、少年婆罗门」。英文 young man、白话「年轻人」都保留了这个亲切的称呼；鸠摩罗什译成「汝」，称呼省掉了。"
+      }
+     ]
+    },
+    {
+     "h": "0cb7c672",
+     "en": "Why is that? Subhuti, this not-being-born is the highest truth. Subhuti, if anyone were to say, 'The Tathagata, the worthy one, the fully awakened one, has fully awakened to unsurpassed, perfect awakening,' he would be saying something untrue. He would be slandering me, Subhuti, by grasping at what is not there. Why is that? Subhuti, there is no dharma at all that the Tathagata has fully awakened to as unsurpassed, perfect awakening. And Subhuti, in the dharma the Tathagata has awakened to or taught, there is neither truth nor falsehood. That is why the Tathagata says, 'All dharmas are buddha-dharmas.' Why is that? 'All dharmas,' Subhuti — the Tathagata has spoken of them as no dharmas. That is why it is said, 'All dharmas are buddha-dharmas.'"
+    },
+    {
+     "h": "72c84f43",
+     "en": "\"Subhuti, suppose there were a man with a full, huge body.\" The venerable Subhuti said: \"Lord, that man the Tathagata has spoken of as having a full, huge body — the Tathagata has spoken of him as having no body, Lord. That is why he is called one with a full, huge body.\"",
+     "cmp": [
+      {
+       "w": "akāya",
+       "note": "梵文说「没有身体」。英文 no body、白话「没有身体」照译；鸠摩罗什译「非大身」，把否定落在「大」上，意思变成「不算大的身体」。"
+      }
+     ]
+    },
+    {
+     "h": "e1f7fc19",
+     "en": "The Lord said: \"That is so, Subhuti. Any bodhisattva who says, 'I will lead beings to final nirvana,' should not be called a bodhisattva. Why is that? Subhuti, is there any dharma at all called a bodhisattva?\" Subhuti said: \"No indeed, Lord. There is no dharma at all called a bodhisattva.\" The Lord said: \"'Beings, beings,' Subhuti — the Tathagata has spoken of them as no beings. That is why they are called beings. That is why the Tathagata says: 'All dharmas are without a self, without a living soul, without a nourisher, without a person — all dharmas.'",
+     "cmp": [
+      {
+       "w": "niṣpoṣa",
+       "note": "poṣa 是「养育者、被养的那个人」，是印度当时说「灵魂」的一种叫法。英文 nourisher、白话「养育者」都照译；鸠摩罗什改成固定的「无我、无人、无众生、无寿者」四项，这一项不见了。"
+      }
+     ]
+    },
+    {
+     "h": "2850e39a",
+     "en": "Subhuti, any bodhisattva who says, 'I will bring about the splendid arrays of buddha-fields,' would be saying something untrue. Why is that? 'Arrays of fields, arrays of fields,' Subhuti — the Tathagata has spoken of them as no arrays. That is why they are called arrays of fields."
+    },
+    {
+     "h": "d4153a92",
+     "en": "Subhuti, the bodhisattva who gives his heart to 'dharmas are without a self, dharmas are without a self' — the Tathagata, the worthy one, the fully awakened one, has declared him a bodhisattva, a great being."
+    },
+    {
+     "h": "99f3a246",
+     "en": "The Lord said: \"What do you think, Subhuti — does the Tathagata have the eye of flesh?\" Subhuti said: \"That is so, Lord. The Tathagata has the eye of flesh.\" The Lord said: \"What do you think, Subhuti — does the Tathagata have the divine eye?\" Subhuti said: \"That is so, Lord. The Tathagata has the divine eye.\" The Lord said: \"What do you think, Subhuti — does the Tathagata have the eye of wisdom?\" Subhuti said: \"That is so, Lord. The Tathagata has the eye of wisdom.\" The Lord said: \"What do you think, Subhuti — does the Tathagata have the eye of dharma?\" Subhuti said: \"That is so, Lord. The Tathagata has the eye of dharma.\" The Lord said: \"What do you think, Subhuti — does the Tathagata have the buddha-eye?\""
+    },
+    {
+     "h": "c2a0d068",
+     "en": "Subhuti said: \"That is so, Lord. The Tathagata has the buddha-eye.\""
+    },
+    {
+     "h": "c85a5920",
+     "en": "The Lord said: \"What do you think, Subhuti — all the grains of sand there are in the great river Ganges, has the Tathagata spoken of those grains of sand?\" Subhuti said: \"That is so, Lord, that is so, Sugata. The Tathagata has spoken of those grains of sand.\" The Lord said: \"What do you think, Subhuti? If there were as many Ganges rivers as there are grains of sand in the great river Ganges, and as many worlds as there are grains of sand in them, would those worlds be many?\" Subhuti said: \"That is so, Lord, that is so, Sugata. Those worlds would be many.\" The Lord said: \"Subhuti, however many beings there are in those worlds, I know the many kinds of streams of thought in them. Why is that? 'Stream of thought, stream of thought,' Subhuti — the Tathagata has spoken of it as no stream. That is why it is called a stream of thought. Why is that?",
+     "cmp": [
+      {
+       "w": "cittadhārā / adhārā",
+       "note": "dhārā 是「水流、一股一股流下来的东西」，心念像河一样不停地流。英文 stream of thought、白话「心念之流」保留了水流的画面，也接得上前面的恒河；鸠摩罗什只写「若干种心」「诸心」，水流的意象没了。"
+      }
+     ]
+    },
+    {
+     "h": "8302b284",
+     "en": "Subhuti, past thought cannot be found. Future thought cannot be found. Present thought cannot be found.",
+     "cmp": [
+      {
+       "w": "nopalabhyate",
+       "note": "「找不到、抓不着」。英文 cannot be found、白话「找不到」照译；鸠摩罗什译「不可得」，后来禅宗常用。顺序也不同：梵文是过去、未来、现在，鸠摩罗什改成更顺口的过去、现在、未来。"
+      }
+     ]
+    },
+    {
+     "h": "1b649bf3",
+     "en": "\"What do you think, Subhuti? If a son or daughter of good family were to fill this great galaxy of a billion worlds with the seven precious things and give it as a gift to the Tathagatas, the worthy ones, the fully awakened ones, would that son or daughter of good family produce a great heap of merit from it?\" Subhuti said: \"A great one, Lord, a great one, Sugata.\" The Lord said: \"That is so, Subhuti, that is so. That son or daughter of good family would produce from it a great heap of merit, immeasurable and countless. Why is that? 'A heap of merit, a heap of merit,' Subhuti — the Tathagata has spoken of it as no heap. That is why it is called a heap of merit. And Subhuti, if there were a heap of merit, the Tathagata would not have said, 'a heap of merit, a heap of merit.'\""
+    },
+    {
+     "h": "102ca092",
+     "en": "\"What do you think, Subhuti — should the Tathagata be seen through the full accomplishment of his physical body?\" Subhuti said: \"No indeed, Lord. The Tathagata should not be seen through the full accomplishment of his physical body. Why is that? 'Full accomplishment of the physical body, full accomplishment of the physical body,' Lord — the Tathagata has spoken of it as no accomplishment. That is why it is called the full accomplishment of the physical body.\""
+    },
+    {
+     "h": "1af2fe44",
+     "en": "The Lord said: \"What do you think, Subhuti — should the Tathagata be seen through the perfection of his marks?\" Subhuti said: \"No indeed, Lord. The Tathagata should not be seen through the perfection of his marks. Why is that? Lord, this perfection of marks the Tathagata has spoken of — the Tathagata has spoken of it as no perfection of marks. That is why it is called the perfection of marks.\""
+    },
+    {
+     "h": "a1662ee5",
+     "en": "The Lord said: \"What do you think, Subhuti — does the Tathagata think, 'I have taught the dharma'?\" Subhuti said: \"No indeed, Lord. The Tathagata does not think, 'I have taught the dharma.'\" The Lord said: \"Subhuti, whoever says, 'The Tathagata has taught the dharma,' would be saying something untrue. He would be slandering me, Subhuti, by grasping at what is not there. Why is that? 'Teaching the dharma, teaching the dharma,' Subhuti — there is no dharma at all that can be found and called a teaching of the dharma.\"",
+     "cmp": [
+      {
+       "w": "dharmadeśanā",
+       "note": "梵文是一问一答，须菩提回答「不会」。鸠摩罗什改成佛直接下命令「汝勿谓…莫作是念」，须菩提的回答没了；结尾「无法可说，是名说法」比梵文「找不到一个叫做说法的法」更像一句对联。"
+      }
+     ]
+    },
+    {
+     "h": "130c13a1",
+     "en": "When he had said this, the venerable Subhuti said to the Lord: \"Lord, will there be any beings in the future, in the last time, the last age, the last five hundred years, when the true teaching is falling apart, who will hear teachings like these and trust them?\" The Lord said: \"They are neither beings nor no-beings, Subhuti. Why is that? 'Beings, beings,' Subhuti — the Tathagata has spoken of all of them, Subhuti, as no beings. That is why they are called beings.\"",
+     "cmp": [
+      {
+       "w": "āyuṣmān",
+       "note": "「长寿的人」，对出家弟子的尊称。英文 venerable、白话「具寿」；鸠摩罗什全经大多用「长老」，只在这一段写「慧命须菩提」，用词和前后不一样，学者多认为这一段是后人从别的译本补进鸠摩罗什本的。"
+      }
+     ]
+    },
+    {
+     "h": "63c4902a",
+     "en": "\"What do you think, Subhuti — is there any dharma at all that the Tathagata has fully awakened to as unsurpassed, perfect awakening?\" The venerable Subhuti said: \"No indeed, Lord. There is no dharma at all, Lord, that the Tathagata has fully awakened to as unsurpassed, perfect awakening.\" The Lord said: \"That is so, Subhuti, that is so. Not even the tiniest dharma exists there or can be found there. That is why it is called unsurpassed, perfect awakening.\""
+    },
+    {
+     "h": "eae4dd98",
+     "en": "\"Moreover, Subhuti, that dharma is even; nothing in it is uneven. That is why it is called unsurpassed, perfect awakening. That unsurpassed, perfect awakening is even because there is no self, no being, no living soul, no person in it, and it is fully awakened to through all good dharmas. Why is that? 'Good dharmas, good dharmas,' Subhuti — the Tathagata has spoken of them as no dharmas. That is why they are called good dharmas.\"",
+     "cmp": [
+      {
+       "w": "samaḥ … na viṣamaḥ",
+       "note": "sama 是「平、齐」，viṣama 是「高低不平」。英文 even / uneven 保住了地面平不平的画面；鸠摩罗什译「是法平等，无有高下」，「高下」把这个画面说得更清楚，是很好的一笔。"
+      }
+     ]
+    },
+    {
+     "h": "76e7fbc5",
+     "en": "\"Subhuti, suppose a woman or a man were to gather heaps of the seven precious things as high as all the Sumerus, the kings of mountains, in this great galaxy of a billion worlds, and give them as a gift to the Tathagatas, the worthy ones, the fully awakened ones. And suppose a son or daughter of good family were to take from this teaching of the Perfection of Wisdom even a single verse of four lines and teach it to others. Subhuti, next to the second heap of merit, the first does not come to a hundredth part — it does not bear any comparison at all.\""
+    },
+    {
+     "h": "6e96b1fb",
+     "en": "\"What do you think, Subhuti — does the Tathagata think, 'I have set beings free'? You should not see it that way, Subhuti. Why is that? Subhuti, there is no being at all whom the Tathagata has set free. Subhuti, if there were any being whom the Tathagata had set free, that would be grasping at a self in the Tathagata, grasping at a being, at a living soul, at a person. 'Grasping at a self,' Subhuti — the Tathagata has spoken of it as no grasping. And yet foolish ordinary people grasp at it. 'Foolish ordinary people,' Subhuti — the Tathagata has spoken of them as no people at all. That is why they are called foolish ordinary people.\"",
+     "cmp": [
+      {
+       "w": "bālapṛthagjanā / ajanā",
+       "note": "pṛthag-jana 是「各自分散的人、一般人」，后半 jana 就是「人」；如来说他们是 a-jana「不是人」，拆的是词尾。英文 ordinary people / no people 把这个拆法保住了；鸠摩罗什译「凡夫……则非凡夫」，否定的是「凡」，梵文的拆字游戏变了样。"
+      }
+     ]
+    },
+    {
+     "h": "688798fd",
+     "en": "\"What do you think, Subhuti — should the Tathagata be seen through the perfection of his marks?\" Subhuti said: \"No indeed, Lord. As I understand the meaning of what the Lord has said, the Tathagata should not be seen through the perfection of his marks.\" The Lord said: \"Good, good, Subhuti. That is so, Subhuti, it is just as you say. The Tathagata should not be seen through the perfection of his marks. Why is that? Subhuti, if the Tathagata could be seen through the perfection of his marks, then a wheel-turning king would be a Tathagata too. So the Tathagata should not be seen through the perfection of his marks.\" The venerable Subhuti said to the Lord: \"As I understand the meaning of what the Lord has said, the Tathagata should not be seen through the perfection of his marks.\"",
+     "cmp": [
+      {
+       "w": "no hīdaṃ bhagavan",
+       "note": "梵文须菩提一开始就答「不能」。鸠摩罗什本却让他先答「如是，如是！以三十二相观如来」，被佛用转轮王一比，才改口说「不应」，整段变成一场被纠正的对话，比梵文更有戏剧性。"
+      },
+      {
+       "w": "rājā cakravartī",
+       "note": "「转动轮子的王」，印度传说里统一天下的君王，身上也有三十二相。英文 wheel-turning king 直译，读者需要背景；中文「转轮王」是现成的词。"
+      }
+     ]
+    },
+    {
+     "h": "07eede6e",
+     "en": "Then at that moment the Lord spoke these two verses:"
+    },
+    {
+     "h": "88b86ded",
+     "en": "Those who saw me by my form, / those who followed me by my voice, / have set out on a wrong effort — / those people will not see me.",
+     "cmp": [
+      {
+       "w": "mithyāprahāṇaprasṛtā",
+       "note": "prahāṇa 是「用功、精进」，整句是「走上了错误的努力」。英文 a wrong effort、白话「错误的努力」照译；鸠摩罗什译「是人行邪道」，「邪道」在中文里带着歪门邪道的道德色彩，比梵文重。"
+      }
+     ]
+    },
+    {
+     "h": "954ad8d0",
+     "en": "A buddha is to be seen through the dharma, / for the guides have the dharma as their body. / But the nature of dharma cannot be known; / it is not something anyone can know.",
+     "cmp": [
+      {
+       "w": "dharmakāya",
+       "note": "这一整首偈鸠摩罗什本没有译。所以中文读者熟悉的「若以色见我」只是半句话：梵文接着说「要从法去看佛，佛以法为身」，然后又把这条路也收回去，「法性也不可知」。英文、白话都补全了这后半。"
+      }
+     ]
+    },
+    {
+     "h": "25c28444",
+     "en": "\"What do you think, Subhuti — did the Tathagata fully awaken to unsurpassed, perfect awakening through the perfection of his marks? You should not see it that way, Subhuti. Why is that? Subhuti, the Tathagata could not have fully awakened to unsurpassed, perfect awakening through the perfection of his marks. And Subhuti, let no one say to you, 'Those who have set out in the bodhisattva vehicle declare that some dharma is destroyed or cut off.' You should not see it that way, Subhuti. Why is that? Those who have set out in the bodhisattva vehicle do not declare that any dharma is destroyed, nor that it is cut off.\"",
+     "cmp": [
+      {
+       "w": "lakṣaṇasaṃpadā … abhisaṃbuddhā",
+       "note": "梵文的问题是「如来是靠身相证悟的吗？别这样想」。鸠摩罗什本却写成「莫作是念：『如来不以具足相故，得……菩提』」，意思反过来了：叫人别以为如来「不是」靠具足相证悟的。历代注家为此争论不少；英文、白话都照梵文。"
+      }
+     ]
+    },
+    {
+     "h": "4a3abe8f",
+     "en": "\"Subhuti, suppose a son or daughter of good family were to fill as many worlds as there are grains of sand in the river Ganges with the seven precious things and give them as a gift to the Tathagatas, the worthy ones, the fully awakened ones. And suppose a bodhisattva were to gain patient acceptance of dharmas that have no self and are not born. The second would produce from it a far greater heap of merit, immeasurable and countless. But Subhuti, a bodhisattva, a great being, should not take hold of a heap of merit.\" The venerable Subhuti said: \"Lord, surely a bodhisattva should take hold of a heap of merit?\" The Lord said: \"He should take it up, Subhuti, but not grab it. That is why it is said he should take it up.\"",
+     "cmp": [
+      {
+       "w": "parigrahītavyaḥ … no grahītavyaḥ",
+       "note": "梵文用同一个词根做文章：pari-grah「接受、承担」可以，单单 grah「抓住」不行。英文 take it up / grab it 尽量保住了两个近义动词的对比；白话「摄受 / 执取」也是；鸠摩罗什干脆改成「不受福德」「不应贪着」，词根游戏看不出来了。"
+      },
+      {
+       "w": "anutpattikeṣu dharmeṣu kṣāntim",
+       "note": "「对不生的诸法得到安忍」，后来叫「无生法忍」。英文 patient acceptance 把 kṣānti 讲成「接受」；鸠摩罗什只写「知一切法无我，得成于忍」，「不生」这一半漏了。"
+      }
+     ]
+    },
+    {
+     "h": "12681504",
+     "en": "\"Moreover, Subhuti, if anyone says, 'The Tathagata goes, or comes, or stands, or sits, or lies down,' Subhuti, he does not understand the meaning of what I have said. Why is that? Subhuti, he is called 'Tathagata' because he has not gone anywhere and has not come from anywhere. That is why he is called the Tathagata, the worthy one, the fully awakened one.\"",
+     "cmp": [
+      {
+       "w": "na kvacid gato na kutaścid āgataḥ",
+       "note": "这里正好在解 Tathagata 这个名字：gata「去了」、āgata「来了」，两样都不是。英文 Tathagata 是原词，读者得靠这句才明白名字的意思；鸠摩罗什的「如来」只有「来」字，所以写成「无所从来，亦无所去，故名如来」，中文里名字和解释更贴。"
+      }
+     ]
+    },
+    {
+     "h": "13695d2e",
+     "en": "\"Subhuti, suppose a son or daughter of good family were to take as many worlds as there are specks of earth-dust in this great galaxy of a billion worlds and grind them into powder with countless effort, into something like a heap of atoms. What do you think, Subhuti — would that heap of atoms be great?\" Subhuti said: \"That is so, Lord, that is so, Sugata. That heap of atoms would be great. Why is that? Lord, if there really were a great heap of atoms, the Lord would not have called it a heap of atoms. Why is that? Lord, the heap of atoms the Tathagata has spoken of — the Tathagata has spoken of it as no heap. That is why it is called a heap of atoms."
+    },
+    {
+     "h": "e9675442",
+     "en": "And the great galaxy of a billion worlds the Tathagata has spoken of — the Tathagata has spoken of it as no world. That is why it is called the great galaxy of a billion worlds. Why is that? Lord, if there were a world, that would be grasping at a lump. And the grasping at a lump that the Tathagata has spoken of — the Tathagata has spoken of it as no grasping. That is why it is called grasping at a lump.\" The Lord said: \"Grasping at a lump, Subhuti, cannot be talked about or put into words. It is neither a dharma nor a no-dharma. And yet foolish ordinary people grasp at it.\"",
+     "cmp": [
+      {
+       "w": "piṇḍagrāha",
+       "note": "piṇḍa 是「一团、一坨」，像饭团。「把东西当成一整团来抓」。英文 grasping at a lump、白话「执取为一个整团」都留住了这个很具体的画面；鸠摩罗什译「一合相」，成了一个抽象的哲学名词，读者很难想到是一团东西。"
+      }
+     ]
+    },
+    {
+     "h": "b0c5562c",
+     "en": "Why is that? Subhuti, if anyone were to say, 'The Tathagata has spoken of a view of a self; the Tathagata has spoken of a view of a being, a view of a living soul, a view of a person,' would he be speaking rightly, Subhuti?\" Subhuti said: \"No indeed, Lord. No indeed, Sugata. He would not be speaking rightly. Why is that? Lord, the view of a self that the Tathagata has spoken of — the Tathagata has spoken of it as no view. That is why it is called a view of a self.\""
+    },
+    {
+     "h": "87753f89",
+     "en": "The Lord said: \"That is how, Subhuti, someone who has set out in the bodhisattva vehicle should know all dharmas, see them, and give his heart to them. He should know them, see them, and give his heart to them in such a way that he does not rest even on the idea of a dharma, nor on the idea of a no-dharma. Why is that? 'The idea of a dharma, the idea of a dharma,' Subhuti — the Tathagata has spoken of it as no idea. That is why it is called the idea of a dharma.\""
+    },
+    {
+     "h": "075070ff",
+     "en": "\"And Subhuti, suppose a bodhisattva, a great being, were to fill immeasurable, countless worlds with the seven precious things and give them as a gift to the Tathagatas, the worthy ones, the fully awakened ones. And suppose a son or daughter of good family were to take from this teaching of the Perfection of Wisdom even a single verse of four lines, keep it, teach it, recite it, master it, and explain it to others in full. The second would produce from it a far greater heap of merit, immeasurable and countless. And how should he explain it? As in the sky —",
+     "cmp": [
+      {
+       "w": "tadyathākāśe",
+       "note": "梵文这里断成半句「就像在虚空中——」，接着就是偈子，意思是要像天上的星、云那样去看。鸠摩罗什改写成「不取于相，如如不动」，这八个字梵文里没有，却成了中文里最常被引用的句子之一。"
+      }
+     ]
+    },
+    {
+     "h": "8db0325c",
+     "en": "Like stars, like spots before the eyes, like a lamp, / a magic show, dew, a bubble, / a dream, lightning, a cloud — / see everything that is put together this way.",
+     "cmp": [
+      {
+       "w": "tārakā timiraṃ dīpo …",
+       "note": "梵文有九个比喻：星、眼翳、灯、幻术、露、泡、梦、闪电、云。英文、白话九个都译了；鸠摩罗什只留下「梦、幻、泡、影、露、电」六个，还多出一个梵文没有的「影」。「一切有为法，如梦幻泡影」的名句，是他重新剪裁的结果。"
+      },
+      {
+       "w": "saṃskṛta",
+       "note": "「被造出来的、由许多条件拼起来的」。英文 everything that is put together 照字面；鸠摩罗什译「有为法」，白话加注「由因缘造作而成」，「有为」在今天的中文里却容易被读成「有作为」。"
+      }
+     ]
+    },
+    {
+     "h": "c0805be2",
+     "en": "That is how he should explain it. That is why it is said, 'he should explain it.'"
+    },
+    {
+     "h": "014fa8bf",
+     "en": "This is what the Lord said, with a glad heart. The elder Subhuti, and the monks and nuns, the laymen and laywomen, and the bodhisattvas, and the world with its gods, humans, asuras, and gandharvas (heavenly musicians), rejoiced in what the Lord had said.",
+     "cmp": [
+      {
+       "w": "abhyanandan",
+       "note": "梵文以「大家都欢喜」结束。鸠摩罗什加了四个字「信受奉行」，让结尾多了「相信、接受、照着做」的要求；他也省掉了菩萨和乾闼婆。英文、白话照梵文。"
+      }
+     ]
+    },
+    {
+     "h": "fb1983b0",
+     "en": "Here ends the noble, blessed Perfection of Wisdom, the Diamond Cutter."
+    }
+   ]
+  }
+ ]
+}

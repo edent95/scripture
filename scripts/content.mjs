@@ -1,5 +1,6 @@
 // 读取并校验 content/*.json。校验失败直接抛错，构建和测试共用这一份。
-import { readdirSync, readFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 export const TRADITIONS = {
@@ -50,10 +51,52 @@ export function validateBook(book, file) {
   return book;
 }
 
-export function loadBooks(dir = new URL('../content/', import.meta.url).pathname) {
+/** 一段梵文的指纹：英译按它对齐。面板重新导入后梵文变了，指纹就对不上，构建直接报错。 */
+export const verseKey = (v) => createHash('sha1').update(v.sa.tr.normalize('NFC')).digest('hex').slice(0, 8);
+
+/**
+ * 英译叠加层 translations/en/<slug>.json（本站自己从梵文直译，不经面板导入，导入脚本不会碰它）：
+ * { slug, title, summary, compare: [三语对照总结，中文段落], chapters: [{ title, verses: [{ h 梵文指纹, en, cmp?: [{ w, note }] }] }] }
+ * 章数、段数、每段指纹都必须和 content/<slug>.json 一致。
+ */
+export function mergeEnglish(book, en, file) {
+  need(en.slug === book.slug, file, `slug 不一致: ${en.slug}`);
+  needText(en.title, `${file} title`);
+  needText(en.summary, `${file} summary`);
+  need(Array.isArray(en.compare) && en.compare.length > 0 && en.compare.every(isText), file, 'compare 至少一段三语对照总结');
+  need(en.chapters?.length === book.chapters.length, file, `章数 ${en.chapters?.length} ≠ 原文 ${book.chapters.length}`);
+  book.en = { title: en.title, summary: en.summary, compare: en.compare };
+  book.chapters.forEach((ch, i) => {
+    const ech = en.chapters[i];
+    const at = `${file} chapters[${i}]`;
+    needText(ech.title, `${at}.title`);
+    need(ech.verses?.length === ch.verses.length, at, `段数 ${ech.verses?.length} ≠ 原文 ${ch.verses.length}`);
+    ch.en = ech.title;
+    ch.verses.forEach((v, j) => {
+      const ev = ech.verses[j];
+      const vat = `${at}.verses[${j}]`;
+      need(ev.h === verseKey(v), vat, `梵文指纹 ${ev.h} ≠ ${verseKey(v)}：原文这一段变了，英译要跟着重译`);
+      needText(ev.en, `${vat}.en`);
+      for (const n of ev.cmp ?? []) {
+        needText(n.w, `${vat}.cmp.w`);
+        needText(n.note, `${vat}.cmp.note`);
+      }
+      v.en = { text: ev.en, ...(ev.cmp?.length ? { cmp: ev.cmp } : {}) };
+    });
+  });
+  return book;
+}
+
+const ROOT = new URL('../', import.meta.url).pathname;
+
+export function loadBooks(dir = join(ROOT, 'content'), enDir = join(ROOT, 'translations/en')) {
   const books = readdirSync(dir)
     .filter((f) => f.endsWith('.json'))
     .map((f) => validateBook(JSON.parse(readFileSync(join(dir, f), 'utf8')), f))
     .sort((a, b) => a.order - b.order || a.slug.localeCompare(b.slug));
+  for (const b of books) {
+    const f = join(enDir, `${b.slug}.json`);
+    if (existsSync(f)) mergeEnglish(b, JSON.parse(readFileSync(f, 'utf8')), `translations/en/${b.slug}.json`);
+  }
   return books;
 }

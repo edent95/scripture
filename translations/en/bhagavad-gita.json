@@ -1,0 +1,4582 @@
+{
+ "slug": "bhagavad-gita",
+ "title": "The Song of the Blessed One",
+ "summary": "On the eve of a great battle, Arjuna cannot bring himself to fight his own family. Krishna tells him: do what is yours to do, but let go of clinging to the results.",
+ "compare": [
+  "整部歌最难翻的是 yoga。白话几乎一律写「瑜伽」，可同一个词在书里至少有四种意思：行动的方法（2.48「一样看待就是 yoga」）、修心与静坐（第六章）、神的本领（9.5 的 yogam aiśvaram）、日常词组里的「获得」（2.45、9.22 的 yoga-kṣema「得与守」）。它的词根 yuj 是「套上轭」，英文用 yoke、yoked 能把这个画面留住，所以 2.38 的 yujyasva 英文是 yoke yourself，白话「投身」就断了。6.23 把 yoga 定义成「与痛苦之结合（saṃyoga）的分离（viyoga）」，三个同根词连着用，英文 unyoking from union 勉强保住，中文只剩意思。",
+  "第二组是 dharma 与 karma。dharma 在书里一会儿是「本分」，一会儿是「正当」，一会儿是「这个教法」或「吠陀仪式的规定」；白话借了佛教的「正法」，英文换着用 duty、what is right、teaching，两边都在随语境换词，梵文却始终是同一个字。karma 本来就是「行动」，英文全程只用 action；白话有时写「行动（业）」，把后来「业报」的意思也带了进来。4.37「知识之火把一切行动烧成灰」正是这个词从「做事」滑向「业」的地方。2.47 的 adhikāra，白话「你只有行动的权利」像法律用语，原意是「你管得着的范围」。",
+  "第三组是借来的宗教词。白话为了让中文读者好懂，借了不少佛教和道家词：ahaṃkāra 译「我慢」，naiṣkarmya 译「无为」，aśvattha 译「菩提树」，loka-traya 译「三界」，smṛti 译「正念」（18.73 原文只是阿周那「想起来了」）。这些词一出现，中文读者会自动套上佛教的意思。英文这边也有同样的问题：asura 译 demonic、naraka 译 hell，带着基督教的联想。guṇa 本义是「一股线、一条绳」，所以经文紧接着说三德「捆绑」人；英文 quality、中文「德」都把绳子丢了，「德」还容易被读成道德。",
+  "第四，梵文的双关和前后呼应，两种译文都很难保住。kāla（11.32「我是时间」）同时是「时间」「死期」和「黑」，而 Kṛṣṇa 的名字本义也是「黑」；英语流行的 I am become Death 只取了死亡。akṣara 既是「不灭」也是「音节」，所以念「唵」就是在念「不灭者」。kṣetra（田）和全书第一句「俱卢之野」是同一个字，身体和战场在梵文里是一回事。3.24 黑天说不行动会造成 saṃkara（混乱），用的正是第一章阿周那担心的「种姓混杂」那个词，把他的理由反过来还给了他。",
+  "最后是称呼与语气。阿周那对黑天的称呼一直在换：诛魔者、莲花眼、毗湿奴……称呼一变，两人的关系也跟着变；白话为了好读几乎一律写「黑天」，这个转折就看不出来，英文保留了原称号并在第一次出现时说明。2.3 黑天骂阿周那 klaibya（「不像个男人」），白话「怯懦」温和得多。本站梵文底本有些地方没有「某某说」（uvāca），英文照白话的做法用括号补上说话人，读者能分清哪些是原文、哪些是补的。"
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · Arjuna's Despair",
+   "verses": [
+    {
+     "h": "4e6acf8d",
+     "en": "(Dhritarashtra said:) Sanjaya, on the field of dharma, the field of the Kurus (Kurukshetra), my own sons and the sons of Pandu gathered, eager to fight. What did they do?",
+     "cmp": [
+      {
+       "w": "dharma-kṣetre kuru-kṣetre",
+       "note": "梵文开头两个词押着同一个尾巴：「dharma 之野、kuru 之野」，像一副对子。英文 the field of dharma, the field of the Kurus 保留了这个对仗；白话合成「正法之地俱卢之野」，读起来像一个地名，对仗的味道就淡了。"
+      },
+      {
+       "w": "māmakāḥ",
+       "note": "māmakāḥ 是「我的人、我这边的」。持国一开口就把「我的」和「般度的」分成两边。英文 my own sons 加了 own 来保住这份偏心；白话「我的儿子们」照字面，口气轻一些。"
+      }
+     ]
+    },
+    {
+     "h": "a3d50742",
+     "en": "Sanjaya said: Then King Duryodhana, seeing the Pandava army drawn up in battle order, went up to his teacher Drona and spoke these words:"
+    },
+    {
+     "h": "1d0f9610",
+     "en": "“Teacher, look at this great army of the sons of Pandu, arrayed by Drupada's son, your own clever student.”",
+     "cmp": [
+      {
+       "w": "tava śiṣyeṇa dhīmatā",
+       "note": "难敌特意说「您那位聪明的弟子」：排阵的猛光正是注定要杀德罗纳的人，德罗纳却照样教了他。这句话带刺，英文和白话都只译了字面，那根刺要知道故事才看得出。"
+      }
+     ]
+    },
+    {
+     "h": "5ac73b46",
+     "en": "“Here are heroes, great archers, equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, a great chariot-warrior;”",
+     "cmp": [
+      {
+       "w": "mahārathaḥ",
+       "note": "mahā-ratha 字面是「大车」，在史诗里是一个武士等级，指能独自对抗大批敌兵的一流车战武士。英文 great chariot-warrior、白话「大车士」都只能照字面译，等级的意思看不出来。"
+      }
+     ]
+    },
+    {
+     "h": "bca7a24e",
+     "en": "“Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Shaibya, a bull among men;”"
+    },
+    {
+     "h": "c741b00b",
+     "en": "“bold Yudhamanyu and valiant Uttamaujas, the son of Subhadra (Abhimanyu), and the sons of Draupadi: every one of them a great chariot-warrior.”"
+    },
+    {
+     "h": "e47e0a22",
+     "en": "“But know also the finest on our own side, best of the twice-born. I will name the leaders of my army, so that you have them in mind.”",
+     "cmp": [
+      {
+       "w": "dvijottama",
+       "note": "dvija「再生者」指受过入门礼、算是「第二次出生」的上层种姓，这里指婆罗门。德罗纳是婆罗门，却在战场上当将领。英文 best of the twice-born、白话「再生者中的佼佼者」都照字面，背后这点反差要靠读者自己看出来。"
+      }
+     ]
+    },
+    {
+     "h": "7cad190d",
+     "en": "“There is you yourself, and Bhishma, Karna, and Kripa, winner of battles; Ashvatthaman, Vikarna, the son of Somadatta, and Jayadratha;”"
+    },
+    {
+     "h": "4922081b",
+     "en": "“and many other heroes ready to give up their lives for my sake, armed with all kinds of weapons, every one of them skilled in war.”"
+    },
+    {
+     "h": "c326e90b",
+     "en": "“That strength of ours, guarded by Bhishma, is not enough; this strength of theirs, guarded by Bhima, is enough.”",
+     "cmp": [
+      {
+       "w": "aparyāptam",
+       "note": "aparyāptam 有两种读法：「不够、不足」，或「无法衡量、无边无际」。照前一种，难敌是在心虚；照后一种，他是在夸自己兵多。英文和白话都取了「不够」，但梵文这句本身是两可的。"
+      }
+     ]
+    },
+    {
+     "h": "86a4c570",
+     "en": "“So all of you, holding your assigned places along every line of approach, must above all protect Bhishma.”"
+    },
+    {
+     "h": "9723afff",
+     "en": "Then, to cheer Duryodhana, the mighty Bhishma, eldest of the Kurus and grandfather to them all, roared a lion's roar and blew his conch."
+    },
+    {
+     "h": "05c0b024",
+     "en": "At once conches and kettledrums, tabors, drums and cow-horns all sounded together, and the noise was tremendous."
+    },
+    {
+     "h": "8b99fb61",
+     "en": "Then, standing in their great chariot yoked with white horses, Madhava (Krishna, descendant of Madhu) and the Pandava (Arjuna, son of Pandu) blew their divine conches.",
+     "cmp": [
+      {
+       "w": "mādhavaḥ pāṇḍavaḥ",
+       "note": "本书几乎不直呼黑天和阿周那的名字，梵文换着用十几个别名：黑天叫 Mādhava（摩豆族后裔）、Hṛṣīkeśa（感官之主）、Keśava、Madhusūdana（诛摩豆者）、Govinda、Janārdana……阿周那叫 Pārtha（普丽塔之子）、Kaunteya（贡蒂之子）、Dhanaṃjaya（赢得财富者）、Bhārata（婆罗多后裔）。英文第一次出现时注上原意，之后照梵文用别名；白话一律写「黑天」「阿周那」，读起来顺，但称呼里的情绪和诗律就没了。"
+      }
+     ]
+    },
+    {
+     "h": "c0e20fa4",
+     "en": "Hrishikesha (Krishna, lord of the senses) blew Panchajanya; Dhananjaya (Arjuna, winner of wealth) blew Devadatta; and Wolf-belly (Bhima), whose deeds are terrible, blew the great conch Paundra."
+    },
+    {
+     "h": "ae5c696d",
+     "en": "King Yudhishthira, son of Kunti, blew Anantavijaya (Endless Victory); Nakula and Sahadeva blew Sughosha (Sweet-sound) and Manipushpaka (Jewel-flower)."
+    },
+    {
+     "h": "c5a8e842",
+     "en": "The king of Kashi, a supreme archer; Shikhandin, a great chariot-warrior; Dhrishtadyumna and Virata, and Satyaki the unconquered;"
+    },
+    {
+     "h": "666125b1",
+     "en": "Drupada and the sons of Draupadi, O lord of the earth, and the strong-armed son of Subhadra: each of them, one after another, blew his conch."
+    },
+    {
+     "h": "dc17ded4",
+     "en": "That uproar, resounding through sky and earth, tore at the hearts of Dhritarashtra's sons."
+    },
+    {
+     "h": "6dc687bd",
+     "en": "Then the son of Pandu, whose banner bears a monkey, saw Dhritarashtra's sons drawn up in order. Just as the weapons were about to clash, he raised his bow"
+    },
+    {
+     "h": "70750b13",
+     "en": "and said these words to Hrishikesha, O lord of the earth: “Achyuta (the one who never falls), set my chariot between the two armies,”"
+    },
+    {
+     "h": "59240f2b",
+     "en": "“so that I may look over these men standing here hungry for battle, and see whom I must fight in this undertaking of war.”"
+    },
+    {
+     "h": "5be0abf9",
+     "en": "“I want to see those gathered here to fight, eager to please Dhritarashtra's evil-minded son in battle.”"
+    },
+    {
+     "h": "319b4629",
+     "en": "Spoken to in this way by Gudakesha (Arjuna, master of sleep), O Bharata (Dhritarashtra, descendant of Bharata), Hrishikesha set that finest of chariots between the two armies,",
+     "cmp": [
+      {
+       "w": "guḍākeśa",
+       "note": "Guḍākeśa 有两种拆法：「战胜睡眠的人」，或「头发浓密卷曲的人」。注释家多取前一种，用来说阿周那警醒。英文取了前一种；白话直接写「阿周那」，别名就看不见了。黑天的 Hṛṣīkeśa 也一样，可以是「感官之主」，也可以是「头发竖立的人」。"
+      }
+     ]
+    },
+    {
+     "h": "adc00ea8",
+     "en": "facing Bhishma and Drona and all the rulers of the earth, and said: “Partha (Arjuna, son of Pritha), look at these Kurus gathered together.”",
+     "cmp": [
+      {
+       "w": "kurūn",
+       "note": "黑天说「看这些俱卢人」。其实两边都是俱卢的后代，般度五子也是俱卢族。黑天偏偏用这个两边共有的名字，正好让阿周那看到对面全是自家人。英文 Kurus、白话「俱卢族人」都照译，这层双关要点出来才看得到。"
+      }
+     ]
+    },
+    {
+     "h": "058d0f44",
+     "en": "There Partha saw, standing in both armies, fathers and grandfathers, teachers, uncles, brothers, sons, grandsons and friends,"
+    },
+    {
+     "h": "2db8d87d",
+     "en": "fathers-in-law and dear companions as well. Seeing all these kinsmen standing there, the son of Kunti"
+    },
+    {
+     "h": "626267a5",
+     "en": "was overcome with deep pity, and said in dismay: “Krishna, when I see my own people here, lined up and eager to fight,",
+     "cmp": [
+      {
+       "w": "kṛpā",
+       "note": "kṛpā 在这里是「怜悯」，带着心软、心乱的味道，第二章开头黑天就会说这份 kṛpā 不该有。英文 pity 比 compassion 更贴近这层不那么正面的意思；白话「怜悯」也对，只是中文读者容易把它当成美德。"
+      }
+     ]
+    },
+    {
+     "h": "b4704622",
+     "en": "“my limbs give way, my mouth goes dry, my body trembles and my hair stands on end;”"
+    },
+    {
+     "h": "bc7a1ddf",
+     "en": "“Gandiva (my bow) slips from my hand, my skin is burning, I cannot stand steady, and my mind seems to be spinning.”"
+    },
+    {
+     "h": "d0927b7f",
+     "en": "“Keshava (Krishna), I see bad omens, and I can see no good in killing my own people in battle.”"
+    },
+    {
+     "h": "c17a03ae",
+     "en": "“Krishna, I do not want victory, or a kingdom, or pleasures. What is a kingdom to us, Govinda (Krishna, finder of cows), what are enjoyments, or even life itself?”"
+    },
+    {
+     "h": "bd56dbd6",
+     "en": "“The very people for whose sake we wanted kingdom, enjoyment and pleasure stand here in battle, having staked their lives and their wealth:”"
+    },
+    {
+     "h": "cb53648e",
+     "en": "“teachers, fathers, sons, and grandfathers too; uncles, fathers-in-law, grandsons, brothers-in-law, and other relations.”"
+    },
+    {
+     "h": "6f1f4458",
+     "en": "“Even if they kill me, Madhusudana (Krishna, slayer of the demon Madhu), I do not want to kill them, not even for rule over the three worlds, let alone for this earth.”"
+    },
+    {
+     "h": "e0f9e44f",
+     "en": "“What joy could we have from killing Dhritarashtra's sons, Janardana (Krishna)? Only sin would cling to us for killing these aggressors.”",
+     "cmp": [
+      {
+       "w": "ātatāyin",
+       "note": "ātatāyin 是法典里的专门词，指放火、下毒、持刀行凶、抢夺财产和妻子的人；按法典，杀这种人不算罪。阿周那明知对方是 ātatāyin，却说杀了仍会有罪，这正是他的两难。白话「行凶作恶的人」、英文 aggressors 都看不出这层法律背景。"
+      }
+     ]
+    },
+    {
+     "h": "3b7fd812",
+     "en": "“So it is not right for us to kill Dhritarashtra's sons, our own kinsmen. How could we be happy after killing our own people, Madhava?”"
+    },
+    {
+     "h": "9af7a337",
+     "en": "“Even if they, their minds struck down by greed, do not see the wrong in destroying a family or the crime in betraying friends,”"
+    },
+    {
+     "h": "df059406",
+     "en": "“how could we not know enough to turn back from this sin, Janardana, we who see clearly the wrong in destroying a family?”"
+    },
+    {
+     "h": "cc2ace25",
+     "en": "“When a family is destroyed, its age-old family dharma (the duties and rites that hold it together) perishes; and when dharma is lost, lawlessness overruns the whole family.”",
+     "cmp": [
+      {
+       "w": "dharma",
+       "note": "dharma 是全书最难译的词。它来自「撑住」这个词根，指把事物撑住的东西：天地的秩序、社会的规矩、家族的礼法、一个人该尽的本分，都叫 dharma。白话通常译「正法」，偏宗教；英文常译 duty，偏个人责任。这里是 kula-dharma「家族的 dharma」，主要指祭祖等家族礼法，所以英文加注 the duties and rites；本书英文按上下文在 duty 和 dharma 之间换用。"
+      },
+      {
+       "w": "adharma",
+       "note": "adharma 是 dharma 的反面。白话译「非法」，容易被读成「违法」；英文 lawlessness 更接近原意：秩序崩坏、该守的都不守了。"
+      }
+     ]
+    },
+    {
+     "h": "3e243be8",
+     "en": "“When lawlessness takes over, Krishna, the women of the family go astray; and when the women go astray, Varshneya (Krishna, of the Vrishni clan), the classes (varnas) become mixed.”",
+     "cmp": [
+      {
+       "w": "varṇa-saṃkara",
+       "note": "varṇa 字面是「颜色」，指古印度社会的四个等级（祭司、武士、农商、仆役）。白话译「种姓」，英文译 classes 并保留 varnas。阿周那担心的是血统与等级混杂，这是那个时代的社会观念，英文和白话都照实译出，既不替它辩护，也不淡化。"
+      }
+     ]
+    },
+    {
+     "h": "6980c76f",
+     "en": "“This mixing drags both the family-destroyers and the family itself to hell; for their ancestors fall too, cut off from the offerings of rice-balls and water.”",
+     "cmp": [
+      {
+       "w": "piṇḍodaka",
+       "note": "piṇḍa 是祭祖用的饭团，udaka 是水。古印度人相信祖先在另一个世界要靠子孙按时供奉；家族断了，供奉就断了，祖先也就「掉下去」。英文 rice-balls and water 和白话一样照字面译。"
+      }
+     ]
+    },
+    {
+     "h": "73fba2f3",
+     "en": "“Through these wrongs of the family-destroyers, which bring about the mixing of classes, the dharma of the birth-group and the ancient dharma of the family are uprooted.”"
+    },
+    {
+     "h": "88365e33",
+     "en": "“Janardana, we have heard it said that people whose family dharma has been uprooted surely dwell in hell.”"
+    },
+    {
+     "h": "94eb0a4c",
+     "en": "“Alas! What a great sin we have set our minds on committing, ready to kill our own people out of greed for the pleasures of a kingdom!”"
+    },
+    {
+     "h": "6b0a604a",
+     "en": "“It would be better for me if Dhritarashtra's sons, weapons in hand, killed me in battle, unarmed and not fighting back.”"
+    },
+    {
+     "h": "bbe7255c",
+     "en": "Having spoken this way on the battlefield, Arjuna sank down on the seat of his chariot and let fall his bow and arrows, his mind shaken with grief."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · The Yoga of Sankhya, the Way of Knowing",
+   "verses": [
+    {
+     "h": "3d9c3705",
+     "en": "Sanjaya said: To him, overcome with pity like this, his eyes troubled and full of tears, sinking in despair, Madhusudana spoke these words."
+    },
+    {
+     "h": "bc6d08b7",
+     "en": "(The Blessed Lord said:) “Arjuna, where has this faintness of heart come from, at such a moment of danger? It is not what a noble person does; it does not lead to heaven, and it brings disgrace.”",
+     "cmp": [
+      {
+       "w": "anārya-juṣṭa",
+       "note": "anārya-juṣṭa 字面是「非 ārya 的人才会做的」。ārya 本指「高贵、有教养的人」，跟后世的种族说法无关。英文 not what a noble person does、白话「不是高贵的人该有的样子」都译出了意思。"
+      }
+     ]
+    },
+    {
+     "h": "37e60165",
+     "en": "“Partha, do not give in to this unmanliness; it does not suit you. Throw off this petty weakness of heart and stand up, scorcher of foes!”",
+     "cmp": [
+      {
+       "w": "klaibya",
+       "note": "klaibya 来自 klība「阉人、无生育力的人」，是很重的羞辱话：你不像个男人。白话译「怯懦」温和了许多；英文 unmanliness 保留了一点原话的刺。"
+      }
+     ]
+    },
+    {
+     "h": "ec5d7f40",
+     "en": "(Arjuna said:) “Madhusudana, how can I shoot arrows in battle at Bhishma and Drona? They deserve my reverence, slayer of enemies!”",
+     "cmp": [
+      {
+       "w": "madhusūdana / arisūdana",
+       "note": "阿周那一句里用了两个 sūdana「诛杀者」：Madhusūdana「诛摩豆者」、arisūdana「诛敌者」。言下之意：你是杀敌的，可这两位不是敌人，是该敬拜的人。白话只剩一个「黑天」，这个对照就没了。"
+      }
+     ]
+    },
+    {
+     "h": "7456672e",
+     "en": "“Better to live in this world on beggars' food than to kill these great-souled teachers. If I kill my teachers, even though they want gain, every pleasure I enjoy here will be smeared with blood.”",
+     "cmp": [
+      {
+       "w": "artha-kāmān",
+       "note": "artha-kāmān 可以读成「贪图财利的」（形容这些长辈），也可以读成「财利和欲乐」（指阿周那将来要享受的东西）。白话和英文都取了前一种，但这句的读法古来就有争议。"
+      }
+     ]
+    },
+    {
+     "h": "beb2e25a",
+     "en": "“Nor do we know which is better for us: that we should win, or that they should win over us. There facing us stand Dhritarashtra's sons, the very people after whose killing we would not want to live.”"
+    },
+    {
+     "h": "e6f7a2f8",
+     "en": "“My very nature is struck down by the fault of pitiful weakness, and my mind is confused about what dharma asks of me. I ask you: tell me for certain what is the better way. I am your student; I have come to you for refuge. Teach me.”",
+     "cmp": [
+      {
+       "w": "kārpaṇya",
+       "note": "kārpaṇya 本义是「可怜相、小气」，指一种缩手缩脚、自怜的心态。白话译「懦弱」，英文 pitiful weakness，都只抓住一半。"
+      },
+      {
+       "w": "dharma-saṃmūḍha",
+       "note": "「对 dharma 心里糊涂」：阿周那不是不知道规矩，而是两种 dharma 撞车了：武士要战斗，家族要保全。白话「对什么是正法也糊涂了」，英文 confused about what dharma asks of me，把「该怎么做」的意思补了出来。"
+      }
+     ]
+    },
+    {
+     "h": "f42c3ee9",
+     "en": "“For I cannot see what would drive away this grief that dries up my senses, not even if I won an unrivalled, prosperous kingdom on earth, or lordship over the gods themselves.”"
+    },
+    {
+     "h": "9b68ee93",
+     "en": "Sanjaya said: Having spoken this way to Hrishikesha, Gudakesha, scorcher of foes, said to Govinda, “I will not fight,” and fell silent."
+    },
+    {
+     "h": "ef2cc5b5",
+     "en": "Then, O Bharata, there between the two armies, Hrishikesha, as if smiling, spoke these words to the man sinking in despair."
+    },
+    {
+     "h": "53992d7d",
+     "en": "The Blessed Lord said: “You grieve for those who need no grieving, and yet you speak words that sound wise. The truly learned grieve neither for the dead nor for the living.”",
+     "cmp": [
+      {
+       "w": "bhagavān",
+       "note": "bhagavān 字面是「拥有福分（bhaga）的人」，是对神或圣者的尊称。白话随佛经译「世尊」，英文 The Blessed Lord。两个译法都带着某个宗教的口吻；梵文本身只是一个敬称。"
+      }
+     ]
+    },
+    {
+     "h": "a74308c9",
+     "en": "“Never was there a time when I did not exist, nor you, nor these kings; and never will there come a time hereafter when any of us ceases to be.”"
+    },
+    {
+     "h": "f0b792fb",
+     "en": "“Just as the embodied one passes through childhood, youth and old age in this body, so it passes on to another body. A steady person is not confused by this.”",
+     "cmp": [
+      {
+       "w": "dehin",
+       "note": "dehin「有身者」、śarīrin「住在身体里的」：Gita 讲「真我」时常不用 ātman，而用这类词，强调「它住在身体里，但不是身体」。白话「有身者」有点生硬，英文 the embodied one 也一样，好处是都贴着梵文。"
+      }
+     ]
+    },
+    {
+     "h": "4342c5dc",
+     "en": "“Son of Kunti, the senses' contact with their objects brings cold and heat, pleasure and pain. These come and go; they do not last. Bear with them, Bharata.”"
+    },
+    {
+     "h": "c00969a2",
+     "en": "“The one whom these do not disturb, bull among men, the steady one who stays the same in pain and pleasure, is fit for immortality.”"
+    },
+    {
+     "h": "2a55f52c",
+     "en": "“What is unreal never comes to be; what is real never ceases to be. Those who see things as they are have seen to the end of both.”",
+     "cmp": [
+      {
+       "w": "asat / sat",
+       "note": "sat 一个词同时有「存在」和「真实、好」的意思。白话取了「存在 / 不存在」，英文取了 real / unreal，两种都是常见读法，翻成任何一种语言都只能挑一边。"
+      }
+     ]
+    },
+    {
+     "h": "62933636",
+     "en": "“Know that what pervades this whole world cannot be destroyed. No one can bring about the destruction of what is imperishable.”"
+    },
+    {
+     "h": "56a7c8f2",
+     "en": "“These bodies, it is said, come to an end, but the one who dwells in the body is eternal, indestructible and beyond measure. So fight, Bharata!”"
+    },
+    {
+     "h": "51d95977",
+     "en": "“Whoever thinks it is a killer, and whoever thinks it is killed, both fail to understand. It does not kill, and it is not killed.”"
+    },
+    {
+     "h": "7fe17a86",
+     "en": "“It is never born and it never dies. It did not come into being, and it will not stop being. Unborn, eternal, everlasting, ancient, it is not killed when the body is killed.”"
+    },
+    {
+     "h": "24097756",
+     "en": "“Partha, if a person knows it to be indestructible, eternal, unborn and unchanging, how can that person kill anyone, or cause anyone to be killed?”"
+    },
+    {
+     "h": "7ffc84ad",
+     "en": "“As a man throws away worn-out clothes and puts on other, new ones, so the embodied one throws away worn-out bodies and enters other, new ones.”"
+    },
+    {
+     "h": "a0d3c86a",
+     "en": "“Weapons do not cut it, fire does not burn it, water does not wet it, wind does not dry it.”"
+    },
+    {
+     "h": "1ee08ae2",
+     "en": "“It cannot be cut, burned, wetted or dried. It is eternal, present everywhere, firm, unmoving, everlasting.”"
+    },
+    {
+     "h": "c293676b",
+     "en": "“It is called unmanifest, beyond thought, unchanging. So, knowing it to be like this, you should not grieve.”"
+    },
+    {
+     "h": "32833e85",
+     "en": "“And even if you think it is constantly born and constantly dies, mighty-armed one, even then you should not grieve like this.”"
+    },
+    {
+     "h": "b4314c89",
+     "en": "“For death is certain for whatever is born, and birth is certain for whatever has died. So you should not grieve over what cannot be avoided.”"
+    },
+    {
+     "h": "44bf5906",
+     "en": "“Beings are unmanifest in their beginning, manifest in their middle, and unmanifest again at their end, Bharata. What is there to lament in that?”",
+     "cmp": [
+      {
+       "w": "avyakta",
+       "note": "avyakta「未显现的」是数论哲学的术语，指还没展开成可见世界的状态，像种子还没长成树。白话「不显现」、英文 unmanifest 都照字面，在中文和英文里都不是日常词。"
+      }
+     ]
+    },
+    {
+     "h": "e560f73e",
+     "en": "“One person sees it as a marvel; another speaks of it as a marvel; another hears of it as a marvel; yet even after hearing, no one really knows it.”"
+    },
+    {
+     "h": "df06de51",
+     "en": "“This embodied one, dwelling in everyone's body, can never be killed, Bharata. So you should not grieve for any being at all.”"
+    },
+    {
+     "h": "c8e8935c",
+     "en": "“And look at your own duty (svadharma): you should not waver. For a warrior there is nothing better than a battle that is right by dharma.”",
+     "cmp": [
+      {
+       "w": "sva-dharma",
+       "note": "sva-dharma「自己的 dharma」，指按出身和角色该尽的本分。阿周那是 kṣatriya（武士阶层），他的本分就是打仗。白话「职责」、英文 your own duty 都偏个人责任，少了「由出身决定」这一层。"
+      },
+      {
+       "w": "dharmya yuddha",
+       "note": "「合乎 dharma 的战斗」：白话「合乎正法的战斗」，英文 a battle that is right by dharma。这里不能译成 holy war，梵文没有「神圣」的意思，说的是「正当、合规矩」。"
+      }
+     ]
+    },
+    {
+     "h": "4fca6311",
+     "en": "“Happy are the warriors, Partha, who come upon a war like this by chance: a door to heaven standing open.”"
+    },
+    {
+     "h": "144a3186",
+     "en": "“But if you will not fight this rightful battle, you will throw away your own duty and your good name, and you will incur sin.”"
+    },
+    {
+     "h": "bd802f6e",
+     "en": "“People will tell of your disgrace forever, and for a man who has been honored, disgrace is worse than death.”"
+    },
+    {
+     "h": "0785dc27",
+     "en": "“The great chariot-warriors will think you withdrew from battle out of fear, and those who thought highly of you will think little of you.”"
+    },
+    {
+     "h": "80dc7eed",
+     "en": "“Your enemies will say many things that should not be said, mocking your ability. What could be more painful than that?”"
+    },
+    {
+     "h": "e8c4c683",
+     "en": "“If you are killed, you will reach heaven; if you win, you will enjoy the earth. So stand up, son of Kunti, determined to fight.”"
+    },
+    {
+     "h": "98ac5510",
+     "en": "“Treat alike pleasure and pain, gain and loss, victory and defeat, and then yoke yourself to the fight. That way you will not incur sin.”",
+     "cmp": [
+      {
+       "w": "yujyasva",
+       "note": "yujyasva「把自己套上去」，和 yoga 同一个词根 yuj（套轭、联结）。英文 yoke yourself 留住了这个词根；白话「投身」很自然，但看不出它和下一节的「瑜伽」是同一个词。"
+      }
+     ]
+    },
+    {
+     "h": "c21422fe",
+     "en": "“What I have told you so far is understanding as Sankhya sees it. Now hear it as yoga teaches it. Joined to this understanding, Partha, you will throw off the bondage of action.”",
+     "cmp": [
+      {
+       "w": "buddhi",
+       "note": "buddhi 来自 budh「醒来、知道」，指能判断、能下决定的那部分心智，也指由此得来的见解。白话这里译「见解」，后面又译「智慧」「心」「理智」；英文本书统一用 understanding，读者可以顺着这个词看到全书的线索。"
+      },
+      {
+       "w": "sāṃkhya / yoga",
+       "note": "这里的 sāṃkhya 和 yoga 还不完全是后来两个哲学派别的名字，更像两种讲法：一种靠分析看清真我，一种讲怎么去做。白话直接用派名「数论」「瑜伽」，英文保留 Sankhya 和 yoga 原词。"
+      },
+      {
+       "w": "karma-bandha",
+       "note": "karma 本义就是「行动、做事」，后来才引申出「行为留下的后果」，也就是中文熟悉的「业」。白话这里写「行动（业）」两个都给；英文本书用 action，不用 karma，免得读者一看就想到「报应」。"
+      }
+     ]
+    },
+    {
+     "h": "347e2bcf",
+     "en": "“On this path no effort is wasted and nothing goes backward. Even a little of this practice protects you from great fear.”",
+     "cmp": [
+      {
+       "w": "dharmasya",
+       "note": "这里的 dharma 不是「职责」，而是「这种修法、这条路」。白话译「法」，英文译 practice：同一个 dharma，在书里换了好几种意思。"
+      }
+     ]
+    },
+    {
+     "h": "9bcc629a",
+     "en": "“Here, joy of the Kurus, the understanding that is resolved is one. The thoughts of the irresolute branch out without end.”"
+    },
+    {
+     "h": "7ad4c11c",
+     "en": "“Partha, there is a flowery speech that the unwise proclaim, delighting in the letter of the Vedas and saying, ‘There is nothing else.’"
+    },
+    {
+     "h": "704a0947",
+     "en": "“Full of desire, bent on heaven, they hold out rebirth as the fruit of action, with its many special rites aimed at pleasure and power.”",
+     "cmp": [
+      {
+       "w": "phala",
+       "note": "phala 本义是「果子」，「行动的果」就是结果、回报。白话译「果报」，带着佛教味；英文 fruit of action 保留了果子这个比喻，本书后面一直这么用。"
+      }
+     ]
+    },
+    {
+     "h": "94b6bd95",
+     "en": "“Those who cling to pleasure and power, whose minds are carried off by that speech, do not have the resolved understanding that rests in samadhi (deep concentration).”",
+     "cmp": [
+      {
+       "w": "samādhi",
+       "note": "samādhi 字面是「放在一起、聚拢」，指心完全集中。白话沿用佛经译名「三昧」，中文读者多少熟悉；英文保留 samadhi，第一次加注 deep concentration。"
+      }
+     ]
+    },
+    {
+     "h": "2a08c577",
+     "en": "“The Vedas deal with the realm of the three qualities (gunas). Arjuna, be free of the three qualities, free of the pairs of opposites, always grounded in clarity (sattva), not caring about getting and keeping, master of yourself.”",
+     "cmp": [
+      {
+       "w": "traiguṇya",
+       "note": "guṇa 原义是「绳子的一股」，引申为「性质」。数论说万物由三股编成：sattva（明净）、rajas（躁动）、tamas（昏沉）。白话译「三德」，「德」字容易让人想到道德；英文 the three qualities (gunas) 中性一些。"
+      },
+      {
+       "w": "yoga-kṣema",
+       "note": "yoga-kṣema 是固定词：「得到新的」（yoga）与「保住已有的」（kṣema）。这里的 yoga 跟修行无关，只是「获得」。英文 getting and keeping、白话「不求获得、不求保有」都译对了，但读者看不到这里也藏着一个 yoga。"
+      }
+     ]
+    },
+    {
+     "h": "c8a09ea2",
+     "en": "“As much use as there is in a well when water floods everywhere, so much use is there in all the Vedas for a brahmin who truly knows.”"
+    },
+    {
+     "h": "b18c159c",
+     "en": "“Your concern is with the action alone, never with its fruits. Do not let the fruit of action be your motive, and do not cling to doing nothing either.”",
+     "cmp": [
+      {
+       "w": "adhikāra",
+       "note": "adhikāra 是「管辖范围、份内的事」。白话译「权利」，听起来像法律上的权利，好像在说「你没资格要结果」；英文 your concern is with 更接近原意：你管得着的只有行动本身。"
+      }
+     ]
+    },
+    {
+     "h": "1fd3a72e",
+     "en": "“Steady in yoga, do your work, Dhananjaya, letting go of attachment, the same in success and failure. This sameness is what is called yoga.”",
+     "cmp": [
+      {
+       "w": "yoga",
+       "note": "yoga 来自 yuj「套上轭、联结」，本义是「套车、约束、用心」。Gita 里它很少指体式练习，多半指一种做事、用心的方式。这一节直接下定义：samatva「一样看待」就是 yoga。白话音译「瑜伽」，中文读者先想到健身；英文保留 yoga 原词，靠这一句的定义来纠正。"
+      }
+     ]
+    },
+    {
+     "h": "408471b0",
+     "en": "“Mere action is far below the yoga of understanding, Dhananjaya. Seek refuge in understanding. Pitiful are those whose motive is the fruit.”",
+     "cmp": [
+      {
+       "w": "kṛpaṇāḥ",
+       "note": "kṛpaṇa「可怜的、小气的」，和 2.7 阿周那说自己的 kārpaṇya 是同一个词根。黑天把这个词还给了那些只盯着结果的人。白话「可怜」、英文 pitiful 都看不出这层呼应。"
+      }
+     ]
+    },
+    {
+     "h": "bab41e5f",
+     "en": "“One who is joined to understanding leaves behind both good deeds and bad deeds, here in this life. So yoke yourself to yoga: yoga is skill in action.”",
+     "cmp": [
+      {
+       "w": "kauśala",
+       "note": "yogaḥ karmasu kauśalam 是本书最常被引用的一句。kauśala 是「熟练、灵巧」，像工匠的手艺，不是「取巧」。英文 skill in action 很贴；白话「行动中的巧妙」，「巧妙」二字略带点机灵的意思。"
+      }
+     ]
+    },
+    {
+     "h": "b1d24cc9",
+     "en": "“The wise, joined to understanding, let go of the fruit born of action. Freed from the bondage of birth, they go to the place beyond all sorrow.”"
+    },
+    {
+     "h": "7eaf176e",
+     "en": "“When your understanding crosses beyond the thicket of delusion, you will grow weary of all that you have heard and all that is still to be heard.”",
+     "cmp": [
+      {
+       "w": "nirveda",
+       "note": "「听过的和要听的」暗指经典里的说法（吠陀就叫 śruti「所听闻的」）。nirveda 是「厌倦、看淡」，指对那些仪式说法不再上心，而不是对一切都无所谓。白话「不再在意」、英文 grow weary of 都只译出一半，要连着 2.42–46 读。"
+      }
+     ]
+    },
+    {
+     "h": "eee3889f",
+     "en": "“When your understanding, now pulled this way and that by what scripture says, stands firm and unmoving in samadhi, then you will reach yoga.”"
+    },
+    {
+     "h": "1fee8487",
+     "en": "Arjuna said: “Keshava, how would you describe a person of steady wisdom, one who rests in samadhi? How does a person of steady mind speak? How does he sit? How does he walk?”",
+     "cmp": [
+      {
+       "w": "sthita-prajña",
+       "note": "sthita-prajña「智慧站稳了的人」，从这里一直讲到本章结尾，是一幅理想人格的画像。白话「智慧坚定的人」、英文 a person of steady wisdom 都照字面。梵文的 bhāṣā 也可以是「定义、描述」，所以阿周那其实先问「这种人怎么界定」，再问坐卧行走。"
+      }
+     ]
+    },
+    {
+     "h": "b08b8941",
+     "en": "(The Blessed Lord said:) “Partha, when a person gives up all the desires that enter the mind, and is content in the self, by the self alone, then he is called a person of steady wisdom.”",
+     "cmp": [
+      {
+       "w": "ātman",
+       "note": "ātmany evātmanā tuṣṭaḥ「在自己里面、凭自己而满足」。ātman 在梵文里既是普通的反身代词「自己」，也是哲学上的「真我」。白话「单凭自己就在自身中」偏日常；英文 the self 用小写，故意同时留着两种读法，不像「真我」那样定死。"
+      }
+     ]
+    },
+    {
+     "h": "066ce594",
+     "en": "“One whose mind is not shaken by sorrows, who has no craving for pleasures, who is free of passion, fear and anger: such a person is called a sage of steady mind.”",
+     "cmp": [
+      {
+       "w": "muni",
+       "note": "muni 原义可能是「沉默者」，指苦修的圣者。白话音译「牟尼」（和「释迦牟尼」是同一个词），英文意译 sage。"
+      }
+     ]
+    },
+    {
+     "h": "e02d3b73",
+     "en": "“One who is attached to nothing anywhere, who neither rejoices nor resents when good or bad comes his way: his wisdom stands firm.”"
+    },
+    {
+     "h": "ba57fe48",
+     "en": "“And when he draws his senses back from their objects on every side, the way a tortoise draws in its limbs, his wisdom stands firm.”"
+    },
+    {
+     "h": "89c3667a",
+     "en": "“For the embodied one who does not feed on them, the objects of the senses fall away, but the taste for them remains. Even that taste falls away once he has seen the highest.”",
+     "cmp": [
+      {
+       "w": "rasa",
+       "note": "rasa 是「味道、汁液」，引申为「兴致、渴望」。这一节说：不吃，东西会退去，可「馋」还在。白话「滋味（渴求）」、英文 taste 都保住了吃的比喻。"
+      }
+     ]
+    },
+    {
+     "h": "eb11b2b8",
+     "en": "“For even when a discerning person is striving, son of Kunti, the turbulent senses forcibly carry off his mind.”"
+    },
+    {
+     "h": "e2e6199c",
+     "en": "“Restraining all of them, he should sit disciplined, intent on me. For one whose senses are under control, his wisdom stands firm.”",
+     "cmp": [
+      {
+       "w": "mat-paraḥ",
+       "note": "mat-paraḥ「以我为至高」，是本书第一次要人专注于「我」。从这里起，说话的「我」既是驾车的黑天，也是神。白话「以我为最高目标」、英文 intent on me 都照字面，这份双重身份要往后读才清楚。"
+      }
+     ]
+    },
+    {
+     "h": "52a3ee50",
+     "en": "“When a man dwells on the objects of the senses, attachment to them arises. From attachment comes desire, and from desire comes anger.”"
+    },
+    {
+     "h": "fe9f9a40",
+     "en": "“From anger comes confusion; from confusion, a lapse of memory; from the loss of memory, the ruin of understanding; and with understanding ruined, he is lost.”",
+     "cmp": [
+      {
+       "w": "smṛti",
+       "note": "smṛti 是「记忆」，在这里更像「记得自己是谁、该做什么」的那份清醒。白话「记忆错乱」、英文 lapse of memory 都照字面，读的时候要往「忘了本」那边想。"
+      }
+     ]
+    },
+    {
+     "h": "f84377b1",
+     "en": "“But one who moves among the objects of the senses with senses free of craving and aversion, under his own control, master of himself, reaches a clear calm.”",
+     "cmp": [
+      {
+       "w": "prasāda",
+       "note": "prasāda 字面是「澄清」，像浑水沉淀后变清，也有「恩惠」的意思。白话「澄明安宁」很贴，英文 a clear calm 取的也是澄清这一面。"
+      }
+     ]
+    },
+    {
+     "h": "12d4d8a6",
+     "en": "“In that calm, all his sorrows come to an end; for when the mind is clear, understanding soon becomes steady.”"
+    },
+    {
+     "h": "2bb9dab7",
+     "en": "“The undisciplined have no understanding, and no power of focus. Without that focus there is no peace, and without peace, where is happiness?”",
+     "cmp": [
+      {
+       "w": "bhāvanā",
+       "note": "bhāvanā 是「使之成为、反复熏习」，后来佛教用它指「修」。白话「专注的观想」、英文 power of focus，各取了一面。"
+      }
+     ]
+    },
+    {
+     "h": "733acf34",
+     "en": "“When the mind follows the wandering senses, it carries off his wisdom, as the wind carries off a ship on the water.”"
+    },
+    {
+     "h": "94e4b414",
+     "en": "“So, mighty-armed one, when a person's senses are fully held back from their objects, his wisdom stands firm.”"
+    },
+    {
+     "h": "169f2735",
+     "en": "“What is night for all beings, in that the self-controlled one is awake; and what all beings are awake in, that is night for the sage who sees.”"
+    },
+    {
+     "h": "afc54cd8",
+     "en": "“As the waters flow into the ocean, which is always being filled yet stays unmoved in its place, so the one into whom all desires flow finds peace, not the one who desires desires.”",
+     "cmp": [
+      {
+       "w": "kāma-kāmī",
+       "note": "kāma-kāmī「想要欲望的人」，梵文把同一个词叠在一起。英文 the one who desires desires 照搬了这个叠字；白话「追逐欲望的人」意思对，叠字没了。"
+      }
+     ]
+    },
+    {
+     "h": "c830d5a0",
+     "en": "“The man who gives up all desires and moves through life without craving, without ‘mine’, without ‘I’, attains peace.”",
+     "cmp": [
+      {
+       "w": "ahaṃkāra",
+       "note": "ahaṃkāra 字面是「造出『我』的东西」，即自我意识、我执。白话「『我』的傲慢」偏道德评价，英文 without ‘I’ 照字面。nirmama「没有『我的』」两边都译成了「我的」。"
+      }
+     ]
+    },
+    {
+     "h": "5bb00c18",
+     "en": "“This is the state of Brahman, Partha. Reaching it, one is no longer deluded. Remaining in it even at the hour of death, one attains the nirvana of Brahman.”",
+     "cmp": [
+      {
+       "w": "brahman",
+       "note": "brahman 英文写 Brahman，白话写「梵」，指一切背后的终极实在。这里的 brāhmī sthiti 是「梵的境界」，不是「婆罗门的境界」，虽然两个词同源。"
+      },
+      {
+       "w": "brahma-nirvāṇa",
+       "note": "nirvāṇa 本义是「吹灭、熄灭」，是佛教最常用的词之一。这里把「梵」和「涅槃」放在一起，白话「梵涅槃」、英文 the nirvana of Brahman 都保留原词，读者能看到 Gita 和佛教共用一套词汇。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · The Yoga of Action",
+   "verses": [
+    {
+     "h": "7679d8ef",
+     "en": "Arjuna said: “Janardana, if you hold that understanding is better than action, then why, Keshava, do you urge me into this terrible action?”",
+     "cmp": [
+      {
+       "w": "karmaṇi ghore",
+       "note": "阿周那用的正是 karma 这个词：「可怕的行动」。黑天讲「行动」，在他听来就是「去杀人」。英文两处都用 action，保住了这层错位；白话前面译「行动」、后面译「可怕的事」，同一个词被拆开了。"
+      }
+     ]
+    },
+    {
+     "h": "9d2b399a",
+     "en": "“With words that seem mixed, you seem to confuse my understanding. Tell me one thing for certain, the one by which I may reach what is best.”"
+    },
+    {
+     "h": "9176e0fb",
+     "en": "The Blessed Lord said: “Blameless one, as I said before, there are two ways of standing firm in this world: the yoga of knowledge for those who follow Sankhya, and the yoga of action for those who follow yoga.”",
+     "cmp": [
+      {
+       "w": "niṣṭhā",
+       "note": "niṣṭhā「立足点、站稳的地方」。白话译「修行之道」，英文 ways of standing firm 贴着字面。purā proktā「从前说过」可以指刚才第二章说过，也可以指「自古就说过」，白话和英文都留着两可。"
+      }
+     ]
+    },
+    {
+     "h": "6bd2fadb",
+     "en": "“A person does not reach freedom from action by not starting any action, nor does he reach perfection by renunciation alone.”",
+     "cmp": [
+      {
+       "w": "naiṣkarmya",
+       "note": "naiṣkarmya「无业、无为」：不是什么都不做，而是做事却不再被行动捆住。白话译「无为」，中文读者会想到老庄，两者有相通处，但这里的重点是「不受束缚」。英文 freedom from action 也容易被读成「不做事」，要看下文才明白。"
+      }
+     ]
+    },
+    {
+     "h": "470dd8dc",
+     "en": "“For no one can remain even for a moment without doing something. Everyone is driven to act, whether he wants to or not, by the qualities born of nature.”",
+     "cmp": [
+      {
+       "w": "prakṛti",
+       "note": "prakṛti 本义是「最初做出来的东西」，在数论里指一切物质和心理活动的根源，和纯粹意识（puruṣa）相对。白话译「原质」，太生僻；英文 nature 又太日常，读者会想到大自然。这一节的意思是：身心本身就一直在动，人停不下来。"
+      }
+     ]
+    },
+    {
+     "h": "0b13b6b9",
+     "en": "“One who holds back his organs of action but sits there with his mind dwelling on the objects of the senses is deluding himself; he is called a hypocrite.”"
+    },
+    {
+     "h": "1db05dd4",
+     "en": "“But one who reins in the senses with the mind, Arjuna, and without attachment takes up the yoga of action with the organs of action, he is the one who excels.”"
+    },
+    {
+     "h": "d6556e20",
+     "en": "“Do the action that is yours to do. Action is better than inaction; without action you could not even keep your body going.”",
+     "cmp": [
+      {
+       "w": "niyataṃ karma",
+       "note": "niyataṃ karma「规定好的行动」，可以指每天该做的祭祀仪式，也可以泛指「分内的事」。白话「分内该做的事」、英文 the action that is yours to do 都取了较宽的读法。"
+      },
+      {
+       "w": "śarīra-yātrā",
+       "note": "śarīra-yātrā「身体的旅程」：把维持生命说成走一趟路。白话「维持身体的生活」、英文 keep your body going 都把这个比喻化掉了。"
+      }
+     ]
+    },
+    {
+     "h": "692035d9",
+     "en": "“Except for action done as sacrifice, this world is bound by action. Do your action for that purpose, son of Kunti, free of attachment.”",
+     "cmp": [
+      {
+       "w": "yajña",
+       "note": "yajña 本义是向火中献供的吠陀祭祀。Gita 把它扩大：凡是不为自己、为整体而做的事，都可以算 yajña。白话「祭祀」照本义；英文 sacrifice 今天多指「牺牲」，有点偏，但比 ritual 更装得下这层扩大的意思。"
+      }
+     ]
+    },
+    {
+     "h": "abbc7e69",
+     "en": "“In the beginning, the Lord of Creatures (Prajapati) brought forth beings together with sacrifice, and said: ‘By this you shall multiply. Let this be your wish-granting cow.’"
+    },
+    {
+     "h": "f46c42dd",
+     "en": "“‘Nourish the gods with this, and let the gods nourish you. Nourishing one another, you will reach the highest good.’"
+    },
+    {
+     "h": "e7fe871f",
+     "en": "“‘For the gods, nourished by sacrifice, will give you the pleasures you desire.’ Whoever enjoys what they give without offering anything back to them is nothing but a thief.”"
+    },
+    {
+     "h": "16484efa",
+     "en": "“Good people who eat what is left over from the sacrifice are freed from all faults. But the wicked who cook only for their own sake are eating sin.”"
+    },
+    {
+     "h": "6614abe0",
+     "en": "“Beings come from food; food comes from rain; rain comes from sacrifice; sacrifice comes from action.”"
+    },
+    {
+     "h": "5a4064d3",
+     "en": "“Know that action comes from Brahman (here, the Veda), and Brahman comes from the Imperishable. So the all-pervading Brahman is always established in sacrifice.”",
+     "cmp": [
+      {
+       "w": "brahman",
+       "note": "这一节的 brahman 有两种读法：「吠陀」（神圣的言语），或「梵」（终极实在）。白话和英文都在第一个 brahman 后注了「吠陀」；第二个「遍及一切的梵」却更像终极实在。同一个词在同一节里两用。"
+      }
+     ]
+    },
+    {
+     "h": "bc758ba6",
+     "en": "“Partha, whoever does not keep turning the wheel set in motion this way, living in sin and taking his delight in the senses, lives in vain.”"
+    },
+    {
+     "h": "52723a6a",
+     "en": "“But the man who delights only in the self, who is satisfied with the self and content in the self alone, has nothing he must do.”"
+    },
+    {
+     "h": "11803158",
+     "en": "“He has nothing to gain here by what he does, nor anything by what he leaves undone, and he depends on no being for anything.”"
+    },
+    {
+     "h": "b471853b",
+     "en": "“So, without attachment, always do the action that needs doing; for by acting without attachment a person reaches the highest.”"
+    },
+    {
+     "h": "09374d80",
+     "en": "“It was by action alone that Janaka (a wise king of old) and others reached perfection. Looking to the holding together of the world, you too should act.”",
+     "cmp": [
+      {
+       "w": "loka-saṃgraha",
+       "note": "loka-saṃgraha 字面是「把世界拢在一起」，即维持社会秩序、给众人做榜样。白话「维系世间」、英文 the holding together of the world 都照字面；这是第三章的关键词，下文 25 节还会再出现。"
+      }
+     ]
+    },
+    {
+     "h": "cab2f6e8",
+     "en": "“Whatever the best person does, others do too. Whatever standard he sets, the world follows.”"
+    },
+    {
+     "h": "fe56ae1d",
+     "en": "“Partha, there is nothing in the three worlds that I must do, nothing I lack and need to get, and yet I go on acting.”"
+    },
+    {
+     "h": "17c096b4",
+     "en": "“For if I ever failed to keep acting, tirelessly, people everywhere would follow my path, Partha.”"
+    },
+    {
+     "h": "802dc191",
+     "en": "“If I did not act, these worlds would fall to ruin. I would be the maker of confusion, and I would destroy these creatures.”",
+     "cmp": [
+      {
+       "w": "saṃkara",
+       "note": "saṃkara「混乱、混杂」，正是第一章阿周那担心的 varṇa-saṃkara「种姓混杂」那个词。黑天把它反过来用：不行动才会造成混乱。白话「混乱」、英文 confusion 都看不出这层和第一章的呼应。"
+      }
+     ]
+    },
+    {
+     "h": "5a4a6cc1",
+     "en": "“As the ignorant act, attached to their action, Bharata, so the wise should act, but without attachment, wishing to hold the world together.”"
+    },
+    {
+     "h": "b7510f98",
+     "en": "“The wise should not unsettle the understanding of the ignorant who are attached to action. Acting with discipline himself, he should lead them to take pleasure in all their actions.”"
+    },
+    {
+     "h": "1d73c2be",
+     "en": "“All actions are done by the qualities of nature. But one whose self is deluded by the sense of ‘I’ thinks, ‘I am the doer.’”"
+    },
+    {
+     "h": "f971aa6c",
+     "en": "“But one who knows the truth about how qualities and actions are divided, mighty-armed one, thinks, ‘It is qualities acting on qualities,’ and does not become attached.”",
+     "cmp": [
+      {
+       "w": "guṇā guṇeṣu vartante",
+       "note": "「诸德在诸德中运转」：感官由三德构成，对象也由三德构成，感官碰上对象，是物质碰物质，与真我无关。白话、英文都照字面，这句要靠前一节的数论背景才看得懂。"
+      }
+     ]
+    },
+    {
+     "h": "7e649cbc",
+     "en": "“Those deluded by the qualities of nature cling to the workings of the qualities. One who knows the whole should not unsettle these slow-witted people who know only part.”"
+    },
+    {
+     "h": "6b3222f4",
+     "en": "“Laying all your actions on me, with your mind on the self, without hope and without ‘mine’, fight, with your fever gone.”",
+     "cmp": [
+      {
+       "w": "vigata-jvara",
+       "note": "vigata-jvara「烧退了」：jvara 是「发烧」，用来比喻焦虑、心里的灼热。白话「摆脱焦虑」把比喻化掉了，英文 with your fever gone 保留了。"
+      }
+     ]
+    },
+    {
+     "h": "3cb7b317",
+     "en": "“Those who always follow this teaching of mine with faith and without finding fault are also freed from their actions.”"
+    },
+    {
+     "h": "b33e6d95",
+     "en": "“But those who find fault with it and do not follow my teaching, know them to be confused about all knowledge, mindless, and lost.”"
+    },
+    {
+     "h": "0d2f5f02",
+     "en": "“Even a wise man acts in keeping with his own nature. Beings follow their nature; what will forcing it accomplish?”"
+    },
+    {
+     "h": "de7d8aa1",
+     "en": "“Craving and aversion lie in wait in each sense for its object. One should not fall under their power, for they are robbers on one's road.”"
+    },
+    {
+     "h": "6465d534",
+     "en": "“Better your own dharma (duty), even done poorly, than another's dharma done well. Better to die in your own dharma; another's dharma is full of danger.”",
+     "cmp": [
+      {
+       "w": "viguṇa",
+       "note": "viguṇa「缺了 guṇa 的」，在这里是「做得不完美」，和前文的 guṇa（三德）是同一个词。英文 done poorly、白话「做得不完美」都看不出这个字面上的联系。"
+      },
+      {
+       "w": "sva-dharma / para-dharma",
+       "note": "这一节今天常被引来说「做你自己」，但在原文里是说按自己的阶层、身份尽该尽的职责，对阿周那来说就是去打仗。英文 your own dharma (duty)、白话「自己的职责」都照字面，不往心灵鸡汤那边引。"
+      }
+     ]
+    },
+    {
+     "h": "4717a50c",
+     "en": "(Arjuna said:) “Then what drives a person to do wrong, Varshneya, even against his will, as if pushed by force?”"
+    },
+    {
+     "h": "240f7e13",
+     "en": "(The Blessed Lord said:) “It is desire, it is anger, born of the quality of passion (rajas). It is a great devourer and a great evil. Know that this is the enemy here.”",
+     "cmp": [
+      {
+       "w": "kāma eṣa krodha eṣa",
+       "note": "kāma 包括一切想要：欲望、贪爱、情欲。黑天说「它是欲望，它是愤怒」，用的是单数的「它」：两者被当成同一个东西的两张脸。英文 It is desire, it is anger 保留了单数；白话译成「它们」，变成了两样东西。"
+      }
+     ]
+    },
+    {
+     "h": "ae6e864d",
+     "en": "“As fire is covered by smoke, a mirror by dust, an embryo by the womb, so all this is covered by it.”",
+     "cmp": [
+      {
+       "w": "idam",
+       "note": "tathā tenedam āvṛtam「这个就这样被它遮住了」，「这个」指什么，梵文没说。白话补成「（知识）」，因为下一节讲的是知识；英文照字面写 all this，让读者也可以理解成整个世界。"
+      }
+     ]
+    },
+    {
+     "h": "369c5e33",
+     "en": "“The knowledge of the wise is covered by this constant enemy, son of Kunti, which takes the form of desire and is a fire never satisfied.”"
+    },
+    {
+     "h": "162782f3",
+     "en": "“The senses, the mind and the understanding are said to be its strongholds. Through them it covers knowledge and deludes the embodied one.”",
+     "cmp": [
+      {
+       "w": "indriya / manas / buddhi",
+       "note": "这里排出三层：indriya（感官）、manas（心意）、buddhi（理解）。manas 是接收、比较感官信息的「心」，buddhi 是做判断的那一层。白话「心意」「理智」，英文 mind 和 understanding；42 节还会给它们排高下。"
+      }
+     ]
+    },
+    {
+     "h": "a0f5ac52",
+     "en": "“So, bull of the Bharatas, first restrain the senses, then strike down this evil thing that destroys knowledge and insight.”"
+    },
+    {
+     "h": "b5fe1ffb",
+     "en": "“The senses, they say, are high; higher than the senses is the mind; higher than the mind is understanding; and what is higher than understanding is that one.”",
+     "cmp": [
+      {
+       "w": "saḥ",
+       "note": "saḥ「他、那一位」，梵文只用一个代词，没有说是谁。白话补成「（真我）」，英文照原样只写 that one，保留这份含蓄；按上下文，指的是 ātman。"
+      }
+     ]
+    },
+    {
+     "h": "089f204f",
+     "en": "“Knowing in this way what is beyond understanding, steadying the self by the self, slay this enemy that takes the form of desire, so hard to get at, mighty-armed one.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · The Yoga of Knowledge and the Renouncing of Action",
+   "verses": [
+    {
+     "h": "7dbef7ee",
+     "en": "The Blessed Lord said: “I taught this imperishable yoga to Vivasvat (the sun). Vivasvat told it to Manu (father of humankind), and Manu passed it on to Ikshvaku (first king of the solar line).”"
+    },
+    {
+     "h": "8b479dcc",
+     "en": "“Handed down this way, one to the next, it was known to the royal sages. But over a long stretch of time, scorcher of foes, this yoga was lost to the world.”",
+     "cmp": [
+      {
+       "w": "rājarṣi",
+       "note": "rājarṣi「王仙」：既是国王又是圣者的人。这一章强调这套学问原本在王族武士之间传承，不只是婆罗门祭司的事。白话「王仙」、英文 royal sages 都照字面。"
+      }
+     ]
+    },
+    {
+     "h": "bc04ce8f",
+     "en": "“This same ancient yoga I have taught you today, because you are devoted to me and my friend; for this is the highest secret.”",
+     "cmp": [
+      {
+       "w": "bhakta",
+       "note": "bhakta「爱戴者、归属者」，来自 bhaj「分享、归属」，和后文 bhakti「虔爱」同根。白话「信徒」带着宗教团体的味道，英文 devoted to me 更接近「心系于我」。黑天还加了一句 sakhā「朋友」：师生之外，还是朋友。"
+      }
+     ]
+    },
+    {
+     "h": "b9b15a0b",
+     "en": "(Arjuna said:) “Your birth came later; Vivasvat's birth came long before. How am I to understand that you taught it in the beginning?”"
+    },
+    {
+     "h": "c481c7db",
+     "en": "(The Blessed Lord said:) “Many births of mine have passed, and of yours too, Arjuna. I know them all; you do not know them, scorcher of foes.”"
+    },
+    {
+     "h": "ad72b44f",
+     "en": "“Though I am unborn and my self does not perish, though I am lord of all beings, I take charge of my own nature and come into being through my own creative power (maya).”",
+     "cmp": [
+      {
+       "w": "ātma-māyā",
+       "note": "māyā 在后来的吠檀多哲学里是「幻象」，但在 Gita 这里更接近「神奇的能力、变化之力」。白话「幻力」偏「幻」的一面，英文 creative power 偏「能力」的一面，所以括注保留 maya 原词。"
+      }
+     ]
+    },
+    {
+     "h": "b7843b8c",
+     "en": "“Whenever dharma declines, Bharata, and lawlessness rises up, then I send myself forth.”",
+     "cmp": [
+      {
+       "w": "ātmānaṃ sṛjāmi",
+       "note": "ātmānaṃ sṛjāmi「我放出自己、造出自己」。梵文没有用「出生」这个词。白话「让自己降生」，英文 I send myself forth 更贴字面。后世据此讲「化身」（avatāra），但 avatāra 这个词在 Gita 里并没有出现。"
+      }
+     ]
+    },
+    {
+     "h": "716753a0",
+     "en": "“To protect the good, to destroy those who do evil, and to set dharma firmly in place, I come into being age after age.”",
+     "cmp": [
+      {
+       "w": "yuge yuge",
+       "note": "yuga 是印度宇宙论里的「世代」，一个动辄长达几十万年。白话「一个时代又一个时代」、英文 age after age 都没法传出这个尺度。"
+      }
+     ]
+    },
+    {
+     "h": "1c02d045",
+     "en": "“Whoever truly knows my divine birth and action in this way is not born again when he leaves the body; he comes to me, Arjuna.”"
+    },
+    {
+     "h": "185e8aa5",
+     "en": "“Free of passion, fear and anger, absorbed in me, taking refuge in me, many have been purified by the austerity of knowledge and have come into my state of being.”",
+     "cmp": [
+      {
+       "w": "tapas",
+       "note": "tapas 本义是「热」，引申为苦行：用克制自己生出的「热力」。白话「苦行」、英文 austerity 都只剩下吃苦这一面，「热」的意象没了。「知识的苦行」是说，求知本身就是一种修炼。"
+      }
+     ]
+    },
+    {
+     "h": "5d425f6e",
+     "en": "“In whatever way people come to me, in that same way I meet them. Everywhere, Partha, people follow my path.”",
+     "cmp": [
+      {
+       "w": "bhajāmi",
+       "note": "bhajāmi 来自 bhaj，可以是「分给、回报」，也可以是「敬爱」，是 bhakti「虔爱」的词根。白话「回应」、英文 I meet them 都取了中性的读法，爱的那一层要读者自己体会。"
+      },
+      {
+       "w": "mama vartmānuvartante",
+       "note": "「人们走我的路」这半句在 3.23 一字不差出现过：那里是「人们会学我（不行动）」，是坏榜样；这里却是「无论怎么走，都在我的路上」。同一句话放在两处，意思不同，白话和英文都照各自上下文译。"
+      }
+     ]
+    },
+    {
+     "h": "4ab1b16d",
+     "en": "“Those who want success in their actions worship the gods here, for in the human world success born of action comes quickly.”"
+    },
+    {
+     "h": "c020d130",
+     "en": "“The four classes (varnas) were created by me, according to the division of qualities and actions. Though I am their maker, know me as the non-doer, the unchanging.”",
+     "cmp": [
+      {
+       "w": "cātur-varṇya",
+       "note": "这一节说四个等级是按 guṇa（性质）和 karma（行动）划分的，没有提出身。后世有人据此说种姓本来不看血统，也有人反对。白话「四种姓」、英文 the four classes (varnas) 都只照字面译，不选边。"
+      }
+     ]
+    },
+    {
+     "h": "30c6bab7",
+     "en": "“Actions do not stain me, and I have no longing for the fruit of action. Whoever knows me this way is not bound by actions.”"
+    },
+    {
+     "h": "25ccf908",
+     "en": "“Knowing this, the seekers of freedom of old did their work. So you too should simply act, as the ancients did long ago.”"
+    },
+    {
+     "h": "7fb9e189",
+     "en": "“What is action, what is inaction? Even the wise are confused about this. I will tell you what action is; knowing it, you will be freed from harm.”",
+     "cmp": [
+      {
+       "w": "kavayaḥ",
+       "note": "kavi 本义是「诗人、先知」。在吠陀时代，诗人就是智者。白话「贤哲」、英文 the wise 都只取了「智」的一面，「诗人」的意思没了。"
+      }
+     ]
+    },
+    {
+     "h": "d71eaaab",
+     "en": "“One has to understand action, understand wrong action, and understand inaction. The way of action is deep.”",
+     "cmp": [
+      {
+       "w": "vikarma",
+       "note": "vikarma 有两种读法：「错误的、被禁止的行动」，或「各种各样的行动」。白话和英文都取了「错误的行动」。gahanā「深」也带着「像密林一样难走」的意思。"
+      }
+     ]
+    },
+    {
+     "h": "d9607ecf",
+     "en": "“One who sees inaction in action, and action in inaction, is wise among men. He is disciplined, and he does all his work.”",
+     "cmp": [
+      {
+       "w": "yuktaḥ",
+       "note": "yukta「套上了的、有约束的」，和 yoga 同根。白话「心系瑜伽」把 yoga 点了出来，英文 disciplined 取的是「约束」一面。kṛtsna-karma-kṛt 可以是「做尽一切事的人」，也可以是「把事做完整的人」。"
+      }
+     ]
+    },
+    {
+     "h": "219709e9",
+     "en": "“One whose every undertaking is free of desire and of self-serving intent, whose actions are burned up in the fire of knowledge, is called learned by the wise.”",
+     "cmp": [
+      {
+       "w": "saṃkalpa",
+       "note": "saṃkalpa 是「起念、立意」，本身中性。白话「私心算计」、英文 self-serving intent 都加重了负面色彩，因为这里跟 kāma（欲望）连在一起说。"
+      }
+     ]
+    },
+    {
+     "h": "d65db3cd",
+     "en": "“Letting go of attachment to the fruit of action, always content, depending on nothing, even when fully engaged in action he does nothing at all.”"
+    },
+    {
+     "h": "3356a4f4",
+     "en": "“Hoping for nothing, mind and body held in check, giving up all possessions, doing only what the body needs, he incurs no fault.”",
+     "cmp": [
+      {
+       "w": "śārīraṃ kevalaṃ karma",
+       "note": "可以读成「只做维持身体的事」，也可以读成「只是身体在做，心不在其中」。白话和英文都取了前一种。"
+      }
+     ]
+    },
+    {
+     "h": "baf2a14f",
+     "en": "“Content with whatever comes by chance, beyond the pairs of opposites, free of envy, the same in success and failure: even when he acts, he is not bound.”"
+    },
+    {
+     "h": "c4eb210f",
+     "en": "“For one who is free of attachment and released, whose mind is grounded in knowledge, who acts as sacrifice, all action melts away.”"
+    },
+    {
+     "h": "3d367a97",
+     "en": "“The act of offering is Brahman, the offering is Brahman, poured by Brahman into the fire that is Brahman. Brahman is what will be reached by one whose mind rests on Brahman in action.”",
+     "cmp": [
+      {
+       "w": "arpaṇa",
+       "note": "arpaṇa 可以是「献供这件事」，也可以是「献供用的勺子」。白话取了「勺子」，英文取了 the act of offering。这一节今天在印度常被当作饭前祷文念。"
+      }
+     ]
+    },
+    {
+     "h": "b3c5d115",
+     "en": "“Some yogis offer sacrifice to the gods alone. Others offer sacrifice by sacrifice itself into the fire of Brahman.”"
+    },
+    {
+     "h": "bdc01120",
+     "en": "“Some offer hearing and the other senses into the fires of restraint; others offer sound and the other objects of the senses into the fires of the senses.”"
+    },
+    {
+     "h": "f3d67d05",
+     "en": "“Others offer all the workings of the senses and the workings of the breath into the fire of the yoga of self-restraint, kindled by knowledge.”"
+    },
+    {
+     "h": "cd627c84",
+     "en": "“Others offer their wealth as sacrifice, or austerity, or yoga; and ascetics of strict vows offer study of scripture and knowledge.”"
+    },
+    {
+     "h": "81e7c17a",
+     "en": "“Others, devoted to breath control, offer the in-breath into the out-breath and the out-breath into the in-breath, holding back the flow of both.”",
+     "cmp": [
+      {
+       "w": "prāṇa / apāna",
+       "note": "prāṇa 和 apāna 哪个是吸气、哪个是呼气，古注就有分歧。白话写「把呼气投入吸气」，英文写 the in-breath into the out-breath，两者正好相反，都是有根据的读法。"
+      }
+     ]
+    },
+    {
+     "h": "cf742b4c",
+     "en": "“Others, restricting their food, offer the life-breaths into the life-breaths. All of these know sacrifice, and by sacrifice their impurities are worn away.”"
+    },
+    {
+     "h": "312a0858",
+     "en": "“Those who eat the nectar left over from sacrifice go to eternal Brahman. This world is not for one who does not sacrifice, best of the Kurus; how then the other?”",
+     "cmp": [
+      {
+       "w": "amṛta",
+       "note": "amṛta 字面是「不死」，即甘露、长生不死之药。白话「甘露」、英文 nectar 都译出了东西，「不死」这层就没了。"
+      }
+     ]
+    },
+    {
+     "h": "183e0d7b",
+     "en": "“So many kinds of sacrifice are spread out in the mouth of Brahman. Know that all of them are born of action; knowing this, you will be set free.”",
+     "cmp": [
+      {
+       "w": "brahmaṇo mukhe",
+       "note": "「在 brahman 的口中」：可以是「在吠陀里讲到」，也可以是「献进 brahman（作为祭火）的嘴里」。白话注成「吠陀」，英文照字面 the mouth of Brahman，让两种读法都留着。"
+      }
+     ]
+    },
+    {
+     "h": "eb66d7c6",
+     "en": "“Better than a sacrifice of material things, scorcher of foes, is the sacrifice of knowledge. All action, Partha, without exception, comes to its completion in knowledge.”"
+    },
+    {
+     "h": "284ae0d3",
+     "en": "“Learn it by bowing down, by asking questions, and by serving. The wise who have seen the truth will teach you knowledge.”"
+    },
+    {
+     "h": "5e793cfe",
+     "en": "“Knowing it, you will not fall into confusion like this again, son of Pandu. Through it you will see all beings in the self, and then in me.”",
+     "cmp": [
+      {
+       "w": "ātmany atho mayi",
+       "note": "「在自己之中，然后在我之中」：atho 是「然后、而且」。白话「也在我之中」，英文 and then in me。读者自然会问：「自己」和「我（黑天）」是什么关系？梵文在这里没有回答。"
+      }
+     ]
+    },
+    {
+     "h": "36bb9b54",
+     "en": "“Even if you were the worst of all sinners, you would cross over all wrongdoing on the boat of knowledge alone.”"
+    },
+    {
+     "h": "babbbcc5",
+     "en": "“As a blazing fire turns firewood to ash, Arjuna, so the fire of knowledge turns all actions to ash.”",
+     "cmp": [
+      {
+       "w": "karma",
+       "note": "白话在这里写「行动（业）」：被烧掉的不是做事本身，而是行动留下的后果。英文本书一直写 action，这一节读者要自己体会成「行动的后果」。这正是 karma 一词从「行动」滑向「业」的地方。"
+      }
+     ]
+    },
+    {
+     "h": "45160a78",
+     "en": "“Nothing in this world purifies like knowledge. One who is perfected in yoga finds it within himself in time.”"
+    },
+    {
+     "h": "bfdd8db0",
+     "en": "“One who has faith, who is intent on it, whose senses are restrained, gains knowledge; and having gained knowledge, he soon reaches the highest peace.”",
+     "cmp": [
+      {
+       "w": "śraddhā",
+       "note": "śraddhā 常译「信心」，但它不是盲信，更像「把心放上去、认真对待」。白话「信心」比较中性，英文 faith 宗教味更重。"
+      }
+     ]
+    },
+    {
+     "h": "c7ce7c1e",
+     "en": "“The ignorant, the faithless, the one whose self is doubt, are lost. For the doubting self there is neither this world nor the next, nor any happiness.”"
+    },
+    {
+     "h": "b46f37a1",
+     "en": "“Actions do not bind one who has renounced action through yoga, whose doubt is cut away by knowledge, who is master of himself, Dhananjaya.”"
+    },
+    {
+     "h": "82150f62",
+     "en": "“So cut away with the sword of knowledge this doubt in your heart born of ignorance. Stand firm in yoga. Stand up, Bharata!”",
+     "cmp": [
+      {
+       "w": "ātiṣṭha uttiṣṭha",
+       "note": "「立足于……站起来」：两个词只差一个前缀，梵文是一组响亮的回声。英文 Stand firm… Stand up 保留了「站」的重复；白话「安住……站起来吧」只剩意思。第二章开头黑天也是喊「站起来」（uttiṣṭha），这一章就用同一个词收尾。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · The Yoga of Renouncing Action",
+   "verses": [
+    {
+     "h": "d84fe6a6",
+     "en": "(Arjuna said:) Krishna, you praise giving up action, and then again you praise yoga. Of the two, which one is better? Tell me that one, clearly and for certain.",
+     "cmp": [
+      {
+       "w": "yoga",
+       "note": "yoga 来自词根 yuj，本义是「给牛套上轭」，引申为「连起来、驾驭住」。这一章里它指一种做事的方式：带着正确的心态去行动，和 saṃnyāsa（放下、不做）对着讲。英文保留 yoga 不译，白话在括号里补成「行动瑜伽」；读者要知道，这里说的不是体式练习。"
+      }
+     ]
+    },
+    {
+     "h": "fb997083",
+     "en": "(The Blessed Lord said:) Renouncing action and the yoga of action both lead to the highest good. But of the two, the yoga of action is better than renouncing action.",
+     "cmp": [
+      {
+       "w": "karma",
+       "note": "karma 最朴素的意思就是「做、做事」。中文读者容易联想到佛教的「业」，英文读者容易想到「因果报应」。本站英文一律写 action，白话写「行动」，把这个词拉回它的本义。"
+      }
+     ]
+    },
+    {
+     "h": "dbfba9ec",
+     "en": "Know that person as one who has always renounced, who neither hates nor craves. Free of the pairs of opposites, mighty-armed one, he is easily set free from bondage.",
+     "cmp": [
+      {
+       "w": "nirdvandva",
+       "note": "dvandva 字面是「成对的东西」：冷和热、苦和乐、得和失。英文 pairs of opposites 照字面；白话「对立两端」意思一样。有趣的是，梵语语法里「并列复合词」也叫 dvandva，一个词同时是哲学术语和语法术语。"
+      }
+     ]
+    },
+    {
+     "h": "c0ef3195",
+     "en": "It is children, not the wise, who talk of Sankhya and yoga as two different things. Whoever is truly established in even one of them gains the fruit of both.",
+     "cmp": [
+      {
+       "w": "sāṃkhya",
+       "note": "白话「数论」是后来成形的一个哲学派别的名字。但在《薄伽梵歌》里，sāṃkhya 更像「靠辨析、靠知识的那条路」，和「靠行动的那条路」（yoga）相对。英文保留 Sankhya 原名，读者别急着把它等同于成熟的数论学派。"
+      }
+     ]
+    },
+    {
+     "h": "92fdcb11",
+     "en": "The place reached by the followers of Sankhya is reached by the followers of yoga as well. Whoever sees Sankhya and yoga as one — that person truly sees."
+    },
+    {
+     "h": "a6c0addf",
+     "en": "But renunciation, mighty-armed one, is hard to reach without yoga. The sage who is yoked in yoga comes to Brahman before long.",
+     "cmp": [
+      {
+       "w": "brahma",
+       "note": "这里的 brahma 是中性词，指宇宙最终的实在，英文写 Brahman。第八章会出现阳性的 Brahmā（梵天，创世之神）。中文两个都叫「梵」，很容易混；英文靠拼写区分。"
+      }
+     ]
+    },
+    {
+     "h": "cba821b7",
+     "en": "One who is yoked in yoga, pure in himself, master of himself, with the senses conquered, whose self has become the self of all beings — even while acting, he is not stained.",
+     "cmp": [
+      {
+       "w": "yoga-yukta",
+       "note": "yukta 和 yoga 同一个词根，原意是「被套上轭的」，像一头套好了车、听使唤的牛。英文 yoked 保留了这个画面；白话译成「专心」，抓住了结果，丢了「被驾驭」的意象。这几章 yukta 反复出现，本站英文按语境写 yoked 或 steady in yoga。"
+      }
+     ]
+    },
+    {
+     "h": "206835b8",
+     "en": "One who is steady in yoga and knows how things really are should think, “I am not doing anything at all” — while seeing, hearing, touching, smelling, eating, walking, sleeping, breathing,"
+    },
+    {
+     "h": "ae834852",
+     "en": "talking, letting go, grasping, opening and closing the eyes — holding to this: “It is only the senses moving among the objects of the senses.”"
+    },
+    {
+     "h": "76f55368",
+     "en": "Whoever acts by placing all actions in Brahman and letting go of attachment is not stained by wrong, just as a lotus leaf is not wetted by water."
+    },
+    {
+     "h": "b8688301",
+     "en": "With the body, with the mind, with the understanding, even with the senses alone, yogis act, letting go of attachment, to make the self pure.",
+     "cmp": [
+      {
+       "w": "buddhi",
+       "note": "buddhi 是心里「做判断、下决定」的那一部分。白话译「理智」，英文写 understanding。它和 manas（心意，接收感官信息、翻来覆去想的那部分）不同。这一节把身体、manas、buddhi、感官一层层排开，是印度人对「人」的分层看法。"
+      }
+     ]
+    },
+    {
+     "h": "3198b7aa",
+     "en": "The one steady in yoga gives up the fruit of action and reaches a peace that lasts. The one who is not, driven by desire and clinging to the fruit, is bound.",
+     "cmp": [
+      {
+       "w": "karma-phala",
+       "note": "「行动的果子」：梵文用的是植物的比喻，行动像树，结果像树上结的果。英文 fruit 保留了这个比喻；白话「结果」在中文里早已是个死比喻，读者感觉不到树。"
+      }
+     ]
+    },
+    {
+     "h": "fcacf23a",
+     "en": "Having renounced all actions in his mind, the embodied one who is master of himself sits at ease in the city of nine gates, neither acting nor making anything be done.",
+     "cmp": [
+      {
+       "w": "nava-dvāre pure",
+       "note": "「九门之城」就是身体：两眼、两耳、两个鼻孔、嘴，加上排泄的两个出口。英文和白话都照字面译，读者要知道这是身体的比喻。住在城里的「有身者」（dehī）才是真正的自己。"
+      }
+     ]
+    },
+    {
+     "h": "1b915316",
+     "en": "The Lord does not create the sense of being a doer for the world, nor its actions, nor the joining of action to its fruit. It is one's own nature that sets these going.",
+     "cmp": [
+      {
+       "w": "svabhāva",
+       "note": "白话「本性」，英文 one's own nature。svabhāva 字面是「自己的存在方式」，和《心经》里被说成「空」的「自性」是同一个词。不过这里没有被否定，而是说事物按自己的性子在运转。"
+      }
+     ]
+    },
+    {
+     "h": "6d1df204",
+     "en": "The all-pervading one does not take on anyone's wrong, nor anyone's good deed either. Knowledge is covered over by ignorance, and that is why living beings are confused."
+    },
+    {
+     "h": "c2526bb4",
+     "en": "But for those whose ignorance has been destroyed by knowledge of the self, that knowledge lights up the highest, like the sun.",
+     "cmp": [
+      {
+       "w": "ātmanaḥ",
+       "note": "这个词在句中可以接「无知」（他们自己的无知），也可以接「知识」（关于自我的知识）。白话取前一种，英文取后一种；两种读法古代注家都有。"
+      }
+     ]
+    },
+    {
+     "h": "072e616a",
+     "en": "Their understanding fixed on that, their self given to that, standing firm in that, holding that as their final goal, their stains washed away by knowledge — they go to the place from which there is no coming back."
+    },
+    {
+     "h": "fbee901a",
+     "en": "The wise see the same in all: in a Brahmin rich in learning and humility, in a cow, in an elephant, in a dog, and in an outcaste who cooks dogs.",
+     "cmp": [
+      {
+       "w": "śvapāka",
+       "note": "字面就是「煮狗的人」，古印度最被看不起的人群之一。白话「吃狗肉的贱民」把意思讲出来，英文照字面。这一节的重点是：从最受尊敬的人，到最被轻视的人，再到动物，智者一视同仁。"
+      }
+     ]
+    },
+    {
+     "h": "c202ac0c",
+     "en": "Even here, in this life, the world of coming-to-be has been conquered by those whose mind rests in sameness. For Brahman is flawless and the same in all; so they rest in Brahman."
+    },
+    {
+     "h": "bca7c080",
+     "en": "One should not be thrilled at getting what is dear, nor shaken at getting what is not. Steady in understanding, free of confusion, the knower of Brahman rests in Brahman."
+    },
+    {
+     "h": "294ca9d7",
+     "en": "With the self unattached to contacts from outside, he finds the happiness that lies within the self. With his self yoked in the yoga of Brahman, he tastes a happiness that does not run out."
+    },
+    {
+     "h": "1f89a37c",
+     "en": "For the pleasures born of contact are nothing but wombs of sorrow. They have a beginning and an end, Kaunteya (son of Kunti); the wise take no delight in them.",
+     "cmp": [
+      {
+       "w": "duḥkha-yoni",
+       "note": "字面「痛苦的子宫」：快乐本身会生出痛苦。英文 wombs of sorrow 保留了「生出来」的画面；白话「根源」更平，意思没错，画面没了。"
+      }
+     ]
+    },
+    {
+     "h": "d8dc0d54",
+     "en": "Whoever, here and now, before being freed from the body, can withstand the surge that rises from desire and anger — that person is steady in yoga; that person is happy."
+    },
+    {
+     "h": "5eb4c5b8",
+     "en": "One whose happiness is within, whose delight is within, whose light is within as well — that yogi, having become Brahman, reaches the stillness of Brahman (brahma-nirvana).",
+     "cmp": [
+      {
+       "w": "brahma-nirvāṇa",
+       "note": "nirvāṇa 本义是「吹熄」，像灯火熄灭。佛教最常用这个词，《薄伽梵歌》把它和梵连在一起，成了「在梵中熄灭一切躁动」。白话音译「梵涅槃」，中文读者会先想到佛教；英文译作 the stillness of Brahman，并在括号里保留原词。"
+      },
+      {
+       "w": "brahma-bhūta",
+       "note": "字面「已经成为梵的」。白话写「与梵合一」，英文写 having become Brahman，更贴近原文那种「变成」的说法。"
+      }
+     ]
+    },
+    {
+     "h": "5975ff92",
+     "en": "Seers whose stains are worn away, whose doubts are cut through, who are masters of themselves and take joy in the good of all beings — they attain the stillness of Brahman."
+    },
+    {
+     "h": "7f0a25a3",
+     "en": "For ascetics free of desire and anger, who have reined in their thoughts and know the self, the stillness of Brahman lies all around them."
+    },
+    {
+     "h": "388fc6ce",
+     "en": "Shutting out the contacts of the outside world, fixing the gaze between the eyebrows, making the out-breath and in-breath even as they move within the nostrils,"
+    },
+    {
+     "h": "1971ea84",
+     "en": "the sage who has reined in senses, mind and understanding, whose final aim is freedom, from whom wanting, fear and anger have gone — he is free, always."
+    },
+    {
+     "h": "f177a265",
+     "en": "Knowing me as the one who enjoys all sacrifice and austerity, the great Lord of all the worlds, the friend of all beings, he reaches peace."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · The Yoga of Meditation",
+   "verses": [
+    {
+     "h": "f02a6f78",
+     "en": "(The Blessed Lord said:) Whoever does the work that ought to be done without leaning on its fruit is both a renouncer and a yogi — not the one who has let his sacred fire go out, nor the one who does nothing.",
+     "cmp": [
+      {
+       "w": "niragni",
+       "note": "「没有火的人」：古印度的出家人按规矩要放下家中的祭火，不再举行祭祀。白话「不点祭火」、英文 let his sacred fire go out 都在讲这个。意思是：只在形式上出家，不算真正的舍弃。"
+      }
+     ]
+    },
+    {
+     "h": "101e4f34",
+     "en": "What people call renunciation, know that to be yoga, Pandava (son of Pandu). For no one becomes a yogi without renouncing the plans of the mind.",
+     "cmp": [
+      {
+       "w": "saṃkalpa",
+       "note": "白话「私心意图」。saṃkalpa 是心里预先打好的主意、盘算——「我要得到某某结果」的那种设想，不一定是坏念头。英文写 the plans of the mind，比「私心」中性一点。"
+      }
+     ]
+    },
+    {
+     "h": "3f8db222",
+     "en": "For the sage who wants to climb up to yoga, action is said to be the means. For that same person, once he has climbed to yoga, calm is said to be the means."
+    },
+    {
+     "h": "e313f3b6",
+     "en": "When one no longer clings to the objects of the senses or to actions, and has renounced every plan of the mind, then he is said to have climbed to yoga."
+    },
+    {
+     "h": "f8c17950",
+     "en": "Lift yourself up by yourself; do not let yourself sink. For the self alone is the self's friend, and the self alone is the self's enemy.",
+     "cmp": [
+      {
+       "w": "ātman",
+       "note": "ātman 在梵文里既是普通的反身代词「自己」，又是哲学上的「真我」。这几节故意把两层叠在一起说：用自己拉起自己。白话在这里写「自己」，在别处写「真我」；英文统一写小写的 self，两层意思读者都能感到。"
+      }
+     ]
+    },
+    {
+     "h": "bd01962c",
+     "en": "The self is a friend to the one whose self has been conquered by the self. But for one who has not mastered himself, his own self turns hostile, like an enemy."
+    },
+    {
+     "h": "62500048",
+     "en": "For one who has conquered himself and is at peace, the highest self stays collected — in cold and heat, in pleasure and pain, and in honor and dishonor alike."
+    },
+    {
+     "h": "66509a15",
+     "en": "The yogi who is content with knowledge and realization, who stands firm like an anvil, whose senses are conquered, to whom a lump of earth, a stone and gold are all the same — he is called steady in yoga.",
+     "cmp": [
+      {
+       "w": "kūṭastha",
+       "note": "字面「站在铁砧上的」：铁砧被锤千万次也不动。白话「像铁砧一样不动」保留了比喻，英文同样；也有注家解作「立在山顶」。"
+      }
+     ]
+    },
+    {
+     "h": "48247fad",
+     "en": "Whoever has the same understanding toward well-wishers, friends, enemies, the indifferent, those who stand in between, the hateful and kin — even toward the good and the wicked — stands out above the rest."
+    },
+    {
+     "h": "82bf75e6",
+     "en": "A yogi should keep yoking himself constantly, staying in a solitary place, alone, with mind and body held in check, wanting nothing, owning nothing."
+    },
+    {
+     "h": "0e7a7721",
+     "en": "In a clean place, he should set up a firm seat for himself, not too high and not too low, layered with cloth, deerskin and kusha grass,"
+    },
+    {
+     "h": "dabc5aaa",
+     "en": "and sitting there on that seat, making the mind one-pointed, with the workings of thought and senses held in check, he should practice yoga to make the self pure."
+    },
+    {
+     "h": "de7dbb33",
+     "en": "Holding body, head and neck straight and unmoving, steady, gazing at the tip of his own nose and not looking around in any direction,"
+    },
+    {
+     "h": "40e59dd1",
+     "en": "calm within, free of fear, keeping the vow of chastity, reining in the mind, with his thought on me, he should sit steady in yoga, holding me as the highest.",
+     "cmp": [
+      {
+       "w": "brahmacāri-vrata",
+       "note": "白话「梵行之誓」是直译。brahmacārin 原指跟着老师学吠陀的年轻学生，他们要守独身。英文写 the vow of chastity，讲出了实际内容，丢了「学生」那一层。"
+      }
+     ]
+    },
+    {
+     "h": "f03ddcfd",
+     "en": "Yoking himself always in this way, the yogi whose mind is held in check reaches peace — the peace that culminates in nirvana and rests in me."
+    },
+    {
+     "h": "8476bd6e",
+     "en": "But yoga is not for one who eats too much, nor for one who does not eat at all; not for one given to too much sleep, nor for one who stays awake, Arjuna."
+    },
+    {
+     "h": "2a939894",
+     "en": "For one who is measured in eating and recreation, measured in his efforts at work, measured in sleeping and waking, yoga becomes the destroyer of sorrow.",
+     "cmp": [
+      {
+       "w": "yukta",
+       "note": "这一节的 yukta 不是「专心」，而是「合度、刚刚好」：套上轭的牛走得不快不慢。白话「有节制」，英文 measured。同一个 yukta，中文要换好几个词才接得住。"
+      }
+     ]
+    },
+    {
+     "h": "f6fb8612",
+     "en": "When the well-controlled mind settles in the self alone, free of longing for any desire, then one is called steady in yoga."
+    },
+    {
+     "h": "e685ee1a",
+     "en": "“As a lamp in a windless place does not flicker” — that is the image used for the yogi whose mind is held in check, who practices the yoga of the self."
+    },
+    {
+     "h": "63fb7287",
+     "en": "That state where the mind, restrained by the practice of yoga, comes to rest; where, seeing the self by the self, one is content in the self;",
+     "cmp": [
+      {
+       "w": "niruddha",
+       "note": "白话「受约束、止息」，英文 restrained。这是 nirodha（止息）的分词——正是《瑜伽经》开头那句「瑜伽就是心念的止息」里的关键词。"
+      }
+     ]
+    },
+    {
+     "h": "d0e131e4",
+     "en": "where one knows that boundless happiness which the understanding can grasp but which lies beyond the senses; where, once established, one does not waver from the truth;"
+    },
+    {
+     "h": "e24d4af1",
+     "en": "having gained which, one thinks no other gain is greater; standing in which, one is not shaken even by heavy sorrow —"
+    },
+    {
+     "h": "33c06a66",
+     "en": "know that this is what is called yoga: the unyoking from union with sorrow. This yoga should be practiced with resolve and with a heart that does not lose heart.",
+     "cmp": [
+      {
+       "w": "duḥkha-saṃyoga-viyoga",
+       "note": "这是一个文字游戏：yoga（相连）被定义为「与痛苦之 saṃyoga（相连）的 viyoga（分离）」，三个词同出一个词根。英文用 unyoking from union 勉强保住了同根的味道；白话「与痛苦的接触相分离」意思对了，同根的趣味没了。"
+      }
+     ]
+    },
+    {
+     "h": "c7068f7f",
+     "en": "Giving up, wholly and without remainder, all desires born of the mind's plans, and reining in the whole crowd of senses on every side with the mind alone,"
+    },
+    {
+     "h": "093521f2",
+     "en": "little by little he should grow still, with understanding held firm by resolve. Having settled the mind in the self, he should think of nothing at all."
+    },
+    {
+     "h": "1d83654f",
+     "en": "Wherever the restless, unsteady mind wanders off to, from there he should pull it back and bring it under the control of the self alone."
+    },
+    {
+     "h": "b64dbdf6",
+     "en": "For supreme happiness comes to this yogi whose mind is at peace, whose restlessness (rajas) has died down, who has become Brahman and is free of stain."
+    },
+    {
+     "h": "c753ad61",
+     "en": "Yoking himself always in this way, the yogi, free of stain, easily enjoys the boundless happiness of touching Brahman.",
+     "cmp": [
+      {
+       "w": "brahma-saṃsparśa",
+       "note": "「与梵接触」：上一章说外界的接触（sparśa）是痛苦的子宫，这里同一个词用在梵身上，成了无尽的快乐。英文 touching、白话「接触」都保留了这个前后呼应。"
+      }
+     ]
+    },
+    {
+     "h": "5cbea6f4",
+     "en": "With his self yoked in yoga, seeing the same everywhere, he sees the self present in all beings, and all beings in the self."
+    },
+    {
+     "h": "cea6ef3c",
+     "en": "Whoever sees me everywhere and sees everything in me — I am not lost to him, and he is not lost to me."
+    },
+    {
+     "h": "6b2009a8",
+     "en": "Whoever, established in oneness, is devoted to me as dwelling in all beings — however he may live, that yogi lives in me.",
+     "cmp": [
+      {
+       "w": "bhajati",
+       "note": "bhaj 本义是「分享、分得一份」，引申为亲近、敬爱、侍奉。白话「敬爱」，英文 is devoted to。后面常见的 bhakti（虔爱）就从这个词根来。"
+      }
+     ]
+    },
+    {
+     "h": "53f4cf55",
+     "en": "Arjuna, the one who, measuring by his own self, sees the same in everything, whether pleasure or pain — he is held to be the highest yogi.",
+     "cmp": [
+      {
+       "w": "ātmaupamya",
+       "note": "「拿自己作比」：别人的苦和乐，跟自己的苦和乐一样。白话「以自己为尺度」，英文 measuring by his own self。意思很接近「己所不欲，勿施于人」。"
+      }
+     ]
+    },
+    {
+     "h": "776762b7",
+     "en": "(Arjuna said:) This yoga of evenness that you have taught, Madhusudana (slayer of the demon Madhu) — I do not see how it can stand firm, because of restlessness."
+    },
+    {
+     "h": "7b0cb23d",
+     "en": "For the mind is restless, Krishna, turbulent, strong and stubborn. Holding it in check seems to me as hard as holding the wind."
+    },
+    {
+     "h": "8c796602",
+     "en": "(The Blessed Lord said:) No doubt, mighty-armed one, the mind is restless and hard to hold. But by practice and by letting go of desire, Kaunteya, it can be held.",
+     "cmp": [
+      {
+       "w": "abhyāsa / vairāgya",
+       "note": "两个关键词：abhyāsa 是「一次又一次回到同一件事上」；vairāgya 是「褪色」——rāga 本义是颜色、染上，引申为贪恋，vairāgya 就是不再被染上。白话「离欲」、英文 letting go of desire 都没保住「褪色」这个画面。"
+      }
+     ]
+    },
+    {
+     "h": "6b28ceec",
+     "en": "Yoga is hard to reach, I believe, for one whose self is not held in check. But one who has mastered himself and keeps striving can reach it by the right means."
+    },
+    {
+     "h": "85797b25",
+     "en": "(Arjuna said:) One who has faith but does not strive, whose mind has slipped away from yoga, and who does not reach the fulfilment of yoga — what end does he come to, Krishna?"
+    },
+    {
+     "h": "14742181",
+     "en": "Fallen from both, mighty-armed one, does he not perish like a torn cloud, with no ground to stand on, lost on the path to Brahman?"
+    },
+    {
+     "h": "8aa64dc4",
+     "en": "Krishna, you must cut away this doubt of mine completely. No one but you can cut through this doubt."
+    },
+    {
+     "h": "51aa4f89",
+     "en": "(The Blessed Lord said:) Partha (son of Pritha), neither in this world nor in the next is there any ruin for him. For no one who does good, my dear, comes to a bad end."
+    },
+    {
+     "h": "bb5eeb4d",
+     "en": "Having reached the worlds of those who do good and lived there for countless years, the one who fell from yoga is born in the home of the pure and the prosperous."
+    },
+    {
+     "h": "2a833155",
+     "en": "Or else he is born into a family of wise yogis — though a birth like that is even harder to come by in this world."
+    },
+    {
+     "h": "a0238842",
+     "en": "There he takes up again the understanding he had in his former body, and from there he strives once more toward fulfilment, Kurunandana (joy of the Kurus)."
+    },
+    {
+     "h": "894da294",
+     "en": "By that very former practice he is carried along, even without willing it. Even one who only wishes to know about yoga goes beyond the word of the Veda (shabda-brahman).",
+     "cmp": [
+      {
+       "w": "śabda-brahman",
+       "note": "「声音之梵」：指吠陀经文，被看成梵以声音的形式出现。白话意译成「吠陀的言辞」，英文同样意译并保留原词。意思是：哪怕只是想了解瑜伽，也已经超过了照本宣科地念经。"
+      }
+     ]
+    },
+    {
+     "h": "c408a048",
+     "en": "But the yogi who strives with effort, cleansed of wrong, brought to fulfilment over many births, then reaches the highest goal."
+    },
+    {
+     "h": "c7fd7a6e",
+     "en": "The yogi is greater than those who practice austerities; he is held to be greater even than the learned; and the yogi is greater than those who perform rites. So be a yogi, Arjuna."
+    },
+    {
+     "h": "85e8e425",
+     "en": "And of all yogis, the one who is devoted to me with faith, his inmost self gone into me — him I hold to be the most deeply yoked of all.",
+     "cmp": [
+      {
+       "w": "yuktatama",
+       "note": "「最 yukta 的」，白话「最专心的人」。yukta 从「套上轭」到「专心」再到「与我相连」，这一章最后一句把瑜伽的终点落在对神的虔爱上。英文 most deeply yoked 保留了词根的画面。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · The Yoga of Knowledge and Realization",
+   "verses": [
+    {
+     "h": "4efa5e11",
+     "en": "(The Blessed Lord said:) With your mind clinging to me, Partha, practicing yoga and taking refuge in me — hear how you will know me fully, without any doubt."
+    },
+    {
+     "h": "1749c924",
+     "en": "I will tell you this knowledge in full, together with its realization. Once you know it, nothing else remains here to be known.",
+     "cmp": [
+      {
+       "w": "vijñāna",
+       "note": "jñāna 是「知道」，vijñāna 前面加了 vi-（分开、细致）。白话「证悟」把它理解成亲身体证；也有人理解成「分辨的知识」或「具体的知识」。英文写 realization，取的是和白话一样的读法。这一章的标题就是这两个词。"
+      }
+     ]
+    },
+    {
+     "h": "c5985352",
+     "en": "Among thousands of people, hardly one strives for perfection; and even among those who strive and succeed, hardly one knows me as I truly am."
+    },
+    {
+     "h": "31f45617",
+     "en": "Earth, water, fire, air, space, mind, understanding, and the sense of “I” — this is my nature, divided eightfold.",
+     "cmp": [
+      {
+       "w": "prakṛti",
+       "note": "prakṛti 本义是「最先做出来的」，指万物的原料和本来的样子。白话「原质」偏哲学术语，英文 nature 偏日常。这一章把它分成两层：低的八分（五种元素加三种心理成分），和高的一层（生命本身）。"
+      },
+      {
+       "w": "ahaṃkāra",
+       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我执」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。"
+      }
+     ]
+    },
+    {
+     "h": "146fc25e",
+     "en": "This is the lower one. But know my other nature, the higher, mighty-armed one: it has become the living soul, and by it this world is held up."
+    },
+    {
+     "h": "cc5f1d3a",
+     "en": "Understand that all beings have these two as their womb. I am the origin of the whole world, and its dissolution too."
+    },
+    {
+     "h": "02bcab3a",
+     "en": "There is nothing whatever higher than me, Dhananjaya (winner of wealth). All this is strung on me like pearls on a thread.",
+     "cmp": [
+      {
+       "w": "sūtre maṇigaṇāḥ",
+       "note": "sūtra 本义就是「线」，后来才指佛经、经文；中文的「经」本义也是织布的经线。两种语言在这里巧合地重合：万物像珠子，神是那根穿起一切的线。"
+      }
+     ]
+    },
+    {
+     "h": "ce209127",
+     "en": "I am the taste in water, Kaunteya; I am the light of the moon and the sun; the sacred syllable Om in all the Vedas; the sound in space; the manhood in men."
+    },
+    {
+     "h": "2f7ef3bd",
+     "en": "I am the fragrance in the earth and the brilliance in fire; I am the life in all beings, and the austerity in those who practice austerities.",
+     "cmp": [
+      {
+       "w": "gandhaḥ",
+       "note": "本站梵文这里只有 gandhaḥ（香气）；通行本作 puṇyo gandhaḥ（纯净的香气）。白话依通行本补了「纯净」，英文照本站梵文。"
+      },
+      {
+       "w": "tapas",
+       "note": "白话「苦行」，英文 austerity。tapas 本义是「热」，后来指修行者靠忍受饥寒困苦「烧」出来的力量。中英两边都只剩「吃苦」，没了「热」。"
+      }
+     ]
+    },
+    {
+     "h": "fe30dab6",
+     "en": "Know me, Partha, as the eternal seed of all beings. I am the understanding of those who understand, the brilliance of the brilliant."
+    },
+    {
+     "h": "98dc4fed",
+     "en": "I am the strength of the strong, free of desire and passion. In beings, I am desire that does not go against dharma (what is right), bull of the Bharatas.",
+     "cmp": [
+      {
+       "w": "dharma",
+       "note": "dharma 来自「撑住、维持」：让人、让社会、让世界不散架的那一套秩序。随语境可以是「本分」「正当」「教法」。白话这里写「正法」，英文写 dharma 并加注 what is right。这一节有意思的是：欲望本身没有被否定，只要不违背 dharma，神说「我就是那欲望」。"
+      },
+      {
+       "w": "kāma",
+       "note": "同一节里 kāma 用了两次：前一次和 rāga（贪恋）连用，是要去掉的欲望；后一次是神自己。中英文都只能都译成「欲望」/desire，读者要留意这个对照。"
+      }
+     ]
+    },
+    {
+     "h": "ffbf2b30",
+     "en": "And whatever states are of the nature of sattva, rajas or tamas, know that they come from me alone. But I am not in them; they are in me.",
+     "cmp": [
+      {
+       "w": "guṇa",
+       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译「萨埵、罗阇、多磨」，英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。"
+      }
+     ]
+    },
+    {
+     "h": "93020f44",
+     "en": "Deluded by these states made of the three qualities (gunas), this whole world does not recognize me, who am beyond them and never changing."
+    },
+    {
+     "h": "a5be2194",
+     "en": "For this divine maya of mine, made of the qualities, is hard to get past. Only those who turn to me for refuge cross over this maya.",
+     "cmp": [
+      {
+       "w": "māyā",
+       "note": "白话「幻力」。māyā 原意是「造出东西的神奇本领」，可以指魔术，也可以指神的创造力；后来的吠檀多哲学才把它讲成「幻象」。英文保留 maya 不译，避开 illusion 带来的「世界是假的」的读法。"
+      }
+     ]
+    },
+    {
+     "h": "29db238b",
+     "en": "Evildoers, the deluded, the lowest of men, those whose knowledge has been stolen by maya, those who have taken on a demonic nature — these do not turn to me."
+    },
+    {
+     "h": "903e4b49",
+     "en": "Four kinds of people who do good are devoted to me, Arjuna: the one in distress, the one who wants to know, the one who seeks wealth, and the one who knows, bull of the Bharatas."
+    },
+    {
+     "h": "376ca6d0",
+     "en": "Of these, the one who knows, always steady in yoga and devoted to one alone, stands out. For I am exceedingly dear to the one who knows, and he is dear to me.",
+     "cmp": [
+      {
+       "w": "bhakti",
+       "note": "bhakti 本义是「分得一份」，引申为全心的归属和爱。白话「虔爱」把「虔诚」和「爱」合在一起；英文 devotion 偏宗教的虔诚，少了「爱」的温度。这一节「我珍爱他，他珍爱我」，正好说明它是双向的。"
+      }
+     ]
+    },
+    {
+     "h": "51076e4a",
+     "en": "All of these are noble, but the one who knows, I hold to be my very self. For with his self steady in yoga, he has taken me alone as the highest goal."
+    },
+    {
+     "h": "b3d50183",
+     "en": "At the end of many births, the one who knows turns to me, saying, “Vasudeva is everything.” Such a great soul is very hard to find.",
+     "cmp": [
+      {
+       "w": "vāsudeva",
+       "note": "黑天的父亲名叫 Vasudeva，所以黑天被称作 Vāsudeva（婆薮提婆之子）。这节把一位有名有姓的神说成「一切」，是《薄伽梵歌》把哲学和人格神信仰接在一起的地方。"
+      }
+     ]
+    },
+    {
+     "h": "7398664c",
+     "en": "Those whose knowledge has been carried off by this desire or that turn to other gods, following this rule or that, driven by their own nature."
+    },
+    {
+     "h": "94e27f56",
+     "en": "Whatever form a devotee wishes to worship with faith, I make that very faith of his unshakable.",
+     "cmp": [
+      {
+       "w": "śraddhā",
+       "note": "白话「信心」，英文 faith。śraddhā 更接近「信赖、托付」，而不是「相信某个说法是对的」。这节说得很宽：拜别的神的那份信心，也是神给的。"
+      }
+     ]
+    },
+    {
+     "h": "594ce15a",
+     "en": "Joined to that faith, he seeks to win the favor of that god, and from it he obtains his desires — though in truth it is I alone who grant them."
+    },
+    {
+     "h": "7c3a123b",
+     "en": "But the fruit that comes to these people of small understanding has an end. Those who sacrifice to the gods go to the gods; my devotees come to me."
+    },
+    {
+     "h": "c156447f",
+     "en": "Lacking understanding, people think that I, the unmanifest, have come into manifest form. They do not know my higher being, unchanging and unsurpassed."
+    },
+    {
+     "h": "2f9ec01e",
+     "en": "I am not revealed to everyone, veiled as I am by my yoga-maya. This deluded world does not recognize me as unborn and unchanging.",
+     "cmp": [
+      {
+       "w": "yoga-māyā",
+       "note": "这里的 yoga 不是修行，而是「神的本领」，和 māyā 合起来，指神用来遮掩自己的那股力量。白话「瑜伽幻力」直译，读者容易摸不着头脑；英文干脆保留原词。"
+      }
+     ]
+    },
+    {
+     "h": "549d544e",
+     "en": "I know the beings that have passed, those that are now, and those yet to come, Arjuna — but no one knows me."
+    },
+    {
+     "h": "d216645a",
+     "en": "Through the delusion of the opposites that arises from liking and loathing, Bharata (descendant of Bharata), all beings fall into confusion at birth, scorcher of foes."
+    },
+    {
+     "h": "fa3037a9",
+     "en": "But those people of good deeds whose wrongdoing has come to an end, freed from the delusion of the opposites, are devoted to me, firm in their vows."
+    },
+    {
+     "h": "608ad88c",
+     "en": "Those who take refuge in me and strive for release from old age and death know that Brahman, know the whole of what concerns the self (adhyatma), and know all of action.",
+     "cmp": [
+      {
+       "w": "adhyātma",
+       "note": "adhi- 是「关于、在…之上」。白话「内在自我」，英文 what concerns the self。7.29–30 一口气抛出一串 adhi- 开头的词，这一章不解释，故意留给第八章开头让阿周那来问。"
+      }
+     ]
+    },
+    {
+     "h": "ed0b670e",
+     "en": "Those who know me as the one behind beings (adhibhuta), behind the gods (adhidaiva), and behind sacrifice (adhiyajna) — with minds steady in yoga, they know me even at the hour of departure.",
+     "cmp": [
+      {
+       "w": "adhibhūta",
+       "note": "白话把 adhi- 译成「之主」（众生之主、诸神之主、祭祀之主），英文写 the one behind…。梵文 adhi- 本身只是「关于、在其上」，可以是「主宰」，也可以是「相关的那一面」，两种译法都是在解释。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · The Yoga of the Imperishable Brahman",
+   "verses": [
+    {
+     "h": "d31b43bf",
+     "en": "(Arjuna said:) What is that Brahman? What is the self within (adhyatma)? What is action, Purushottama (highest of persons)? And what is it that is called the one behind beings? What is said to be the one behind the gods?",
+     "cmp": [
+      {
+       "w": "puruṣottama",
+       "note": "puruṣa（人）+ uttama（最高）：「人中至上者」。白话「至上之人」。这个称号到第十五章才正式解释。"
+      }
+     ]
+    },
+    {
+     "h": "81871c61",
+     "en": "Who is the one behind sacrifice here in this body, and how is he here, Madhusudana? And at the hour of departure, how are you to be known by those who are self-controlled?"
+    },
+    {
+     "h": "423ef5f4",
+     "en": "(The Blessed Lord said:) Brahman is the supreme imperishable. Its own being is called the self within. The outpouring that brings beings into existence is called action.",
+     "cmp": [
+      {
+       "w": "visarga",
+       "note": "「放出、倾出」：visarga 原指祭祀时把供品倒进火里，也指创造时把万物放出来。白话「创造力」，英文 outpouring。这里的 karma 已经不是第五章那种「做事」，而是「让万物生起的那一放」。"
+      }
+     ]
+    },
+    {
+     "h": "c3fe14ce",
+     "en": "The one behind beings is perishable existence; the one behind the gods is the Person (purusha); and the one behind sacrifice here in the body is I myself, best of the embodied.",
+     "cmp": [
+      {
+       "w": "puruṣa",
+       "note": "puruṣa 原指「人、男人」。吠陀里有一首颂歌说宇宙是由一个巨大的原人被献祭而成，白话「原人」取的就是这层；英文写大写的 Person 并保留原词。数论派又把 puruṣa 当成与 prakṛti（原质）相对的「纯粹意识」。"
+      }
+     ]
+    },
+    {
+     "h": "26550fd4",
+     "en": "And whoever, at the time of the end, leaves the body remembering me alone and goes forth, comes to my state of being. Of this there is no doubt."
+    },
+    {
+     "h": "2a4a31b3",
+     "en": "Whatever state of being one remembers when at the end one leaves the body, to that very state one goes, Kaunteya, having always been steeped in it.",
+     "cmp": [
+      {
+       "w": "tad-bhāva-bhāvita",
+       "note": "bhāvita 是「被浸透、被熏过」，像布被染上颜色。白话「浸润」很贴切。意思是：临终那一念不是临时决定的，而是一辈子熏出来的。"
+      }
+     ]
+    },
+    {
+     "h": "43305a6e",
+     "en": "So remember me at all times — and fight. With mind and understanding offered to me, you will come to me alone; there is no doubt.",
+     "cmp": [
+      {
+       "w": "yudhya ca",
+       "note": "「并且战斗」：两个命令只用一个 ca（并且）连着。这是全书的核心张力：忆念神和上战场不是二选一。英文用破折号把 and fight 单独拎出来，强调这一点。"
+      }
+     ]
+    },
+    {
+     "h": "c39b49fb",
+     "en": "With a mind yoked by the yoga of practice, not straying toward anything else, meditating constantly, Partha, one goes to the supreme divine Person."
+    },
+    {
+     "h": "918c11c6",
+     "en": "Whoever meditates on the seer, the ancient one, the ruler, subtler than the subtle, the sustainer of all, whose form is beyond thought, sun-colored, beyond the darkness —"
+    },
+    {
+     "h": "ade9808c",
+     "en": "at the hour of departure, with an unmoving mind, joined with devotion and by the strength of yoga, setting the life-breath rightly between the eyebrows — he comes to that supreme divine Person."
+    },
+    {
+     "h": "44c649e3",
+     "en": "That which knowers of the Veda call the imperishable, which ascetics free of passion enter, desiring which people live the life of chastity — that state I will tell you in brief.",
+     "cmp": [
+      {
+       "w": "akṣara",
+       "note": "akṣara 有两个意思：「不灭的」和「音节、字母」。这一章两个都用：这里是「不灭者」，第 13 节的 ekākṣara 是「唯一的音节」唵。英文和白话只能各取其一，梵文里却是同一个词，念「唵」就是在念「不灭者」。"
+      }
+     ]
+    },
+    {
+     "h": "6dd81ffe",
+     "en": "Closing all the gates of the body, shutting the mind up within the heart, placing his life-breath at the crown of the head, holding fast to yogic concentration,"
+    },
+    {
+     "h": "0bf481eb",
+     "en": "uttering Om, the one syllable that is Brahman, and remembering me — whoever goes forth this way, leaving the body, reaches the highest goal."
+    },
+    {
+     "h": "9713ed9d",
+     "en": "Whoever remembers me constantly, always, with mind on nothing else — for that yogi, ever steady in yoga, Partha, I am easy to reach."
+    },
+    {
+     "h": "d0746d7a",
+     "en": "Having come to me, the great souls do not take birth again — that home of sorrow, that passing thing. They have reached the highest perfection."
+    },
+    {
+     "h": "4408d33c",
+     "en": "Up to the world of Brahma, all worlds return again, Arjuna. But having come to me, Kaunteya, there is no birth again.",
+     "cmp": [
+      {
+       "w": "brahma-bhuvana",
+       "note": "这里是梵天（Brahmā，创世之神）的世界，不是第五章那个中性的梵（Brahman）。连梵天的天界都还在轮回里。白话写「梵天」分得清，英文用 Brahma 与 Brahman 两种拼法区分。"
+      }
+     ]
+    },
+    {
+     "h": "d12e50b6",
+     "en": "Those who know day and night know that a day of Brahma lasts a thousand ages, and his night ends only after a thousand ages.",
+     "cmp": [
+      {
+       "w": "yuga",
+       "note": "白话「时代」，英文 ages。yuga 是印度宇宙论的时间单位，四个 yuga 合成一个大周期，长达四百多万年；这里的「一千」通常理解为一千个大周期，梵天的一个白天就有四十多亿年。"
+      }
+     ]
+    },
+    {
+     "h": "df292b1c",
+     "en": "At the coming of day, all manifest things spring forth from the unmanifest; at the coming of night, they dissolve into that very thing called the unmanifest."
+    },
+    {
+     "h": "a65230b9",
+     "en": "This same multitude of beings, coming into being again and again, dissolves helplessly at the coming of night, Partha, and springs forth at the coming of day."
+    },
+    {
+     "h": "32921bc1",
+     "en": "But beyond that unmanifest there is another unmanifest being, eternal, which does not perish when all beings perish."
+    },
+    {
+     "h": "5341a18e",
+     "en": "It is called the unmanifest, the imperishable; they call it the highest goal. Those who reach it do not return. That is my highest dwelling."
+    },
+    {
+     "h": "fb5f1f7e",
+     "en": "That supreme Person, Partha, is reached by devotion turned to nothing else. All beings dwell within him; by him all this is pervaded."
+    },
+    {
+     "h": "0d7ca8e0",
+     "en": "Now I will tell you the times, bull of the Bharatas, at which yogis who depart go never to return, and at which they return."
+    },
+    {
+     "h": "18c7c285",
+     "en": "Fire, light, day, the bright half of the month, the six months of the sun's northern course — departing then, those who know Brahman go to Brahman."
+    },
+    {
+     "h": "4e589fff",
+     "en": "Smoke, night, the dark half of the month, the six months of the sun's southern course — the yogi who departs then reaches the light of the moon and returns."
+    },
+    {
+     "h": "0d9e1903",
+     "en": "These two paths, the bright and the dark, are held to be the world's eternal ways. By the one, a person goes and does not return; by the other, he comes back again."
+    },
+    {
+     "h": "8b21994f",
+     "en": "Knowing these two paths, Partha, no yogi is confused. So at all times, Arjuna, be steady in yoga."
+    },
+    {
+     "h": "ec729b29",
+     "en": "Whatever fruit of merit is laid down for the Vedas, for sacrifices, for austerities and for gifts — the yogi who knows this passes beyond it all and reaches the supreme, original place."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · The Yoga of the Royal Knowledge and the Royal Secret",
+   "verses": [
+    {
+     "h": "3d9ae682",
+     "en": "(The Blessed Lord said:) Now I will tell you, who do not find fault, this deepest secret: knowledge together with realization. Knowing it, you will be freed from what is ill."
+    },
+    {
+     "h": "462658db",
+     "en": "This is the royal knowledge, the royal secret, the supreme purifier. It can be seen directly, it is in keeping with dharma, it is very pleasant to practice, and it does not pass away.",
+     "cmp": [
+      {
+       "w": "rāja-vidyā",
+       "note": "rāja- 放在复合词开头常表示「最上等的」，有点像中文说「王牌」；也有人读成「君王们的学问」。白话照字面写「王者之学」，英文写 royal，两种读法都留着。"
+      }
+     ]
+    },
+    {
+     "h": "d52b9eb0",
+     "en": "People who have no faith in this teaching (dharma), scorcher of foes, do not reach me and return to the road of death and the round of rebirth.",
+     "cmp": [
+      {
+       "w": "dharmasya asya",
+       "note": "这里的 dharma 又换了一个意思：不是「本分」或「正当」，而是「这个教法」。白话「这一法」，英文 this teaching。同一个词，前一节是「合乎 dharma」，这一节是「这个 dharma」。"
+      }
+     ]
+    },
+    {
+     "h": "9ed54613",
+     "en": "All this world is pervaded by me in my unmanifest form. All beings stand in me, but I do not stand in them."
+    },
+    {
+     "h": "54e5303d",
+     "en": "And yet beings do not stand in me — behold my sovereign yoga! My self sustains beings and brings them into being, but does not dwell in them.",
+     "cmp": [
+      {
+       "w": "yogam aiśvaram",
+       "note": "这里的 yoga 是「神的本领」，不是修行方法。白话「神圣的瑜伽之力」，英文 sovereign yoga。上一节说众生在我之中，这一节又说不在——这个悖论本身，就是神要阿周那「看」的那份本领。"
+      }
+     ]
+    },
+    {
+     "h": "3cdf5f57",
+     "en": "As the mighty wind, moving everywhere, always rests in space, so understand that all beings rest in me."
+    },
+    {
+     "h": "b43a437f",
+     "en": "All beings, Kaunteya, pass into my nature at the end of an aeon; at the beginning of an aeon I send them forth again.",
+     "cmp": [
+      {
+       "w": "kalpa",
+       "note": "中文佛经把 kalpa 音译成「劫波」，简称「劫」——「劫数」「万劫不复」都从这里来。英文 aeon 是意译。一个 kalpa 就是梵天的一个白天（见第八章）。"
+      }
+     ]
+    },
+    {
+     "h": "3965bf1c",
+     "en": "Taking hold of my own nature, I send forth again and again this whole multitude of beings, helpless under the sway of nature."
+    },
+    {
+     "h": "b78a408a",
+     "en": "Nor do these actions bind me, Dhananjaya, for I sit as one who is indifferent, unattached to those actions."
+    },
+    {
+     "h": "6865bbb0",
+     "en": "With me as overseer, nature gives birth to all that moves and does not move. For this reason, Kaunteya, the world keeps turning."
+    },
+    {
+     "h": "d544e8ce",
+     "en": "Fools look down on me when I have taken on a human body, not knowing my higher being as the great Lord of beings."
+    },
+    {
+     "h": "d2246b30",
+     "en": "Their hopes are vain, their actions vain, their knowledge vain; they are senseless, holding to the deluding nature of fiends and demons."
+    },
+    {
+     "h": "dac96ff2",
+     "en": "But great souls, Partha, holding to the divine nature, are devoted to me with minds on nothing else, knowing me as the origin of beings, the unchanging."
+    },
+    {
+     "h": "feac6728",
+     "en": "Always praising me, striving, firm in their vows, bowing to me in devotion, ever steady in yoga, they worship me."
+    },
+    {
+     "h": "7256bc45",
+     "en": "Others, too, sacrificing with the sacrifice of knowledge, worship me as the one, as the many, in many ways — me whose face is turned in every direction."
+    },
+    {
+     "h": "6499d1a2",
+     "en": "I am the rite, I am the sacrifice, I am the offering to the ancestors, I am the healing herb. I am the mantra, I am the clarified butter, I am the fire, I am the offering poured into it.",
+     "cmp": [
+      {
+       "w": "kratu / yajña",
+       "note": "两个都是「祭祀」：kratu 偏指具体的吠陀仪式，yajña 是祭祀的通称。中文和英文都只能勉强分成「祭仪 / 祭祀」「rite / sacrifice」。"
+      },
+      {
+       "w": "svadhā",
+       "note": "既是献给祖先的供品，也是献供时喊的那一声。白话、英文都只译出了供品。"
+      }
+     ]
+    },
+    {
+     "h": "309d32c7",
+     "en": "I am the father of this world, the mother, the one who sustains it, the grandfather. I am what is to be known, the purifier, the syllable Om, and the Rig, Sama and Yajur Vedas."
+    },
+    {
+     "h": "b20d96d1",
+     "en": "I am the goal, the upholder, the lord, the witness, the dwelling, the refuge, the friend; the origin and the dissolution, the ground, the treasure house, the seed that does not perish."
+    },
+    {
+     "h": "aafb7b5d",
+     "en": "I give heat; I hold back the rain and send it forth. I am deathlessness and also death; I am what is and what is not, Arjuna."
+    },
+    {
+     "h": "c36a023a",
+     "en": "Those versed in the three Vedas, drinkers of soma, cleansed of wrong, worship me with sacrifices and pray for the way to heaven. Reaching the holy world of the lord of the gods, they enjoy in heaven the divine pleasures of the gods.",
+     "cmp": [
+      {
+       "w": "surendra",
+       "note": "「诸神之王」，就是因陀罗（Indra）。白话直接点名因陀罗，英文只写 the lord of the gods。"
+      }
+     ]
+    },
+    {
+     "h": "9ed1f99d",
+     "en": "Having enjoyed that vast world of heaven, when their merit runs out they enter the world of mortals. So, following the dharma of the three Vedas, wanting what they want, they get only coming and going.",
+     "cmp": [
+      {
+       "w": "gatāgata",
+       "note": "「去了又来」：两个分词并在一起。白话「来来去去」很传神，英文 coming and going 也一样。这里的 trayī-dharma（三吠陀之法）指的是吠陀的仪式规定，又是 dharma 的另一个用法。"
+      }
+     ]
+    },
+    {
+     "h": "b6fffb3d",
+     "en": "But those people who think of me with no other thought and worship me — to them, ever joined to me, I bring what they lack and keep safe what they have.",
+     "cmp": [
+      {
+       "w": "yoga-kṣema",
+       "note": "古印度的一个固定说法：yoga 指「得到还没有的」，kṣema 指「保住已经有的」。这里的 yoga 跟修行毫无关系。白话「所得与所守」，英文 bring what they lack and keep safe what they have，都是把这个词组拆开来讲。"
+      }
+     ]
+    },
+    {
+     "h": "f19271a9",
+     "en": "Even those who are devotees of other gods and sacrifice to them with faith, Kaunteya, are really sacrificing to me alone — though not in the prescribed way."
+    },
+    {
+     "h": "b4eed6ac",
+     "en": "For I am the enjoyer of all sacrifices, and their lord. But they do not know me as I truly am, and so they fall."
+    },
+    {
+     "h": "61187fad",
+     "en": "Those vowed to the gods go to the gods; those vowed to the ancestors go to the ancestors; those who sacrifice to spirits go to the spirits; and those who sacrifice to me come to me."
+    },
+    {
+     "h": "33816f99",
+     "en": "Whoever offers me with devotion a leaf, a flower, a fruit, a little water — that offering of devotion, from one whose heart is pure, I take and eat.",
+     "cmp": [
+      {
+       "w": "aśnāmi",
+       "note": "「我吃」：aśnāmi 是很直白的「吃」。神说自己会吃下一片叶子、一点水，白话「享用」比原文客气；英文照直写 eat，保留那份亲近。"
+      }
+     ]
+    },
+    {
+     "h": "f68e93bc",
+     "en": "Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give, whatever austerity you practice, Kaunteya — do it as an offering to me."
+    },
+    {
+     "h": "4f95f34e",
+     "en": "In this way you will be freed from the bonds of action, with their good and bad fruits. With your self yoked in the yoga of renunciation, set free, you will come to me."
+    },
+    {
+     "h": "582cedcd",
+     "en": "I am the same toward all beings; none is hateful to me, none is dear. But those who worship me with devotion are in me, and I too am in them."
+    },
+    {
+     "h": "449e4cce",
+     "en": "Even if someone of very bad conduct worships me, devoted to nothing else, he must be regarded as good, for he has resolved rightly."
+    },
+    {
+     "h": "53e54cca",
+     "en": "Quickly he becomes righteous and goes to lasting peace. Kaunteya, declare it: no devotee of mine is ever lost."
+    },
+    {
+     "h": "6b8439d2",
+     "en": "For those who take refuge in me, Partha, even those who may be of lowly birth, and women, vaishyas (traders and farmers) and shudras (laborers) as well — they too reach the highest goal.",
+     "cmp": [
+      {
+       "w": "pāpa-yonayaḥ",
+       "note": "这句的语法有两种读法：一是并列几类人（出身卑贱的人，以及妇女、吠舍、首陀罗）；二是像白话那样，把妇女等人当作「出身卑贱者」的举例。英文取并列的读法。两种读法都反映了古代社会的等级观念，这一节的重点是：这些人一样能到达最高的归宿。"
+      }
+     ]
+    },
+    {
+     "h": "e5baa0ad",
+     "en": "How much more, then, holy Brahmins and devoted royal sages! Having come into this passing and joyless world, be devoted to me."
+    },
+    {
+     "h": "6c226dbb",
+     "en": "Keep your mind on me, be my devotee, sacrifice to me, bow down to me. Having yoked yourself this way, with me as your final goal, you will come to me alone."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · The Yoga of Divine Manifestations",
+   "verses": [
+    {
+     "h": "fcd6da0c",
+     "en": "(The Blessed Lord said:) Listen once more, mighty-armed one, to my highest word. You are glad to hear it, and because I want what is good for you, I will tell it to you."
+    },
+    {
+     "h": "db38a2e8",
+     "en": "Neither the hosts of gods nor the great seers know where I come from, for in every way I am the beginning of the gods and of the great seers."
+    },
+    {
+     "h": "56867fa6",
+     "en": "Whoever knows me as unborn and without beginning, the great lord of the world, is free from confusion among mortals and is released from every wrong.",
+     "cmp": [
+      {
+       "w": "pāpa",
+       "note": "梵文 pāpa 是「坏事、不吉、恶果」，不是基督教那种得罪上帝的「罪」。白话写「罪恶」，英文写 every wrong，都比 sin 少一层宗教审判的味道。"
+      }
+     ]
+    },
+    {
+     "h": "baba9e16",
+     "en": "Understanding, knowledge, clear-mindedness, patience, truthfulness, self-restraint, calm; pleasure and pain, coming into being and passing away, fear and fearlessness;",
+     "cmp": [
+      {
+       "w": "buddhi",
+       "note": "buddhi 来自动词 budh「醒来、明白」，指能分辨、能拿主意的那部分心。本站英文统一译 understanding，白话这里写「理智」，别处也写「智慧」，同一个词在中文里换了几个说法。"
+      },
+      {
+       "w": "bhavo 'bhāvaḥ",
+       "note": "梵文 bhava / abhāva 可以读成哲学上的「有、无」，也可以读成日常的「生起、消失」。白话取「存在、不存在」，英文取 coming into being and passing away，因为这一串都是人会经历的状态。"
+      }
+     ]
+    },
+    {
+     "h": "51505b92",
+     "en": "nonviolence, evenness of mind, contentment, austerity, giving, fame and disgrace: these many different states of beings come from me alone.",
+     "cmp": [
+      {
+       "w": "tapas",
+       "note": "tapas 字面是「热」，指修行时忍受苦楚而生出的那股内在的热力。英文 austerity、白话「苦行」都只剩下「吃苦」，丢了「热、能量」这一层。"
+      }
+     ]
+    },
+    {
+     "h": "7974a9e2",
+     "en": "The seven great seers of old, and the four Manus as well, share my nature and were born from my mind; from them come all the creatures of this world.",
+     "cmp": [
+      {
+       "w": "manu",
+       "note": "摩奴（Manu）是人类的始祖，梵文「人」manuṣya 就是从这个名字来的，所以说众生是他们的后代。中文音译「摩奴」，这层「人就是摩奴的子孙」的联系看不出来。"
+      }
+     ]
+    },
+    {
+     "h": "a75a9104",
+     "en": "Whoever truly knows this outpouring of my power (vibhuti) and my yoga is joined to me by a yoga that does not waver. Of this there is no doubt.",
+     "cmp": [
+      {
+       "w": "vibhūti",
+       "note": "vibhūti 来自 vi-bhū「向四面展开、变得广大」，指神的力量铺开来、在万物中显出来，这是本章的关键词。白话「神通显现」容易让人想到法术神通；英文 manifestation 又太平淡，所以本站英文写 outpouring of power，第一次保留原词。"
+      },
+      {
+       "w": "yoga",
+       "note": "这里的 yoga 不是打坐练功，而是动词 yuj「套上、连起来」的本义：神把万物连成一体的那种力量。同一句后半的 yoga 才是人「与神相连」。英文都留 yoga，白话前面译「瑜伽之力」，算是提醒了这一点。"
+      }
+     ]
+    },
+    {
+     "h": "9f1981be",
+     "en": "I am the source of everything; from me everything sets out. Knowing this, the wise love and worship me, their hearts full of feeling.",
+     "cmp": [
+      {
+       "w": "bhajante",
+       "note": "动词 bhaj 本义是「分得一份、属于、亲近」，「虔爱」bhakti 就是它的名词。它不只是下对上的敬拜，还有彼此相属的亲密。白话写「敬奉」偏重礼数，英文写 love and worship，把亲近的一面也带上。"
+      }
+     ]
+    },
+    {
+     "h": "8cea3889",
+     "en": "With their thoughts on me and their lives given over to me, they awaken one another and talk of me always, and in this they find contentment and delight."
+    },
+    {
+     "h": "4062b155",
+     "en": "To those who are always joined to me and worship me with love, I give that yoga of understanding by which they come to me."
+    },
+    {
+     "h": "51984cbf",
+     "en": "Out of compassion for them alone, I, dwelling in their very being, destroy the darkness born of ignorance with the shining lamp of knowledge."
+    },
+    {
+     "h": "d52fc08e",
+     "en": "(Arjuna said:) You are the supreme Brahman, the supreme dwelling, the supreme purifier, the eternal divine person (purusha), the first of the gods, unborn and all-pervading.",
+     "cmp": [
+      {
+       "w": "puruṣa",
+       "note": "puruṣa 最普通的意思就是「人、男人」，在哲学里指那个有知觉的「灵」。白话「原人」借自《梨俱吠陀》里那位被献祭、化成宇宙的巨人；英文 person 保留了「人」的平常味道。两边各取一半。"
+      }
+     ]
+    },
+    {
+     "h": "d8c46b40",
+     "en": "All the seers say this of you, and so does the divine seer Narada, and Asita Devala, and Vyasa (the sage said to have composed the Mahabharata); and now you yourself tell me so."
+    },
+    {
+     "h": "78a2c0d5",
+     "en": "Keshava, I hold everything you tell me to be true. Blessed one, neither the gods nor the demons (Danavas) know how you show yourself.",
+     "cmp": [
+      {
+       "w": "keśava",
+       "note": "阿周那称呼对方的名字一直在换：Keśava（美发者）、Janārdana（激动众人者）、Hṛṣīkeśa、Viṣṇu……每个称号有它的意思和场合。白话几乎一律写「黑天」，读起来顺，但称号背后的语气全没了。英文保留原名，只在第一次加括号解释。"
+      }
+     ]
+    },
+    {
+     "h": "7268c417",
+     "en": "Only you know yourself, by your own self, highest of persons: you who bring beings into being, lord of beings, god of gods, master of the world."
+    },
+    {
+     "h": "dc394f0e",
+     "en": "Please tell me fully about your divine self-manifestations, the powers by which you pervade these worlds and abide in them."
+    },
+    {
+     "h": "b1d2dd97",
+     "en": "Yogi, how may I come to know you as I keep you always in my thoughts? In which things, Blessed one, should I think of you?",
+     "cmp": [
+      {
+       "w": "yogin",
+       "note": "梵文只是呼格 yogin「瑜伽士啊」，阿周那用的是修行人的普通称呼。白话升格成「瑜伽之主」；英文照原词写 Yogi。"
+      }
+     ]
+    },
+    {
+     "h": "563c1e3e",
+     "en": "Tell me again, Janardana, at length, about your yoga and your powers, for as I listen to this nectar I can never have enough.",
+     "cmp": [
+      {
+       "w": "amṛta",
+       "note": "amṛta 字面就是「不死」，神话里是喝了能长生的饮料。白话「甘露」、英文 nectar 都只剩下甜美，「不死」这个本义要靠读者自己补。"
+      }
+     ]
+    },
+    {
+     "h": "e02fd063",
+     "en": "(The Blessed Lord said:) Very well, I will tell you of my divine self-manifestations, best of the Kurus, but only the chief ones, for there is no end to my reach."
+    },
+    {
+     "h": "e8b5e5c3",
+     "en": "Gudakesha, I am the self that dwells in the heart of every being. I am the beginning, the middle and the very end of beings.",
+     "cmp": [
+      {
+       "w": "guḍākeśa",
+       "note": "阿周那的称号 Guḍākeśa，可以拆成「睡眠之主」（克服了睡意的人），也可以拆成「头发浓密的人」。白话直接写「阿周那」，英文保留原名。"
+      },
+      {
+       "w": "ātman",
+       "note": "ātman 原本就是反身代词「自己」，哲学上指每个人最深处那个真正的自己。本站英文统一写 the self；白话写「真我」，多加了一个「真」字，意思不错，但原文没有这么强调。"
+      }
+     ]
+    },
+    {
+     "h": "53acfd74",
+     "en": "Among the Adityas (the sons of the goddess Aditi) I am Vishnu; among lights, the radiant sun; among the Maruts (the storm gods) I am Marichi; among the stars of the lunar houses, I am the moon.",
+     "cmp": [
+      {
+       "w": "nakṣatra",
+       "note": "nakṣatra 不是一般的「星星」，而是月亮每晚经过的二十七个星宿。所以「星宿中我是月亮」在梵文里很自然：月亮正是这些星宿的主人。英文只写 stars 会显得奇怪，所以加了 lunar houses。"
+      }
+     ]
+    },
+    {
+     "h": "2071e04a",
+     "en": "Among the Vedas I am the Sama Veda; among the gods I am Vasava (Indra); among the senses I am the mind; in living beings I am awareness.",
+     "cmp": [
+      {
+       "w": "manas",
+       "note": "印度哲学把 manas（心意）算作第十一种感官，负责把五官传来的东西拼起来。英文 mind、中文「心」都像是高于感官的东西，看不出这里为什么把它放在「感官」一类里。"
+      }
+     ]
+    },
+    {
+     "h": "396e68a4",
+     "en": "Among the Rudras I am Shankara (Shiva); among the yakshas and rakshasas (nature spirits and demons) I am the lord of wealth (Kubera); among the Vasus I am fire; among mountain peaks I am Meru."
+    },
+    {
+     "h": "c41e8f32",
+     "en": "Know me, Partha (son of Pritha), as the chief of household priests, Brihaspati; among generals I am Skanda; among bodies of water I am the ocean."
+    },
+    {
+     "h": "2b8ddd8c",
+     "en": "Among the great seers I am Bhrigu; among words I am the one syllable (Om); among sacrifices I am the sacrifice of quiet repetition; among things that stand still, the Himalaya.",
+     "cmp": [
+      {
+       "w": "akṣara",
+       "note": "akṣara 同时是「音节」和「不灭」。「言语中我是那一个音节」也可以听成「那一个不灭者」。白话「音节」、英文 syllable 都只能取一边。"
+      }
+     ]
+    },
+    {
+     "h": "27b8ff66",
+     "en": "Among all trees I am the ashvattha (the sacred fig); among divine seers, Narada; among the gandharvas (heavenly musicians), Chitraratha; among the perfected ones, the sage Kapila.",
+     "cmp": [
+      {
+       "w": "aśvattha",
+       "note": "aśvattha 就是毕钵罗树，后来佛陀在这种树下成道，才有了「菩提树」的名字。白话直接写「菩提树」，中文读者会想到佛教；《薄伽梵歌》这里没有这层意思，英文写 sacred fig。"
+      }
+     ]
+    },
+    {
+     "h": "495d89b1",
+     "en": "Among horses know me as Uchchaihshravas, born of the nectar; among lordly elephants, Airavata; and among men, the king."
+    },
+    {
+     "h": "95939517",
+     "en": "Among weapons I am the thunderbolt; among cows, the wish-granting cow; among those who beget, I am Kandarpa, the god of love; among serpents I am Vasuki."
+    },
+    {
+     "h": "facd8675",
+     "en": "Among the nagas (serpent beings) I am Ananta; among the creatures of the waters, Varuna; among the ancestors, Aryaman; among those who hold others in check, I am Yama.",
+     "cmp": [
+      {
+       "w": "yamaḥ saṃyamatām",
+       "note": "这是个文字游戏：Yama（阎摩）的名字来自动词 yam「约束」，saṃyamatām 是「约束者们」。「约束者中我是约束」，梵文一听就懂；白话「执法者」、英文 hold others in check 只能保住意思，保不住谐音。"
+      }
+     ]
+    },
+    {
+     "h": "47edfd9d",
+     "en": "Among the Daityas (demon sons of Diti) I am Prahlada; among those who reckon, I am time; among beasts, the king of beasts; among birds, Garuda, son of Vinata.",
+     "cmp": [
+      {
+       "w": "kālaḥ kalayatām",
+       "note": "又一个谐音：kāla「时间」和 kal「计算」同音近义，时间本来就是最会「算账」的。白话「计算者中我是时间」意思到了，音没了。kāla 这个词到第十一章还会以更可怕的面目出现。"
+      }
+     ]
+    },
+    {
+     "h": "fe22d01d",
+     "en": "Among purifiers I am the wind; among those who bear arms, Rama; among sea creatures, the makara; among rivers I am the Ganges (Jahnavi)."
+    },
+    {
+     "h": "a6034a09",
+     "en": "Of all creations I am the beginning, the end and the middle too, Arjuna. Of all kinds of knowledge I am knowledge of the self; in those who debate, I am the reasoning that seeks the truth."
+    },
+    {
+     "h": "5d2b39b0",
+     "en": "Among letters I am the letter A; among compounds, the pairing compound. I alone am time that never runs out; I am the creator whose faces turn every way.",
+     "cmp": [
+      {
+       "w": "dvandva",
+       "note": "dvandva 是语法术语：把两个词并列成「甲和乙」的复合词。同一个词在本经别处指「冷热、苦乐这类成对的对立」。白话、英文都只能译出语法这一层。"
+      }
+     ]
+    },
+    {
+     "h": "3e9052f8",
+     "en": "I am death that carries everything off, and the coming forth of all that is yet to be. Among the feminine I am fame, fortune, speech, memory, wisdom, steadfastness and patience.",
+     "cmp": [
+      {
+       "w": "nārīṇām",
+       "note": "字面是「在女人之中」，后面列的七个词在梵文里都是阴性名词，也常被当成女神。白话写「阴性的事物」、英文写 among the feminine，都绕开了「女人」这个直译。"
+      }
+     ]
+    },
+    {
+     "h": "75f03495",
+     "en": "Among the chants I am the Brihat-saman; among meters, the Gayatri; among months, Margashirsha (around November to December); among seasons, the flower-bringing spring."
+    },
+    {
+     "h": "3b4a078a",
+     "en": "Of cheats I am the dice game; of the brilliant, their brilliance. I am victory, I am resolve, I am the goodness of the good.",
+     "cmp": [
+      {
+       "w": "dyūta",
+       "note": "「欺诈中我是赌博」听来刺耳。整部《摩诃婆罗多》的战争，正是从般度族在一场作弊的掷骰赌局里输掉王国开始的。这一层背景，白话和英文都要靠读者自己知道。"
+      }
+     ]
+    },
+    {
+     "h": "450f6e20",
+     "en": "Among the Vrishnis I am Vasudeva; among the Pandavas, Dhananjaya (winner of wealth); among sages I am Vyasa; among poets, the poet Ushana."
+    },
+    {
+     "h": "60b312c0",
+     "en": "Of those who tame I am the rod; of those who seek victory, wise policy; of secrets, I am silence; of the knowing, I am knowledge."
+    },
+    {
+     "h": "cd949ba7",
+     "en": "And whatever is the seed of all beings, that is me, Arjuna. Nothing that moves or stands still could exist without me."
+    },
+    {
+     "h": "4b26d493",
+     "en": "There is no end to my divine powers, scorcher of foes. What I have told you is only a sketch of how far they reach."
+    },
+    {
+     "h": "f5aa67d2",
+     "en": "Whatever being has power, splendor or strength, know that it has sprung from a mere spark of my brilliance."
+    },
+    {
+     "h": "ffba35fc",
+     "en": "But what good is all this detail to you, Arjuna? I hold up this whole world with a single fragment of myself, and remain."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · The Vision of the Universal Form",
+   "verses": [
+    {
+     "h": "10b8f72d",
+     "en": "(Arjuna said:) Out of kindness to me you have spoken the deepest secret, the teaching about the self, and through your words this confusion of mine has gone."
+    },
+    {
+     "h": "4bd82122",
+     "en": "Lotus-eyed one, I have heard from you at length how beings arise and pass away, and of your greatness that never fades."
+    },
+    {
+     "h": "b5d4fd0f",
+     "en": "It is just as you have said of yourself, supreme Lord. Yet, highest of persons, I long to see your form as the Lord of all."
+    },
+    {
+     "h": "912a4e20",
+     "en": "Lord, if you think it possible for me to see it, then, master of yoga, show me your imperishable self."
+    },
+    {
+     "h": "77a143f6",
+     "en": "(The Blessed Lord said:) Look, Partha, at my forms, by the hundred and by the thousand, of many kinds, divine, of many colors and shapes."
+    },
+    {
+     "h": "e1a3f5b5",
+     "en": "Look at the Adityas, the Vasus, the Rudras, the twin Ashvins and the Maruts. Look, Bharata (descendant of Bharata), at many wonders never seen before."
+    },
+    {
+     "h": "d62c06a1",
+     "en": "Here, today, see the whole universe, all that moves and all that is still, gathered in one place in my body, Gudakesha, and anything else you wish to see."
+    },
+    {
+     "h": "91d3bdab",
+     "en": "But you cannot see me with these eyes of yours. I give you a divine eye: see my yoga as the Lord.",
+     "cmp": [
+      {
+       "w": "divyaṃ cakṣuḥ",
+       "note": "梵文「神圣的眼睛」。白话「天眼」是佛教熟词，中文读者会想到「天眼通」；英文 divine eye 没有这层联想。"
+      }
+     ]
+    },
+    {
+     "h": "45104eaa",
+     "en": "(Sanjaya said:) Having spoken this, O king (Dhritarashtra), the great lord of yoga, Hari, then showed Partha his supreme form as the Lord."
+    },
+    {
+     "h": "34d71f5b",
+     "en": "It had countless mouths and eyes, countless marvelous sights, countless divine ornaments, countless divine weapons raised;"
+    },
+    {
+     "h": "753973ca",
+     "en": "it wore divine garlands and garments and was anointed with divine perfumes, all made of wonder: God, without end, facing every way."
+    },
+    {
+     "h": "c7a8b6b8",
+     "en": "If the light of a thousand suns were to rise in the sky all at once, that might come near the light of that great being."
+    },
+    {
+     "h": "8460c8e1",
+     "en": "There, in the body of the god of gods, the son of Pandu saw the whole universe, divided in so many ways, standing together as one."
+    },
+    {
+     "h": "a88cb466",
+     "en": "Then Dhananjaya, overcome with wonder, the hair on his body standing up, bowed his head to the god, joined his palms, and spoke.",
+     "cmp": [
+      {
+       "w": "hṛṣṭa-romā",
+       "note": "梵文「毛发竖起」，在印度诗里常是又惊又喜、全身发麻的感觉。白话「汗毛直竖」在中文里多半指害怕；英文只写 hair standing up，把是惊是喜留给读者。"
+      }
+     ]
+    },
+    {
+     "h": "481c4c7b",
+     "en": "(Arjuna said:) I see the gods in your body, O God, and all the kinds of beings gathered in crowds: Brahma the lord seated on his lotus, all the seers, and the divine serpents."
+    },
+    {
+     "h": "24c025d5",
+     "en": "I see you everywhere, endless in form, with countless arms, bellies, mouths and eyes. I see no end of you, no middle, and no beginning either, lord of all, whose form is the universe.",
+     "cmp": [
+      {
+       "w": "viśva-rūpa",
+       "note": "viśva-rūpa 是本章的核心词：「以一切为形」或「有一切形状的」。白话写「以宇宙为形相者」，英文写 whose form is the universe；梵文 viśva 是「一切」，比「宇宙」更直白。"
+      }
+     ]
+    },
+    {
+     "h": "05d7875c",
+     "en": "I see you wearing a crown, bearing a mace and a discus, a mass of radiance blazing on every side, hard to look at, all around you the glare of burning fire and sun, beyond measure."
+    },
+    {
+     "h": "9d671f69",
+     "en": "You are the Imperishable, the highest thing to be known; you are the final resting place of this universe. You never fade; you guard the everlasting dharma (the order of things). You are, I believe, the eternal person.",
+     "cmp": [
+      {
+       "w": "dharma",
+       "note": "dharma 来自 dhṛ「撑住」，是把世界和社会撑住的秩序，落到个人身上就是「本分」。本站英文在讲个人时译 duty，这里讲宇宙就写 order of things；白话写「正法」，是借了佛教词，意思偏向「真理、正道」。"
+      }
+     ]
+    },
+    {
+     "h": "a3266f34",
+     "en": "I see you without beginning, middle or end, of endless power, with endless arms, the sun and moon for eyes, your mouth a blazing sacrificial fire, scorching this whole universe with your own heat."
+    },
+    {
+     "h": "d36fafe0",
+     "en": "The space between heaven and earth, and every direction, is filled by you alone. Seeing this wondrous, terrible form of yours, great one, the three worlds tremble.",
+     "cmp": [
+      {
+       "w": "loka-traya",
+       "note": "「三个世界」在吠陀里是天、空、地。白话「三界」是佛教词，指欲界、色界、无色界，中文读者容易套错。英文 three worlds 中性一些。"
+      }
+     ]
+    },
+    {
+     "h": "ff766c42",
+     "en": "Those crowds of gods are entering into you; some, afraid, praise you with joined palms. Crowds of great seers and perfected ones cry 'May it be well!' and praise you with hymns in abundance."
+    },
+    {
+     "h": "2af43eb5",
+     "en": "The Rudras, Adityas, Vasus and Sadhyas, the All-gods, the two Ashvins, the Maruts and the steam-drinkers, crowds of gandharvas, yakshas, asuras and perfected ones: all of them gaze at you in amazement.",
+     "cmp": [
+      {
+       "w": "ūṣmapāḥ",
+       "note": "字面是「喝热气的人」，指祖先的灵魂：他们只享用祭食冒出的热气。白话直接写「祖灵」，意思对，但这个古怪而生动的说法丢了。"
+      }
+     ]
+    },
+    {
+     "h": "e2db0170",
+     "en": "Seeing your vast form, mighty-armed one, with its many mouths and eyes, many arms, thighs and feet, many bellies, fearsome with many tusks, the worlds tremble, and so do I."
+    },
+    {
+     "h": "88524c79",
+     "en": "When I see you touching the sky, blazing, many-colored, mouths gaping, huge eyes on fire, my innermost self is shaken, Vishnu, and I find no steadiness and no peace.",
+     "cmp": [
+      {
+       "w": "viṣṇo",
+       "note": "阿周那在这里改口叫「毗湿奴啊」。前面一直是朋友般的称呼，此刻他看见的正是大神毗湿奴的本相，称呼一变，关系也变了。白话仍写「黑天」，这个转折看不出来；英文照原文写 Vishnu。"
+      }
+     ]
+    },
+    {
+     "h": "d0065e0a",
+     "en": "Just seeing your mouths, fearsome with tusks, like the fire at the end of time, I lose all sense of direction and find no shelter. Have mercy, lord of gods, home of the universe!",
+     "cmp": [
+      {
+       "w": "kālānala",
+       "note": "字面是「时间之火」，指一个宇宙周期结束时烧尽一切的那场大火。白话「世界末日之火」带了西方「末日」的味道；印度的「终结」是循环的，烧完还会重来。英文写 fire at the end of time，保住了「时间」这个字。"
+      }
+     ]
+    },
+    {
+     "h": "4f6e57e2",
+     "en": "And all these sons of Dhritarashtra, together with crowds of kings, Bhishma, Drona and that charioteer's son (Karna), and the chief warriors on our own side too,"
+    },
+    {
+     "h": "202a71e3",
+     "en": "are rushing into your fearsome mouths, terrible with tusks. Some are seen caught between your teeth, their heads crushed to powder."
+    },
+    {
+     "h": "d874290d",
+     "en": "As the many rushing currents of rivers race toward the one ocean, so these heroes of the world of men pour into your blazing mouths."
+    },
+    {
+     "h": "eaf55b27",
+     "en": "As moths fly at full speed into a blazing fire to their death, so the worlds fly at full speed into your mouths to their death."
+    },
+    {
+     "h": "0859c6fd",
+     "en": "Swallowing all the worlds from every side with your flaming mouths, you lick your lips. Your fierce rays fill the whole universe with brilliance and scorch it, Vishnu."
+    },
+    {
+     "h": "ae53f44a",
+     "en": "Tell me who you are, with this terrible form. Homage to you, best of gods; have mercy! I want to understand you, the first one, for I do not understand what you are doing."
+    },
+    {
+     "h": "312334c6",
+     "en": "(The Blessed Lord said:) I am time, grown ripe, the destroyer of worlds, come here to gather the worlds in. Even without you, none of these warriors drawn up in the opposing ranks will live on.",
+     "cmp": [
+      {
+       "w": "kāla",
+       "note": "kāla 同时是「时间」「死亡的时刻」和「黑色」，而 Kṛṣṇa 这个名字本义也是「黑」。白话、英文都译「时间」，这是对的：神说的是时间本身就在吞人。英语世界流传的那句 I am become Death，把它换成了「死亡」，比原文更直接也更窄。"
+      },
+      {
+       "w": "samāhartum",
+       "note": "动词 sam-ā-hṛ 是「收拢、收回」，像把摊开的东西收起来。白话「收拾众生」带着一点狠劲，英文 gather in 更接近「收回」的本义。"
+      }
+     ]
+    },
+    {
+     "h": "e1314083",
+     "en": "So stand up and win glory. Conquer your enemies and enjoy a thriving kingdom. They have already been struck down by me; be no more than the instrument, Savyasachin (you who can shoot with either hand).",
+     "cmp": [
+      {
+       "w": "nimitta-mātram",
+       "note": "nimitta 是「起因、契机、标记」，不完全是「工具」。神说的是：你只是让这件事发生的那个由头。白话「工具」、英文 instrument 都比原词更像被拿在手里的东西。"
+      }
+     ]
+    },
+    {
+     "h": "edd0ecef",
+     "en": "Drona and Bhishma, Jayadratha and Karna, and the other heroic warriors too, I have already slain. Kill them; do not be shaken. Fight! You will defeat your rivals in battle."
+    },
+    {
+     "h": "8bee1e19",
+     "en": "(Sanjaya said:) Hearing these words of Keshava, the crowned one, trembling, palms joined, bowed and spoke once more to Krishna, stammering, terrified, bowing low."
+    },
+    {
+     "h": "b5730599",
+     "en": "(Arjuna said:) It is fitting, Hrishikesha, that the world rejoices and delights in your praise; the rakshasas flee in terror in every direction, and all the crowds of perfected ones bow down.",
+     "cmp": [
+      {
+       "w": "hṛṣīkeśa",
+       "note": "Hṛṣīkeśa 常被解成「感官之主」（hṛṣīka 是感官），也有人解成「头发竖起的人」。这句开头正是 prahṛṣyati「欢喜得发抖」，和称号同根，是个暗中的呼应，白话「黑天」、英文都留不住。"
+      }
+     ]
+    },
+    {
+     "h": "4f1e32c9",
+     "en": "And why should they not bow to you, great one? You are greater even than Brahma, the first maker. Endless one, lord of gods, home of the universe, you are the Imperishable: what is, what is not, and what lies beyond them both.",
+     "cmp": [
+      {
+       "w": "brahmaṇaḥ",
+       "note": "brahmaṇaḥ 可以是创世神「梵天」（Brahmā），也可以是那个无形的「梵」（brahman）。前面又说「最初的创造者」，所以白话和英文都读成梵天；另一种读法是「你比梵还大」，意思就完全不同了。"
+      }
+     ]
+    },
+    {
+     "h": "a6d24366",
+     "en": "You are the first god, the ancient person, the final resting place of this universe. You are the knower and what is to be known, and the highest dwelling. By you the universe is spread out, you of endless form."
+    },
+    {
+     "h": "ecc212be",
+     "en": "You are Vayu (wind), Yama, Agni (fire), Varuna, the moon, Prajapati (lord of creatures), and the great-grandfather. Homage, homage to you a thousand times, and again, and once more, homage, homage to you!",
+     "cmp": [
+      {
+       "w": "prapitāmaha",
+       "note": "梵天常被称为众生的「祖父」（pitāmaha），这里叫克里希那「曾祖父」，意思是他连梵天的源头也是。白话写「始祖」，这层「比祖父还早一辈」的辈分感没了。"
+      }
+     ]
+    },
+    {
+     "h": "fdaa239d",
+     "en": "Homage to you in front and behind, homage to you on every side, you who are all. Your strength is endless, your might beyond measure; you take in everything, and so you are everything."
+    },
+    {
+     "h": "b1812514",
+     "en": "Whatever I said rashly, thinking of you as a friend, 'Hey, Krishna! Hey, Yadava! Hey, friend!', not knowing this greatness of yours, through carelessness or simply out of affection,"
+    },
+    {
+     "h": "eeb4755c",
+     "en": "and however I may have slighted you in jest, at play, lying down, sitting or at meals, alone, Achyuta (unshaken one), or in front of others, for all of that I ask you, who are beyond measure, to forgive me."
+    },
+    {
+     "h": "52d92a06",
+     "en": "You are the father of this world of moving and unmoving things, the one it should worship, its weightiest teacher. There is no one equal to you in the three worlds; how could there be anyone greater, you whose power has no match?",
+     "cmp": [
+      {
+       "w": "gurur garīyān",
+       "note": "guru 本义是「重」，garīyān 是「更重」。「最重的重者」在梵文里是个双关：既是分量，也是尊贵。英文 weightiest teacher 留住了一点「重」；白话「最尊贵的导师」只剩下尊贵。"
+      }
+     ]
+    },
+    {
+     "h": "4473bebb",
+     "en": "So I bow down, laying my body before you, and ask you, the Lord worthy of praise, to be gracious. As a father bears with a son, a friend with a friend, a lover with the beloved, so please bear with me, God."
+    },
+    {
+     "h": "38a3fd7c",
+     "en": "I am thrilled to have seen what was never seen before, yet my mind shakes with fear. Show me, God, that form of yours. Have mercy, lord of gods, home of the universe."
+    },
+    {
+     "h": "f341b685",
+     "en": "I want to see you just as before, crowned, holding the mace, discus in hand. Take on that four-armed form again, you of a thousand arms, whose body is the universe."
+    },
+    {
+     "h": "481fce97",
+     "en": "(The Blessed Lord said:) Arjuna, because I am pleased with you, I have shown you this supreme form by my own yoga: made of brilliance, all-embracing, endless, primal. No one but you has ever seen it before.",
+     "cmp": [
+      {
+       "w": "prasanna",
+       "note": "阿周那一直在求 prasīda「请息怒、请开恩」，这里神回答 prasannena「我是心平气和、欢喜地」，两个词同根。白话「欢喜」、英文 pleased 都译对了，但前后呼应只在梵文里听得见。"
+      }
+     ]
+    },
+    {
+     "h": "552de1f0",
+     "en": "Not through the Vedas or sacrifice, not through study or gifts, not through rituals or fierce austerities can I be seen in this form in the world of men by anyone but you, hero of the Kurus."
+    },
+    {
+     "h": "f8b92717",
+     "en": "Do not be afraid, and do not be bewildered at seeing this terrible form of mine. Put away fear, be glad at heart, and look once more at that familiar form of mine: here it is."
+    },
+    {
+     "h": "44517c86",
+     "en": "(Sanjaya said:) Having spoken thus to Arjuna, Vasudeva showed his own form once more; the great one, taking again a gentle body, comforted the frightened Arjuna."
+    },
+    {
+     "h": "d86d563a",
+     "en": "Arjuna said: Seeing this gentle human form of yours, Janardana, I have now come to my senses; I am myself again.",
+     "cmp": [
+      {
+       "w": "prakṛtiṃ gataḥ",
+       "note": "字面是「回到了本性」。prakṛti 在这里是日常意思「常态、本来样子」，到第十三章却成了哲学术语「原质」。白话「恢复了常态」、英文 I am myself again 都译得自然，只是看不出这是同一个词。"
+      }
+     ]
+    },
+    {
+     "h": "f61b3a37",
+     "en": "(The Blessed Lord said:) This form of mine that you have seen is very hard to see. Even the gods long always for a sight of it."
+    },
+    {
+     "h": "ac0625f6",
+     "en": "Not through the Vedas, not through austerity, not through gifts, not through sacrifice can I be seen as you have seen me."
+    },
+    {
+     "h": "a0ec8c4d",
+     "en": "But through devotion that turns to nothing else, Arjuna, I can be known in this way, and seen as I truly am, and entered into, scorcher of foes.",
+     "cmp": [
+      {
+       "w": "bhakti",
+       "note": "bhakti 来自 bhaj「分得一份、归属于」，原意是「我属于你、你也在我这里」的相属，后来才有热烈爱慕的意思。白话「虔爱」把敬与爱都放进去了；英文 devotion 偏重忠诚投入，「爱」的一面要靠上下文补。"
+      }
+     ]
+    },
+    {
+     "h": "e4dc949f",
+     "en": "Whoever does my work, holds me as the highest, is devoted to me, is free of attachment, and bears ill will toward no being, comes to me, son of Pandu."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · The Yoga of Devotion",
+   "verses": [
+    {
+     "h": "3ab47115",
+     "en": "(Arjuna said:) There are those who are always joined to you and worship you with devotion, and there are those who worship the Imperishable, the Unmanifest. Which of them knows yoga better?",
+     "cmp": [
+      {
+       "w": "avyakta",
+       "note": "avyakta 是「没有显露出来的」，指没有形象可见的那个终极。白话加了括号「（梵）」帮读者对上号，原文没有点名；英文写 the Unmanifest，照原文留白。"
+      }
+     ]
+    },
+    {
+     "h": "a7dbd7c0",
+     "en": "(The Blessed Lord said:) Those who fix their minds on me and worship me, always joined to me, filled with the highest faith: these I hold to be the most fully joined in yoga.",
+     "cmp": [
+      {
+       "w": "śraddhā",
+       "note": "śraddhā 原意是「把心放上去」，是信任、托付，而不是「相信某条教义」。白话「信心」比较接近；英文 faith 容易被读成宗教信条。"
+      }
+     ]
+    },
+    {
+     "h": "ee6f1730",
+     "en": "But those who worship the Imperishable, which cannot be pointed out, the Unmanifest, present everywhere, beyond thought, standing firm at the summit, unmoving and constant,",
+     "cmp": [
+      {
+       "w": "kūṭastha",
+       "note": "kūṭa 是「山顶」，也是铁匠的「砧子」；kūṭastha 就是像砧子那样任凭锤打而自己不动。白话「恒常不变」把画面去掉了，英文 standing firm at the summit 保住了一半。"
+      }
+     ]
+    },
+    {
+     "h": "282b8b7c",
+     "en": "who hold all their senses in check, keep an even mind toward everything, and take delight in the good of all beings: they too reach me."
+    },
+    {
+     "h": "79ed19a5",
+     "en": "Yet the struggle is greater for those whose minds cling to the Unmanifest, for the unmanifest way is hard for those who have bodies to travel."
+    },
+    {
+     "h": "b7f4785b",
+     "en": "But those who lay down all their actions in me, who hold me as the highest, who meditate on me with a yoga that turns to nothing else, and worship me,"
+    },
+    {
+     "h": "cf56b645",
+     "en": "for them, whose minds have entered into me, I soon become the one who lifts them out of the ocean of death and rebirth, Partha.",
+     "cmp": [
+      {
+       "w": "saṃsāra",
+       "note": "saṃsāra 字面是「流转、四处漂」，指一次次生死不停。白话「生死轮回」用了佛教熟词；英文 death and rebirth 说得直白，没有「流动」的画面。"
+      }
+     ]
+    },
+    {
+     "h": "1abab8fc",
+     "en": "Set your mind on me alone; let your understanding enter into me. From then on you will dwell in me alone. Of this there is no doubt."
+    },
+    {
+     "h": "7d14e984",
+     "en": "If you cannot hold your thought steady on me, then, Dhananjaya, seek to reach me through the yoga of practice."
+    },
+    {
+     "h": "2a807b26",
+     "en": "If you cannot even practice, then make my work your highest aim. Simply by doing actions for my sake, you will reach fulfillment."
+    },
+    {
+     "h": "dc38f23f",
+     "en": "And if you cannot do even this, then rely on my yoga, rein yourself in, and let go of the fruits of all your actions.",
+     "cmp": [
+      {
+       "w": "karma-phala-tyāga",
+       "note": "「舍弃行为的果报」不是叫人不做事，而是照做，但不把成败据为己有。karma 在本站英文统一译 action，白话译「行为」，都避开了中文里「业报」那种因果报应的味道。"
+      }
+     ]
+    },
+    {
+     "h": "c88274c3",
+     "en": "For knowledge is better than practice; meditation is better than knowledge; letting go of the fruits of action is better than meditation; and from letting go, peace follows at once."
+    },
+    {
+     "h": "1586f1c4",
+     "en": "One who hates no being, who is friendly and compassionate, free of 'mine' and of 'I', the same in pain and pleasure, patient,",
+     "cmp": [
+      {
+       "w": "maitraḥ karuṇaḥ",
+       "note": "maitra「友善」和 karuṇa「悲悯」，正是佛教「慈、悲」两个词的梵文原形。白话「友善而慈悲」、英文 friendly and compassionate 都译对了，只是中文读者看到「慈悲」会以为是佛教借词。"
+      },
+      {
+       "w": "ahaṃkāra",
+       "note": "ahaṃkāra 字面是「造出『我』的东西」，指那种「这是我做的」的感觉。白话「我慢」是佛教词，现代中文读者会读成「傲慢」；英文写 free of 'I'，更接近字面。"
+      }
+     ]
+    },
+    {
+     "h": "b1134082",
+     "en": "always content, a yogi, self-controlled, firm in resolve, whose mind and understanding are offered to me, who is devoted to me: that one is dear to me."
+    },
+    {
+     "h": "4bdce5cf",
+     "en": "One before whom the world does not shrink, and who does not shrink before the world, who is free of elation, resentment, fear and agitation: that one too is dear to me."
+    },
+    {
+     "h": "c9ad32bd",
+     "en": "One who expects nothing, who is clean, capable, unconcerned, untroubled, who has given up every undertaking, who is devoted to me: that one is dear to me.",
+     "cmp": [
+      {
+       "w": "sarvārambha-parityāgī",
+       "note": "字面是「放下一切开头、一切发起」。白话加了「刻意的营谋」，把它解释得比较温和；英文照字面写 every undertaking，读者会自己问：难道什么都不做？这个张力在原文里就有。"
+      }
+     ]
+    },
+    {
+     "h": "f2a43e03",
+     "en": "One who neither rejoices nor hates, neither grieves nor craves, who has let go of both the welcome and the unwelcome, full of devotion: that one is dear to me.",
+     "cmp": [
+      {
+       "w": "śubhāśubha",
+       "note": "śubha / aśubha 是「吉利的、不吉利的」，也就是人碰到的顺境逆境，不一定是道德上的善恶。白话「善与恶」容易被读成「连好坏都不分」；英文写 the welcome and the unwelcome。"
+      }
+     ]
+    },
+    {
+     "h": "0ebe85cf",
+     "en": "The same toward enemy and friend, the same in honor and dishonor, the same in cold and heat, in pleasure and pain, free from attachment,"
+    },
+    {
+     "h": "22415064",
+     "en": "taking blame and praise alike, sparing with words, content with whatever comes, without a settled home, steady in mind, full of devotion: such a person is dear to me."
+    },
+    {
+     "h": "8949787d",
+     "en": "But those who, with faith, holding me as the highest, devoted to me, follow this nectar of dharma just as I have taught it, are dearer to me than all."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · The Yoga of Telling the Field from the Knower of the Field",
+   "verses": [
+    {
+     "h": "ce8d4503",
+     "en": "(The Blessed Lord said:) This body, Kaunteya (son of Kunti), is called the field. The one who knows it is called the knower of the field by those who understand these things.",
+     "cmp": [
+      {
+       "w": "kṣetra",
+       "note": "kṣetra 就是田地，也是「圣地、场所」。全书第一句「在法的田野、俱卢之野」用的正是这个词，战场和身体在梵文里是同一个字。白话「田」、英文 field 都保住了字面，这层呼应要靠读者回想。"
+      },
+      {
+       "w": "章节编号",
+       "note": "有些版本本章开头还有一首阿周那的提问（问原质、原人、田、知田者），全章就是 35 首。本站底本没有这一首，所以是 34 首，后面的编号会和那些版本差一号。"
+      }
+     ]
+    },
+    {
+     "h": "e95d1e7b",
+     "en": "Know me also as the knower of the field in all fields, Bharata. The knowledge of the field and of the knower of the field: that, in my view, is knowledge."
+    },
+    {
+     "h": "a9dc10f4",
+     "en": "Hear from me in brief what that field is, what it is like, how it changes and where it comes from; and who the knower is, and what powers he has."
+    },
+    {
+     "h": "a87c3e2f",
+     "en": "The seers have sung of this in many ways, in many separate meters, and also in the words of the Brahma Sutras, well reasoned and decisive.",
+     "cmp": [
+      {
+       "w": "brahma-sūtra-pada",
+       "note": "可以指后来那部有名的《梵经》，也可以只是泛指「讲梵的格言」。《梵经》成书很可能比这一段晚，所以学者多取后一种。白话写「梵经」、英文写 Brahma Sutras，都偏向了书名的读法。"
+      }
+     ]
+    },
+    {
+     "h": "1e6a099b",
+     "en": "The great elements, the sense of 'I', understanding, the unmanifest, the ten senses and the one, and the five realms of the senses;",
+     "cmp": [
+      {
+       "w": "数论清单",
+       "note": "这一串是数论派（Sāṃkhya）的标准清单：五大、我慢、觉、未显、十根加意、五境。白话照着术语译，像一份名词表；英文用了平常的词，读起来懂，但看不出这是一套专门体系。「十种加一」里的「一」就是心意 manas。"
+      }
+     ]
+    },
+    {
+     "h": "e7f65250",
+     "en": "desire, aversion, pleasure, pain, the bodily whole, awareness and steadiness: this, in brief, is the field with its changes."
+    },
+    {
+     "h": "66398bd2",
+     "en": "Freedom from pride, freedom from pretense, nonviolence, patience, honesty, serving one's teacher, purity, steadiness, self-mastery;"
+    },
+    {
+     "h": "ae262c9b",
+     "en": "turning away from the objects of the senses, freedom from the sense of 'I', and seeing clearly the trouble in birth, death, old age, sickness and pain;",
+     "cmp": [
+      {
+       "w": "vairāgya",
+       "note": "vairāgya 由 vi-rāga 来：rāga 是「颜色、染上的热情」，vairāgya 就是「褪了色」。白话「没有贪恋」、英文 turning away 都译出了意思，丢了「褪色」这个画面。"
+      }
+     ]
+    },
+    {
+     "h": "fdee0a5b",
+     "en": "not clinging, not being wrapped up in children, wife, home and the like, and keeping an even mind always, whether what comes is wanted or unwanted;"
+    },
+    {
+     "h": "ae58b679",
+     "en": "unwavering devotion to me through a yoga that turns to nothing else, a liking for solitary places, and no taste for crowds;",
+     "cmp": [
+      {
+       "w": "avyabhicāriṇī",
+       "note": "vyabhicāra 在梵文里常指「不贞、出轨」。avyabhicāriṇī 是「不出轨的」，用的是夫妻忠贞的比喻。白话「毫不动摇」、英文 unwavering 都把这个比喻抹平了。"
+      }
+     ]
+    },
+    {
+     "h": "eba0ce40",
+     "en": "constancy in knowledge of the self, and keeping in view what knowledge of the truth is for: this is called knowledge; whatever is otherwise is ignorance.",
+     "cmp": [
+      {
+       "w": "jñāna",
+       "note": "从第七首到这里，「知识」指的是一长串品行：谦虚、不伤害、忍耐……而不是书本学问。梵文 jñāna 本来就包括「活出来的懂」。白话「知识」、英文 knowledge 都容易被读成头脑里的东西。"
+      }
+     ]
+    },
+    {
+     "h": "ffc80bed",
+     "en": "I will tell you what is to be known, knowing which one tastes deathlessness: the highest Brahman, without beginning, which is said to be neither being nor non-being.",
+     "cmp": [
+      {
+       "w": "brahman",
+       "note": "brahman 原指吠陀祭祀里有力量的话语，后来指一切背后那个终极实在。白话音译「梵」，英文保留 Brahman，都没有硬找一个对应词，这是对的。要和创世神「梵天」Brahmā 分开。"
+      },
+      {
+       "w": "anādimat paraṃ",
+       "note": "这几个字还可以断成 anādi mat-paraṃ：「无始的、以我为至高的梵」。白话和英文都取了常见断法，另一种断法会让梵在克里希那之下。"
+      }
+     ]
+    },
+    {
+     "h": "a735378b",
+     "en": "Its hands and feet are everywhere; its eyes, heads and mouths are everywhere; it has ears everywhere in the world. It stands, enfolding everything."
+    },
+    {
+     "h": "a736fcea",
+     "en": "It shines with the qualities of all the senses, yet has no senses at all; unattached, yet it upholds all; free of the gunas, yet it experiences the gunas.",
+     "cmp": [
+      {
+       "w": "guṇa",
+       "note": "guṇa 本义是「股、线」，三根线拧成一股绳：明（sattva）、动（rajas）、暗（tamas），万物都由这三股编成。本站英文第一次写 the three qualities (gunas)；白话这里写「属性」，下文又写「三德」，同一个词前后换了说法，读者容易以为是两回事。"
+      }
+     ]
+    },
+    {
+     "h": "c886263e",
+     "en": "It is outside beings and inside them, unmoving and moving. Because it is so subtle it cannot be grasped; it is far away, and it is near."
+    },
+    {
+     "h": "23845ed5",
+     "en": "Undivided, it yet seems to stand divided among beings. Know it as the sustainer of beings, the one that swallows them and the one that brings them forth."
+    },
+    {
+     "h": "9fd47d06",
+     "en": "It is the light of lights, said to lie beyond darkness. It is knowledge, what is to be known, and what knowledge reaches, seated in the heart of everyone."
+    },
+    {
+     "h": "c17a25c4",
+     "en": "So the field, and knowledge, and what is to be known have been briefly told. My devotee who understands this comes into my state of being."
+    },
+    {
+     "h": "688a1947",
+     "en": "Know that nature (prakriti) and the person (purusha) are both without beginning; and know that the changes and the three qualities (gunas) arise from nature.",
+     "cmp": [
+      {
+       "w": "prakṛti / puruṣa",
+       "note": "这是数论的一对概念：prakṛti 是会变的一切材料，连心理活动都算在里面；puruṣa 是只看不做的那个觉知。白话「原质」「原人」是学术译名，英文 nature、person 是普通词，读起来亲切，但 nature 容易被想成「大自然」。"
+      }
+     ]
+    },
+    {
+     "h": "e5a0ca0a",
+     "en": "Nature is said to be the cause in the making of body, senses and agency; the person is said to be the cause in the experiencing of pleasure and pain."
+    },
+    {
+     "h": "20e66916",
+     "en": "For the person, dwelling in nature, experiences the qualities born of nature. Its clinging to the qualities is the cause of its births in good and bad wombs.",
+     "cmp": [
+      {
+       "w": "bhuṅkte",
+       "note": "动词 bhuj 本义是「吃」，引申为「受用、经历」。白话「享受」听起来是好事，可这里苦也算在里面；英文 experiences 比较中性。"
+      }
+     ]
+    },
+    {
+     "h": "fac7bcdb",
+     "en": "The highest person in this body is also called the onlooker, the one who consents, the upholder, the experiencer, the great Lord, and the supreme self."
+    },
+    {
+     "h": "9c8221e6",
+     "en": "Whoever knows the person, and nature together with its qualities, in this way will not be born again, however he may live."
+    },
+    {
+     "h": "464dd004",
+     "en": "Some see the self in the self by the self, through meditation; others through the yoga of discernment; and others through the yoga of action.",
+     "cmp": [
+      {
+       "w": "ātmani ātmānam ātmanā",
+       "note": "梵文连用三个 ātman：「在自己里、看见自己、凭着自己」，像绕口令。白话拆成「凭自己在自己里面看见自我」，英文照字序写 the self in the self by the self，保住了重复的节奏。"
+      },
+      {
+       "w": "sāṃkhya",
+       "note": "这里的 sāṃkhya 字面是「计数、辨析」，指靠理智一项项分清的路，不一定是后来那个成型的数论学派。白话写「数论」，英文写 the yoga of discernment。"
+      }
+     ]
+    },
+    {
+     "h": "9c359af9",
+     "en": "Others again, not knowing this, hear it from others and worship; they too, giving themselves to what they have heard, pass beyond death."
+    },
+    {
+     "h": "af722b54",
+     "en": "Whatever comes into being, Bharatarshabha (bull of the Bharatas), whether still or moving, know that it arises from the union of the field and the knower of the field."
+    },
+    {
+     "h": "672179a0",
+     "en": "Whoever sees the supreme Lord dwelling alike in all beings, not perishing when they perish, truly sees."
+    },
+    {
+     "h": "c4d46986",
+     "en": "For seeing the Lord present alike everywhere, he does not harm the self by the self, and so he goes to the highest goal."
+    },
+    {
+     "h": "9b8df1f5",
+     "en": "Whoever sees that all actions are done, in every way, by nature alone, and likewise sees that the self is not the doer, truly sees."
+    },
+    {
+     "h": "7f935393",
+     "en": "When he sees that the separate existence of beings rests in the One, and spreads out from that alone, then he attains Brahman."
+    },
+    {
+     "h": "2a65dcfe",
+     "en": "Being without beginning and without qualities, this supreme self does not decay. Though it dwells in the body, Kaunteya, it neither acts nor is stained."
+    },
+    {
+     "h": "639389db",
+     "en": "Just as space, which reaches everywhere, is not stained because it is so subtle, so the self, present everywhere in the body, is not stained."
+    },
+    {
+     "h": "df763f47",
+     "en": "As the one sun lights up this whole world, so the master of the field lights up the whole field, Bharata.",
+     "cmp": [
+      {
+       "w": "kṣetrī",
+       "note": "这里换了一个词：kṣetrin「田的主人」，不是前面的 kṣetrajña「知田者」。白话仍写「知田者」，把两个词并成一个；英文写 master of the field，保留了「主人」。"
+      }
+     ]
+    },
+    {
+     "h": "3dc467e7",
+     "en": "Those who, with the eye of knowledge, see the difference between the field and the knower of the field, and the freeing of beings from nature, go to the highest."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · Telling the Three Qualities Apart",
+   "verses": [
+    {
+     "h": "821c4045",
+     "en": "(The Blessed Lord said:) Let me tell you once more the highest knowledge, the best of all knowing. Every sage who came to know it went on from this world to the highest perfection."
+    },
+    {
+     "h": "9737327c",
+     "en": "Relying on this knowledge, they came to share my own nature. When a world is created they are not born again, and when it dissolves they are not shaken."
+    },
+    {
+     "h": "6396a9e3",
+     "en": "Great Brahman is my womb. Into it I place the seed, and from that, Bharata (Arjuna, descendant of King Bharata), all beings come to be.",
+     "cmp": [
+      {
+       "w": "mahad brahma",
+       "note": "这里的 brahman 不是后面说的那个终极实在，而是指「原质」(prakṛti)，也就是一切生出来的东西的母体。英文照字面写 great Brahman，中文写「伟大的梵」，读者容易以为黑天把至高的梵当成了自己的子宫；其实他是在说：物质世界是母亲，我是父亲。"
+      }
+     ]
+    },
+    {
+     "h": "45371071",
+     "en": "Kaunteya (son of Kunti), whatever forms take birth in any womb, great Brahman is the womb of them all, and I am the father who gives the seed."
+    },
+    {
+     "h": "a0e8cd0b",
+     "en": "Sattva, rajas and tamas: these are the three qualities (gunas) that arise from nature (prakriti). Sattva is clarity and goodness, rajas is passion and restlessness, tamas is dullness and inertia. Mighty-armed one, these three tie the undying one who lives in the body to the body.",
+     "cmp": [
+      {
+       "w": "guṇa",
+       "note": "guṇa 本义是「一股线、一条绳」，所以下一句马上说它们「捆绑」人，原文里的比喻是连着的。英文 quality、中文「德」都把这层绳子的意思丢了。中文「德」还容易让人想到「道德」，其实三德并不都是好品质。"
+      },
+      {
+       "w": "sattva / rajas / tamas",
+       "note": "本站白话直接音译成「萨埵、罗阇、多摩」，不替它们下定义；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。"
+      }
+     ]
+    },
+    {
+     "h": "b34e2d57",
+     "en": "Of these, sattva, being spotless, gives light and brings no harm. Yet it binds too, sinless one: through attachment to happiness and attachment to knowing.",
+     "cmp": [
+      {
+       "w": "badhnāti",
+       "note": "很多人以为 sattva 是「好的那一种」，修到它就对了。这一句说得很清楚：sattva 一样在捆人，只是用的是快乐和知识这两根比较舒服的绳子。英文和中文都照实译出了「束缚」，读的时候别滑过去。"
+      }
+     ]
+    },
+    {
+     "h": "fb85bf5d",
+     "en": "Know that rajas is made of craving; it springs from thirst and clinging. It binds the embodied one, son of Kunti, through attachment to action."
+    },
+    {
+     "h": "2e8a85b6",
+     "en": "But tamas, know this, is born of ignorance and bewilders everyone who has a body. It binds, Bharata, through carelessness, laziness and sleep."
+    },
+    {
+     "h": "a050267d",
+     "en": "Sattva ties you to happiness, rajas to action, Bharata. Tamas covers over knowing and ties you to carelessness."
+    },
+    {
+     "h": "45724ddd",
+     "en": "Sattva comes out on top by overpowering rajas and tamas, Bharata. In the same way rajas rises by overpowering sattva and tamas, and tamas by overpowering sattva and rajas."
+    },
+    {
+     "h": "0a2e5fb9",
+     "en": "When the light of knowing shines out through every gate of this body, then you can tell that sattva has grown strong.",
+     "cmp": [
+      {
+       "w": "sarva-dvāreṣu",
+       "note": "原文只说「所有的门」，没说是哪些门。古人通常理解为眼耳口鼻等九个孔窍。中文白话加了括号「感官」把意思点明；英文照原文留下 gates 这个画面。"
+      }
+     ]
+    },
+    {
+     "h": "7a83e710",
+     "en": "When rajas grows strong, best of the Bharatas, these arise: greed, busyness, rushing into new undertakings, restlessness and longing."
+    },
+    {
+     "h": "8e620703",
+     "en": "When tamas grows strong, joy of the Kurus, these arise: darkness, sluggishness, carelessness and confusion."
+    },
+    {
+     "h": "03a9f109",
+     "en": "If the embodied one meets death while sattva is high, he reaches the pure worlds of those who know the highest."
+    },
+    {
+     "h": "02251d59",
+     "en": "Dying in rajas, he is born among people attached to action. Dying in tamas, he is born from the wombs of the dull-witted."
+    },
+    {
+     "h": "bbec9b4e",
+     "en": "The fruit of a deed well done, they say, is of sattva and spotless. The fruit of rajas is pain, and the fruit of tamas is ignorance."
+    },
+    {
+     "h": "ab395170",
+     "en": "From sattva comes knowledge; from rajas, greed; from tamas come carelessness and confusion, and ignorance as well."
+    },
+    {
+     "h": "681fa016",
+     "en": "Those who stand in sattva go upward. Those of rajas stay in the middle. Those of tamas, living in the lowest quality, go downward."
+    },
+    {
+     "h": "f015fd79",
+     "en": "When the one who watches sees no doer other than the qualities, and knows what lies beyond the qualities, he comes into my state of being.",
+     "cmp": [
+      {
+       "w": "nānyaṃ guṇebhyaḥ kartāram",
+       "note": "这是全书一个反直觉的想法：真正在「做事」的是三德，不是那个看着的自我。英文 no doer other than the qualities、中文「除了三德以外再没有别的行动者」都照直译了，意思是：认出「不是我在做」，人就松开了。"
+      }
+     ]
+    },
+    {
+     "h": "1967ef72",
+     "en": "Going beyond these three qualities, from which the body itself arises, the embodied one is freed from birth, death, old age and sorrow, and tastes what does not die.",
+     "cmp": [
+      {
+       "w": "amṛtam aśnute",
+       "note": "amṛta 既是「不死」，也是神话里喝了就不死的「甘露」；aśnute 是「吃、享用」。所以原文有一层「喝到甘露」的画面。中文「尝到不死」、英文 tastes what does not die 都想同时保住这两层。"
+      }
+     ]
+    },
+    {
+     "h": "05255b6d",
+     "en": "(Arjuna said:) Lord, by what signs is a person known who has gone beyond these three qualities? How does he live? And how does he get past the three?"
+    },
+    {
+     "h": "2bb77945",
+     "en": "(The Blessed Lord said:) Son of Pandu, when light, activity or confusion come, he does not resent them; when they go, he does not long for them."
+    },
+    {
+     "h": "6b7acbe5",
+     "en": "He sits like someone looking on from outside, not shaken by the qualities. Knowing \"it is only the qualities at work,\" he stays steady and does not waver.",
+     "cmp": [
+      {
+       "w": "udāsīnavat",
+       "note": "udāsīna 字面是「坐在高处的人」，指在争执里不站队的中立者。它不是冷漠，而是不被卷进去。中文「旁观者」稍微带点事不关己的味道，英文 looking on from outside 也一样，原意更中性。"
+      }
+     ]
+    },
+    {
+     "h": "b67e90e4",
+     "en": "Pain and pleasure are the same to him, and he rests in himself; a lump of clay, a stone and gold are all one to him. He is steady, and treats the pleasant and the unpleasant alike, blame and praise of himself alike.",
+     "cmp": [
+      {
+       "w": "svasthaḥ",
+       "note": "svastha 字面是「住在自己里面」，后来在梵文和印地语里变成了日常词「健康」。中文「安住于自身」、英文 rests in himself 都取字面；其实原文暗含着：回到自己，就是健康。"
+      }
+     ]
+    },
+    {
+     "h": "4e225b7f",
+     "en": "Honor and disgrace are equal to him, the side of friends and the side of enemies equal. He has given up every self-driven undertaking. Such a person is said to have gone beyond the qualities."
+    },
+    {
+     "h": "dda41bf8",
+     "en": "And whoever serves me with the unwavering yoga of devotion goes fully beyond these qualities and becomes fit to become Brahman.",
+     "cmp": [
+      {
+       "w": "bhakti",
+       "note": "bhakti 来自「分享、分得一份」，指人和神之间彼此相属的爱。英文 devotion 偏向「献身、忠诚」，中文「虔爱」把「虔诚」和「爱」合在一起，比单说「信仰」更接近原文的亲密感。"
+      }
+     ]
+    },
+    {
+     "h": "fecad4df",
+     "en": "For I am the ground of Brahman, of the undying and unchanging, of the eternal dharma (the rightful order of things), and of perfect happiness."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · The Highest Person",
+   "verses": [
+    {
+     "h": "974f80f5",
+     "en": "The Blessed Lord said: They speak of an undying ashvattha tree (the sacred fig) with its roots above and its branches below. Its leaves are the Vedic hymns. Whoever knows this tree knows the Vedas.",
+     "cmp": [
+      {
+       "w": "aśvattha",
+       "note": "aśvattha 是菩提树那一类的圣无花果树，中文用的是另一个名字「毕钵罗树」，佛经读者会联想到佛陀成道的树。古代注家还把这个词拆成「活不到明天」，用来说世界无常；可这里偏偏又说它「永不毁灭」，原文的张力在中英文里都看不出来。"
+      },
+      {
+       "w": "chandāṃsi",
+       "note": "chandas 原指吠陀诗的「格律」，后来泛指吠陀颂诗。中文「诗篇」、英文 hymns 都取了后一个意思。"
+      }
+     ]
+    },
+    {
+     "h": "0b7c7265",
+     "en": "Its branches spread downward and upward, fed by the qualities, with the objects of the senses for their young shoots. Below, its roots stretch on and on, bound up with action in the world of humans."
+    },
+    {
+     "h": "600d251b",
+     "en": "Its true shape cannot be seen here, nor its end, nor its beginning, nor what it stands on. Take this firmly rooted ashvattha tree and cut it down with the strong blade of non-attachment.",
+     "cmp": [
+      {
+       "w": "asaṅga-śastreṇa",
+       "note": "śastra 是泛称的「刀、兵器」。中文白话说成「斧头」，画面更具体，像在砍树；英文用 blade，贴近原文那种不指定工具的说法。"
+      }
+     ]
+    },
+    {
+     "h": "8ba14d36",
+     "en": "Then seek out that place from which those who reach it never return, saying: \"I take refuge in that first Person, from whom this ancient stream of activity flowed out.\"",
+     "cmp": [
+      {
+       "w": "puruṣa",
+       "note": "puruṣa 本义就是「人、男人」，在《梨俱吠陀》里是那个被献祭、身体化成世界的「原初巨人」。中文「原人」保住了这层神话；英文 Person 太日常，所以本站第一次加注 spirit。注意这里的 puruṣa 和数论里与原质相对的「神我」用的是同一个词。"
+      }
+     ]
+    },
+    {
+     "h": "f634ad2f",
+     "en": "Free of pride and delusion, having beaten the fault of clinging, always turned toward the self, desires fallen away, released from the pairs of opposites called pleasure and pain, the undeluded go to that unchanging place."
+    },
+    {
+     "h": "a90cf2e5",
+     "en": "No sun lights it, no moon, no fire. Those who go there do not come back. That is my highest home."
+    },
+    {
+     "h": "84417e7e",
+     "en": "A part of my own self, eternal, becomes the living soul in the world of the living. It draws to itself the senses, with the mind as the sixth, which rest in nature.",
+     "cmp": [
+      {
+       "w": "aṃśa",
+       "note": "aṃśa 是「一份、一部分」，像从整块里分出来的一份。中文、英文都译成「部分」；原文的意思是：每个个体生命都是神的一份，不是神造出来的另一样东西。"
+      }
+     ]
+    },
+    {
+     "h": "4f4b68f8",
+     "en": "Whenever this lord takes on a body, and whenever he leaves one, he takes these along and goes, the way the wind carries scents from where they lie.",
+     "cmp": [
+      {
+       "w": "āśayāt",
+       "note": "āśaya 是「停放处、所在」。中文白话说成「花丛」，比喻更好懂；英文 from where they lie 照原文留空，让读者自己补上是花还是别的什么。"
+      }
+     ]
+    },
+    {
+     "h": "49bb7258",
+     "en": "Presiding over hearing, sight, touch, taste and smell, and the mind too, he enjoys the things of the senses."
+    },
+    {
+     "h": "401f31c9",
+     "en": "Whether he is leaving or staying, or enjoying while joined to the qualities, the deluded do not see him. Those with the eye of knowledge do."
+    },
+    {
+     "h": "9692de31",
+     "en": "Yogis who strive see him settled within themselves. Those whose selves are unformed and who lack awareness do not see him, even if they strive."
+    },
+    {
+     "h": "f4ec72ca",
+     "en": "The radiance in the sun that lights the whole world, the radiance in the moon and in fire: know that radiance is mine."
+    },
+    {
+     "h": "ba889818",
+     "en": "Entering the earth, I hold up all beings with my strength. And becoming soma, rich in sap, I nourish all the plants.",
+     "cmp": [
+      {
+       "w": "somaḥ",
+       "note": "soma 既是祭祀用的神圣饮料，也是「月亮」的名字；古印度人相信月亮把汁液洒给草木。中文音译「苏摩」、英文 soma 都只剩饮料这一面，看不出它和上一句「月亮的光辉」是连着的。"
+      }
+     ]
+    },
+    {
+     "h": "95ac476f",
+     "en": "Becoming Vaishvanara, the fire of digestion, I dwell in the bodies of living things, and joined with the in-breath and the out-breath, I digest the four kinds of food.",
+     "cmp": [
+      {
+       "w": "vaiśvānara",
+       "note": "vaiśvānara 原意是「属于一切人的」火，是吠陀里火神的一个称号。中文白话直接意译成「消化之火」，英文保留原名再说明。四种食物，注家一般说是嚼的、吮的、舔的、喝的。"
+      }
+     ]
+    },
+    {
+     "h": "c54cfdd8",
+     "en": "I am seated in the heart of everyone. From me come memory, knowledge, and their loss. I am what all the Vedas seek to know; I am the maker of Vedanta and the knower of the Vedas.",
+     "cmp": [
+      {
+       "w": "vedānta",
+       "note": "vedānta 字面是「吠陀的终点」，最早指附在吠陀最后的奥义书，不一定是后来的哲学派别。中文「吠檀多的创立者」容易让人想到一个学派的祖师；英文 Vedanta 也有同样的问题。"
+      }
+     ]
+    },
+    {
+     "h": "4e18f8cc",
+     "en": "There are two persons in this world, the perishable and the imperishable. All beings are the perishable; the one that stands firm like an anvil is called the imperishable.",
+     "cmp": [
+      {
+       "w": "kūṭasthaḥ",
+       "note": "kūṭa 是铁匠的砧子，kūṭastha 是「像砧子一样立着」：上面怎么敲打，它自己不动。中文「恒常不动者」只给了意思，英文保留了砧子这个画面。"
+      }
+     ]
+    },
+    {
+     "h": "2d4361ae",
+     "en": "But there is another, the highest Person, called the supreme self, who enters the three worlds and holds them up, the unchanging Lord."
+    },
+    {
+     "h": "707809a1",
+     "en": "Since I am beyond the perishable and higher even than the imperishable, in the world and in the Veda I am celebrated as the Highest Person (Purushottama).",
+     "cmp": [
+      {
+       "w": "puruṣottama",
+       "note": "puruṣa + uttama，「人中最高的」。本章名就从这里来。中文「至上原人」、英文 Highest Person 都对得上；只是原文这个词在日常里也可以是对优秀男子的赞美，带着一点亲切感。"
+      }
+     ]
+    },
+    {
+     "h": "2e8a8152",
+     "en": "Whoever, free of delusion, knows me in this way as the Highest Person knows all, Bharata, and loves me with his whole being."
+    },
+    {
+     "h": "e55abc9b",
+     "en": "So I have told you this most secret teaching, sinless one. Understanding it, a person becomes truly wise and has done all there is to do, Bharata.",
+     "cmp": [
+      {
+       "w": "buddhvā buddhimān",
+       "note": "原文是同一个词根的文字游戏：「懂了(buddhvā)，就成了懂的人(buddhimān)」。中英文都没办法保住这个回声。kṛta-kṛtya 字面是「该做的都做完了」，中文「完成了一生该做的事」很贴切。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · The Divine and the Demonic Inheritance",
+   "verses": [
+    {
+     "h": "43f48367",
+     "en": "(The Blessed Lord said:) Fearlessness, a clean heart, steadiness in the yoga of knowledge, giving, self-restraint, sacrifice, study of scripture, discipline, honesty,",
+     "cmp": [
+      {
+       "w": "tapas",
+       "note": "tapas 本义是「热」，指通过修炼在自己身上生起的一股热力。中文「苦行」强调受苦，英文 austerity 也偏向「刻苦」。原文的重点不在吃苦，而在磨炼出力量，所以本站英文这里用了较中性的 discipline。"
+      }
+     ]
+    },
+    {
+     "h": "7615f3d7",
+     "en": "not harming, truthfulness, freedom from anger, letting go, calm, not slandering, kindness to all beings, freedom from greed, gentleness, modesty, steadiness,"
+    },
+    {
+     "h": "3635bad5",
+     "en": "vigor, forgiveness, endurance, purity, lack of malice, freedom from excessive pride: these, Bharata, belong to one born into the divine inheritance.",
+     "cmp": [
+      {
+       "w": "saṃpad",
+       "note": "saṃpad 是「财产、家当」。原文的画面是：人生下来就继承了一份家当，有的是神性的，有的是魔性的。中文「禀赋」偏向天生的性格，英文用 inheritance 保住了「分到一份家产」的意思。"
+      }
+     ]
+    },
+    {
+     "h": "ec976af6",
+     "en": "Hypocrisy, arrogance, excessive pride, anger, harshness and ignorance, Partha (son of Pritha), belong to one born into the demonic inheritance."
+    },
+    {
+     "h": "fde25539",
+     "en": "The divine inheritance is held to lead to freedom, the demonic to bondage. Don't grieve, son of Pandu: you were born into the divine inheritance."
+    },
+    {
+     "h": "f6a615df",
+     "en": "There are two kinds of beings created in this world, the divine and the demonic. I have spoken about the divine at length; now hear from me about the demonic, Partha.",
+     "cmp": [
+      {
+       "w": "āsura",
+       "note": "asura 在吠陀神话里是和天神争位的另一族神灵，不是基督教里的魔鬼。中文「魔性」、英文 demonic 都比原文更像「恶魔」。黑天说的其实是两种人的性情，不是两种物种。"
+      }
+     ]
+    },
+    {
+     "h": "d4a0827c",
+     "en": "Demonic people do not understand when to act and when to hold back. There is no purity in them, no good conduct, no truth.",
+     "cmp": [
+      {
+       "w": "pravṛtti / nivṛtti",
+       "note": "这一对词是「向外投入」和「向内收回」，在印度思想里也指入世行动和出世修行两条路。中文白话译成「什么该做、什么不该做」，英文译成 when to act and when to hold back，都是取了其中的一层。"
+      }
+     ]
+    },
+    {
+     "h": "823edb91",
+     "en": "They say the world is unreal, has no foundation, has no Lord, has come about from things joining one another, with nothing but desire for its cause. What else could it be?",
+     "cmp": [
+      {
+       "w": "aparaspara-saṃbhūtam",
+       "note": "这几个字很难解，字面大约是「不是彼此…而生的」。传统注家多半读成「由男女结合而生」，中文白话照这个读法加了括号；英文只写「由东西相互结合而来」，不替原文补上男女。"
+      }
+     ]
+    },
+    {
+     "h": "f236f35a",
+     "en": "Holding to this view, these lost souls of little understanding, doing cruel deeds, rise up as enemies of the world, bent on its ruin."
+    },
+    {
+     "h": "d17b5bd1",
+     "en": "Clinging to desire that can never be filled, full of hypocrisy, pride and intoxication, they seize on false notions out of delusion and go about their work with impure vows."
+    },
+    {
+     "h": "453a21fe",
+     "en": "Weighed down by endless worry that ends only at death, treating the enjoyment of desire as the highest goal, sure that \"this is all there is,\""
+    },
+    {
+     "h": "3eee8438",
+     "en": "bound by hundreds of ropes of hope, given over to desire and anger, they scheme to pile up wealth by unjust means so they can enjoy their desires."
+    },
+    {
+     "h": "b44809bf",
+     "en": "\"This I have gained today; that wish I will fulfill. This wealth is mine already, and that will be mine too.\""
+    },
+    {
+     "h": "98e26d6d",
+     "en": "\"That enemy I have killed, and I will kill the others as well. I am the lord, I am the enjoyer, I am successful, strong and happy.\""
+    },
+    {
+     "h": "cc59686a",
+     "en": "\"I am rich and well born. Who else is like me? I will sacrifice, I will give, I will celebrate.\" So they talk, deluded by ignorance.",
+     "cmp": [
+      {
+       "w": "yakṣye dāsyāmi",
+       "note": "有意思的是，这些「魔性」的人也说要祭祀、要布施，跟神性禀赋那张清单上的一样。差别不在做什么，而在为了什么：这里的祭祀和布施是拿来炫耀身份的。中英文都照原文保留了这个讽刺。"
+      }
+     ]
+    },
+    {
+     "h": "0ad4d4c3",
+     "en": "Led astray by many thoughts, caught in the net of delusion, addicted to the enjoyment of desires, they fall into a foul hell.",
+     "cmp": [
+      {
+       "w": "naraka",
+       "note": "naraka 在印度传统里是受苦的去处，但一般不是永远的，罪报完了还会再投生。中文「地狱」、英文 hell 都容易让读者想到基督教那种永远的惩罚。"
+      }
+     ]
+    },
+    {
+     "h": "5db3ea82",
+     "en": "Self-important, stubborn, drunk with wealth and pride, they offer sacrifices in name only, for show, ignoring the rules."
+    },
+    {
+     "h": "af09a6e5",
+     "en": "Leaning on ego, force, arrogance, desire and anger, these spiteful people hate me, who dwell in their own bodies and in the bodies of others.",
+     "cmp": [
+      {
+       "w": "ahaṃkāra",
+       "note": "ahaṃkāra 字面是「造出『我』的那个东西」，在数论里是一个心理机能，不只是「骄傲」。中文白话借用了佛经的「我慢」，英文用 ego。两个译法都偏向道德上的自大，原词更像是：心里那个一直在说「我、我的」的声音。后面第十七、十八章还会出现，意思一样。"
+      }
+     ]
+    },
+    {
+     "h": "1c81d130",
+     "en": "Those hateful, cruel ones, the lowest of humans in the round of births, unclean as they are, I keep hurling into demonic wombs."
+    },
+    {
+     "h": "9e36e50f",
+     "en": "Having entered demonic wombs, deluded birth after birth, never reaching me, son of Kunti, they go from there to an even lower state."
+    },
+    {
+     "h": "7d146fa4",
+     "en": "There are three gates to hell that destroy the self: desire, anger and greed. So one should let go of these three."
+    },
+    {
+     "h": "e30bacec",
+     "en": "A person freed from these three gates of darkness, son of Kunti, does what is truly good for himself, and from there goes to the highest goal."
+    },
+    {
+     "h": "683c3d7c",
+     "en": "Whoever throws aside the guidance of scripture and acts on the impulse of desire reaches neither perfection, nor happiness, nor the highest goal."
+    },
+    {
+     "h": "1ec2aadb",
+     "en": "So let scripture be your measure in deciding what to do and what not to do. Knowing what the rules of scripture say, you should do your work here.",
+     "cmp": [
+      {
+       "w": "śāstraṃ pramāṇam",
+       "note": "pramāṇa 是印度哲学里的「量」，也就是可靠知识的来源，像量尺一样。中文「准则」、英文 measure 都对。śāstra 在这里指吠陀与律法一类的典籍，不是泛指一切书。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17 · Three Kinds of Faith",
+   "verses": [
+    {
+     "h": "533558cd",
+     "en": "(Arjuna said:) Krishna, what about those who set aside the rules of scripture but still offer sacrifice full of faith? Where do they stand: in sattva, rajas or tamas?",
+     "cmp": [
+      {
+       "w": "śraddhā",
+       "note": "śraddhā 常被译成「信仰」，但它不是相信某套教义，而是对一件事全心投入、信得过的那份心意，有点像「诚意加信任」。本站白话用「信心」，英文用 faith，都比「信仰」更接近。这一章整章讲它：你把心放在哪里，你就成了什么样的人。"
+      }
+     ]
+    },
+    {
+     "h": "6e5ef11a",
+     "en": "(The Blessed Lord said:) The faith of embodied beings is of three kinds, born from each one's own nature: of sattva, of rajas, and of tamas. Hear about it."
+    },
+    {
+     "h": "2fdf241d",
+     "en": "Everyone's faith takes the shape of their inner being, Bharata. A person is made of faith: whatever one's faith is, that is what one is.",
+     "cmp": [
+      {
+       "w": "sattvānurūpā",
+       "note": "这里的 sattva 不是三德里的那个 sattva，而是它的本义「本性、心性」。中文白话译成「本性」，英文写 inner being，都避开了混淆；只看梵文的人很容易误读成「信心随 sattva 而定」。"
+      },
+      {
+       "w": "śraddhā-mayaḥ",
+       "note": "-maya 是「由……构成」。原文说人「是信心做成的」，比中文「由信心构成」、英文 made of faith 读起来更直接：你相信什么，就是什么。"
+      }
+     ]
+    },
+    {
+     "h": "e27b09ba",
+     "en": "People of sattva worship the gods; people of rajas worship yakshas and rakshasas (spirits of wealth and night-prowling demons); others, people of tamas, worship ghosts of the dead and hordes of spirits.",
+     "cmp": [
+      {
+       "w": "yakṣa-rakṣāṃsi",
+       "note": "yakṣa 是守护财宝、半神半妖的精灵，佛经里的「夜叉」就是它；rakṣas 是吃人的夜间恶鬼，佛经译「罗刹」。中文白话用了「药叉」「罗刹」，英文只能音译加括号说明。"
+      }
+     ]
+    },
+    {
+     "h": "ab29eec5",
+     "en": "Some people practice harsh austerities that scripture never prescribed, full of hypocrisy and ego, driven by desire, passion and brute force."
+    },
+    {
+     "h": "1bf4b6ac",
+     "en": "Foolish, they torment the elements that make up the body, and me too, who dwell inside the body. Know that their resolve is demonic."
+    },
+    {
+     "h": "e3e1b2c4",
+     "en": "Even the food each person likes is of three kinds, and so are sacrifice, austerity and giving. Hear how they differ."
+    },
+    {
+     "h": "025516b4",
+     "en": "Foods that increase life, vitality, strength, health, happiness and good cheer, that are juicy, rich, nourishing and pleasing to the heart, are dear to people of sattva.",
+     "cmp": [
+      {
+       "w": "snigdhāḥ sthirāḥ",
+       "note": "snigdha 是「油润的」，在印度饮食里指加了酥油、奶这类滋养的东西，不是贬义的「油腻」。sthira 是「持久的」，指吃下去能顶得住。中文「油润、耐饱」很贴，英文换成 rich, nourishing。"
+      }
+     ]
+    },
+    {
+     "h": "c50ac4f6",
+     "en": "Foods that are pungent, sour, salty, too hot, sharp, dry and burning are liked by people of rajas; they bring pain, grief and illness.",
+     "cmp": [
+      {
+       "w": "kaṭu",
+       "note": "梵文 kaṭu 指辛辣、呛口的味道（像姜和胡椒），「苦」另有一个字 tikta。中文白话译成「苦的」，英文按原意译成 pungent。"
+      }
+     ]
+    },
+    {
+     "h": "e4332d10",
+     "en": "Food that has sat too long, lost its taste, gone putrid or stale, leftovers, and things unfit for offering are dear to people of tamas.",
+     "cmp": [
+      {
+       "w": "yāta-yāmam / ucchiṣṭam",
+       "note": "yāta-yāma 字面是「过了一个时辰（约三小时）」，就是放凉、放久了的饭。ucchiṣṭa 是别人吃剩的，在印度礼俗里沾了别人的口就不洁净。amedhya 是「不能拿去供神的」。中英文都只能把它们当成「不新鲜」，宗教上的洁净感淡了。"
+      }
+     ]
+    },
+    {
+     "h": "a1f4b8cb",
+     "en": "Sacrifice offered according to the rules by those who seek no fruit, with the mind settled on the thought \"this simply ought to be offered,\" is of sattva."
+    },
+    {
+     "h": "a4b7e48e",
+     "en": "But sacrifice offered with an eye on its fruit, or for show, best of the Bharatas, know that it is of rajas."
+    },
+    {
+     "h": "8a5fb018",
+     "en": "Sacrifice with no regard for the rules, with no food given out, without mantras, without the fee for the priests, and without faith, is called tamas.",
+     "cmp": [
+      {
+       "w": "adakṣiṇam",
+       "note": "dakṣiṇā 是祭祀结束时给主祭婆罗门的酬金，没有它，祭祀在规矩上就不算完成。中文「不给祭司酬金」、英文 without the fee for the priests 都照实译了。"
+      }
+     ]
+    },
+    {
+     "h": "44d8d185",
+     "en": "Honoring the gods, the twice-born, teachers and the wise; purity, honesty, chastity and not harming: this is called the austerity of the body.",
+     "cmp": [
+      {
+       "w": "dvija / brahmacarya",
+       "note": "dvija「再生者」指受过成年圣线礼的上三个种姓，尤其指婆罗门。brahmacarya 字面是「行于梵」，实际指独身、禁欲的修行；中文「梵行」保住了字面，英文 chastity 只说了实际含义。"
+      }
+     ]
+    },
+    {
+     "h": "732e9763",
+     "en": "Words that cause no distress, that are true, kind and helpful, along with regular recitation of scripture: this is called the austerity of speech."
+    },
+    {
+     "h": "7e556df3",
+     "en": "A clear and serene mind, gentleness, silence, self-control and purity of heart: this is called the austerity of the mind."
+    },
+    {
+     "h": "207bcbdb",
+     "en": "When people practice this threefold austerity with the highest faith, seeking no fruit and with disciplined minds, it is called sattva."
+    },
+    {
+     "h": "9cddd8e2",
+     "en": "Austerity done to win respect, honor and reverence, or done for show, is called rajas here; it is unsteady and does not last."
+    },
+    {
+     "h": "739a0ba7",
+     "en": "Austerity done out of foolish stubbornness, by torturing oneself, or meant to ruin someone else, is called tamas."
+    },
+    {
+     "h": "b433d435",
+     "en": "A gift given because \"it ought to be given,\" to someone who cannot repay it, at the right place and time, to a worthy recipient, is held to be of sattva.",
+     "cmp": [
+      {
+       "w": "pātre",
+       "note": "pātra 本义是「容器、碗」，引申为「配得上接受的人」。古人的想法是：给出去的东西要放进合适的容器里。中英文都只译出了引申义。"
+      }
+     ]
+    },
+    {
+     "h": "024842af",
+     "en": "But a gift given to get something back, or with an eye on some fruit, or given grudgingly, is held to be of rajas."
+    },
+    {
+     "h": "e077c3a8",
+     "en": "A gift given at the wrong place and time, to the unworthy, without courtesy and with contempt, is called tamas."
+    },
+    {
+     "h": "5ac20442",
+     "en": "\"Om tat sat\": this is remembered as the threefold naming of Brahman. By it, long ago, the brahmins, the Vedas and the sacrifices were set in place.",
+     "cmp": [
+      {
+       "w": "tat sat",
+       "note": "tat 是「那个」，sat 是「存在、真实、善」。中文白话译成「彼、真」，英文保留原音，后面三颂再逐个解释。本站梵文这一颂只录了 tat sad，但下一颂马上讲 om，传统上三个字连在一起念，所以中英文都把「唵」补上了。"
+      }
+     ]
+    },
+    {
+     "h": "66c6ae1d",
+     "en": "That is why those who speak of Brahman always say \"Om\" first when they begin acts of sacrifice, giving and austerity as the rules prescribe."
+    },
+    {
+     "h": "b3657dbe",
+     "en": "Saying \"tat\" (that), without aiming at any fruit, those who long for freedom perform the various acts of sacrifice, austerity and giving."
+    },
+    {
+     "h": "50765942",
+     "en": "\"Sat\" is used to mean what is real and what is good; and the word \"sat\" is also used, Partha, for a praiseworthy deed.",
+     "cmp": [
+      {
+       "w": "sat",
+       "note": "一个字同时是「存在的、真实的」和「好的」，在梵文里很自然：真的就是好的。中文白话用一个「真」字，英文要拆成 real 和 good 两个词，谁也没法用一个字装下两个意思。"
+      }
+     ]
+    },
+    {
+     "h": "055cd136",
+     "en": "Steadfastness in sacrifice, austerity and giving is also called \"sat,\" and any action done for their sake is likewise called \"sat.\""
+    },
+    {
+     "h": "cd74580d",
+     "en": "Whatever is offered, given, practiced as austerity or done without faith is called \"asat\" (unreal), Partha. It counts for nothing, either after death or here.",
+     "cmp": [
+      {
+       "w": "asat",
+       "note": "asat 是 sat 的反面：「不存在、不真实、没价值」。中文「非真」、英文 unreal 都只取了一面；原文的意思是，没有信心做的事等于没做过。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18 · Renunciation and Freedom",
+   "verses": [
+    {
+     "h": "914d221b",
+     "en": "Arjuna said: Mighty-armed one, Hrishikesha (lord of the senses), slayer of the demon Keshi, I want to know the truth about renunciation and about letting go, each on its own.",
+     "cmp": [
+      {
+       "w": "saṃnyāsa / tyāga",
+       "note": "这一章的主线就是这两个词。saṃnyāsa 是「整个放下」，后来专指出家、抛开社会身份；tyāga 是「松手、舍掉」，重点在不抓着结果。本站中文用「出离 / 舍弃」，英文用 renunciation / letting go。黑天接下来的回答是：真正要做的是 tyāga，事情照做，只是放开果报。"
+      }
+     ]
+    },
+    {
+     "h": "799acc20",
+     "en": "The Blessed Lord said: The wise understand renunciation as setting aside actions done out of desire. The discerning call letting go the giving up of the fruits of all action.",
+     "cmp": [
+      {
+       "w": "kāmya karma",
+       "note": "kāmya 是吠陀里一类专门「为了求某样东西」而做的祭祀，比如求子、求雨、求升天。中文「出于欲求的行为」、英文 actions done out of desire 都把这层仪式背景冲淡了。"
+      }
+     ]
+    },
+    {
+     "h": "8e2accb3",
+     "en": "Some thinkers say action should be given up because it is flawed in itself. Others say acts of sacrifice, giving and austerity should not be given up."
+    },
+    {
+     "h": "e3f27689",
+     "en": "Hear my conclusion on letting go, best of the Bharatas. Letting go, tiger among men, has been declared to be of three kinds."
+    },
+    {
+     "h": "cc529497",
+     "en": "Acts of sacrifice, giving and austerity should not be given up; they should be done. Sacrifice, giving and austerity purify the wise."
+    },
+    {
+     "h": "fd8c4c75",
+     "en": "But even these actions should be done letting go of attachment and of their fruits. That, Partha, is my settled and highest view."
+    },
+    {
+     "h": "68be9490",
+     "en": "Renouncing an action that is one's duty is not right. Abandoning it out of confusion is called letting go of the tamas kind.",
+     "cmp": [
+      {
+       "w": "niyata karma",
+       "note": "niyata 是「被规定的、固定的」，指按身份每天、每年必须做的那些事。中文「规定的义务」、英文 an action that is one's duty 都对，但原文更像「排定的功课」，不是道德上的义务感。"
+      }
+     ]
+    },
+    {
+     "h": "00d5a5ca",
+     "en": "Whoever drops an action as merely \"painful,\" for fear of bodily strain, performs a letting go of the rajas kind and does not get the fruit of letting go."
+    },
+    {
+     "h": "f532b6d9",
+     "en": "When one does a required action simply because \"it should be done,\" Arjuna, letting go of attachment and fruit, that letting go is held to be of sattva."
+    },
+    {
+     "h": "595176a7",
+     "en": "The one who lets go, filled with sattva, wise, with doubts cut away, does not hate unpleasant work and does not cling to pleasant work.",
+     "cmp": [
+      {
+       "w": "akuśala / kuśala",
+       "note": "kuśala 原义是「熟练的、合宜的」，佛经里译作「善」、「不善」。这里中文白话取「愉快、不愉快」，英文也一样，没有用道德上的「好、坏」。"
+      }
+     ]
+    },
+    {
+     "h": "0724d4ad",
+     "en": "No one with a body can give up action completely. The one who lets go of the fruits of action is the one called a person of letting go."
+    },
+    {
+     "h": "da9fcfba",
+     "en": "Unwanted, wanted, and mixed: these are the three kinds of fruit of action that come after death to those who have not let go, but never to those who have renounced."
+    },
+    {
+     "h": "b35a2ce3",
+     "en": "Mighty-armed one, learn from me these five factors taught in the Sankhya doctrine for the accomplishment of every action.",
+     "cmp": [
+      {
+       "w": "sāṃkhye kṛtānte",
+       "note": "sāṃkhya 字面是「计数」，指把世界一项项数清楚的那派学问，中文译「数论」。kṛtānta 是「已经下了定论的教义」。这里不一定是后来成形的数论学派，也可能只是「分析的学问」。"
+      }
+     ]
+    },
+    {
+     "h": "24d8e093",
+     "en": "The seat (the body), the doer, the various instruments, the many different kinds of effort, and fifth, providence.",
+     "cmp": [
+      {
+       "w": "daivam",
+       "note": "daiva 字面是「属于神的」，指人管不到的那一份因素。中文「天意」、英文 providence 都带着「有一位神在安排」的意思；原文更模糊，也可以理解成命运、运气。"
+      }
+     ]
+    },
+    {
+     "h": "b6898f04",
+     "en": "Whatever action a person starts with body, speech or mind, right or wrong, these five are its causes."
+    },
+    {
+     "h": "730eb94b",
+     "en": "That being so, whoever sees himself alone as the doer, because his understanding is unformed, does not see; his mind is dull."
+    },
+    {
+     "h": "20daa25a",
+     "en": "One who has no sense of \"I did it,\" whose understanding is untainted, even if he kills these people, does not kill and is not bound."
+    },
+    {
+     "h": "fb42fe6c",
+     "en": "Knowledge, the known, and the knower are the threefold prompt to action. The instrument, the act and the doer are the threefold makeup of action."
+    },
+    {
+     "h": "ec879717",
+     "en": "Knowledge, action and the doer are each said to be of three kinds, by the difference of the qualities, in the teaching that counts the qualities. Hear about these too, as they are."
+    },
+    {
+     "h": "814677dc",
+     "en": "The knowledge by which one sees a single unchanging being in all beings, undivided among the divided, know that knowledge is of sattva."
+    },
+    {
+     "h": "cffb36a9",
+     "en": "But the knowledge that sees in all beings only separate entities of different kinds, each apart, know that knowledge is of rajas."
+    },
+    {
+     "h": "77b72074",
+     "en": "And the knowledge that clings to a single task as if it were the whole, without reason, missing what is real, and narrow, is called tamas."
+    },
+    {
+     "h": "4129196e",
+     "en": "Action that is required, done without attachment, without liking or disliking, by someone who wants no fruit, is called sattva."
+    },
+    {
+     "h": "ea53ce5c",
+     "en": "But action done by someone chasing their desires, or full of ego, with great strain, is called rajas."
+    },
+    {
+     "h": "865c1e05",
+     "en": "Action begun out of delusion, without regard for consequences, loss, harm to others, or one's own capacity, is called tamas."
+    },
+    {
+     "h": "1997c967",
+     "en": "A doer free of attachment, who doesn't talk about \"I,\" full of steadiness and energy, unchanged by success or failure, is called sattva."
+    },
+    {
+     "h": "2195cadc",
+     "en": "A doer full of craving, eager for the fruits of action, greedy, harmful by nature, impure, swinging between joy and grief, is declared to be of rajas."
+    },
+    {
+     "h": "e1c7413e",
+     "en": "A doer who is undisciplined, crude, stubborn, deceitful, mean, lazy, gloomy and always putting things off is called tamas.",
+     "cmp": [
+      {
+       "w": "dīrgha-sūtrī",
+       "note": "字面是「线拉得很长的人」，就是做事拖拖拉拉、一拖再拖。中文「拖拖拉拉」和英文 always putting things off 都恰好对上，原文的比喻很生动。"
+      }
+     ]
+    },
+    {
+     "h": "7feb35c4",
+     "en": "Now hear, Dhananjaya (winner of wealth), the threefold difference in understanding and in steadfastness according to the qualities, explained fully and one by one.",
+     "cmp": [
+      {
+       "w": "buddhi / dhṛti",
+       "note": "buddhi 是做判断、下决定的那部分心，本站英文统一译 understanding，中文白话这里用「智慧」，听起来比原文高一档。dhṛti 是「撑住、守住」的能力，中英文都译成「坚持」，接下来三颂讲三种不同的坚持。"
+      }
+     ]
+    },
+    {
+     "h": "72a3e060",
+     "en": "The understanding that knows when to act and when to stop, what should be done and what should not, what to fear and what not to fear, what binds and what frees, Partha, is of sattva."
+    },
+    {
+     "h": "246d748a",
+     "en": "The understanding by which one knows dharma and its opposite, what should be done and what should not, but not as they really are, Partha, is of rajas.",
+     "cmp": [
+      {
+       "w": "dharma / adharma",
+       "note": "中文白话用佛教味的「正法、非法」，英文这里保留 dharma（本段第一次出现在第十四章末，注成 the rightful order of things）。dharma 在《薄伽梵歌》里既是社会本分，也是宇宙秩序，「法」字很难同时装下这两层。"
+      }
+     ]
+    },
+    {
+     "h": "e079828b",
+     "en": "The understanding that, wrapped in darkness, takes adharma for dharma and sees everything backwards, Partha, is of tamas."
+    },
+    {
+     "h": "6b244237",
+     "en": "The steadfastness with which, through unwavering yoga, one holds in check the workings of the mind, the breath and the senses, Partha, is of sattva."
+    },
+    {
+     "h": "26e78da2",
+     "en": "But the steadfastness with which one holds on to dharma, pleasure and wealth, Arjuna, craving their fruit as each comes along, Partha, is of rajas.",
+     "cmp": [
+      {
+       "w": "dharma-kāma-artha",
+       "note": "这是印度传统里人生的三个正当目标：本分、欲乐、财富，加上第四个「解脱」就是四大人生目的。中文「正法、欲乐和财利」逐个对上；英文读者看不出这是一组固定说法。"
+      }
+     ]
+    },
+    {
+     "h": "924d0b27",
+     "en": "The steadfastness with which a dull person will not let go of sleep, fear, grief, despair and arrogance, Partha, is of tamas."
+    },
+    {
+     "h": "797adf4e",
+     "en": "And now hear from me, bull of the Bharatas, about the three kinds of happiness. The happiness one comes to enjoy through practice, and in which pain comes to an end,"
+    },
+    {
+     "h": "8dc0b0c1",
+     "en": "which is like poison at first but like nectar in the end, born from the clarity of one's own understanding of the self, is called happiness of sattva."
+    },
+    {
+     "h": "d084a21a",
+     "en": "The happiness that comes from the senses meeting their objects, like nectar at first but like poison in the end, is held to be of rajas."
+    },
+    {
+     "h": "0ef65d9b",
+     "en": "The happiness that deludes the self both at the start and afterward, arising from sleep, laziness and carelessness, is called tamas."
+    },
+    {
+     "h": "c504cc63",
+     "en": "There is no being, on earth or among the gods in heaven, that is free of these three qualities born of nature.",
+     "cmp": [
+      {
+       "w": "sattvam",
+       "note": "这一颂的 sattva 又是本义「存在物、生灵」，不是三德之一。同一颂里一边说「没有哪个 sattva 能摆脱三德」，一边三德里也有 sattva，原文有点绕口；中文「存在」、英文 being 都把它解开了。"
+      }
+     ]
+    },
+    {
+     "h": "91c736d0",
+     "en": "Scorcher of foes, the work of brahmins (priests), kshatriyas (warriors and rulers), vaishyas (farmers and traders) and shudras (laborers) is divided according to the qualities that arise from their own nature.",
+     "cmp": [
+      {
+       "w": "svabhāva-prabhavaiḥ",
+       "note": "原文说四个阶层的职责是按「各人天性所生的德」来分的，没有直接说「按出身」。后世拿这一颂来为世袭种姓辩护，也有人用它来说「看性情不看血统」。中英文都照字面译，不替任何一方下结论。"
+      }
+     ]
+    },
+    {
+     "h": "b35f516e",
+     "en": "Calm, self-control, austerity, purity, patience, honesty, knowledge, wisdom and faith in the Veda: these are the work of a brahmin, born of his nature.",
+     "cmp": [
+      {
+       "w": "āstikyam",
+       "note": "āstika 字面是「说『有』的人」，指承认吠陀权威、相信有来世的人。中文「对吠陀的信仰」、英文 faith in the Veda 都是取了它在这里的实际意思。"
+      }
+     ]
+    },
+    {
+     "h": "0ef2d00c",
+     "en": "Courage, vigor, endurance, skill, not fleeing in battle, generosity and the bearing of a leader: these are the work of a kshatriya, born of his nature."
+    },
+    {
+     "h": "455c80e5",
+     "en": "Farming, tending cattle and trade are the work of a vaishya, born of his nature; work that consists in service is the work of a shudra, also born of his nature."
+    },
+    {
+     "h": "9ebc6c33",
+     "en": "Each person who delights in their own work reaches perfection. Hear how one devoted to their own work finds perfection."
+    },
+    {
+     "h": "19ecbd91",
+     "en": "By worshiping, through one's own work, the one from whom all beings come forth and by whom all this is pervaded, a person finds perfection."
+    },
+    {
+     "h": "989fbc96",
+     "en": "Better your own duty (svadharma) done imperfectly than another's duty done well. Doing the work set by your own nature, you incur no fault.",
+     "cmp": [
+      {
+       "w": "svadharma",
+       "note": "sva-dharma 是「自己的那份 dharma」，由你的天性和位置决定。中文白话译「自己的职责」，读起来像工作岗位；英文 your own duty 也偏向义务。原文更像：活出你自己那条路，哪怕走得不漂亮，也胜过把别人的路走得很好。第三章也说过同样的话。"
+      }
+     ]
+    },
+    {
+     "h": "be1c4461",
+     "en": "Son of Kunti, one should not give up the work one is born to, even if it has flaws. All undertakings are clouded by some flaw, as fire is by smoke."
+    },
+    {
+     "h": "1cec165a",
+     "en": "With understanding unattached everywhere, self mastered, longing gone, through renunciation one reaches the highest perfection of freedom from action.",
+     "cmp": [
+      {
+       "w": "naiṣkarmya",
+       "note": "字面是「没有行为的状态」，但前面一直在讲照样做事、只是放开果报，所以它指的是「做着却不被行为捆住」。中文白话借用道家的「无为」，意思接近，但会带进老庄的联想。"
+      }
+     ]
+    },
+    {
+     "h": "b86dcfe8",
+     "en": "Learn from me briefly, son of Kunti, how one who has reached perfection reaches Brahman, the highest state of knowledge."
+    },
+    {
+     "h": "9cb8b208",
+     "en": "Joined to a purified understanding, restraining oneself with steadiness, letting go of sound and the other objects of the senses, putting aside liking and disliking,"
+    },
+    {
+     "h": "83b3ad7f",
+     "en": "living in solitude, eating lightly, controlling speech, body and mind, always devoted to the yoga of meditation, resting in dispassion,"
+    },
+    {
+     "h": "3fecce4e",
+     "en": "letting go of ego, force, arrogance, desire, anger and possessiveness, with no sense of \"mine,\" at peace, one becomes fit to become Brahman."
+    },
+    {
+     "h": "5cf0adba",
+     "en": "Having become Brahman, serene within, one neither grieves nor craves. Equal toward all beings, one gains the highest devotion to me."
+    },
+    {
+     "h": "5d87eb98",
+     "en": "Through devotion one comes to know me truly, how great I am and who I am. Then, knowing me truly, one enters into me at once."
+    },
+    {
+     "h": "be54ef0d",
+     "en": "Even while always doing all kinds of actions, one who takes refuge in me reaches by my grace the eternal, unchanging place.",
+     "cmp": [
+      {
+       "w": "mat-prasādāt",
+       "note": "prasāda 本义是「清澈、平静」，也指神的「恩典」，还指供过神再分给人吃的食物。第三十七颂的「清明」和这里的「恩典」原文是同一个词，中英文分开译，读者看不出这种呼应。"
+      }
+     ]
+    },
+    {
+     "h": "e9759dae",
+     "en": "In your mind, hand over all actions to me. Make me your highest goal, rely on the yoga of understanding, and keep your thoughts always on me."
+    },
+    {
+     "h": "7543ee65",
+     "en": "With your thoughts on me, you will cross over every difficulty by my grace. But if out of ego you will not listen, you will be lost."
+    },
+    {
+     "h": "0804da0a",
+     "en": "If, leaning on ego, you think \"I will not fight,\" your resolve is useless: your own nature will make you do it."
+    },
+    {
+     "h": "a4e2564a",
+     "en": "Son of Kunti, you are bound by your own work, born of your nature. What you do not want to do out of confusion, you will do anyway, even against your will."
+    },
+    {
+     "h": "d697d5a6",
+     "en": "The Lord lives in the heart of every being, Arjuna, and by his power of illusion (maya) he keeps all beings spinning, as if mounted on a machine.",
+     "cmp": [
+      {
+       "w": "māyā / yantra",
+       "note": "māyā 原指「神奇的造化力、魔术」，后来才偏向「幻象」。中文「幻力」、英文 power of illusion 都偏后一个意思。yantra 是「机关、器械」，画面像是众生坐在一台转动的机器上；中文白话加了「转动的」，把画面说完整了。"
+      }
+     ]
+    },
+    {
+     "h": "ea1d91b7",
+     "en": "Go to him alone for refuge, with your whole being, Bharata. By his grace you will reach the highest peace and the eternal home."
+    },
+    {
+     "h": "2b153e1e",
+     "en": "So I have told you this knowledge, more secret than any secret. Think it through completely, then do as you choose.",
+     "cmp": [
+      {
+       "w": "yathecchasi tathā kuru",
+       "note": "讲了十八章之后，黑天没有下命令，而是说「想透了，照你愿意的去做」。中英文都照直译出来，这是整部对话里很少见的、把选择交还给对方的一句。"
+      }
+     ]
+    },
+    {
+     "h": "9d4466a5",
+     "en": "Hear once more my highest word, the most secret of all: you are dearly loved by me, so I will tell you what is good for you."
+    },
+    {
+     "h": "60dc6d66",
+     "en": "Keep your mind on me, be devoted to me, worship me, bow to me. You will come to me; I promise you truly, for you are dear to me."
+    },
+    {
+     "h": "bd8e8f99",
+     "en": "Let go of all dharmas and come to me alone for refuge. I will free you from every wrong. Do not grieve.",
+     "cmp": [
+      {
+       "w": "sarva-dharmān",
+       "note": "这里 dharma 是复数「一切的法」，指各种宗教规矩、身份义务。中文白话「放下一切法」保留了原字；英文留下 dharmas。这一句和第四十七颂「自己的本分胜过别人的」放在一起读很有张力，历代注家对它的解释争论最多。"
+      },
+      {
+       "w": "sarva-pāpebhyaḥ",
+       "note": "pāpa 是「坏的、带来恶果的东西」，不一定是宗教意义上的「罪」。中文「罪」、英文 sin 都太重，本站英文用 wrong。"
+      }
+     ]
+    },
+    {
+     "h": "3241ed5c",
+     "en": "Never speak of this to anyone without discipline, without devotion, or unwilling to listen, nor to anyone who resents me."
+    },
+    {
+     "h": "5a194922",
+     "en": "Whoever teaches this highest secret to those devoted to me, having shown the highest devotion to me, will come to me without doubt."
+    },
+    {
+     "h": "74ce8086",
+     "en": "No one among humans does me a dearer service than such a person, and no one on earth will be dearer to me."
+    },
+    {
+     "h": "4f058f03",
+     "en": "And whoever studies this conversation of ours, so true to dharma, will be worshiping me, I believe, with the sacrifice of knowledge."
+    },
+    {
+     "h": "9d380895",
+     "en": "Even one who just listens with faith and without resentment will be freed, and will reach the bright worlds of those whose deeds were good."
+    },
+    {
+     "h": "d2b01ef7",
+     "en": "Partha, did you hear this with a focused mind? Dhananjaya, has your confusion, born of ignorance, been destroyed?"
+    },
+    {
+     "h": "71521c3f",
+     "en": "Arjuna said: My confusion is gone. Through your grace, Achyuta (the unfailing one), I have found my memory again. I stand firm, my doubts are gone. I will do as you say.",
+     "cmp": [
+      {
+       "w": "smṛtir labdhā",
+       "note": "smṛti 是「记忆、想起来」，阿周那是说：我想起来自己是谁、该做什么了。中文白话译成「恢复了正念」，借了佛教「正念」这个词，读者会想到冥想；英文照字面写 memory。"
+      }
+     ]
+    },
+    {
+     "h": "5500651e",
+     "en": "Sanjaya said: So I heard this wondrous conversation between Vasudeva (Krishna, son of Vasudeva) and the great-souled Partha, and it made my hair stand on end."
+    },
+    {
+     "h": "ba3ec7ed",
+     "en": "By the grace of Vyasa I heard this supreme secret, this yoga, from Krishna, the lord of yoga, speaking it himself before my very eyes.",
+     "cmp": [
+      {
+       "w": "vyāsa-prasādāt",
+       "note": "毗耶娑是《摩诃婆罗多》的作者，也是故事里的人物。他赐给桑遮耶「天眼」，让他在宫中就能看见、听见战场上的一切，所以桑遮耶说自己是「亲耳听到」。中英文没有交代这个背景，读到这里会有点突兀。"
+      }
+     ]
+    },
+    {
+     "h": "a8705bd3",
+     "en": "O king, as I recall again and again this wondrous and holy conversation between Keshava and Arjuna, I rejoice again and again."
+    },
+    {
+     "h": "0146b0ab",
+     "en": "And as I recall again and again that most wondrous form of Hari (Krishna), great is my amazement, O king, and I rejoice again and again."
+    },
+    {
+     "h": "ad5d97f6",
+     "en": "Wherever there is Krishna, the lord of yoga, and wherever there is Partha, the archer, there, I am sure, are fortune, victory, prosperity and sound statecraft.",
+     "cmp": [
+      {
+       "w": "nītiḥ",
+       "note": "nīti 是「治国之道、策略」，偏向政治上的明智。中文白话译成「正道」，偏向道德；英文 sound statecraft 更贴原文。整句是桑遮耶对盲眼国王持国说的，其实是在委婉地预告：他儿子那一方会输。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
