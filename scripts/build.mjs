@@ -26,8 +26,9 @@ const T = {
     htmlLang: 'zh-Hans',
     prefix: '',
     siteName: '梵文经书白话直译',
-    siteSub: 'Sanskrit Scriptures in Plain Chinese',
+    siteSub: '',
     home: '首页',
+    sitemap: '网站地图',
     footer: '梵文原文与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀）都是公有领域；白话直译、英译、古译今译与注释是本站整理，转载请注明出处。',
     notFound: '找不到这一页',
     backHome: '回到首页',
@@ -36,7 +37,7 @@ const T = {
     chapters: (n) => `${n} 章`,
     verses: (n) => `${n} 段`,
     sep: ' · ',
-    compareKicker: 'Sanskrit · English · 中文',
+    compareKicker: '梵文 · 英文 · 中文',
     compareTitle: '英文、中文、梵文差在哪',
     compareHint: '每段白话下面的「三语对照」，是这一段里具体的差别。',
     cmpLabel: (n) => `三语对照 ${n}`,
@@ -45,8 +46,9 @@ const T = {
     htmlLang: 'en',
     prefix: '/en',
     siteName: 'Sanskrit Scriptures, Plainly',
-    siteSub: '梵文经书 · English · 中文',
+    siteSub: '',
     home: 'Home',
+    sitemap: 'Sitemap',
     footer: 'The Sanskrit texts and the classical Chinese translations (Xuanzang, Kumarajiva, Kang Sengkai, Shikshananda) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work; please credit when quoting.',
     notFound: 'Page not found',
     backHome: 'Back to home',
@@ -55,7 +57,7 @@ const T = {
     chapters: (n) => `${n} chapters`,
     verses: (n) => `${n} passages`,
     sep: ' · ',
-    compareKicker: 'Sanskrit · English · 中文',
+    compareKicker: 'Sanskrit · English · Chinese',
     compareTitle: 'Where English, Chinese and Sanskrit part ways',
     compareHint: 'The “Three languages” note under a passage gives the specific differences in that passage.',
     cmpLabel: (n) => `Three languages ${n}`,
@@ -71,17 +73,17 @@ export const chapterPath = (b, i, lang = 'zh') => (b.chapters.length === 1 ? boo
 const homePath = (lang) => `${T[lang].prefix}/`;
 const verseCount = (b) => b.chapters.reduce((n, ch) => n + ch.verses.length, 0);
 const hasEn = (b) => Boolean(b.en);
-const langs = (b) => ['zh-Hans', ...(hasEn(b) ? ['en'] : []), 'sa'];
+const langs = (lang) => [T[lang].htmlLang, 'sa'];
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
+// 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
+const saName = (b, lang) => (lang === 'en' ? b.sanskrit.replace('(小本)', ' (shorter)').replace('(大本)', ' (longer)') : b.sanskrit);
 const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
 const chTitle = (ch, lang) => (lang === 'en' ? ch.en : ch.title);
 function compareLabel(b, lang) {
-  if (lang === 'en') return b.oldTranslator ? `with ${transName(b.oldTranslator)}’s Chinese` : 'with plain Chinese';
+  if (lang === 'en') return 'translated from the Sanskrit';
   return b.oldTranslator ? `${b.oldTranslator}译本对照` : '梵汉对照';
 }
-const TRANSLATORS = { 玄奘: 'Xuanzang', 鸠摩罗什: 'Kumarajiva', 康僧铠: 'Kang Sengkai', 实叉难陀: 'Shikshananda' };
-const transName = (zh) => TRANSLATORS[zh] ?? zh;
 
 // 三语对照总结。多章书放在目录页，单章书放在经文后面。
 function compareSection(b, lang) {
@@ -107,7 +109,7 @@ function langToggle(lang, alt) {
 }
 
 /** alt: { zh, en } 这一页在两种语言里的路径；只有真正对应的页才写 hreflang。 */
-function layout({ lang, path, alt, exact = true, title: pageTitle, description, body, jsonLd, noindex = false, cols }) {
+function layout({ lang, path, alt, exact = true, title: pageTitle, description, body, jsonLd, noindex = false }) {
   const t = T[lang];
   const url = SITE + path;
   const hreflang = exact
@@ -135,9 +137,9 @@ ${hreflang}<meta property="og:type" content="article">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap">
 <link rel="stylesheet" href="/styles.css">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
-<body data-lang="${lang}"${cols ? ` data-default-cols="${cols}" class="${['zh', 'en', 'old', 'sa'].filter((c) => !cols.split(' ').includes(c)).map((c) => `hide-${c}`).join(' ')}"` : ''}>
+<body data-lang="${lang}">
 <header class="site-header">
-  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span>${esc(t.siteName)}<small>${esc(t.siteSub)}</small></span></a>
+  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span>${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
   <div class="header-actions">
     ${langToggle(lang, alt)}
     <a class="home-link" href="${MAIN_SITE}/${lang === 'zh' ? 'zh/' : ''}">Eden ↗</a>
@@ -148,7 +150,7 @@ ${body}
 </main>
 <footer class="site-footer">
   <p>${esc(t.footer)}</p>
-  <p><a href="${MAIN_SITE}/">Eden Tan</a> · <a href="/sitemap.xml">Sitemap</a></p>
+  <p><a href="${MAIN_SITE}/">Eden Tan</a> · <a href="/sitemap.xml">${t.sitemap}</a></p>
 </footer>
 <script src="/app.js" defer></script>
 </body>
@@ -168,9 +170,7 @@ function bookCard(b, lang) {
   return `<li><a href="${bookPath(b, lang)}">
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(title(b, lang))}</strong>
-      <span class="sa-name" lang="sa-Latn">${esc(b.sanskrit)}</span>${
-        lang === 'en' ? `\n      <span class="en-name" lang="zh-Hans">${esc(b.title)}</span>` : ''
-      }
+      <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
       <p>${esc(summary(b, lang))}</p>
       <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</small>
     </a></li>`;
@@ -186,11 +186,11 @@ function homePage(books, lang) {
   const intro =
     lang === 'en'
       ? `<p class="kicker">Scripture / ${shown.length} Sanskrit classics in English</p>
-    <h1>Read the scriptures straight from the Sanskrit<span lang="zh-Hans">从梵文直接读懂经书</span></h1>
+    <h1>Read the scriptures straight from the Sanskrit</h1>
     <p>Every passage is translated directly from the Sanskrit into plain English, with the Devanagari original and its romanization alongside. A short note marks where the English, the Chinese and the Sanskrit part ways: a word that shifts meaning, a line an ancient translator added or cut.</p>
-    <p>Switch on the Chinese columns to read the site’s plain-Chinese translation and the classical versions by Xuanzang and Kumarajiva side by side.</p>`
-      : `<p class="kicker">Scripture / ${books.length} 部梵文经典</p>
-    <h1>从梵文直接读懂经书<span lang="en">${esc(T.zh.siteSub)}</span></h1>
+    <p>A Chinese edition, with the classical translations by Xuanzang and Kumarajiva, is one click away under 中文 at the top right.</p>`
+      : `<p class="kicker">梵文经典 / ${books.length} 部</p>
+    <h1>从梵文直接读懂经书</h1>
     <p>每一段先给从梵文直译的白话，再把玄奘、鸠摩罗什这些古代译本放在旁边对照：古人多译了什么、少译了什么、哪里和梵文不一样，都标出来。最后附梵文原文和罗马转写。</p>
     <p>${books.filter(hasEn).map((b) => esc(b.title)).join('、')}另有英文版（同样从梵文直译），每段都标出英文、中文、梵文的差别。点右上角 EN 切换。</p>`;
   const body = `
@@ -204,7 +204,7 @@ ${groups
   .map(
     ([label, list], gi) => `
 <section class="tradition">
-  <p class="kicker">${String(gi + 1).padStart(2, '0')} / ${esc(lang === 'en' ? label.zh : label.en)}</p>
+  <p class="kicker">${String(gi + 1).padStart(2, '0')}</p>
   <h2>${esc(lang === 'en' ? label.en : label.zh)}</h2>
   <ul class="book-list">
     ${list.map((b) => bookCard(b, lang)).join('\n    ')}
@@ -215,19 +215,18 @@ ${groups
     lang === 'en' && pending.length
       ? `
 <section class="tradition pending">
-  <p class="kicker">${String(groups.length + 1).padStart(2, '0')} / 只有中文</p>
+  <p class="kicker">${String(groups.length + 1).padStart(2, '0')}</p>
   <h2>Chinese only for now</h2>
-  <p class="meta">English translations of these are in progress. Until then each opens the Chinese page, with the Sanskrit alongside.</p>
+  <p class="meta">English translations of these are in progress. For now each opens the Chinese edition.</p>
   <ul class="book-list">
     ${pending
       .map(
         (b) => `<li><a href="${bookPath(b, 'zh')}" hreflang="zh-Hans">
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(EN_PENDING[b.slug]?.[0] ?? b.sanskrit)}</strong>
-      <span class="sa-name" lang="sa-Latn">${esc(b.sanskrit)}</span>
-      <span class="en-name" lang="zh-Hans">${esc(b.title)}</span>
+      <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
       <p>${esc(EN_PENDING[b.slug]?.[1] ?? '')}</p>
-      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · Chinese ↗</small>
+      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · Chinese edition ↗</small>
     </a></li>`,
       )
       .join('\n    ')}
@@ -254,7 +253,7 @@ ${groups
       name: t.siteName,
       alternateName: t.siteSub,
       url: SITE + homePath(lang),
-      inLanguage: lang === 'en' ? ['en', 'zh-Hans', 'sa'] : ['zh-Hans', 'en', 'sa'],
+      inLanguage: langs(lang),
       author: { '@type': 'Person', name: 'Eden Tan', url: MAIN_SITE + '/' },
     },
   });
@@ -271,7 +270,7 @@ function bookIndexPage(b, lang) {
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${esc(tradition)}</nav>
 <section class="hero hero--art hero--book">
   <div class="hero-copy">
-  <h1>${esc(title(b, lang))}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
+  <h1>${esc(title(b, lang))}<span lang="sa-Latn">${esc(saName(b, lang))}</span></h1>
   <p>${esc(summary(b, lang))}</p>
   <p class="meta">${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</p>
   </div>
@@ -280,8 +279,7 @@ function bookIndexPage(b, lang) {
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
-      const sub = lang === 'en' ? ch.title : '';
-      return `<li><a href="${chapterPath(b, i, lang)}"><strong>${esc(chTitle(ch, lang))}${sub ? `<em lang="zh-Hans">${esc(sub)}</em>` : ''}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
+      return `<li><a href="${chapterPath(b, i, lang)}"><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
 </ol>${compareSection(b, lang)}`;
@@ -292,7 +290,7 @@ function bookIndexPage(b, lang) {
     exact: hasEn(b),
     title:
       lang === 'en'
-        ? `${b.en.title} (${b.sanskrit}): Sanskrit, plain English and Chinese side by side`
+        ? `${b.en.title} (${saName(b, lang)}): Sanskrit, plain English and Chinese side by side`
         : `${b.title} 梵文原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
     description:
       lang === 'en'
@@ -305,9 +303,9 @@ function bookIndexPage(b, lang) {
         {
           '@type': 'Book',
           name: title(b, lang),
-          alternateName: b.sanskrit,
+          alternateName: saName(b, lang),
           url: SITE + bookPath(b, lang),
-          inLanguage: langs(b),
+          inLanguage: langs(lang),
           hasPart: b.chapters.map((ch, i) => ({ '@type': 'Chapter', name: chTitle(ch, lang), url: SITE + chapterPath(b, i, lang) })),
         },
         breadcrumbLd([[t.siteName, homePath(lang)], [title(b, lang), bookPath(b, lang)]]),
@@ -338,12 +336,11 @@ function enHtml(v, lang) {
     </div>`;
 }
 
-function oldHtml(v, lang) {
+function oldHtml(v) {
   if (!v.old) return '';
-  const who = v.old.who ?? '古译';
   return `
-    <div class="col old" data-col="old" lang="zh-Hans">
-      ${v.old.text ? `<p class="old-text"><span class="who">${esc(lang === 'en' ? transName(who) : who)}</span>${esc(v.old.text)}</p>` : ''}
+    <div class="col old" data-col="old">
+      ${v.old.text ? `<p class="old-text"><span class="who">${esc(v.old.who ?? '古译')}</span>${esc(v.old.text)}</p>` : ''}
       ${v.old.plain ? `<p class="old-plain">${esc(v.old.plain)}</p>` : ''}
       ${
         v.old.notes?.length
@@ -357,21 +354,17 @@ function oldHtml(v, lang) {
 
 function verseHtml(v, j, lang) {
   const t = T[lang];
-  const zh =
-    lang === 'en'
-      ? `
-    <p class="col zh" data-col="zh" lang="zh-Hans">${esc(v.zh)}</p>`
-      : `
+  const zh = `
     <div class="col zh" data-col="zh">
       <p class="zh-text">${esc(v.zh)}</p>${cmpHtml(v, lang)}
     </div>`;
-  // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文 → 梵文 → 白话 → 古译
+  // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文（下挂三语对照）→ 梵文，不放中文栏
   const sa = `
     <div class="col sa" data-col="sa">
       <p class="deva" lang="sa">${esc(v.sa.text)}</p>
       <p class="iast" lang="sa-Latn">${esc(v.sa.tr)}</p>
     </div>`;
-  const cols = lang === 'en' ? [enHtml(v, lang), sa, zh, oldHtml(v, lang)] : [zh, oldHtml(v, lang), sa];
+  const cols = lang === 'en' ? [enHtml(v, lang), sa] : [zh, oldHtml(v), sa];
   return `
   <li class="verse" id="v${j + 1}">
     <a class="num" href="#v${j + 1}" aria-label="${t.verseLabel(j + 1)}">${j + 1}</a>${cols.join('')}
@@ -386,22 +379,21 @@ function chapterPage(b, i, lang) {
   const next = b.chapters[i + 1];
   const heading = single ? title(b, lang) : `${title(b, lang)} · ${chTitle(ch, lang)}`;
   const hasOld = ch.verses.some((v) => v.old);
-  const oldLabel = lang === 'en' ? (b.oldTranslator ? `${transName(b.oldTranslator)} (classical Chinese)` : 'Chinese notes') : b.oldTranslator ? `${b.oldTranslator}古译` : '注';
+  const oldLabel = b.oldTranslator ? `${b.oldTranslator}古译` : '注';
   const btn = {
-    zh: `<button type="button" data-toggle="zh" aria-pressed="true">${lang === 'en' ? 'Plain Chinese' : '白话直译'}</button>`,
+    zh: lang === 'zh' ? '<button type="button" data-toggle="zh" aria-pressed="true">白话直译</button>' : '',
     en: lang === 'en' ? '<button type="button" data-toggle="en" aria-pressed="true">English</button>' : '',
-    old: hasOld ? `<button type="button" data-toggle="old" aria-pressed="true">${esc(oldLabel)}</button>` : '',
+    old: hasOld && lang === 'zh' ? `<button type="button" data-toggle="old" aria-pressed="true">${esc(oldLabel)}</button>` : '',
     sa: `<button type="button" data-toggle="sa" aria-pressed="true">${lang === 'en' ? 'Sanskrit' : '梵文'}</button>`,
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
-  const otherSub = lang === 'en' && !single ? ch.title : '';
   const body = `
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 <section class="hero compact hero--art hero--book">
   <div class="hero-copy">
-  <h1>${esc(heading)}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
-  ${sub ? `<p>${esc(sub)}</p>` : ''}${otherSub ? `\n  <p class="en-summary" lang="zh-Hans">${esc(otherSub)}</p>` : ''}
+  <h1>${esc(heading)}<span lang="sa-Latn">${esc(saName(b, lang))}</span></h1>
+  ${sub ? `<p>${esc(sub)}</p>` : ''}
   <p class="meta">${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}</p>
   </div>
   ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
@@ -422,7 +414,6 @@ function chapterPage(b, i, lang) {
     path: chapterPath(b, i, lang),
     alt: chapterAlt(b, i),
     exact: hasEn(b),
-    cols: lang === 'en' ? 'en sa' : undefined,
     title:
       lang === 'en'
         ? `${heading}: Sanskrit with plain English translation`
@@ -435,9 +426,9 @@ function chapterPage(b, i, lang) {
         {
           '@type': single ? 'Book' : 'Chapter',
           name: heading,
-          alternateName: b.sanskrit,
+          alternateName: saName(b, lang),
           url: SITE + chapterPath(b, i, lang),
-          inLanguage: langs(b),
+          inLanguage: langs(lang),
           ...(single ? {} : { isPartOf: { '@type': 'Book', name: title(b, lang), url: SITE + bookPath(b, lang) } }),
         },
         breadcrumbLd(crumbs),

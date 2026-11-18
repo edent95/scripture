@@ -85,6 +85,7 @@ test('英文版：有英译的书每章都有英文页，段数一致，右上�
       const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
       assert.match(html, /<html lang="en">/);
       assert.equal(html.split('data-col="en"').length - 1, ch.verses.length, `${p} 英文段数不对`);
+      assert.equal(html.split('data-col="zh"').length + html.split('data-col="old"').length - 2, 0, `${p} 英文版不该有中文栏`);
       assert.ok(html.includes(`href="${chapterPath(b, i)}" hreflang="zh-Hans"`), `${p} 切中文没指向对应页`);
       assert.ok(zh.includes(`href="${p}" hreflang="en"`), `${chapterPath(b, i)} 切英文没指向对应页`);
     });
