@@ -112,6 +112,24 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 .home-link:hover { border-color: var(--ink); text-decoration: none; }
 
+/* 语言切换:跟 eden-tan.com 右上角一样,无边框外壳,选中的那一颗是主品牌色胶囊 */
+.header-actions { display: flex; align-items: center; gap: 8px; }
+.lang-toggle { display: inline-flex; align-items: center; gap: 2px; }
+.lang-option {
+  display: inline-grid;
+  place-items: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0 12px;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.lang-option:hover { color: var(--ink); text-decoration: none; }
+.lang-option[aria-current='true'] { background: var(--primary); color: var(--primary-text); }
+
 /* 首屏:一个判断 */
 .hero { padding: clamp(48px, 9vw, 128px) 0 clamp(32px, 5vw, 64px); max-width: 980px; }
 .hero.compact { padding: clamp(32px, 5vw, 72px) 0 clamp(20px, 3vw, 40px); }
@@ -220,6 +238,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .col { margin: 0; }
 .col + .col { margin-top: 20px; }
 .col.zh { font-size: 1.12rem; line-height: 1.9; }
+.zh-text { margin: 0; }
+.col.zh .notes { font-size: 0.92rem; line-height: 1.75; }
 .col.old {
   padding: 20px 24px;
   background: var(--soft);
@@ -246,7 +266,20 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .deva { margin: 0; font-family: var(--deva); font-size: 1.1rem; line-height: 1.9; }
 .iast { margin: 6px 0 0; font-size: 0.92rem; font-style: italic; overflow-wrap: anywhere; }
 
-body.hide-zh .col.zh, body.hide-old .col.old, body.hide-sa .col.sa { display: none; }
+/* 英译:和白话同级的正文,左边一条主品牌色细线标出「这是另一种语言」 */
+.col.en { padding-left: 16px; border-left: 3px solid var(--primary); }
+.en-text { margin: 0; font-size: 1.04rem; line-height: 1.75; }
+.cmp { margin-top: 8px; }
+.pending .meta { margin: -12px 0 24px; max-width: var(--measure); }
+body[data-lang='en'] .col.en { padding-left: 0; border-left: 0; }
+body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
+
+/* 三语对照总结 */
+.compare { max-width: var(--measure); margin-top: 56px; padding: 32px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
+.compare h2 { margin: 6px 0 16px; }
+.compare p { line-height: 1.9; }
+
+body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa .col.sa { display: none; }
 
 .pager { display: flex; justify-content: space-between; gap: 16px; max-width: var(--measure); padding: 40px 0 0; }
 .pager a {
@@ -280,6 +313,8 @@ body.hide-zh .col.zh, body.hide-old .col.old, body.hide-sa .col.sa { display: no
   .num { position: static; display: inline-grid; margin-bottom: 12px; }
   .col.zh { font-size: 1.06rem; }
   .brand small { display: none; }
+  .home-link { padding: 0 14px; }
+  .header-actions { gap: 4px; }
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }

@@ -1,4 +1,4 @@
-// 本地预览：先构建，再起静态服务；content/ 或 src/ 有改动就重新构建。
+// 本地预览：先构建，再起静态服务；content/、translations/ 或 src/ 有改动就重新构建。
 // 端口取 PORT，没有就现取空闲端口（listen(0)），不写死。
 import { createServer } from 'node:http';
 import { existsSync, readFileSync, statSync, watch } from 'node:fs';
@@ -49,7 +49,7 @@ export function startServer(port = 0, host = '127.0.0.1') {
 
 if (import.meta.url === `file://${process.argv[1]}`) {
   rebuild();
-  for (const dir of ['content', 'src']) watch(join(ROOT, dir), { recursive: true }, rebuild);
+  for (const dir of ['content', 'translations', 'src']) watch(join(ROOT, dir), { recursive: true }, rebuild);
   const server = await startServer(Number(process.env.PORT ?? 0), process.env.HOST ?? '127.0.0.1');
   console.log(`preview: http://localhost:${server.address().port}/`);
 }

@@ -1,12 +1,12 @@
-// 三栏开关：白话直译 / 古译 / 梵文。至少留一栏；选择记在本机，读不到就全显示。
+// 栏目开关：中文版是白话直译 / 古译 / 梵文，英文版是 English / Sanskrit。至少留一栏；选择按语言分别记在本机，读不到就全显示。
 (() => {
-  const KEY = 'scripture.cols.v2';
-  const ALL = ['zh', 'old', 'sa'];
+  const lang = document.body.dataset.lang || 'zh';
+  const KEY = `scripture.cols.v3.${lang}`;
+  const ALL = ['zh', 'en', 'old', 'sa'];
   const buttons = [...document.querySelectorAll('[data-toggle]')];
   if (!buttons.length) return;
-  // 没有古译的书（如瑜伽经部分章节）页面上没有那颗按钮，只在现有的栏里切换
+  // 没有古译 / 英译的书页面上没有那颗按钮，只在现有的栏里切换
   const present = buttons.map((b) => b.dataset.toggle);
-
   let shown = ALL;
   try {
     const saved = JSON.parse(localStorage.getItem(KEY) || 'null');

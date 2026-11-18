@@ -2,3 +2,6 @@ node_modules/
 dist/
 .worktrees/
 .DS_Store
+
+# 日志首页是产物(npm run log:home 随时重跑);进了版本库每个 PR 都会在它上面冲突
+home.html
