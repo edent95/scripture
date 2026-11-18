@@ -3,11 +3,16 @@
   "private": true,
   "type": "module",
   "description": "scripture.eden-tan.com — 经书逐句对照：原文 · 白话 · 英文",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
-    "check": "npm test && npm run build"
+    "check": "npm test && npm run build",
+    "log:append": "node scripts/append-log.mjs",
+    "log:check": "node scripts/append-log.mjs --check",
+    "log:home": "node scripts/build-home.mjs"
   }
 }

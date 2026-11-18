@@ -39,6 +39,12 @@ npm run dev     # 预览，端口取 PORT，没有就随机空闲端口；改 co
 npm run check   # 完成门禁：单元测试（内容校验、英译指纹、断链、各栏段数、本地服务）+ 构建
 ```
 
+## 改完必须补日志
+
+- 接手任务前先搜改动史：`grep -rn "<关键词>" logs/entries/`，重点看 `ripples`。
+- 每个非平凡改动写一条：`npm run log:append < entry.md`（stdin 首行 `### 标题`），落在 `logs/entries/` 一条一个文件。不要手建条目文件、不要整文件写回 `log.md`。字段与写法见 `log.md` 顶部的格式约定。
+- `log.md` 的 frontmatter 是面板认这个项目的凭据（项目 id `Scripture`）：删了它，面板就不再扫这个仓库，PR 也不会被自动合并。
+
 ## 流程
 
-改动走 worktree → PR → CI（`verify.yml` 跑 `npm run check`）→ 自动合并；合并到 main 后 `deploy.yml` 发布到 GitHub Pages。不要直接往 main 提交。
+改动走 worktree → PR → CI（`verify.yml` 跑 `npm run check`，main 分支保护要求 `verify` 通过）→ 个人面板自动合并（仓库开了 `allow_auto_merge`）；合并到 main 后 `deploy.yml` 发布到 GitHub Pages。不要直接往 main 提交。
