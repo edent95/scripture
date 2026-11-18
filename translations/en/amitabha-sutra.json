@@ -9,6 +9,13 @@
   "第四是几个容易被字面误读的词。vyūha 是「一整套华美的陈设」，古汉语「庄严」也是这个意思，但现代中文读者会读成「严肃」；kulaputra 是「好家族的儿子」，「善男子」听起来像在说品德；kaṣāya 是水底的浑浊沉渣，「浊」很贴切，英文用 murk；koṭi（一千万）被对成「亿」，于是有了「十万亿佛土」，英文按实际数目写 a million million。",
   "最后是音译与意译。鸠摩罗什对一些核心词用音译：「阿鞞跋致」（不退转）、「阿耨多罗三藐三菩提」（无上正等正觉），佛名里也有「达摩佛」这样音译、意译混用的例子；而六方佛名大多意译，但和梵本对照，个数、次序都有出入。英文这次反过来：佛名保留梵文发音，概念一律意译，读者能直接看懂意思，却看不出那些名字原来的含义。"
  ],
+ "compareEn": [
+  "The biggest difference is the Buddha's name. In the Sanskrit this Buddha is almost always called Amitāyus (\"Infinite Life\"), and Amitābha (\"Infinite Light\") appears only once, in the passage that explains the name. Kumārajīva merged both into one transliteration, 阿弥陀 (Āmítuó), built on amita (\"infinite\"), the part the two names share, so a single word covered both \"light\" and \"life\"; 阿弥陀佛 (Āmítuó Fó) later became the most familiar Buddha name in the Chinese-speaking world. The site's English and plain Chinese follow the Sanskrit and write Amitayus wherever the text says Amitayus, so readers can see that the original actually puts \"life\" first. The title works the same way: the Sanskrit is called The Array of Sukhavati, named after the land; Kumārajīva calls it 阿弥陀经 (Āmítuó Jīng, \"The Amitābha Sutra\"), named after the Buddha.",
+  "The second difference is the practice itself. The Sanskrit says that after hearing the name one \"keeps it in mind\" (manasikāra), with an undistracted mind, for one to seven nights; it says nothing about saying it aloud. Kumārajīva renders this as 执持名号 (zhíchí mínghào, \"hold firmly to the name\") and 一心不乱 (yìxīn bú luàn, \"single-minded and unscattered\"), and changes \"nights\" to \"days.\" 执持名号 later became the scriptural basis for Chinese Pure Land's 持名念佛 (chímíng niànfó, \"reciting the Buddha's name\"). The English \"keeps it in mind\" stays close to the Sanskrit, so the flavor of \"name-recitation\" doesn't come through. Likewise, when the birdsong makes people 念佛、念法、念僧 (niàn fó, niàn fǎ, niàn sēng, \"mindful of the Buddha, the Dharma, the Sangha\"), the original only means \"recall, call to mind.\"",
+  "Third, Kumārajīva's version is much shorter than the Sanskrit, and it also adds quite a lot. Cut: the five colors of lotus become four, and the four-fold repetition for each becomes two-fold; the refrain \"such are the splendid arrays of good qualities that adorn that buddha-land\" survives only in part; Brahmā, several bodhisattvas, and the gandharvas do not appear. Added: pavilions above the ponds, six kinds of birds (the Sanskrit has three), the \"Noble Eightfold Path,\" \"and so it is with the bodhisattvas too,\" the tongue that 遍覆三千大千世界 (\"covers the entire billion-world universe\") and 说诚实言 (\"speaks the words of truth\"), and the closing 作礼而去 (\"bowed and departed\"). The site's English keeps every repetition from the Sanskrit, so it is noticeably longer than Kumārajīva's.",
+  "Fourth, a few words are easily misread at face value. Vyūha is \"a whole splendid arrangement\"; the classical Chinese 庄严 (zhuāngyán) meant the same thing, but modern Chinese readers take it as \"solemn.\" Kulaputra is \"son of a good family,\" while 善男子 (shàn nánzǐ, \"good man\") sounds like a comment on character. Kaṣāya is the murky sediment at the bottom of water; the Chinese 浊 (zhuó, \"turbid\") fits well, and the English uses \"murk.\" Koṭi (ten million) was matched with 亿 (yì), giving 十万亿佛土 (shíwàn yì fótǔ, \"a hundred thousand yi buddha-lands\"); the English writes the actual number, \"a million million.\"",
+  "Finally, transliteration versus translation. Kumārajīva transliterates some core terms: 阿鞞跋致 (ābífázhì, \"never turning back\") and 阿耨多罗三藐三菩提 (ānòuduōluó sānmiǎo sānpútí, \"unsurpassed, perfect awakening\"); among the Buddha names there are mixed cases like 达摩佛 (Dámó Fó), sound for one and meaning for others. The Buddha names of the six directions are mostly translated by meaning, but compared with the Sanskrit their number and order don't match. The English does the reverse: it keeps the Sanskrit sound of Buddha names and translates every concept by meaning, so readers understand the ideas directly but can't see what the names originally meant."
+ ],
  "chapters": [
   {
    "title": "The Whole Sutra",
@@ -19,7 +26,8 @@
      "cmp": [
       {
        "w": "sarvajña",
-       "note": "梵本开头先礼敬「一切智者」，也就是全知的佛。鸠摩罗什本没有这一句，直接从「如是我闻」开始。"
+       "note": "梵本开头先礼敬「一切智者」，也就是全知的佛。鸠摩罗什本没有这一句，直接从「如是我闻」开始。",
+       "en": "The Sanskrit opens with homage to \"the All-Knowing One,\" that is, the omniscient Buddha. Kumārajīva's version has no such line and begins directly with 如是我闻 (rúshì wǒ wén, \"thus have I heard\")."
       }
      ]
     },
@@ -29,11 +37,13 @@
      "cmp": [
       {
        "w": "ardhatrayodaśa",
-       "note": "梵文的说法是「第十三个百少一半」，也就是一千二百五十，这是印度古代常见的计数法。英文和中文都直接写成整数，读不出原来绕一下的说法。"
+       "note": "梵文的说法是「第十三个百少一半」，也就是一千二百五十，这是印度古代常见的计数法。英文和中文都直接写成整数，读不出原来绕一下的说法。",
+       "en": "The Sanskrit says \"half short of the thirteenth hundred,\" that is, 1,250, a common way of counting in ancient India. The English and Chinese both write the plain number, so the roundabout original phrasing is lost."
       },
       {
        "w": "abhijñānābhijñātaiḥ",
-       "note": "梵文这里是个文字游戏：abhijñā（神通）和 abhijñāta（有名的）连在一起，意思是「以神通而闻名」。鸠摩罗什只译了「众所知识」（大家都认识），神通那一半没有译出来。"
+       "note": "梵文这里是个文字游戏：abhijñā（神通）和 abhijñāta（有名的）连在一起，意思是「以神通而闻名」。鸠摩罗什只译了「众所知识」（大家都认识），神通那一半没有译出来。",
+       "en": "The Sanskrit plays on words here: abhijñā (\"higher powers\") next to abhijñāta (\"well known\") means \"famous for their higher powers.\" Kumārajīva only renders 众所知识 (zhòng suǒ zhīshí, \"known to all\"), leaving out the higher-powers half."
       }
      ]
     },
@@ -43,11 +53,13 @@
      "cmp": [
       {
        "w": "kumārabhūta",
-       "note": "字面是「成为童子的」，指年轻的王子。鸠摩罗什译成「法王子」，多加了「法王」二字，把他说成佛（法王）的继承人；白话按梵文写「童子」。"
+       "note": "字面是「成为童子的」，指年轻的王子。鸠摩罗什译成「法王子」，多加了「法王」二字，把他说成佛（法王）的继承人；白话按梵文写「童子」。",
+       "en": "Literally \"having become a youth,\" meaning a young prince. Kumārajīva renders it 法王子 (fǎ wángzǐ, \"prince of the Dharma King\"), adding \"Dharma King\" and so making Mañjuśrī the heir of the Buddha; the plain Chinese follows the Sanskrit with 童子 (tóngzǐ, \"youth\")."
       },
       {
        "w": "brahmaṇā sahāṃpatinā",
-       "note": "梵本在帝释之外还有娑婆世界之主梵天，菩萨也多一位「不休息菩萨」（anikṣiptadhura）。鸠摩罗什本只留下帝释（释提桓因），这两位都没有出现。"
+       "note": "梵本在帝释之外还有娑婆世界之主梵天，菩萨也多一位「不休息菩萨」（anikṣiptadhura）。鸠摩罗什本只留下帝释（释提桓因），这两位都没有出现。",
+       "en": "Besides Śakra, the Sanskrit also has Brahmā, lord of the Sahā world, and one more bodhisattva, Anikṣiptadhura (不休息菩萨, \"the Never-Resting Bodhisattva\"). Kumārajīva keeps only Śakra (释提桓因, Shìtíhuányīn); neither of the other two appears."
       }
      ]
     },
@@ -57,15 +69,18 @@
      "cmp": [
       {
        "w": "amitāyus",
-       "note": "这部梵本里，这位佛几乎一直叫 Amitāyus（无量寿），只在后面解释名字时出现一次 Amitābha（无量光）。鸠摩罗什统一音译成「阿弥陀」，借两个名字共有的 amita（无量），一个词同时盖住了「光」和「寿」。英文照梵文写 Amitayus，白话写「无量寿」。"
+       "note": "这部梵本里，这位佛几乎一直叫 Amitāyus（无量寿），只在后面解释名字时出现一次 Amitābha（无量光）。鸠摩罗什统一音译成「阿弥陀」，借两个名字共有的 amita（无量），一个词同时盖住了「光」和「寿」。英文照梵文写 Amitayus，白话写「无量寿」。",
+       "en": "In this Sanskrit text the Buddha is almost always called Amitāyus (\"Infinite Life\"); Amitābha (\"Infinite Light\") appears only once, later, where the name is explained. Kumārajīva transliterates both as 阿弥陀 (Āmítuó), using amita (\"infinite\"), the part they share, so one word covers both \"light\" and \"life.\" The English follows the Sanskrit with Amitayus, and the plain Chinese writes 无量寿 (Wúliàngshòu, \"Infinite Life\")."
       },
       {
        "w": "koṭiśatasahasra",
-       "note": "「十万个俱胝」。一俱胝（koṭi）是一千万，算下来是一万亿，英文写 a million million。鸠摩罗什把 koṭi 对成「亿」，所以写「十万亿」；古代「亿」的大小本来就不固定，数字只是在说「极远」。"
+       "note": "「十万个俱胝」。一俱胝（koṭi）是一千万，算下来是一万亿，英文写 a million million。鸠摩罗什把 koṭi 对成「亿」，所以写「十万亿」；古代「亿」的大小本来就不固定，数字只是在说「极远」。",
+       "en": "\"A hundred thousand koṭis.\" One koṭi is ten million, so the total is a million million, which is what the English writes. Kumārajīva matched koṭi with 亿 (yì), giving 十万亿 (shíwàn yì); in ancient China the size of a yì was never fixed anyway, and the number simply means \"extremely far.\""
       },
       {
        "w": "kāyaduḥkhaṃ na cittaduḥkhaṃ",
-       "note": "梵文分开说：没有身体的苦，也没有心里的苦。鸠摩罗什合成「无有众苦，但受诸乐」，身、心两种苦的区分不见了。"
+       "note": "梵文分开说：没有身体的苦，也没有心里的苦。鸠摩罗什合成「无有众苦，但受诸乐」，身、心两种苦的区分不见了。",
+       "en": "The Sanskrit speaks of two things separately: no pain of body, and no pain of mind. Kumārajīva merges them into 无有众苦，但受诸乐 (\"they have no sufferings, only enjoy every pleasure\"), and the body/mind distinction disappears."
       }
      ]
     },
@@ -75,11 +90,13 @@
      "cmp": [
       {
        "w": "buddhakṣetraguṇavyūha",
-       "note": "这句是全经反复出现的副歌。vyūha 是「排列、陈设、一整套布置」，英文写 arrays；鸠摩罗什译「功德庄严」，「庄严」在古汉语是「装饰得很华美」，现代中文却多半理解成「严肃」，意思差得很远。经名 Sukhāvatīvyūha 的 vyūha 就是这个词。"
+       "note": "这句是全经反复出现的副歌。vyūha 是「排列、陈设、一整套布置」，英文写 arrays；鸠摩罗什译「功德庄严」，「庄严」在古汉语是「装饰得很华美」，现代中文却多半理解成「严肃」，意思差得很远。经名 Sukhāvatīvyūha 的 vyūha 就是这个词。",
+       "en": "This is the refrain repeated throughout the sutra. Vyūha means \"an arrangement, a display, a whole set of furnishings,\" which the English renders \"arrays\"; Kumārajīva has 功德庄严 (gōngdé zhuāngyán), where 庄严 in classical Chinese meant \"splendidly adorned,\" but modern Chinese readers mostly take it as \"solemn,\" a very different meaning. The vyūha in the sutra's title, Sukhāvatīvyūha, is this same word."
       },
       {
        "w": "kiṃkiṇījāla",
-       "note": "梵文是「挂满小铃铛的网」。鸠摩罗什只写「罗网」，铃铛不见了；而他把「多罗树行列」（tālapaṅkti，一种棕榈树）写成泛称的「行树」。"
+       "note": "梵文是「挂满小铃铛的网」。鸠摩罗什只写「罗网」，铃铛不见了；而他把「多罗树行列」（tālapaṅkti，一种棕榈树）写成泛称的「行树」。",
+       "en": "The Sanskrit says \"nets hung with little bells.\" Kumārajīva writes only 罗网 (luówǎng, \"nets\"), and the bells disappear; he also turns \"rows of palm trees\" (tālapaṅkti, a kind of palm) into the generic 行树 (hángshù, \"rows of trees\")."
       }
      ]
     },
@@ -89,11 +106,13 @@
      "cmp": [
       {
        "w": "ratnavṛkṣa",
-       "note": "梵本说池子四周长着七宝树。鸠摩罗什本这里换成「上有楼阁」，楼阁是梵本这一段没有的，宝树倒没有译。"
+       "note": "梵本说池子四周长着七宝树。鸠摩罗什本这里换成「上有楼阁」，楼阁是梵本这一段没有的，宝树倒没有译。",
+       "en": "The Sanskrit says jewel trees grow all around the ponds. Kumārajīva replaces this with 上有楼阁 (shàng yǒu lóugé, \"above them are pavilions\"); the pavilions are not in this passage of the Sanskrit, and the jewel trees are not translated."
       },
       {
        "w": "aśmagarbha / musāragalva",
-       "note": "这两种宝物的身份历来说法不一。aśmagarbha 字面是「石中所孕」，多认为是祖母绿，白话写「玛瑙」；musāragalva 汉译「砗磲」，是一种大贝壳，英文用 mother-of-pearl（珍珠母）来近似。七宝的清单在不同译本里本来就不统一。"
+       "note": "这两种宝物的身份历来说法不一。aśmagarbha 字面是「石中所孕」，多认为是祖母绿，白话写「玛瑙」；musāragalva 汉译「砗磲」，是一种大贝壳，英文用 mother-of-pearl（珍珠母）来近似。七宝的清单在不同译本里本来就不统一。",
+       "en": "The identity of these two treasures has long been debated. Aśmagarbha literally means \"born inside stone\" and is usually taken as emerald; the plain Chinese writes 玛瑙 (mǎnǎo, \"agate\"). Musāragalva is rendered 砗磲 (chēqú) in Chinese, a kind of giant clam shell, which the English approximates as \"mother-of-pearl.\" The list of seven treasures was never consistent across translations to begin with."
       }
      ]
     },
@@ -103,7 +122,8 @@
      "cmp": [
       {
        "w": "citrāni",
-       "note": "梵本有五种莲花，第五种是杂色的，每种都用「是…色、…颜色、放…光、看上去…」四层重复来写。鸠摩罗什删成四种、每种两层（青色青光），又加了梵本没有的「微妙香洁」。英文保留了全部重复。"
+       "note": "梵本有五种莲花，第五种是杂色的，每种都用「是…色、…颜色、放…光、看上去…」四层重复来写。鸠摩罗什删成四种、每种两层（青色青光），又加了梵本没有的「微妙香洁」。英文保留了全部重复。",
+       "en": "The Sanskrit has five kinds of lotus, the fifth many-colored, and describes each in four repeated layers: \"…ones, … in color, glowing …, … to the eye.\" Kumārajīva cuts this to four kinds with two layers each, as in 青色青光 (qīng sè qīng guāng, \"blue color, blue light\"), and adds 微妙香洁 (\"subtle, wonderful, fragrant, and pure\"), which is not in the Sanskrit. The English keeps every repetition."
       }
      ]
     },
@@ -113,7 +133,8 @@
      "cmp": [
       {
        "w": "purobhakta / divāvihāra",
-       "note": "梵文说「在一顿早饭之前」去礼佛，回来是为了「白天的休息」。鸠摩罗什改成「常以清旦」出门、「即以食时」回来「饭食经行」，还加了「衣裓盛众妙华」（用衣襟兜着花），画面更像中土僧人的日常。"
+       "note": "梵文说「在一顿早饭之前」去礼佛，回来是为了「白天的休息」。鸠摩罗什改成「常以清旦」出门、「即以食时」回来「饭食经行」，还加了「衣裓盛众妙华」（用衣襟兜着花），画面更像中土僧人的日常。",
+       "en": "The Sanskrit says they go to pay homage \"before a single morning meal\" and come back for their \"daytime rest.\" Kumārajīva changes this to setting out 常以清旦 (\"always at clear dawn\") and returning 即以食时 (\"by mealtime\") to 饭食经行 (\"eat and walk in meditation\"), and adds 衣裓盛众妙华 (\"carrying wonderful flowers in the folds of their robes\"), making the scene look more like a Chinese monk's daily routine."
       }
      ]
     },
@@ -123,11 +144,13 @@
      "cmp": [
       {
        "w": "haṃsāḥ krauñcā mayūrāś",
-       "note": "梵本只有三种鸟：天鹅、鹤、孔雀。鸠摩罗什列了六种：白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟，多出来的几种是他补的，鹤反而没有。讲的法他也多加了一项「八圣道分」。"
+       "note": "梵本只有三种鸟：天鹅、鹤、孔雀。鸠摩罗什列了六种：白鹄、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟，多出来的几种是他补的，鹤反而没有。讲的法他也多加了一项「八圣道分」。",
+       "en": "The Sanskrit has only three birds: geese, cranes, and peacocks. Kumārajīva lists six: white swans, peacocks, parrots, śāri birds, kalaviṅkas, and the two-headed 共命之鸟 (gòngmìng zhī niǎo, \"shared-life bird\"); the extra ones are his additions, and the crane is actually missing. He also adds one more teaching to what they sing, the 八圣道分 (\"Noble Eightfold Path\")."
       },
       {
        "w": "buddhamanasikāra",
-       "note": "manasikāra 是「把注意力放到…上、想起」。英文写 their minds turn to the Buddha，白话写「对佛的忆念」；鸠摩罗什的「念佛」在这里也是这个意思，和后来「口念佛号」的念佛不是一回事。"
+       "note": "manasikāra 是「把注意力放到…上、想起」。英文写 their minds turn to the Buddha，白话写「对佛的忆念」；鸠摩罗什的「念佛」在这里也是这个意思，和后来「口念佛号」的念佛不是一回事。",
+       "en": "Manasikāra means \"to direct attention to, to call to mind.\" The English says \"their minds turn to the Buddha\" and the plain Chinese 对佛的忆念 (duì fó de yìniàn, \"recollection of the Buddha\"); Kumārajīva's 念佛 (niànfó) also means this here, and is not the same as the later sense of 念佛, \"reciting the Buddha's name aloud.\""
       }
      ]
     },
@@ -141,11 +164,13 @@
      "cmp": [
       {
        "w": "koṭiśatasahasrāṅgika tūrya",
-       "note": "梵文是「一件有百千万亿个部件的天乐器」，是一件乐器。鸠摩罗什写「百千种乐同时俱作」，变成很多件乐器一起演奏。"
+       "note": "梵文是「一件有百千万亿个部件的天乐器」，是一件乐器。鸠摩罗什写「百千种乐同时俱作」，变成很多件乐器一起演奏。",
+       "en": "The Sanskrit is \"a heavenly instrument with a million million parts,\" a single instrument. Kumārajīva writes 百千种乐同时俱作 (\"hundreds of thousands of kinds of music playing at once\"), turning it into many instruments playing together."
       },
       {
        "w": "kāye saṃtiṣṭhati",
-       "note": "梵文说对佛、法、僧的忆念「在身体里安住」，像是整个人被它充满。鸠摩罗什写成「自然生念佛、念法、念僧之心」，落在「心」上，「身」这一层没有了。"
+       "note": "梵文说对佛、法、僧的忆念「在身体里安住」，像是整个人被它充满。鸠摩罗什写成「自然生念佛、念法、念僧之心」，落在「心」上，「身」这一层没有了。",
+       "en": "The Sanskrit says mindfulness of the Buddha, Dharma, and Sangha \"settles in the body,\" as if the whole person were filled with it. Kumārajīva writes 自然生念佛、念法、念僧之心 (\"naturally give rise to a mind mindful of the Buddha, Dharma, and Sangha\"), placing it in the 心 (xīn, \"mind/heart\"), and the \"body\" layer is gone."
       }
      ]
     },
@@ -159,7 +184,8 @@
      "cmp": [
       {
        "w": "amitābha",
-       "note": "梵本先解释「无量寿」、再解释「无量光」；鸠摩罗什本次序相反，先讲光再讲寿，两段都归到「阿弥陀」一个名字下。他还加了「照十方国」，梵文只说光在一切佛国「不受阻碍」。"
+       "note": "梵本先解释「无量寿」、再解释「无量光」；鸠摩罗什本次序相反，先讲光再讲寿，两段都归到「阿弥陀」一个名字下。他还加了「照十方国」，梵文只说光在一切佛国「不受阻碍」。",
+       "en": "The Sanskrit first explains \"Infinite Life,\" then \"Infinite Light\"; Kumārajīva reverses the order, light first and then life, and puts both passages under the single name 阿弥陀 (Āmítuó). He also adds 照十方国 (\"shines on the lands of the ten directions\"), whereas the Sanskrit only says the light is \"unobstructed\" in every buddha-land."
       }
      ]
     },
@@ -169,7 +195,8 @@
      "cmp": [
       {
        "w": "śrāvakasaṃgha",
-       "note": "梵本这里只讲声闻弟子。鸠摩罗什在后面加了一句「诸菩萨，亦复如是」，把菩萨也算进来；梵本要到下一段才讲菩萨。"
+       "note": "梵本这里只讲声闻弟子。鸠摩罗什在后面加了一句「诸菩萨，亦复如是」，把菩萨也算进来；梵本要到下一段才讲菩萨。",
+       "en": "The Sanskrit speaks only of the disciples (śrāvakas) here. Kumārajīva adds a line, 诸菩萨，亦复如是 (\"and so it is with the bodhisattvas too\"), counting the bodhisattvas in as well; the Sanskrit only turns to bodhisattvas in the next passage."
       }
      ]
     },
@@ -179,11 +206,13 @@
      "cmp": [
       {
        "w": "avinivartanīya",
-       "note": "「不会再退转的」。英文和白话都意译；鸠摩罗什音译成「阿鞞跋致」，读者若不查就看不懂。"
+       "note": "「不会再退转的」。英文和白话都意译；鸠摩罗什音译成「阿鞞跋致」，读者若不查就看不懂。",
+       "en": "\"Who can no longer turn back.\" The English and the plain Chinese both translate the meaning; Kumārajīva transliterates it as 阿鞞跋致 (ābífázhì), which readers can't understand without looking it up."
       },
       {
        "w": "ekajātipratibaddha",
-       "note": "「只被一生系住」，即再生一次就成佛。梵文说生到那里的菩萨全都如此；鸠摩罗什写「其中多有一生补处」，变成「很多是」，范围缩小了。"
+       "note": "「只被一生系住」，即再生一次就成佛。梵文说生到那里的菩萨全都如此；鸠摩罗什写「其中多有一生补处」，变成「很多是」，范围缩小了。",
+       "en": "\"Bound to just one birth,\" meaning one more birth and then buddhahood. The Sanskrit says all the bodhisattvas born there are like this; Kumārajīva writes 其中多有一生补处 (\"many among them are one birth from buddhahood\"), turning \"all\" into \"many\" and narrowing the scope."
       }
      ]
     },
@@ -193,15 +222,18 @@
      "cmp": [
       {
        "w": "manasikariṣyati",
-       "note": "梵文是「放在心上、专注地想着」那个名号，没有说出声念。鸠摩罗什译成「执持名号」，后来中国净土宗据此发展出「持名念佛」（口念阿弥陀佛）。英文 keeps it in mind 贴近梵文，读不出「持名」的意思。"
+       "note": "梵文是「放在心上、专注地想着」那个名号，没有说出声念。鸠摩罗什译成「执持名号」，后来中国净土宗据此发展出「持名念佛」（口念阿弥陀佛）。英文 keeps it in mind 贴近梵文，读不出「持名」的意思。",
+       "en": "The Sanskrit means to \"keep in mind, think intently on\" the name; it says nothing about saying it aloud. Kumārajīva renders it 执持名号 (zhíchí mínghào, \"hold firmly to the name\"), from which Chinese Pure Land later developed 持名念佛 (chímíng niànfó, reciting \"Āmítuó Fó\" aloud). The English \"keeps it in mind\" stays close to the Sanskrit, and the sense of name-recitation doesn't come through."
       },
       {
        "w": "ekarātra",
-       "note": "梵文以「夜」计数：一夜、两夜……七夜。鸠摩罗什改成「一日、二日……七日」，更合中文习惯，意思没变。"
+       "note": "梵文以「夜」计数：一夜、两夜……七夜。鸠摩罗什改成「一日、二日……七日」，更合中文习惯，意思没变。",
+       "en": "The Sanskrit counts in nights: one night, two nights … seven nights. Kumārajīva changes this to 一日、二日……七日 (\"one day, two days … seven days\"), which fits Chinese usage better; the meaning is unchanged."
       },
       {
        "w": "kulaputra",
-       "note": "字面是「好家族的儿子」，kula 是家族、出身。中文「善男子」容易读成「品行好的男人」；英文 son of good family 保留了「出身」这层原意。"
+       "note": "字面是「好家族的儿子」，kula 是家族、出身。中文「善男子」容易读成「品行好的男人」；英文 son of good family 保留了「出身」这层原意。",
+       "en": "Literally \"son of a good family,\" where kula means family or birth. The Chinese 善男子 (shàn nánzǐ) is easily read as \"a man of good character\"; the English \"son of good family\" keeps the original sense of birth and lineage."
       }
      ]
     },
@@ -215,11 +247,13 @@
      "cmp": [
       {
        "w": "jihvendriyeṇa saṃcchādayitvā",
-       "note": "「用舌头盖住」。古印度相传，舌头长到能盖住脸的人不会说谎，所以这是在用身体发誓。梵本说诸佛盖住「自己的佛国」，鸠摩罗什写「出广长舌相，遍覆三千大千世界」，又加「说诚实言」，把「这是真话」的意思点明了。"
+       "note": "「用舌头盖住」。古印度相传，舌头长到能盖住脸的人不会说谎，所以这是在用身体发誓。梵本说诸佛盖住「自己的佛国」，鸠摩罗什写「出广长舌相，遍覆三千大千世界」，又加「说诚实言」，把「这是真话」的意思点明了。",
+       "en": "\"Covering with the tongue.\" In ancient India it was said that someone whose tongue could cover their face never lied, so this is swearing an oath with the body. The Sanskrit says the buddhas cover \"their own buddha-land\"; Kumārajīva writes 出广长舌相，遍覆三千大千世界 (\"put forth a broad, long tongue that covers the entire billion-world universe\") and adds 说诚实言 (\"speaking the words of truth\"), spelling out that this is a guarantee of truth."
       },
       {
        "w": "sarvabuddhaparigraha",
-       "note": "parigraha 是「抓住、收下、护持」。白话写「摄受」，英文写 embraced；鸠摩罗什译「护念」，侧重「惦记、保护」，经名《一切诸佛所护念经》就从这里来。"
+       "note": "parigraha 是「抓住、收下、护持」。白话写「摄受」，英文写 embraced；鸠摩罗什译「护念」，侧重「惦记、保护」，经名《一切诸佛所护念经》就从这里来。",
+       "en": "Parigraha means \"to take hold of, accept, protect.\" The plain Chinese writes 摄受 (shèshòu, \"embrace and receive\") and the English \"embraced\"; Kumārajīva has 护念 (hùniàn, \"keep in mind and protect\"), stressing care and protection, and the Chinese title 一切诸佛所护念经 (\"Sutra Protected by All Buddhas\") comes from here."
       }
      ]
     },
@@ -229,7 +263,8 @@
      "cmp": [
       {
        "w": "mahārciskandha",
-       "note": "「大火焰聚」。skandha 既是「一堆、一聚」，也是「肩膀」。白话取「聚」，鸠摩罗什取「肩」，译成「大焰肩佛」，同一个字两种读法。"
+       "note": "「大火焰聚」。skandha 既是「一堆、一聚」，也是「肩膀」。白话取「聚」，鸠摩罗什取「肩」，译成「大焰肩佛」，同一个字两种读法。",
+       "en": "\"Great mass of flame.\" Skandha means both \"a heap, a mass\" and \"shoulder.\" The plain Chinese takes \"mass\" (大焰聚, Dà Yàn Jù), while Kumārajīva takes \"shoulder\" and renders 大焰肩佛 (Dà Yàn Jiān Fó, \"Great Flame Shoulder Buddha\"): one word, two readings."
       }
      ]
     },
@@ -239,7 +274,8 @@
      "cmp": [
       {
        "w": "amitāyus",
-       "note": "西方诸佛里第一位就是 Amitāyus。鸠摩罗什在这里没有音译成「阿弥陀」，而是意译「无量寿佛」；他列了七个佛名，比梵本多一个「大明佛」。"
+       "note": "西方诸佛里第一位就是 Amitāyus。鸠摩罗什在这里没有音译成「阿弥陀」，而是意译「无量寿佛」；他列了七个佛名，比梵本多一个「大明佛」。",
+       "en": "The first of the western buddhas is Amitāyus. Here Kumārajīva does not transliterate it as 阿弥陀 (Āmítuó) but translates it as 无量寿佛 (Wúliàngshòu Fó, \"Infinite Life Buddha\"); he lists seven names, one more than the Sanskrit, adding 大明佛 (Dà Míng Fó, \"Great Brightness Buddha\")."
       }
      ]
     },
@@ -253,7 +289,8 @@
      "cmp": [
       {
        "w": "dharmo nāma",
-       "note": "名叫「法」的佛。鸠摩罗什其他佛名多半意译（法幢、持法），唯独这一位音译成「达摩佛」，一个列表里音译、意译混用。"
+       "note": "名叫「法」的佛。鸠摩罗什其他佛名多半意译（法幢、持法），唯独这一位音译成「达摩佛」，一个列表里音译、意译混用。",
+       "en": "A buddha named \"Dharma.\" Kumārajīva translates most other Buddha names by meaning (法幢 \"Dharma Banner,\" 持法 \"Dharma Holder\"), yet this one alone he transliterates as 达摩佛 (Dámó Fó), mixing sound and meaning in a single list."
       }
      ]
     },
@@ -267,7 +304,8 @@
      "cmp": [
       {
        "w": "anuttarā samyaksaṃbodhi",
-       "note": "「无上的、完全正确的觉悟」。英文和白话都意译；鸠摩罗什音译成「阿耨多罗三藐三菩提」，这个长音译词后来成了汉传佛教的固定说法。"
+       "note": "「无上的、完全正确的觉悟」。英文和白话都意译；鸠摩罗什音译成「阿耨多罗三藐三菩提」，这个长音译词后来成了汉传佛教的固定说法。",
+       "en": "\"Unsurpassed, completely right awakening.\" The English and the plain Chinese both translate the meaning; Kumārajīva transliterates it as 阿耨多罗三藐三菩提 (ānòuduōluó sānmiǎo sānpútí), and this long transliteration later became the standard term in Chinese Buddhism."
       }
      ]
     },
@@ -281,7 +319,8 @@
      "cmp": [
       {
        "w": "kaṣāya",
-       "note": "原义是浑浊的沉渣，像水底的泥。中文「浊」很贴切，英文用 murk（浑浊）来对。鸠摩罗什另加「五浊恶世」这个总名，把「恶」字也加了进去；他列的次序也和梵本不同。"
+       "note": "原义是浑浊的沉渣，像水底的泥。中文「浊」很贴切，英文用 murk（浑浊）来对。鸠摩罗什另加「五浊恶世」这个总名，把「恶」字也加了进去；他列的次序也和梵本不同。",
+       "en": "The word originally means murky sediment, like the mud at the bottom of water. The Chinese 浊 (zhuó, \"turbid\") fits well, and the English uses \"murk.\" Kumārajīva adds the collective name 五浊恶世 (wǔ zhuó è shì, \"evil world of the five turbidities\"), bringing in the word 恶 (\"evil\"); his order of the five also differs from the Sanskrit."
       }
      ]
     },
@@ -295,7 +334,8 @@
      "cmp": [
       {
        "w": "āttamanāḥ",
-       "note": "梵文说是佛自己「心中欢喜」地说完。鸠摩罗什没有译这一点，只写听众「欢喜信受，作礼而去」，后半句是他按汉译佛经惯例补的；菩萨和乾闼婆也没有列出。"
+       "note": "梵文说是佛自己「心中欢喜」地说完。鸠摩罗什没有译这一点，只写听众「欢喜信受，作礼而去」，后半句是他按汉译佛经惯例补的；菩萨和乾闼婆也没有列出。",
+       "en": "The Sanskrit says the Buddha himself finished speaking \"with a glad heart.\" Kumārajīva doesn't translate this, writing only that the listeners 欢喜信受，作礼而去 (\"rejoiced, accepted it in faith, bowed and departed\"); the second half is his addition following the usual ending of Chinese sutra translations, and the bodhisattvas and gandharvas are not listed."
       }
      ]
     },
@@ -305,7 +345,8 @@
      "cmp": [
       {
        "w": "sukhāvatīvyūha",
-       "note": "梵文经名是「极乐世界的庄严陈设」，以那片国土命名。鸠摩罗什改名《佛说阿弥陀经》，以那位佛命名，重心从「地方」移到「佛」。"
+       "note": "梵文经名是「极乐世界的庄严陈设」，以那片国土命名。鸠摩罗什改名《佛说阿弥陀经》，以那位佛命名，重心从「地方」移到「佛」。",
+       "en": "The Sanskrit title means \"The Array of the Land of Bliss,\" named after the land itself. Kumārajīva renamed it 佛说阿弥陀经 (Fó Shuō Āmítuó Jīng, \"The Amitābha Sutra Spoken by the Buddha\"), named after the Buddha, shifting the focus from the place to the Buddha."
       }
      ]
     }

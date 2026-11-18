@@ -56,7 +56,8 @@ export const verseKey = (v) => createHash('sha1').update(v.sa.tr.normalize('NFC'
 
 /**
  * 英译叠加层 translations/en/<slug>.json（本站自己从梵文直译，不经面板导入，导入脚本不会碰它）：
- * { slug, title, summary, compare: [三语对照总结，中文段落], chapters: [{ title, verses: [{ h 梵文指纹, en, cmp?: [{ w, note }] }] }] }
+ * { slug, title, summary, compare: [三语对照总结，中文段落], compareEn?: [同一份总结的英文],
+ *   chapters: [{ title, verses: [{ h 梵文指纹, en, cmp?: [{ w, note 中文, en? 英文版的同一条注 }] }] }] }
  * 章数、段数、每段指纹都必须和 content/<slug>.json 一致。
  */
 export function mergeEnglish(book, en, file) {
@@ -65,7 +66,8 @@ export function mergeEnglish(book, en, file) {
   needText(en.summary, `${file} summary`);
   need(Array.isArray(en.compare) && en.compare.length > 0 && en.compare.every(isText), file, 'compare 至少一段三语对照总结');
   need(en.chapters?.length === book.chapters.length, file, `章数 ${en.chapters?.length} ≠ 原文 ${book.chapters.length}`);
-  book.en = { title: en.title, summary: en.summary, compare: en.compare };
+  need(en.compareEn === undefined || (Array.isArray(en.compareEn) && en.compareEn.every(isText)), file, 'compareEn 必须是英文段落数组');
+  book.en = { title: en.title, summary: en.summary, compare: en.compare, ...(en.compareEn?.length ? { compareEn: en.compareEn } : {}) };
   book.chapters.forEach((ch, i) => {
     const ech = en.chapters[i];
     const at = `${file} chapters[${i}]`;
@@ -80,6 +82,7 @@ export function mergeEnglish(book, en, file) {
       for (const n of ev.cmp ?? []) {
         needText(n.w, `${vat}.cmp.w`);
         needText(n.note, `${vat}.cmp.note`);
+        if (n.en !== undefined) needText(n.en, `${vat}.cmp.en`);
       }
       v.en = { text: ev.en, ...(ev.cmp?.length ? { cmp: ev.cmp } : {}) };
     });

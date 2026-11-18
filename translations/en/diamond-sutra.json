@@ -9,6 +9,13 @@
   "也有几处鸠摩罗什的意思和梵文对不上：须菩提在梵文里一开始就说「不能凭身相认出如来」，鸠摩罗什本却让他先答「可以」再被佛纠正；「别以为如来是靠身相证悟的」在鸠摩罗什本里变成「别以为如来不是靠具足相证悟的」；「比燃灯佛更早更早」变成「在燃灯佛面前」。英文和白话都照梵文译，读者可以直接看到这些分歧。",
   "英文的得失也很清楚。apratiṣṭhita 译成 without resting anywhere、vastupatita 译成 fallen into things、piṇḍagrāha 译成 grasping at a lump，比中文「无所住」「住于法」「一合相」更有画面；但 Tathagata 只能保留原词，「如来」那种一个字就带出「如、来」双关的便利，英文没有。dharma 在本经里大多指「事物」而不是「佛法」，英文保留 dharma 原词并配上 no-dharma，避免了中文「非法」被读成「违法」的尴尬。"
  ],
+ "compareEn": [
+  "The sutra's most common pattern is \"What is called A, the Tathagata says is not A; that is why it is called A.\" In the Sanskrit this pattern often works by taking a word apart: a heap of merit, puṇya-skandha, is called a-skandha, \"no heap\"; ordinary people, pṛthag-jana, are called a-jana, \"no people\"; the body, ātma-bhāva, is called na bhāva, \"no existence\"; and grasping, grāha, differs from parigraha by just one prefix. The English uses heap / no heap, people / no people, take up / grab to keep as much of this wordplay as possible. Kumārajīva writes almost every case as 即非……是名…… (jí fēi … shì míng …, \"is not … and so is called …\"): tidy and easy to memorize, but Chinese readers can no longer see which word each passage was playing on.",
+  "The second big difference is saṃjñā and nimitta. Sanskrit saṃjñā is \"an idea or notion that arises in the mind,\" nimitta is \"a sign by which something is recognized,\" and lakṣaṇa is \"a mark on the body\": three words, each covering its own layer. Kumārajīva translates all of them as 相 (xiàng, \"appearance, mark\"): 我相、人相 (\"the mark of a self, the mark of a person\"), 不住于相 (\"not resting on marks\"), 三十二相 (\"the thirty-two marks\"), 离一切诸相 (\"free of all marks\"). The upside is a single character running through the whole sutra; the downside is that readers easily take 相 to mean outward appearance. The site's English writes idea, sign, and marks respectively, and the plain Chinese writes 观念 (guānniàn, \"idea\"), 相状 (xiàngzhuàng, \"sign, feature\"), and 身相 (shēnxiàng, \"bodily marks\"), separating the three layers. Also, the Sanskrit list of ideas is \"self, being, soul, person,\" sometimes with \"nourisher\" too; Kumārajīva fixes it as the four marks 我、人、众生、寿者 (\"self, person, being, life-span\"), even filling it out to four where the Sanskrit lists only three.",
+  "Kumārajīva's version is much shorter than the Sanskrit, and the cuts are selective: the 1,300 listeners at the start become 千二百五十人 (\"1,250 people\"); Subhūti's three questions, \"how to stand, how to practice, how to hold the mind,\" become two, and the last becomes 降伏其心 (xiángfú qí xīn, \"subdue the mind\"); \"set out in the bodhisattva vehicle\" is always rewritten as 发阿耨多罗三藐三菩提心 (\"give rise to the mind of unsurpassed awakening\"); the second verse, \"see the Buddha through the Dharma, yet the nature of Dharma cannot be known,\" is left out entirely; and the nine closing similes (star, eye-film, lamp, illusion, dew, bubble, dream, lightning, cloud) are trimmed to six, with a \"shadow\" added that the Sanskrit doesn't have. Conversely, famous Chinese lines such as 应无所住而生其心 (\"you should give rise to a mind that dwells nowhere\"), 凡所有相，皆是虚妄 (\"all that has marks is illusory\"), 不取于相，如如不动 (\"not grasping at marks, thus-like and unmoving\"), and 一切有为法，如梦幻泡影 (\"all conditioned things are like a dream, an illusion, a bubble, a shadow\") are sometimes several Sanskrit sentences condensed into one, sometimes a widened scope, and sometimes not in the Sanskrit at all. You could say half the sharpness of the Chinese Diamond Sutra was cut by Kumārajīva's scissors.",
+  "In a few places Kumārajīva's meaning doesn't match the Sanskrit: in the Sanskrit, Subhūti says from the start that the Tathagata \"cannot be recognized by his bodily marks,\" but Kumārajīva has him first answer \"yes\" and then be corrected by the Buddha; \"don't think the Tathagata awakened by means of his bodily marks\" becomes, in Kumārajīva, \"don't think the Tathagata awakened not by means of his complete marks\"; and \"long, long before Dīpaṃkara\" becomes \"in front of Dīpaṃkara.\" The English and the plain Chinese both follow the Sanskrit, so readers can see these divergences directly.",
+  "The English also has clear gains and losses. Apratiṣṭhita as \"without resting anywhere,\" vastupatita as \"fallen into things,\" and piṇḍagrāha as \"grasping at a lump\" are more vivid than the Chinese 无所住 (wú suǒ zhù, \"dwelling nowhere\"), 住于法 (zhù yú fǎ, \"dwelling in dharmas\"), and 一合相 (yì hé xiàng, \"a single combined mark\"). But Tathagata can only be kept as the original word: the convenience of 如来 (rúlái), whose two characters carry the double sense \"thus\" and \"come,\" has no English equivalent. Dharma in this sutra mostly means \"thing,\" not \"the Buddha's teaching\"; the English keeps the word dharma and pairs it with no-dharma, avoiding the awkwardness of the Chinese 非法 (fēifǎ), which reads like \"illegal.\""
+ ],
  "chapters": [
   {
    "title": "The Whole Sutra",
@@ -19,11 +26,13 @@
      "cmp": [
       {
        "w": "Vajracchedikā",
-       "note": "梵文是「能切断金刚的」：vajra 是金刚石，也是雷神手里的金刚杵；chedikā 是「切割者」。意思是这部智慧锋利到连最硬的东西都能切开。英文 Diamond Cutter 保住了「切」；鸠摩罗什的经题只写「金刚」，读者容易理解成「像金刚一样坚固」，切断的动作不见了。"
+       "note": "梵文是「能切断金刚的」：vajra 是金刚石，也是雷神手里的金刚杵；chedikā 是「切割者」。意思是这部智慧锋利到连最硬的东西都能切开。英文 Diamond Cutter 保住了「切」；鸠摩罗什的经题只写「金刚」，读者容易理解成「像金刚一样坚固」，切断的动作不见了。",
+       "en": "The Sanskrit means \"that which cuts the vajra\": vajra is diamond, and also the thunderbolt wielded by the storm god; chedikā means \"cutter.\" The idea is that this wisdom is sharp enough to cut even the hardest thing. The English \"Diamond Cutter\" keeps the cutting; Kumārajīva's title says only 金刚 (jīngāng, \"diamond/vajra\"), which readers easily understand as \"as solid as diamond,\" and the act of cutting disappears."
       },
       {
        "w": "triśatikā",
-       "note": "「三百（颂）的」，说明这是般若经里篇幅约三百颂的一部。英文、白话都照译；鸠摩罗什的经题没有这个字。"
+       "note": "「三百（颂）的」，说明这是般若经里篇幅约三百颂的一部。英文、白话都照译；鸠摩罗什的经题没有这个字。",
+       "en": "\"Of three hundred (verses),\" marking this as one of the Perfection of Wisdom texts about three hundred verses long. The English and the plain Chinese both translate it; Kumārajīva's title doesn't include the word."
       }
      ]
     },
@@ -33,7 +42,8 @@
      "cmp": [
       {
        "w": "bhagavatyai",
-       "note": "和《心经》开头一样，梵文用「世尊」的阴性，把智慧的圆满当成一位女性圣者来礼敬。英文 blessed 看不出性别；鸠摩罗什本没有译这一句。"
+       "note": "和《心经》开头一样，梵文用「世尊」的阴性，把智慧的圆满当成一位女性圣者来礼敬。英文 blessed 看不出性别；鸠摩罗什本没有译这一句。",
+       "en": "Just as at the start of the Heart Sutra, the Sanskrit uses the feminine form of \"blessed one,\" honoring the Perfection of Wisdom as a female holy being. The English \"blessed\" doesn't show the gender; Kumārajīva doesn't translate the line at all."
       }
      ]
     },
@@ -43,11 +53,13 @@
      "cmp": [
       {
        "w": "trayodaśabhir bhikṣuśataiḥ",
-       "note": "梵文是「十三个一百位比丘」，也就是一千三百人，而且还提到「许多菩萨大士」。英文、白话都照译；鸠摩罗什写「千二百五十人」，这是汉译佛经里最常见的听众人数，菩萨也没有提。"
+       "note": "梵文是「十三个一百位比丘」，也就是一千三百人，而且还提到「许多菩萨大士」。英文、白话都照译；鸠摩罗什写「千二百五十人」，这是汉译佛经里最常见的听众人数，菩萨也没有提。",
+       "en": "The Sanskrit says \"thirteen hundreds of monks,\" that is, 1,300, and also mentions \"many bodhisattvas, great beings.\" The English and the plain Chinese both translate this; Kumārajīva writes 千二百五十人 (\"1,250 people\"), the most common audience size in Chinese sutra translations, and doesn't mention the bodhisattvas."
       },
       {
        "w": "pratimukhīṃ smṛtim upasthāpya",
-       "note": "「把正念安放在面前」，是坐下来开始禅修的标准说法。英文 set his mindfulness right in front of him、白话都保留了；鸠摩罗什本到「敷座而坐」就停了，世尊盘腿、正身、安住正念这几步都没有译。"
+       "note": "「把正念安放在面前」，是坐下来开始禅修的标准说法。英文 set his mindfulness right in front of him、白话都保留了；鸠摩罗什本到「敷座而坐」就停了，世尊盘腿、正身、安住正念这几步都没有译。",
+       "en": "\"Setting mindfulness in front of oneself,\" the standard phrase for sitting down to meditate. The English \"set his mindfulness right in front of him\" and the plain Chinese keep it; Kumārajīva stops at 敷座而坐 (fū zuò ér zuò, \"spread his seat and sat\"), leaving out the steps of crossing his legs, straightening his body, and establishing mindfulness."
       }
      ]
     },
@@ -61,11 +73,13 @@
      "cmp": [
       {
        "w": "sthātavyaṃ kathaṃ pratipattavyaṃ kathaṃ cittaṃ pragrahītavyam",
-       "note": "梵文问了三件事：怎样「站住」、怎样「修行」、怎样「把握心」。英文、白话都照译三问；鸠摩罗什只留两问「应云何住？云何降伏其心？」，而且把「把握、扶持」译成「降伏」，像是要把心压服下去，语气重了许多。"
+       "note": "梵文问了三件事：怎样「站住」、怎样「修行」、怎样「把握心」。英文、白话都照译三问；鸠摩罗什只留两问「应云何住？云何降伏其心？」，而且把「把握、扶持」译成「降伏」，像是要把心压服下去，语气重了许多。",
+       "en": "The Sanskrit asks three things: how to \"stand,\" how to \"practice,\" and how to \"hold the mind.\" The English and the plain Chinese keep all three; Kumārajīva keeps only two, 应云何住？云何降伏其心？ (\"How should one dwell? How should one subdue the mind?\"), and renders \"hold, support\" as 降伏 (xiángfú, \"subdue\"), as if the mind had to be forced into submission, a much heavier tone."
       },
       {
        "w": "bodhisattvayānasaṃprasthita",
-       "note": "「已经踏上菩萨乘（这辆车）出发的人」。英文 set out in the bodhisattva vehicle 保留了上路的画面；鸠摩罗什改写成「发阿耨多罗三藐三菩提心」，把「上车出发」换成了「发心求无上觉悟」。"
+       "note": "「已经踏上菩萨乘（这辆车）出发的人」。英文 set out in the bodhisattva vehicle 保留了上路的画面；鸠摩罗什改写成「发阿耨多罗三藐三菩提心」，把「上车出发」换成了「发心求无上觉悟」。",
+       "en": "\"One who has set out in the bodhisattva vehicle.\" The English \"set out in the bodhisattva vehicle\" keeps the image of starting a journey; Kumārajīva rewrites it as 发阿耨多罗三藐三菩提心 (\"give rise to the mind of unsurpassed, perfect awakening\"), swapping \"boarding and setting out\" for \"resolving to seek supreme awakening.\""
       }
      ]
     },
@@ -79,7 +93,8 @@
      "cmp": [
       {
        "w": "sattvasaṃjñā",
-       "note": "saṃjñā 是「心里生起的观念、认定」。英文 idea、白话「观念」都是这个意思；鸠摩罗什一律译成「相」，像在说外表的样子，后面「我相、人相」都是这个字，读者容易以为在讲外貌。"
+       "note": "saṃjñā 是「心里生起的观念、认定」。英文 idea、白话「观念」都是这个意思；鸠摩罗什一律译成「相」，像在说外表的样子，后面「我相、人相」都是这个字，读者容易以为在讲外貌。",
+       "en": "Saṃjñā means \"an idea or notion that arises in the mind.\" The English \"idea\" and the plain Chinese 观念 (guānniàn, \"idea\") both mean this; Kumārajīva always translates it as 相 (xiàng, \"appearance\"), as if talking about outward looks, and the later 我相、人相 (\"the mark of a self, the mark of a person\") use the same character, so readers easily think it's about appearance."
       }
      ]
     },
@@ -89,7 +104,8 @@
      "cmp": [
       {
        "w": "sattva / jīva / pudgala",
-       "note": "这里梵文只列了三个观念：众生、命者（活着的灵魂）、人。英文、白话都只有三项；鸠摩罗什补成「我相、人相、众生相、寿者相」四项，把下文才出现的「我」提前放了进来。"
+       "note": "这里梵文只列了三个观念：众生、命者（活着的灵魂）、人。英文、白话都只有三项；鸠摩罗什补成「我相、人相、众生相、寿者相」四项，把下文才出现的「我」提前放了进来。",
+       "en": "Here the Sanskrit lists only three ideas: a being, a soul (the living self), and a person. The English and the plain Chinese have only three; Kumārajīva fills it out to four, 我相、人相、众生相、寿者相 (\"marks of self, person, being, life-span\"), bringing forward the \"self\" that only appears later in the text."
       }
      ]
     },
@@ -99,11 +115,13 @@
      "cmp": [
       {
        "w": "apratiṣṭhita",
-       "note": "pratiṣṭhita 是「站在上面、靠在上面」。英文 without resting anywhere 保留了「不把重量压在任何东西上」的画面；鸠摩罗什译「无所住」，白话译「不执着」，后者已经换成心理学说法，比原词抽象。"
+       "note": "pratiṣṭhita 是「站在上面、靠在上面」。英文 without resting anywhere 保留了「不把重量压在任何东西上」的画面；鸠摩罗什译「无所住」，白话译「不执着」，后者已经换成心理学说法，比原词抽象。",
+       "en": "Pratiṣṭhita means \"standing on, leaning on.\" The English \"without resting anywhere\" keeps the image of not putting one's weight on anything; Kumārajīva's 无所住 (wú suǒ zhù, \"dwelling nowhere\") is literal, while the plain Chinese 不执着 (bù zhízhuó, \"not attached\") has switched to psychological language, more abstract than the original."
       },
       {
        "w": "nimittasaṃjñā",
-       "note": "nimitta 是「记号、标志」，让人认出一样东西的特征。英文 sign 照字面；白话「相状」、鸠摩罗什「相」都把它和上面的 saṃjñā 混成同一个字，中文读者分不出两层。"
+       "note": "nimitta 是「记号、标志」，让人认出一样东西的特征。英文 sign 照字面；白话「相状」、鸠摩罗什「相」都把它和上面的 saṃjñā 混成同一个字，中文读者分不出两层。",
+       "en": "Nimitta means \"a sign, a marker,\" the feature by which you recognize a thing. The English \"sign\" is literal; the plain Chinese 相状 (xiàngzhuàng) and Kumārajīva's 相 (xiàng) both merge it with the saṃjñā above into the same character, so Chinese readers can't tell the two layers apart."
       }
      ]
     },
@@ -117,11 +135,13 @@
      "cmp": [
       {
        "w": "yāvat … tāvan mṛṣā",
-       "note": "梵文说的是佛身上的殊胜特征：「只要有特征的具足，就有虚妄」。鸠摩罗什改写成「凡所有相，皆是虚妄」，把范围从佛身的三十二相扩大到「一切相」，成了后来最有名的一句。英文、白话照梵文，范围窄得多。"
+       "note": "梵文说的是佛身上的殊胜特征：「只要有特征的具足，就有虚妄」。鸠摩罗什改写成「凡所有相，皆是虚妄」，把范围从佛身的三十二相扩大到「一切相」，成了后来最有名的一句。英文、白话照梵文，范围窄得多。",
+       "en": "The Sanskrit is about the Buddha's special bodily marks: \"as far as there is possession of marks, so far there is falsehood.\" Kumārajīva rewrites it as 凡所有相，皆是虚妄 (\"all that has marks is illusory\"), widening the scope from the thirty-two marks of the Buddha's body to \"all marks,\" and it became one of the most famous lines. The English and the plain Chinese follow the Sanskrit, with a much narrower scope."
       },
       {
        "w": "lakṣaṇālakṣaṇatas",
-       "note": "「从相即非相」去看。英文 through marks as no marks 尽量保留了梵文「相—非相」并列的节奏；鸠摩罗什译「若见诸相非相，则见如来」，变成一个条件句，读起来更像教诲。"
+       "note": "「从相即非相」去看。英文 through marks as no marks 尽量保留了梵文「相—非相」并列的节奏；鸠摩罗什译「若见诸相非相，则见如来」，变成一个条件句，读起来更像教诲。",
+       "en": "Seeing \"through marks as no marks.\" The English \"through marks as no marks\" keeps as much as possible of the Sanskrit's side-by-side rhythm of \"marks / no marks\"; Kumārajīva's 若见诸相非相，则见如来 (\"if you see all marks as no marks, you see the Tathagata\") turns it into a conditional, reading more like a lesson."
       }
      ]
     },
@@ -131,11 +151,13 @@
      "cmp": [
       {
        "w": "paścimāyāṃ pañcaśatyāṃ",
-       "note": "「最后的五百年」，是梵文里的末世说法。英文、白话照译；鸠摩罗什写「如来灭后后五百岁」，加上了「如来去世以后」作为起点，而且省掉「正法衰亡」。"
+       "note": "「最后的五百年」，是梵文里的末世说法。英文、白话照译；鸠摩罗什写「如来灭后后五百岁」，加上了「如来去世以后」作为起点，而且省掉「正法衰亡」。",
+       "en": "\"The last five hundred years,\" the Sanskrit expression for the end times. The English and the plain Chinese translate it as is; Kumārajīva writes 如来灭后后五百岁 (\"the last five hundred years after the Tathagata's passing\"), adding \"after the Tathagata's passing\" as the starting point, and omits the \"decline of the true Dharma.\""
       },
       {
        "w": "guṇavantaḥ śīlavantaḥ prajñāvantaś",
-       "note": "梵文说这些人有德行、守戒、有智慧，三样都有。英文照译；鸠摩罗什只写「持戒修福者」，智慧这一项不见了。此外梵文原本没有「莫作是说」，那句责备是鸠摩罗什本独有的。"
+       "note": "梵文说这些人有德行、守戒、有智慧，三样都有。英文照译；鸠摩罗什只写「持戒修福者」，智慧这一项不见了。此外梵文原本没有「莫作是说」，那句责备是鸠摩罗什本独有的。",
+       "en": "The Sanskrit says these people have virtue, keep the precepts, and have wisdom: all three. The English translates all three; Kumārajīva writes only 持戒修福者 (\"those who keep the precepts and cultivate merit\"), and wisdom drops out. Also, the Sanskrit has no 莫作是说 (\"don't say such a thing\"); that rebuke is found only in Kumārajīva's version."
       }
      ]
     },
@@ -145,11 +167,13 @@
      "cmp": [
       {
        "w": "buddhāste … tathāgatena",
-       "note": "梵文用三个动词：如来「知道」他们、「看见」他们、「觉知」他们，最后一个和「佛」（buddha，觉悟者）是同一个词根，是个文字游戏。英文 fully aware 只能保住意思；鸠摩罗什浓缩成「悉知悉见」，第三项省掉了。"
+       "note": "梵文用三个动词：如来「知道」他们、「看见」他们、「觉知」他们，最后一个和「佛」（buddha，觉悟者）是同一个词根，是个文字游戏。英文 fully aware 只能保住意思；鸠摩罗什浓缩成「悉知悉见」，第三项省掉了。",
+       "en": "The Sanskrit uses three verbs: the Tathagata \"knows\" them, \"sees\" them, and \"is aware of\" them, and the last shares its root with buddha (\"awakened one\"), a play on words. The English \"fully aware\" can only keep the meaning; Kumārajīva condenses it to 悉知悉见 (xī zhī xī jiàn, \"fully knows, fully sees\"), dropping the third."
       },
       {
        "w": "dharmasaṃjñā",
-       "note": "dharma 在这里是「事物、法」，不是「佛法」。英文直接保留 dharma，配上 no-dharma；白话「法」「非法」、鸠摩罗什「法相」「非法相」都容易被读成「合法、违法」。"
+       "note": "dharma 在这里是「事物、法」，不是「佛法」。英文直接保留 dharma，配上 no-dharma；白话「法」「非法」、鸠摩罗什「法相」「非法相」都容易被读成「合法、违法」。",
+       "en": "Dharma here means \"thing, phenomenon,\" not \"the Buddha's teaching.\" The English keeps dharma as is and pairs it with no-dharma; the plain Chinese 法 / 非法 (fǎ / fēifǎ) and Kumārajīva's 法相 / 非法相 are easily read as \"legal / illegal.\""
       }
      ]
     },
@@ -159,11 +183,13 @@
      "cmp": [
       {
        "w": "kolopamaṃ",
-       "note": "「像木筏一样」：过了河就把筏子放下。英文 like a raft、白话「像筏子」都照译；鸠摩罗什加了一句「汝等比丘」，把它写成佛对比丘们常说的话（「如来常说」），梵文只说如来「带着深意说过」。"
+       "note": "「像木筏一样」：过了河就把筏子放下。英文 like a raft、白话「像筏子」都照译；鸠摩罗什加了一句「汝等比丘」，把它写成佛对比丘们常说的话（「如来常说」），梵文只说如来「带着深意说过」。",
+       "en": "\"Like a raft\": once you've crossed the river, you put the raft down. The English \"like a raft\" and the plain Chinese 像筏子 (\"like a raft\") translate it as is; Kumārajīva adds 汝等比丘 (\"you monks\"), framing it as something the Buddha often said to the monks (如来常说, \"the Tathagata often says\"), whereas the Sanskrit only says the Tathagata said it \"with a deeper meaning in mind.\""
       },
       {
        "w": "saṃdhāya",
-       "note": "「有所指地、带着言外之意」，暗示这句话不能只按字面听。英文 with this hidden meaning in mind、白话「带着这层深意」都译出来了；鸠摩罗什写「以是义故」，这层「话里有话」淡了。"
+       "note": "「有所指地、带着言外之意」，暗示这句话不能只按字面听。英文 with this hidden meaning in mind、白话「带着这层深意」都译出来了；鸠摩罗什写「以是义故」，这层「话里有话」淡了。",
+       "en": "\"With something specific in mind, with an implied meaning,\" suggesting the words shouldn't be taken only literally. The English \"with this hidden meaning in mind\" and the plain Chinese 带着这层深意 (\"with this deeper meaning\") both convey it; Kumārajīva's 以是义故 (yǐ shì yì gù, \"for this reason\") weakens the sense of \"there's more to it than the words.\""
       }
      ]
     },
@@ -173,11 +199,13 @@
      "cmp": [
       {
        "w": "anuttarā samyaksaṃbodhi",
-       "note": "「无上的、完全的觉悟」。英文、白话都意译；鸠摩罗什照音写成「阿耨多罗三藐三菩提」，这是全经最典型的「音译不意译」，中文读者只能当成一个专有名词背下来。"
+       "note": "「无上的、完全的觉悟」。英文、白话都意译；鸠摩罗什照音写成「阿耨多罗三藐三菩提」，这是全经最典型的「音译不意译」，中文读者只能当成一个专有名词背下来。",
+       "en": "\"Unsurpassed, complete awakening.\" The English and the plain Chinese both translate the meaning; Kumārajīva writes it by sound as 阿耨多罗三藐三菩提 (ānòuduōluó sānmiǎo sānpútí), the sutra's most typical case of \"transliterate, don't translate,\" which Chinese readers can only memorize as a proper noun."
       },
       {
        "w": "asaṃskṛtaprabhāvitā",
-       "note": "「由无为所显现」，说圣者是从「不造作的东西」里显出来的。英文 made manifest by the unconditioned 照译；鸠摩罗什译「一切贤圣皆以无为法而有差别」，把「显现」换成「有差别」，意思转成了圣者之间的高低不同。"
+       "note": "「由无为所显现」，说圣者是从「不造作的东西」里显出来的。英文 made manifest by the unconditioned 照译；鸠摩罗什译「一切贤圣皆以无为法而有差别」，把「显现」换成「有差别」，意思转成了圣者之间的高低不同。",
+       "en": "\"Made manifest by the unconditioned,\" saying that the noble ones show forth from what is not fabricated. The English \"made manifest by the unconditioned\" is literal; Kumārajīva's 一切贤圣皆以无为法而有差别 (\"all sages and saints differ by means of the unconditioned\") swaps \"made manifest\" for \"differ,\" turning the meaning into differences of rank among the noble ones."
       }
      ]
     },
@@ -187,11 +215,13 @@
      "cmp": [
       {
        "w": "puṇyaskandha / askandha",
-       "note": "梵文的妙处在 skandha（堆、聚）这个词：「福德之聚」，如来说它「不是聚」。英文 heap / no heap、白话「聚」都保留了这个对比；鸠摩罗什译成「是福德即非福德性」，换成了「性」，原来「一堆东西其实不成一堆」的画面没了。"
+       "note": "梵文的妙处在 skandha（堆、聚）这个词：「福德之聚」，如来说它「不是聚」。英文 heap / no heap、白话「聚」都保留了这个对比；鸠摩罗什译成「是福德即非福德性」，换成了「性」，原来「一堆东西其实不成一堆」的画面没了。",
+       "en": "The beauty of the Sanskrit lies in the word skandha (\"heap, mass\"): a \"heap of merit,\" which the Tathagata says is \"no heap.\" The English heap / no heap and the plain Chinese 聚 (jù, \"heap\") keep this contrast; Kumārajīva's 是福德即非福德性 (\"this merit is not the nature of merit\") switches to 性 (xìng, \"nature\"), and the image of \"a heap that isn't really a heap\" is lost."
       },
       {
        "w": "trisāhasramahāsāhasra",
-       "note": "直译是「三千大千」，指一千的三次方个世界。英文用 a great galaxy of a billion worlds 换算给读者；中文保留「三千大千世界」，读者常以为是三千个。"
+       "note": "直译是「三千大千」，指一千的三次方个世界。英文用 a great galaxy of a billion worlds 换算给读者；中文保留「三千大千世界」，读者常以为是三千个。",
+       "en": "Literally \"three-thousand great-thousand,\" meaning a thousand to the third power of worlds. The English converts it for the reader as \"a great galaxy of a billion worlds\"; the Chinese keeps 三千大千世界 (sānqiān dàqiān shìjiè), which readers often take to mean three thousand worlds."
       }
      ]
     },
@@ -205,7 +235,8 @@
      "cmp": [
       {
        "w": "srotaāpanna",
-       "note": "「入了流的人」：第一次走进通往解脱的那条河。英文 stream-enterer、白话「入流者」都是意译，双关「入流 / 没有进入任何东西」读得出来；鸠摩罗什先音译「须陀洹」再解释「名为入流」，而且删掉了最后一句「那就是执取自我」。"
+       "note": "「入了流的人」：第一次走进通往解脱的那条河。英文 stream-enterer、白话「入流者」都是意译，双关「入流 / 没有进入任何东西」读得出来；鸠摩罗什先音译「须陀洹」再解释「名为入流」，而且删掉了最后一句「那就是执取自我」。",
+       "en": "\"One who has entered the stream\": stepping for the first time into the river that leads to liberation. The English \"stream-enterer\" and the plain Chinese 入流者 (rùliú zhě, \"stream-enterer\") both translate the meaning, so the pun \"entered the stream / entered nothing at all\" comes through; Kumārajīva first transliterates it as 须陀洹 (xūtuóhuán) and then explains 名为入流 (\"is called stream-entry\"), and he cuts the final line, \"that would be grasping at a self.\""
       }
      ]
     },
@@ -223,7 +254,8 @@
      "cmp": [
       {
        "w": "araṇāvihārin",
-       "note": "araṇa 是「没有争斗、没有烦扰」。英文 dwell in peace、白话「安住于无诤」都是意译；鸠摩罗什这里译「无诤三昧」，下一句却音译成「阿兰那行」，同一个词前后用了两种译法。"
+       "note": "araṇa 是「没有争斗、没有烦扰」。英文 dwell in peace、白话「安住于无诤」都是意译；鸠摩罗什这里译「无诤三昧」，下一句却音译成「阿兰那行」，同一个词前后用了两种译法。",
+       "en": "Araṇa means \"without strife, without disturbance.\" The English \"dwell in peace\" and the plain Chinese 安住于无诤 (\"dwelling in non-strife\") translate the meaning; Kumārajīva here writes 无诤三昧 (wú zhēng sānmèi, \"the samādhi of non-strife\"), but in the next sentence transliterates it as 阿兰那行 (ālánnà xíng, \"araṇa practice\"), using two different renderings for the same word."
       }
      ]
     },
@@ -233,7 +265,8 @@
      "cmp": [
       {
        "w": "na kvacid viharati",
-       "note": "梵文的玩笑在「住」字上：须菩提是「安住无诤第一」，正因为他「哪里都不住」。英文 dwell 前后同一个词，保留了这个对比；鸠摩罗什把后半句译成「实无所行」，「住」变成了「行」，双关少了一半。"
+       "note": "梵文的玩笑在「住」字上：须菩提是「安住无诤第一」，正因为他「哪里都不住」。英文 dwell 前后同一个词，保留了这个对比；鸠摩罗什把后半句译成「实无所行」，「住」变成了「行」，双关少了一半。",
+       "en": "The Sanskrit joke hinges on \"dwell\": Subhūti is \"foremost among those who dwell in peace\" precisely because he \"dwells nowhere.\" The English uses the same word, \"dwell,\" in both halves, keeping the contrast; Kumārajīva renders the second half as 实无所行 (shí wú suǒ xíng, \"in truth there is nothing practiced\"), turning \"dwell\" into \"practice,\" so half the pun is gone."
       }
      ]
     },
@@ -247,11 +280,13 @@
      "cmp": [
       {
        "w": "apratiṣṭhitaṃ cittam utpādayitavyam",
-       "note": "「应当生起不住于任何地方的心」。鸠摩罗什把它凝成「应无所住而生其心」，相传禅宗六祖慧能就是听到这一句开悟的。梵文其实前后说了好几遍、比较啰嗦；英文和白话照着保留了重复，这句名言的锋利来自鸠摩罗什的剪裁。"
+       "note": "「应当生起不住于任何地方的心」。鸠摩罗什把它凝成「应无所住而生其心」，相传禅宗六祖慧能就是听到这一句开悟的。梵文其实前后说了好几遍、比较啰嗦；英文和白话照着保留了重复，这句名言的锋利来自鸠摩罗什的剪裁。",
+       "en": "\"One should give rise to a mind that rests nowhere.\" Kumārajīva condensed this into 应无所住而生其心 (\"you should give rise to a mind that dwells nowhere\"); tradition says Huineng, the Sixth Patriarch of Chan, awakened on hearing this line. The Sanskrit actually says it several times over, rather wordily; the English and the plain Chinese keep the repetition, and the line's famous sharpness comes from Kumārajīva's editing."
       },
       {
        "w": "kṣetravyūha",
-       "note": "vyūha 是「排列、布置得很壮观」，指佛土的庄严景象。英文 splendid arrays 保住「排列」的画面；中文「庄严」现在多指「严肃」，意思已经偏了。"
+       "note": "vyūha 是「排列、布置得很壮观」，指佛土的庄严景象。英文 splendid arrays 保住「排列」的画面；中文「庄严」现在多指「严肃」，意思已经偏了。",
+       "en": "Vyūha means \"arranged, laid out splendidly,\" referring to the magnificent scenery of a buddha-land. The English \"splendid arrays\" keeps the image of arrangement; the Chinese 庄严 (zhuāngyán) now mostly means \"solemn,\" so the meaning has drifted."
       }
      ]
     },
@@ -261,7 +296,8 @@
      "cmp": [
       {
        "w": "ātmabhāva / na bhāvaḥ",
-       "note": "梵文 ātmabhāva 字面是「自己的存在」，指身体；接着说它「不是 bhāva（存在）」，在词尾上做文章。英文 bodily existence / no existence 把这个拆词游戏保住了；鸠摩罗什只写「佛说非身，是名大身」，「非有非无」那一句没有译。"
+       "note": "梵文 ātmabhāva 字面是「自己的存在」，指身体；接着说它「不是 bhāva（存在）」，在词尾上做文章。英文 bodily existence / no existence 把这个拆词游戏保住了；鸠摩罗什只写「佛说非身，是名大身」，「非有非无」那一句没有译。",
+       "en": "Sanskrit ātmabhāva literally means \"one's own existence,\" i.e. the body; the text then says it is \"not bhāva (existence),\" playing on the end of the word. The English \"bodily existence / no existence\" preserves this word-splitting game; Kumārajīva writes only 佛说非身，是名大身 (\"the Buddha says it is not a body; that is called a great body\"), and the line about \"neither existence nor non-existence\" is not translated."
       }
      ]
     },
@@ -279,11 +315,13 @@
      "cmp": [
       {
        "w": "caityabhūta",
-       "note": "caitya 是供人礼拜的塔、祠。英文 shrine 是意译；鸠摩罗什译「如佛塔庙」，白话「塔庙一样的圣地」，中文的「塔」带着具体的建筑画面，英文只剩下「神圣之处」。"
+       "note": "caitya 是供人礼拜的塔、祠。英文 shrine 是意译；鸠摩罗什译「如佛塔庙」，白话「塔庙一样的圣地」，中文的「塔」带着具体的建筑画面，英文只剩下「神圣之处」。",
+       "en": "A caitya is a stupa or shrine where people worship. The English \"shrine\" translates the meaning; Kumārajīva has 如佛塔庙 (\"like a Buddha's stupa-temple\") and the plain Chinese 塔庙一样的圣地 (\"a holy place like a stupa-temple\"); the Chinese 塔 (tǎ, \"stupa, pagoda\") brings a concrete building to mind, while the English is left with just \"a holy place.\""
       },
       {
        "w": "vijñagurusthānīya",
-       "note": "「处在智慧尊师位置上的人」。鸠摩罗什译「若尊重弟子」，变成「值得尊重的弟子」，身份从「师」转成了「弟子」。英文、白话照梵文。"
+       "note": "「处在智慧尊师位置上的人」。鸠摩罗什译「若尊重弟子」，变成「值得尊重的弟子」，身份从「师」转成了「弟子」。英文、白话照梵文。",
+       "en": "\"One who stands in the place of a wise and honored teacher.\" Kumārajīva renders it 若尊重弟子 (\"like an honored disciple\"), shifting the role from \"teacher\" to \"disciple.\" The English and the plain Chinese follow the Sanskrit."
       }
      ]
     },
@@ -293,11 +331,13 @@
      "cmp": [
       {
        "w": "prajñāpāramitā nāmāyaṃ",
-       "note": "梵文这里佛说经名就叫「智慧的圆满」。鸠摩罗什写成「金刚般若波罗蜜」，把经题里的「金刚」也放进佛的话里。英文、白话照梵文，只有「智慧的圆满」。"
+       "note": "梵文这里佛说经名就叫「智慧的圆满」。鸠摩罗什写成「金刚般若波罗蜜」，把经题里的「金刚」也放进佛的话里。英文、白话照梵文，只有「智慧的圆满」。",
+       "en": "In the Sanskrit, the Buddha says here that the sutra's name is simply \"The Perfection of Wisdom.\" Kumārajīva writes 金刚般若波罗蜜 (Jīngāng Bōrě Bōluómì, \"Diamond Perfection of Wisdom\"), putting the title's \"diamond\" into the Buddha's mouth as well. The English and the plain Chinese follow the Sanskrit, with only \"The Perfection of Wisdom.\""
       },
       {
        "w": "pāramitā",
-       "note": "常见的解释是「到了彼岸」，也可以理解成「最高、圆满」。英文 Perfection、白话「圆满」取后一义；鸠摩罗什音译「波罗蜜」，两层意思都包在一个外来词里，交给读者自己去查。"
+       "note": "常见的解释是「到了彼岸」，也可以理解成「最高、圆满」。英文 Perfection、白话「圆满」取后一义；鸠摩罗什音译「波罗蜜」，两层意思都包在一个外来词里，交给读者自己去查。",
+       "en": "The common explanation is \"gone to the other shore,\" but it can also be understood as \"highest, perfected.\" The English \"Perfection\" and the plain Chinese 圆满 (yuánmǎn, \"perfect, complete\") take the second sense; Kumārajīva transliterates it as 波罗蜜 (bōluómì), wrapping both meanings in one foreign word and leaving readers to look it up."
       }
      ]
     },
@@ -323,11 +363,13 @@
      "cmp": [
       {
        "w": "dharmavegena",
-       "note": "vega 是「冲力、冲击」：须菩提是被法的力量冲击得流泪。英文 moved by the force of the teaching 保留了冲击感；鸠摩罗什写「深解义趣，涕泪悲泣」，改成「懂了才哭」，还加了「悲」字。"
+       "note": "vega 是「冲力、冲击」：须菩提是被法的力量冲击得流泪。英文 moved by the force of the teaching 保留了冲击感；鸠摩罗什写「深解义趣，涕泪悲泣」，改成「懂了才哭」，还加了「悲」字。",
+       "en": "Vega means \"force, impact\": Subhūti weeps because he is struck by the force of the Dharma. The English \"moved by the force of the teaching\" keeps that sense of impact; Kumārajīva writes 深解义趣，涕泪悲泣 (\"deeply understanding its meaning, he wept in sorrow\"), turning it into \"he cried because he understood,\" and adds 悲 (bēi, \"sorrow\")."
       },
       {
        "w": "bhūtasaṃjñā",
-       "note": "「真实的观念、认为是真的」。英文 idea of the true、白话「真实之想」照译；鸠摩罗什译成「实相」，后来成了中国佛学的大词，意思从「一个念头」升格成「事物的真实面貌」。"
+       "note": "「真实的观念、认为是真的」。英文 idea of the true、白话「真实之想」照译；鸠摩罗什译成「实相」，后来成了中国佛学的大词，意思从「一个念头」升格成「事物的真实面貌」。",
+       "en": "\"An idea of the true, taking something to be true.\" The English \"idea of the true\" and the plain Chinese 真实之想 (\"a thought of the real\") translate it as is; Kumārajīva renders it 实相 (shíxiàng, \"true mark/reality\"), which later became a major term in Chinese Buddhist thought, raising the meaning from \"a single thought\" to \"the true nature of things.\""
       }
      ]
     },
@@ -349,11 +391,13 @@
      "cmp": [
       {
        "w": "kalirājā",
-       "note": "梵文可以读成「羯陵伽国王」，也可以读成「kali（争斗、恶世）之王」，是个名字兼寓意。英文写 the king of Kalinga 只取了国名；鸠摩罗什音译「歌利王」，白话「迦利王」，都把两层意思收在一个读音里。"
+       "note": "梵文可以读成「羯陵伽国王」，也可以读成「kali（争斗、恶世）之王」，是个名字兼寓意。英文写 the king of Kalinga 只取了国名；鸠摩罗什音译「歌利王」，白话「迦利王」，都把两层意思收在一个读音里。",
+       "en": "The Sanskrit can be read as \"the king of Kaliṅga\" or as \"king of kali (strife, the evil age),\" a name that doubles as a symbol. The English \"the king of Kalinga\" takes only the country name; Kumārajīva's transliteration 歌利王 (Gēlì Wáng) and the plain Chinese 迦利王 (Jiālì Wáng) hold both meanings in a single sound."
       },
       {
        "w": "kṣānti",
-       "note": "梵文 kṣānti 是「承受、容忍」。英文 patience 偏向耐心；中文「忍辱」特别点出「忍受侮辱」，在割肉的故事里比英文更贴切。"
+       "note": "梵文 kṣānti 是「承受、容忍」。英文 patience 偏向耐心；中文「忍辱」特别点出「忍受侮辱」，在割肉的故事里比英文更贴切。",
+       "en": "Sanskrit kṣānti means \"bearing, enduring.\" The English \"patience\" leans toward calm waiting; the Chinese 忍辱 (rěnrǔ, \"enduring insult\") specifically points to bearing humiliation, which fits the story of having one's flesh cut better than the English does."
       }
      ]
     },
@@ -367,7 +411,8 @@
      "cmp": [
       {
        "w": "tathāvādī",
-       "note": "「如实说的人」，tathā 就是 Tathagata（如来）里的「如」。英文 speaks things as they are 能看出 tathā 的意思，但和 Tathagata 这个名字的关联看不出；中文「如语者」和「如来」共用一个「如」字，这层呼应反而保住了。鸠摩罗什还多了一项「不诳语者」。"
+       "note": "「如实说的人」，tathā 就是 Tathagata（如来）里的「如」。英文 speaks things as they are 能看出 tathā 的意思，但和 Tathagata 这个名字的关联看不出；中文「如语者」和「如来」共用一个「如」字，这层呼应反而保住了。鸠摩罗什还多了一项「不诳语者」。",
+       "en": "\"One who speaks things as they are\"; tathā is the same \"thus\" as in Tathagata. The English \"speaks things as they are\" shows what tathā means, but not its link to the name Tathagata; the Chinese 如语者 (rú yǔ zhě, \"one who speaks thus\") shares the character 如 (rú, \"thus\") with 如来 (rúlái), so that echo is actually preserved. Kumārajīva also adds one more item, 不诳语者 (\"one who does not speak deceptively\")."
       }
      ]
     },
@@ -377,7 +422,8 @@
      "cmp": [
       {
        "w": "vastupatita",
-       "note": "「掉进事物里」，像跌进坑里一样。英文 fallen into things 保留了跌落的画面，和后面「走进黑暗」连成一气；白话加注「执着事物」；鸠摩罗什译「心住于法」，又回到「住」字，跌落的画面没了。"
+       "note": "「掉进事物里」，像跌进坑里一样。英文 fallen into things 保留了跌落的画面，和后面「走进黑暗」连成一气；白话加注「执着事物」；鸠摩罗什译「心住于法」，又回到「住」字，跌落的画面没了。",
+       "en": "\"Fallen into things,\" like falling into a pit. The English \"fallen into things\" keeps the image of falling, which links up with the later \"walking into darkness\"; the plain Chinese adds the gloss 执着事物 (\"attached to things\"); Kumārajīva's 心住于法 (\"the mind dwells in dharmas\") goes back to the word 住 (\"dwell\"), and the image of falling is gone."
       }
      ]
     },
@@ -395,11 +441,13 @@
      "cmp": [
       {
        "w": "agrayāna / śreṣṭhayāna",
-       "note": "梵文是「最前面的乘」和「最好的乘」。鸠摩罗什译成「大乘」和「最上乘」，把第一个换成了后来通行的宗派名称「大乘」。英文 foremost / best、白话照梵文，没有宗派色彩。"
+       "note": "梵文是「最前面的乘」和「最好的乘」。鸠摩罗什译成「大乘」和「最上乘」，把第一个换成了后来通行的宗派名称「大乘」。英文 foremost / best、白话照梵文，没有宗派色彩。",
+       "en": "The Sanskrit says \"the foremost vehicle\" and \"the best vehicle.\" Kumārajīva renders these as 大乘 (dàshèng, \"Great Vehicle,\" i.e. Mahāyāna) and 最上乘 (zuìshàng shèng, \"supreme vehicle\"), replacing the first with what later became a sectarian name. The English \"foremost / best\" and the plain Chinese follow the Sanskrit, with no sectarian coloring."
       },
       {
        "w": "samāṃśena bodhiṃ dhārayiṣyanti",
-       "note": "「平均分担着把菩提扛起来」，像大家一起抬东西。英文 carry awakening on their shoulders equally 保留了扛的画面；鸠摩罗什译「荷担如来阿耨多罗三藐三菩提」，「平均分担」没了，换成「担起如来的」觉悟。"
+       "note": "「平均分担着把菩提扛起来」，像大家一起抬东西。英文 carry awakening on their shoulders equally 保留了扛的画面；鸠摩罗什译「荷担如来阿耨多罗三藐三菩提」，「平均分担」没了，换成「担起如来的」觉悟。",
+       "en": "\"Carrying awakening, sharing the weight equally,\" like people lifting something together. The English \"carry awakening on their shoulders equally\" keeps the image of carrying; Kumārajīva's 荷担如来阿耨多罗三藐三菩提 (\"shoulder the Tathagata's unsurpassed, perfect awakening\") loses the \"equal share\" and makes it the Tathagata's awakening they carry."
       }
      ]
     },
@@ -421,11 +469,13 @@
      "cmp": [
       {
        "w": "dīpaṃkarasya … pareṇa paratareṇa",
-       "note": "梵文说这些佛在燃灯佛「之前更之前」。鸠摩罗什译「于然灯佛前」，读起来像「在燃灯佛面前」遇见他们，时间变成了地点。"
+       "note": "梵文说这些佛在燃灯佛「之前更之前」。鸠摩罗什译「于然灯佛前」，读起来像「在燃灯佛面前」遇见他们，时间变成了地点。",
+       "en": "The Sanskrit says these buddhas came \"before, and further before\" Dīpaṃkara. Kumārajīva's 于然灯佛前 (\"before Dīpaṃkara Buddha\") reads like meeting them \"in front of\" Dīpaṃkara, turning time into place."
       },
       {
        "w": "ārāgitāḥ, ārāgya na virāgitāḥ",
-       "note": "梵文是「让他们满意，满意之后没有再让他们不满」，一正一反。英文 pleased / never displeased 保留了这个对仗；鸠摩罗什改成「悉皆供养承事，无空过者」。"
+       "note": "梵文是「让他们满意，满意之后没有再让他们不满」，一正一反。英文 pleased / never displeased 保留了这个对仗；鸠摩罗什改成「悉皆供养承事，无空过者」。",
+       "en": "The Sanskrit says \"pleased them, and having pleased them, never displeased them,\" one positive, one negative. The English \"pleased / never displeased\" keeps the parallel; Kumārajīva changes it to 悉皆供养承事，无空过者 (\"made offerings to and served them all, letting none pass by in vain\")."
       }
      ]
     },
@@ -451,11 +501,13 @@
      "cmp": [
       {
        "w": "tathāgata",
-       "note": "梵文可以拆成 tathā-gata「这样去了的」，也可以拆成 tathā-āgata「这样来了的」，这里把它解释成「真如（事物本来那样）」。英文保留 Tathagata 原词，只好靠 suchness 去补；鸠摩罗什的「如来」选了「来」的读法，又在这里写「如来者，即诸法如义」，正好用「如」字接上，四个定义只译了一个。"
+       "note": "梵文可以拆成 tathā-gata「这样去了的」，也可以拆成 tathā-āgata「这样来了的」，这里把它解释成「真如（事物本来那样）」。英文保留 Tathagata 原词，只好靠 suchness 去补；鸠摩罗什的「如来」选了「来」的读法，又在这里写「如来者，即诸法如义」，正好用「如」字接上，四个定义只译了一个。",
+       "en": "The Sanskrit can be split as tathā-gata, \"thus gone,\" or tathā-āgata, \"thus come\"; here it is explained as \"suchness\" (things as they truly are). The English keeps Tathagata as the original word and has to rely on \"suchness\" to fill in; Kumārajīva's 如来 (rúlái, \"thus-come\") picks the \"come\" reading, and here writes 如来者，即诸法如义 (\"'Tathagata' means the suchness of all dharmas\"), linking neatly through the character 如 (rú, \"thus\"), though he translates only one of the four definitions."
       },
       {
        "w": "māṇava",
-       "note": "燃灯佛叫释迦前世「年轻人、少年婆罗门」。英文 young man、白话「年轻人」都保留了这个亲切的称呼；鸠摩罗什译成「汝」，称呼省掉了。"
+       "note": "燃灯佛叫释迦前世「年轻人、少年婆罗门」。英文 young man、白话「年轻人」都保留了这个亲切的称呼；鸠摩罗什译成「汝」，称呼省掉了。",
+       "en": "Dīpaṃkara addresses Śākyamuni's former self as \"young man, young brahmin.\" The English \"young man\" and the plain Chinese 年轻人 (\"young man\") keep this friendly form of address; Kumārajīva renders it 汝 (rǔ, \"you\"), dropping the address."
       }
      ]
     },
@@ -469,7 +521,8 @@
      "cmp": [
       {
        "w": "akāya",
-       "note": "梵文说「没有身体」。英文 no body、白话「没有身体」照译；鸠摩罗什译「非大身」，把否定落在「大」上，意思变成「不算大的身体」。"
+       "note": "梵文说「没有身体」。英文 no body、白话「没有身体」照译；鸠摩罗什译「非大身」，把否定落在「大」上，意思变成「不算大的身体」。",
+       "en": "The Sanskrit says \"no body.\" The English \"no body\" and the plain Chinese 没有身体 (\"no body\") translate it as is; Kumārajīva has 非大身 (fēi dà shēn, \"not a great body\"), putting the negation on \"great,\" so it means \"a body that isn't large.\""
       }
      ]
     },
@@ -479,7 +532,8 @@
      "cmp": [
       {
        "w": "niṣpoṣa",
-       "note": "poṣa 是「养育者、被养的那个人」，是印度当时说「灵魂」的一种叫法。英文 nourisher、白话「养育者」都照译；鸠摩罗什改成固定的「无我、无人、无众生、无寿者」四项，这一项不见了。"
+       "note": "poṣa 是「养育者、被养的那个人」，是印度当时说「灵魂」的一种叫法。英文 nourisher、白话「养育者」都照译；鸠摩罗什改成固定的「无我、无人、无众生、无寿者」四项，这一项不见了。",
+       "en": "Poṣa means \"nourisher, the one who is nourished,\" one of the ways Indians of the time referred to the soul. The English \"nourisher\" and the plain Chinese 养育者 (yǎngyù zhě, \"nourisher\") translate it; Kumārajīva replaces the list with his fixed four, 无我、无人、无众生、无寿者 (\"no self, no person, no being, no life-span\"), and this item disappears."
       }
      ]
     },
@@ -505,7 +559,8 @@
      "cmp": [
       {
        "w": "cittadhārā / adhārā",
-       "note": "dhārā 是「水流、一股一股流下来的东西」，心念像河一样不停地流。英文 stream of thought、白话「心念之流」保留了水流的画面，也接得上前面的恒河；鸠摩罗什只写「若干种心」「诸心」，水流的意象没了。"
+       "note": "dhārā 是「水流、一股一股流下来的东西」，心念像河一样不停地流。英文 stream of thought、白话「心念之流」保留了水流的画面，也接得上前面的恒河；鸠摩罗什只写「若干种心」「诸心」，水流的意象没了。",
+       "en": "Dhārā means \"a stream, something flowing down in a steady flow\"; thoughts flow on like a river. The English \"stream of thought\" and the plain Chinese 心念之流 (\"stream of thoughts\") keep the image of flowing water, which also connects to the Ganges earlier; Kumārajīva writes only 若干种心 (\"many kinds of mind\") and 诸心 (\"all minds\"), and the image of flowing water is gone."
       }
      ]
     },
@@ -515,7 +570,8 @@
      "cmp": [
       {
        "w": "nopalabhyate",
-       "note": "「找不到、抓不着」。英文 cannot be found、白话「找不到」照译；鸠摩罗什译「不可得」，后来禅宗常用。顺序也不同：梵文是过去、未来、现在，鸠摩罗什改成更顺口的过去、现在、未来。"
+       "note": "「找不到、抓不着」。英文 cannot be found、白话「找不到」照译；鸠摩罗什译「不可得」，后来禅宗常用。顺序也不同：梵文是过去、未来、现在，鸠摩罗什改成更顺口的过去、现在、未来。",
+       "en": "\"Cannot be found, cannot be grasped.\" The English \"cannot be found\" and the plain Chinese 找不到 (\"cannot be found\") translate it as is; Kumārajīva's 不可得 (bù kě dé, \"unobtainable\") was later a favorite of Chan. The order differs too: the Sanskrit goes past, future, present, while Kumārajīva changes it to the smoother past, present, future."
       }
      ]
     },
@@ -537,7 +593,8 @@
      "cmp": [
       {
        "w": "dharmadeśanā",
-       "note": "梵文是一问一答，须菩提回答「不会」。鸠摩罗什改成佛直接下命令「汝勿谓…莫作是念」，须菩提的回答没了；结尾「无法可说，是名说法」比梵文「找不到一个叫做说法的法」更像一句对联。"
+       "note": "梵文是一问一答，须菩提回答「不会」。鸠摩罗什改成佛直接下命令「汝勿谓…莫作是念」，须菩提的回答没了；结尾「无法可说，是名说法」比梵文「找不到一个叫做说法的法」更像一句对联。",
+       "en": "The Sanskrit is a question and answer, with Subhūti replying \"no.\" Kumārajīva turns it into a direct command from the Buddha, 汝勿谓…莫作是念 (\"do not say… do not think this\"), and Subhūti's answer is gone; the closing 无法可说，是名说法 (\"there is no dharma to teach; that is called teaching the Dharma\") reads more like a matched couplet than the Sanskrit's \"no dharma called teaching the Dharma can be found.\""
       }
      ]
     },
@@ -547,7 +604,8 @@
      "cmp": [
       {
        "w": "āyuṣmān",
-       "note": "「长寿的人」，对出家弟子的尊称。英文 venerable、白话「具寿」；鸠摩罗什全经大多用「长老」，只在这一段写「慧命须菩提」，用词和前后不一样，学者多认为这一段是后人从别的译本补进鸠摩罗什本的。"
+       "note": "「长寿的人」，对出家弟子的尊称。英文 venerable、白话「具寿」；鸠摩罗什全经大多用「长老」，只在这一段写「慧命须菩提」，用词和前后不一样，学者多认为这一段是后人从别的译本补进鸠摩罗什本的。",
+       "en": "\"Long-lived one,\" a respectful title for an ordained disciple. The English has \"venerable\" and the plain Chinese 具寿 (jùshòu, \"possessed of long life\"); Kumārajīva mostly uses 长老 (zhǎnglǎo, \"elder\") throughout, but only in this passage writes 慧命须菩提 (huìmìng Xūpútí, \"wisdom-life Subhūti\"), a word choice out of line with the rest, and scholars mostly believe this passage was later added into Kumārajīva's text from another translation."
       }
      ]
     },
@@ -561,7 +619,8 @@
      "cmp": [
       {
        "w": "samaḥ … na viṣamaḥ",
-       "note": "sama 是「平、齐」，viṣama 是「高低不平」。英文 even / uneven 保住了地面平不平的画面；鸠摩罗什译「是法平等，无有高下」，「高下」把这个画面说得更清楚，是很好的一笔。"
+       "note": "sama 是「平、齐」，viṣama 是「高低不平」。英文 even / uneven 保住了地面平不平的画面；鸠摩罗什译「是法平等，无有高下」，「高下」把这个画面说得更清楚，是很好的一笔。",
+       "en": "Sama means \"level, even,\" and viṣama \"uneven, high and low.\" The English \"even / uneven\" keeps the image of level or uneven ground; Kumārajīva's 是法平等，无有高下 (\"this Dharma is level, with no high or low\") makes the image even clearer with 高下 (\"high and low\"), a fine touch."
       }
      ]
     },
@@ -575,7 +634,8 @@
      "cmp": [
       {
        "w": "bālapṛthagjanā / ajanā",
-       "note": "pṛthag-jana 是「各自分散的人、一般人」，后半 jana 就是「人」；如来说他们是 a-jana「不是人」，拆的是词尾。英文 ordinary people / no people 把这个拆法保住了；鸠摩罗什译「凡夫……则非凡夫」，否定的是「凡」，梵文的拆字游戏变了样。"
+       "note": "pṛthag-jana 是「各自分散的人、一般人」，后半 jana 就是「人」；如来说他们是 a-jana「不是人」，拆的是词尾。英文 ordinary people / no people 把这个拆法保住了；鸠摩罗什译「凡夫……则非凡夫」，否定的是「凡」，梵文的拆字游戏变了样。",
+       "en": "Pṛthag-jana means \"scattered, separate people, ordinary folk,\" and its second half, jana, means \"people\"; the Tathagata calls them a-jana, \"no people,\" splitting off the end of the word. The English \"ordinary people / no people\" preserves this split; Kumārajīva's 凡夫……则非凡夫 (\"ordinary beings… are not ordinary beings\") negates 凡 (fán, \"ordinary\"), so the Sanskrit wordplay changes shape."
       }
      ]
     },
@@ -585,11 +645,13 @@
      "cmp": [
       {
        "w": "no hīdaṃ bhagavan",
-       "note": "梵文须菩提一开始就答「不能」。鸠摩罗什本却让他先答「如是，如是！以三十二相观如来」，被佛用转轮王一比，才改口说「不应」，整段变成一场被纠正的对话，比梵文更有戏剧性。"
+       "note": "梵文须菩提一开始就答「不能」。鸠摩罗什本却让他先答「如是，如是！以三十二相观如来」，被佛用转轮王一比，才改口说「不应」，整段变成一场被纠正的对话，比梵文更有戏剧性。",
+       "en": "In the Sanskrit, Subhūti answers \"no\" right away. Kumārajīva instead has him first answer 如是，如是！以三十二相观如来 (\"Yes, yes! The Tathagata is seen by the thirty-two marks\"), and only after the Buddha's comparison with a wheel-turning king does he change to 不应 (\"one should not\"), making the whole passage a dialogue of correction, more dramatic than the Sanskrit."
       },
       {
        "w": "rājā cakravartī",
-       "note": "「转动轮子的王」，印度传说里统一天下的君王，身上也有三十二相。英文 wheel-turning king 直译，读者需要背景；中文「转轮王」是现成的词。"
+       "note": "「转动轮子的王」，印度传说里统一天下的君王，身上也有三十二相。英文 wheel-turning king 直译，读者需要背景；中文「转轮王」是现成的词。",
+       "en": "\"The king who turns the wheel,\" the legendary Indian ruler of the whole world, who also bears the thirty-two marks. The English \"wheel-turning king\" is literal and needs background; Chinese has a ready-made word, 转轮王 (zhuànlún wáng)."
       }
      ]
     },
@@ -603,7 +665,8 @@
      "cmp": [
       {
        "w": "mithyāprahāṇaprasṛtā",
-       "note": "prahāṇa 是「用功、精进」，整句是「走上了错误的努力」。英文 a wrong effort、白话「错误的努力」照译；鸠摩罗什译「是人行邪道」，「邪道」在中文里带着歪门邪道的道德色彩，比梵文重。"
+       "note": "prahāṇa 是「用功、精进」，整句是「走上了错误的努力」。英文 a wrong effort、白话「错误的努力」照译；鸠摩罗什译「是人行邪道」，「邪道」在中文里带着歪门邪道的道德色彩，比梵文重。",
+       "en": "Prahāṇa means \"effort, exertion,\" and the whole phrase is \"set out on a wrong effort.\" The English \"a wrong effort\" and the plain Chinese 错误的努力 (\"wrong effort\") translate it as is; Kumārajīva's 是人行邪道 (\"this person walks a wicked path\") uses 邪道 (xiédào), which in Chinese carries the moral tinge of \"crooked, devious ways,\" heavier than the Sanskrit."
       }
      ]
     },
@@ -613,7 +676,8 @@
      "cmp": [
       {
        "w": "dharmakāya",
-       "note": "这一整首偈鸠摩罗什本没有译。所以中文读者熟悉的「若以色见我」只是半句话：梵文接着说「要从法去看佛，佛以法为身」，然后又把这条路也收回去，「法性也不可知」。英文、白话都补全了这后半。"
+       "note": "这一整首偈鸠摩罗什本没有译。所以中文读者熟悉的「若以色见我」只是半句话：梵文接着说「要从法去看佛，佛以法为身」，然后又把这条路也收回去，「法性也不可知」。英文、白话都补全了这后半。",
+       "en": "Kumārajīva doesn't translate this entire verse. So the line Chinese readers know, 若以色见我 (\"if anyone sees me by form\"), is only half the thought: the Sanskrit goes on to say \"see the Buddha through the Dharma; the Buddha has the Dharma as his body,\" and then takes back even that path: \"the nature of Dharma cannot be known.\" The English and the plain Chinese both restore this second half."
       }
      ]
     },
@@ -623,7 +687,8 @@
      "cmp": [
       {
        "w": "lakṣaṇasaṃpadā … abhisaṃbuddhā",
-       "note": "梵文的问题是「如来是靠身相证悟的吗？别这样想」。鸠摩罗什本却写成「莫作是念：『如来不以具足相故，得……菩提』」，意思反过来了：叫人别以为如来「不是」靠具足相证悟的。历代注家为此争论不少；英文、白话都照梵文。"
+       "note": "梵文的问题是「如来是靠身相证悟的吗？别这样想」。鸠摩罗什本却写成「莫作是念：『如来不以具足相故，得……菩提』」，意思反过来了：叫人别以为如来「不是」靠具足相证悟的。历代注家为此争论不少；英文、白话都照梵文。",
+       "en": "The Sanskrit asks \"did the Tathagata awaken by means of his bodily marks? Don't think so.\" Kumārajīva instead writes 莫作是念：『如来不以具足相故，得……菩提』 (\"don't think: 'the Tathagata attained awakening not by means of complete marks'\"), reversing the meaning: it tells people not to think the Tathagata did \"not\" awaken by his complete marks. Commentators through the ages have argued over this a great deal; the English and the plain Chinese follow the Sanskrit."
       }
      ]
     },
@@ -633,11 +698,13 @@
      "cmp": [
       {
        "w": "parigrahītavyaḥ … no grahītavyaḥ",
-       "note": "梵文用同一个词根做文章：pari-grah「接受、承担」可以，单单 grah「抓住」不行。英文 take it up / grab it 尽量保住了两个近义动词的对比；白话「摄受 / 执取」也是；鸠摩罗什干脆改成「不受福德」「不应贪着」，词根游戏看不出来了。"
+       "note": "梵文用同一个词根做文章：pari-grah「接受、承担」可以，单单 grah「抓住」不行。英文 take it up / grab it 尽量保住了两个近义动词的对比；白话「摄受 / 执取」也是；鸠摩罗什干脆改成「不受福德」「不应贪着」，词根游戏看不出来了。",
+       "en": "The Sanskrit plays on one root: pari-grah, \"to accept, take on,\" is fine, but bare grah, \"to grab,\" is not. The English \"take it up / grab it\" keeps as much as possible of the contrast between two near-synonym verbs, as does the plain Chinese 摄受 / 执取 (shèshòu / zhíqǔ, \"accept / grasp\"); Kumārajīva simply changes it to 不受福德 (\"not receiving merit\") and 不应贪着 (\"should not crave or cling\"), and the root-wordplay can't be seen."
       },
       {
        "w": "anutpattikeṣu dharmeṣu kṣāntim",
-       "note": "「对不生的诸法得到安忍」，后来叫「无生法忍」。英文 patient acceptance 把 kṣānti 讲成「接受」；鸠摩罗什只写「知一切法无我，得成于忍」，「不生」这一半漏了。"
+       "note": "「对不生的诸法得到安忍」，后来叫「无生法忍」。英文 patient acceptance 把 kṣānti 讲成「接受」；鸠摩罗什只写「知一切法无我，得成于忍」，「不生」这一半漏了。",
+       "en": "\"Patient acceptance of dharmas that do not arise,\" later called 无生法忍 (wúshēng fǎ rěn). The English \"patient acceptance\" reads kṣānti as \"acceptance\"; Kumārajīva writes only 知一切法无我，得成于忍 (\"knowing all dharmas are without self, achieving patience\"), and the \"do not arise\" half is lost."
       }
      ]
     },
@@ -647,7 +714,8 @@
      "cmp": [
       {
        "w": "na kvacid gato na kutaścid āgataḥ",
-       "note": "这里正好在解 Tathagata 这个名字：gata「去了」、āgata「来了」，两样都不是。英文 Tathagata 是原词，读者得靠这句才明白名字的意思；鸠摩罗什的「如来」只有「来」字，所以写成「无所从来，亦无所去，故名如来」，中文里名字和解释更贴。"
+       "note": "这里正好在解 Tathagata 这个名字：gata「去了」、āgata「来了」，两样都不是。英文 Tathagata 是原词，读者得靠这句才明白名字的意思；鸠摩罗什的「如来」只有「来」字，所以写成「无所从来，亦无所去，故名如来」，中文里名字和解释更贴。",
+       "en": "This line explains the very name Tathagata: gata \"gone,\" āgata \"come,\" and he is neither. In English Tathagata is the original word, so readers need this line to understand the name; Kumārajīva's 如来 (rúlái) has only the \"come\" (来, lái), so he writes 无所从来，亦无所去，故名如来 (\"coming from nowhere and going nowhere, therefore called Thus-Come\"), and in Chinese the name and its explanation fit more closely."
       }
      ]
     },
@@ -661,7 +729,8 @@
      "cmp": [
       {
        "w": "piṇḍagrāha",
-       "note": "piṇḍa 是「一团、一坨」，像饭团。「把东西当成一整团来抓」。英文 grasping at a lump、白话「执取为一个整团」都留住了这个很具体的画面；鸠摩罗什译「一合相」，成了一个抽象的哲学名词，读者很难想到是一团东西。"
+       "note": "piṇḍa 是「一团、一坨」，像饭团。「把东西当成一整团来抓」。英文 grasping at a lump、白话「执取为一个整团」都留住了这个很具体的画面；鸠摩罗什译「一合相」，成了一个抽象的哲学名词，读者很难想到是一团东西。",
+       "en": "Piṇḍa means \"a lump, a clump,\" like a rice ball: \"grasping things as one whole lump.\" The English \"grasping at a lump\" and the plain Chinese 执取为一个整团 (\"grasping as one whole lump\") keep this very concrete image; Kumārajīva's 一合相 (yì hé xiàng, \"a single combined mark\") becomes an abstract philosophical term, and readers would hardly think of a lump of something."
       }
      ]
     },
@@ -679,7 +748,8 @@
      "cmp": [
       {
        "w": "tadyathākāśe",
-       "note": "梵文这里断成半句「就像在虚空中——」，接着就是偈子，意思是要像天上的星、云那样去看。鸠摩罗什改写成「不取于相，如如不动」，这八个字梵文里没有，却成了中文里最常被引用的句子之一。"
+       "note": "梵文这里断成半句「就像在虚空中——」，接着就是偈子，意思是要像天上的星、云那样去看。鸠摩罗什改写成「不取于相，如如不动」，这八个字梵文里没有，却成了中文里最常被引用的句子之一。",
+       "en": "The Sanskrit breaks off here mid-sentence, \"just as in the sky—,\" and goes straight into the verse, meaning one should see things as one sees the stars and clouds in the sky. Kumārajīva rewrites it as 不取于相，如如不动 (\"not grasping at marks, thus-like and unmoving\"); these eight characters are not in the Sanskrit, yet they became one of the most quoted lines in Chinese."
       }
      ]
     },
@@ -689,11 +759,13 @@
      "cmp": [
       {
        "w": "tārakā timiraṃ dīpo …",
-       "note": "梵文有九个比喻：星、眼翳、灯、幻术、露、泡、梦、闪电、云。英文、白话九个都译了；鸠摩罗什只留下「梦、幻、泡、影、露、电」六个，还多出一个梵文没有的「影」。「一切有为法，如梦幻泡影」的名句，是他重新剪裁的结果。"
+       "note": "梵文有九个比喻：星、眼翳、灯、幻术、露、泡、梦、闪电、云。英文、白话九个都译了；鸠摩罗什只留下「梦、幻、泡、影、露、电」六个，还多出一个梵文没有的「影」。「一切有为法，如梦幻泡影」的名句，是他重新剪裁的结果。",
+       "en": "The Sanskrit has nine similes: star, eye-film, lamp, magic illusion, dew, bubble, dream, lightning, cloud. The English and the plain Chinese translate all nine; Kumārajīva keeps only six, 梦、幻、泡、影、露、电 (\"dream, illusion, bubble, shadow, dew, lightning\"), including a \"shadow\" that the Sanskrit doesn't have. The famous line 一切有为法，如梦幻泡影 (\"all conditioned things are like a dream, an illusion, a bubble, a shadow\") is the result of his re-editing."
       },
       {
        "w": "saṃskṛta",
-       "note": "「被造出来的、由许多条件拼起来的」。英文 everything that is put together 照字面；鸠摩罗什译「有为法」，白话加注「由因缘造作而成」，「有为」在今天的中文里却容易被读成「有作为」。"
+       "note": "「被造出来的、由许多条件拼起来的」。英文 everything that is put together 照字面；鸠摩罗什译「有为法」，白话加注「由因缘造作而成」，「有为」在今天的中文里却容易被读成「有作为」。",
+       "en": "\"Made, put together from many conditions.\" The English \"everything that is put together\" is literal; Kumārajīva has 有为法 (yǒuwéi fǎ, \"conditioned dharmas\") and the plain Chinese adds the gloss 由因缘造作而成 (\"made up of causes and conditions\"), yet in today's Chinese 有为 (yǒuwéi) is easily read as \"accomplished, promising.\""
       }
      ]
     },
@@ -707,7 +779,8 @@
      "cmp": [
       {
        "w": "abhyanandan",
-       "note": "梵文以「大家都欢喜」结束。鸠摩罗什加了四个字「信受奉行」，让结尾多了「相信、接受、照着做」的要求；他也省掉了菩萨和乾闼婆。英文、白话照梵文。"
+       "note": "梵文以「大家都欢喜」结束。鸠摩罗什加了四个字「信受奉行」，让结尾多了「相信、接受、照着做」的要求；他也省掉了菩萨和乾闼婆。英文、白话照梵文。",
+       "en": "The Sanskrit ends with \"everyone rejoiced.\" Kumārajīva adds four characters, 信受奉行 (xìnshòu fèngxíng, \"believed, accepted, and put it into practice\"), giving the ending a demand to believe, accept, and act on it; he also omits the bodhisattvas and gandharvas. The English and the plain Chinese follow the Sanskrit."
       }
      ]
     },

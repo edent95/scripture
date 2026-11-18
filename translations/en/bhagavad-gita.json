@@ -9,6 +9,13 @@
   "第四，梵文的双关和前后呼应，两种译文都很难保住。kāla（11.32「我是时间」）同时是「时间」「死期」和「黑」，而 Kṛṣṇa 的名字本义也是「黑」；英语流行的 I am become Death 只取了死亡。akṣara 既是「不灭」也是「音节」，所以念「唵」就是在念「不灭者」。kṣetra（田）和全书第一句「俱卢之野」是同一个字，身体和战场在梵文里是一回事。3.24 黑天说不行动会造成 saṃkara（混乱），用的正是第一章阿周那担心的「种姓混杂」那个词，把他的理由反过来还给了他。",
   "最后是称呼与语气。阿周那对黑天的称呼一直在换：诛魔者、莲花眼、毗湿奴……称呼一变，两人的关系也跟着变；白话为了好读几乎一律写「黑天」，这个转折就看不出来，英文保留了原称号并在第一次出现时说明。2.3 黑天骂阿周那 klaibya（「不像个男人」），白话「怯懦」温和得多。本站梵文底本有些地方没有「某某说」（uvāca），英文照白话的做法用括号补上说话人，读者能分清哪些是原文、哪些是补的。"
  ],
+ "compareEn": [
+  "The hardest word in the whole Gita is yoga. The plain Chinese almost always writes 瑜伽 (yújiā, a sound-borrowing of “yoga”), yet the same word carries at least four meanings in the book: a way of acting (2.48, “sameness is called yoga”), training the mind and sitting in meditation (chapter 6), God’s own power (yogam aiśvaram in 9.5), and plain “getting” in an everyday phrase (yoga-kṣema, “getting and keeping,” in 2.45 and 9.22). Its root yuj means “to put on a yoke,” and English can keep that picture with yoke and yoked: so yujyasva in 2.38 becomes “yoke yourself,” while the plain Chinese 投身 (tóushēn, “throw yourself in”) breaks the link. 6.23 defines yoga as “the separation (viyoga) from union (saṃyoga) with sorrow,” three words from one root in a row; the English “unyoking from union” just about keeps it, while the Chinese keeps only the meaning.",
+  "The second group is dharma and karma. In the book dharma is sometimes “one’s proper duty,” sometimes “what is right,” sometimes “this teaching” or “the rules of the Vedic rites.” The plain Chinese borrows the Buddhist 正法 (zhèngfǎ, “the true Dharma”), and the English switches between duty, what is right and teaching; both sides change words with the context, while the Sanskrit is always the same word. Karma simply means “action,” and the English uses action throughout; the plain Chinese sometimes writes 行动（业） (xíngdòng, “action,” with 业 yè, the Buddhist word for karma as moral consequence), which brings in the later sense of karmic retribution. 4.37, “the fire of knowledge turns all actions to ash,” is exactly where the word slides from “doing things” to “karma.” In 2.47 adhikāra comes out in the plain Chinese as 你只有行动的权利 (“you have the right only to action”), which sounds legal; the original sense is “what is within your reach to manage.”",
+  "The third group is borrowed religious vocabulary. To make the text easy for Chinese readers, the plain Chinese borrows many Buddhist and Daoist words: ahaṃkāra becomes 我慢 (wǒmàn, Buddhist “self-conceit”), naiṣkarmya becomes 无为 (wúwéi, the Daoist “non-action”), aśvattha becomes 菩提树 (pútíshù, “bodhi tree”), loka-traya becomes 三界 (sānjiè, the Buddhist “three realms”), and smṛti becomes 正念 (zhèngniàn, Buddhist “right mindfulness”), though in 18.73 the Sanskrit only says Arjuna “has remembered.” Once these words appear, Chinese readers automatically read Buddhist meanings into them. English has the same problem: asura as demonic and naraka as hell carry Christian associations. Guṇa originally means “a strand, a cord,” which is why the text goes on to say the three guṇas “bind” a person; the English quality and the Chinese 德 (dé, “virtue, quality”) both lose the rope, and 德 is also easily read as morality.",
+  "Fourth, Sanskrit puns and echoes are hard for either translation to keep. Kāla (11.32, “I am Time”) means “time,” “the hour of death” and “black” all at once, and Kṛṣṇa’s own name means “black”; the famous English “I am become Death” takes only death. Akṣara means both “imperishable” and “syllable,” so to chant Om is to chant “the Imperishable.” Kṣetra (field) is the same word as in the book’s first line, “the field of the Kurus,” so in Sanskrit the body and the battlefield are one and the same. In 3.24 Krishna says that not acting would cause saṃkara (confusion), the very word Arjuna used in chapter 1 for the “mixing of the classes” he feared, turning Arjuna’s own argument back on him.",
+  "Last come forms of address and tone. Arjuna keeps changing what he calls Krishna: slayer of demons, lotus-eyed, Vishnu… and as the name changes, so does their relationship. For readability the plain Chinese almost always writes just 黑天 (Hēitiān, “Krishna”), so these turns can’t be seen; the English keeps the original epithets and explains each the first time it appears. In 2.3 Krishna rebukes Arjuna with klaibya (“unmanliness”), and the plain Chinese 怯懦 (qiènuò, “timidity”) is much milder. In places the site’s Sanskrit source text has no “so-and-so said” (uvāca); the English follows the plain Chinese in adding the speaker in parentheses, so readers can tell what is in the original and what has been supplied."
+ ],
  "chapters": [
   {
    "title": "Chapter 1 · Arjuna's Despair",
@@ -19,11 +26,13 @@
      "cmp": [
       {
        "w": "dharma-kṣetre kuru-kṣetre",
-       "note": "梵文开头两个词押着同一个尾巴：「dharma 之野、kuru 之野」，像一副对子。英文 the field of dharma, the field of the Kurus 保留了这个对仗；白话合成「正法之地俱卢之野」，读起来像一个地名，对仗的味道就淡了。"
+       "note": "梵文开头两个词押着同一个尾巴：「dharma 之野、kuru 之野」，像一副对子。英文 the field of dharma, the field of the Kurus 保留了这个对仗；白话合成「正法之地俱卢之野」，读起来像一个地名，对仗的味道就淡了。",
+       "en": "The first two Sanskrit words end alike, “field of dharma, field of the Kurus,” like a matched couplet. The English “the field of dharma, the field of the Kurus” keeps the parallel; the plain Chinese fuses them into 正法之地俱卢之野 (zhèngfǎ zhī dì Jùlú zhī yě, “the Dharma-ground, the Kuru field”), which reads like a single place name, so the couplet fades."
       },
       {
        "w": "māmakāḥ",
-       "note": "māmakāḥ 是「我的人、我这边的」。持国一开口就把「我的」和「般度的」分成两边。英文 my own sons 加了 own 来保住这份偏心；白话「我的儿子们」照字面，口气轻一些。"
+       "note": "māmakāḥ 是「我的人、我这边的」。持国一开口就把「我的」和「般度的」分成两边。英文 my own sons 加了 own 来保住这份偏心；白话「我的儿子们」照字面，口气轻一些。",
+       "en": "Māmakāḥ means “my people, those on my side.” From his very first words Dhritarashtra splits the world into “mine” and “Pandu’s.” The English “my own sons” adds own to keep that favoritism; the plain Chinese 我的儿子们 (wǒ de érzimen, “my sons”) is literal and sounds gentler."
       }
      ]
     },
@@ -37,7 +46,8 @@
      "cmp": [
       {
        "w": "tava śiṣyeṇa dhīmatā",
-       "note": "难敌特意说「您那位聪明的弟子」：排阵的猛光正是注定要杀德罗纳的人，德罗纳却照样教了他。这句话带刺，英文和白话都只译了字面，那根刺要知道故事才看得出。"
+       "note": "难敌特意说「您那位聪明的弟子」：排阵的猛光正是注定要杀德罗纳的人，德罗纳却照样教了他。这句话带刺，英文和白话都只译了字面，那根刺要知道故事才看得出。",
+       "en": "Duryodhana pointedly says “your clever student”: Dhrishtadyumna, who arranged the enemy army, was the man fated to kill Drona, and Drona taught him anyway. The line has a barb in it, but both the English and the plain Chinese translate only the surface, and you need the backstory to feel it."
       }
      ]
     },
@@ -47,7 +57,8 @@
      "cmp": [
       {
        "w": "mahārathaḥ",
-       "note": "mahā-ratha 字面是「大车」，在史诗里是一个武士等级，指能独自对抗大批敌兵的一流车战武士。英文 great chariot-warrior、白话「大车士」都只能照字面译，等级的意思看不出来。"
+       "note": "mahā-ratha 字面是「大车」，在史诗里是一个武士等级，指能独自对抗大批敌兵的一流车战武士。英文 great chariot-warrior、白话「大车士」都只能照字面译，等级的意思看不出来。",
+       "en": "Mahā-ratha literally means “great chariot”; in the epic it is a warrior rank, a first-class chariot fighter who can take on large numbers of enemies alone. The English “great chariot-warrior” and the plain Chinese 大车士 (dà chēshì, “great chariot-man”) can only translate the words, so the sense of a rank is lost."
       }
      ]
     },
@@ -65,7 +76,8 @@
      "cmp": [
       {
        "w": "dvijottama",
-       "note": "dvija「再生者」指受过入门礼、算是「第二次出生」的上层种姓，这里指婆罗门。德罗纳是婆罗门，却在战场上当将领。英文 best of the twice-born、白话「再生者中的佼佼者」都照字面，背后这点反差要靠读者自己看出来。"
+       "note": "dvija「再生者」指受过入门礼、算是「第二次出生」的上层种姓，这里指婆罗门。德罗纳是婆罗门，却在战场上当将领。英文 best of the twice-born、白话「再生者中的佼佼者」都照字面，背后这点反差要靠读者自己看出来。",
+       "en": "Dvija, “twice-born,” means the upper classes who have received initiation, counted as a “second birth”; here it means a Brahmin. Drona is a Brahmin, yet he leads troops on the battlefield. The English “best of the twice-born” and the plain Chinese 再生者中的佼佼者 (zàishēngzhě zhōng de jiǎojiǎozhě, “the finest of the twice-born”) are both literal, leaving readers to notice the irony themselves."
       }
      ]
     },
@@ -83,7 +95,8 @@
      "cmp": [
       {
        "w": "aparyāptam",
-       "note": "aparyāptam 有两种读法：「不够、不足」，或「无法衡量、无边无际」。照前一种，难敌是在心虚；照后一种，他是在夸自己兵多。英文和白话都取了「不够」，但梵文这句本身是两可的。"
+       "note": "aparyāptam 有两种读法：「不够、不足」，或「无法衡量、无边无际」。照前一种，难敌是在心虚；照后一种，他是在夸自己兵多。英文和白话都取了「不够」，但梵文这句本身是两可的。",
+       "en": "Aparyāptam can be read two ways: “insufficient,” or “immeasurable, boundless.” On the first reading Duryodhana is losing his nerve; on the second he is boasting about the size of his army. The English and the plain Chinese both choose “not enough,” but the Sanskrit line itself is ambiguous."
       }
      ]
     },
@@ -105,7 +118,8 @@
      "cmp": [
       {
        "w": "mādhavaḥ pāṇḍavaḥ",
-       "note": "本书几乎不直呼黑天和阿周那的名字，梵文换着用十几个别名：黑天叫 Mādhava（摩豆族后裔）、Hṛṣīkeśa（感官之主）、Keśava、Madhusūdana（诛摩豆者）、Govinda、Janārdana……阿周那叫 Pārtha（普丽塔之子）、Kaunteya（贡蒂之子）、Dhanaṃjaya（赢得财富者）、Bhārata（婆罗多后裔）。英文第一次出现时注上原意，之后照梵文用别名；白话一律写「黑天」「阿周那」，读起来顺，但称呼里的情绪和诗律就没了。"
+       "note": "本书几乎不直呼黑天和阿周那的名字，梵文换着用十几个别名：黑天叫 Mādhava（摩豆族后裔）、Hṛṣīkeśa（感官之主）、Keśava、Madhusūdana（诛摩豆者）、Govinda、Janārdana……阿周那叫 Pārtha（普丽塔之子）、Kaunteya（贡蒂之子）、Dhanaṃjaya（赢得财富者）、Bhārata（婆罗多后裔）。英文第一次出现时注上原意，之后照梵文用别名；白话一律写「黑天」「阿周那」，读起来顺，但称呼里的情绪和诗律就没了。",
+       "en": "The book hardly ever calls Krishna and Arjuna by name; the Sanskrit rotates through a dozen epithets. Krishna is Mādhava (descendant of Madhu), Hṛṣīkeśa (lord of the senses), Keśava, Madhusūdana (slayer of Madhu), Govinda, Janārdana…; Arjuna is Pārtha (son of Pritha), Kaunteya (son of Kunti), Dhanaṃjaya (winner of wealth), Bhārata (descendant of Bharata). The English glosses each the first time and then uses the epithets as the Sanskrit does; the plain Chinese always writes 黑天 (Hēitiān, “Krishna”) and 阿周那 (Āzhōunà, “Arjuna”), which reads smoothly but loses the feeling and the meter carried by the names."
       }
      ]
     },
@@ -151,7 +165,8 @@
      "cmp": [
       {
        "w": "guḍākeśa",
-       "note": "Guḍākeśa 有两种拆法：「战胜睡眠的人」，或「头发浓密卷曲的人」。注释家多取前一种，用来说阿周那警醒。英文取了前一种；白话直接写「阿周那」，别名就看不见了。黑天的 Hṛṣīkeśa 也一样，可以是「感官之主」，也可以是「头发竖立的人」。"
+       "note": "Guḍākeśa 有两种拆法：「战胜睡眠的人」，或「头发浓密卷曲的人」。注释家多取前一种，用来说阿周那警醒。英文取了前一种；白话直接写「阿周那」，别名就看不见了。黑天的 Hṛṣīkeśa 也一样，可以是「感官之主」，也可以是「头发竖立的人」。",
+       "en": "Guḍākeśa can be split two ways: “one who has conquered sleep,” or “one with thick curly hair.” Most commentators take the first, as a sign of Arjuna’s alertness, and the English does too; the plain Chinese simply writes 阿周那 (Āzhōunà, “Arjuna”), so the epithet disappears. Krishna’s Hṛṣīkeśa is similar: it can be “lord of the senses” or “one whose hair bristles.”"
       }
      ]
     },
@@ -161,7 +176,8 @@
      "cmp": [
       {
        "w": "kurūn",
-       "note": "黑天说「看这些俱卢人」。其实两边都是俱卢的后代，般度五子也是俱卢族。黑天偏偏用这个两边共有的名字，正好让阿周那看到对面全是自家人。英文 Kurus、白话「俱卢族人」都照译，这层双关要点出来才看得到。"
+       "note": "黑天说「看这些俱卢人」。其实两边都是俱卢的后代，般度五子也是俱卢族。黑天偏偏用这个两边共有的名字，正好让阿周那看到对面全是自家人。英文 Kurus、白话「俱卢族人」都照译，这层双关要点出来才看得到。",
+       "en": "Krishna says “look at these Kurus.” In fact both sides descend from Kuru, the five Pandava brothers included. By choosing the name both sides share, Krishna makes Arjuna see that the men across the field are all his own family. The English “Kurus” and the plain Chinese 俱卢族人 (Jùlú zú rén, “people of the Kuru clan”) both translate it straight, and the double edge shows only if it is pointed out."
       }
      ]
     },
@@ -179,7 +195,8 @@
      "cmp": [
       {
        "w": "kṛpā",
-       "note": "kṛpā 在这里是「怜悯」，带着心软、心乱的味道，第二章开头黑天就会说这份 kṛpā 不该有。英文 pity 比 compassion 更贴近这层不那么正面的意思；白话「怜悯」也对，只是中文读者容易把它当成美德。"
+       "note": "kṛpā 在这里是「怜悯」，带着心软、心乱的味道，第二章开头黑天就会说这份 kṛpā 不该有。英文 pity 比 compassion 更贴近这层不那么正面的意思；白话「怜悯」也对，只是中文读者容易把它当成美德。",
+       "en": "Kṛpā here is “pity,” with a sense of going soft and losing one’s footing; at the start of chapter 2 Krishna will say this kṛpā has no place here. The English “pity” fits that less-than-positive shade better than compassion would; the plain Chinese 怜悯 (liánmǐn, “pity, compassion”) is also right, but Chinese readers easily take it as a virtue."
       }
      ]
     },
@@ -217,7 +234,8 @@
      "cmp": [
       {
        "w": "ātatāyin",
-       "note": "ātatāyin 是法典里的专门词，指放火、下毒、持刀行凶、抢夺财产和妻子的人；按法典，杀这种人不算罪。阿周那明知对方是 ātatāyin，却说杀了仍会有罪，这正是他的两难。白话「行凶作恶的人」、英文 aggressors 都看不出这层法律背景。"
+       "note": "ātatāyin 是法典里的专门词，指放火、下毒、持刀行凶、抢夺财产和妻子的人；按法典，杀这种人不算罪。阿周那明知对方是 ātatāyin，却说杀了仍会有罪，这正是他的两难。白话「行凶作恶的人」、英文 aggressors 都看不出这层法律背景。",
+       "en": "Ātatāyin is a technical term from the law books for arsonists, poisoners, armed attackers, and those who seize another’s property or wife; by law, killing such a person is no sin. Arjuna knows his opponents are ātatāyins and still says killing them would be sinful, and that is his dilemma. Neither the plain Chinese 行凶作恶的人 (xíngxiōng zuò’è de rén, “violent evildoers”) nor the English “aggressors” shows this legal background."
       }
      ]
     },
@@ -239,11 +257,13 @@
      "cmp": [
       {
        "w": "dharma",
-       "note": "dharma 是全书最难译的词。它来自「撑住」这个词根，指把事物撑住的东西：天地的秩序、社会的规矩、家族的礼法、一个人该尽的本分，都叫 dharma。白话通常译「正法」，偏宗教；英文常译 duty，偏个人责任。这里是 kula-dharma「家族的 dharma」，主要指祭祖等家族礼法，所以英文加注 the duties and rites；本书英文按上下文在 duty 和 dharma 之间换用。"
+       "note": "dharma 是全书最难译的词。它来自「撑住」这个词根，指把事物撑住的东西：天地的秩序、社会的规矩、家族的礼法、一个人该尽的本分，都叫 dharma。白话通常译「正法」，偏宗教；英文常译 duty，偏个人责任。这里是 kula-dharma「家族的 dharma」，主要指祭祖等家族礼法，所以英文加注 the duties and rites；本书英文按上下文在 duty 和 dharma 之间换用。",
+       "en": "Dharma is the hardest word in the book to translate. It comes from a root meaning “to hold up,” and names whatever holds things up: the order of the cosmos, the rules of society, a family’s rites, the duty a person owes. The plain Chinese usually writes 正法 (zhèngfǎ, “the true Dharma”), which leans religious; English often says duty, which leans toward personal responsibility. Here it is kula-dharma, “family dharma,” mainly family rites such as ancestor offerings, so the English adds the gloss “the duties and rites,” and throughout the book the English alternates between duty and dharma according to context."
       },
       {
        "w": "adharma",
-       "note": "adharma 是 dharma 的反面。白话译「非法」，容易被读成「违法」；英文 lawlessness 更接近原意：秩序崩坏、该守的都不守了。"
+       "note": "adharma 是 dharma 的反面。白话译「非法」，容易被读成「违法」；英文 lawlessness 更接近原意：秩序崩坏、该守的都不守了。",
+       "en": "Adharma is the opposite of dharma. The plain Chinese 非法 (fēifǎ) easily reads as “illegal”; the English “lawlessness” is closer to the original: order breaking down, with nothing that should be kept being kept."
       }
      ]
     },
@@ -253,7 +273,8 @@
      "cmp": [
       {
        "w": "varṇa-saṃkara",
-       "note": "varṇa 字面是「颜色」，指古印度社会的四个等级（祭司、武士、农商、仆役）。白话译「种姓」，英文译 classes 并保留 varnas。阿周那担心的是血统与等级混杂，这是那个时代的社会观念，英文和白话都照实译出，既不替它辩护，也不淡化。"
+       "note": "varṇa 字面是「颜色」，指古印度社会的四个等级（祭司、武士、农商、仆役）。白话译「种姓」，英文译 classes 并保留 varnas。阿周那担心的是血统与等级混杂，这是那个时代的社会观念，英文和白话都照实译出，既不替它辩护，也不淡化。",
+       "en": "Varṇa literally means “color” and refers to the four classes of ancient Indian society (priests, warriors, farmers and traders, servants). The plain Chinese says 种姓 (zhǒngxìng, “caste”); the English says “classes” and keeps varnas. Arjuna fears the mixing of bloodlines and ranks, a social idea of that age, and both the English and the plain Chinese translate it as it stands, neither defending nor softening it."
       }
      ]
     },
@@ -263,7 +284,8 @@
      "cmp": [
       {
        "w": "piṇḍodaka",
-       "note": "piṇḍa 是祭祖用的饭团，udaka 是水。古印度人相信祖先在另一个世界要靠子孙按时供奉；家族断了，供奉就断了，祖先也就「掉下去」。英文 rice-balls and water 和白话一样照字面译。"
+       "note": "piṇḍa 是祭祖用的饭团，udaka 是水。古印度人相信祖先在另一个世界要靠子孙按时供奉；家族断了，供奉就断了，祖先也就「掉下去」。英文 rice-balls and water 和白话一样照字面译。",
+       "en": "Piṇḍa is the rice-ball offered to ancestors, and udaka is water. People in ancient India believed ancestors in the other world depend on regular offerings from their descendants; if the family line ends, the offerings stop and the ancestors “fall.” The English “rice-balls and water” is as literal as the plain Chinese."
       }
      ]
     },
@@ -302,7 +324,8 @@
      "cmp": [
       {
        "w": "anārya-juṣṭa",
-       "note": "anārya-juṣṭa 字面是「非 ārya 的人才会做的」。ārya 本指「高贵、有教养的人」，跟后世的种族说法无关。英文 not what a noble person does、白话「不是高贵的人该有的样子」都译出了意思。"
+       "note": "anārya-juṣṭa 字面是「非 ārya 的人才会做的」。ārya 本指「高贵、有教养的人」，跟后世的种族说法无关。英文 not what a noble person does、白话「不是高贵的人该有的样子」都译出了意思。",
+       "en": "Anārya-juṣṭa literally means “practiced only by the non-ārya.” Ārya originally meant “noble, cultivated person” and has nothing to do with later racial theories. The English “not what a noble person does” and the plain Chinese 不是高贵的人该有的样子 (“not how a noble person should be”) both convey the meaning."
       }
      ]
     },
@@ -312,7 +335,8 @@
      "cmp": [
       {
        "w": "klaibya",
-       "note": "klaibya 来自 klība「阉人、无生育力的人」，是很重的羞辱话：你不像个男人。白话译「怯懦」温和了许多；英文 unmanliness 保留了一点原话的刺。"
+       "note": "klaibya 来自 klība「阉人、无生育力的人」，是很重的羞辱话：你不像个男人。白话译「怯懦」温和了许多；英文 unmanliness 保留了一点原话的刺。",
+       "en": "Klaibya comes from klība, “eunuch, impotent man,” and is a harsh insult: you are not acting like a man. The plain Chinese 怯懦 (qiènuò, “timidity”) is much milder; the English “unmanliness” keeps some of the sting."
       }
      ]
     },
@@ -322,7 +346,8 @@
      "cmp": [
       {
        "w": "madhusūdana / arisūdana",
-       "note": "阿周那一句里用了两个 sūdana「诛杀者」：Madhusūdana「诛摩豆者」、arisūdana「诛敌者」。言下之意：你是杀敌的，可这两位不是敌人，是该敬拜的人。白话只剩一个「黑天」，这个对照就没了。"
+       "note": "阿周那一句里用了两个 sūdana「诛杀者」：Madhusūdana「诛摩豆者」、arisūdana「诛敌者」。言下之意：你是杀敌的，可这两位不是敌人，是该敬拜的人。白话只剩一个「黑天」，这个对照就没了。",
+       "en": "Arjuna uses two sūdana (“slayer”) words in one line: Madhusūdana, “slayer of Madhu,” and arisūdana, “slayer of enemies.” The implication: you are a slayer of enemies, but these two are not enemies, they deserve reverence. The plain Chinese keeps only one 黑天 (Hēitiān, “Krishna”), so the contrast disappears."
       }
      ]
     },
@@ -332,7 +357,8 @@
      "cmp": [
       {
        "w": "artha-kāmān",
-       "note": "artha-kāmān 可以读成「贪图财利的」（形容这些长辈），也可以读成「财利和欲乐」（指阿周那将来要享受的东西）。白话和英文都取了前一种，但这句的读法古来就有争议。"
+       "note": "artha-kāmān 可以读成「贪图财利的」（形容这些长辈），也可以读成「财利和欲乐」（指阿周那将来要享受的东西）。白话和英文都取了前一种，但这句的读法古来就有争议。",
+       "en": "Artha-kāmān can be read as “greedy for gain” (describing the elders) or as “wealth and pleasures” (what Arjuna would go on to enjoy). The plain Chinese and the English both take the first reading, but how to read this line has been debated since ancient times."
       }
      ]
     },
@@ -346,11 +372,13 @@
      "cmp": [
       {
        "w": "kārpaṇya",
-       "note": "kārpaṇya 本义是「可怜相、小气」，指一种缩手缩脚、自怜的心态。白话译「懦弱」，英文 pitiful weakness，都只抓住一半。"
+       "note": "kārpaṇya 本义是「可怜相、小气」，指一种缩手缩脚、自怜的心态。白话译「懦弱」，英文 pitiful weakness，都只抓住一半。",
+       "en": "Kārpaṇya originally means “wretchedness, stinginess,” a cramped, self-pitying state of mind. The plain Chinese 懦弱 (nuòruò, “cowardly weakness”) and the English “pitiful weakness” each catch only half of it."
       },
       {
        "w": "dharma-saṃmūḍha",
-       "note": "「对 dharma 心里糊涂」：阿周那不是不知道规矩，而是两种 dharma 撞车了：武士要战斗，家族要保全。白话「对什么是正法也糊涂了」，英文 confused about what dharma asks of me，把「该怎么做」的意思补了出来。"
+       "note": "「对 dharma 心里糊涂」：阿周那不是不知道规矩，而是两种 dharma 撞车了：武士要战斗，家族要保全。白话「对什么是正法也糊涂了」，英文 confused about what dharma asks of me，把「该怎么做」的意思补了出来。",
+       "en": "“Confused about dharma”: Arjuna does not lack knowledge of the rules; two dharmas have collided, the warrior’s duty to fight and the duty to preserve the family. The plain Chinese 对什么是正法也糊涂了 (“confused about what the true Dharma is”) and the English “confused about what dharma asks of me” spell out the sense of “what should I do.”"
       }
      ]
     },
@@ -372,7 +400,8 @@
      "cmp": [
       {
        "w": "bhagavān",
-       "note": "bhagavān 字面是「拥有福分（bhaga）的人」，是对神或圣者的尊称。白话随佛经译「世尊」，英文 The Blessed Lord。两个译法都带着某个宗教的口吻；梵文本身只是一个敬称。"
+       "note": "bhagavān 字面是「拥有福分（bhaga）的人」，是对神或圣者的尊称。白话随佛经译「世尊」，英文 The Blessed Lord。两个译法都带着某个宗教的口吻；梵文本身只是一个敬称。",
+       "en": "Bhagavān literally means “one who possesses fortune (bhaga),” an honorific for a god or a holy person. The plain Chinese follows the Buddhist sutras with 世尊 (Shìzūn, “World-Honored One,” a title of the Buddha), and the English says “The Blessed Lord.” Both carry the voice of a particular religion, while the Sanskrit is simply a term of respect."
       }
      ]
     },
@@ -386,7 +415,8 @@
      "cmp": [
       {
        "w": "dehin",
-       "note": "dehin「有身者」、śarīrin「住在身体里的」：Gita 讲「真我」时常不用 ātman，而用这类词，强调「它住在身体里，但不是身体」。白话「有身者」有点生硬，英文 the embodied one 也一样，好处是都贴着梵文。"
+       "note": "dehin「有身者」、śarīrin「住在身体里的」：Gita 讲「真我」时常不用 ātman，而用这类词，强调「它住在身体里，但不是身体」。白话「有身者」有点生硬，英文 the embodied one 也一样，好处是都贴着梵文。",
+       "en": "Dehin, “the one with a body,” and śarīrin, “the one dwelling in the body”: when the Gita talks about the true self it often uses words like these instead of ātman, stressing that “it lives in the body but is not the body.” The plain Chinese 有身者 (yǒushēnzhě, “the body-haver”) is a bit stiff, as is the English “the embodied one,” but both stay close to the Sanskrit."
       }
      ]
     },
@@ -404,7 +434,8 @@
      "cmp": [
       {
        "w": "asat / sat",
-       "note": "sat 一个词同时有「存在」和「真实、好」的意思。白话取了「存在 / 不存在」，英文取了 real / unreal，两种都是常见读法，翻成任何一种语言都只能挑一边。"
+       "note": "sat 一个词同时有「存在」和「真实、好」的意思。白话取了「存在 / 不存在」，英文取了 real / unreal，两种都是常见读法，翻成任何一种语言都只能挑一边。",
+       "en": "The single word sat means both “being, existence” and “real, good.” The plain Chinese chooses 存在 / 不存在 (cúnzài / bù cúnzài, “existent / nonexistent”), the English chooses real / unreal; both are common readings, and any translation has to pick one side."
       }
      ]
     },
@@ -458,7 +489,8 @@
      "cmp": [
       {
        "w": "avyakta",
-       "note": "avyakta「未显现的」是数论哲学的术语，指还没展开成可见世界的状态，像种子还没长成树。白话「不显现」、英文 unmanifest 都照字面，在中文和英文里都不是日常词。"
+       "note": "avyakta「未显现的」是数论哲学的术语，指还没展开成可见世界的状态，像种子还没长成树。白话「不显现」、英文 unmanifest 都照字面，在中文和英文里都不是日常词。",
+       "en": "Avyakta, “unmanifest,” is a Sankhya term for the state before the visible world unfolds, like a seed that has not yet grown into a tree. The plain Chinese 不显现 (bù xiǎnxiàn, “not manifest”) and the English “unmanifest” are both literal, and neither is an everyday word in its language."
       }
      ]
     },
@@ -476,11 +508,13 @@
      "cmp": [
       {
        "w": "sva-dharma",
-       "note": "sva-dharma「自己的 dharma」，指按出身和角色该尽的本分。阿周那是 kṣatriya（武士阶层），他的本分就是打仗。白话「职责」、英文 your own duty 都偏个人责任，少了「由出身决定」这一层。"
+       "note": "sva-dharma「自己的 dharma」，指按出身和角色该尽的本分。阿周那是 kṣatriya（武士阶层），他的本分就是打仗。白话「职责」、英文 your own duty 都偏个人责任，少了「由出身决定」这一层。",
+       "en": "Sva-dharma, “one’s own dharma,” is the duty that comes with one’s birth and role. Arjuna is a kṣatriya (warrior class), so his duty is to fight. The plain Chinese 职责 (zhízé, “job responsibility”) and the English “your own duty” both lean toward personal responsibility and lose the sense that it is set by birth."
       },
       {
        "w": "dharmya yuddha",
-       "note": "「合乎 dharma 的战斗」：白话「合乎正法的战斗」，英文 a battle that is right by dharma。这里不能译成 holy war，梵文没有「神圣」的意思，说的是「正当、合规矩」。"
+       "note": "「合乎 dharma 的战斗」：白话「合乎正法的战斗」，英文 a battle that is right by dharma。这里不能译成 holy war，梵文没有「神圣」的意思，说的是「正当、合规矩」。",
+       "en": "“A battle in keeping with dharma”: the plain Chinese says 合乎正法的战斗 (héhū zhèngfǎ de zhàndòu, “a battle in accord with the true Dharma”), the English “a battle that is right by dharma.” It must not be rendered “holy war”: the Sanskrit has no idea of “holy” here, only “proper, by the rules.”"
       }
      ]
     },
@@ -514,7 +548,8 @@
      "cmp": [
       {
        "w": "yujyasva",
-       "note": "yujyasva「把自己套上去」，和 yoga 同一个词根 yuj（套轭、联结）。英文 yoke yourself 留住了这个词根；白话「投身」很自然，但看不出它和下一节的「瑜伽」是同一个词。"
+       "note": "yujyasva「把自己套上去」，和 yoga 同一个词根 yuj（套轭、联结）。英文 yoke yourself 留住了这个词根；白话「投身」很自然，但看不出它和下一节的「瑜伽」是同一个词。",
+       "en": "Yujyasva means “harness yourself,” from the same root yuj (to yoke, to join) as yoga. The English “yoke yourself” keeps the root; the plain Chinese 投身 (tóushēn, “throw yourself in”) is natural, but you can’t see that it is the same word as the 瑜伽 (yújiā, “yoga”) of the next verse."
       }
      ]
     },
@@ -524,15 +559,18 @@
      "cmp": [
       {
        "w": "buddhi",
-       "note": "buddhi 来自 budh「醒来、知道」，指能判断、能下决定的那部分心智，也指由此得来的见解。白话这里译「见解」，后面又译「智慧」「心」「理智」；英文本书统一用 understanding，读者可以顺着这个词看到全书的线索。"
+       "note": "buddhi 来自 budh「醒来、知道」，指能判断、能下决定的那部分心智，也指由此得来的见解。白话这里译「见解」，后面又译「智慧」「心」「理智」；英文本书统一用 understanding，读者可以顺着这个词看到全书的线索。",
+       "en": "Buddhi comes from budh, “to wake, to know,” and names the part of the mind that judges and decides, as well as the insight that comes from it. Here the plain Chinese says 见解 (jiànjiě, “view, insight”), and elsewhere 智慧 (zhìhuì, “wisdom”), 心 (xīn, “heart-mind”) or 理智 (lǐzhì, “reason”); the English uses “understanding” throughout, so readers can follow the word as a thread through the whole book."
       },
       {
        "w": "sāṃkhya / yoga",
-       "note": "这里的 sāṃkhya 和 yoga 还不完全是后来两个哲学派别的名字，更像两种讲法：一种靠分析看清真我，一种讲怎么去做。白话直接用派名「数论」「瑜伽」，英文保留 Sankhya 和 yoga 原词。"
+       "note": "这里的 sāṃkhya 和 yoga 还不完全是后来两个哲学派别的名字，更像两种讲法：一种靠分析看清真我，一种讲怎么去做。白话直接用派名「数论」「瑜伽」，英文保留 Sankhya 和 yoga 原词。",
+       "en": "Sāṃkhya and yoga here are not yet quite the names of the two later philosophical schools; they are more like two ways of explaining: one sees the true self through analysis, the other is about how to act. The plain Chinese uses the school names 数论 (Shùlùn, “Sankhya”) and 瑜伽 (Yújiā, “Yoga”) directly; the English keeps the original words Sankhya and yoga."
       },
       {
        "w": "karma-bandha",
-       "note": "karma 本义就是「行动、做事」，后来才引申出「行为留下的后果」，也就是中文熟悉的「业」。白话这里写「行动（业）」两个都给；英文本书用 action，不用 karma，免得读者一看就想到「报应」。"
+       "note": "karma 本义就是「行动、做事」，后来才引申出「行为留下的后果」，也就是中文熟悉的「业」。白话这里写「行动（业）」两个都给；英文本书用 action，不用 karma，免得读者一看就想到「报应」。",
+       "en": "Karma originally means simply “action, doing,” and only later came to mean “the consequences an act leaves behind,” the 业 (yè, the Buddhist word for karma as moral consequence) familiar to Chinese readers. The plain Chinese here gives both, 行动（业） (xíngdòng, “action,” with yè in brackets); the English uses action, not karma, throughout, so readers don’t immediately think of “retribution.”"
       }
      ]
     },
@@ -542,7 +580,8 @@
      "cmp": [
       {
        "w": "dharmasya",
-       "note": "这里的 dharma 不是「职责」，而是「这种修法、这条路」。白话译「法」，英文译 practice：同一个 dharma，在书里换了好几种意思。"
+       "note": "这里的 dharma 不是「职责」，而是「这种修法、这条路」。白话译「法」，英文译 practice：同一个 dharma，在书里换了好几种意思。",
+       "en": "The dharma here is not “duty” but “this practice, this path.” The plain Chinese says 法 (fǎ, “teaching, method”), the English “practice”: the same word dharma takes on several meanings across the book."
       }
      ]
     },
@@ -560,7 +599,8 @@
      "cmp": [
       {
        "w": "phala",
-       "note": "phala 本义是「果子」，「行动的果」就是结果、回报。白话译「果报」，带着佛教味；英文 fruit of action 保留了果子这个比喻，本书后面一直这么用。"
+       "note": "phala 本义是「果子」，「行动的果」就是结果、回报。白话译「果报」，带着佛教味；英文 fruit of action 保留了果子这个比喻，本书后面一直这么用。",
+       "en": "Phala originally means “fruit,” and “the fruit of action” is its result or reward. The plain Chinese 果报 (guǒbào, “karmic retribution”) has a Buddhist flavor; the English “fruit of action” keeps the image of fruit, and uses it consistently from here on."
       }
      ]
     },
@@ -570,7 +610,8 @@
      "cmp": [
       {
        "w": "samādhi",
-       "note": "samādhi 字面是「放在一起、聚拢」，指心完全集中。白话沿用佛经译名「三昧」，中文读者多少熟悉；英文保留 samadhi，第一次加注 deep concentration。"
+       "note": "samādhi 字面是「放在一起、聚拢」，指心完全集中。白话沿用佛经译名「三昧」，中文读者多少熟悉；英文保留 samadhi，第一次加注 deep concentration。",
+       "en": "Samādhi literally means “putting together, gathering,” the mind fully concentrated. The plain Chinese uses the Buddhist sutra term 三昧 (sānmèi, a sound-borrowing of samādhi), which Chinese readers somewhat know; the English keeps samadhi and glosses it the first time as “deep concentration.”"
       }
      ]
     },
@@ -580,11 +621,13 @@
      "cmp": [
       {
        "w": "traiguṇya",
-       "note": "guṇa 原义是「绳子的一股」，引申为「性质」。数论说万物由三股编成：sattva（明净）、rajas（躁动）、tamas（昏沉）。白话译「三德」，「德」字容易让人想到道德；英文 the three qualities (gunas) 中性一些。"
+       "note": "guṇa 原义是「绳子的一股」，引申为「性质」。数论说万物由三股编成：sattva（明净）、rajas（躁动）、tamas（昏沉）。白话译「三德」，「德」字容易让人想到道德；英文 the three qualities (gunas) 中性一些。",
+       "en": "Guṇa originally means “one strand of a rope,” extended to mean “quality.” Sankhya says everything is woven from three strands: sattva (clarity), rajas (agitation), tamas (dullness). The plain Chinese 三德 (sān dé, “three virtues/qualities”) uses 德, which makes readers think of morality; the English “the three qualities (gunas)” is more neutral."
       },
       {
        "w": "yoga-kṣema",
-       "note": "yoga-kṣema 是固定词：「得到新的」（yoga）与「保住已有的」（kṣema）。这里的 yoga 跟修行无关，只是「获得」。英文 getting and keeping、白话「不求获得、不求保有」都译对了，但读者看不到这里也藏着一个 yoga。"
+       "note": "yoga-kṣema 是固定词：「得到新的」（yoga）与「保住已有的」（kṣema）。这里的 yoga 跟修行无关，只是「获得」。英文 getting and keeping、白话「不求获得、不求保有」都译对了，但读者看不到这里也藏着一个 yoga。",
+       "en": "Yoga-kṣema is a set phrase: “getting what is new” (yoga) and “keeping what one has” (kṣema). The yoga here has nothing to do with spiritual practice; it just means “getting.” The English “getting and keeping” and the plain Chinese 不求获得、不求保有 (“not seeking to gain, not seeking to keep”) are both correct, but readers can’t see that a yoga is hidden here too."
       }
      ]
     },
@@ -598,7 +641,8 @@
      "cmp": [
       {
        "w": "adhikāra",
-       "note": "adhikāra 是「管辖范围、份内的事」。白话译「权利」，听起来像法律上的权利，好像在说「你没资格要结果」；英文 your concern is with 更接近原意：你管得着的只有行动本身。"
+       "note": "adhikāra 是「管辖范围、份内的事」。白话译「权利」，听起来像法律上的权利，好像在说「你没资格要结果」；英文 your concern is with 更接近原意：你管得着的只有行动本身。",
+       "en": "Adhikāra means “one’s jurisdiction, what falls within one’s part.” The plain Chinese says 权利 (quánlì, “right,” as in legal rights), which sounds like “you have no entitlement to the results”; the English “your concern is with” is closer to the original: all you have charge of is the action itself."
       }
      ]
     },
@@ -608,7 +652,8 @@
      "cmp": [
       {
        "w": "yoga",
-       "note": "yoga 来自 yuj「套上轭、联结」，本义是「套车、约束、用心」。Gita 里它很少指体式练习，多半指一种做事、用心的方式。这一节直接下定义：samatva「一样看待」就是 yoga。白话音译「瑜伽」，中文读者先想到健身；英文保留 yoga 原词，靠这一句的定义来纠正。"
+       "note": "yoga 来自 yuj「套上轭、联结」，本义是「套车、约束、用心」。Gita 里它很少指体式练习，多半指一种做事、用心的方式。这一节直接下定义：samatva「一样看待」就是 yoga。白话音译「瑜伽」，中文读者先想到健身；英文保留 yoga 原词，靠这一句的定义来纠正。",
+       "en": "Yoga comes from yuj, “to yoke, to join,” and originally means “harnessing, restraint, applying the mind.” In the Gita it rarely means postures; mostly it is a way of working and directing the mind. This verse gives a definition outright: samatva, “sameness,” is yoga. The plain Chinese transliterates it as 瑜伽 (yújiā), which makes Chinese readers think of fitness first; the English keeps the word yoga and lets this verse’s definition correct the impression."
       }
      ]
     },
@@ -618,7 +663,8 @@
      "cmp": [
       {
        "w": "kṛpaṇāḥ",
-       "note": "kṛpaṇa「可怜的、小气的」，和 2.7 阿周那说自己的 kārpaṇya 是同一个词根。黑天把这个词还给了那些只盯着结果的人。白话「可怜」、英文 pitiful 都看不出这层呼应。"
+       "note": "kṛpaṇa「可怜的、小气的」，和 2.7 阿周那说自己的 kārpaṇya 是同一个词根。黑天把这个词还给了那些只盯着结果的人。白话「可怜」、英文 pitiful 都看不出这层呼应。",
+       "en": "Kṛpaṇa, “pitiful, miserly,” shares its root with the kārpaṇya Arjuna used about himself in 2.7. Krishna hands the word back to those who fix their eyes on results. The plain Chinese 可怜 (kělián, “pitiful”) and the English “pitiful” both miss this echo."
       }
      ]
     },
@@ -628,7 +674,8 @@
      "cmp": [
       {
        "w": "kauśala",
-       "note": "yogaḥ karmasu kauśalam 是本书最常被引用的一句。kauśala 是「熟练、灵巧」，像工匠的手艺，不是「取巧」。英文 skill in action 很贴；白话「行动中的巧妙」，「巧妙」二字略带点机灵的意思。"
+       "note": "yogaḥ karmasu kauśalam 是本书最常被引用的一句。kauśala 是「熟练、灵巧」，像工匠的手艺，不是「取巧」。英文 skill in action 很贴；白话「行动中的巧妙」，「巧妙」二字略带点机灵的意思。",
+       "en": "Yogaḥ karmasu kauśalam is the book’s most quoted line. Kauśala means “skill, dexterity,” like a craftsman’s handiwork, not “cleverness.” The English “skill in action” fits well; the plain Chinese 行动中的巧妙 (xíngdòng zhōng de qiǎomiào, “ingeniousness in action”) uses 巧妙, which carries a slight hint of being clever."
       }
      ]
     },
@@ -642,7 +689,8 @@
      "cmp": [
       {
        "w": "nirveda",
-       "note": "「听过的和要听的」暗指经典里的说法（吠陀就叫 śruti「所听闻的」）。nirveda 是「厌倦、看淡」，指对那些仪式说法不再上心，而不是对一切都无所谓。白话「不再在意」、英文 grow weary of 都只译出一半，要连着 2.42–46 读。"
+       "note": "「听过的和要听的」暗指经典里的说法（吠陀就叫 śruti「所听闻的」）。nirveda 是「厌倦、看淡」，指对那些仪式说法不再上心，而不是对一切都无所谓。白话「不再在意」、英文 grow weary of 都只译出一半，要连着 2.42–46 读。",
+       "en": "“What you have heard and what is yet to be heard” hints at scriptural teaching (the Veda is called śruti, “what is heard”). Nirveda means “weariness, losing interest,” no longer caring about those ritual teachings, not indifference to everything. The plain Chinese 不再在意 (bú zài zàiyì, “no longer care”) and the English “grow weary of” each give only half, and the verse has to be read together with 2.42–46."
       }
      ]
     },
@@ -656,7 +704,8 @@
      "cmp": [
       {
        "w": "sthita-prajña",
-       "note": "sthita-prajña「智慧站稳了的人」，从这里一直讲到本章结尾，是一幅理想人格的画像。白话「智慧坚定的人」、英文 a person of steady wisdom 都照字面。梵文的 bhāṣā 也可以是「定义、描述」，所以阿周那其实先问「这种人怎么界定」，再问坐卧行走。"
+       "note": "sthita-prajña「智慧站稳了的人」，从这里一直讲到本章结尾，是一幅理想人格的画像。白话「智慧坚定的人」、英文 a person of steady wisdom 都照字面。梵文的 bhāṣā 也可以是「定义、描述」，所以阿周那其实先问「这种人怎么界定」，再问坐卧行走。",
+       "en": "Sthita-prajña, “one whose wisdom stands firm,” begins a portrait of the ideal person that runs to the end of the chapter. The plain Chinese 智慧坚定的人 (zhìhuì jiāndìng de rén, “person of firm wisdom”) and the English “a person of steady wisdom” are both literal. The Sanskrit bhāṣā can also mean “definition, description,” so Arjuna is really first asking how to define such a person, and then how he sits and walks."
       }
      ]
     },
@@ -666,7 +715,8 @@
      "cmp": [
       {
        "w": "ātman",
-       "note": "ātmany evātmanā tuṣṭaḥ「在自己里面、凭自己而满足」。ātman 在梵文里既是普通的反身代词「自己」，也是哲学上的「真我」。白话「单凭自己就在自身中」偏日常；英文 the self 用小写，故意同时留着两种读法，不像「真我」那样定死。"
+       "note": "ātmany evātmanā tuṣṭaḥ「在自己里面、凭自己而满足」。ātman 在梵文里既是普通的反身代词「自己」，也是哲学上的「真我」。白话「单凭自己就在自身中」偏日常；英文 the self 用小写，故意同时留着两种读法，不像「真我」那样定死。",
+       "en": "Ātmany evātmanā tuṣṭaḥ: “content in the self, by the self.” In Sanskrit ātman is both the ordinary reflexive pronoun “oneself” and the philosophical “true self.” The plain Chinese 单凭自己就在自身中 (“by oneself alone, within oneself”) leans toward the everyday sense; the English lowercase “the self” deliberately keeps both readings open, rather than fixing it as 真我 (zhēnwǒ, “the true Self”)."
       }
      ]
     },
@@ -676,7 +726,8 @@
      "cmp": [
       {
        "w": "muni",
-       "note": "muni 原义可能是「沉默者」，指苦修的圣者。白话音译「牟尼」（和「释迦牟尼」是同一个词），英文意译 sage。"
+       "note": "muni 原义可能是「沉默者」，指苦修的圣者。白话音译「牟尼」（和「释迦牟尼」是同一个词），英文意译 sage。",
+       "en": "Muni may originally mean “silent one,” an ascetic sage. The plain Chinese transliterates it as 牟尼 (móuní), the same word as in 释迦牟尼 (Shìjiā Móuní, “Shakyamuni,” the Buddha); the English translates it as “sage.”"
       }
      ]
     },
@@ -694,7 +745,8 @@
      "cmp": [
       {
        "w": "rasa",
-       "note": "rasa 是「味道、汁液」，引申为「兴致、渴望」。这一节说：不吃，东西会退去，可「馋」还在。白话「滋味（渴求）」、英文 taste 都保住了吃的比喻。"
+       "note": "rasa 是「味道、汁液」，引申为「兴致、渴望」。这一节说：不吃，东西会退去，可「馋」还在。白话「滋味（渴求）」、英文 taste 都保住了吃的比喻。",
+       "en": "Rasa means “taste, juice,” extended to “relish, craving.” This verse says that if you stop eating, the objects fall away, but the hunger for them remains. The plain Chinese 滋味（渴求） (zīwèi, “flavor,” with “craving” in brackets) and the English “taste” both keep the eating image."
       }
      ]
     },
@@ -708,7 +760,8 @@
      "cmp": [
       {
        "w": "mat-paraḥ",
-       "note": "mat-paraḥ「以我为至高」，是本书第一次要人专注于「我」。从这里起，说话的「我」既是驾车的黑天，也是神。白话「以我为最高目标」、英文 intent on me 都照字面，这份双重身份要往后读才清楚。"
+       "note": "mat-paraḥ「以我为至高」，是本书第一次要人专注于「我」。从这里起，说话的「我」既是驾车的黑天，也是神。白话「以我为最高目标」、英文 intent on me 都照字面，这份双重身份要往后读才清楚。",
+       "en": "Mat-paraḥ, “holding me as highest,” is the first time the book asks a person to focus on “me.” From here on the speaking “I” is both Krishna the charioteer and God. The plain Chinese 以我为最高目标 (“taking me as the highest goal”) and the English “intent on me” are both literal; this double identity only becomes clear further on."
       }
      ]
     },
@@ -722,7 +775,8 @@
      "cmp": [
       {
        "w": "smṛti",
-       "note": "smṛti 是「记忆」，在这里更像「记得自己是谁、该做什么」的那份清醒。白话「记忆错乱」、英文 lapse of memory 都照字面，读的时候要往「忘了本」那边想。"
+       "note": "smṛti 是「记忆」，在这里更像「记得自己是谁、该做什么」的那份清醒。白话「记忆错乱」、英文 lapse of memory 都照字面，读的时候要往「忘了本」那边想。",
+       "en": "Smṛti is “memory,” but here it is closer to the clear-headedness of remembering who you are and what you should do. The plain Chinese 记忆错乱 (jìyì cuòluàn, “memory thrown into disorder”) and the English “lapse of memory” are both literal; read them in the sense of “forgetting oneself.”"
       }
      ]
     },
@@ -732,7 +786,8 @@
      "cmp": [
       {
        "w": "prasāda",
-       "note": "prasāda 字面是「澄清」，像浑水沉淀后变清，也有「恩惠」的意思。白话「澄明安宁」很贴，英文 a clear calm 取的也是澄清这一面。"
+       "note": "prasāda 字面是「澄清」，像浑水沉淀后变清，也有「恩惠」的意思。白话「澄明安宁」很贴，英文 a clear calm 取的也是澄清这一面。",
+       "en": "Prasāda literally means “clearing,” like muddy water settling clear, and also means “grace, favor.” The plain Chinese 澄明安宁 (chéngmíng ānníng, “clear and tranquil”) fits very well, and the English “a clear calm” also takes the clearing side."
       }
      ]
     },
@@ -746,7 +801,8 @@
      "cmp": [
       {
        "w": "bhāvanā",
-       "note": "bhāvanā 是「使之成为、反复熏习」，后来佛教用它指「修」。白话「专注的观想」、英文 power of focus，各取了一面。"
+       "note": "bhāvanā 是「使之成为、反复熏习」，后来佛教用它指「修」。白话「专注的观想」、英文 power of focus，各取了一面。",
+       "en": "Bhāvanā means “bringing into being, cultivating through repetition”; later Buddhism used it for meditative “cultivation.” The plain Chinese 专注的观想 (zhuānzhù de guānxiǎng, “focused contemplation”) and the English “power of focus” each take one side of it."
       }
      ]
     },
@@ -768,7 +824,8 @@
      "cmp": [
       {
        "w": "kāma-kāmī",
-       "note": "kāma-kāmī「想要欲望的人」，梵文把同一个词叠在一起。英文 the one who desires desires 照搬了这个叠字；白话「追逐欲望的人」意思对，叠字没了。"
+       "note": "kāma-kāmī「想要欲望的人」，梵文把同一个词叠在一起。英文 the one who desires desires 照搬了这个叠字；白话「追逐欲望的人」意思对，叠字没了。",
+       "en": "Kāma-kāmī, “one who desires desires,” stacks the same word twice. The English “the one who desires desires” copies the doubling; the plain Chinese 追逐欲望的人 (zhuīzhú yùwàng de rén, “one who chases desires”) gets the meaning but loses the repetition."
       }
      ]
     },
@@ -778,7 +835,8 @@
      "cmp": [
       {
        "w": "ahaṃkāra",
-       "note": "ahaṃkāra 字面是「造出『我』的东西」，即自我意识、我执。白话「『我』的傲慢」偏道德评价，英文 without ‘I’ 照字面。nirmama「没有『我的』」两边都译成了「我的」。"
+       "note": "ahaṃkāra 字面是「造出『我』的东西」，即自我意识、我执。白话「『我』的傲慢」偏道德评价，英文 without ‘I’ 照字面。nirmama「没有『我的』」两边都译成了「我的」。",
+       "en": "Ahaṃkāra literally means “that which makes the ‘I’,” self-awareness and clinging to self. The plain Chinese 『我』的傲慢 (“the arrogance of ‘I’”) leans toward moral judgment; the English “without ‘I’” is literal. Nirmama, “without ‘mine’,” comes out as “mine” in both versions."
       }
      ]
     },
@@ -788,11 +846,13 @@
      "cmp": [
       {
        "w": "brahman",
-       "note": "brahman 英文写 Brahman，白话写「梵」，指一切背后的终极实在。这里的 brāhmī sthiti 是「梵的境界」，不是「婆罗门的境界」，虽然两个词同源。"
+       "note": "brahman 英文写 Brahman，白话写「梵」，指一切背后的终极实在。这里的 brāhmī sthiti 是「梵的境界」，不是「婆罗门的境界」，虽然两个词同源。",
+       "en": "Brahman is written Brahman in English and 梵 (Fàn) in the plain Chinese, meaning the ultimate reality behind everything. Brāhmī sthiti here is “the state of Brahman,” not “the state of a Brahmin,” although the two words are related."
       },
       {
        "w": "brahma-nirvāṇa",
-       "note": "nirvāṇa 本义是「吹灭、熄灭」，是佛教最常用的词之一。这里把「梵」和「涅槃」放在一起，白话「梵涅槃」、英文 the nirvana of Brahman 都保留原词，读者能看到 Gita 和佛教共用一套词汇。"
+       "note": "nirvāṇa 本义是「吹灭、熄灭」，是佛教最常用的词之一。这里把「梵」和「涅槃」放在一起，白话「梵涅槃」、英文 the nirvana of Brahman 都保留原词，读者能看到 Gita 和佛教共用一套词汇。",
+       "en": "Nirvāṇa originally means “blowing out, extinguishing,” and is one of Buddhism’s most common words. Here it is paired with Brahman; the plain Chinese 梵涅槃 (Fàn nièpán, “Brahman-nirvana”) and the English “the nirvana of Brahman” both keep the original word, so readers can see the Gita and Buddhism sharing a vocabulary."
       }
      ]
     }
@@ -807,7 +867,8 @@
      "cmp": [
       {
        "w": "karmaṇi ghore",
-       "note": "阿周那用的正是 karma 这个词：「可怕的行动」。黑天讲「行动」，在他听来就是「去杀人」。英文两处都用 action，保住了这层错位；白话前面译「行动」、后面译「可怕的事」，同一个词被拆开了。"
+       "note": "阿周那用的正是 karma 这个词：「可怕的行动」。黑天讲「行动」，在他听来就是「去杀人」。英文两处都用 action，保住了这层错位；白话前面译「行动」、后面译「可怕的事」，同一个词被拆开了。",
+       "en": "Arjuna uses the very word karma: “terrible action.” When Krishna speaks of “action,” Arjuna hears “go and kill.” The English uses action in both places, keeping this mismatch; the plain Chinese says 行动 (xíngdòng, “action”) first and 可怕的事 (kěpà de shì, “a terrible thing”) later, splitting one word in two."
       }
      ]
     },
@@ -821,7 +882,8 @@
      "cmp": [
       {
        "w": "niṣṭhā",
-       "note": "niṣṭhā「立足点、站稳的地方」。白话译「修行之道」，英文 ways of standing firm 贴着字面。purā proktā「从前说过」可以指刚才第二章说过，也可以指「自古就说过」，白话和英文都留着两可。"
+       "note": "niṣṭhā「立足点、站稳的地方」。白话译「修行之道」，英文 ways of standing firm 贴着字面。purā proktā「从前说过」可以指刚才第二章说过，也可以指「自古就说过」，白话和英文都留着两可。",
+       "en": "Niṣṭhā means “footing, a place to stand firm.” The plain Chinese says 修行之道 (xiūxíng zhī dào, “path of spiritual practice”); the English “ways of standing firm” stays close to the words. Purā proktā, “said before,” could mean said just now in chapter 2, or “said since ancient times”; both translations leave it open."
       }
      ]
     },
@@ -831,7 +893,8 @@
      "cmp": [
       {
        "w": "naiṣkarmya",
-       "note": "naiṣkarmya「无业、无为」：不是什么都不做，而是做事却不再被行动捆住。白话译「无为」，中文读者会想到老庄，两者有相通处，但这里的重点是「不受束缚」。英文 freedom from action 也容易被读成「不做事」，要看下文才明白。"
+       "note": "naiṣkarmya「无业、无为」：不是什么都不做，而是做事却不再被行动捆住。白话译「无为」，中文读者会想到老庄，两者有相通处，但这里的重点是「不受束缚」。英文 freedom from action 也容易被读成「不做事」，要看下文才明白。",
+       "en": "Naiṣkarmya, “actionlessness, non-doing,” does not mean doing nothing, but acting without being bound by action anymore. The plain Chinese 无为 (wúwéi, “non-action”) makes Chinese readers think of Laozi and Zhuangzi; there is some overlap, but the point here is “not being bound.” The English “freedom from action” can also be misread as “not doing anything,” and only the following lines make it clear."
       }
      ]
     },
@@ -841,7 +904,8 @@
      "cmp": [
       {
        "w": "prakṛti",
-       "note": "prakṛti 本义是「最初做出来的东西」，在数论里指一切物质和心理活动的根源，和纯粹意识（puruṣa）相对。白话译「原质」，太生僻；英文 nature 又太日常，读者会想到大自然。这一节的意思是：身心本身就一直在动，人停不下来。"
+       "note": "prakṛti 本义是「最初做出来的东西」，在数论里指一切物质和心理活动的根源，和纯粹意识（puruṣa）相对。白话译「原质」，太生僻；英文 nature 又太日常，读者会想到大自然。这一节的意思是：身心本身就一直在动，人停不下来。",
+       "en": "Prakṛti originally means “what is made first”; in Sankhya it is the source of all material and mental activity, set against pure consciousness (puruṣa). The plain Chinese 原质 (yuánzhì, “primal matter”) is too obscure, and the English “nature” too everyday, suggesting the natural world. The verse means that body and mind are always in motion by themselves; a person cannot stop."
       }
      ]
     },
@@ -859,11 +923,13 @@
      "cmp": [
       {
        "w": "niyataṃ karma",
-       "note": "niyataṃ karma「规定好的行动」，可以指每天该做的祭祀仪式，也可以泛指「分内的事」。白话「分内该做的事」、英文 the action that is yours to do 都取了较宽的读法。"
+       "note": "niyataṃ karma「规定好的行动」，可以指每天该做的祭祀仪式，也可以泛指「分内的事」。白话「分内该做的事」、英文 the action that is yours to do 都取了较宽的读法。",
+       "en": "Niyataṃ karma, “prescribed action,” can mean the daily ritual sacrifices or, more broadly, “one’s proper work.” The plain Chinese 分内该做的事 (fènnèi gāi zuò de shì, “what is yours to do”) and the English “the action that is yours to do” both take the broader reading."
       },
       {
        "w": "śarīra-yātrā",
-       "note": "śarīra-yātrā「身体的旅程」：把维持生命说成走一趟路。白话「维持身体的生活」、英文 keep your body going 都把这个比喻化掉了。"
+       "note": "śarīra-yātrā「身体的旅程」：把维持生命说成走一趟路。白话「维持身体的生活」、英文 keep your body going 都把这个比喻化掉了。",
+       "en": "Śarīra-yātrā, “the body’s journey,” describes staying alive as making a trip. The plain Chinese 维持身体的生活 (“maintaining the body’s life”) and the English “keep your body going” both dissolve the metaphor."
       }
      ]
     },
@@ -873,7 +939,8 @@
      "cmp": [
       {
        "w": "yajña",
-       "note": "yajña 本义是向火中献供的吠陀祭祀。Gita 把它扩大：凡是不为自己、为整体而做的事，都可以算 yajña。白话「祭祀」照本义；英文 sacrifice 今天多指「牺牲」，有点偏，但比 ritual 更装得下这层扩大的意思。"
+       "note": "yajña 本义是向火中献供的吠陀祭祀。Gita 把它扩大：凡是不为自己、为整体而做的事，都可以算 yajña。白话「祭祀」照本义；英文 sacrifice 今天多指「牺牲」，有点偏，但比 ritual 更装得下这层扩大的意思。",
+       "en": "Yajña originally means the Vedic sacrifice of offerings into fire. The Gita widens it: anything done not for oneself but for the whole can count as yajña. The plain Chinese 祭祀 (jìsì, “ritual sacrifice”) keeps the original sense; the English “sacrifice” today mostly means “giving something up,” which is a bit off, but it holds this widened meaning better than “ritual” would."
       }
      ]
     },
@@ -903,7 +970,8 @@
      "cmp": [
       {
        "w": "brahman",
-       "note": "这一节的 brahman 有两种读法：「吠陀」（神圣的言语），或「梵」（终极实在）。白话和英文都在第一个 brahman 后注了「吠陀」；第二个「遍及一切的梵」却更像终极实在。同一个词在同一节里两用。"
+       "note": "这一节的 brahman 有两种读法：「吠陀」（神圣的言语），或「梵」（终极实在）。白话和英文都在第一个 brahman 后注了「吠陀」；第二个「遍及一切的梵」却更像终极实在。同一个词在同一节里两用。",
+       "en": "Brahman in this verse can be read two ways: “the Veda” (sacred speech) or “Brahman” (ultimate reality). Both the plain Chinese and the English add “the Veda” after the first brahman; but the second, “the all-pervading Brahman,” looks more like ultimate reality. One word is used two ways in one verse."
       }
      ]
     },
@@ -929,7 +997,8 @@
      "cmp": [
       {
        "w": "loka-saṃgraha",
-       "note": "loka-saṃgraha 字面是「把世界拢在一起」，即维持社会秩序、给众人做榜样。白话「维系世间」、英文 the holding together of the world 都照字面；这是第三章的关键词，下文 25 节还会再出现。"
+       "note": "loka-saṃgraha 字面是「把世界拢在一起」，即维持社会秩序、给众人做榜样。白话「维系世间」、英文 the holding together of the world 都照字面；这是第三章的关键词，下文 25 节还会再出现。",
+       "en": "Loka-saṃgraha literally means “gathering the world together,” keeping society in order and setting an example for others. The plain Chinese 维系世间 (wéixì shìjiān, “holding the world together”) and the English “the holding together of the world” are both literal; it is a key word of chapter 3 and comes back in verse 25."
       }
      ]
     },
@@ -951,7 +1020,8 @@
      "cmp": [
       {
        "w": "saṃkara",
-       "note": "saṃkara「混乱、混杂」，正是第一章阿周那担心的 varṇa-saṃkara「种姓混杂」那个词。黑天把它反过来用：不行动才会造成混乱。白话「混乱」、英文 confusion 都看不出这层和第一章的呼应。"
+       "note": "saṃkara「混乱、混杂」，正是第一章阿周那担心的 varṇa-saṃkara「种姓混杂」那个词。黑天把它反过来用：不行动才会造成混乱。白话「混乱」、英文 confusion 都看不出这层和第一章的呼应。",
+       "en": "Saṃkara, “confusion, mixing,” is the very word in the varṇa-saṃkara (“mixing of the classes”) that Arjuna feared in chapter 1. Krishna turns it around: it is not acting that would cause confusion. The plain Chinese 混乱 (hùnluàn, “chaos”) and the English “confusion” both hide this echo of chapter 1."
       }
      ]
     },
@@ -973,7 +1043,8 @@
      "cmp": [
       {
        "w": "guṇā guṇeṣu vartante",
-       "note": "「诸德在诸德中运转」：感官由三德构成，对象也由三德构成，感官碰上对象，是物质碰物质，与真我无关。白话、英文都照字面，这句要靠前一节的数论背景才看得懂。"
+       "note": "「诸德在诸德中运转」：感官由三德构成，对象也由三德构成，感官碰上对象，是物质碰物质，与真我无关。白话、英文都照字面，这句要靠前一节的数论背景才看得懂。",
+       "en": "“Qualities acting on qualities”: the senses are made of the three guṇas and so are their objects, so when senses meet objects it is matter meeting matter, with nothing to do with the true self. The plain Chinese and the English are both literal, and the line only makes sense with the Sankhya background of the previous verse."
       }
      ]
     },
@@ -987,7 +1058,8 @@
      "cmp": [
       {
        "w": "vigata-jvara",
-       "note": "vigata-jvara「烧退了」：jvara 是「发烧」，用来比喻焦虑、心里的灼热。白话「摆脱焦虑」把比喻化掉了，英文 with your fever gone 保留了。"
+       "note": "vigata-jvara「烧退了」：jvara 是「发烧」，用来比喻焦虑、心里的灼热。白话「摆脱焦虑」把比喻化掉了，英文 with your fever gone 保留了。",
+       "en": "Vigata-jvara, “the fever gone”: jvara means “fever,” a metaphor for anxiety and inner burning. The plain Chinese 摆脱焦虑 (bǎituō jiāolǜ, “free of anxiety”) dissolves the metaphor; the English “with your fever gone” keeps it."
       }
      ]
     },
@@ -1013,11 +1085,13 @@
      "cmp": [
       {
        "w": "viguṇa",
-       "note": "viguṇa「缺了 guṇa 的」，在这里是「做得不完美」，和前文的 guṇa（三德）是同一个词。英文 done poorly、白话「做得不完美」都看不出这个字面上的联系。"
+       "note": "viguṇa「缺了 guṇa 的」，在这里是「做得不完美」，和前文的 guṇa（三德）是同一个词。英文 done poorly、白话「做得不完美」都看不出这个字面上的联系。",
+       "en": "Viguṇa, “lacking guṇa,” here means “done imperfectly,” and it is the same word as the guṇa (the three qualities) earlier. Neither the English “done poorly” nor the plain Chinese 做得不完美 (zuò de bù wánměi, “done imperfectly”) shows this literal link."
       },
       {
        "w": "sva-dharma / para-dharma",
-       "note": "这一节今天常被引来说「做你自己」，但在原文里是说按自己的阶层、身份尽该尽的职责，对阿周那来说就是去打仗。英文 your own dharma (duty)、白话「自己的职责」都照字面，不往心灵鸡汤那边引。"
+       "note": "这一节今天常被引来说「做你自己」，但在原文里是说按自己的阶层、身份尽该尽的职责，对阿周那来说就是去打仗。英文 your own dharma (duty)、白话「自己的职责」都照字面，不往心灵鸡汤那边引。",
+       "en": "This verse is often quoted today to mean “be yourself,” but in the original it means doing the duty that belongs to your own class and station, which for Arjuna means going to fight. The English “your own dharma (duty)” and the plain Chinese 自己的职责 (zìjǐ de zhízé, “one’s own duty”) are both literal and don’t steer it toward self-help slogans."
       }
      ]
     },
@@ -1031,7 +1105,8 @@
      "cmp": [
       {
        "w": "kāma eṣa krodha eṣa",
-       "note": "kāma 包括一切想要：欲望、贪爱、情欲。黑天说「它是欲望，它是愤怒」，用的是单数的「它」：两者被当成同一个东西的两张脸。英文 It is desire, it is anger 保留了单数；白话译成「它们」，变成了两样东西。"
+       "note": "kāma 包括一切想要：欲望、贪爱、情欲。黑天说「它是欲望，它是愤怒」，用的是单数的「它」：两者被当成同一个东西的两张脸。英文 It is desire, it is anger 保留了单数；白话译成「它们」，变成了两样东西。",
+       "en": "Kāma covers every kind of wanting: desire, greed, lust. Krishna says “it is desire, it is anger” with a singular “it”: the two are treated as two faces of one thing. The English “It is desire, it is anger” keeps the singular; the plain Chinese turns it into 它们 (tāmen, “they”), making them two things."
       }
      ]
     },
@@ -1041,7 +1116,8 @@
      "cmp": [
       {
        "w": "idam",
-       "note": "tathā tenedam āvṛtam「这个就这样被它遮住了」，「这个」指什么，梵文没说。白话补成「（知识）」，因为下一节讲的是知识；英文照字面写 all this，让读者也可以理解成整个世界。"
+       "note": "tathā tenedam āvṛtam「这个就这样被它遮住了」，「这个」指什么，梵文没说。白话补成「（知识）」，因为下一节讲的是知识；英文照字面写 all this，让读者也可以理解成整个世界。",
+       "en": "Tathā tenedam āvṛtam, “so this is covered by it”: the Sanskrit doesn’t say what “this” is. The plain Chinese adds 知识 (zhīshi, “knowledge”) in brackets, because the next verse is about knowledge; the English literally says “all this,” leaving readers free to take it as the whole world."
       }
      ]
     },
@@ -1055,7 +1131,8 @@
      "cmp": [
       {
        "w": "indriya / manas / buddhi",
-       "note": "这里排出三层：indriya（感官）、manas（心意）、buddhi（理解）。manas 是接收、比较感官信息的「心」，buddhi 是做判断的那一层。白话「心意」「理智」，英文 mind 和 understanding；42 节还会给它们排高下。"
+       "note": "这里排出三层：indriya（感官）、manas（心意）、buddhi（理解）。manas 是接收、比较感官信息的「心」，buddhi 是做判断的那一层。白话「心意」「理智」，英文 mind 和 understanding；42 节还会给它们排高下。",
+       "en": "Three layers are set out here: indriya (senses), manas (mind), buddhi (understanding). Manas is the “mind” that receives and compares sense data; buddhi is the layer that judges. The plain Chinese says 心意 (xīnyì, “mind”) and 理智 (lǐzhì, “reason”), the English “mind” and “understanding”; verse 42 will rank them."
       }
      ]
     },
@@ -1069,7 +1146,8 @@
      "cmp": [
       {
        "w": "saḥ",
-       "note": "saḥ「他、那一位」，梵文只用一个代词，没有说是谁。白话补成「（真我）」，英文照原样只写 that one，保留这份含蓄；按上下文，指的是 ātman。"
+       "note": "saḥ「他、那一位」，梵文只用一个代词，没有说是谁。白话补成「（真我）」，英文照原样只写 that one，保留这份含蓄；按上下文，指的是 ātman。",
+       "en": "Saḥ, “he, that one”: the Sanskrit uses only a pronoun and doesn’t say who. The plain Chinese adds 真我 (zhēnwǒ, “the true Self”) in brackets; the English keeps just “that one,” preserving the reticence. From context it refers to the ātman."
       }
      ]
     },
@@ -1092,7 +1170,8 @@
      "cmp": [
       {
        "w": "rājarṣi",
-       "note": "rājarṣi「王仙」：既是国王又是圣者的人。这一章强调这套学问原本在王族武士之间传承，不只是婆罗门祭司的事。白话「王仙」、英文 royal sages 都照字面。"
+       "note": "rājarṣi「王仙」：既是国王又是圣者的人。这一章强调这套学问原本在王族武士之间传承，不只是婆罗门祭司的事。白话「王仙」、英文 royal sages 都照字面。",
+       "en": "Rājarṣi, “royal sage,” is someone who is both a king and a sage. This chapter stresses that the teaching was originally handed down among royal warriors, not only among Brahmin priests. The plain Chinese 王仙 (wángxiān, “king-sage”) and the English “royal sages” are both literal."
       }
      ]
     },
@@ -1102,7 +1181,8 @@
      "cmp": [
       {
        "w": "bhakta",
-       "note": "bhakta「爱戴者、归属者」，来自 bhaj「分享、归属」，和后文 bhakti「虔爱」同根。白话「信徒」带着宗教团体的味道，英文 devoted to me 更接近「心系于我」。黑天还加了一句 sakhā「朋友」：师生之外，还是朋友。"
+       "note": "bhakta「爱戴者、归属者」，来自 bhaj「分享、归属」，和后文 bhakti「虔爱」同根。白话「信徒」带着宗教团体的味道，英文 devoted to me 更接近「心系于我」。黑天还加了一句 sakhā「朋友」：师生之外，还是朋友。",
+       "en": "Bhakta, “one who loves, one who belongs,” comes from bhaj, “to share, to belong,” the same root as bhakti, “devotion,” later on. The plain Chinese 信徒 (xìntú, “believer, follower”) suggests membership in a religious group; the English “devoted to me” is closer to “whose heart is with me.” Krishna also adds sakhā, “friend”: beyond teacher and student, they are friends."
       }
      ]
     },
@@ -1120,7 +1200,8 @@
      "cmp": [
       {
        "w": "ātma-māyā",
-       "note": "māyā 在后来的吠檀多哲学里是「幻象」，但在 Gita 这里更接近「神奇的能力、变化之力」。白话「幻力」偏「幻」的一面，英文 creative power 偏「能力」的一面，所以括注保留 maya 原词。"
+       "note": "māyā 在后来的吠檀多哲学里是「幻象」，但在 Gita 这里更接近「神奇的能力、变化之力」。白话「幻力」偏「幻」的一面，英文 creative power 偏「能力」的一面，所以括注保留 maya 原词。",
+       "en": "In later Vedanta philosophy māyā means “illusion,” but in the Gita it is closer to “wondrous power, the power of transformation.” The plain Chinese 幻力 (huànlì, “illusion-power”) leans toward the illusion side, the English “creative power” toward the power side, so the original word maya is kept in brackets."
       }
      ]
     },
@@ -1130,7 +1211,8 @@
      "cmp": [
       {
        "w": "ātmānaṃ sṛjāmi",
-       "note": "ātmānaṃ sṛjāmi「我放出自己、造出自己」。梵文没有用「出生」这个词。白话「让自己降生」，英文 I send myself forth 更贴字面。后世据此讲「化身」（avatāra），但 avatāra 这个词在 Gita 里并没有出现。"
+       "note": "ātmānaṃ sṛjāmi「我放出自己、造出自己」。梵文没有用「出生」这个词。白话「让自己降生」，英文 I send myself forth 更贴字面。后世据此讲「化身」（avatāra），但 avatāra 这个词在 Gita 里并没有出现。",
+       "en": "Ātmānaṃ sṛjāmi, “I send myself forth, I create myself”: the Sanskrit does not use a word for “birth.” The plain Chinese says 让自己降生 (ràng zìjǐ jiàngshēng, “let myself be born”); the English “I send myself forth” is closer to the words. Later tradition built the idea of incarnation (avatāra) on this, but the word avatāra never appears in the Gita."
       }
      ]
     },
@@ -1140,7 +1222,8 @@
      "cmp": [
       {
        "w": "yuge yuge",
-       "note": "yuga 是印度宇宙论里的「世代」，一个动辄长达几十万年。白话「一个时代又一个时代」、英文 age after age 都没法传出这个尺度。"
+       "note": "yuga 是印度宇宙论里的「世代」，一个动辄长达几十万年。白话「一个时代又一个时代」、英文 age after age 都没法传出这个尺度。",
+       "en": "A yuga is an “age” in Indian cosmology, each one lasting hundreds of thousands of years. Neither the plain Chinese 一个时代又一个时代 (“era after era”) nor the English “age after age” can convey that scale."
       }
      ]
     },
@@ -1154,7 +1237,8 @@
      "cmp": [
       {
        "w": "tapas",
-       "note": "tapas 本义是「热」，引申为苦行：用克制自己生出的「热力」。白话「苦行」、英文 austerity 都只剩下吃苦这一面，「热」的意象没了。「知识的苦行」是说，求知本身就是一种修炼。"
+       "note": "tapas 本义是「热」，引申为苦行：用克制自己生出的「热力」。白话「苦行」、英文 austerity 都只剩下吃苦这一面，「热」的意象没了。「知识的苦行」是说，求知本身就是一种修炼。",
+       "en": "Tapas originally means “heat,” extended to austerity: the “heat” generated by self-restraint. The plain Chinese 苦行 (kǔxíng, “ascetic practice,” literally “bitter practice”) and the English “austerity” keep only the hardship and lose the image of heat. “The austerity of knowledge” means that seeking knowledge is itself a form of training."
       }
      ]
     },
@@ -1164,11 +1248,13 @@
      "cmp": [
       {
        "w": "bhajāmi",
-       "note": "bhajāmi 来自 bhaj，可以是「分给、回报」，也可以是「敬爱」，是 bhakti「虔爱」的词根。白话「回应」、英文 I meet them 都取了中性的读法，爱的那一层要读者自己体会。"
+       "note": "bhajāmi 来自 bhaj，可以是「分给、回报」，也可以是「敬爱」，是 bhakti「虔爱」的词根。白话「回应」、英文 I meet them 都取了中性的读法，爱的那一层要读者自己体会。",
+       "en": "Bhajāmi comes from bhaj, which can mean “to share out, to repay” or “to love”; it is the root of bhakti, “devotion.” The plain Chinese 回应 (huíyìng, “respond”) and the English “I meet them” both take the neutral reading, leaving readers to sense the layer of love."
       },
       {
        "w": "mama vartmānuvartante",
-       "note": "「人们走我的路」这半句在 3.23 一字不差出现过：那里是「人们会学我（不行动）」，是坏榜样；这里却是「无论怎么走，都在我的路上」。同一句话放在两处，意思不同，白话和英文都照各自上下文译。"
+       "note": "「人们走我的路」这半句在 3.23 一字不差出现过：那里是「人们会学我（不行动）」，是坏榜样；这里却是「无论怎么走，都在我的路上」。同一句话放在两处，意思不同，白话和英文都照各自上下文译。",
+       "en": "The half-line “people follow my path” appeared word for word in 3.23: there it meant “people would copy me (in not acting),” a bad example; here it means “however they go, they are on my path.” The same sentence means different things in the two places, and both the plain Chinese and the English translate each according to its context."
       }
      ]
     },
@@ -1182,7 +1268,8 @@
      "cmp": [
       {
        "w": "cātur-varṇya",
-       "note": "这一节说四个等级是按 guṇa（性质）和 karma（行动）划分的，没有提出身。后世有人据此说种姓本来不看血统，也有人反对。白话「四种姓」、英文 the four classes (varnas) 都只照字面译，不选边。"
+       "note": "这一节说四个等级是按 guṇa（性质）和 karma（行动）划分的，没有提出身。后世有人据此说种姓本来不看血统，也有人反对。白话「四种姓」、英文 the four classes (varnas) 都只照字面译，不选边。",
+       "en": "This verse says the four classes are divided by guṇa (quality) and karma (action), with no mention of birth. Some later readers have argued from it that class was never about bloodline; others disagree. The plain Chinese 四种姓 (sì zhǒngxìng, “four castes”) and the English “the four classes (varnas)” both translate literally and don’t take sides."
       }
      ]
     },
@@ -1200,7 +1287,8 @@
      "cmp": [
       {
        "w": "kavayaḥ",
-       "note": "kavi 本义是「诗人、先知」。在吠陀时代，诗人就是智者。白话「贤哲」、英文 the wise 都只取了「智」的一面，「诗人」的意思没了。"
+       "note": "kavi 本义是「诗人、先知」。在吠陀时代，诗人就是智者。白话「贤哲」、英文 the wise 都只取了「智」的一面，「诗人」的意思没了。",
+       "en": "Kavi originally means “poet, seer”; in the Vedic age, poets were the wise. The plain Chinese 贤哲 (xiánzhé, “sages”) and the English “the wise” keep only the wisdom and lose the poet."
       }
      ]
     },
@@ -1210,7 +1298,8 @@
      "cmp": [
       {
        "w": "vikarma",
-       "note": "vikarma 有两种读法：「错误的、被禁止的行动」，或「各种各样的行动」。白话和英文都取了「错误的行动」。gahanā「深」也带着「像密林一样难走」的意思。"
+       "note": "vikarma 有两种读法：「错误的、被禁止的行动」，或「各种各样的行动」。白话和英文都取了「错误的行动」。gahanā「深」也带着「像密林一样难走」的意思。",
+       "en": "Vikarma can be read two ways: “wrong, forbidden action,” or “various kinds of action.” The plain Chinese and the English both take “wrong action.” Gahanā, “deep,” also suggests something as hard to get through as a thicket."
       }
      ]
     },
@@ -1220,7 +1309,8 @@
      "cmp": [
       {
        "w": "yuktaḥ",
-       "note": "yukta「套上了的、有约束的」，和 yoga 同根。白话「心系瑜伽」把 yoga 点了出来，英文 disciplined 取的是「约束」一面。kṛtsna-karma-kṛt 可以是「做尽一切事的人」，也可以是「把事做完整的人」。"
+       "note": "yukta「套上了的、有约束的」，和 yoga 同根。白话「心系瑜伽」把 yoga 点了出来，英文 disciplined 取的是「约束」一面。kṛtsna-karma-kṛt 可以是「做尽一切事的人」，也可以是「把事做完整的人」。",
+       "en": "Yukta, “yoked, restrained,” shares its root with yoga. The plain Chinese 心系瑜伽 (xīn xì yújiā, “heart bound to yoga”) brings out the yoga; the English “disciplined” takes the restraint side. Kṛtsna-karma-kṛt can be “one who does all work” or “one who does work completely.”"
       }
      ]
     },
@@ -1230,7 +1320,8 @@
      "cmp": [
       {
        "w": "saṃkalpa",
-       "note": "saṃkalpa 是「起念、立意」，本身中性。白话「私心算计」、英文 self-serving intent 都加重了负面色彩，因为这里跟 kāma（欲望）连在一起说。"
+       "note": "saṃkalpa 是「起念、立意」，本身中性。白话「私心算计」、英文 self-serving intent 都加重了负面色彩，因为这里跟 kāma（欲望）连在一起说。",
+       "en": "Saṃkalpa means “forming an intention, resolving,” and is neutral in itself. The plain Chinese 私心算计 (sīxīn suànjì, “selfish scheming”) and the English “self-serving intent” both make it more negative, because here it is paired with kāma (desire)."
       }
      ]
     },
@@ -1244,7 +1335,8 @@
      "cmp": [
       {
        "w": "śārīraṃ kevalaṃ karma",
-       "note": "可以读成「只做维持身体的事」，也可以读成「只是身体在做，心不在其中」。白话和英文都取了前一种。"
+       "note": "可以读成「只做维持身体的事」，也可以读成「只是身体在做，心不在其中」。白话和英文都取了前一种。",
+       "en": "This can be read as “doing only what keeps the body alive,” or as “only the body acts, the mind is not in it.” The plain Chinese and the English both take the first reading."
       }
      ]
     },
@@ -1262,7 +1354,8 @@
      "cmp": [
       {
        "w": "arpaṇa",
-       "note": "arpaṇa 可以是「献供这件事」，也可以是「献供用的勺子」。白话取了「勺子」，英文取了 the act of offering。这一节今天在印度常被当作饭前祷文念。"
+       "note": "arpaṇa 可以是「献供这件事」，也可以是「献供用的勺子」。白话取了「勺子」，英文取了 the act of offering。这一节今天在印度常被当作饭前祷文念。",
+       "en": "Arpaṇa can mean “the act of offering” or “the ladle used for offering.” The plain Chinese takes the ladle, 勺子 (sháozi, “ladle”); the English takes “the act of offering.” In India today this verse is often recited as a grace before meals."
       }
      ]
     },
@@ -1288,7 +1381,8 @@
      "cmp": [
       {
        "w": "prāṇa / apāna",
-       "note": "prāṇa 和 apāna 哪个是吸气、哪个是呼气，古注就有分歧。白话写「把呼气投入吸气」，英文写 the in-breath into the out-breath，两者正好相反，都是有根据的读法。"
+       "note": "prāṇa 和 apāna 哪个是吸气、哪个是呼气，古注就有分歧。白话写「把呼气投入吸气」，英文写 the in-breath into the out-breath，两者正好相反，都是有根据的读法。",
+       "en": "Which of prāṇa and apāna is the in-breath and which the out-breath was already disputed by the old commentators. The plain Chinese says 把呼气投入吸气 (“offer the out-breath into the in-breath”), the English “the in-breath into the out-breath,” exactly opposite, and both readings have support."
       }
      ]
     },
@@ -1302,7 +1396,8 @@
      "cmp": [
       {
        "w": "amṛta",
-       "note": "amṛta 字面是「不死」，即甘露、长生不死之药。白话「甘露」、英文 nectar 都译出了东西，「不死」这层就没了。"
+       "note": "amṛta 字面是「不死」，即甘露、长生不死之药。白话「甘露」、英文 nectar 都译出了东西，「不死」这层就没了。",
+       "en": "Amṛta literally means “deathless,” the nectar or elixir of immortality. The plain Chinese 甘露 (gānlù, “sweet dew”) and the English “nectar” name the substance but lose the “deathless” layer."
       }
      ]
     },
@@ -1312,7 +1407,8 @@
      "cmp": [
       {
        "w": "brahmaṇo mukhe",
-       "note": "「在 brahman 的口中」：可以是「在吠陀里讲到」，也可以是「献进 brahman（作为祭火）的嘴里」。白话注成「吠陀」，英文照字面 the mouth of Brahman，让两种读法都留着。"
+       "note": "「在 brahman 的口中」：可以是「在吠陀里讲到」，也可以是「献进 brahman（作为祭火）的嘴里」。白话注成「吠陀」，英文照字面 the mouth of Brahman，让两种读法都留着。",
+       "en": "“In the mouth of brahman” can mean “spoken of in the Veda,” or “offered into the mouth of Brahman (as the sacrificial fire).” The plain Chinese adds 吠陀 (Fèituó, “the Veda”) as a gloss; the English literally says “the mouth of Brahman,” keeping both readings open."
       }
      ]
     },
@@ -1330,7 +1426,8 @@
      "cmp": [
       {
        "w": "ātmany atho mayi",
-       "note": "「在自己之中，然后在我之中」：atho 是「然后、而且」。白话「也在我之中」，英文 and then in me。读者自然会问：「自己」和「我（黑天）」是什么关系？梵文在这里没有回答。"
+       "note": "「在自己之中，然后在我之中」：atho 是「然后、而且」。白话「也在我之中」，英文 and then in me。读者自然会问：「自己」和「我（黑天）」是什么关系？梵文在这里没有回答。",
+       "en": "“In the self, and then in me”: atho means “then, and also.” The plain Chinese says 也在我之中 (“also in me”), the English “and then in me.” Readers will naturally ask how the “self” relates to “me” (Krishna); the Sanskrit gives no answer here."
       }
      ]
     },
@@ -1344,7 +1441,8 @@
      "cmp": [
       {
        "w": "karma",
-       "note": "白话在这里写「行动（业）」：被烧掉的不是做事本身，而是行动留下的后果。英文本书一直写 action，这一节读者要自己体会成「行动的后果」。这正是 karma 一词从「行动」滑向「业」的地方。"
+       "note": "白话在这里写「行动（业）」：被烧掉的不是做事本身，而是行动留下的后果。英文本书一直写 action，这一节读者要自己体会成「行动的后果」。这正是 karma 一词从「行动」滑向「业」的地方。",
+       "en": "Here the plain Chinese writes 行动（业） (xíngdòng, “action,” with 业 yè, the Buddhist word for karma as moral consequence): what is burned up is not doing itself but the consequences action leaves behind. The English keeps “action” throughout, so readers must take it here as “the results of action.” This is exactly where karma slides from “action” to “karmic consequence.”"
       }
      ]
     },
@@ -1358,7 +1456,8 @@
      "cmp": [
       {
        "w": "śraddhā",
-       "note": "śraddhā 常译「信心」，但它不是盲信，更像「把心放上去、认真对待」。白话「信心」比较中性，英文 faith 宗教味更重。"
+       "note": "śraddhā 常译「信心」，但它不是盲信，更像「把心放上去、认真对待」。白话「信心」比较中性，英文 faith 宗教味更重。",
+       "en": "Śraddhā is often translated “faith,” but it isn’t blind belief; it is more like “putting your heart into something, taking it seriously.” The plain Chinese 信心 (xìnxīn, “confidence, trust”) is fairly neutral; the English “faith” is more religious."
       }
      ]
     },
@@ -1376,7 +1475,8 @@
      "cmp": [
       {
        "w": "ātiṣṭha uttiṣṭha",
-       "note": "「立足于……站起来」：两个词只差一个前缀，梵文是一组响亮的回声。英文 Stand firm… Stand up 保留了「站」的重复；白话「安住……站起来吧」只剩意思。第二章开头黑天也是喊「站起来」（uttiṣṭha），这一章就用同一个词收尾。"
+       "note": "「立足于……站起来」：两个词只差一个前缀，梵文是一组响亮的回声。英文 Stand firm… Stand up 保留了「站」的重复；白话「安住……站起来吧」只剩意思。第二章开头黑天也是喊「站起来」（uttiṣṭha），这一章就用同一个词收尾。",
+       "en": "“Stand firm in… stand up”: the two words differ only by a prefix, a ringing echo in the Sanskrit. The English “Stand firm… Stand up” keeps the repeated “stand”; the plain Chinese 安住……站起来吧 (ānzhù… zhàn qǐlái ba, “abide… stand up!”) keeps only the meaning. At the start of chapter 2 Krishna also cried “stand up” (uttiṣṭha), and this chapter closes on the same word."
       }
      ]
     }
@@ -1391,7 +1491,8 @@
      "cmp": [
       {
        "w": "yoga",
-       "note": "yoga 来自词根 yuj，本义是「给牛套上轭」，引申为「连起来、驾驭住」。这一章里它指一种做事的方式：带着正确的心态去行动，和 saṃnyāsa（放下、不做）对着讲。英文保留 yoga 不译，白话在括号里补成「行动瑜伽」；读者要知道，这里说的不是体式练习。"
+       "note": "yoga 来自词根 yuj，本义是「给牛套上轭」，引申为「连起来、驾驭住」。这一章里它指一种做事的方式：带着正确的心态去行动，和 saṃnyāsa（放下、不做）对着讲。英文保留 yoga 不译，白话在括号里补成「行动瑜伽」；读者要知道，这里说的不是体式练习。",
+       "en": "Yoga comes from the root yuj, originally “to yoke an ox,” extended to “link up, keep under control.” In this chapter it means a way of working: acting with the right attitude, set against saṃnyāsa (letting go, not acting). The English keeps yoga untranslated; the plain Chinese adds 行动瑜伽 (xíngdòng yújiā, “the yoga of action”) in brackets. Readers should know this is not about postures."
       }
      ]
     },
@@ -1401,7 +1502,8 @@
      "cmp": [
       {
        "w": "karma",
-       "note": "karma 最朴素的意思就是「做、做事」。中文读者容易联想到佛教的「业」，英文读者容易想到「因果报应」。本站英文一律写 action，白话写「行动」，把这个词拉回它的本义。"
+       "note": "karma 最朴素的意思就是「做、做事」。中文读者容易联想到佛教的「业」，英文读者容易想到「因果报应」。本站英文一律写 action，白话写「行动」，把这个词拉回它的本义。",
+       "en": "In its plainest sense karma just means “doing, doing things.” Chinese readers easily think of the Buddhist 业 (yè, karma as moral consequence), and English readers of “cause and effect, payback.” The site’s English always writes “action” and the plain Chinese 行动 (xíngdòng, “action”), pulling the word back to its basic meaning."
       }
      ]
     },
@@ -1411,7 +1513,8 @@
      "cmp": [
       {
        "w": "nirdvandva",
-       "note": "dvandva 字面是「成对的东西」：冷和热、苦和乐、得和失。英文 pairs of opposites 照字面；白话「对立两端」意思一样。有趣的是，梵语语法里「并列复合词」也叫 dvandva，一个词同时是哲学术语和语法术语。"
+       "note": "dvandva 字面是「成对的东西」：冷和热、苦和乐、得和失。英文 pairs of opposites 照字面；白话「对立两端」意思一样。有趣的是，梵语语法里「并列复合词」也叫 dvandva，一个词同时是哲学术语和语法术语。",
+       "en": "Dvandva literally means “things in pairs”: cold and heat, pain and pleasure, gain and loss. The English “pairs of opposites” is literal, and the plain Chinese 对立两端 (duìlì liǎng duān, “the two opposing ends”) means the same. Interestingly, in Sanskrit grammar a coordinating compound is also called a dvandva, so the word is both a philosophical and a grammatical term."
       }
      ]
     },
@@ -1421,7 +1524,8 @@
      "cmp": [
       {
        "w": "sāṃkhya",
-       "note": "白话「数论」是后来成形的一个哲学派别的名字。但在《薄伽梵歌》里，sāṃkhya 更像「靠辨析、靠知识的那条路」，和「靠行动的那条路」（yoga）相对。英文保留 Sankhya 原名，读者别急着把它等同于成熟的数论学派。"
+       "note": "白话「数论」是后来成形的一个哲学派别的名字。但在《薄伽梵歌》里，sāṃkhya 更像「靠辨析、靠知识的那条路」，和「靠行动的那条路」（yoga）相对。英文保留 Sankhya 原名，读者别急着把它等同于成熟的数论学派。",
+       "en": "The plain Chinese 数论 (Shùlùn, “Sankhya”) is the name of a philosophical school that took shape later. But in the Bhagavad Gita, sāṃkhya is more like “the path of discernment and knowledge,” set against “the path of action” (yoga). The English keeps the name Sankhya; readers shouldn’t rush to equate it with the mature Sankhya school."
       }
      ]
     },
@@ -1435,7 +1539,8 @@
      "cmp": [
       {
        "w": "brahma",
-       "note": "这里的 brahma 是中性词，指宇宙最终的实在，英文写 Brahman。第八章会出现阳性的 Brahmā（梵天，创世之神）。中文两个都叫「梵」，很容易混；英文靠拼写区分。"
+       "note": "这里的 brahma 是中性词，指宇宙最终的实在，英文写 Brahman。第八章会出现阳性的 Brahmā（梵天，创世之神）。中文两个都叫「梵」，很容易混；英文靠拼写区分。",
+       "en": "Brahma here is the neuter word for the ultimate reality of the universe, written Brahman in English. Chapter 8 will bring in the masculine Brahmā, the creator god. Chinese calls both 梵 (Fàn), which is easy to confuse; English tells them apart by spelling."
       }
      ]
     },
@@ -1445,7 +1550,8 @@
      "cmp": [
       {
        "w": "yoga-yukta",
-       "note": "yukta 和 yoga 同一个词根，原意是「被套上轭的」，像一头套好了车、听使唤的牛。英文 yoked 保留了这个画面；白话译成「专心」，抓住了结果，丢了「被驾驭」的意象。这几章 yukta 反复出现，本站英文按语境写 yoked 或 steady in yoga。"
+       "note": "yukta 和 yoga 同一个词根，原意是「被套上轭的」，像一头套好了车、听使唤的牛。英文 yoked 保留了这个画面；白话译成「专心」，抓住了结果，丢了「被驾驭」的意象。这几章 yukta 反复出现，本站英文按语境写 yoked 或 steady in yoga。",
+       "en": "Yukta shares its root with yoga and originally means “yoked,” like an ox harnessed and ready to obey. The English “yoked” keeps that picture; the plain Chinese 专心 (zhuānxīn, “focused”) catches the result but loses the image of being harnessed. Yukta recurs throughout these chapters, and the site’s English writes “yoked” or “steady in yoga” depending on context."
       }
      ]
     },
@@ -1467,7 +1573,8 @@
      "cmp": [
       {
        "w": "buddhi",
-       "note": "buddhi 是心里「做判断、下决定」的那一部分。白话译「理智」，英文写 understanding。它和 manas（心意，接收感官信息、翻来覆去想的那部分）不同。这一节把身体、manas、buddhi、感官一层层排开，是印度人对「人」的分层看法。"
+       "note": "buddhi 是心里「做判断、下决定」的那一部分。白话译「理智」，英文写 understanding。它和 manas（心意，接收感官信息、翻来覆去想的那部分）不同。这一节把身体、manas、buddhi、感官一层层排开，是印度人对「人」的分层看法。",
+       "en": "Buddhi is the part of the mind that judges and decides. The plain Chinese says 理智 (lǐzhì, “reason”), the English “understanding.” It differs from manas (mind, the part that takes in sense data and turns things over). This verse lays out body, manas, buddhi and senses layer by layer, the Indian view of how a person is built."
       }
      ]
     },
@@ -1477,7 +1584,8 @@
      "cmp": [
       {
        "w": "karma-phala",
-       "note": "「行动的果子」：梵文用的是植物的比喻，行动像树，结果像树上结的果。英文 fruit 保留了这个比喻；白话「结果」在中文里早已是个死比喻，读者感觉不到树。"
+       "note": "「行动的果子」：梵文用的是植物的比喻，行动像树，结果像树上结的果。英文 fruit 保留了这个比喻；白话「结果」在中文里早已是个死比喻，读者感觉不到树。",
+       "en": "“The fruit of action”: the Sanskrit uses a plant image, action as the tree and results as its fruit. The English “fruit” keeps the image; the plain Chinese 结果 (jiéguǒ, “result,” literally “bearing fruit”) has long been a dead metaphor in Chinese, so readers don’t feel the tree."
       }
      ]
     },
@@ -1487,7 +1595,8 @@
      "cmp": [
       {
        "w": "nava-dvāre pure",
-       "note": "「九门之城」就是身体：两眼、两耳、两个鼻孔、嘴，加上排泄的两个出口。英文和白话都照字面译，读者要知道这是身体的比喻。住在城里的「有身者」（dehī）才是真正的自己。"
+       "note": "「九门之城」就是身体：两眼、两耳、两个鼻孔、嘴，加上排泄的两个出口。英文和白话都照字面译，读者要知道这是身体的比喻。住在城里的「有身者」（dehī）才是真正的自己。",
+       "en": "“The city of nine gates” is the body: two eyes, two ears, two nostrils and the mouth, plus the two outlets of excretion. The English and the plain Chinese both translate it literally, and readers should know it is a metaphor for the body. The “embodied one” (dehī) living in the city is the real self."
       }
      ]
     },
@@ -1497,7 +1606,8 @@
      "cmp": [
       {
        "w": "svabhāva",
-       "note": "白话「本性」，英文 one's own nature。svabhāva 字面是「自己的存在方式」，和《心经》里被说成「空」的「自性」是同一个词。不过这里没有被否定，而是说事物按自己的性子在运转。"
+       "note": "白话「本性」，英文 one's own nature。svabhāva 字面是「自己的存在方式」，和《心经》里被说成「空」的「自性」是同一个词。不过这里没有被否定，而是说事物按自己的性子在运转。",
+       "en": "The plain Chinese says 本性 (běnxìng, “inborn nature”), the English “one’s own nature.” Svabhāva literally means “one’s own way of being,” the same word as 自性 (zìxìng, “self-nature”), which the Heart Sutra declares “empty.” Here, though, it is not denied; it means things run according to their own nature."
       }
      ]
     },
@@ -1511,7 +1621,8 @@
      "cmp": [
       {
        "w": "ātmanaḥ",
-       "note": "这个词在句中可以接「无知」（他们自己的无知），也可以接「知识」（关于自我的知识）。白话取前一种，英文取后一种；两种读法古代注家都有。"
+       "note": "这个词在句中可以接「无知」（他们自己的无知），也可以接「知识」（关于自我的知识）。白话取前一种，英文取后一种；两种读法古代注家都有。",
+       "en": "In this sentence the word can attach to “ignorance” (their own ignorance) or to “knowledge” (knowledge of the self). The plain Chinese takes the first, the English the second; ancient commentators held both readings."
       }
      ]
     },
@@ -1525,7 +1636,8 @@
      "cmp": [
       {
        "w": "śvapāka",
-       "note": "字面就是「煮狗的人」，古印度最被看不起的人群之一。白话「吃狗肉的贱民」把意思讲出来，英文照字面。这一节的重点是：从最受尊敬的人，到最被轻视的人，再到动物，智者一视同仁。"
+       "note": "字面就是「煮狗的人」，古印度最被看不起的人群之一。白话「吃狗肉的贱民」把意思讲出来，英文照字面。这一节的重点是：从最受尊敬的人，到最被轻视的人，再到动物，智者一视同仁。",
+       "en": "Literally “one who cooks dogs,” one of the most despised groups in ancient India. The plain Chinese 吃狗肉的贱民 (chī gǒuròu de jiànmín, “dog-eating outcaste”) spells out the meaning; the English is literal. The point of the verse: from the most respected person to the most despised, and on to animals, the wise see all alike."
       }
      ]
     },
@@ -1547,7 +1659,8 @@
      "cmp": [
       {
        "w": "duḥkha-yoni",
-       "note": "字面「痛苦的子宫」：快乐本身会生出痛苦。英文 wombs of sorrow 保留了「生出来」的画面；白话「根源」更平，意思没错，画面没了。"
+       "note": "字面「痛苦的子宫」：快乐本身会生出痛苦。英文 wombs of sorrow 保留了「生出来」的画面；白话「根源」更平，意思没错，画面没了。",
+       "en": "Literally “wombs of sorrow”: pleasure itself gives birth to pain. The English “wombs of sorrow” keeps the image of giving birth; the plain Chinese 根源 (gēnyuán, “root, source”) is flatter: the meaning is right, but the picture is gone."
       }
      ]
     },
@@ -1561,11 +1674,13 @@
      "cmp": [
       {
        "w": "brahma-nirvāṇa",
-       "note": "nirvāṇa 本义是「吹熄」，像灯火熄灭。佛教最常用这个词，《薄伽梵歌》把它和梵连在一起，成了「在梵中熄灭一切躁动」。白话音译「梵涅槃」，中文读者会先想到佛教；英文译作 the stillness of Brahman，并在括号里保留原词。"
+       "note": "nirvāṇa 本义是「吹熄」，像灯火熄灭。佛教最常用这个词，《薄伽梵歌》把它和梵连在一起，成了「在梵中熄灭一切躁动」。白话音译「梵涅槃」，中文读者会先想到佛教；英文译作 the stillness of Brahman，并在括号里保留原词。",
+       "en": "Nirvāṇa originally means “blowing out,” like a flame going out. Buddhism uses the word most, and the Bhagavad Gita joins it to Brahman, giving “the stilling of all agitation in Brahman.” The plain Chinese transliterates it as 梵涅槃 (Fàn nièpán, “Brahman-nirvana”), which makes Chinese readers think of Buddhism first; the English renders it “the stillness of Brahman” and keeps the original term in brackets."
       },
       {
        "w": "brahma-bhūta",
-       "note": "字面「已经成为梵的」。白话写「与梵合一」，英文写 having become Brahman，更贴近原文那种「变成」的说法。"
+       "note": "字面「已经成为梵的」。白话写「与梵合一」，英文写 having become Brahman，更贴近原文那种「变成」的说法。",
+       "en": "Literally “having become Brahman.” The plain Chinese says 与梵合一 (yǔ Fàn héyī, “united with Brahman”); the English “having become Brahman” is closer to the original’s language of “becoming.”"
       }
      ]
     },
@@ -1600,7 +1715,8 @@
      "cmp": [
       {
        "w": "niragni",
-       "note": "「没有火的人」：古印度的出家人按规矩要放下家中的祭火，不再举行祭祀。白话「不点祭火」、英文 let his sacred fire go out 都在讲这个。意思是：只在形式上出家，不算真正的舍弃。"
+       "note": "「没有火的人」：古印度的出家人按规矩要放下家中的祭火，不再举行祭祀。白话「不点祭火」、英文 let his sacred fire go out 都在讲这个。意思是：只在形式上出家，不算真正的舍弃。",
+       "en": "“One without fire”: by rule, a renunciant in ancient India gave up the household sacred fire and stopped performing sacrifices. The plain Chinese 不点祭火 (bù diǎn jìhuǒ, “not lighting the sacred fire”) and the English “let his sacred fire go out” both refer to this. The point: renouncing only in outward form is not true renunciation."
       }
      ]
     },
@@ -1610,7 +1726,8 @@
      "cmp": [
       {
        "w": "saṃkalpa",
-       "note": "白话「私心意图」。saṃkalpa 是心里预先打好的主意、盘算——「我要得到某某结果」的那种设想，不一定是坏念头。英文写 the plans of the mind，比「私心」中性一点。"
+       "note": "白话「私心意图」。saṃkalpa 是心里预先打好的主意、盘算——「我要得到某某结果」的那种设想，不一定是坏念头。英文写 the plans of the mind，比「私心」中性一点。",
+       "en": "The plain Chinese says 私心意图 (sīxīn yìtú, “selfish intentions”). Saṃkalpa is a plan made in advance in the mind, a scheme along the lines of “I will get such-and-such result,” not necessarily a bad thought. The English “the plans of the mind” is a little more neutral than “selfish.”"
       }
      ]
     },
@@ -1628,7 +1745,8 @@
      "cmp": [
       {
        "w": "ātman",
-       "note": "ātman 在梵文里既是普通的反身代词「自己」，又是哲学上的「真我」。这几节故意把两层叠在一起说：用自己拉起自己。白话在这里写「自己」，在别处写「真我」；英文统一写小写的 self，两层意思读者都能感到。"
+       "note": "ātman 在梵文里既是普通的反身代词「自己」，又是哲学上的「真我」。这几节故意把两层叠在一起说：用自己拉起自己。白话在这里写「自己」，在别处写「真我」；英文统一写小写的 self，两层意思读者都能感到。",
+       "en": "In Sanskrit ātman is both the ordinary reflexive pronoun “oneself” and the philosophical “true self.” These verses deliberately stack the two: lift yourself up by yourself. Here the plain Chinese writes 自己 (zìjǐ, “oneself”), elsewhere 真我 (zhēnwǒ, “the true Self”); the English always writes lowercase “self,” so readers can feel both meanings."
       }
      ]
     },
@@ -1646,7 +1764,8 @@
      "cmp": [
       {
        "w": "kūṭastha",
-       "note": "字面「站在铁砧上的」：铁砧被锤千万次也不动。白话「像铁砧一样不动」保留了比喻，英文同样；也有注家解作「立在山顶」。"
+       "note": "字面「站在铁砧上的」：铁砧被锤千万次也不动。白话「像铁砧一样不动」保留了比喻，英文同样；也有注家解作「立在山顶」。",
+       "en": "Literally “standing on the anvil”: an anvil does not move however many times it is struck. The plain Chinese 像铁砧一样不动 (“unmoving like an anvil”) keeps the metaphor, and so does the English; some commentators read it as “standing on a mountaintop.”"
       }
      ]
     },
@@ -1676,7 +1795,8 @@
      "cmp": [
       {
        "w": "brahmacāri-vrata",
-       "note": "白话「梵行之誓」是直译。brahmacārin 原指跟着老师学吠陀的年轻学生，他们要守独身。英文写 the vow of chastity，讲出了实际内容，丢了「学生」那一层。"
+       "note": "白话「梵行之誓」是直译。brahmacārin 原指跟着老师学吠陀的年轻学生，他们要守独身。英文写 the vow of chastity，讲出了实际内容，丢了「学生」那一层。",
+       "en": "The plain Chinese 梵行之誓 (fànxíng zhī shì, “vow of Brahman-conduct”) is a literal rendering. A brahmacārin was originally a young student learning the Veda from a teacher, who had to stay celibate. The English “the vow of chastity” gives the practical content but loses the “student” layer."
       }
      ]
     },
@@ -1694,7 +1814,8 @@
      "cmp": [
       {
        "w": "yukta",
-       "note": "这一节的 yukta 不是「专心」，而是「合度、刚刚好」：套上轭的牛走得不快不慢。白话「有节制」，英文 measured。同一个 yukta，中文要换好几个词才接得住。"
+       "note": "这一节的 yukta 不是「专心」，而是「合度、刚刚好」：套上轭的牛走得不快不慢。白话「有节制」，英文 measured。同一个 yukta，中文要换好几个词才接得住。",
+       "en": "Yukta in this verse doesn’t mean “focused” but “in proportion, just right”: a yoked ox walks neither too fast nor too slow. The plain Chinese says 有节制 (yǒu jiézhì, “restrained, moderate”), the English “measured.” Chinese needs several different words to cover the one yukta."
       }
      ]
     },
@@ -1712,7 +1833,8 @@
      "cmp": [
       {
        "w": "niruddha",
-       "note": "白话「受约束、止息」，英文 restrained。这是 nirodha（止息）的分词——正是《瑜伽经》开头那句「瑜伽就是心念的止息」里的关键词。"
+       "note": "白话「受约束、止息」，英文 restrained。这是 nirodha（止息）的分词——正是《瑜伽经》开头那句「瑜伽就是心念的止息」里的关键词。",
+       "en": "The plain Chinese says 受约束、止息 (shòu yuēshù, zhǐxī, “restrained, brought to rest”), the English “restrained.” This is the participle of nirodha (stilling), the key word in the opening line of the Yoga Sutras: “yoga is the stilling of the movements of the mind.”"
       }
      ]
     },
@@ -1730,7 +1852,8 @@
      "cmp": [
       {
        "w": "duḥkha-saṃyoga-viyoga",
-       "note": "这是一个文字游戏：yoga（相连）被定义为「与痛苦之 saṃyoga（相连）的 viyoga（分离）」，三个词同出一个词根。英文用 unyoking from union 勉强保住了同根的味道；白话「与痛苦的接触相分离」意思对了，同根的趣味没了。"
+       "note": "这是一个文字游戏：yoga（相连）被定义为「与痛苦之 saṃyoga（相连）的 viyoga（分离）」，三个词同出一个词根。英文用 unyoking from union 勉强保住了同根的味道；白话「与痛苦的接触相分离」意思对了，同根的趣味没了。",
+       "en": "This is wordplay: yoga (joining) is defined as the viyoga (separation) from saṃyoga (union) with sorrow, three words from one root. The English “unyoking from union” just about keeps the shared root; the plain Chinese 与痛苦的接触相分离 (“separation from contact with sorrow”) gets the meaning but loses the fun of the shared root."
       }
      ]
     },
@@ -1756,7 +1879,8 @@
      "cmp": [
       {
        "w": "brahma-saṃsparśa",
-       "note": "「与梵接触」：上一章说外界的接触（sparśa）是痛苦的子宫，这里同一个词用在梵身上，成了无尽的快乐。英文 touching、白话「接触」都保留了这个前后呼应。"
+       "note": "「与梵接触」：上一章说外界的接触（sparśa）是痛苦的子宫，这里同一个词用在梵身上，成了无尽的快乐。英文 touching、白话「接触」都保留了这个前后呼应。",
+       "en": "“Touching Brahman”: the previous chapter called outer contact (sparśa) a womb of sorrow, and here the same word, applied to Brahman, becomes boundless joy. The English “touching” and the plain Chinese 接触 (jiēchù, “contact”) both keep this echo."
       }
      ]
     },
@@ -1774,7 +1898,8 @@
      "cmp": [
       {
        "w": "bhajati",
-       "note": "bhaj 本义是「分享、分得一份」，引申为亲近、敬爱、侍奉。白话「敬爱」，英文 is devoted to。后面常见的 bhakti（虔爱）就从这个词根来。"
+       "note": "bhaj 本义是「分享、分得一份」，引申为亲近、敬爱、侍奉。白话「敬爱」，英文 is devoted to。后面常见的 bhakti（虔爱）就从这个词根来。",
+       "en": "Bhaj originally means “to share, to receive a portion,” extended to drawing near, loving, serving. The plain Chinese says 敬爱 (jìng’ài, “revere and love”), the English “is devoted to.” The common later word bhakti (devotion) comes from this root."
       }
      ]
     },
@@ -1784,7 +1909,8 @@
      "cmp": [
       {
        "w": "ātmaupamya",
-       "note": "「拿自己作比」：别人的苦和乐，跟自己的苦和乐一样。白话「以自己为尺度」，英文 measuring by his own self。意思很接近「己所不欲，勿施于人」。"
+       "note": "「拿自己作比」：别人的苦和乐，跟自己的苦和乐一样。白话「以自己为尺度」，英文 measuring by his own self。意思很接近「己所不欲，勿施于人」。",
+       "en": "“Taking oneself as the comparison”: other people’s pain and pleasure are just like your own. The plain Chinese 以自己为尺度 (yǐ zìjǐ wéi chǐdù, “taking oneself as the measure”), the English “measuring by his own self.” The idea is close to the Chinese saying “do not do to others what you would not want done to yourself.”"
       }
      ]
     },
@@ -1802,7 +1928,8 @@
      "cmp": [
       {
        "w": "abhyāsa / vairāgya",
-       "note": "两个关键词：abhyāsa 是「一次又一次回到同一件事上」；vairāgya 是「褪色」——rāga 本义是颜色、染上，引申为贪恋，vairāgya 就是不再被染上。白话「离欲」、英文 letting go of desire 都没保住「褪色」这个画面。"
+       "note": "两个关键词：abhyāsa 是「一次又一次回到同一件事上」；vairāgya 是「褪色」——rāga 本义是颜色、染上，引申为贪恋，vairāgya 就是不再被染上。白话「离欲」、英文 letting go of desire 都没保住「褪色」这个画面。",
+       "en": "Two key words: abhyāsa is “returning again and again to the same thing”; vairāgya is “fading of color”: rāga originally means color, being dyed, extended to attachment, so vairāgya is no longer being dyed. The plain Chinese 离欲 (líyù, “leaving desire”) and the English “letting go of desire” both lose the image of fading."
       }
      ]
     },
@@ -1844,7 +1971,8 @@
      "cmp": [
       {
        "w": "śabda-brahman",
-       "note": "「声音之梵」：指吠陀经文，被看成梵以声音的形式出现。白话意译成「吠陀的言辞」，英文同样意译并保留原词。意思是：哪怕只是想了解瑜伽，也已经超过了照本宣科地念经。"
+       "note": "「声音之梵」：指吠陀经文，被看成梵以声音的形式出现。白话意译成「吠陀的言辞」，英文同样意译并保留原词。意思是：哪怕只是想了解瑜伽，也已经超过了照本宣科地念经。",
+       "en": "“Brahman as sound”: the Vedic texts, seen as Brahman appearing in the form of sound. The plain Chinese paraphrases it as 吠陀的言辞 (Fèituó de yáncí, “the words of the Veda”), and the English likewise paraphrases while keeping the original term. The point: even just wanting to know about yoga already goes beyond reciting scripture by rote."
       }
      ]
     },
@@ -1862,7 +1990,8 @@
      "cmp": [
       {
        "w": "yuktatama",
-       "note": "「最 yukta 的」，白话「最专心的人」。yukta 从「套上轭」到「专心」再到「与我相连」，这一章最后一句把瑜伽的终点落在对神的虔爱上。英文 most deeply yoked 保留了词根的画面。"
+       "note": "「最 yukta 的」，白话「最专心的人」。yukta 从「套上轭」到「专心」再到「与我相连」，这一章最后一句把瑜伽的终点落在对神的虔爱上。英文 most deeply yoked 保留了词根的画面。",
+       "en": "“The most yukta”: the plain Chinese says 最专心的人 (zuì zhuānxīn de rén, “the most focused person”). Yukta has moved from “yoked” to “focused” to “joined to me,” and the chapter’s last line sets the goal of yoga in loving devotion to God. The English “most deeply yoked” keeps the image of the root."
       }
      ]
     }
@@ -1881,7 +2010,8 @@
      "cmp": [
       {
        "w": "vijñāna",
-       "note": "jñāna 是「知道」，vijñāna 前面加了 vi-（分开、细致）。白话「证悟」把它理解成亲身体证；也有人理解成「分辨的知识」或「具体的知识」。英文写 realization，取的是和白话一样的读法。这一章的标题就是这两个词。"
+       "note": "jñāna 是「知道」，vijñāna 前面加了 vi-（分开、细致）。白话「证悟」把它理解成亲身体证；也有人理解成「分辨的知识」或「具体的知识」。英文写 realization，取的是和白话一样的读法。这一章的标题就是这两个词。",
+       "en": "Jñāna is “knowing”; vijñāna adds vi- (apart, in detail). The plain Chinese 证悟 (zhèngwù, “realization”) takes it as first-hand realization; others read it as “discriminating knowledge” or “concrete knowledge.” The English “realization” takes the same reading as the plain Chinese. These two words make up the title of this chapter."
       }
      ]
     },
@@ -1895,11 +2025,13 @@
      "cmp": [
       {
        "w": "prakṛti",
-       "note": "prakṛti 本义是「最先做出来的」，指万物的原料和本来的样子。白话「原质」偏哲学术语，英文 nature 偏日常。这一章把它分成两层：低的八分（五种元素加三种心理成分），和高的一层（生命本身）。"
+       "note": "prakṛti 本义是「最先做出来的」，指万物的原料和本来的样子。白话「原质」偏哲学术语，英文 nature 偏日常。这一章把它分成两层：低的八分（五种元素加三种心理成分），和高的一层（生命本身）。",
+       "en": "Prakṛti originally means “what is made first,” the raw material and original state of everything. The plain Chinese 原质 (yuánzhì, “primal matter”) leans toward technical philosophy, the English “nature” toward the everyday. This chapter divides it into two levels: the lower eightfold (five elements plus three mental components), and the higher one (life itself)."
       },
       {
        "w": "ahaṃkāra",
-       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我执」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。"
+       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我执」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。",
+       "en": "Literally “I-maker”: the mental function that labels every experience “mine.” The plain Chinese 我执 (wǒzhí, “clinging to self”) borrows a Buddhist term and is pejorative; the English “the sense of ‘I’” is more neutral, simply descriptive."
       }
      ]
     },
@@ -1917,7 +2049,8 @@
      "cmp": [
       {
        "w": "sūtre maṇigaṇāḥ",
-       "note": "sūtra 本义就是「线」，后来才指佛经、经文；中文的「经」本义也是织布的经线。两种语言在这里巧合地重合：万物像珠子，神是那根穿起一切的线。"
+       "note": "sūtra 本义就是「线」，后来才指佛经、经文；中文的「经」本义也是织布的经线。两种语言在这里巧合地重合：万物像珠子，神是那根穿起一切的线。",
+       "en": "Sūtra originally means simply “thread,” and only later came to mean a sutra or scripture; the Chinese 经 (jīng, “scripture”) also originally meant the warp threads on a loom. The two languages happen to coincide here: all things are like pearls, and God is the thread on which everything is strung."
       }
      ]
     },
@@ -1931,11 +2064,13 @@
      "cmp": [
       {
        "w": "gandhaḥ",
-       "note": "本站梵文这里只有 gandhaḥ（香气）；通行本作 puṇyo gandhaḥ（纯净的香气）。白话依通行本补了「纯净」，英文照本站梵文。"
+       "note": "本站梵文这里只有 gandhaḥ（香气）；通行本作 puṇyo gandhaḥ（纯净的香气）。白话依通行本补了「纯净」，英文照本站梵文。",
+       "en": "The site’s Sanskrit here has only gandhaḥ (fragrance); the standard edition reads puṇyo gandhaḥ (pure fragrance). The plain Chinese follows the standard edition and adds 纯净 (chúnjìng, “pure”); the English follows the site’s Sanskrit."
       },
       {
        "w": "tapas",
-       "note": "白话「苦行」，英文 austerity。tapas 本义是「热」，后来指修行者靠忍受饥寒困苦「烧」出来的力量。中英两边都只剩「吃苦」，没了「热」。"
+       "note": "白话「苦行」，英文 austerity。tapas 本义是「热」，后来指修行者靠忍受饥寒困苦「烧」出来的力量。中英两边都只剩「吃苦」，没了「热」。",
+       "en": "The plain Chinese says 苦行 (kǔxíng, “ascetic practice”), the English “austerity.” Tapas originally means “heat,” and later the power ascetics “burn up” by enduring hunger, cold and hardship. Both languages keep only the hardship and lose the heat."
       }
      ]
     },
@@ -1949,11 +2084,13 @@
      "cmp": [
       {
        "w": "dharma",
-       "note": "dharma 来自「撑住、维持」：让人、让社会、让世界不散架的那一套秩序。随语境可以是「本分」「正当」「教法」。白话这里写「正法」，英文写 dharma 并加注 what is right。这一节有意思的是：欲望本身没有被否定，只要不违背 dharma，神说「我就是那欲望」。"
+       "note": "dharma 来自「撑住、维持」：让人、让社会、让世界不散架的那一套秩序。随语境可以是「本分」「正当」「教法」。白话这里写「正法」，英文写 dharma 并加注 what is right。这一节有意思的是：欲望本身没有被否定，只要不违背 dharma，神说「我就是那欲望」。",
+       "en": "Dharma comes from “to hold up, to sustain”: the order that keeps a person, a society, a world from falling apart. Depending on context it can be “duty,” “what is right,” or “teaching.” The plain Chinese here writes 正法 (zhèngfǎ, “the true Dharma”), the English writes dharma with the gloss “what is right.” What’s interesting about this verse: desire itself is not condemned; as long as it does not go against dharma, God says “I am that desire.”"
       },
       {
        "w": "kāma",
-       "note": "同一节里 kāma 用了两次：前一次和 rāga（贪恋）连用，是要去掉的欲望；后一次是神自己。中英文都只能都译成「欲望」/desire，读者要留意这个对照。"
+       "note": "同一节里 kāma 用了两次：前一次和 rāga（贪恋）连用，是要去掉的欲望；后一次是神自己。中英文都只能都译成「欲望」/desire，读者要留意这个对照。",
+       "en": "Kāma is used twice in the same verse: first paired with rāga (attachment), as desire to be removed; then as God himself. Chinese and English can only render both as 欲望 (yùwàng, “desire”) and desire, so readers should watch for the contrast."
       }
      ]
     },
@@ -1963,7 +2100,8 @@
      "cmp": [
       {
        "w": "guṇa",
-       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译「萨埵、罗阇、多磨」，英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。"
+       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译「萨埵、罗阇、多磨」，英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。",
+       "en": "Guṇa originally means “strand”: a rope is twisted from several strands. Sattva (clear, bright), rajas (restless, passionate) and tamas (dark, dull) are the three strands twisted into everything in the world. The plain Chinese transliterates them as 萨埵、罗阇、多磨 (sàduǒ, luóshé, duōmó); the English keeps the original names here, and in the next verse, where they are called 三德 (sān dé, “the three qualities”), writes “the three qualities (gunas).”"
       }
      ]
     },
@@ -1977,7 +2115,8 @@
      "cmp": [
       {
        "w": "māyā",
-       "note": "白话「幻力」。māyā 原意是「造出东西的神奇本领」，可以指魔术，也可以指神的创造力；后来的吠檀多哲学才把它讲成「幻象」。英文保留 maya 不译，避开 illusion 带来的「世界是假的」的读法。"
+       "note": "白话「幻力」。māyā 原意是「造出东西的神奇本领」，可以指魔术，也可以指神的创造力；后来的吠檀多哲学才把它讲成「幻象」。英文保留 maya 不译，避开 illusion 带来的「世界是假的」的读法。",
+       "en": "The plain Chinese says 幻力 (huànlì, “illusion-power”). Māyā originally means “a wondrous skill for making things,” which can mean magic tricks or God’s creative power; only later Vedanta philosophy explained it as “illusion.” The English keeps maya untranslated, avoiding the “the world is fake” reading that “illusion” would bring."
       }
      ]
     },
@@ -1995,7 +2134,8 @@
      "cmp": [
       {
        "w": "bhakti",
-       "note": "bhakti 本义是「分得一份」，引申为全心的归属和爱。白话「虔爱」把「虔诚」和「爱」合在一起；英文 devotion 偏宗教的虔诚，少了「爱」的温度。这一节「我珍爱他，他珍爱我」，正好说明它是双向的。"
+       "note": "bhakti 本义是「分得一份」，引申为全心的归属和爱。白话「虔爱」把「虔诚」和「爱」合在一起；英文 devotion 偏宗教的虔诚，少了「爱」的温度。这一节「我珍爱他，他珍爱我」，正好说明它是双向的。",
+       "en": "Bhakti originally means “receiving a share,” extended to wholehearted belonging and love. The plain Chinese 虔爱 (qián’ài, “devout love”) combines “piety” and “love”; the English “devotion” leans toward religious piety and loses some of love’s warmth. This verse, “I am dear to him and he is dear to me,” shows it runs both ways."
       }
      ]
     },
@@ -2009,7 +2149,8 @@
      "cmp": [
       {
        "w": "vāsudeva",
-       "note": "黑天的父亲名叫 Vasudeva，所以黑天被称作 Vāsudeva（婆薮提婆之子）。这节把一位有名有姓的神说成「一切」，是《薄伽梵歌》把哲学和人格神信仰接在一起的地方。"
+       "note": "黑天的父亲名叫 Vasudeva，所以黑天被称作 Vāsudeva（婆薮提婆之子）。这节把一位有名有姓的神说成「一切」，是《薄伽梵歌》把哲学和人格神信仰接在一起的地方。",
+       "en": "Krishna’s father was named Vasudeva, so Krishna is called Vāsudeva (son of Vasudeva). This verse calls a god with a name and a family “everything,” the point where the Bhagavad Gita joins philosophy to devotion to a personal god."
       }
      ]
     },
@@ -2023,7 +2164,8 @@
      "cmp": [
       {
        "w": "śraddhā",
-       "note": "白话「信心」，英文 faith。śraddhā 更接近「信赖、托付」，而不是「相信某个说法是对的」。这节说得很宽：拜别的神的那份信心，也是神给的。"
+       "note": "白话「信心」，英文 faith。śraddhā 更接近「信赖、托付」，而不是「相信某个说法是对的」。这节说得很宽：拜别的神的那份信心，也是神给的。",
+       "en": "The plain Chinese says 信心 (xìnxīn, “faith, confidence”), the English “faith.” Śraddhā is closer to “trust, entrusting oneself” than to “believing a claim is true.” This verse is very broad: even faith in other gods is given by God."
       }
      ]
     },
@@ -2045,7 +2187,8 @@
      "cmp": [
       {
        "w": "yoga-māyā",
-       "note": "这里的 yoga 不是修行，而是「神的本领」，和 māyā 合起来，指神用来遮掩自己的那股力量。白话「瑜伽幻力」直译，读者容易摸不着头脑；英文干脆保留原词。"
+       "note": "这里的 yoga 不是修行，而是「神的本领」，和 māyā 合起来，指神用来遮掩自己的那股力量。白话「瑜伽幻力」直译，读者容易摸不着头脑；英文干脆保留原词。",
+       "en": "The yoga here is not spiritual practice but “God’s power”; combined with māyā, it means the power God uses to veil himself. The plain Chinese 瑜伽幻力 (yújiā huànlì, “yoga illusion-power”) is a literal rendering that may leave readers puzzled; the English simply keeps the original term."
       }
      ]
     },
@@ -2067,7 +2210,8 @@
      "cmp": [
       {
        "w": "adhyātma",
-       "note": "adhi- 是「关于、在…之上」。白话「内在自我」，英文 what concerns the self。7.29–30 一口气抛出一串 adhi- 开头的词，这一章不解释，故意留给第八章开头让阿周那来问。"
+       "note": "adhi- 是「关于、在…之上」。白话「内在自我」，英文 what concerns the self。7.29–30 一口气抛出一串 adhi- 开头的词，这一章不解释，故意留给第八章开头让阿周那来问。",
+       "en": "Adhi- means “concerning, above.” The plain Chinese says 内在自我 (nèizài zìwǒ, “the inner self”), the English “what concerns the self.” 7.29–30 throw out a string of adhi- words in one breath; this chapter doesn’t explain them, deliberately leaving Arjuna to ask about them at the start of chapter 8."
       }
      ]
     },
@@ -2077,7 +2221,8 @@
      "cmp": [
       {
        "w": "adhibhūta",
-       "note": "白话把 adhi- 译成「之主」（众生之主、诸神之主、祭祀之主），英文写 the one behind…。梵文 adhi- 本身只是「关于、在其上」，可以是「主宰」，也可以是「相关的那一面」，两种译法都是在解释。"
+       "note": "白话把 adhi- 译成「之主」（众生之主、诸神之主、祭祀之主），英文写 the one behind…。梵文 adhi- 本身只是「关于、在其上」，可以是「主宰」，也可以是「相关的那一面」，两种译法都是在解释。",
+       "en": "The plain Chinese renders adhi- as 之主 (zhī zhǔ, “lord of”): lord of beings, lord of the gods, lord of sacrifice; the English says “the one behind….” The Sanskrit adhi- itself only means “concerning, above it,” which could be “ruling over” or “the related aspect,” so both renderings are interpretations."
       }
      ]
     }
@@ -2092,7 +2237,8 @@
      "cmp": [
       {
        "w": "puruṣottama",
-       "note": "puruṣa（人）+ uttama（最高）：「人中至上者」。白话「至上之人」。这个称号到第十五章才正式解释。"
+       "note": "puruṣa（人）+ uttama（最高）：「人中至上者」。白话「至上之人」。这个称号到第十五章才正式解释。",
+       "en": "Puruṣa (person) + uttama (highest): “highest of persons.” The plain Chinese says 至上之人 (zhìshàng zhī rén, “the supreme person”). The title is only properly explained in chapter 15."
       }
      ]
     },
@@ -2106,7 +2252,8 @@
      "cmp": [
       {
        "w": "visarga",
-       "note": "「放出、倾出」：visarga 原指祭祀时把供品倒进火里，也指创造时把万物放出来。白话「创造力」，英文 outpouring。这里的 karma 已经不是第五章那种「做事」，而是「让万物生起的那一放」。"
+       "note": "「放出、倾出」：visarga 原指祭祀时把供品倒进火里，也指创造时把万物放出来。白话「创造力」，英文 outpouring。这里的 karma 已经不是第五章那种「做事」，而是「让万物生起的那一放」。",
+       "en": "“Releasing, pouring out”: visarga originally meant pouring offerings into the fire during sacrifice, and also the release of all things at creation. The plain Chinese says 创造力 (chuàngzàolì, “creative power”), the English “outpouring.” The karma here is no longer the “doing things” of chapter 5 but “the one pouring forth that makes all things arise.”"
       }
      ]
     },
@@ -2116,7 +2263,8 @@
      "cmp": [
       {
        "w": "puruṣa",
-       "note": "puruṣa 原指「人、男人」。吠陀里有一首颂歌说宇宙是由一个巨大的原人被献祭而成，白话「原人」取的就是这层；英文写大写的 Person 并保留原词。数论派又把 puruṣa 当成与 prakṛti（原质）相对的「纯粹意识」。"
+       "note": "puruṣa 原指「人、男人」。吠陀里有一首颂歌说宇宙是由一个巨大的原人被献祭而成，白话「原人」取的就是这层；英文写大写的 Person 并保留原词。数论派又把 puruṣa 当成与 prakṛti（原质）相对的「纯粹意识」。",
+       "en": "Puruṣa originally means “person, man.” A Vedic hymn tells how the universe was made from the sacrifice of a giant primal man, and the plain Chinese 原人 (yuánrén, “primal man”) takes that sense; the English writes a capitalized “Person” and keeps the original word. The Sankhya school also treats puruṣa as “pure consciousness,” set against prakṛti (primal matter)."
       }
      ]
     },
@@ -2130,7 +2278,8 @@
      "cmp": [
       {
        "w": "tad-bhāva-bhāvita",
-       "note": "bhāvita 是「被浸透、被熏过」，像布被染上颜色。白话「浸润」很贴切。意思是：临终那一念不是临时决定的，而是一辈子熏出来的。"
+       "note": "bhāvita 是「被浸透、被熏过」，像布被染上颜色。白话「浸润」很贴切。意思是：临终那一念不是临时决定的，而是一辈子熏出来的。",
+       "en": "Bhāvita means “soaked through, steeped,” like cloth taking on dye. The plain Chinese 浸润 (jìnrùn, “steeped, soaked”) fits well. The meaning: the last thought at death isn’t decided on the spot; it has been steeped in over a lifetime."
       }
      ]
     },
@@ -2140,7 +2289,8 @@
      "cmp": [
       {
        "w": "yudhya ca",
-       "note": "「并且战斗」：两个命令只用一个 ca（并且）连着。这是全书的核心张力：忆念神和上战场不是二选一。英文用破折号把 and fight 单独拎出来，强调这一点。"
+       "note": "「并且战斗」：两个命令只用一个 ca（并且）连着。这是全书的核心张力：忆念神和上战场不是二选一。英文用破折号把 and fight 单独拎出来，强调这一点。",
+       "en": "“And fight”: the two commands are joined by a single ca (“and”). This is the core tension of the whole book: remembering God and going into battle are not either-or. The English uses a dash to set “and fight” apart and stress the point."
       }
      ]
     },
@@ -2162,7 +2312,8 @@
      "cmp": [
       {
        "w": "akṣara",
-       "note": "akṣara 有两个意思：「不灭的」和「音节、字母」。这一章两个都用：这里是「不灭者」，第 13 节的 ekākṣara 是「唯一的音节」唵。英文和白话只能各取其一，梵文里却是同一个词，念「唵」就是在念「不灭者」。"
+       "note": "akṣara 有两个意思：「不灭的」和「音节、字母」。这一章两个都用：这里是「不灭者」，第 13 节的 ekākṣara 是「唯一的音节」唵。英文和白话只能各取其一，梵文里却是同一个词，念「唵」就是在念「不灭者」。",
+       "en": "Akṣara has two meanings: “imperishable” and “syllable, letter.” This chapter uses both: here it is “the Imperishable,” and in verse 13 ekākṣara is “the one syllable,” Om. English and Chinese must each pick one, but in Sanskrit it is a single word, so chanting Om is chanting “the Imperishable.”"
       }
      ]
     },
@@ -2188,7 +2339,8 @@
      "cmp": [
       {
        "w": "brahma-bhuvana",
-       "note": "这里是梵天（Brahmā，创世之神）的世界，不是第五章那个中性的梵（Brahman）。连梵天的天界都还在轮回里。白话写「梵天」分得清，英文用 Brahma 与 Brahman 两种拼法区分。"
+       "note": "这里是梵天（Brahmā，创世之神）的世界，不是第五章那个中性的梵（Brahman）。连梵天的天界都还在轮回里。白话写「梵天」分得清，英文用 Brahma 与 Brahman 两种拼法区分。",
+       "en": "This is the world of Brahmā, the creator god, not the neuter Brahman of chapter 5. Even Brahmā’s heaven is still within the cycle of rebirth. The plain Chinese 梵天 (Fàntiān, “Brahmā”) keeps them distinct, and the English uses the two spellings Brahma and Brahman to tell them apart."
       }
      ]
     },
@@ -2198,7 +2350,8 @@
      "cmp": [
       {
        "w": "yuga",
-       "note": "白话「时代」，英文 ages。yuga 是印度宇宙论的时间单位，四个 yuga 合成一个大周期，长达四百多万年；这里的「一千」通常理解为一千个大周期，梵天的一个白天就有四十多亿年。"
+       "note": "白话「时代」，英文 ages。yuga 是印度宇宙论的时间单位，四个 yuga 合成一个大周期，长达四百多万年；这里的「一千」通常理解为一千个大周期，梵天的一个白天就有四十多亿年。",
+       "en": "The plain Chinese says 时代 (shídài, “era”), the English “ages.” A yuga is a unit of time in Indian cosmology; four yugas make one great cycle of over 4 million years. “A thousand” here is usually understood as a thousand great cycles, so a single day of Brahma lasts over 4 billion years."
       }
      ]
     },
@@ -2261,7 +2414,8 @@
      "cmp": [
       {
        "w": "rāja-vidyā",
-       "note": "rāja- 放在复合词开头常表示「最上等的」，有点像中文说「王牌」；也有人读成「君王们的学问」。白话照字面写「王者之学」，英文写 royal，两种读法都留着。"
+       "note": "rāja- 放在复合词开头常表示「最上等的」，有点像中文说「王牌」；也有人读成「君王们的学问」。白话照字面写「王者之学」，英文写 royal，两种读法都留着。",
+       "en": "Rāja- at the head of a compound often means “the very best,” a bit like saying “king of” something; some read it as “the knowledge of kings.” The plain Chinese literally says 王者之学 (wángzhě zhī xué, “the learning of kings”), the English “royal,” both keeping the two readings open."
       }
      ]
     },
@@ -2271,7 +2425,8 @@
      "cmp": [
       {
        "w": "dharmasya asya",
-       "note": "这里的 dharma 又换了一个意思：不是「本分」或「正当」，而是「这个教法」。白话「这一法」，英文 this teaching。同一个词，前一节是「合乎 dharma」，这一节是「这个 dharma」。"
+       "note": "这里的 dharma 又换了一个意思：不是「本分」或「正当」，而是「这个教法」。白话「这一法」，英文 this teaching。同一个词，前一节是「合乎 dharma」，这一节是「这个 dharma」。",
+       "en": "Dharma changes meaning again here: not “duty” or “what is right,” but “this teaching.” The plain Chinese says 这一法 (zhè yī fǎ, “this Dharma”), the English “this teaching.” The same word: the previous verse said “in keeping with dharma,” this one says “this dharma.”"
       }
      ]
     },
@@ -2285,7 +2440,8 @@
      "cmp": [
       {
        "w": "yogam aiśvaram",
-       "note": "这里的 yoga 是「神的本领」，不是修行方法。白话「神圣的瑜伽之力」，英文 sovereign yoga。上一节说众生在我之中，这一节又说不在——这个悖论本身，就是神要阿周那「看」的那份本领。"
+       "note": "这里的 yoga 是「神的本领」，不是修行方法。白话「神圣的瑜伽之力」，英文 sovereign yoga。上一节说众生在我之中，这一节又说不在——这个悖论本身，就是神要阿周那「看」的那份本领。",
+       "en": "The yoga here is “God’s power,” not a method of practice. The plain Chinese says 神圣的瑜伽之力 (shénshèng de yújiā zhī lì, “divine power of yoga”), the English “sovereign yoga.” The previous verse said beings are in me, and this one says they are not: that paradox is itself the power God wants Arjuna to “behold.”"
       }
      ]
     },
@@ -2299,7 +2455,8 @@
      "cmp": [
       {
        "w": "kalpa",
-       "note": "中文佛经把 kalpa 音译成「劫波」，简称「劫」——「劫数」「万劫不复」都从这里来。英文 aeon 是意译。一个 kalpa 就是梵天的一个白天（见第八章）。"
+       "note": "中文佛经把 kalpa 音译成「劫波」，简称「劫」——「劫数」「万劫不复」都从这里来。英文 aeon 是意译。一个 kalpa 就是梵天的一个白天（见第八章）。",
+       "en": "Chinese Buddhist scriptures transliterated kalpa as 劫波 (jiébō), shortened to 劫 (jié), from which come Chinese expressions like 劫数 (jiéshù, “fated doom”) and 万劫不复 (wàn jié bú fù, “beyond redemption for ten thousand aeons”). The English “aeon” translates the meaning. One kalpa is one day of Brahma (see chapter 8)."
       }
      ]
     },
@@ -2341,11 +2498,13 @@
      "cmp": [
       {
        "w": "kratu / yajña",
-       "note": "两个都是「祭祀」：kratu 偏指具体的吠陀仪式，yajña 是祭祀的通称。中文和英文都只能勉强分成「祭仪 / 祭祀」「rite / sacrifice」。"
+       "note": "两个都是「祭祀」：kratu 偏指具体的吠陀仪式，yajña 是祭祀的通称。中文和英文都只能勉强分成「祭仪 / 祭祀」「rite / sacrifice」。",
+       "en": "Both words mean “sacrifice”: kratu points more to a specific Vedic rite, and yajña is the general term. Chinese and English can only roughly split them as 祭仪 / 祭祀 (jìyí / jìsì, “rite / sacrifice”) and “rite / sacrifice.”"
       },
       {
        "w": "svadhā",
-       "note": "既是献给祖先的供品，也是献供时喊的那一声。白话、英文都只译出了供品。"
+       "note": "既是献给祖先的供品，也是献供时喊的那一声。白话、英文都只译出了供品。",
+       "en": "It is both the offering to the ancestors and the call cried out while making the offering. The plain Chinese and the English both give only the offering."
       }
      ]
     },
@@ -2367,7 +2526,8 @@
      "cmp": [
       {
        "w": "surendra",
-       "note": "「诸神之王」，就是因陀罗（Indra）。白话直接点名因陀罗，英文只写 the lord of the gods。"
+       "note": "「诸神之王」，就是因陀罗（Indra）。白话直接点名因陀罗，英文只写 the lord of the gods。",
+       "en": "“King of the gods,” that is, Indra. The plain Chinese names Indra outright, 因陀罗 (Yīntuóluó, “Indra”); the English says only “the lord of the gods.”"
       }
      ]
     },
@@ -2377,7 +2537,8 @@
      "cmp": [
       {
        "w": "gatāgata",
-       "note": "「去了又来」：两个分词并在一起。白话「来来去去」很传神，英文 coming and going 也一样。这里的 trayī-dharma（三吠陀之法）指的是吠陀的仪式规定，又是 dharma 的另一个用法。"
+       "note": "「去了又来」：两个分词并在一起。白话「来来去去」很传神，英文 coming and going 也一样。这里的 trayī-dharma（三吠陀之法）指的是吠陀的仪式规定，又是 dharma 的另一个用法。",
+       "en": "“Gone and come”: two participles side by side. The plain Chinese 来来去去 (láilái qùqù, “coming and going”) is vivid, and so is the English “coming and going.” The trayī-dharma (dharma of the three Vedas) here means the Vedic ritual rules, yet another use of dharma."
       }
      ]
     },
@@ -2387,7 +2548,8 @@
      "cmp": [
       {
        "w": "yoga-kṣema",
-       "note": "古印度的一个固定说法：yoga 指「得到还没有的」，kṣema 指「保住已经有的」。这里的 yoga 跟修行毫无关系。白话「所得与所守」，英文 bring what they lack and keep safe what they have，都是把这个词组拆开来讲。"
+       "note": "古印度的一个固定说法：yoga 指「得到还没有的」，kṣema 指「保住已经有的」。这里的 yoga 跟修行毫无关系。白话「所得与所守」，英文 bring what they lack and keep safe what they have，都是把这个词组拆开来讲。",
+       "en": "An old Indian set phrase: yoga means “getting what one lacks,” kṣema “keeping what one has.” This yoga has nothing whatever to do with spiritual practice. The plain Chinese 所得与所守 (suǒ dé yǔ suǒ shǒu, “what is gained and what is kept”) and the English “bring what they lack and keep safe what they have” both unpack the phrase."
       }
      ]
     },
@@ -2409,7 +2571,8 @@
      "cmp": [
       {
        "w": "aśnāmi",
-       "note": "「我吃」：aśnāmi 是很直白的「吃」。神说自己会吃下一片叶子、一点水，白话「享用」比原文客气；英文照直写 eat，保留那份亲近。"
+       "note": "「我吃」：aśnāmi 是很直白的「吃」。神说自己会吃下一片叶子、一点水，白话「享用」比原文客气；英文照直写 eat，保留那份亲近。",
+       "en": "“I eat”: aśnāmi is a very plain word for “eat.” God says he will eat a leaf or a little water; the plain Chinese 享用 (xiǎngyòng, “partake, enjoy”) is more polite than the original, while the English says “eat” outright, keeping the intimacy."
       }
      ]
     },
@@ -2439,7 +2602,8 @@
      "cmp": [
       {
        "w": "pāpa-yonayaḥ",
-       "note": "这句的语法有两种读法：一是并列几类人（出身卑贱的人，以及妇女、吠舍、首陀罗）；二是像白话那样，把妇女等人当作「出身卑贱者」的举例。英文取并列的读法。两种读法都反映了古代社会的等级观念，这一节的重点是：这些人一样能到达最高的归宿。"
+       "note": "这句的语法有两种读法：一是并列几类人（出身卑贱的人，以及妇女、吠舍、首陀罗）；二是像白话那样，把妇女等人当作「出身卑贱者」的举例。英文取并列的读法。两种读法都反映了古代社会的等级观念，这一节的重点是：这些人一样能到达最高的归宿。",
+       "en": "The grammar of this line allows two readings: a list of groups (those of lowly birth, and also women, vaishyas, shudras), or, as in the plain Chinese, women and the others as examples of “those of lowly birth.” The English takes the list reading. Both readings reflect the hierarchy of ancient society; the point of the verse is that all these people can reach the highest goal too."
       }
      ]
     },
@@ -2470,7 +2634,8 @@
      "cmp": [
       {
        "w": "pāpa",
-       "note": "梵文 pāpa 是「坏事、不吉、恶果」，不是基督教那种得罪上帝的「罪」。白话写「罪恶」，英文写 every wrong，都比 sin 少一层宗教审判的味道。"
+       "note": "梵文 pāpa 是「坏事、不吉、恶果」，不是基督教那种得罪上帝的「罪」。白话写「罪恶」，英文写 every wrong，都比 sin 少一层宗教审判的味道。",
+       "en": "Sanskrit pāpa means \"something bad, ill-omened, or bearing bad fruit,\" not the Christian idea of sin as an offence against God. The plain Chinese has 罪恶 (zuì'è, \"wrongdoing, evil\") and the English has \"every wrong\"; both carry less of a sense of religious judgement than \"sin\" would."
       }
      ]
     },
@@ -2480,11 +2645,13 @@
      "cmp": [
       {
        "w": "buddhi",
-       "note": "buddhi 来自动词 budh「醒来、明白」，指能分辨、能拿主意的那部分心。本站英文统一译 understanding，白话这里写「理智」，别处也写「智慧」，同一个词在中文里换了几个说法。"
+       "note": "buddhi 来自动词 budh「醒来、明白」，指能分辨、能拿主意的那部分心。本站英文统一译 understanding，白话这里写「理智」，别处也写「智慧」，同一个词在中文里换了几个说法。",
+       "en": "buddhi comes from the verb budh, \"to wake up, to understand\": the part of the mind that tells things apart and makes decisions. The site's English always renders it \"understanding\"; the plain Chinese says 理智 (lǐzhì, \"reason\") here and 智慧 (zhìhuì, \"wisdom\") elsewhere, so one word gets several Chinese names."
       },
       {
        "w": "bhavo 'bhāvaḥ",
-       "note": "梵文 bhava / abhāva 可以读成哲学上的「有、无」，也可以读成日常的「生起、消失」。白话取「存在、不存在」，英文取 coming into being and passing away，因为这一串都是人会经历的状态。"
+       "note": "梵文 bhava / abhāva 可以读成哲学上的「有、无」，也可以读成日常的「生起、消失」。白话取「存在、不存在」，英文取 coming into being and passing away，因为这一串都是人会经历的状态。",
+       "en": "bhava / abhāva can be read philosophically as \"being and non-being\" or in everyday terms as \"arising and passing away.\" The plain Chinese takes 存在、不存在 (cúnzài, bù cúnzài, \"existing, not existing\"); the English takes \"coming into being and passing away,\" since everything in this list is a state people go through."
       }
      ]
     },
@@ -2494,7 +2661,8 @@
      "cmp": [
       {
        "w": "tapas",
-       "note": "tapas 字面是「热」，指修行时忍受苦楚而生出的那股内在的热力。英文 austerity、白话「苦行」都只剩下「吃苦」，丢了「热、能量」这一层。"
+       "note": "tapas 字面是「热」，指修行时忍受苦楚而生出的那股内在的热力。英文 austerity、白话「苦行」都只剩下「吃苦」，丢了「热、能量」这一层。",
+       "en": "tapas literally means \"heat\": the inner heat built up by enduring hardship in spiritual practice. The English \"austerity\" and the plain Chinese 苦行 (kǔxíng, \"ascetic hardship\") keep only the hardship and lose the sense of heat and energy."
       }
      ]
     },
@@ -2504,7 +2672,8 @@
      "cmp": [
       {
        "w": "manu",
-       "note": "摩奴（Manu）是人类的始祖，梵文「人」manuṣya 就是从这个名字来的，所以说众生是他们的后代。中文音译「摩奴」，这层「人就是摩奴的子孙」的联系看不出来。"
+       "note": "摩奴（Manu）是人类的始祖，梵文「人」manuṣya 就是从这个名字来的，所以说众生是他们的后代。中文音译「摩奴」，这层「人就是摩奴的子孙」的联系看不出来。",
+       "en": "Manu is the forefather of humankind, and the Sanskrit word for \"human,\" manuṣya, comes from his name, which is why all creatures are called his descendants. The Chinese simply transliterates him as 摩奴 (Mónú), so the link \"humans are Manu's children\" can't be seen."
       }
      ]
     },
@@ -2514,11 +2683,13 @@
      "cmp": [
       {
        "w": "vibhūti",
-       "note": "vibhūti 来自 vi-bhū「向四面展开、变得广大」，指神的力量铺开来、在万物中显出来，这是本章的关键词。白话「神通显现」容易让人想到法术神通；英文 manifestation 又太平淡，所以本站英文写 outpouring of power，第一次保留原词。"
+       "note": "vibhūti 来自 vi-bhū「向四面展开、变得广大」，指神的力量铺开来、在万物中显出来，这是本章的关键词。白话「神通显现」容易让人想到法术神通；英文 manifestation 又太平淡，所以本站英文写 outpouring of power，第一次保留原词。",
+       "en": "vibhūti comes from vi-bhū, \"to spread out on all sides, to become vast\": God's power spreading out and showing itself in all things. It is this chapter's key word. The plain Chinese 神通显现 (shéntōng xiǎnxiàn, \"display of supernatural powers\") suggests magic tricks, while \"manifestation\" is too flat, so the site's English says \"outpouring of power\" and keeps the Sanskrit word the first time."
       },
       {
        "w": "yoga",
-       "note": "这里的 yoga 不是打坐练功，而是动词 yuj「套上、连起来」的本义：神把万物连成一体的那种力量。同一句后半的 yoga 才是人「与神相连」。英文都留 yoga，白话前面译「瑜伽之力」，算是提醒了这一点。"
+       "note": "这里的 yoga 不是打坐练功，而是动词 yuj「套上、连起来」的本义：神把万物连成一体的那种力量。同一句后半的 yoga 才是人「与神相连」。英文都留 yoga，白话前面译「瑜伽之力」，算是提醒了这一点。",
+       "en": "This yoga isn't meditation or exercise but the root sense of yuj, \"to yoke, to join\": the power by which God binds all things into one. The yoga in the second half of the verse is the human one, \"being joined to God.\" The English keeps \"yoga\" both times; the plain Chinese renders the first as 瑜伽之力 (yújiā zhī lì, \"the power of yoga\"), which at least hints at the difference."
       }
      ]
     },
@@ -2528,7 +2699,8 @@
      "cmp": [
       {
        "w": "bhajante",
-       "note": "动词 bhaj 本义是「分得一份、属于、亲近」，「虔爱」bhakti 就是它的名词。它不只是下对上的敬拜，还有彼此相属的亲密。白话写「敬奉」偏重礼数，英文写 love and worship，把亲近的一面也带上。"
+       "note": "动词 bhaj 本义是「分得一份、属于、亲近」，「虔爱」bhakti 就是它的名词。它不只是下对上的敬拜，还有彼此相属的亲密。白话写「敬奉」偏重礼数，英文写 love and worship，把亲近的一面也带上。",
+       "en": "The verb bhaj originally means \"to receive a share, to belong to, to be close to\"; bhakti, \"devoted love,\" is its noun. It is not only worship from below but also an intimacy of belonging to each other. The plain Chinese 敬奉 (jìngfèng, \"to revere and serve\") leans toward formal respect, while the English \"love and worship\" brings in the closeness too."
       }
      ]
     },
@@ -2550,7 +2722,8 @@
      "cmp": [
       {
        "w": "puruṣa",
-       "note": "puruṣa 最普通的意思就是「人、男人」，在哲学里指那个有知觉的「灵」。白话「原人」借自《梨俱吠陀》里那位被献祭、化成宇宙的巨人；英文 person 保留了「人」的平常味道。两边各取一半。"
+       "note": "puruṣa 最普通的意思就是「人、男人」，在哲学里指那个有知觉的「灵」。白话「原人」借自《梨俱吠陀》里那位被献祭、化成宇宙的巨人；英文 person 保留了「人」的平常味道。两边各取一半。",
+       "en": "puruṣa most commonly just means \"person, man\"; in philosophy it is the conscious spirit. The plain Chinese 原人 (yuánrén, \"primal man\") borrows from the Rig Veda's cosmic giant who was sacrificed and became the universe, while the English \"person\" keeps the ordinary feel of \"human being.\" Each side captures half."
       }
      ]
     },
@@ -2564,7 +2737,8 @@
      "cmp": [
       {
        "w": "keśava",
-       "note": "阿周那称呼对方的名字一直在换：Keśava（美发者）、Janārdana（激动众人者）、Hṛṣīkeśa、Viṣṇu……每个称号有它的意思和场合。白话几乎一律写「黑天」，读起来顺，但称号背后的语气全没了。英文保留原名，只在第一次加括号解释。"
+       "note": "阿周那称呼对方的名字一直在换：Keśava（美发者）、Janārdana（激动众人者）、Hṛṣīkeśa、Viṣṇu……每个称号有它的意思和场合。白话几乎一律写「黑天」，读起来顺，但称号背后的语气全没了。英文保留原名，只在第一次加括号解释。",
+       "en": "Arjuna keeps changing what he calls Krishna: Keśava (\"the one with beautiful hair\"), Janārdana (\"stirrer of people\"), Hṛṣīkeśa, Viṣṇu, and so on, each with its own meaning and occasion. The plain Chinese almost always just writes 黑天 (Hēitiān, the standard Chinese name for Krishna, literally \"Dark God\"), which reads smoothly but loses the tone of each title. The English keeps the original names and explains them in brackets the first time."
       }
      ]
     },
@@ -2582,7 +2756,8 @@
      "cmp": [
       {
        "w": "yogin",
-       "note": "梵文只是呼格 yogin「瑜伽士啊」，阿周那用的是修行人的普通称呼。白话升格成「瑜伽之主」；英文照原词写 Yogi。"
+       "note": "梵文只是呼格 yogin「瑜伽士啊」，阿周那用的是修行人的普通称呼。白话升格成「瑜伽之主」；英文照原词写 Yogi。",
+       "en": "The Sanskrit is just the vocative yogin, \"O yogi,\" an ordinary way of addressing a spiritual practitioner. The plain Chinese upgrades it to 瑜伽之主 (yújiā zhī zhǔ, \"Lord of Yoga\"); the English keeps the plain word \"Yogi.\""
       }
      ]
     },
@@ -2592,7 +2767,8 @@
      "cmp": [
       {
        "w": "amṛta",
-       "note": "amṛta 字面就是「不死」，神话里是喝了能长生的饮料。白话「甘露」、英文 nectar 都只剩下甜美，「不死」这个本义要靠读者自己补。"
+       "note": "amṛta 字面就是「不死」，神话里是喝了能长生的饮料。白话「甘露」、英文 nectar 都只剩下甜美，「不死」这个本义要靠读者自己补。",
+       "en": "amṛta literally means \"not dying\"; in myth it is the drink that makes you immortal. The plain Chinese 甘露 (gānlù, \"sweet dew\") and the English \"nectar\" keep only the sweetness, leaving readers to supply the original sense of deathlessness."
       }
      ]
     },
@@ -2606,11 +2782,13 @@
      "cmp": [
       {
        "w": "guḍākeśa",
-       "note": "阿周那的称号 Guḍākeśa，可以拆成「睡眠之主」（克服了睡意的人），也可以拆成「头发浓密的人」。白话直接写「阿周那」，英文保留原名。"
+       "note": "阿周那的称号 Guḍākeśa，可以拆成「睡眠之主」（克服了睡意的人），也可以拆成「头发浓密的人」。白话直接写「阿周那」，英文保留原名。",
+       "en": "Arjuna's title Guḍākeśa can be split as \"lord of sleep\" (one who has conquered drowsiness) or as \"the one with thick hair.\" The plain Chinese just writes 阿周那 (Āzhōunà, \"Arjuna\"); the English keeps the original name."
       },
       {
        "w": "ātman",
-       "note": "ātman 原本就是反身代词「自己」，哲学上指每个人最深处那个真正的自己。本站英文统一写 the self；白话写「真我」，多加了一个「真」字，意思不错，但原文没有这么强调。"
+       "note": "ātman 原本就是反身代词「自己」，哲学上指每个人最深处那个真正的自己。本站英文统一写 the self；白话写「真我」，多加了一个「真」字，意思不错，但原文没有这么强调。",
+       "en": "ātman is at root the reflexive pronoun \"oneself\"; in philosophy it means the deepest, true self in each person. The site's English always says \"the self\"; the plain Chinese says 真我 (zhēnwǒ, \"the true self\"), adding \"true,\" which isn't wrong but is more emphatic than the original."
       }
      ]
     },
@@ -2620,7 +2798,8 @@
      "cmp": [
       {
        "w": "nakṣatra",
-       "note": "nakṣatra 不是一般的「星星」，而是月亮每晚经过的二十七个星宿。所以「星宿中我是月亮」在梵文里很自然：月亮正是这些星宿的主人。英文只写 stars 会显得奇怪，所以加了 lunar houses。"
+       "note": "nakṣatra 不是一般的「星星」，而是月亮每晚经过的二十七个星宿。所以「星宿中我是月亮」在梵文里很自然：月亮正是这些星宿的主人。英文只写 stars 会显得奇怪，所以加了 lunar houses。",
+       "en": "nakṣatra isn't just any \"star\": it means the twenty-seven lunar mansions the moon passes through night by night. So \"among the nakṣatras I am the moon\" is perfectly natural in Sanskrit, since the moon is their lord. Plain \"stars\" would sound odd in English, so the site adds \"lunar houses.\""
       }
      ]
     },
@@ -2630,7 +2809,8 @@
      "cmp": [
       {
        "w": "manas",
-       "note": "印度哲学把 manas（心意）算作第十一种感官，负责把五官传来的东西拼起来。英文 mind、中文「心」都像是高于感官的东西，看不出这里为什么把它放在「感官」一类里。"
+       "note": "印度哲学把 manas（心意）算作第十一种感官，负责把五官传来的东西拼起来。英文 mind、中文「心」都像是高于感官的东西，看不出这里为什么把它放在「感官」一类里。",
+       "en": "Indian philosophy counts manas (the mind) as an eleventh sense, the one that assembles what the five senses bring in. The English \"mind\" and the Chinese 心 (xīn, \"heart-mind\") both sound like something above the senses, so it isn't obvious why it's listed among them here."
       }
      ]
     },
@@ -2648,7 +2828,8 @@
      "cmp": [
       {
        "w": "akṣara",
-       "note": "akṣara 同时是「音节」和「不灭」。「言语中我是那一个音节」也可以听成「那一个不灭者」。白话「音节」、英文 syllable 都只能取一边。"
+       "note": "akṣara 同时是「音节」和「不灭」。「言语中我是那一个音节」也可以听成「那一个不灭者」。白话「音节」、英文 syllable 都只能取一边。",
+       "en": "akṣara means both \"syllable\" and \"imperishable.\" \"Among words I am the one syllable\" can also be heard as \"the one imperishable.\" The plain Chinese 音节 (yīnjié, \"syllable\") and the English \"syllable\" can only take one side."
       }
      ]
     },
@@ -2658,7 +2839,8 @@
      "cmp": [
       {
        "w": "aśvattha",
-       "note": "aśvattha 就是毕钵罗树，后来佛陀在这种树下成道，才有了「菩提树」的名字。白话直接写「菩提树」，中文读者会想到佛教；《薄伽梵歌》这里没有这层意思，英文写 sacred fig。"
+       "note": "aśvattha 就是毕钵罗树，后来佛陀在这种树下成道，才有了「菩提树」的名字。白话直接写「菩提树」，中文读者会想到佛教；《薄伽梵歌》这里没有这层意思，英文写 sacred fig。",
+       "en": "The aśvattha is the pipal (sacred fig) tree; it later got the name \"bodhi tree\" because the Buddha attained enlightenment under one. The plain Chinese writes 菩提树 (pútíshù, \"bodhi tree\"), which makes Chinese readers think of Buddhism, a connotation the Gita doesn't have here; the English says \"sacred fig.\""
       }
      ]
     },
@@ -2676,7 +2858,8 @@
      "cmp": [
       {
        "w": "yamaḥ saṃyamatām",
-       "note": "这是个文字游戏：Yama（阎摩）的名字来自动词 yam「约束」，saṃyamatām 是「约束者们」。「约束者中我是约束」，梵文一听就懂；白话「执法者」、英文 hold others in check 只能保住意思，保不住谐音。"
+       "note": "这是个文字游戏：Yama（阎摩）的名字来自动词 yam「约束」，saṃyamatām 是「约束者们」。「约束者中我是约束」，梵文一听就懂；白话「执法者」、英文 hold others in check 只能保住意思，保不住谐音。",
+       "en": "This is wordplay: the name Yama (god of death) comes from the verb yam, \"to restrain,\" and saṃyamatām means \"of those who restrain.\" \"Among restrainers I am Restraint\" clicks instantly in Sanskrit. The plain Chinese 执法者 (zhífǎzhě, \"enforcers of law\") and the English \"hold others in check\" keep the meaning but not the pun."
       }
      ]
     },
@@ -2686,7 +2869,8 @@
      "cmp": [
       {
        "w": "kālaḥ kalayatām",
-       "note": "又一个谐音：kāla「时间」和 kal「计算」同音近义，时间本来就是最会「算账」的。白话「计算者中我是时间」意思到了，音没了。kāla 这个词到第十一章还会以更可怕的面目出现。"
+       "note": "又一个谐音：kāla「时间」和 kal「计算」同音近义，时间本来就是最会「算账」的。白话「计算者中我是时间」意思到了，音没了。kāla 这个词到第十一章还会以更可怕的面目出现。",
+       "en": "Another pun: kāla, \"time,\" sounds like kal, \"to count, to reckon,\" and time is the greatest settler of accounts. The plain Chinese 计算者中我是时间 (jìsuànzhě zhōng wǒ shì shíjiān, \"among reckoners I am time\") gets the meaning but loses the sound. The word kāla will reappear in Chapter 11 in a far more terrifying guise."
       }
      ]
     },
@@ -2704,7 +2888,8 @@
      "cmp": [
       {
        "w": "dvandva",
-       "note": "dvandva 是语法术语：把两个词并列成「甲和乙」的复合词。同一个词在本经别处指「冷热、苦乐这类成对的对立」。白话、英文都只能译出语法这一层。"
+       "note": "dvandva 是语法术语：把两个词并列成「甲和乙」的复合词。同一个词在本经别处指「冷热、苦乐这类成对的对立」。白话、英文都只能译出语法这一层。",
+       "en": "dvandva is a grammar term: a compound that sets two words side by side as \"A and B.\" Elsewhere in the Gita the same word means pairs of opposites like heat and cold or pleasure and pain. The plain Chinese and the English can only convey the grammatical sense."
       }
      ]
     },
@@ -2714,7 +2899,8 @@
      "cmp": [
       {
        "w": "nārīṇām",
-       "note": "字面是「在女人之中」，后面列的七个词在梵文里都是阴性名词，也常被当成女神。白话写「阴性的事物」、英文写 among the feminine，都绕开了「女人」这个直译。"
+       "note": "字面是「在女人之中」，后面列的七个词在梵文里都是阴性名词，也常被当成女神。白话写「阴性的事物」、英文写 among the feminine，都绕开了「女人」这个直译。",
+       "en": "Literally \"among women\"; the seven words that follow are all feminine nouns in Sanskrit and are often treated as goddesses. The plain Chinese 阴性的事物 (yīnxìng de shìwù, \"feminine things\") and the English \"among the feminine\" both sidestep the literal \"women.\""
       }
      ]
     },
@@ -2728,7 +2914,8 @@
      "cmp": [
       {
        "w": "dyūta",
-       "note": "「欺诈中我是赌博」听来刺耳。整部《摩诃婆罗多》的战争，正是从般度族在一场作弊的掷骰赌局里输掉王国开始的。这一层背景，白话和英文都要靠读者自己知道。"
+       "note": "「欺诈中我是赌博」听来刺耳。整部《摩诃婆罗多》的战争，正是从般度族在一场作弊的掷骰赌局里输掉王国开始的。这一层背景，白话和英文都要靠读者自己知道。",
+       "en": "\"Of deceivers I am gambling\" sounds jarring. But the entire Mahabharata war began when the Pandavas lost their kingdom in a rigged game of dice. Both the plain Chinese and the English leave readers to know that background on their own."
       }
      ]
     },
@@ -2795,7 +2982,8 @@
      "cmp": [
       {
        "w": "divyaṃ cakṣuḥ",
-       "note": "梵文「神圣的眼睛」。白话「天眼」是佛教熟词，中文读者会想到「天眼通」；英文 divine eye 没有这层联想。"
+       "note": "梵文「神圣的眼睛」。白话「天眼」是佛教熟词，中文读者会想到「天眼通」；英文 divine eye 没有这层联想。",
+       "en": "The Sanskrit is \"divine eye.\" The plain Chinese 天眼 (tiānyǎn, \"heavenly eye\") is a familiar Buddhist term, so Chinese readers think of the Buddhist power of clairvoyance; the English \"divine eye\" carries no such association."
       }
      ]
     },
@@ -2825,7 +3013,8 @@
      "cmp": [
       {
        "w": "hṛṣṭa-romā",
-       "note": "梵文「毛发竖起」，在印度诗里常是又惊又喜、全身发麻的感觉。白话「汗毛直竖」在中文里多半指害怕；英文只写 hair standing up，把是惊是喜留给读者。"
+       "note": "梵文「毛发竖起」，在印度诗里常是又惊又喜、全身发麻的感觉。白话「汗毛直竖」在中文里多半指害怕；英文只写 hair standing up，把是惊是喜留给读者。",
+       "en": "Sanskrit \"with hair standing on end\" in Indian poetry often means a tingling mix of awe and delight. The plain Chinese 汗毛直竖 (hànmáo zhí shù, \"hair standing up\") mostly signals fear in Chinese; the English just says \"hair standing up\" and leaves it to readers whether it's awe or joy."
       }
      ]
     },
@@ -2839,7 +3028,8 @@
      "cmp": [
       {
        "w": "viśva-rūpa",
-       "note": "viśva-rūpa 是本章的核心词：「以一切为形」或「有一切形状的」。白话写「以宇宙为形相者」，英文写 whose form is the universe；梵文 viśva 是「一切」，比「宇宙」更直白。"
+       "note": "viśva-rūpa 是本章的核心词：「以一切为形」或「有一切形状的」。白话写「以宇宙为形相者」，英文写 whose form is the universe；梵文 viśva 是「一切」，比「宇宙」更直白。",
+       "en": "viśva-rūpa is this chapter's core word: \"whose form is everything\" or \"having all forms.\" The plain Chinese says 以宇宙为形相者 (yǐ yǔzhòu wéi xíngxiàng zhě, \"one whose form is the universe\") and the English \"whose form is the universe\"; Sanskrit viśva means \"all,\" which is plainer than \"universe.\""
       }
      ]
     },
@@ -2853,7 +3043,8 @@
      "cmp": [
       {
        "w": "dharma",
-       "note": "dharma 来自 dhṛ「撑住」，是把世界和社会撑住的秩序，落到个人身上就是「本分」。本站英文在讲个人时译 duty，这里讲宇宙就写 order of things；白话写「正法」，是借了佛教词，意思偏向「真理、正道」。"
+       "note": "dharma 来自 dhṛ「撑住」，是把世界和社会撑住的秩序，落到个人身上就是「本分」。本站英文在讲个人时译 duty，这里讲宇宙就写 order of things；白话写「正法」，是借了佛教词，意思偏向「真理、正道」。",
+       "en": "dharma comes from dhṛ, \"to hold up\": the order that holds the world and society together, which for an individual becomes one's duty. The site's English says \"duty\" when it's about a person and \"order of things\" here, where it's cosmic; the plain Chinese has 正法 (zhèngfǎ, \"the true Dharma\"), a Buddhist borrowing that leans toward \"truth, the right way.\""
       }
      ]
     },
@@ -2867,7 +3058,8 @@
      "cmp": [
       {
        "w": "loka-traya",
-       "note": "「三个世界」在吠陀里是天、空、地。白话「三界」是佛教词，指欲界、色界、无色界，中文读者容易套错。英文 three worlds 中性一些。"
+       "note": "「三个世界」在吠陀里是天、空、地。白话「三界」是佛教词，指欲界、色界、无色界，中文读者容易套错。英文 three worlds 中性一些。",
+       "en": "In the Vedas the \"three worlds\" are heaven, the sky between, and earth. The plain Chinese 三界 (sānjiè) is a Buddhist term for the realms of desire, form and formlessness, so Chinese readers can easily map it wrongly. The English \"three worlds\" is more neutral."
       }
      ]
     },
@@ -2881,7 +3073,8 @@
      "cmp": [
       {
        "w": "ūṣmapāḥ",
-       "note": "字面是「喝热气的人」，指祖先的灵魂：他们只享用祭食冒出的热气。白话直接写「祖灵」，意思对，但这个古怪而生动的说法丢了。"
+       "note": "字面是「喝热气的人」，指祖先的灵魂：他们只享用祭食冒出的热气。白话直接写「祖灵」，意思对，但这个古怪而生动的说法丢了。",
+       "en": "Literally \"steam-drinkers\": the spirits of the ancestors, who partake only of the steam rising from sacrificial food. The plain Chinese just says 祖灵 (zǔlíng, \"ancestral spirits\"), which is correct but loses this strange, vivid expression."
       }
      ]
     },
@@ -2895,7 +3088,8 @@
      "cmp": [
       {
        "w": "viṣṇo",
-       "note": "阿周那在这里改口叫「毗湿奴啊」。前面一直是朋友般的称呼，此刻他看见的正是大神毗湿奴的本相，称呼一变，关系也变了。白话仍写「黑天」，这个转折看不出来；英文照原文写 Vishnu。"
+       "note": "阿周那在这里改口叫「毗湿奴啊」。前面一直是朋友般的称呼，此刻他看见的正是大神毗湿奴的本相，称呼一变，关系也变了。白话仍写「黑天」，这个转折看不出来；英文照原文写 Vishnu。",
+       "en": "Here Arjuna switches to calling him \"O Vishnu.\" Until now he has used a friend's forms of address; at this moment he sees the true form of the great god Vishnu, and as the name changes, so does the relationship. The plain Chinese still writes 黑天 (Hēitiān, \"Krishna\"), so the turn is invisible; the English follows the original and says \"Vishnu.\""
       }
      ]
     },
@@ -2905,7 +3099,8 @@
      "cmp": [
       {
        "w": "kālānala",
-       "note": "字面是「时间之火」，指一个宇宙周期结束时烧尽一切的那场大火。白话「世界末日之火」带了西方「末日」的味道；印度的「终结」是循环的，烧完还会重来。英文写 fire at the end of time，保住了「时间」这个字。"
+       "note": "字面是「时间之火」，指一个宇宙周期结束时烧尽一切的那场大火。白话「世界末日之火」带了西方「末日」的味道；印度的「终结」是循环的，烧完还会重来。英文写 fire at the end of time，保住了「时间」这个字。",
+       "en": "Literally \"the fire of time\": the blaze that burns everything up at the end of a cosmic cycle. The plain Chinese 世界末日之火 (shìjiè mòrì zhī huǒ, \"fire of doomsday\") brings in a Western end-of-the-world flavour, whereas Indian endings are cyclical and everything begins again. The English \"fire at the end of time\" keeps the word \"time.\""
       }
      ]
     },
@@ -2939,11 +3134,13 @@
      "cmp": [
       {
        "w": "kāla",
-       "note": "kāla 同时是「时间」「死亡的时刻」和「黑色」，而 Kṛṣṇa 这个名字本义也是「黑」。白话、英文都译「时间」，这是对的：神说的是时间本身就在吞人。英语世界流传的那句 I am become Death，把它换成了「死亡」，比原文更直接也更窄。"
+       "note": "kāla 同时是「时间」「死亡的时刻」和「黑色」，而 Kṛṣṇa 这个名字本义也是「黑」。白话、英文都译「时间」，这是对的：神说的是时间本身就在吞人。英语世界流传的那句 I am become Death，把它换成了「死亡」，比原文更直接也更窄。",
+       "en": "kāla means \"time,\" \"the hour of death\" and \"black,\" and the name Kṛṣṇa itself means \"black.\" The plain Chinese and the English both render it \"time,\" which is right: the god is saying that time itself devours people. The famous English line \"I am become Death\" swaps in \"death,\" which is blunter than the original and also narrower."
       },
       {
        "w": "samāhartum",
-       "note": "动词 sam-ā-hṛ 是「收拢、收回」，像把摊开的东西收起来。白话「收拾众生」带着一点狠劲，英文 gather in 更接近「收回」的本义。"
+       "note": "动词 sam-ā-hṛ 是「收拢、收回」，像把摊开的东西收起来。白话「收拾众生」带着一点狠劲，英文 gather in 更接近「收回」的本义。",
+       "en": "The verb sam-ā-hṛ means \"to gather in, to take back,\" like folding up something that was spread out. The plain Chinese 收拾众生 (shōushi zhòngshēng, \"to deal with all beings\") has a slightly ruthless edge; the English \"gather in\" is closer to the root sense of taking back."
       }
      ]
     },
@@ -2953,7 +3150,8 @@
      "cmp": [
       {
        "w": "nimitta-mātram",
-       "note": "nimitta 是「起因、契机、标记」，不完全是「工具」。神说的是：你只是让这件事发生的那个由头。白话「工具」、英文 instrument 都比原词更像被拿在手里的东西。"
+       "note": "nimitta 是「起因、契机、标记」，不完全是「工具」。神说的是：你只是让这件事发生的那个由头。白话「工具」、英文 instrument 都比原词更像被拿在手里的东西。",
+       "en": "nimitta means \"occasion, trigger, sign,\" not exactly \"tool.\" The god is saying: you are merely the occasion through which this happens. The plain Chinese 工具 (gōngjù, \"tool\") and the English \"instrument\" both sound more like something held in a hand than the original word does."
       }
      ]
     },
@@ -2971,7 +3169,8 @@
      "cmp": [
       {
        "w": "hṛṣīkeśa",
-       "note": "Hṛṣīkeśa 常被解成「感官之主」（hṛṣīka 是感官），也有人解成「头发竖起的人」。这句开头正是 prahṛṣyati「欢喜得发抖」，和称号同根，是个暗中的呼应，白话「黑天」、英文都留不住。"
+       "note": "Hṛṣīkeśa 常被解成「感官之主」（hṛṣīka 是感官），也有人解成「头发竖起的人」。这句开头正是 prahṛṣyati「欢喜得发抖」，和称号同根，是个暗中的呼应，白话「黑天」、英文都留不住。",
+       "en": "Hṛṣīkeśa is often explained as \"lord of the senses\" (hṛṣīka means sense), and by some as \"the one whose hair stands on end.\" This verse opens with prahṛṣyati, \"trembles with joy,\" from the same root as the title, a hidden echo that neither the plain Chinese 黑天 (Hēitiān, \"Krishna\") nor the English can keep."
       }
      ]
     },
@@ -2981,7 +3180,8 @@
      "cmp": [
       {
        "w": "brahmaṇaḥ",
-       "note": "brahmaṇaḥ 可以是创世神「梵天」（Brahmā），也可以是那个无形的「梵」（brahman）。前面又说「最初的创造者」，所以白话和英文都读成梵天；另一种读法是「你比梵还大」，意思就完全不同了。"
+       "note": "brahmaṇaḥ 可以是创世神「梵天」（Brahmā），也可以是那个无形的「梵」（brahman）。前面又说「最初的创造者」，所以白话和英文都读成梵天；另一种读法是「你比梵还大」，意思就完全不同了。",
+       "en": "brahmaṇaḥ can mean the creator god Brahmā or the formless Brahman. Since the verse also says \"the first creator,\" both the plain Chinese and the English read it as Brahmā; the other reading, \"you are greater even than Brahman,\" would mean something quite different."
       }
      ]
     },
@@ -2995,7 +3195,8 @@
      "cmp": [
       {
        "w": "prapitāmaha",
-       "note": "梵天常被称为众生的「祖父」（pitāmaha），这里叫克里希那「曾祖父」，意思是他连梵天的源头也是。白话写「始祖」，这层「比祖父还早一辈」的辈分感没了。"
+       "note": "梵天常被称为众生的「祖父」（pitāmaha），这里叫克里希那「曾祖父」，意思是他连梵天的源头也是。白话写「始祖」，这层「比祖父还早一辈」的辈分感没了。",
+       "en": "Brahmā is often called the \"grandfather\" (pitāmaha) of all beings; here Krishna is called \"great-grandfather,\" meaning he is the source even of Brahmā. The plain Chinese 始祖 (shǐzǔ, \"first ancestor\") loses this sense of being one generation older than the grandfather."
       }
      ]
     },
@@ -3017,7 +3218,8 @@
      "cmp": [
       {
        "w": "gurur garīyān",
-       "note": "guru 本义是「重」，garīyān 是「更重」。「最重的重者」在梵文里是个双关：既是分量，也是尊贵。英文 weightiest teacher 留住了一点「重」；白话「最尊贵的导师」只剩下尊贵。"
+       "note": "guru 本义是「重」，garīyān 是「更重」。「最重的重者」在梵文里是个双关：既是分量，也是尊贵。英文 weightiest teacher 留住了一点「重」；白话「最尊贵的导师」只剩下尊贵。",
+       "en": "guru originally means \"heavy,\" and garīyān means \"heavier.\" \"The weightiest of the weighty\" is a Sanskrit pun on both weight and honour. The English \"weightiest teacher\" keeps a bit of the heaviness; the plain Chinese 最尊贵的导师 (zuì zūnguì de dǎoshī, \"most honoured teacher\") keeps only the honour."
       }
      ]
     },
@@ -3039,7 +3241,8 @@
      "cmp": [
       {
        "w": "prasanna",
-       "note": "阿周那一直在求 prasīda「请息怒、请开恩」，这里神回答 prasannena「我是心平气和、欢喜地」，两个词同根。白话「欢喜」、英文 pleased 都译对了，但前后呼应只在梵文里听得见。"
+       "note": "阿周那一直在求 prasīda「请息怒、请开恩」，这里神回答 prasannena「我是心平气和、欢喜地」，两个词同根。白话「欢喜」、英文 pleased 都译对了，但前后呼应只在梵文里听得见。",
+       "en": "Arjuna has kept begging prasīda, \"be gracious, have mercy\"; here the god answers prasannena, \"being calm and pleased,\" from the same root. The plain Chinese 欢喜 (huānxǐ, \"glad\") and the English \"pleased\" are both correct, but the echo can only be heard in Sanskrit."
       }
      ]
     },
@@ -3061,7 +3264,8 @@
      "cmp": [
       {
        "w": "prakṛtiṃ gataḥ",
-       "note": "字面是「回到了本性」。prakṛti 在这里是日常意思「常态、本来样子」，到第十三章却成了哲学术语「原质」。白话「恢复了常态」、英文 I am myself again 都译得自然，只是看不出这是同一个词。"
+       "note": "字面是「回到了本性」。prakṛti 在这里是日常意思「常态、本来样子」，到第十三章却成了哲学术语「原质」。白话「恢复了常态」、英文 I am myself again 都译得自然，只是看不出这是同一个词。",
+       "en": "Literally \"has returned to his own nature.\" Here prakṛti has its everyday sense of \"normal state, how one really is,\" but in Chapter 13 it becomes the philosophical term for primal matter. The plain Chinese 恢复了常态 (huīfù le chángtài, \"returned to normal\") and the English \"I am myself again\" are both natural, but you can't tell it's the same word."
       }
      ]
     },
@@ -3079,7 +3283,8 @@
      "cmp": [
       {
        "w": "bhakti",
-       "note": "bhakti 来自 bhaj「分得一份、归属于」，原意是「我属于你、你也在我这里」的相属，后来才有热烈爱慕的意思。白话「虔爱」把敬与爱都放进去了；英文 devotion 偏重忠诚投入，「爱」的一面要靠上下文补。"
+       "note": "bhakti 来自 bhaj「分得一份、归属于」，原意是「我属于你、你也在我这里」的相属，后来才有热烈爱慕的意思。白话「虔爱」把敬与爱都放进去了；英文 devotion 偏重忠诚投入，「爱」的一面要靠上下文补。",
+       "en": "bhakti comes from bhaj, \"to receive a share, to belong to\": originally a mutual belonging, \"I am yours and you are in me,\" and only later the sense of ardent love. The plain Chinese 虔爱 (qián'ài, \"devout love\") holds both reverence and love; the English \"devotion\" leans toward loyal commitment, and the love side has to come from context."
       }
      ]
     },
@@ -3098,7 +3303,8 @@
      "cmp": [
       {
        "w": "avyakta",
-       "note": "avyakta 是「没有显露出来的」，指没有形象可见的那个终极。白话加了括号「（梵）」帮读者对上号，原文没有点名；英文写 the Unmanifest，照原文留白。"
+       "note": "avyakta 是「没有显露出来的」，指没有形象可见的那个终极。白话加了括号「（梵）」帮读者对上号，原文没有点名；英文写 the Unmanifest，照原文留白。",
+       "en": "avyakta means \"not made manifest\": the ultimate that has no visible form. The plain Chinese adds the bracket 梵 (Fàn, \"Brahman\") to help readers place it, though the original names nothing; the English \"the Unmanifest\" leaves the gap as the original does."
       }
      ]
     },
@@ -3108,7 +3314,8 @@
      "cmp": [
       {
        "w": "śraddhā",
-       "note": "śraddhā 原意是「把心放上去」，是信任、托付，而不是「相信某条教义」。白话「信心」比较接近；英文 faith 容易被读成宗教信条。"
+       "note": "śraddhā 原意是「把心放上去」，是信任、托付，而不是「相信某条教义」。白话「信心」比较接近；英文 faith 容易被读成宗教信条。",
+       "en": "śraddhā originally means \"placing one's heart on something\": trust and entrusting oneself, not \"believing a doctrine.\" The plain Chinese 信心 (xìnxīn, \"confidence, trust\") is fairly close; the English \"faith\" is easily read as religious creed."
       }
      ]
     },
@@ -3118,7 +3325,8 @@
      "cmp": [
       {
        "w": "kūṭastha",
-       "note": "kūṭa 是「山顶」，也是铁匠的「砧子」；kūṭastha 就是像砧子那样任凭锤打而自己不动。白话「恒常不变」把画面去掉了，英文 standing firm at the summit 保住了一半。"
+       "note": "kūṭa 是「山顶」，也是铁匠的「砧子」；kūṭastha 就是像砧子那样任凭锤打而自己不动。白话「恒常不变」把画面去掉了，英文 standing firm at the summit 保住了一半。",
+       "en": "kūṭa means a mountain peak and also a blacksmith's anvil; kūṭastha is something that, like an anvil, takes every hammer blow and does not move. The plain Chinese 恒常不变 (héngcháng bù biàn, \"constant and unchanging\") drops the picture; the English \"standing firm at the summit\" keeps half of it."
       }
      ]
     },
@@ -3140,7 +3348,8 @@
      "cmp": [
       {
        "w": "saṃsāra",
-       "note": "saṃsāra 字面是「流转、四处漂」，指一次次生死不停。白话「生死轮回」用了佛教熟词；英文 death and rebirth 说得直白，没有「流动」的画面。"
+       "note": "saṃsāra 字面是「流转、四处漂」，指一次次生死不停。白话「生死轮回」用了佛教熟词；英文 death and rebirth 说得直白，没有「流动」的画面。",
+       "en": "saṃsāra literally means \"flowing on, drifting about\": the endless round of birth and death. The plain Chinese 生死轮回 (shēngsǐ lúnhuí, \"the wheel of birth and death\") uses a familiar Buddhist term; the English \"death and rebirth\" is direct but loses the image of flowing."
       }
      ]
     },
@@ -3162,7 +3371,8 @@
      "cmp": [
       {
        "w": "karma-phala-tyāga",
-       "note": "「舍弃行为的果报」不是叫人不做事，而是照做，但不把成败据为己有。karma 在本站英文统一译 action，白话译「行为」，都避开了中文里「业报」那种因果报应的味道。"
+       "note": "「舍弃行为的果报」不是叫人不做事，而是照做，但不把成败据为己有。karma 在本站英文统一译 action，白话译「行为」，都避开了中文里「业报」那种因果报应的味道。",
+       "en": "\"Giving up the fruits of action\" doesn't mean stop acting; it means act as usual but don't claim success or failure as your own. The site's English always renders karma \"action,\" and the plain Chinese 行为 (xíngwéi, \"conduct, action\"), both avoiding the Chinese sense of 业报 (yèbào, \"karmic retribution\")."
       }
      ]
     },
@@ -3176,11 +3386,13 @@
      "cmp": [
       {
        "w": "maitraḥ karuṇaḥ",
-       "note": "maitra「友善」和 karuṇa「悲悯」，正是佛教「慈、悲」两个词的梵文原形。白话「友善而慈悲」、英文 friendly and compassionate 都译对了，只是中文读者看到「慈悲」会以为是佛教借词。"
+       "note": "maitra「友善」和 karuṇa「悲悯」，正是佛教「慈、悲」两个词的梵文原形。白话「友善而慈悲」、英文 friendly and compassionate 都译对了，只是中文读者看到「慈悲」会以为是佛教借词。",
+       "en": "maitra (\"friendly\") and karuṇa (\"compassionate\") are the Sanskrit originals of the Buddhist pair 慈 (cí, \"loving-kindness\") and 悲 (bēi, \"compassion\"). The plain Chinese 友善而慈悲 (yǒushàn ér cíbēi, \"friendly and compassionate\") and the English \"friendly and compassionate\" are both right, though Chinese readers seeing 慈悲 (cíbēi) may assume it's a Buddhist loanword."
       },
       {
        "w": "ahaṃkāra",
-       "note": "ahaṃkāra 字面是「造出『我』的东西」，指那种「这是我做的」的感觉。白话「我慢」是佛教词，现代中文读者会读成「傲慢」；英文写 free of 'I'，更接近字面。"
+       "note": "ahaṃkāra 字面是「造出『我』的东西」，指那种「这是我做的」的感觉。白话「我慢」是佛教词，现代中文读者会读成「傲慢」；英文写 free of 'I'，更接近字面。",
+       "en": "ahaṃkāra literally means \"the thing that makes an 'I'\": the feeling that \"I did this.\" The plain Chinese 我慢 (wǒmàn, literally \"self-conceit\") is a Buddhist term that modern Chinese readers will take as \"arrogance\"; the English \"free of 'I'\" is closer to the literal sense."
       }
      ]
     },
@@ -3198,7 +3410,8 @@
      "cmp": [
       {
        "w": "sarvārambha-parityāgī",
-       "note": "字面是「放下一切开头、一切发起」。白话加了「刻意的营谋」，把它解释得比较温和；英文照字面写 every undertaking，读者会自己问：难道什么都不做？这个张力在原文里就有。"
+       "note": "字面是「放下一切开头、一切发起」。白话加了「刻意的营谋」，把它解释得比较温和；英文照字面写 every undertaking，读者会自己问：难道什么都不做？这个张力在原文里就有。",
+       "en": "Literally \"letting go of every beginning, every undertaking.\" The plain Chinese adds 刻意的营谋 (kèyì de yíngmóu, \"deliberate scheming\"), softening it; the English keeps the literal \"every undertaking,\" and readers will ask: does that mean doing nothing at all? That tension is in the original."
       }
      ]
     },
@@ -3208,7 +3421,8 @@
      "cmp": [
       {
        "w": "śubhāśubha",
-       "note": "śubha / aśubha 是「吉利的、不吉利的」，也就是人碰到的顺境逆境，不一定是道德上的善恶。白话「善与恶」容易被读成「连好坏都不分」；英文写 the welcome and the unwelcome。"
+       "note": "śubha / aśubha 是「吉利的、不吉利的」，也就是人碰到的顺境逆境，不一定是道德上的善恶。白话「善与恶」容易被读成「连好坏都不分」；英文写 the welcome and the unwelcome。",
+       "en": "śubha / aśubha mean \"auspicious / inauspicious\": the good and bad fortune that comes to people, not necessarily moral good and evil. The plain Chinese 善与恶 (shàn yǔ è, \"good and evil\") can be read as \"not even telling right from wrong\"; the English says \"the welcome and the unwelcome.\""
       }
      ]
     },
@@ -3235,11 +3449,13 @@
      "cmp": [
       {
        "w": "kṣetra",
-       "note": "kṣetra 就是田地，也是「圣地、场所」。全书第一句「在法的田野、俱卢之野」用的正是这个词，战场和身体在梵文里是同一个字。白话「田」、英文 field 都保住了字面，这层呼应要靠读者回想。"
+       "note": "kṣetra 就是田地，也是「圣地、场所」。全书第一句「在法的田野、俱卢之野」用的正是这个词，战场和身体在梵文里是同一个字。白话「田」、英文 field 都保住了字面，这层呼应要靠读者回想。",
+       "en": "kṣetra means a field, and also a sacred place or site. The Gita's very first line, \"on the field of dharma, the field of the Kurus,\" uses this word, so in Sanskrit the battlefield and the body are the same word. The plain Chinese 田 (tián, \"field\") and the English \"field\" keep the literal meaning, but readers have to recall the echo themselves."
       },
       {
        "w": "章节编号",
-       "note": "有些版本本章开头还有一首阿周那的提问（问原质、原人、田、知田者），全章就是 35 首。本站底本没有这一首，所以是 34 首，后面的编号会和那些版本差一号。"
+       "note": "有些版本本章开头还有一首阿周那的提问（问原质、原人、田、知田者），全章就是 35 首。本站底本没有这一首，所以是 34 首，后面的编号会和那些版本差一号。",
+       "en": "Some editions open this chapter with an extra verse in which Arjuna asks about prakṛti, puruṣa, the field and the knower of the field, giving 35 verses. The site's base text lacks it and has 34, so verse numbers from here on are one off from those editions."
       }
      ]
     },
@@ -3257,7 +3473,8 @@
      "cmp": [
       {
        "w": "brahma-sūtra-pada",
-       "note": "可以指后来那部有名的《梵经》，也可以只是泛指「讲梵的格言」。《梵经》成书很可能比这一段晚，所以学者多取后一种。白话写「梵经」、英文写 Brahma Sutras，都偏向了书名的读法。"
+       "note": "可以指后来那部有名的《梵经》，也可以只是泛指「讲梵的格言」。《梵经》成书很可能比这一段晚，所以学者多取后一种。白话写「梵经」、英文写 Brahma Sutras，都偏向了书名的读法。",
+       "en": "This can mean the later, famous Brahma Sutras, or simply \"aphorisms about Brahman\" in general. The Brahma Sutras were probably composed later than this passage, so scholars mostly prefer the second reading. The plain Chinese 梵经 (Fànjīng, \"the Brahma Sutras\") and the English \"Brahma Sutras\" both lean toward the book-title reading."
       }
      ]
     },
@@ -3267,7 +3484,8 @@
      "cmp": [
       {
        "w": "数论清单",
-       "note": "这一串是数论派（Sāṃkhya）的标准清单：五大、我慢、觉、未显、十根加意、五境。白话照着术语译，像一份名词表；英文用了平常的词，读起来懂，但看不出这是一套专门体系。「十种加一」里的「一」就是心意 manas。"
+       "note": "这一串是数论派（Sāṃkhya）的标准清单：五大、我慢、觉、未显、十根加意、五境。白话照着术语译，像一份名词表；英文用了平常的词，读起来懂，但看不出这是一套专门体系。「十种加一」里的「一」就是心意 manas。",
+       "en": "This list is the standard inventory of the Sāṃkhya school: the five elements, ahaṃkāra, buddhi, the unmanifest, the ten senses plus the mind, and the five sense objects. The plain Chinese translates term by term, so it reads like a glossary; the English uses everyday words and is easy to follow, but you can't see it's a technical system. The \"one\" in \"ten and one\" is the mind, manas."
       }
      ]
     },
@@ -3285,7 +3503,8 @@
      "cmp": [
       {
        "w": "vairāgya",
-       "note": "vairāgya 由 vi-rāga 来：rāga 是「颜色、染上的热情」，vairāgya 就是「褪了色」。白话「没有贪恋」、英文 turning away 都译出了意思，丢了「褪色」这个画面。"
+       "note": "vairāgya 由 vi-rāga 来：rāga 是「颜色、染上的热情」，vairāgya 就是「褪了色」。白话「没有贪恋」、英文 turning away 都译出了意思，丢了「褪色」这个画面。",
+       "en": "vairāgya comes from vi-rāga: rāga is \"colour, a passion one is dyed with,\" so vairāgya is \"having the colour fade out.\" The plain Chinese 没有贪恋 (méiyǒu tānliàn, \"without craving\") and the English \"turning away\" both get the meaning but lose the image of fading."
       }
      ]
     },
@@ -3299,7 +3518,8 @@
      "cmp": [
       {
        "w": "avyabhicāriṇī",
-       "note": "vyabhicāra 在梵文里常指「不贞、出轨」。avyabhicāriṇī 是「不出轨的」，用的是夫妻忠贞的比喻。白话「毫不动摇」、英文 unwavering 都把这个比喻抹平了。"
+       "note": "vyabhicāra 在梵文里常指「不贞、出轨」。avyabhicāriṇī 是「不出轨的」，用的是夫妻忠贞的比喻。白话「毫不动摇」、英文 unwavering 都把这个比喻抹平了。",
+       "en": "In Sanskrit vyabhicāra often means \"infidelity, being unfaithful,\" so avyabhicāriṇī, \"not straying,\" draws on the image of marital fidelity. The plain Chinese 毫不动摇 (háo bù dòngyáo, \"not wavering at all\") and the English \"unwavering\" both flatten that metaphor."
       }
      ]
     },
@@ -3309,7 +3529,8 @@
      "cmp": [
       {
        "w": "jñāna",
-       "note": "从第七首到这里，「知识」指的是一长串品行：谦虚、不伤害、忍耐……而不是书本学问。梵文 jñāna 本来就包括「活出来的懂」。白话「知识」、英文 knowledge 都容易被读成头脑里的东西。"
+       "note": "从第七首到这里，「知识」指的是一长串品行：谦虚、不伤害、忍耐……而不是书本学问。梵文 jñāna 本来就包括「活出来的懂」。白话「知识」、英文 knowledge 都容易被读成头脑里的东西。",
+       "en": "From verse 7 to here, \"knowledge\" means a long list of qualities: humility, non-harming, patience and so on, not book learning. Sanskrit jñāna naturally includes this lived understanding. The plain Chinese 知识 (zhīshi, \"knowledge\") and the English \"knowledge\" are both easily read as something in the head."
       }
      ]
     },
@@ -3319,11 +3540,13 @@
      "cmp": [
       {
        "w": "brahman",
-       "note": "brahman 原指吠陀祭祀里有力量的话语，后来指一切背后那个终极实在。白话音译「梵」，英文保留 Brahman，都没有硬找一个对应词，这是对的。要和创世神「梵天」Brahmā 分开。"
+       "note": "brahman 原指吠陀祭祀里有力量的话语，后来指一切背后那个终极实在。白话音译「梵」，英文保留 Brahman，都没有硬找一个对应词，这是对的。要和创世神「梵天」Brahmā 分开。",
+       "en": "brahman originally meant the potent words of the Vedic sacrifice and later the ultimate reality behind everything. The plain Chinese transliterates it as 梵 (Fàn) and the English keeps \"Brahman\"; neither forces an equivalent, which is right. Keep it distinct from the creator god Brahmā, 梵天 (Fàntiān)."
       },
       {
        "w": "anādimat paraṃ",
-       "note": "这几个字还可以断成 anādi mat-paraṃ：「无始的、以我为至高的梵」。白话和英文都取了常见断法，另一种断法会让梵在克里希那之下。"
+       "note": "这几个字还可以断成 anādi mat-paraṃ：「无始的、以我为至高的梵」。白话和英文都取了常见断法，另一种断法会让梵在克里希那之下。",
+       "en": "These words can also be divided as anādi mat-paraṃ: \"beginningless Brahman, which has me as its highest.\" The plain Chinese and the English both follow the usual division; the other reading would place Brahman below Krishna."
       }
      ]
     },
@@ -3337,7 +3560,8 @@
      "cmp": [
       {
        "w": "guṇa",
-       "note": "guṇa 本义是「股、线」，三根线拧成一股绳：明（sattva）、动（rajas）、暗（tamas），万物都由这三股编成。本站英文第一次写 the three qualities (gunas)；白话这里写「属性」，下文又写「三德」，同一个词前后换了说法，读者容易以为是两回事。"
+       "note": "guṇa 本义是「股、线」，三根线拧成一股绳：明（sattva）、动（rajas）、暗（tamas），万物都由这三股编成。本站英文第一次写 the three qualities (gunas)；白话这里写「属性」，下文又写「三德」，同一个词前后换了说法，读者容易以为是两回事。",
+       "en": "guṇa originally means \"strand, thread\": three strands twisted into one rope, sattva (light), rajas (motion) and tamas (darkness), from which all things are woven. The site's English first writes \"the three qualities (gunas)\"; the plain Chinese says 属性 (shǔxìng, \"attributes\") here and 三德 (sāndé, \"the three virtues/qualities\") later, so readers may think they're two different things."
       }
      ]
     },
@@ -3363,7 +3587,8 @@
      "cmp": [
       {
        "w": "prakṛti / puruṣa",
-       "note": "这是数论的一对概念：prakṛti 是会变的一切材料，连心理活动都算在里面；puruṣa 是只看不做的那个觉知。白话「原质」「原人」是学术译名，英文 nature、person 是普通词，读起来亲切，但 nature 容易被想成「大自然」。"
+       "note": "这是数论的一对概念：prakṛti 是会变的一切材料，连心理活动都算在里面；puruṣa 是只看不做的那个觉知。白话「原质」「原人」是学术译名，英文 nature、person 是普通词，读起来亲切，但 nature 容易被想成「大自然」。",
+       "en": "This is Sāṃkhya's key pair: prakṛti is all changing material, mental activity included; puruṣa is the awareness that only watches and never acts. The plain Chinese 原质 (yuánzhì, \"primal matter\") and 原人 (yuánrén, \"primal person\") are academic terms; the English \"nature\" and \"person\" are everyday words that feel friendly, though \"nature\" is easily mistaken for the natural world."
       }
      ]
     },
@@ -3377,7 +3602,8 @@
      "cmp": [
       {
        "w": "bhuṅkte",
-       "note": "动词 bhuj 本义是「吃」，引申为「受用、经历」。白话「享受」听起来是好事，可这里苦也算在里面；英文 experiences 比较中性。"
+       "note": "动词 bhuj 本义是「吃」，引申为「受用、经历」。白话「享受」听起来是好事，可这里苦也算在里面；英文 experiences 比较中性。",
+       "en": "The verb bhuj originally means \"to eat,\" extended to \"to enjoy, to undergo.\" The plain Chinese 享受 (xiǎngshòu, \"to enjoy\") sounds like a good thing, but suffering counts too here; the English \"experiences\" is more neutral."
       }
      ]
     },
@@ -3395,11 +3621,13 @@
      "cmp": [
       {
        "w": "ātmani ātmānam ātmanā",
-       "note": "梵文连用三个 ātman：「在自己里、看见自己、凭着自己」，像绕口令。白话拆成「凭自己在自己里面看见自我」，英文照字序写 the self in the self by the self，保住了重复的节奏。"
+       "note": "梵文连用三个 ātman：「在自己里、看见自己、凭着自己」，像绕口令。白话拆成「凭自己在自己里面看见自我」，英文照字序写 the self in the self by the self，保住了重复的节奏。",
+       "en": "The Sanskrit uses ātman three times in a row, \"in the self, the self, by the self,\" like a tongue-twister. The plain Chinese breaks it up as 凭自己在自己里面看见自我 (\"by oneself, sees the self within oneself\"); the English follows the word order, \"the self in the self by the self,\" keeping the repetitive rhythm."
       },
       {
        "w": "sāṃkhya",
-       "note": "这里的 sāṃkhya 字面是「计数、辨析」，指靠理智一项项分清的路，不一定是后来那个成型的数论学派。白话写「数论」，英文写 the yoga of discernment。"
+       "note": "这里的 sāṃkhya 字面是「计数、辨析」，指靠理智一项项分清的路，不一定是后来那个成型的数论学派。白话写「数论」，英文写 the yoga of discernment。",
+       "en": "Here sāṃkhya literally means \"counting, discrimination\": the path of sorting things out one by one with the intellect, not necessarily the later formal Sāṃkhya school. The plain Chinese writes 数论 (Shùlùn, the school's Chinese name, literally \"theory of numbers\"); the English says \"the yoga of discernment.\""
       }
      ]
     },
@@ -3441,7 +3669,8 @@
      "cmp": [
       {
        "w": "kṣetrī",
-       "note": "这里换了一个词：kṣetrin「田的主人」，不是前面的 kṣetrajña「知田者」。白话仍写「知田者」，把两个词并成一个；英文写 master of the field，保留了「主人」。"
+       "note": "这里换了一个词：kṣetrin「田的主人」，不是前面的 kṣetrajña「知田者」。白话仍写「知田者」，把两个词并成一个；英文写 master of the field，保留了「主人」。",
+       "en": "A different word appears here: kṣetrin, \"owner of the field,\" not the earlier kṣetrajña, \"knower of the field.\" The plain Chinese still says 知田者 (zhītiánzhě, \"knower of the field\"), merging the two; the English says \"master of the field,\" keeping the idea of ownership."
       }
      ]
     },
@@ -3468,7 +3697,8 @@
      "cmp": [
       {
        "w": "mahad brahma",
-       "note": "这里的 brahman 不是后面说的那个终极实在，而是指「原质」(prakṛti)，也就是一切生出来的东西的母体。英文照字面写 great Brahman，中文写「伟大的梵」，读者容易以为黑天把至高的梵当成了自己的子宫；其实他是在说：物质世界是母亲，我是父亲。"
+       "note": "这里的 brahman 不是后面说的那个终极实在，而是指「原质」(prakṛti)，也就是一切生出来的东西的母体。英文照字面写 great Brahman，中文写「伟大的梵」，读者容易以为黑天把至高的梵当成了自己的子宫；其实他是在说：物质世界是母亲，我是父亲。",
+       "en": "This brahman isn't the ultimate reality discussed later; it means prakṛti, the womb of everything that is born. The English literally writes \"great Brahman\" and the Chinese 伟大的梵 (wěidà de Fàn, \"great Brahman\"), so readers may think Krishna is calling the supreme Brahman his womb. What he actually means is: the material world is the mother and I am the father."
       }
      ]
     },
@@ -3482,11 +3712,13 @@
      "cmp": [
       {
        "w": "guṇa",
-       "note": "guṇa 本义是「一股线、一条绳」，所以下一句马上说它们「捆绑」人，原文里的比喻是连着的。英文 quality、中文「德」都把这层绳子的意思丢了。中文「德」还容易让人想到「道德」，其实三德并不都是好品质。"
+       "note": "guṇa 本义是「一股线、一条绳」，所以下一句马上说它们「捆绑」人，原文里的比喻是连着的。英文 quality、中文「德」都把这层绳子的意思丢了。中文「德」还容易让人想到「道德」，其实三德并不都是好品质。",
+       "en": "guṇa originally means \"a strand, a rope,\" which is why the next line says they \"bind\" a person; the metaphor runs straight through. The English \"quality\" and the Chinese 德 (dé, \"virtue, quality\") both lose the rope. 德 also suggests morality, yet the three guṇas aren't all good qualities."
       },
       {
        "w": "sattva / rajas / tamas",
-       "note": "本站白话直接音译成「萨埵、罗阇、多摩」，不替它们下定义；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。"
+       "note": "本站白话直接音译成「萨埵、罗阇、多摩」，不替它们下定义；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。",
+       "en": "The site's plain Chinese simply transliterates them as 萨埵、罗阇、多摩 (Sàduǒ, Luóshé, Duōmó) without defining them. The usual Chinese renderings 善性、激性、惰性 (shànxìng, jīxìng, duòxìng: \"goodness, passion, inertia\") and the usual English \"goodness / passion / darkness\" each catch only one side. sattva literally means \"being, reality,\" extended to brightness and clarity; rajas first meant \"dust, haze,\" extended to restlessness; tamas simply means \"darkness.\" The site's English keeps the Sanskrit words and glosses each with two words the first time."
       }
      ]
     },
@@ -3496,7 +3728,8 @@
      "cmp": [
       {
        "w": "badhnāti",
-       "note": "很多人以为 sattva 是「好的那一种」，修到它就对了。这一句说得很清楚：sattva 一样在捆人，只是用的是快乐和知识这两根比较舒服的绳子。英文和中文都照实译出了「束缚」，读的时候别滑过去。"
+       "note": "很多人以为 sattva 是「好的那一种」，修到它就对了。这一句说得很清楚：sattva 一样在捆人，只是用的是快乐和知识这两根比较舒服的绳子。英文和中文都照实译出了「束缚」，读的时候别滑过去。",
+       "en": "Many people think sattva is \"the good one\" and that reaching it is the goal. This verse is clear: sattva binds too, just with the more comfortable ropes of happiness and knowledge. Both the English and the Chinese faithfully translate the \"binding\"; don't skim past it."
       }
      ]
     },
@@ -3522,7 +3755,8 @@
      "cmp": [
       {
        "w": "sarva-dvāreṣu",
-       "note": "原文只说「所有的门」，没说是哪些门。古人通常理解为眼耳口鼻等九个孔窍。中文白话加了括号「感官」把意思点明；英文照原文留下 gates 这个画面。"
+       "note": "原文只说「所有的门」，没说是哪些门。古人通常理解为眼耳口鼻等九个孔窍。中文白话加了括号「感官」把意思点明；英文照原文留下 gates 这个画面。",
+       "en": "The original just says \"all the gates,\" without naming them; traditionally they're the nine openings such as eyes, ears, mouth and nose. The plain Chinese adds the bracket 感官 (gǎnguān, \"senses\") to spell it out; the English keeps the image of \"gates\" as the original does."
       }
      ]
     },
@@ -3560,7 +3794,8 @@
      "cmp": [
       {
        "w": "nānyaṃ guṇebhyaḥ kartāram",
-       "note": "这是全书一个反直觉的想法：真正在「做事」的是三德，不是那个看着的自我。英文 no doer other than the qualities、中文「除了三德以外再没有别的行动者」都照直译了，意思是：认出「不是我在做」，人就松开了。"
+       "note": "这是全书一个反直觉的想法：真正在「做事」的是三德，不是那个看着的自我。英文 no doer other than the qualities、中文「除了三德以外再没有别的行动者」都照直译了，意思是：认出「不是我在做」，人就松开了。",
+       "en": "This is one of the Gita's counter-intuitive ideas: what really \"acts\" is the three guṇas, not the watching self. The English \"no doer other than the qualities\" and the Chinese 除了三德以外再没有别的行动者 (\"apart from the three guṇas there is no other doer\") translate it straight. The point: once you see \"it isn't I who act,\" you let go."
       }
      ]
     },
@@ -3570,7 +3805,8 @@
      "cmp": [
       {
        "w": "amṛtam aśnute",
-       "note": "amṛta 既是「不死」，也是神话里喝了就不死的「甘露」；aśnute 是「吃、享用」。所以原文有一层「喝到甘露」的画面。中文「尝到不死」、英文 tastes what does not die 都想同时保住这两层。"
+       "note": "amṛta 既是「不死」，也是神话里喝了就不死的「甘露」；aśnute 是「吃、享用」。所以原文有一层「喝到甘露」的画面。中文「尝到不死」、英文 tastes what does not die 都想同时保住这两层。",
+       "en": "amṛta is both \"deathlessness\" and the mythical nectar that makes you immortal; aśnute means \"eats, enjoys.\" So the original carries an image of drinking the nectar. The Chinese 尝到不死 (chángdào bù sǐ, \"tastes deathlessness\") and the English \"tastes what does not die\" both try to keep both layers."
       }
      ]
     },
@@ -3588,7 +3824,8 @@
      "cmp": [
       {
        "w": "udāsīnavat",
-       "note": "udāsīna 字面是「坐在高处的人」，指在争执里不站队的中立者。它不是冷漠，而是不被卷进去。中文「旁观者」稍微带点事不关己的味道，英文 looking on from outside 也一样，原意更中性。"
+       "note": "udāsīna 字面是「坐在高处的人」，指在争执里不站队的中立者。它不是冷漠，而是不被卷进去。中文「旁观者」稍微带点事不关己的味道，英文 looking on from outside 也一样，原意更中性。",
+       "en": "udāsīna literally means \"one sitting up high\": a neutral party who doesn't take sides in a dispute. It isn't indifference but not getting drawn in. The Chinese 旁观者 (pángguānzhě, \"bystander\") has a slight air of \"none of my business,\" and the English \"looking on from outside\" does too; the original is more neutral."
       }
      ]
     },
@@ -3598,7 +3835,8 @@
      "cmp": [
       {
        "w": "svasthaḥ",
-       "note": "svastha 字面是「住在自己里面」，后来在梵文和印地语里变成了日常词「健康」。中文「安住于自身」、英文 rests in himself 都取字面；其实原文暗含着：回到自己，就是健康。"
+       "note": "svastha 字面是「住在自己里面」，后来在梵文和印地语里变成了日常词「健康」。中文「安住于自身」、英文 rests in himself 都取字面；其实原文暗含着：回到自己，就是健康。",
+       "en": "svastha literally means \"abiding in oneself,\" and later became the everyday Sanskrit and Hindi word for \"healthy.\" The Chinese 安住于自身 (ānzhù yú zìshēn, \"resting in oneself\") and the English \"rests in himself\" take the literal sense; the original quietly implies that coming back to yourself is health."
       }
      ]
     },
@@ -3612,7 +3850,8 @@
      "cmp": [
       {
        "w": "bhakti",
-       "note": "bhakti 来自「分享、分得一份」，指人和神之间彼此相属的爱。英文 devotion 偏向「献身、忠诚」，中文「虔爱」把「虔诚」和「爱」合在一起，比单说「信仰」更接近原文的亲密感。"
+       "note": "bhakti 来自「分享、分得一份」，指人和神之间彼此相属的爱。英文 devotion 偏向「献身、忠诚」，中文「虔爱」把「虔诚」和「爱」合在一起，比单说「信仰」更接近原文的亲密感。",
+       "en": "bhakti comes from \"sharing, receiving a share\": the love of mutual belonging between a person and God. The English \"devotion\" leans toward dedication and loyalty; the Chinese 虔爱 (qián'ài, \"devout love\") combines piety and love, closer to the original's intimacy than plain 信仰 (xìnyǎng, \"faith, belief\")."
       }
      ]
     },
@@ -3631,11 +3870,13 @@
      "cmp": [
       {
        "w": "aśvattha",
-       "note": "aśvattha 是菩提树那一类的圣无花果树，中文用的是另一个名字「毕钵罗树」，佛经读者会联想到佛陀成道的树。古代注家还把这个词拆成「活不到明天」，用来说世界无常；可这里偏偏又说它「永不毁灭」，原文的张力在中英文里都看不出来。"
+       "note": "aśvattha 是菩提树那一类的圣无花果树，中文用的是另一个名字「毕钵罗树」，佛经读者会联想到佛陀成道的树。古代注家还把这个词拆成「活不到明天」，用来说世界无常；可这里偏偏又说它「永不毁灭」，原文的张力在中英文里都看不出来。",
+       "en": "The aśvattha is the sacred fig, the same kind as the bodhi tree; the Chinese uses another name, 毕钵罗树 (bìbōluó shù, \"pippala tree\"), and readers of Buddhist scripture will think of the tree of the Buddha's enlightenment. Old commentators also split the word as \"won't last till tomorrow\" to speak of the world's impermanence, yet here it is called \"imperishable\"; that tension in the original is invisible in both Chinese and English."
       },
       {
        "w": "chandāṃsi",
-       "note": "chandas 原指吠陀诗的「格律」，后来泛指吠陀颂诗。中文「诗篇」、英文 hymns 都取了后一个意思。"
+       "note": "chandas 原指吠陀诗的「格律」，后来泛指吠陀颂诗。中文「诗篇」、英文 hymns 都取了后一个意思。",
+       "en": "chandas originally meant the metres of Vedic poetry and later Vedic hymns in general. The Chinese 诗篇 (shīpiān, \"poems, psalms\") and the English \"hymns\" both take the later meaning."
       }
      ]
     },
@@ -3649,7 +3890,8 @@
      "cmp": [
       {
        "w": "asaṅga-śastreṇa",
-       "note": "śastra 是泛称的「刀、兵器」。中文白话说成「斧头」，画面更具体，像在砍树；英文用 blade，贴近原文那种不指定工具的说法。"
+       "note": "śastra 是泛称的「刀、兵器」。中文白话说成「斧头」，画面更具体，像在砍树；英文用 blade，贴近原文那种不指定工具的说法。",
+       "en": "śastra is a general word for \"blade, weapon.\" The plain Chinese makes it 斧头 (fǔtou, \"axe\"), a more concrete picture, as if chopping down a tree; the English \"blade\" stays close to the original's unspecified tool."
       }
      ]
     },
@@ -3659,7 +3901,8 @@
      "cmp": [
       {
        "w": "puruṣa",
-       "note": "puruṣa 本义就是「人、男人」，在《梨俱吠陀》里是那个被献祭、身体化成世界的「原初巨人」。中文「原人」保住了这层神话；英文 Person 太日常，所以本站第一次加注 spirit。注意这里的 puruṣa 和数论里与原质相对的「神我」用的是同一个词。"
+       "note": "puruṣa 本义就是「人、男人」，在《梨俱吠陀》里是那个被献祭、身体化成世界的「原初巨人」。中文「原人」保住了这层神话；英文 Person 太日常，所以本站第一次加注 spirit。注意这里的 puruṣa 和数论里与原质相对的「神我」用的是同一个词。",
+       "en": "puruṣa basically means \"person, man\"; in the Rig Veda it is the primal giant who was sacrificed and whose body became the world. The Chinese 原人 (yuánrén, \"primal man\") keeps that myth; the English \"Person\" is too everyday, so the site adds the gloss \"spirit\" the first time. Note that this puruṣa is the same word as Sāṃkhya's 神我 (shénwǒ, \"spirit-self\"), the counterpart of prakṛti."
       }
      ]
     },
@@ -3677,7 +3920,8 @@
      "cmp": [
       {
        "w": "aṃśa",
-       "note": "aṃśa 是「一份、一部分」，像从整块里分出来的一份。中文、英文都译成「部分」；原文的意思是：每个个体生命都是神的一份，不是神造出来的另一样东西。"
+       "note": "aṃśa 是「一份、一部分」，像从整块里分出来的一份。中文、英文都译成「部分」；原文的意思是：每个个体生命都是神的一份，不是神造出来的另一样东西。",
+       "en": "aṃśa means \"a share, a portion,\" like a piece taken from a whole. Both the Chinese and the English say \"part\"; the original means each individual life is a share of God, not something separate that God made."
       }
      ]
     },
@@ -3687,7 +3931,8 @@
      "cmp": [
       {
        "w": "āśayāt",
-       "note": "āśaya 是「停放处、所在」。中文白话说成「花丛」，比喻更好懂；英文 from where they lie 照原文留空，让读者自己补上是花还是别的什么。"
+       "note": "āśaya 是「停放处、所在」。中文白话说成「花丛」，比喻更好懂；英文 from where they lie 照原文留空，让读者自己补上是花还是别的什么。",
+       "en": "āśaya means \"resting place, where something lies.\" The plain Chinese makes it 花丛 (huācóng, \"flower beds\"), an easier metaphor; the English \"from where they lie\" leaves it open as the original does, letting readers supply flowers or anything else."
       }
      ]
     },
@@ -3713,7 +3958,8 @@
      "cmp": [
       {
        "w": "somaḥ",
-       "note": "soma 既是祭祀用的神圣饮料，也是「月亮」的名字；古印度人相信月亮把汁液洒给草木。中文音译「苏摩」、英文 soma 都只剩饮料这一面，看不出它和上一句「月亮的光辉」是连着的。"
+       "note": "soma 既是祭祀用的神圣饮料，也是「月亮」的名字；古印度人相信月亮把汁液洒给草木。中文音译「苏摩」、英文 soma 都只剩饮料这一面，看不出它和上一句「月亮的光辉」是连着的。",
+       "en": "soma is both the sacred ritual drink and a name for the moon; ancient Indians believed the moon showered its juices on plants. The Chinese transliteration 苏摩 (Sūmó) and the English \"soma\" keep only the drink, so you can't see the link to the previous line's \"light of the moon.\""
       }
      ]
     },
@@ -3723,7 +3969,8 @@
      "cmp": [
       {
        "w": "vaiśvānara",
-       "note": "vaiśvānara 原意是「属于一切人的」火，是吠陀里火神的一个称号。中文白话直接意译成「消化之火」，英文保留原名再说明。四种食物，注家一般说是嚼的、吮的、舔的、喝的。"
+       "note": "vaiśvānara 原意是「属于一切人的」火，是吠陀里火神的一个称号。中文白话直接意译成「消化之火」，英文保留原名再说明。四种食物，注家一般说是嚼的、吮的、舔的、喝的。",
+       "en": "vaiśvānara originally means the fire \"belonging to all people,\" a Vedic title of the fire god. The plain Chinese translates it directly as 消化之火 (xiāohuà zhī huǒ, \"the fire of digestion\"); the English keeps the name and explains it. The four kinds of food are usually said by commentators to be chewed, sucked, licked and drunk."
       }
      ]
     },
@@ -3733,7 +3980,8 @@
      "cmp": [
       {
        "w": "vedānta",
-       "note": "vedānta 字面是「吠陀的终点」，最早指附在吠陀最后的奥义书，不一定是后来的哲学派别。中文「吠檀多的创立者」容易让人想到一个学派的祖师；英文 Vedanta 也有同样的问题。"
+       "note": "vedānta 字面是「吠陀的终点」，最早指附在吠陀最后的奥义书，不一定是后来的哲学派别。中文「吠檀多的创立者」容易让人想到一个学派的祖师；英文 Vedanta 也有同样的问题。",
+       "en": "vedānta literally means \"the end of the Veda\" and first referred to the Upanishads attached at the end of the Vedas, not necessarily the later school. The Chinese 吠檀多的创立者 (Fèitánduō de chuànglìzhě, \"founder of Vedanta\") suggests the founder of a school; the English \"Vedanta\" has the same problem."
       }
      ]
     },
@@ -3743,7 +3991,8 @@
      "cmp": [
       {
        "w": "kūṭasthaḥ",
-       "note": "kūṭa 是铁匠的砧子，kūṭastha 是「像砧子一样立着」：上面怎么敲打，它自己不动。中文「恒常不动者」只给了意思，英文保留了砧子这个画面。"
+       "note": "kūṭa 是铁匠的砧子，kūṭastha 是「像砧子一样立着」：上面怎么敲打，它自己不动。中文「恒常不动者」只给了意思，英文保留了砧子这个画面。",
+       "en": "kūṭa is a blacksmith's anvil, and kūṭastha is \"standing like an anvil\": however it's struck, it doesn't move. The Chinese 恒常不动者 (héngcháng bù dòng zhě, \"the constant, unmoving one\") gives only the meaning; the English keeps the anvil image."
       }
      ]
     },
@@ -3757,7 +4006,8 @@
      "cmp": [
       {
        "w": "puruṣottama",
-       "note": "puruṣa + uttama，「人中最高的」。本章名就从这里来。中文「至上原人」、英文 Highest Person 都对得上；只是原文这个词在日常里也可以是对优秀男子的赞美，带着一点亲切感。"
+       "note": "puruṣa + uttama，「人中最高的」。本章名就从这里来。中文「至上原人」、英文 Highest Person 都对得上；只是原文这个词在日常里也可以是对优秀男子的赞美，带着一点亲切感。",
+       "en": "puruṣa + uttama: \"highest among persons.\" This chapter is named after it. The Chinese 至上原人 (zhìshàng yuánrén, \"supreme primal person\") and the English \"Highest Person\" both match; in everyday use, though, the word can also praise an outstanding man, giving it a touch of warmth."
       }
      ]
     },
@@ -3771,7 +4021,8 @@
      "cmp": [
       {
        "w": "buddhvā buddhimān",
-       "note": "原文是同一个词根的文字游戏：「懂了(buddhvā)，就成了懂的人(buddhimān)」。中英文都没办法保住这个回声。kṛta-kṛtya 字面是「该做的都做完了」，中文「完成了一生该做的事」很贴切。"
+       "note": "原文是同一个词根的文字游戏：「懂了(buddhvā)，就成了懂的人(buddhimān)」。中英文都没办法保住这个回声。kṛta-kṛtya 字面是「该做的都做完了」，中文「完成了一生该做的事」很贴切。",
+       "en": "The original is a play on one root: \"having understood (buddhvā), one becomes a person of understanding (buddhimān).\" Neither Chinese nor English can keep the echo. kṛta-kṛtya literally means \"having done what was to be done,\" and the Chinese 完成了一生该做的事 (\"has done what one's life was meant to do\") fits it well."
       }
      ]
     }
@@ -3786,7 +4037,8 @@
      "cmp": [
       {
        "w": "tapas",
-       "note": "tapas 本义是「热」，指通过修炼在自己身上生起的一股热力。中文「苦行」强调受苦，英文 austerity 也偏向「刻苦」。原文的重点不在吃苦，而在磨炼出力量，所以本站英文这里用了较中性的 discipline。"
+       "note": "tapas 本义是「热」，指通过修炼在自己身上生起的一股热力。中文「苦行」强调受苦，英文 austerity 也偏向「刻苦」。原文的重点不在吃苦，而在磨炼出力量，所以本站英文这里用了较中性的 discipline。",
+       "en": "tapas originally means \"heat\": the heat raised in oneself through discipline. The Chinese 苦行 (kǔxíng, \"ascetic hardship\") stresses suffering, and the English \"austerity\" also leans toward hardship. The original's point is not suffering but forging strength, so the site's English uses the more neutral \"discipline\" here."
       }
      ]
     },
@@ -3800,7 +4052,8 @@
      "cmp": [
       {
        "w": "saṃpad",
-       "note": "saṃpad 是「财产、家当」。原文的画面是：人生下来就继承了一份家当，有的是神性的，有的是魔性的。中文「禀赋」偏向天生的性格，英文用 inheritance 保住了「分到一份家产」的意思。"
+       "note": "saṃpad 是「财产、家当」。原文的画面是：人生下来就继承了一份家当，有的是神性的，有的是魔性的。中文「禀赋」偏向天生的性格，英文用 inheritance 保住了「分到一份家产」的意思。",
+       "en": "saṃpad means \"property, estate.\" The image is that people are born inheriting an estate, some divine, some demonic. The Chinese 禀赋 (bǐngfù, \"natural endowment\") leans toward innate temperament; the English \"inheritance\" keeps the sense of receiving a share of an estate."
       }
      ]
     },
@@ -3818,7 +4071,8 @@
      "cmp": [
       {
        "w": "āsura",
-       "note": "asura 在吠陀神话里是和天神争位的另一族神灵，不是基督教里的魔鬼。中文「魔性」、英文 demonic 都比原文更像「恶魔」。黑天说的其实是两种人的性情，不是两种物种。"
+       "note": "asura 在吠陀神话里是和天神争位的另一族神灵，不是基督教里的魔鬼。中文「魔性」、英文 demonic 都比原文更像「恶魔」。黑天说的其实是两种人的性情，不是两种物种。",
+       "en": "In Vedic myth the asuras are another race of divine beings who contended with the gods, not devils in the Christian sense. The Chinese 魔性 (móxìng, \"demonic nature\") and the English \"demonic\" both sound more like demons than the original. Krishna is really describing two human temperaments, not two species."
       }
      ]
     },
@@ -3828,7 +4082,8 @@
      "cmp": [
       {
        "w": "pravṛtti / nivṛtti",
-       "note": "这一对词是「向外投入」和「向内收回」，在印度思想里也指入世行动和出世修行两条路。中文白话译成「什么该做、什么不该做」，英文译成 when to act and when to hold back，都是取了其中的一层。"
+       "note": "这一对词是「向外投入」和「向内收回」，在印度思想里也指入世行动和出世修行两条路。中文白话译成「什么该做、什么不该做」，英文译成 when to act and when to hold back，都是取了其中的一层。",
+       "en": "This pair means \"turning outward to engage\" and \"drawing back inward,\" and in Indian thought also the two paths of worldly action and renunciant practice. The plain Chinese renders it 什么该做、什么不该做 (\"what should be done and what shouldn't\") and the English \"when to act and when to hold back\"; each takes one layer."
       }
      ]
     },
@@ -3838,7 +4093,8 @@
      "cmp": [
       {
        "w": "aparaspara-saṃbhūtam",
-       "note": "这几个字很难解，字面大约是「不是彼此…而生的」。传统注家多半读成「由男女结合而生」，中文白话照这个读法加了括号；英文只写「由东西相互结合而来」，不替原文补上男女。"
+       "note": "这几个字很难解，字面大约是「不是彼此…而生的」。传统注家多半读成「由男女结合而生」，中文白话照这个读法加了括号；英文只写「由东西相互结合而来」，不替原文补上男女。",
+       "en": "These words are hard to construe; literally something like \"not born from one another.\" Traditional commentators mostly read it as \"born of the union of man and woman,\" and the plain Chinese adds that in brackets; the English just says \"from things combining with each other,\" without supplying man and woman."
       }
      ]
     },
@@ -3872,7 +4128,8 @@
      "cmp": [
       {
        "w": "yakṣye dāsyāmi",
-       "note": "有意思的是，这些「魔性」的人也说要祭祀、要布施，跟神性禀赋那张清单上的一样。差别不在做什么，而在为了什么：这里的祭祀和布施是拿来炫耀身份的。中英文都照原文保留了这个讽刺。"
+       "note": "有意思的是，这些「魔性」的人也说要祭祀、要布施，跟神性禀赋那张清单上的一样。差别不在做什么，而在为了什么：这里的祭祀和布施是拿来炫耀身份的。中英文都照原文保留了这个讽刺。",
+       "en": "Interestingly, these \"demonic\" people also say they will sacrifice and give alms, just like the list of divine qualities. The difference isn't what they do but why: here sacrifice and giving are status displays. Both the Chinese and the English keep this irony as the original has it."
       }
      ]
     },
@@ -3882,7 +4139,8 @@
      "cmp": [
       {
        "w": "naraka",
-       "note": "naraka 在印度传统里是受苦的去处，但一般不是永远的，罪报完了还会再投生。中文「地狱」、英文 hell 都容易让读者想到基督教那种永远的惩罚。"
+       "note": "naraka 在印度传统里是受苦的去处，但一般不是永远的，罪报完了还会再投生。中文「地狱」、英文 hell 都容易让读者想到基督教那种永远的惩罚。",
+       "en": "In Indian tradition naraka is a place of suffering, but usually not forever; once the debt is paid, one is reborn. The Chinese 地狱 (dìyù, \"hell\") and the English \"hell\" both easily suggest the Christian idea of eternal punishment."
       }
      ]
     },
@@ -3896,7 +4154,8 @@
      "cmp": [
       {
        "w": "ahaṃkāra",
-       "note": "ahaṃkāra 字面是「造出『我』的那个东西」，在数论里是一个心理机能，不只是「骄傲」。中文白话借用了佛经的「我慢」，英文用 ego。两个译法都偏向道德上的自大，原词更像是：心里那个一直在说「我、我的」的声音。后面第十七、十八章还会出现，意思一样。"
+       "note": "ahaṃkāra 字面是「造出『我』的那个东西」，在数论里是一个心理机能，不只是「骄傲」。中文白话借用了佛经的「我慢」，英文用 ego。两个译法都偏向道德上的自大，原词更像是：心里那个一直在说「我、我的」的声音。后面第十七、十八章还会出现，意思一样。",
+       "en": "ahaṃkāra literally means \"the thing that makes an 'I'\"; in Sāṃkhya it's a mental faculty, not just pride. The plain Chinese borrows the Buddhist 我慢 (wǒmàn, \"self-conceit\") and the English uses \"ego\"; both lean toward moral arrogance, while the original word is more like the voice inside that keeps saying \"I, mine.\" It recurs in Chapters 17 and 18 with the same meaning."
       }
      ]
     },
@@ -3926,7 +4185,8 @@
      "cmp": [
       {
        "w": "śāstraṃ pramāṇam",
-       "note": "pramāṇa 是印度哲学里的「量」，也就是可靠知识的来源，像量尺一样。中文「准则」、英文 measure 都对。śāstra 在这里指吠陀与律法一类的典籍，不是泛指一切书。"
+       "note": "pramāṇa 是印度哲学里的「量」，也就是可靠知识的来源，像量尺一样。中文「准则」、英文 measure 都对。śāstra 在这里指吠陀与律法一类的典籍，不是泛指一切书。",
+       "en": "pramāṇa is the Indian philosophical term for a valid means of knowledge, something to measure by, like a ruler. The Chinese 准则 (zhǔnzé, \"standard\") and the English \"measure\" are both right. śāstra here means scriptures like the Vedas and law codes, not books in general."
       }
      ]
     }
@@ -3941,7 +4201,8 @@
      "cmp": [
       {
        "w": "śraddhā",
-       "note": "śraddhā 常被译成「信仰」，但它不是相信某套教义，而是对一件事全心投入、信得过的那份心意，有点像「诚意加信任」。本站白话用「信心」，英文用 faith，都比「信仰」更接近。这一章整章讲它：你把心放在哪里，你就成了什么样的人。"
+       "note": "śraddhā 常被译成「信仰」，但它不是相信某套教义，而是对一件事全心投入、信得过的那份心意，有点像「诚意加信任」。本站白话用「信心」，英文用 faith，都比「信仰」更接近。这一章整章讲它：你把心放在哪里，你就成了什么样的人。",
+       "en": "śraddhā is often translated as \"religious belief,\" but it isn't believing a doctrine; it's the wholehearted, trusting commitment you put into something, a bit like sincerity plus trust. The site's plain Chinese uses 信心 (xìnxīn, \"trust, confidence\") and the English \"faith,\" both closer than 信仰 (xìnyǎng, \"religious belief\"). This whole chapter is about it: where you set your heart is what you become."
       }
      ]
     },
@@ -3955,11 +4216,13 @@
      "cmp": [
       {
        "w": "sattvānurūpā",
-       "note": "这里的 sattva 不是三德里的那个 sattva，而是它的本义「本性、心性」。中文白话译成「本性」，英文写 inner being，都避开了混淆；只看梵文的人很容易误读成「信心随 sattva 而定」。"
+       "note": "这里的 sattva 不是三德里的那个 sattva，而是它的本义「本性、心性」。中文白话译成「本性」，英文写 inner being，都避开了混淆；只看梵文的人很容易误读成「信心随 sattva 而定」。",
+       "en": "This sattva isn't the guṇa sattva but its root sense, \"nature, inner disposition.\" The plain Chinese renders it 本性 (běnxìng, \"one's nature\") and the English \"inner being,\" both avoiding confusion; someone reading only the Sanskrit could easily misread it as \"faith follows sattva.\""
       },
       {
        "w": "śraddhā-mayaḥ",
-       "note": "-maya 是「由……构成」。原文说人「是信心做成的」，比中文「由信心构成」、英文 made of faith 读起来更直接：你相信什么，就是什么。"
+       "note": "-maya 是「由……构成」。原文说人「是信心做成的」，比中文「由信心构成」、英文 made of faith 读起来更直接：你相信什么，就是什么。",
+       "en": "-maya means \"made of.\" The original says a person \"is made of faith,\" which reads even more directly than the Chinese 由信心构成 (yóu xìnxīn gòuchéng, \"composed of faith\") or the English \"made of faith\": what you trust in is what you are."
       }
      ]
     },
@@ -3969,7 +4232,8 @@
      "cmp": [
       {
        "w": "yakṣa-rakṣāṃsi",
-       "note": "yakṣa 是守护财宝、半神半妖的精灵，佛经里的「夜叉」就是它；rakṣas 是吃人的夜间恶鬼，佛经译「罗刹」。中文白话用了「药叉」「罗刹」，英文只能音译加括号说明。"
+       "note": "yakṣa 是守护财宝、半神半妖的精灵，佛经里的「夜叉」就是它；rakṣas 是吃人的夜间恶鬼，佛经译「罗刹」。中文白话用了「药叉」「罗刹」，英文只能音译加括号说明。",
+       "en": "A yakṣa is a half-divine, half-demonic spirit guarding treasure, the 夜叉 (yèchà) of Buddhist scripture; a rakṣas is a man-eating night demon, the Buddhist 罗刹 (luóchà). The plain Chinese uses 药叉 (yàochā) and 罗刹 (luóchà); the English can only transliterate and explain in brackets."
       }
      ]
     },
@@ -3991,7 +4255,8 @@
      "cmp": [
       {
        "w": "snigdhāḥ sthirāḥ",
-       "note": "snigdha 是「油润的」，在印度饮食里指加了酥油、奶这类滋养的东西，不是贬义的「油腻」。sthira 是「持久的」，指吃下去能顶得住。中文「油润、耐饱」很贴，英文换成 rich, nourishing。"
+       "note": "snigdha 是「油润的」，在印度饮食里指加了酥油、奶这类滋养的东西，不是贬义的「油腻」。sthira 是「持久的」，指吃下去能顶得住。中文「油润、耐饱」很贴，英文换成 rich, nourishing。",
+       "en": "snigdha means \"oily, unctuous\"; in Indian food it means nourishing things with ghee or milk added, not the negative \"greasy.\" sthira means \"lasting\": food that keeps you going. The Chinese 油润、耐饱 (yóurùn, nàibǎo, \"rich and filling\") fits well; the English says \"rich, nourishing.\""
       }
      ]
     },
@@ -4001,7 +4266,8 @@
      "cmp": [
       {
        "w": "kaṭu",
-       "note": "梵文 kaṭu 指辛辣、呛口的味道（像姜和胡椒），「苦」另有一个字 tikta。中文白话译成「苦的」，英文按原意译成 pungent。"
+       "note": "梵文 kaṭu 指辛辣、呛口的味道（像姜和胡椒），「苦」另有一个字 tikta。中文白话译成「苦的」，英文按原意译成 pungent。",
+       "en": "Sanskrit kaṭu means sharp, pungent flavours like ginger and pepper; \"bitter\" is a different word, tikta. The plain Chinese translates it as 苦的 (kǔ de, \"bitter\"); the English follows the original sense with \"pungent.\""
       }
      ]
     },
@@ -4011,7 +4277,8 @@
      "cmp": [
       {
        "w": "yāta-yāmam / ucchiṣṭam",
-       "note": "yāta-yāma 字面是「过了一个时辰（约三小时）」，就是放凉、放久了的饭。ucchiṣṭa 是别人吃剩的，在印度礼俗里沾了别人的口就不洁净。amedhya 是「不能拿去供神的」。中英文都只能把它们当成「不新鲜」，宗教上的洁净感淡了。"
+       "note": "yāta-yāma 字面是「过了一个时辰（约三小时）」，就是放凉、放久了的饭。ucchiṣṭa 是别人吃剩的，在印度礼俗里沾了别人的口就不洁净。amedhya 是「不能拿去供神的」。中英文都只能把它们当成「不新鲜」，宗教上的洁净感淡了。",
+       "en": "yāta-yāma literally means \"a watch (about three hours) has passed\": food left to go cold and stale. ucchiṣṭa is someone else's leftovers, which Indian custom treats as impure once touched by another's mouth. amedhya means \"unfit to offer to the gods.\" Both Chinese and English can only treat these as \"not fresh,\" so the sense of religious purity fades."
       }
      ]
     },
@@ -4029,7 +4296,8 @@
      "cmp": [
       {
        "w": "adakṣiṇam",
-       "note": "dakṣiṇā 是祭祀结束时给主祭婆罗门的酬金，没有它，祭祀在规矩上就不算完成。中文「不给祭司酬金」、英文 without the fee for the priests 都照实译了。"
+       "note": "dakṣiṇā 是祭祀结束时给主祭婆罗门的酬金，没有它，祭祀在规矩上就不算完成。中文「不给祭司酬金」、英文 without the fee for the priests 都照实译了。",
+       "en": "dakṣiṇā is the fee paid to the officiating Brahmin at the end of a sacrifice; without it the rite isn't properly complete. The Chinese 不给祭司酬金 (bù gěi jìsī chóujīn, \"without paying the priests' fee\") and the English \"without the fee for the priests\" both translate it faithfully."
       }
      ]
     },
@@ -4039,7 +4307,8 @@
      "cmp": [
       {
        "w": "dvija / brahmacarya",
-       "note": "dvija「再生者」指受过成年圣线礼的上三个种姓，尤其指婆罗门。brahmacarya 字面是「行于梵」，实际指独身、禁欲的修行；中文「梵行」保住了字面，英文 chastity 只说了实际含义。"
+       "note": "dvija「再生者」指受过成年圣线礼的上三个种姓，尤其指婆罗门。brahmacarya 字面是「行于梵」，实际指独身、禁欲的修行；中文「梵行」保住了字面，英文 chastity 只说了实际含义。",
+       "en": "dvija, \"twice-born,\" means members of the three upper classes who have received the sacred-thread initiation, especially Brahmins. brahmacarya literally means \"walking in Brahman\" but in practice means celibate discipline; the Chinese 梵行 (fànxíng, \"Brahman-conduct\") keeps the literal sense, while the English \"chastity\" gives only the practical meaning."
       }
      ]
     },
@@ -4069,7 +4338,8 @@
      "cmp": [
       {
        "w": "pātre",
-       "note": "pātra 本义是「容器、碗」，引申为「配得上接受的人」。古人的想法是：给出去的东西要放进合适的容器里。中英文都只译出了引申义。"
+       "note": "pātra 本义是「容器、碗」，引申为「配得上接受的人」。古人的想法是：给出去的东西要放进合适的容器里。中英文都只译出了引申义。",
+       "en": "pātra originally means \"vessel, bowl,\" extended to \"a worthy recipient.\" The old idea is that what you give should go into a fitting vessel. Both Chinese and English translate only the extended sense."
       }
      ]
     },
@@ -4087,7 +4357,8 @@
      "cmp": [
       {
        "w": "tat sat",
-       "note": "tat 是「那个」，sat 是「存在、真实、善」。中文白话译成「彼、真」，英文保留原音，后面三颂再逐个解释。本站梵文这一颂只录了 tat sad，但下一颂马上讲 om，传统上三个字连在一起念，所以中英文都把「唵」补上了。"
+       "note": "tat 是「那个」，sat 是「存在、真实、善」。中文白话译成「彼、真」，英文保留原音，后面三颂再逐个解释。本站梵文这一颂只录了 tat sad，但下一颂马上讲 om，传统上三个字连在一起念，所以中英文都把「唵」补上了。",
+       "en": "tat means \"that\"; sat means \"being, true, good.\" The plain Chinese renders them 彼、真 (bǐ, zhēn: \"that, true\") and the English keeps the Sanskrit sounds, explaining each over the next three verses. The site's Sanskrit for this verse records only tat sad, but the very next verse discusses om, and traditionally the three are chanted together, so both the Chinese and the English add om, 唵 (ǎn)."
       }
      ]
     },
@@ -4105,7 +4376,8 @@
      "cmp": [
       {
        "w": "sat",
-       "note": "一个字同时是「存在的、真实的」和「好的」，在梵文里很自然：真的就是好的。中文白话用一个「真」字，英文要拆成 real 和 good 两个词，谁也没法用一个字装下两个意思。"
+       "note": "一个字同时是「存在的、真实的」和「好的」，在梵文里很自然：真的就是好的。中文白话用一个「真」字，英文要拆成 real 和 good 两个词，谁也没法用一个字装下两个意思。",
+       "en": "One word means both \"existing, real\" and \"good,\" which is natural in Sanskrit: what is true is good. The plain Chinese uses the single character 真 (zhēn, \"true\"), while the English has to split it into \"real\" and \"good\"; neither can fit both meanings into one word."
       }
      ]
     },
@@ -4119,7 +4391,8 @@
      "cmp": [
       {
        "w": "asat",
-       "note": "asat 是 sat 的反面：「不存在、不真实、没价值」。中文「非真」、英文 unreal 都只取了一面；原文的意思是，没有信心做的事等于没做过。"
+       "note": "asat 是 sat 的反面：「不存在、不真实、没价值」。中文「非真」、英文 unreal 都只取了一面；原文的意思是，没有信心做的事等于没做过。",
+       "en": "asat is the opposite of sat: \"non-existent, unreal, worthless.\" The Chinese 非真 (fēi zhēn, \"not true\") and the English \"unreal\" each take one side; the original means that something done without faith is as good as never done."
       }
      ]
     }
@@ -4134,7 +4407,8 @@
      "cmp": [
       {
        "w": "saṃnyāsa / tyāga",
-       "note": "这一章的主线就是这两个词。saṃnyāsa 是「整个放下」，后来专指出家、抛开社会身份；tyāga 是「松手、舍掉」，重点在不抓着结果。本站中文用「出离 / 舍弃」，英文用 renunciation / letting go。黑天接下来的回答是：真正要做的是 tyāga，事情照做，只是放开果报。"
+       "note": "这一章的主线就是这两个词。saṃnyāsa 是「整个放下」，后来专指出家、抛开社会身份；tyāga 是「松手、舍掉」，重点在不抓着结果。本站中文用「出离 / 舍弃」，英文用 renunciation / letting go。黑天接下来的回答是：真正要做的是 tyāga，事情照做，只是放开果报。",
+       "en": "These two words are the chapter's main thread. saṃnyāsa is \"laying everything down,\" later specifically leaving home and shedding one's social identity; tyāga is \"letting go, relinquishing,\" focused on not clinging to results. The site's Chinese uses 出离 / 舍弃 (chūlí / shěqì, \"renunciation / relinquishing\") and the English \"renunciation / letting go.\" Krishna's answer: what's really called for is tyāga: keep acting, just release the fruits."
       }
      ]
     },
@@ -4144,7 +4418,8 @@
      "cmp": [
       {
        "w": "kāmya karma",
-       "note": "kāmya 是吠陀里一类专门「为了求某样东西」而做的祭祀，比如求子、求雨、求升天。中文「出于欲求的行为」、英文 actions done out of desire 都把这层仪式背景冲淡了。"
+       "note": "kāmya 是吠陀里一类专门「为了求某样东西」而做的祭祀，比如求子、求雨、求升天。中文「出于欲求的行为」、英文 actions done out of desire 都把这层仪式背景冲淡了。",
+       "en": "kāmya rites are a Vedic class of sacrifices performed specifically to get something: a son, rain, a place in heaven. The Chinese 出于欲求的行为 (chūyú yùqiú de xíngwéi, \"actions arising from desire\") and the English \"actions done out of desire\" both dilute this ritual background."
       }
      ]
     },
@@ -4170,7 +4445,8 @@
      "cmp": [
       {
        "w": "niyata karma",
-       "note": "niyata 是「被规定的、固定的」，指按身份每天、每年必须做的那些事。中文「规定的义务」、英文 an action that is one's duty 都对，但原文更像「排定的功课」，不是道德上的义务感。"
+       "note": "niyata 是「被规定的、固定的」，指按身份每天、每年必须做的那些事。中文「规定的义务」、英文 an action that is one's duty 都对，但原文更像「排定的功课」，不是道德上的义务感。",
+       "en": "niyata means \"prescribed, fixed\": the things one's station requires daily or yearly. The Chinese 规定的义务 (guīdìng de yìwù, \"prescribed obligation\") and the English \"an action that is one's duty\" are both right, but the original is more like \"scheduled practice\" than a sense of moral obligation."
       }
      ]
     },
@@ -4188,7 +4464,8 @@
      "cmp": [
       {
        "w": "akuśala / kuśala",
-       "note": "kuśala 原义是「熟练的、合宜的」，佛经里译作「善」、「不善」。这里中文白话取「愉快、不愉快」，英文也一样，没有用道德上的「好、坏」。"
+       "note": "kuśala 原义是「熟练的、合宜的」，佛经里译作「善」、「不善」。这里中文白话取「愉快、不愉快」，英文也一样，没有用道德上的「好、坏」。",
+       "en": "kuśala originally means \"skilful, fitting\"; Buddhist scriptures translate kuśala / akuśala as 善 / 不善 (shàn / bú shàn, \"wholesome / unwholesome\"). Here the plain Chinese takes 愉快、不愉快 (yúkuài, bù yúkuài, \"pleasant, unpleasant\"), and the English does the same, avoiding moral \"good and bad.\""
       }
      ]
     },
@@ -4206,7 +4483,8 @@
      "cmp": [
       {
        "w": "sāṃkhye kṛtānte",
-       "note": "sāṃkhya 字面是「计数」，指把世界一项项数清楚的那派学问，中文译「数论」。kṛtānta 是「已经下了定论的教义」。这里不一定是后来成形的数论学派，也可能只是「分析的学问」。"
+       "note": "sāṃkhya 字面是「计数」，指把世界一项项数清楚的那派学问，中文译「数论」。kṛtānta 是「已经下了定论的教义」。这里不一定是后来成形的数论学派，也可能只是「分析的学问」。",
+       "en": "sāṃkhya literally means \"counting\": the learning that enumerates the world item by item, called 数论 (Shùlùn, literally \"theory of numbers\") in Chinese. kṛtānta means \"settled doctrine.\" This isn't necessarily the later formal Sāṃkhya school; it may just mean \"analytical learning.\""
       }
      ]
     },
@@ -4216,7 +4494,8 @@
      "cmp": [
       {
        "w": "daivam",
-       "note": "daiva 字面是「属于神的」，指人管不到的那一份因素。中文「天意」、英文 providence 都带着「有一位神在安排」的意思；原文更模糊，也可以理解成命运、运气。"
+       "note": "daiva 字面是「属于神的」，指人管不到的那一份因素。中文「天意」、英文 providence 都带着「有一位神在安排」的意思；原文更模糊，也可以理解成命运、运气。",
+       "en": "daiva literally means \"belonging to the gods\": the factor beyond human control. The Chinese 天意 (tiānyì, \"Heaven's will\") and the English \"providence\" both imply a god arranging things; the original is vaguer and can also be read as fate or luck."
       }
      ]
     },
@@ -4278,7 +4557,8 @@
      "cmp": [
       {
        "w": "dīrgha-sūtrī",
-       "note": "字面是「线拉得很长的人」，就是做事拖拖拉拉、一拖再拖。中文「拖拖拉拉」和英文 always putting things off 都恰好对上，原文的比喻很生动。"
+       "note": "字面是「线拉得很长的人」，就是做事拖拖拉拉、一拖再拖。中文「拖拖拉拉」和英文 always putting things off 都恰好对上，原文的比喻很生动。",
+       "en": "Literally \"one who draws the thread out long\": someone who dawdles and keeps putting things off. The Chinese 拖拖拉拉 (tuōtuo lālā, \"dawdling,\" literally \"dragging and pulling\") and the English \"always putting things off\" fit nicely; the original image is vivid."
       }
      ]
     },
@@ -4288,7 +4568,8 @@
      "cmp": [
       {
        "w": "buddhi / dhṛti",
-       "note": "buddhi 是做判断、下决定的那部分心，本站英文统一译 understanding，中文白话这里用「智慧」，听起来比原文高一档。dhṛti 是「撑住、守住」的能力，中英文都译成「坚持」，接下来三颂讲三种不同的坚持。"
+       "note": "buddhi 是做判断、下决定的那部分心，本站英文统一译 understanding，中文白话这里用「智慧」，听起来比原文高一档。dhṛti 是「撑住、守住」的能力，中英文都译成「坚持」，接下来三颂讲三种不同的坚持。",
+       "en": "buddhi is the part of the mind that judges and decides; the site's English always renders it \"understanding,\" while the plain Chinese here uses 智慧 (zhìhuì, \"wisdom\"), a notch grander than the original. dhṛti is the capacity to hold firm; both Chinese and English call it \"steadfastness\" (坚持, jiānchí), and the next three verses describe three kinds of it."
       }
      ]
     },
@@ -4302,7 +4583,8 @@
      "cmp": [
       {
        "w": "dharma / adharma",
-       "note": "中文白话用佛教味的「正法、非法」，英文这里保留 dharma（本段第一次出现在第十四章末，注成 the rightful order of things）。dharma 在《薄伽梵歌》里既是社会本分，也是宇宙秩序，「法」字很难同时装下这两层。"
+       "note": "中文白话用佛教味的「正法、非法」，英文这里保留 dharma（本段第一次出现在第十四章末，注成 the rightful order of things）。dharma 在《薄伽梵歌》里既是社会本分，也是宇宙秩序，「法」字很难同时装下这两层。",
+       "en": "The plain Chinese uses the Buddhist-flavoured 正法、非法 (zhèngfǎ, fēifǎ, \"true Dharma, non-Dharma\"); the English keeps \"dharma\" (first glossed at the end of Chapter 14 as \"the rightful order of things\"). In the Gita dharma is both social duty and cosmic order, and the single character 法 (fǎ, \"law, Dharma\") struggles to hold both."
       }
      ]
     },
@@ -4320,7 +4602,8 @@
      "cmp": [
       {
        "w": "dharma-kāma-artha",
-       "note": "这是印度传统里人生的三个正当目标：本分、欲乐、财富，加上第四个「解脱」就是四大人生目的。中文「正法、欲乐和财利」逐个对上；英文读者看不出这是一组固定说法。"
+       "note": "这是印度传统里人生的三个正当目标：本分、欲乐、财富，加上第四个「解脱」就是四大人生目的。中文「正法、欲乐和财利」逐个对上；英文读者看不出这是一组固定说法。",
+       "en": "These are the three legitimate aims of life in Indian tradition: duty, pleasure and wealth; add a fourth, liberation, and you have the four goals of life. The Chinese 正法、欲乐和财利 (zhèngfǎ, yùlè hé cáilì, \"dharma, pleasure and wealth\") matches term by term; English readers won't see that this is a fixed set."
       }
      ]
     },
@@ -4350,7 +4633,8 @@
      "cmp": [
       {
        "w": "sattvam",
-       "note": "这一颂的 sattva 又是本义「存在物、生灵」，不是三德之一。同一颂里一边说「没有哪个 sattva 能摆脱三德」，一边三德里也有 sattva，原文有点绕口；中文「存在」、英文 being 都把它解开了。"
+       "note": "这一颂的 sattva 又是本义「存在物、生灵」，不是三德之一。同一颂里一边说「没有哪个 sattva 能摆脱三德」，一边三德里也有 sattva，原文有点绕口；中文「存在」、英文 being 都把它解开了。",
+       "en": "In this verse sattva again has its root sense, \"existing thing, creature,\" not the guṇa. The same verse says \"no sattva is free of the three guṇas\" while sattva is itself one of the guṇas, which is a bit of a tangle in the original; the Chinese 存在 (cúnzài, \"being\") and the English \"being\" untangle it."
       }
      ]
     },
@@ -4360,7 +4644,8 @@
      "cmp": [
       {
        "w": "svabhāva-prabhavaiḥ",
-       "note": "原文说四个阶层的职责是按「各人天性所生的德」来分的，没有直接说「按出身」。后世拿这一颂来为世袭种姓辩护，也有人用它来说「看性情不看血统」。中英文都照字面译，不替任何一方下结论。"
+       "note": "原文说四个阶层的职责是按「各人天性所生的德」来分的，没有直接说「按出身」。后世拿这一颂来为世袭种姓辩护，也有人用它来说「看性情不看血统」。中英文都照字面译，不替任何一方下结论。",
+       "en": "The original says the duties of the four classes are divided according to \"the qualities born of each one's nature,\" not explicitly by birth. Later tradition used this verse to defend hereditary caste, and others used it to argue \"temperament, not bloodline.\" Both the Chinese and the English translate literally, taking no side."
       }
      ]
     },
@@ -4370,7 +4655,8 @@
      "cmp": [
       {
        "w": "āstikyam",
-       "note": "āstika 字面是「说『有』的人」，指承认吠陀权威、相信有来世的人。中文「对吠陀的信仰」、英文 faith in the Veda 都是取了它在这里的实际意思。"
+       "note": "āstika 字面是「说『有』的人」，指承认吠陀权威、相信有来世的人。中文「对吠陀的信仰」、英文 faith in the Veda 都是取了它在这里的实际意思。",
+       "en": "āstika literally means \"one who says 'it is'\": one who accepts the authority of the Vedas and believes in an afterlife. The Chinese 对吠陀的信仰 (duì Fèituó de xìnyǎng, \"faith in the Veda\") and the English \"faith in the Veda\" both give its practical meaning here."
       }
      ]
     },
@@ -4396,7 +4682,8 @@
      "cmp": [
       {
        "w": "svadharma",
-       "note": "sva-dharma 是「自己的那份 dharma」，由你的天性和位置决定。中文白话译「自己的职责」，读起来像工作岗位；英文 your own duty 也偏向义务。原文更像：活出你自己那条路，哪怕走得不漂亮，也胜过把别人的路走得很好。第三章也说过同样的话。"
+       "note": "sva-dharma 是「自己的那份 dharma」，由你的天性和位置决定。中文白话译「自己的职责」，读起来像工作岗位；英文 your own duty 也偏向义务。原文更像：活出你自己那条路，哪怕走得不漂亮，也胜过把别人的路走得很好。第三章也说过同样的话。",
+       "en": "sva-dharma is \"one's own dharma,\" set by one's nature and place. The plain Chinese 自己的职责 (zìjǐ de zhízé, \"one's own job duties\") sounds like a work post; the English \"your own duty\" also leans toward obligation. The original is more like: living your own path, even clumsily, is better than walking someone else's well. Chapter 3 says the same."
       }
      ]
     },
@@ -4410,7 +4697,8 @@
      "cmp": [
       {
        "w": "naiṣkarmya",
-       "note": "字面是「没有行为的状态」，但前面一直在讲照样做事、只是放开果报，所以它指的是「做着却不被行为捆住」。中文白话借用道家的「无为」，意思接近，但会带进老庄的联想。"
+       "note": "字面是「没有行为的状态」，但前面一直在讲照样做事、只是放开果报，所以它指的是「做着却不被行为捆住」。中文白话借用道家的「无为」，意思接近，但会带进老庄的联想。",
+       "en": "Literally \"the state of no action,\" but since the text has kept saying to go on acting while releasing the fruits, it means \"acting without being bound by action.\" The plain Chinese borrows the Daoist 无为 (wúwéi, \"non-action\"), which is close in meaning but brings in associations with Laozi and Zhuangzi."
       }
      ]
     },
@@ -4444,7 +4732,8 @@
      "cmp": [
       {
        "w": "mat-prasādāt",
-       "note": "prasāda 本义是「清澈、平静」，也指神的「恩典」，还指供过神再分给人吃的食物。第三十七颂的「清明」和这里的「恩典」原文是同一个词，中英文分开译，读者看不出这种呼应。"
+       "note": "prasāda 本义是「清澈、平静」，也指神的「恩典」，还指供过神再分给人吃的食物。第三十七颂的「清明」和这里的「恩典」原文是同一个词，中英文分开译，读者看不出这种呼应。",
+       "en": "prasāda originally means \"clarity, calm,\" and also God's grace, and also food offered to God and then shared out. The \"clarity\" of verse 37 and the \"grace\" here are the same word in the original, but Chinese and English translate them differently, so readers can't see the echo."
       }
      ]
     },
@@ -4470,7 +4759,8 @@
      "cmp": [
       {
        "w": "māyā / yantra",
-       "note": "māyā 原指「神奇的造化力、魔术」，后来才偏向「幻象」。中文「幻力」、英文 power of illusion 都偏后一个意思。yantra 是「机关、器械」，画面像是众生坐在一台转动的机器上；中文白话加了「转动的」，把画面说完整了。"
+       "note": "māyā 原指「神奇的造化力、魔术」，后来才偏向「幻象」。中文「幻力」、英文 power of illusion 都偏后一个意思。yantra 是「机关、器械」，画面像是众生坐在一台转动的机器上；中文白话加了「转动的」，把画面说完整了。",
+       "en": "māyā originally meant \"wondrous creative power, magic,\" and only later leaned toward \"illusion.\" The Chinese 幻力 (huànlì, \"power of illusion\") and the English \"power of illusion\" both lean toward the later sense. yantra means \"machine, contraption,\" picturing beings mounted on a turning machine; the plain Chinese adds 转动的 (zhuàndòng de, \"turning\"), completing the image."
       }
      ]
     },
@@ -4484,7 +4774,8 @@
      "cmp": [
       {
        "w": "yathecchasi tathā kuru",
-       "note": "讲了十八章之后，黑天没有下命令，而是说「想透了，照你愿意的去做」。中英文都照直译出来，这是整部对话里很少见的、把选择交还给对方的一句。"
+       "note": "讲了十八章之后，黑天没有下命令，而是说「想透了，照你愿意的去做」。中英文都照直译出来，这是整部对话里很少见的、把选择交还给对方的一句。",
+       "en": "After eighteen chapters Krishna doesn't give an order; he says \"think it through, then do as you wish.\" Both the Chinese and the English translate it straight. It's one of the rare lines in the whole dialogue that hands the choice back to the other person."
       }
      ]
     },
@@ -4502,11 +4793,13 @@
      "cmp": [
       {
        "w": "sarva-dharmān",
-       "note": "这里 dharma 是复数「一切的法」，指各种宗教规矩、身份义务。中文白话「放下一切法」保留了原字；英文留下 dharmas。这一句和第四十七颂「自己的本分胜过别人的」放在一起读很有张力，历代注家对它的解释争论最多。"
+       "note": "这里 dharma 是复数「一切的法」，指各种宗教规矩、身份义务。中文白话「放下一切法」保留了原字；英文留下 dharmas。这一句和第四十七颂「自己的本分胜过别人的」放在一起读很有张力，历代注家对它的解释争论最多。",
+       "en": "Here dharma is plural, \"all dharmas\": all religious rules and duties of station. The plain Chinese 放下一切法 (fàngxià yíqiè fǎ, \"let go of all dharmas\") keeps the original word, and the English keeps \"dharmas.\" Read alongside verse 47, \"one's own duty is better than another's,\" this line creates real tension, and commentators have argued over it more than any other."
       },
       {
        "w": "sarva-pāpebhyaḥ",
-       "note": "pāpa 是「坏的、带来恶果的东西」，不一定是宗教意义上的「罪」。中文「罪」、英文 sin 都太重，本站英文用 wrong。"
+       "note": "pāpa 是「坏的、带来恶果的东西」，不一定是宗教意义上的「罪」。中文「罪」、英文 sin 都太重，本站英文用 wrong。",
+       "en": "pāpa means \"something bad, something that brings bad results,\" not necessarily \"sin\" in the religious sense. The Chinese 罪 (zuì, \"sin, guilt\") and the English \"sin\" are both too heavy, so the site's English uses \"wrong.\""
       }
      ]
     },
@@ -4540,7 +4833,8 @@
      "cmp": [
       {
        "w": "smṛtir labdhā",
-       "note": "smṛti 是「记忆、想起来」，阿周那是说：我想起来自己是谁、该做什么了。中文白话译成「恢复了正念」，借了佛教「正念」这个词，读者会想到冥想；英文照字面写 memory。"
+       "note": "smṛti 是「记忆、想起来」，阿周那是说：我想起来自己是谁、该做什么了。中文白话译成「恢复了正念」，借了佛教「正念」这个词，读者会想到冥想；英文照字面写 memory。",
+       "en": "smṛti means \"memory, remembering\": Arjuna is saying I remember who I am and what I must do. The plain Chinese renders it 恢复了正念 (huīfù le zhèngniàn, \"regained right mindfulness\"), borrowing the Buddhist term 正念 (zhèngniàn, \"right mindfulness\"), which makes readers think of meditation; the English literally says \"memory.\""
       }
      ]
     },
@@ -4554,7 +4848,8 @@
      "cmp": [
       {
        "w": "vyāsa-prasādāt",
-       "note": "毗耶娑是《摩诃婆罗多》的作者，也是故事里的人物。他赐给桑遮耶「天眼」，让他在宫中就能看见、听见战场上的一切，所以桑遮耶说自己是「亲耳听到」。中英文没有交代这个背景，读到这里会有点突兀。"
+       "note": "毗耶娑是《摩诃婆罗多》的作者，也是故事里的人物。他赐给桑遮耶「天眼」，让他在宫中就能看见、听见战场上的一切，所以桑遮耶说自己是「亲耳听到」。中英文没有交代这个背景，读到这里会有点突兀。",
+       "en": "Vyāsa is the author of the Mahabharata and also a character in it. He gave Sañjaya the \"divine eye\" so he could see and hear everything on the battlefield from inside the palace, which is why Sañjaya says he \"heard it himself.\" Neither the Chinese nor the English explains this background, so the line feels abrupt."
       }
      ]
     },
@@ -4572,7 +4867,8 @@
      "cmp": [
       {
        "w": "nītiḥ",
-       "note": "nīti 是「治国之道、策略」，偏向政治上的明智。中文白话译成「正道」，偏向道德；英文 sound statecraft 更贴原文。整句是桑遮耶对盲眼国王持国说的，其实是在委婉地预告：他儿子那一方会输。"
+       "note": "nīti 是「治国之道、策略」，偏向政治上的明智。中文白话译成「正道」，偏向道德；英文 sound statecraft 更贴原文。整句是桑遮耶对盲眼国王持国说的，其实是在委婉地预告：他儿子那一方会输。",
+       "en": "nīti means \"statecraft, policy\": political wisdom. The plain Chinese renders it 正道 (zhèngdào, \"the right path\"), which leans moral; the English \"sound statecraft\" is closer to the original. The whole line is Sañjaya speaking to the blind king Dhṛtarāṣṭra, a gentle hint that his sons' side will lose."
       }
      ]
     }

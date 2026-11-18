@@ -70,6 +70,26 @@ test('章节页段数和内容一致：每段都有白话和梵文，有英译�
   }
 });
 
+test('英文版：有英译的书每章都有英文页，段数一致，右上角语言切换指向对应页', () => {
+  build();
+  for (const b of loadBooks()) {
+    b.chapters.forEach((ch, i) => {
+      const zh = readFileSync(join(OUT, chapterPath(b, i), 'index.html'), 'utf8');
+      if (!b.en) {
+        assert.ok(!existsSync(join(OUT, chapterPath(b, i, 'en'), 'index.html')), `${b.slug} 没有英译却生成了英文页`);
+        assert.match(zh, /class="lang-option" href="\/en\/"/);
+        return;
+      }
+      const p = chapterPath(b, i, 'en');
+      const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+      assert.match(html, /<html lang="en">/);
+      assert.equal(html.split('data-col="en"').length - 1, ch.verses.length, `${p} 英文段数不对`);
+      assert.ok(html.includes(`href="${chapterPath(b, i)}" hreflang="zh-Hans"`), `${p} 切中文没指向对应页`);
+      assert.ok(zh.includes(`href="${p}" hreflang="en"`), `${chapterPath(b, i)} 切英文没指向对应页`);
+    });
+  }
+});
+
 test('本地服务：页面 200、缺斜杠 301、未知路径 404', async () => {
   build();
   const server = await startServer(0);

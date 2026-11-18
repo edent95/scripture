@@ -9,6 +9,13 @@
   "第四，瑜伽经和佛教共用了大量词汇：kleśa（烦恼）、慈悲喜舍、四颠倒、寻与伺、刹那、法云、习气。中文读者看到这些熟悉的字，很容易把佛教的意思带进来；英文读者反而没有这层干扰。同一组「把非我当成我」，佛教的结论是「无我」，瑜伽经的结论却是「真我另在」，字面几乎一样，方向相反。",
   "最后是文体。经文极简，常常只有主语和一个名词，靠注释家补全。白话用括号把补出来的字标出来，英文则把每一句展开成完整的句子，不加括号，所以两边的「补法」偶尔不同，比如「他说的话就会应验」「打开田埂放水」，白话按注释补了，英文只译到原文为止。另一个现代误读是 āsana：经里只有三句，讲的是能久坐冥想的坐姿，不是今天瑜伽课上的各种体式。"
  ],
+ "compareEn": [
+  "The key to the whole text is the second sūtra: yogaś cittavṛttinirodhaḥ. Common English translations render nirodha as “restraint” or “control,” which sounds like forcibly holding something down; this site’s English says “stilling,” and the plain Chinese says 止息 (zhǐxī, “stilling, coming to rest”), both closer to “letting the ripples settle on their own.” Citta needs care too: the Chinese 心 (xīn) means the heart, the feelings and the thinking mind all at once, while English “mind” leans toward thinking. In the Yoga Sūtras, citta is an instrument that belongs to the material side of things; the real knower stands behind it and is called puruṣa. In both languages this only becomes clear once you read further.",
+  "The second big difference is the cluster “concentration, meditation, samādhi.” In Sanskrit, dhāraṇā, dhyāna and samādhi are three stages, each deeper than the last, and together they are called saṃyama. English “concentration” and “meditation” are broad everyday words, and “meditation” in particular can hold almost anything. In Chinese, 禅 (chán, the word behind Japanese “Zen”) is itself a transliteration of dhyāna, and 三昧 (sānmèi) is a transliteration of samādhi, both carrying Buddhist associations. This site’s English keeps the original words samadhi and samyama and explains the latter as “integrated focus”; the plain Chinese uses 专注 (zhuānzhù, “concentration”), 冥想 (míngxiǎng, “meditation”), 三昧 (sānmèi) and 总制 (zǒngzhì, an academic rendering of saṃyama). The first two are easy to understand; the last two need a note.",
+  "Third is the specialist vocabulary of Sāṃkhya philosophy. Puruṣa literally means “person”; the plain Chinese keeps the old rendering 原人 (yuánrén, “original person”), while the English says “true self,” though “self” is easily read as the ordinary ego. Guṇa originally means “a strand of rope”; the English “strands” keeps that picture, while the Chinese 三德 (sāndé, “the three qualities”) loses it completely. Kaivalya comes from a word for “alone”; English often translates it as “liberation,” but this site says “aloneness,” and the plain Chinese says 独存 (dúcún, “existing alone”). Both keep the sense of “only oneself remaining”: liberation is not going somewhere, but the seer no longer being tangled up with what is seen.",
+  "Fourth, the Yoga Sūtras share a great deal of vocabulary with Buddhism: kleśa, rendered 烦恼 (fánnǎo, “afflictions, vexations”); the four attitudes 慈悲喜舍 (cí bēi xǐ shě, “friendliness, compassion, gladness, equanimity”); the four inversions 四颠倒 (sì diāndǎo); 寻 and 伺 (xún and sì, “coarse thought and subtle reflection”); 刹那 (chànà, “instant”); 法云 (fǎyún, “cloud of dharma”); and 习气 (xíqì, “habit-energies”). Chinese readers who see these familiar words easily bring Buddhist meanings along with them; English readers, oddly, are spared that interference. The same list of mistakes ends in “taking the non-self for the self,” yet Buddhism concludes there is no self, while the Yoga Sūtras conclude that the true self lies elsewhere: almost identical wording, opposite direction.",
+  "Finally, style. The sūtras are extremely terse, often just a subject and a noun, and rely on commentators to fill them out. The plain Chinese puts the supplied words in parentheses, while the English expands each sūtra into a full sentence without brackets, so the two sometimes fill the gaps differently. For example, “what he says comes true” and “opening the field ridge to let the water through” are supplied in the plain Chinese following the commentaries, while the English translates only as far as the original goes. Another modern misreading concerns āsana: the text gives it only three sūtras, and it means a seated posture you can hold for long meditation, not the range of poses taught in yoga classes today."
+ ],
  "chapters": [
   {
    "title": "Book 1 · On Samadhi",
@@ -19,7 +26,8 @@
      "cmp": [
       {
        "w": "anuśāsana",
-       "note": "字面是「随后的教导」，anu 有「跟着、承接」的意思，暗示这是接续前人的传授，不是帕坦伽利自创。英文 teaching、白话「讲授」都看不出「承接」这一层。"
+       "note": "字面是「随后的教导」，anu 有「跟着、承接」的意思，暗示这是接续前人的传授，不是帕坦伽利自创。英文 teaching、白话「讲授」都看不出「承接」这一层。",
+       "en": "Literally “the teaching that follows”: anu means “after, following on,” hinting that this continues an earlier line of teaching rather than being Patañjali’s own invention. Neither the English “teaching” nor the plain Chinese 讲授 (jiǎngshòu, “to teach, lecture”) shows this sense of carrying on a tradition."
       }
      ]
     },
@@ -29,15 +37,18 @@
      "cmp": [
       {
        "w": "citta",
-       "note": "中文「心」同时指心脏、情感和思想，英文 mind 偏向思考。瑜伽经里的 citta 是整套心理机能，而且属于物质那一边，不是真正的觉知者；这一点英文、中文都表达不出来，要读到后面才明白。"
+       "note": "中文「心」同时指心脏、情感和思想，英文 mind 偏向思考。瑜伽经里的 citta 是整套心理机能，而且属于物质那一边，不是真正的觉知者；这一点英文、中文都表达不出来，要读到后面才明白。",
+       "en": "The Chinese 心 (xīn) means the heart, the emotions and thought all at once, while English “mind” leans toward thinking. In the Yoga Sūtras, citta is the whole mental apparatus, and it belongs to the material side, not to the true knower; neither English nor Chinese can express this, and it only becomes clear later in the text."
       },
       {
        "w": "vṛtti",
-       "note": "原义是「转动、运作」。英文 fluctuations、白话「波动」都用水面起伏来比喻；梵文本身没有水的意象，只是说心「在运转」。"
+       "note": "原义是「转动、运作」。英文 fluctuations、白话「波动」都用水面起伏来比喻；梵文本身没有水的意象，只是说心「在运转」。",
+       "en": "The root meaning is “turning, functioning.” The English “fluctuations” and the plain Chinese 波动 (bōdòng, “waves, rippling”) both use the image of a rippling water surface; the Sanskrit itself has no water imagery and simply says the mind is “in operation.”"
       },
       {
        "w": "nirodha",
-       "note": "英文常见译法 restraint、control 带着「用力压住」的意思；本站英文写 stilling，白话写「止息」，都更接近「让波动自己平下来」。这个词决定了整部经的基调。"
+       "note": "英文常见译法 restraint、control 带着「用力压住」的意思；本站英文写 stilling，白话写「止息」，都更接近「让波动自己平下来」。这个词决定了整部经的基调。",
+       "en": "Common English renderings like “restraint” or “control” suggest forcibly holding something down. This site’s English says “stilling” and the plain Chinese says 止息 (zhǐxī, “stilling, coming to rest”), both closer to letting the ripples settle on their own. This one word sets the tone for the whole text."
       }
      ]
     },
@@ -47,7 +58,8 @@
      "cmp": [
       {
        "w": "draṣṭṛ",
-       "note": "「看的人」。英文 Seer、白话「观者」都照字面；它指的是纯粹意识（原人），不是用眼睛看东西的那个「我」。"
+       "note": "「看的人」。英文 Seer、白话「观者」都照字面；它指的是纯粹意识（原人），不是用眼睛看东西的那个「我」。",
+       "en": "“The one who sees.” The English “Seer” and the plain Chinese 观者 (guānzhě, “the observer”) are both literal; it refers to pure consciousness (puruṣa), not the “I” that looks at things with its eyes."
       }
      ]
     },
@@ -57,7 +69,8 @@
      "cmp": [
       {
        "w": "sārūpya",
-       "note": "「形态相同」，只是看起来一样，并不真的变成波动。英文 takes on the look of、白话「看起来是同一个样子」都保留了「只是看起来」这层分寸。"
+       "note": "「形态相同」，只是看起来一样，并不真的变成波动。英文 takes on the look of、白话「看起来是同一个样子」都保留了「只是看起来」这层分寸。",
+       "en": "“Sameness of form”: it only looks the same, without actually turning into the fluctuations. The English “takes on the look of” and the plain Chinese 看起来是同一个样子 (kàn qǐlái shì tóng yī gè yàngzi, “looks like the same thing”) both keep this careful “only seems” nuance."
       }
      ]
     },
@@ -67,7 +80,8 @@
      "cmp": [
       {
        "w": "kliṣṭa",
-       "note": "由 kleśa（烦恼）而来，意思是「被烦恼染上、会带来麻烦的」，不一定当下就痛苦。英文 afflicted 和白话「带烦恼的」都可以，但读者容易以为是「让人难受的」念头。"
+       "note": "由 kleśa（烦恼）而来，意思是「被烦恼染上、会带来麻烦的」，不一定当下就痛苦。英文 afflicted 和白话「带烦恼的」都可以，但读者容易以为是「让人难受的」念头。",
+       "en": "Derived from kleśa (affliction), it means “stained by the afflictions, bound to cause trouble,” not necessarily painful in the moment. The English “afflicted” and the plain Chinese 带烦恼的 (dài fánnǎo de, “carrying afflictions”) both work, but readers may assume it means thoughts that feel unpleasant."
       }
      ]
     },
@@ -77,7 +91,8 @@
      "cmp": [
       {
        "w": "vikalpa",
-       "note": "指只靠语言撑起来、没有真实对象的念头。英文 imagination 偏「幻想」，白话「概念想象」更准；佛教汉译常把同一个词译成「分别」，意思又不完全一样。"
+       "note": "指只靠语言撑起来、没有真实对象的念头。英文 imagination 偏「幻想」，白话「概念想象」更准；佛教汉译常把同一个词译成「分别」，意思又不完全一样。",
+       "en": "A thought held up only by words, with no real object behind it. The English “imagination” leans toward fantasy; the plain Chinese 概念想象 (gàiniàn xiǎngxiàng, “conceptual imagining”) is more precise. Buddhist Chinese translations often render the same word as 分别 (fēnbié, “discrimination, conceptualizing”), which does not mean quite the same thing."
       }
      ]
     },
@@ -99,7 +114,8 @@
      "cmp": [
       {
        "w": "nidrā",
-       "note": "瑜伽经把无梦的深睡也算成一种心的波动，因为醒来时我们知道「刚才睡得什么都不知道」。英文 sleep、中文「睡眠」听起来像心停了，原文的意思正好相反。"
+       "note": "瑜伽经把无梦的深睡也算成一种心的波动，因为醒来时我们知道「刚才睡得什么都不知道」。英文 sleep、中文「睡眠」听起来像心停了，原文的意思正好相反。",
+       "en": "The Yoga Sūtras count even dreamless deep sleep as a fluctuation of the mind, because on waking we know “I slept and knew nothing.” The English “sleep” and the Chinese 睡眠 (shuìmián, “sleep”) sound as if the mind has stopped, which is the opposite of what the original means."
       }
      ]
     },
@@ -113,7 +129,8 @@
      "cmp": [
       {
        "w": "vairāgya",
-       "note": "由 rāga（染色、激情）加上「离开」构成，字面是「褪色」。英文常译 dispassion 或 non-attachment，本站写 letting go；白话「离欲」借佛教用语，偏重「离开欲望」，少了「颜色褪去」的画面。"
+       "note": "由 rāga（染色、激情）加上「离开」构成，字面是「褪色」。英文常译 dispassion 或 non-attachment，本站写 letting go；白话「离欲」借佛教用语，偏重「离开欲望」，少了「颜色褪去」的画面。",
+       "en": "Built from rāga (coloring, passion) plus “away from,” literally “fading of color.” English usually gives “dispassion” or “non-attachment,” and this site says “letting go”; the plain Chinese 离欲 (líyù, “leaving desire”) borrows a Buddhist term that stresses leaving desire behind and loses the picture of color draining away."
       }
      ]
     },
@@ -131,7 +148,8 @@
      "cmp": [
       {
        "w": "ānuśravika",
-       "note": "「从传承里听来的」，指吠陀经典描述的天界享乐。英文 heard of in sacred tradition、白话「从经典听来的」都只能简单交代，原文是在说连死后升天的福报也不再渴求。"
+       "note": "「从传承里听来的」，指吠陀经典描述的天界享乐。英文 heard of in sacred tradition、白话「从经典听来的」都只能简单交代，原文是在说连死后升天的福报也不再渴求。",
+       "en": "“Heard from tradition,” referring to the heavenly pleasures described in the Vedic scriptures. The English “heard of in sacred tradition” and the plain Chinese 从经典听来的 (cóng jīngdiǎn tīng lái de, “heard from the scriptures”) can only state this briefly; the original is saying that one no longer craves even the reward of going to heaven after death."
       }
      ]
     },
@@ -141,11 +159,13 @@
      "cmp": [
       {
        "w": "puruṣa",
-       "note": "字面就是「人」。白话沿用旧译「原人」，英文写 true self / purusha。它在数论和瑜伽里指纯粹的觉知，不思考、不行动，只是「看」；英文 self 容易被读成平常的「自我」。"
+       "note": "字面就是「人」。白话沿用旧译「原人」，英文写 true self / purusha。它在数论和瑜伽里指纯粹的觉知，不思考、不行动，只是「看」；英文 self 容易被读成平常的「自我」。",
+       "en": "Literally just “person.” The plain Chinese keeps the old rendering 原人 (yuánrén, “original person”); the English says “true self” or purusha. In Sāṃkhya and Yoga it means pure awareness, which does not think or act but only “sees”; the English “self” is easily read as the ordinary ego."
       },
       {
        "w": "guṇa",
-       "note": "原义是「一股绳子」。物质世界被看成由三股绳拧成：明亮（sattva）、活动（rajas）、沉滞（tamas）。英文 strands 保留了绳子的画面；中文「三德」「性质」都看不出来。"
+       "note": "原义是「一股绳子」。物质世界被看成由三股绳拧成：明亮（sattva）、活动（rajas）、沉滞（tamas）。英文 strands 保留了绳子的画面；中文「三德」「性质」都看不出来。",
+       "en": "Originally “a strand of rope.” The material world is pictured as three strands twisted together: brightness (sattva), activity (rajas) and inertia (tamas). The English “strands” keeps the rope image; the Chinese 三德 (sāndé, “three qualities”) and 性质 (xìngzhì, “properties”) show none of it."
       }
      ]
     },
@@ -155,11 +175,13 @@
      "cmp": [
       {
        "w": "samādhi",
-       "note": "本义是「放在一起、合拢」，指心完全沉进对象的状态。英文常译 concentration 或 absorption，前者太浅；中文「三昧」是音译，不懂的人看不出意思，懂的人又会带入佛教的联想。本站英文直接用 samadhi。"
+       "note": "本义是「放在一起、合拢」，指心完全沉进对象的状态。英文常译 concentration 或 absorption，前者太浅；中文「三昧」是音译，不懂的人看不出意思，懂的人又会带入佛教的联想。本站英文直接用 samadhi。",
+       "en": "The root meaning is “putting together, joining,” the state in which the mind is fully absorbed in its object. English often gives “concentration” or “absorption,” the former too shallow; the Chinese 三昧 (sānmèi) is a transliteration of samādhi borrowed from Buddhism, opaque to those who don’t know it and loaded with Buddhist associations for those who do. This site’s English simply uses samadhi."
       },
       {
        "w": "vitarka / vicāra",
-       "note": "白话译「寻」「伺」，借的是佛教禅定术语；英文写 coarse thought、subtle reflection，用粗细来区分，比「寻、伺」两个字好懂。"
+       "note": "白话译「寻」「伺」，借的是佛教禅定术语；英文写 coarse thought、subtle reflection，用粗细来区分，比「寻、伺」两个字好懂。",
+       "en": "The plain Chinese renders these as 寻 (xún, “searching”) and 伺 (sì, “watching”), borrowed from Buddhist meditation terminology; the English “coarse thought” and “subtle reflection” distinguish them by coarse versus fine, which is easier to grasp than those two single characters."
       }
      ]
     },
@@ -169,7 +191,8 @@
      "cmp": [
       {
        "w": "saṃskāra",
-       "note": "经验留在心底的痕迹，日后会再冒出来。英文 latent impressions、白话「潜在印记」都是意译；佛教汉译常把同一个词译成「行」，那个意思宽得多，读瑜伽经时别混在一起。"
+       "note": "经验留在心底的痕迹，日后会再冒出来。英文 latent impressions、白话「潜在印记」都是意译；佛教汉译常把同一个词译成「行」，那个意思宽得多，读瑜伽经时别混在一起。",
+       "en": "The traces experience leaves deep in the mind, which later resurface. The English “latent impressions” and the plain Chinese 潜在印记 (qiánzài yìnjì, “latent imprints”) are both interpretive; Buddhist Chinese often renders the same word as 行 (xíng, “formations”), a much broader meaning, so don’t mix them up when reading the Yoga Sūtras."
       }
      ]
     },
@@ -179,7 +202,8 @@
      "cmp": [
       {
        "w": "bhavapratyaya",
-       "note": "「以存在状态为因」。白话补成「前世的存在状态」，英文写 the state of being they are born into；原文本身很简略，「前世」是注释家的解释。"
+       "note": "「以存在状态为因」。白话补成「前世的存在状态」，英文写 the state of being they are born into；原文本身很简略，「前世」是注释家的解释。",
+       "en": "“Caused by the state of being.” The plain Chinese fills this out as 前世的存在状态 (qiánshì de cúnzài zhuàngtài, “the state of being in a previous life”), while the English says “the state of being they are born into”; the original is very brief, and “previous life” is the commentators’ interpretation."
       }
      ]
     },
@@ -189,7 +213,8 @@
      "cmp": [
       {
        "w": "smṛti",
-       "note": "这里的 smṛti 是「正念、持续记得修行」。同一个词在前面是「记忆」这种心的波动；英文和白话都按上下文换了译法，读者看不出原文是同一个字。"
+       "note": "这里的 smṛti 是「正念、持续记得修行」。同一个词在前面是「记忆」这种心的波动；英文和白话都按上下文换了译法，读者看不出原文是同一个字。",
+       "en": "Here smṛti means mindfulness, continually remembering one’s practice. Earlier the same word meant “memory,” one of the mind’s fluctuations; the English and the plain Chinese both switch renderings by context, so readers can’t tell it is the same word in the original."
       }
      ]
     },
@@ -207,11 +232,13 @@
      "cmp": [
       {
        "w": "īśvara",
-       "note": "字面是「主宰者」。白话「自在天」在汉译佛经里多指湿婆一类的大神，容易让人以为是某位特定的神；瑜伽经里的 Ishvara 只是一个特别的原人，没有创世的角色。英文 the Lord 也带着基督教的味道。"
+       "note": "字面是「主宰者」。白话「自在天」在汉译佛经里多指湿婆一类的大神，容易让人以为是某位特定的神；瑜伽经里的 Ishvara 只是一个特别的原人，没有创世的角色。英文 the Lord 也带着基督教的味道。",
+       "en": "Literally “the ruler.” The plain Chinese 自在天 (zìzàitiān, “the sovereign god”) in Chinese Buddhist scriptures usually refers to a great god like Śiva, which may suggest one particular deity; in the Yoga Sūtras, Ishvara is simply a special puruṣa with no role in creating the world. The English “the Lord” also carries a Christian flavor."
       },
       {
        "w": "praṇidhāna",
-       "note": "「把自己放到…面前、交托」。英文 devotion、白话「虔诚敬奉」偏重感情；原文还有「把行为的结果交出去」的意思。"
+       "note": "「把自己放到…面前、交托」。英文 devotion、白话「虔诚敬奉」偏重感情；原文还有「把行为的结果交出去」的意思。",
+       "en": "“Placing oneself before, entrusting.” The English “devotion” and the plain Chinese 虔诚敬奉 (qiánchéng jìngfèng, “pious worship”) lean toward emotion; the original also carries the sense of handing over the fruits of one’s actions."
       }
      ]
     },
@@ -233,7 +260,8 @@
      "cmp": [
       {
        "w": "praṇava",
-       "note": "原文只说 praṇava（「神圣的嗡鸣声」），没有直接写出 Om。英文和白话都把注释家公认的「唵／Om」补了进去。"
+       "note": "原文只说 praṇava（「神圣的嗡鸣声」），没有直接写出 Om。英文和白话都把注释家公认的「唵／Om」补了进去。",
+       "en": "The original says only praṇava (“the sacred humming sound”) and does not actually write Om. Both the English and the plain Chinese supply “Om” (Chinese 唵, ǎn), as the commentators agree it means."
       }
      ]
     },
@@ -259,7 +287,8 @@
      "cmp": [
       {
        "w": "ekatattva",
-       "note": "「单一的真实、单一的原理」。白话写「单一的对象」，英文写 a single principle；注释家对这里到底指一个对象还是指 Ishvara 有争论，两种译法各自偏了一边。"
+       "note": "「单一的真实、单一的原理」。白话写「单一的对象」，英文写 a single principle；注释家对这里到底指一个对象还是指 Ishvara 有争论，两种译法各自偏了一边。",
+       "en": "“A single reality, a single principle.” The plain Chinese says 单一的对象 (dānyī de duìxiàng, “a single object”), the English “a single principle”; commentators disagree over whether this means one object or Ishvara, and each rendering leans to one side."
       }
      ]
     },
@@ -269,7 +298,8 @@
      "cmp": [
       {
        "w": "maitrī karuṇā muditā upekṣā",
-       "note": "这四种心和佛教的「慈、悲、喜、舍」是同一组词。中文读者一看就熟，英文 friendliness、compassion、gladness、equanimity 则是一般用语。upekṣā 不是冷漠，而是「不起反感、不被牵动」。"
+       "note": "这四种心和佛教的「慈、悲、喜、舍」是同一组词。中文读者一看就熟，英文 friendliness、compassion、gladness、equanimity 则是一般用语。upekṣā 不是冷漠，而是「不起反感、不被牵动」。",
+       "en": "These four attitudes are the same set of words as Buddhism’s 慈悲喜舍 (cí bēi xǐ shě, “loving-kindness, compassion, joy, equanimity”), instantly familiar to Chinese readers, whereas the English “friendliness, compassion, gladness, equanimity” are ordinary words. Upekṣā is not indifference; it means not reacting with aversion and not being pulled along."
       }
      ]
     },
@@ -279,7 +309,8 @@
      "cmp": [
       {
        "w": "prāṇa",
-       "note": "既是呼吸，也是生命力。白话写「气息」，英文写 breath，都只取了呼吸那一面。"
+       "note": "既是呼吸，也是生命力。白话写「气息」，英文写 breath，都只取了呼吸那一面。",
+       "en": "Both breath and life-force. The plain Chinese 气息 (qìxī, “breath”) and the English “breath” both capture only the breathing side."
       }
      ]
     },
@@ -313,7 +344,8 @@
      "cmp": [
       {
        "w": "samāpatti",
-       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂；英文 merging 直接说出了心和对象合在一起的意思。"
+       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂；英文 merging 直接说出了心和对象合在一起的意思。",
+       "en": "“Falling completely together.” The plain Chinese keeps the old Buddhist rendering 等至 (děngzhì, roughly “arriving at evenness”), which ordinary readers can’t follow; the English “merging” says directly that the mind and its object come together."
       }
      ]
     },
@@ -327,7 +359,8 @@
      "cmp": [
       {
        "w": "svarūpaśūnyā iva",
-       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话「仿佛失去了自身形态」比直接写「空」更不容易误读。"
+       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话「仿佛失去了自身形态」比直接写「空」更不容易误读。",
+       "en": "“As if emptied of its own form.” The śūnya here is the same word as the 空 (kōng, “emptiness”) of the Heart Sūtra, but the meaning is concrete: the mind forgets itself and only the object remains. The plain Chinese 仿佛失去了自身形态 (fǎngfú shīqùle zìshēn xíngtài, “as though it had lost its own form”) is less open to misreading than simply writing 空."
       }
      ]
     },
@@ -345,7 +378,8 @@
      "cmp": [
       {
        "w": "sabīja",
-       "note": "「带着种子」。种子指还留在心里、日后会发芽的印记。英文 with a seed 和白话「有种子」都照字面，读者要知道「种子」在这里是比喻。"
+       "note": "「带着种子」。种子指还留在心里、日后会发芽的印记。英文 with a seed 和白话「有种子」都照字面，读者要知道「种子」在这里是比喻。",
+       "en": "“With a seed.” The seed is an impression still lodged in the mind that will sprout later. The English “with a seed” and the plain Chinese 有种子 (yǒu zhǒngzi, “having a seed”) are both literal; readers need to know the seed is a metaphor here."
       }
      ]
     },
@@ -359,7 +393,8 @@
      "cmp": [
       {
        "w": "ṛtaṃbharā",
-       "note": "ṛta 是吠陀里的「宇宙秩序、真理」。英文 truth-bearing、白话「承载真理的」都照字面译，但 ṛta 那层「天地本来的秩序」读不出来。"
+       "note": "ṛta 是吠陀里的「宇宙秩序、真理」。英文 truth-bearing、白话「承载真理的」都照字面译，但 ṛta 那层「天地本来的秩序」读不出来。",
+       "en": "Ṛta is the Vedic “cosmic order, truth.” The English “truth-bearing” and the plain Chinese 承载真理的 (chéngzài zhēnlǐ de, “carrying truth”) are both literal, but the layer of ṛta as “the natural order of heaven and earth” doesn’t come through."
       }
      ]
     },
@@ -386,11 +421,13 @@
      "cmp": [
       {
        "w": "tapas",
-       "note": "本义是「热」，指修行时烧掉杂质的那股热力。白话「苦行」让人想到折磨身体，英文 austerity 也偏严苛；原文的重点是「炼」，不一定是「苦」。"
+       "note": "本义是「热」，指修行时烧掉杂质的那股热力。白话「苦行」让人想到折磨身体，英文 austerity 也偏严苛；原文的重点是「炼」，不一定是「苦」。",
+       "en": "The root meaning is “heat,” the heat of practice that burns away impurities. The plain Chinese 苦行 (kǔxíng, “ascetic hardship”) suggests mortifying the body, and the English “austerity” also leans severe; the point of the original is refining, not necessarily suffering."
       },
       {
        "w": "svādhyāya",
-       "note": "「自己的诵读」，原指反复诵读经典与真言。英文 self-study、白话「自我研读」容易被读成「研究自己」，其实是读经。"
+       "note": "「自己的诵读」，原指反复诵读经典与真言。英文 self-study、白话「自我研读」容易被读成「研究自己」，其实是读经。",
+       "en": "“One’s own recitation,” originally the repeated chanting of scripture and mantras. The English “self-study” and the plain Chinese 自我研读 (zìwǒ yándú, “self-study”) are easily read as “studying oneself,” when it actually means studying scripture."
       }
      ]
     },
@@ -404,11 +441,13 @@
      "cmp": [
       {
        "w": "kleśa",
-       "note": "中文「烦恼」借自佛教，听起来像日常的烦心事；英文 afflictions 偏「病痛」。原文指让人一再受苦的根本心病，五种都是结构性的，不是情绪。"
+       "note": "中文「烦恼」借自佛教，听起来像日常的烦心事；英文 afflictions 偏「病痛」。原文指让人一再受苦的根本心病，五种都是结构性的，不是情绪。",
+       "en": "The Chinese 烦恼 (fánnǎo, “vexations”) is borrowed from Buddhism and sounds like everyday worries; the English “afflictions” leans toward illness. The original means the root sicknesses of the mind that cause suffering again and again; all five are structural, not emotions."
       },
       {
        "w": "abhiniveśa",
-       "note": "字面是「执着、陷进去」，这里专指对活下去的执着。白话译「贪生怕死」很生动，但多了一点贬义；英文 clinging to life 比较中性。"
+       "note": "字面是「执着、陷进去」，这里专指对活下去的执着。白话译「贪生怕死」很生动，但多了一点贬义；英文 clinging to life 比较中性。",
+       "en": "Literally “clinging, sinking into,” here specifically clinging to staying alive. The plain Chinese 贪生怕死 (tānshēng pàsǐ, “greedy for life and afraid of death”) is vivid but adds a slightly pejorative tone; the English “clinging to life” is more neutral."
       }
      ]
     },
@@ -422,7 +461,8 @@
      "cmp": [
       {
        "w": "anitya aśuci duḥkha anātman",
-       "note": "这四种颠倒和佛教的「四颠倒」几乎一字不差，中文读者会觉得眼熟。但佛教说「无我」，瑜伽经的「非我」是说：心和身体不是真我（原人），真我另有所在。同一组词，结论相反。"
+       "note": "这四种颠倒和佛教的「四颠倒」几乎一字不差，中文读者会觉得眼熟。但佛教说「无我」，瑜伽经的「非我」是说：心和身体不是真我（原人），真我另有所在。同一组词，结论相反。",
+       "en": "These four inversions match Buddhism’s 四颠倒 (sì diāndǎo, “four inversions”) almost word for word, so Chinese readers will find them familiar. But Buddhism concludes there is no self, while the Yoga Sūtras’ “not-self” means that mind and body are not the true self (puruṣa), which exists elsewhere. The same words, opposite conclusions."
       }
      ]
     },
@@ -432,7 +472,8 @@
      "cmp": [
       {
        "w": "asmitā",
-       "note": "由「我是」（asmi）加抽象词尾而成。白话直接写「我是」，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。"
+       "note": "由「我是」（asmi）加抽象词尾而成。白话直接写「我是」，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。",
+       "en": "Formed from “I am” (asmi) plus an abstract-noun ending. The plain Chinese simply writes 我是 (wǒ shì, “I am”), the English “the sense of ‘I am’”; it is not pride, but the identification that mistakes the mind for the true self."
       }
      ]
     },
@@ -454,7 +495,8 @@
      "cmp": [
       {
        "w": "pratiprasava",
-       "note": "「逆着生出来的方向回去」，让心回流到源头而消融。英文 tracing them back、白话「逆向回溯」都译出了方向，但原文更像「倒着生一遍」。"
+       "note": "「逆着生出来的方向回去」，让心回流到源头而消融。英文 tracing them back、白话「逆向回溯」都译出了方向，但原文更像「倒着生一遍」。",
+       "en": "“Going back against the direction of birth,” letting the mind flow back to its source and dissolve. The English “tracing them back” and the plain Chinese 逆向回溯 (nìxiàng huísù, “tracing back in reverse”) both convey the direction, but the original is more like “being born again in reverse.”"
       }
      ]
     },
@@ -480,7 +522,8 @@
      "cmp": [
       {
        "w": "duḥkha",
-       "note": "英文 suffering、中文「苦」都很重。duḥkha 原义更像「不顺、卡住」，包括隐约的不满足。说「一切皆苦」不是说时时痛苦，而是说没有一样能让人真正安顿。"
+       "note": "英文 suffering、中文「苦」都很重。duḥkha 原义更像「不顺、卡住」，包括隐约的不满足。说「一切皆苦」不是说时时痛苦，而是说没有一样能让人真正安顿。",
+       "en": "The English “suffering” and the Chinese 苦 (kǔ, “bitterness, suffering”) are both heavy. Duḥkha originally means something closer to “not running smoothly, stuck,” including a vague dissatisfaction. Saying “everything is suffering” doesn’t mean constant pain, but that nothing can bring true rest."
       }
      ]
     },
@@ -498,7 +541,8 @@
      "cmp": [
       {
        "w": "prakāśa kriyā sthiti",
-       "note": "这三项就是三股「绳」：明亮、活动、沉滞，但原文没有点名。英文和白话都照字面译，读者若没注意到前面讲「三股绳」的那一句，未必知道这里在讲三德。"
+       "note": "这三项就是三股「绳」：明亮、活动、沉滞，但原文没有点名。英文和白话都照字面译，读者若没注意到前面讲「三股绳」的那一句，未必知道这里在讲三德。",
+       "en": "These three are the three “strands” (brightness, activity, inertia), but the original doesn’t name them as such. The English and the plain Chinese both translate literally, so readers who missed the earlier sūtra about the three strands may not realize the guṇas are meant here."
       }
      ]
     },
@@ -532,7 +576,8 @@
      "cmp": [
       {
        "w": "kaivalya",
-       "note": "由 kevala（单独、唯一）而来，字面是「只剩自己」。英文常译 liberation，本站写 aloneness；白话「独存」也保留了「单独」。原文的解脱不是到达某处，而是观者不再和所观之物缠在一起。"
+       "note": "由 kevala（单独、唯一）而来，字面是「只剩自己」。英文常译 liberation，本站写 aloneness；白话「独存」也保留了「单独」。原文的解脱不是到达某处，而是观者不再和所观之物缠在一起。",
+       "en": "From kevala (alone, sole), literally “only oneself remaining.” English often translates it as “liberation”; this site says “aloneness,” and the plain Chinese 独存 (dúcún, “existing alone”) also keeps the sense of being alone. Liberation in the original is not arriving somewhere, but the seer no longer being tangled up with what is seen."
       }
      ]
     },
@@ -542,7 +587,8 @@
      "cmp": [
       {
        "w": "vivekakhyāti",
-       "note": "「看清分别」：看清原人和心是两回事。白话「分辨智」、英文 discriminating insight 都对，但英文 discriminating 在今天常让人想到「歧视」。"
+       "note": "「看清分别」：看清原人和心是两回事。白话「分辨智」、英文 discriminating insight 都对，但英文 discriminating 在今天常让人想到「歧视」。",
+       "en": "“Seeing the distinction clearly”: seeing that puruṣa and the mind are two different things. The plain Chinese 分辨智 (fēnbiàn zhì, “wisdom of discernment”) and the English “discriminating insight” are both correct, but “discriminating” today often brings to mind discrimination against people."
       }
      ]
     },
@@ -560,11 +606,13 @@
      "cmp": [
       {
        "w": "aṅga",
-       "note": "「肢体」。英文 limbs 保留了身体的比喻：八支像一个人的四肢，同时存在，不只是八级台阶；白话「支分」比较抽象。"
+       "note": "「肢体」。英文 limbs 保留了身体的比喻：八支像一个人的四肢，同时存在，不只是八级台阶；白话「支分」比较抽象。",
+       "en": "“Limbs.” The English “limbs” keeps the bodily metaphor: the eight limbs exist together like a person’s arms and legs, not just eight steps on a staircase. The plain Chinese 支分 (zhīfēn, “branches, components”) is more abstract."
       },
       {
        "w": "yama / niyama",
-       "note": "yama 是「约束、不做什么」，niyama 是「要养成的习惯」。白话沿用「禁戒」「劝制」，英文写 restraints、observances，都把一组「对外」、一组「对己」的分别译了出来。"
+       "note": "yama 是「约束、不做什么」，niyama 是「要养成的习惯」。白话沿用「禁戒」「劝制」，英文写 restraints、observances，都把一组「对外」、一组「对己」的分别译了出来。",
+       "en": "Yama means “restraint, what not to do,” niyama “habits to cultivate.” The plain Chinese keeps the traditional 禁戒 (jìnjiè, “prohibitions”) and 劝制 (quànzhì, “recommended disciplines”), the English “restraints” and “observances”; both convey the split between one set aimed outward and one aimed at oneself."
       }
      ]
     },
@@ -574,11 +622,13 @@
      "cmp": [
       {
        "w": "brahmacarya",
-       "note": "字面是「在梵中行走」，原指学生时期的独身修行。白话「梵行」保留字面，英文 sexual restraint 只译出实际内容；后世解释从完全禁欲到节制不等。"
+       "note": "字面是「在梵中行走」，原指学生时期的独身修行。白话「梵行」保留字面，英文 sexual restraint 只译出实际内容；后世解释从完全禁欲到节制不等。",
+       "en": "Literally “walking in Brahman,” originally the celibate discipline of a student’s years. The plain Chinese 梵行 (fànxíng, “Brahmic conduct”) keeps the literal sense, while the English “sexual restraint” translates only the practical content; later interpretations range from total celibacy to moderation."
       },
       {
        "w": "aparigraha",
-       "note": "「不抓取、不囤积」。白话「不贪占」偏道德；英文 not grasping 更接近原文「不往自己身边拢东西」。"
+       "note": "「不抓取、不囤积」。白话「不贪占」偏道德；英文 not grasping 更接近原文「不往自己身边拢东西」。",
+       "en": "“Not grasping, not hoarding.” The plain Chinese 不贪占 (bù tānzhàn, “not greedily possessing”) leans moral; the English “not grasping” is closer to the original sense of not pulling things toward oneself."
       }
      ]
     },
@@ -588,7 +638,8 @@
      "cmp": [
       {
        "w": "jāti",
-       "note": "指出身、种姓。注释家举的例子是渔夫：职业要杀鱼，就以为「不伤害」不适用于自己。原文的意思是不准用身份来打折扣。"
+       "note": "指出身、种姓。注释家举的例子是渔夫：职业要杀鱼，就以为「不伤害」不适用于自己。原文的意思是不准用身份来打折扣。",
+       "en": "Refers to birth and caste. The commentators’ example is a fisherman who, since his trade requires killing fish, assumes non-harming doesn’t apply to him. The original means one may not use one’s station to make exceptions."
       }
      ]
     },
@@ -602,7 +653,8 @@
      "cmp": [
       {
        "w": "vitarka",
-       "note": "在第一章，vitarka 是三昧里「粗的寻思」；到这里却是「邪念」，指想去伤害、偷盗之类的念头。同一个词意思完全不同，英文和白话都只能换词来译。"
+       "note": "在第一章，vitarka 是三昧里「粗的寻思」；到这里却是「邪念」，指想去伤害、偷盗之类的念头。同一个词意思完全不同，英文和白话都只能换词来译。",
+       "en": "In Chapter 1, vitarka was the “coarse thought” within samādhi; here it means “unwholesome thoughts,” the urge to harm, steal and so on. The same word has a completely different meaning, and both the English and the plain Chinese (邪念, xiéniàn, “wicked thoughts”) can only handle it by switching words."
       }
      ]
     },
@@ -620,7 +672,8 @@
      "cmp": [
       {
        "w": "kriyāphalāśrayatva",
-       "note": "原文只说「行为与结果以他为依」。白话补出「他说的话就会应验」，是注释家的解释；英文只译到 rest on that person's word 为止。"
+       "note": "原文只说「行为与结果以他为依」。白话补出「他说的话就会应验」，是注释家的解释；英文只译到 rest on that person's word 为止。",
+       "en": "The original says only “actions and results rest on him.” The plain Chinese adds 他说的话就会应验 (tā shuō de huà jiù huì yìngyàn, “what he says comes true”), which is the commentators’ interpretation; the English goes only as far as “rest on that person’s word.”"
       }
      ]
     },
@@ -634,7 +687,8 @@
      "cmp": [
       {
        "w": "vīrya",
-       "note": "既是「勇气、精力」，也有「精液」的意思，注释家常从保存精气来解释。英文 vigor、白话「精力」都取了较宽的一面。"
+       "note": "既是「勇气、精力」，也有「精液」的意思，注释家常从保存精气来解释。英文 vigor、白话「精力」都取了较宽的一面。",
+       "en": "It means “courage, energy” and also “semen,” and commentators often explain it as conserving vital essence. The English “vigor” and the plain Chinese 精力 (jīnglì, “energy”) both take the broader sense."
       }
      ]
     },
@@ -648,7 +702,8 @@
      "cmp": [
       {
        "w": "jugupsā",
-       "note": "是很强的词：「厌恶、嫌弃」。英文 distaste 已经放轻了，白话「厌离」借佛教用语更软。原文意思是越讲究清净，越看清身体本来不干净。"
+       "note": "是很强的词：「厌恶、嫌弃」。英文 distaste 已经放轻了，白话「厌离」借佛教用语更软。原文意思是越讲究清净，越看清身体本来不干净。",
+       "en": "A strong word: “disgust, revulsion.” The English “distaste” already softens it, and the plain Chinese 厌离 (yànlí, “weariness and turning away”), borrowed from Buddhism, is softer still. The point is that the more one cultivates purity, the more clearly one sees the body as inherently unclean."
       }
      ]
     },
@@ -678,7 +733,8 @@
      "cmp": [
       {
        "w": "āsana",
-       "note": "本义是「座位、坐的方式」。整部经讲 āsana 只有三句，指的是能长时间安坐冥想的坐姿。英文 posture、中文「体式」在今天会让人想到瑜伽课上的各种姿势，那是后世才发展出来的。白话「坐法」「坐姿」更接近原意。"
+       "note": "本义是「座位、坐的方式」。整部经讲 āsana 只有三句，指的是能长时间安坐冥想的坐姿。英文 posture、中文「体式」在今天会让人想到瑜伽课上的各种姿势，那是后世才发展出来的。白话「坐法」「坐姿」更接近原意。",
+       "en": "The root meaning is “seat, way of sitting.” The whole text spends only three sūtras on āsana, and it means a seated posture you can hold for long meditation. The English “posture” and the Chinese 体式 (tǐshì, “yoga pose”) today evoke the many poses of a yoga class, which developed much later; the plain Chinese 坐法 (zuòfǎ, “way of sitting”) and 坐姿 (zuòzī, “sitting posture”) are closer to the original."
       }
      ]
     },
@@ -688,7 +744,8 @@
      "cmp": [
       {
        "w": "ananta",
-       "note": "「无尽」。注释家常解释成托着大地的神蛇 Ananta，意思是像它那样稳。英文 the endless、白话「无限」都取抽象义，没有那条蛇。"
+       "note": "「无尽」。注释家常解释成托着大地的神蛇 Ananta，意思是像它那样稳。英文 the endless、白话「无限」都取抽象义，没有那条蛇。",
+       "en": "“Endless.” Commentators often explain it as Ananta, the divine serpent who holds up the earth, meaning steady as he is. The English “the endless” and the plain Chinese 无限 (wúxiàn, “infinity”) both take the abstract meaning, without the serpent."
       }
      ]
     },
@@ -702,7 +759,8 @@
      "cmp": [
       {
        "w": "prāṇāyāma",
-       "note": "可以拆成 prāṇa + āyāma（延展），也可以拆成 prāṇa + yama（控制）。英文 breath control 取后者，白话「调息」两边都照顾到。经文给的定义其实是「中断呼吸的流动」，重点在停与慢。"
+       "note": "可以拆成 prāṇa + āyāma（延展），也可以拆成 prāṇa + yama（控制）。英文 breath control 取后者，白话「调息」两边都照顾到。经文给的定义其实是「中断呼吸的流动」，重点在停与慢。",
+       "en": "It can be split as prāṇa + āyāma (extension) or prāṇa + yama (control). The English “breath control” takes the latter; the plain Chinese 调息 (tiáoxī, “regulating the breath”) covers both. The text’s own definition is actually “interrupting the flow of breath,” with the emphasis on pausing and slowing."
       }
      ]
     },
@@ -728,7 +786,8 @@
      "cmp": [
       {
        "w": "pratyāhāra",
-       "note": "「往回拉」。英文 withdrawal of the senses、白话「收摄感官」都意译得清楚；注释家的比喻是感官像蜜蜂跟着蜂王，心收回来，感官也跟着收回来。"
+       "note": "「往回拉」。英文 withdrawal of the senses、白话「收摄感官」都意译得清楚；注释家的比喻是感官像蜜蜂跟着蜂王，心收回来，感官也跟着收回来。",
+       "en": "“Drawing back.” The English “withdrawal of the senses” and the plain Chinese 收摄感官 (shōushè gǎnguān, “gathering in the senses”) both convey the meaning clearly; the commentators’ image is that the senses are like bees following their queen: when the mind withdraws, the senses withdraw with it."
       }
      ]
     },
@@ -747,7 +806,8 @@
      "cmp": [
       {
        "w": "dhāraṇā",
-       "note": "「抓住、托住」。英文 concentration、白话「专注」都是一般用语；原文的画面是把心「绑」在一个点上。"
+       "note": "「抓住、托住」。英文 concentration、白话「专注」都是一般用语；原文的画面是把心「绑」在一个点上。",
+       "en": "“Holding, supporting.” The English “concentration” and the plain Chinese 专注 (zhuānzhù, “focus”) are both everyday words; the original picture is of tying the mind to a single point."
       }
      ]
     },
@@ -757,7 +817,8 @@
      "cmp": [
       {
        "w": "dhyāna",
-       "note": "中文「禅」「禅那」就是这个词的音译。英文 meditation 是个大筐，什么静坐都可以叫 meditation；但在瑜伽经里，dhyāna 只是八支中的一步：专注之后、三昧之前，念头不断地流向同一个对象。白话「冥想」也偏宽。"
+       "note": "中文「禅」「禅那」就是这个词的音译。英文 meditation 是个大筐，什么静坐都可以叫 meditation；但在瑜伽经里，dhyāna 只是八支中的一步：专注之后、三昧之前，念头不断地流向同一个对象。白话「冥想」也偏宽。",
+       "en": "The Chinese 禅 (chán) and 禅那 (chánnà) are transliterations of this very word. The English “meditation” is a catch-all that covers any kind of quiet sitting, but in the Yoga Sūtras, dhyāna is just one of the eight limbs: after concentration and before samādhi, thought flowing unbroken toward a single object. The plain Chinese 冥想 (míngxiǎng, “meditation”) is also rather broad."
       }
      ]
     },
@@ -771,7 +832,8 @@
      "cmp": [
       {
        "w": "saṃyama",
-       "note": "字面是「合在一起抓紧」。白话「总制」是学界译法，一般读者看不懂；英文常见 constraint，本站写 integrated focus，强调是专注、冥想、三昧三步一起作用。"
+       "note": "字面是「合在一起抓紧」。白话「总制」是学界译法，一般读者看不懂；英文常见 constraint，本站写 integrated focus，强调是专注、冥想、三昧三步一起作用。",
+       "en": "Literally “holding together tightly.” The plain Chinese 总制 (zǒngzhì, “overall control”) is an academic rendering that ordinary readers can’t follow; English often uses “constraint,” while this site says “integrated focus,” stressing that concentration, meditation and samādhi act together as one."
       }
      ]
     },
@@ -797,7 +859,8 @@
      "cmp": [
       {
        "w": "pariṇāma",
-       "note": "「变成别的样子、演变」，是数论讲物质变化的专门词。英文 transformation、白话「转变」都对；这一章接连讲好几种「转变」，原文是同一个字。"
+       "note": "「变成别的样子、演变」，是数论讲物质变化的专门词。英文 transformation、白话「转变」都对；这一章接连讲好几种「转变」，原文是同一个字。",
+       "en": "“Becoming something else, evolving,” a technical Sāṃkhya term for change in matter. The English “transformation” and the plain Chinese 转变 (zhuǎnbiàn, “change”) are both correct; this chapter discusses several kinds of transformation in a row, all the same word in the original."
       }
      ]
     },
@@ -819,7 +882,8 @@
      "cmp": [
       {
        "w": "dharma",
-       "note": "这里的 dharma 不是「法、教义」，而是「性质、特征」。注释家举例：一块泥可以是泥团、是瓶、是碎片。中文读到「法」字容易想到佛法，白话改成「性质」是对的。"
+       "note": "这里的 dharma 不是「法、教义」，而是「性质、特征」。注释家举例：一块泥可以是泥团、是瓶、是碎片。中文读到「法」字容易想到佛法，白话改成「性质」是对的。",
+       "en": "Here dharma doesn’t mean “law, teaching” but “property, characteristic.” The commentators’ example: one lump of clay can be a ball, a pot or shards. Chinese readers seeing 法 (fǎ, the usual rendering of dharma) easily think of the Buddhist Dharma, so the plain Chinese is right to use 性质 (xìngzhì, “property”) instead."
       }
      ]
     },
@@ -841,7 +905,8 @@
      "cmp": [
       {
        "w": "ruta",
-       "note": "指鸟兽的叫声。白话写「一切众生的声音」，英文写 the cries of all creatures；原文说的是听懂动物在叫什么，不只是人的话。"
+       "note": "指鸟兽的叫声。白话写「一切众生的声音」，英文写 the cries of all creatures；原文说的是听懂动物在叫什么，不只是人的话。",
+       "en": "Refers to the calls of birds and animals. The plain Chinese says 一切众生的声音 (yīqiè zhòngshēng de shēngyīn, “the voices of all living beings”), the English “the cries of all creatures”; the original is about understanding what animals are saying, not just human speech."
       }
      ]
     },
@@ -867,7 +932,8 @@
      "cmp": [
       {
        "w": "aparānta",
-       "note": "字面是「最后的终点」。白话「死期」、英文 one's death 都按注释家的理解译出；原文没有直接说「死」字。"
+       "note": "字面是「最后的终点」。白话「死期」、英文 one's death 都按注释家的理解译出；原文没有直接说「死」字。",
+       "en": "Literally “the final end.” The plain Chinese 死期 (sǐqī, “time of death”) and the English “one’s death” both follow the commentators’ reading; the original does not actually use the word “death.”"
       }
      ]
     },
@@ -901,7 +967,8 @@
      "cmp": [
       {
        "w": "cakra",
-       "note": "「轮」。这是全经唯一一次出现 cakra，只说「脐轮」，并没有后世脉轮体系的七个轮。英文 wheel 照字面，避免把后来的整套说法读进去。"
+       "note": "「轮」。这是全经唯一一次出现 cakra，只说「脐轮」，并没有后世脉轮体系的七个轮。英文 wheel 照字面，避免把后来的整套说法读进去。",
+       "en": "“Wheel.” This is the only appearance of cakra in the entire text, and it mentions only the “navel wheel,” not the later system of seven chakras. The English “wheel” is literal, which avoids reading that later scheme into it."
       }
      ]
     },
@@ -927,7 +994,8 @@
      "cmp": [
       {
        "w": "hṛdaya / citta",
-       "note": "梵文分得很清楚：对 hṛdaya（心脏，身体上的位置）总制，得到对 citta（心，心理机能）的了解。中文两个都叫「心」，白话只能写「心脏」和「心本身」来区分；英文 heart 和 mind 天然分开。"
+       "note": "梵文分得很清楚：对 hṛdaya（心脏，身体上的位置）总制，得到对 citta（心，心理机能）的了解。中文两个都叫「心」，白话只能写「心脏」和「心本身」来区分；英文 heart 和 mind 天然分开。",
+       "en": "The Sanskrit makes a clear distinction: samyama on the hṛdaya (the heart, a place in the body) yields understanding of citta (the mind, the mental apparatus). Chinese calls both 心 (xīn), so the plain Chinese has to write 心脏 (xīnzàng, “the heart organ”) and 心本身 (xīn běnshēn, “the mind itself”) to tell them apart; English “heart” and “mind” are naturally separate."
       }
      ]
     },
@@ -937,7 +1005,8 @@
      "cmp": [
       {
        "w": "sattva",
-       "note": "三股绳里最明亮的一股，这里指心最清澈的部分。白话音译「萨埵」，英文写 the purest part of the mind；音译保留了专名，意译让人看得懂，各有取舍。"
+       "note": "三股绳里最明亮的一股，这里指心最清澈的部分。白话音译「萨埵」，英文写 the purest part of the mind；音译保留了专名，意译让人看得懂，各有取舍。",
+       "en": "The brightest of the three strands, here meaning the clearest part of the mind. The plain Chinese transliterates it as 萨埵 (sàduǒ), the English says “the purest part of the mind”; the transliteration keeps the technical name, the paraphrase makes it understandable, each with its trade-off."
       }
      ]
     },
@@ -951,7 +1020,8 @@
      "cmp": [
       {
        "w": "siddhi",
-       "note": "本义是「成就、做成」。白话译「神通」，是借佛教的 abhijñā 旧译，带有神秘色彩；英文 powers 比较平实。这一句很关键：帕坦伽利说这些本事对三昧反而是障碍。"
+       "note": "本义是「成就、做成」。白话译「神通」，是借佛教的 abhijñā 旧译，带有神秘色彩；英文 powers 比较平实。这一句很关键：帕坦伽利说这些本事对三昧反而是障碍。",
+       "en": "The root meaning is “accomplishment, getting something done.” The plain Chinese renders it 神通 (shéntōng, “supernatural powers”), an old Buddhist rendering of abhijñā with a mystical tint; the English “powers” is plainer. This sūtra is crucial: Patañjali says these abilities are actually obstacles to samādhi."
       }
      ]
     },
@@ -965,7 +1035,8 @@
      "cmp": [
       {
        "w": "udāna",
-       "note": "身体里五种「气」之一，向上运行。白话「上行气」、英文 upward breath 都是意译；这里的「气」不是空气，而是体内的生命力流动。"
+       "note": "身体里五种「气」之一，向上运行。白话「上行气」、英文 upward breath 都是意译；这里的「气」不是空气，而是体内的生命力流动。",
+       "en": "One of the five “breaths” in the body, the one that moves upward. The plain Chinese 上行气 (shàngxíng qì, “upward-moving qi”) and the English “upward breath” are both interpretive; this “breath” is not air but the flow of life-force within the body."
       }
      ]
     },
@@ -979,7 +1050,8 @@
      "cmp": [
       {
        "w": "ākāśa",
-       "note": "五大元素之一，声音在其中传播。英文 space、白话「虚空」都不完全对：它不是空无，而是一种很细的物质，旧译又作「以太」。"
+       "note": "五大元素之一，声音在其中传播。英文 space、白话「虚空」都不完全对：它不是空无，而是一种很细的物质，旧译又作「以太」。",
+       "en": "One of the five great elements, the medium through which sound travels. The English “space” and the plain Chinese 虚空 (xūkōng, “empty space, void”) are both not quite right: it is not emptiness but a very subtle kind of matter, also rendered in older translations as “ether.”"
       }
      ]
     },
@@ -1001,7 +1073,8 @@
      "cmp": [
       {
        "w": "aṇimādi",
-       "note": "「变小等等」。原文只举了第一种；白话补出「八种」神通，是按传统的八大成就来补，英文照原文写 and the rest。"
+       "note": "「变小等等」。原文只举了第一种；白话补出「八种」神通，是按传统的八大成就来补，英文照原文写 and the rest。",
+       "en": "“Becoming tiny and so on.” The original names only the first; the plain Chinese adds 八种 (bā zhǒng, “eight kinds”) of powers, following the traditional list of eight great attainments, while the English follows the original with “and the rest.”"
       }
      ]
     },
@@ -1031,7 +1104,8 @@
      "cmp": [
       {
        "w": "sthānin",
-       "note": "「居于高位的」，注释家说是天神。白话直接写「天界的居住者」，英文写 beings in high places，保留了原文的含糊。"
+       "note": "「居于高位的」，注释家说是天神。白话直接写「天界的居住者」，英文写 beings in high places，保留了原文的含糊。",
+       "en": "“Those in high places,” which commentators say means gods. The plain Chinese writes outright 天界的居住者 (tiānjiè de jūzhùzhě, “dwellers of the heavenly realm”), while the English “beings in high places” keeps the original’s vagueness."
       }
      ]
     },
@@ -1041,7 +1115,8 @@
      "cmp": [
       {
        "w": "kṣaṇa",
-       "note": "最短的时间单位。白话沿用佛教音译「刹那」，英文写 moment，太日常；原文指不可再分的一瞬。"
+       "note": "最短的时间单位。白话沿用佛教音译「刹那」，英文写 moment，太日常；原文指不可再分的一瞬。",
+       "en": "The smallest unit of time. The plain Chinese keeps the Buddhist transliteration 刹那 (chànà, “an instant”), while the English “moment” is too ordinary; the original means an indivisible instant."
       }
      ]
     },
@@ -1055,7 +1130,8 @@
      "cmp": [
       {
        "w": "tāraka",
-       "note": "「渡人过河的」。白话补成「能带人渡过（生死）」，英文写 carries one across，都保留了渡河的比喻，和佛教「到彼岸」用的是同一个画面。"
+       "note": "「渡人过河的」。白话补成「能带人渡过（生死）」，英文写 carries one across，都保留了渡河的比喻，和佛教「到彼岸」用的是同一个画面。",
+       "en": "“That which ferries one across the river.” The plain Chinese fills this out as 能带人渡过（生死） (néng dài rén dùguò shēngsǐ, “able to carry one across birth and death”), the English “carries one across”; both keep the river-crossing metaphor, the same image as the Buddhist “reaching the other shore.”"
       }
      ]
     },
@@ -1074,7 +1150,8 @@
      "cmp": [
       {
        "w": "auṣadhi",
-       "note": "「草药」。白话写「药物」，英文写 herbs；注释家说的是一种灵药，不是今天的药品。"
+       "note": "「草药」。白话写「药物」，英文写 herbs；注释家说的是一种灵药，不是今天的药品。",
+       "en": "“Herbs.” The plain Chinese says 药物 (yàowù, “medicines”), the English “herbs”; commentators mean a kind of elixir, not modern pharmaceuticals."
       }
      ]
     },
@@ -1088,7 +1165,8 @@
      "cmp": [
       {
        "w": "kṣetrikavat",
-       "note": "原文只说「像农夫一样」。白话补出「打开田埂让水流过去」，是注释家讲的画面；英文只多写了 breaks through the barrier，读者要自己想到放水入田。"
+       "note": "原文只说「像农夫一样」。白话补出「打开田埂让水流过去」，是注释家讲的画面；英文只多写了 breaks through the barrier，读者要自己想到放水入田。",
+       "en": "The original says only “like a farmer.” The plain Chinese adds 打开田埂让水流过去 (dǎkāi tiángěng ràng shuǐ liú guòqù, “opening the field ridge to let the water flow through”), the commentators’ image; the English adds only “breaks through the barrier,” leaving readers to picture water being let into the field themselves."
       }
      ]
     },
@@ -1114,7 +1192,8 @@
      "cmp": [
       {
        "w": "vāsanā",
-       "note": "字面是「熏染的气味」，像衣服沾上了香。白话「习气」借佛教旧译，正好也有「熏」的意思；英文 tendencies 意思对，但没有气味的画面。"
+       "note": "字面是「熏染的气味」，像衣服沾上了香。白话「习气」借佛教旧译，正好也有「熏」的意思；英文 tendencies 意思对，但没有气味的画面。",
+       "en": "Literally “a scent that permeates,” like clothing picking up a fragrance. The plain Chinese 习气 (xíqì, “habit-energies”) borrows an old Buddhist rendering that happens to carry the same sense of being perfumed; the English “tendencies” is correct in meaning but loses the image of scent."
       }
      ]
     },
@@ -1128,7 +1207,8 @@
      "cmp": [
       {
        "w": "āśis",
-       "note": "「愿望、祈求」。白话补成「求生的愿望」，英文 the wish to live；原文只有「愿望」一个字，「求生」是按上下文补的。"
+       "note": "「愿望、祈求」。白话补成「求生的愿望」，英文 the wish to live；原文只有「愿望」一个字，「求生」是按上下文补的。",
+       "en": "“Wish, prayer.” The plain Chinese fills this out as 求生的愿望 (qiúshēng de yuànwàng, “the wish to live”), as does the English “the wish to live”; the original has only the single word “wish,” and “to live” is supplied from context."
       }
      ]
     },
@@ -1154,7 +1234,8 @@
      "cmp": [
       {
        "w": "vastusāmye cittabhedāt",
-       "note": "这几句在反驳「外物只是心的产物」的主张，矛头一般认为指向佛教瑜伽行派（唯识）。英文和白话都只能译出论证本身，看不出这是在跟谁辩论。"
+       "note": "这几句在反驳「外物只是心的产物」的主张，矛头一般认为指向佛教瑜伽行派（唯识）。英文和白话都只能译出论证本身，看不出这是在跟谁辩论。",
+       "en": "These sūtras argue against the claim that external objects are merely products of the mind, generally taken to be aimed at the Buddhist Yogācāra (“mind-only”) school. The English and the plain Chinese can only translate the argument itself; you can’t tell who it is arguing with."
       }
      ]
     },
@@ -1188,7 +1269,8 @@
      "cmp": [
       {
        "w": "citi / citta",
-       "note": "citi（纯粹意识）和 citta（心）只差一个音节，意思却正好相反：一个是不动的觉知，一个是会动的工具。白话「纯粹意识」和「心」分得开，英文 consciousness 和 mind 也分得开，但原文那种「近得危险」的感觉就没了。"
+       "note": "citi（纯粹意识）和 citta（心）只差一个音节，意思却正好相反：一个是不动的觉知，一个是会动的工具。白话「纯粹意识」和「心」分得开，英文 consciousness 和 mind 也分得开，但原文那种「近得危险」的感觉就没了。",
+       "en": "Citi (pure consciousness) and citta (mind) differ by only one syllable, yet mean opposite things: one is unmoving awareness, the other a moving instrument. The plain Chinese 纯粹意识 (chúncuì yìshí, “pure consciousness”) and 心 (xīn, “mind”) keep them apart, as do the English “consciousness” and “mind,” but the original’s feeling of the two being dangerously close is lost."
       }
      ]
     },
@@ -1202,7 +1284,8 @@
      "cmp": [
       {
        "w": "citra",
-       "note": "「斑斓、有花纹的」，也是「图画」。白话「染得斑斓多彩」保留了颜色；英文 colored by 只取了染色，画布的画面没有译出来。"
+       "note": "「斑斓、有花纹的」，也是「图画」。白话「染得斑斓多彩」保留了颜色；英文 colored by 只取了染色，画布的画面没有译出来。",
+       "en": "“Variegated, patterned,” and also “a picture.” The plain Chinese 染得斑斓多彩 (rǎn de bānlán duōcǎi, “dyed in brilliant many colors”) keeps the colors; the English “colored by” keeps only the dyeing and loses the image of a painted canvas."
       }
      ]
     },
@@ -1216,7 +1299,8 @@
      "cmp": [
       {
        "w": "nimna / prāgbhāra",
-       "note": "两个都是地形词：nimna 是「低洼处」，prāgbhāra 是「向前倾的斜坡」，像水往低处流。英文 slopes、leans 保留了地势；白话「倾向、趋向」就抽象了。"
+       "note": "两个都是地形词：nimna 是「低洼处」，prāgbhāra 是「向前倾的斜坡」，像水往低处流。英文 slopes、leans 保留了地势；白话「倾向、趋向」就抽象了。",
+       "en": "Both are landscape words: nimna is “low ground” and prāgbhāra “a forward-tilting slope,” like water flowing downhill. The English “slopes” and “leans” keep the lie of the land; the plain Chinese 倾向 (qīngxiàng, “to tend toward”) and 趋向 (qūxiàng, “to incline toward”) turn it abstract."
       }
      ]
     },
@@ -1234,11 +1318,13 @@
      "cmp": [
       {
        "w": "akusīda",
-       "note": "kusīda 是「放债取息的人」，akusīda 就是「不收利息的」：连最高的洞见也不拿来换好处。白话「毫无贪求」、英文 seeks no gain 都意译了，这个放债的比喻没有保留。"
+       "note": "kusīda 是「放债取息的人」，akusīda 就是「不收利息的」：连最高的洞见也不拿来换好处。白话「毫无贪求」、英文 seeks no gain 都意译了，这个放债的比喻没有保留。",
+       "en": "A kusīda is a moneylender who charges interest, so akusīda is “one who takes no interest”: not trading even the highest insight for any gain. The plain Chinese 毫无贪求 (háo wú tānqiú, “without any craving”) and the English “seeks no gain” both paraphrase, and the moneylender metaphor is not kept."
       },
       {
        "w": "dharmamegha",
-       "note": "「法云」也是佛教十地中第十地的名字，中文读者会联想到菩萨修行。瑜伽经借用了这个词，但放在自己的体系里，指分辨智一直在场的最后一种三昧。"
+       "note": "「法云」也是佛教十地中第十地的名字，中文读者会联想到菩萨修行。瑜伽经借用了这个词，但放在自己的体系里，指分辨智一直在场的最后一种三昧。",
+       "en": "法云 (fǎyún, “cloud of dharma”) is also the name of the tenth and final stage of the bodhisattva path in Buddhism, so Chinese readers will think of a bodhisattva’s practice. The Yoga Sūtras borrow the term but place it within their own system, where it means the final samādhi in which discriminating insight is always present."
       }
      ]
     },
@@ -1264,7 +1350,8 @@
      "cmp": [
       {
        "w": "iti",
-       "note": "全经最后一个字 iti 是「如此、到此为止」，表示讲完了。英文和白话都没有单独译出；这句也呼应了第一章「观者安住在自己的本来面目中」，开头和结尾用的是同一个词 svarūpa。"
+       "note": "全经最后一个字 iti 是「如此、到此为止」，表示讲完了。英文和白话都没有单独译出；这句也呼应了第一章「观者安住在自己的本来面目中」，开头和结尾用的是同一个词 svarūpa。",
+       "en": "The very last word of the text, iti, means “thus, so it ends,” marking the close. Neither the English nor the plain Chinese translates it separately. This sūtra also echoes Chapter 1’s “the Seer rests in its own true nature”: the beginning and the end use the same word, svarūpa."
       }
      ]
     }

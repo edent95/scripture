@@ -112,6 +112,24 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 .home-link:hover { border-color: var(--ink); text-decoration: none; }
 
+/* 语言切换:跟 eden-tan.com 右上角一样,无边框外壳,选中的那一颗是主品牌色胶囊 */
+.header-actions { display: flex; align-items: center; gap: 8px; }
+.lang-toggle { display: inline-flex; align-items: center; gap: 2px; }
+.lang-option {
+  display: inline-grid;
+  place-items: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0 12px;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.lang-option:hover { color: var(--ink); text-decoration: none; }
+.lang-option[aria-current='true'] { background: var(--primary); color: var(--primary-text); }
+
 /* 首屏:一个判断 */
 .hero { padding: clamp(48px, 9vw, 128px) 0 clamp(32px, 5vw, 64px); max-width: 980px; }
 .hero.compact { padding: clamp(32px, 5vw, 72px) 0 clamp(20px, 3vw, 40px); }
@@ -250,8 +268,14 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .col.en { padding-left: 16px; border-left: 3px solid var(--primary); }
 .en-text { margin: 0; font-size: 1.04rem; line-height: 1.75; }
 .cmp { margin-top: 8px; }
-.en-name { display: block; margin-top: 2px; color: var(--muted); font-size: 0.88rem; font-style: italic; }
-.en-summary { color: var(--muted); font-style: italic; }
+.en-name { display: block; margin-top: 2px; color: var(--muted); font-size: 0.88rem; }
+.en-name[lang='en'] { font-style: italic; }
+.pending .meta { margin: -12px 0 24px; max-width: var(--measure); }
+.en-summary { color: var(--muted); }
+.en-summary[lang='en'] { font-style: italic; }
+body[data-lang='en'] .col.en { padding-left: 0; border-left: 0; }
+body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
+body[data-lang='en'] .col.zh { font-size: 1rem; line-height: 1.85; padding-left: 16px; border-left: 3px solid var(--primary); }
 .chapter-list em { display: block; margin-top: 4px; color: var(--muted); font-size: 0.86rem; font-weight: 400; }
 
 /* 三语对照总结 */
@@ -293,6 +317,8 @@ body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa
   .num { position: static; display: inline-grid; margin-bottom: 12px; }
   .col.zh { font-size: 1.06rem; }
   .brand small { display: none; }
+  .home-link { padding: 0 14px; }
+  .header-actions { gap: 4px; }
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
