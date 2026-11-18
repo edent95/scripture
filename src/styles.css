@@ -238,6 +238,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .col { margin: 0; }
 .col + .col { margin-top: 20px; }
 .col.zh { font-size: 1.12rem; line-height: 1.9; }
+.zh-text { margin: 0; }
+.col.zh .notes { font-size: 0.92rem; line-height: 1.75; }
 .col.old {
   padding: 20px 24px;
   background: var(--soft);

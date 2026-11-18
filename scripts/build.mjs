@@ -38,7 +38,7 @@ const T = {
     sep: ' · ',
     compareKicker: 'Sanskrit · English · 中文',
     compareTitle: '英文、中文、梵文差在哪',
-    compareHint: '每段英文下面的「三语对照」，是这一段里具体的差别。',
+    compareHint: '每段白话下面的「三语对照」，是这一段里具体的差别。',
     cmpLabel: (n) => `三语对照 ${n}`,
   },
   en: {
@@ -78,7 +78,7 @@ const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
 const chTitle = (ch, lang) => (lang === 'en' ? ch.en : ch.title);
 function compareLabel(b, lang) {
   if (lang === 'en') return b.oldTranslator ? `with ${transName(b.oldTranslator)}’s Chinese` : 'with plain Chinese';
-  return `${hasEn(b) ? '英译 · ' : ''}${b.oldTranslator ? `${b.oldTranslator}译本对照` : '梵汉对照'}`;
+  return b.oldTranslator ? `${b.oldTranslator}译本对照` : '梵汉对照';
 }
 const TRANSLATORS = { 玄奘: 'Xuanzang', 鸠摩罗什: 'Kumarajiva', 康僧铠: 'Kang Sengkai', 实叉难陀: 'Shikshananda' };
 const transName = (zh) => TRANSLATORS[zh] ?? zh;
@@ -169,7 +169,7 @@ function bookCard(b, lang) {
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(title(b, lang))}</strong>
       <span class="sa-name" lang="sa-Latn">${esc(b.sanskrit)}</span>${
-        lang === 'zh' && hasEn(b) ? `\n      <span class="en-name" lang="en">${esc(b.en.title)}</span>` : lang === 'en' ? `\n      <span class="en-name" lang="zh-Hans">${esc(b.title)}</span>` : ''
+        lang === 'en' ? `\n      <span class="en-name" lang="zh-Hans">${esc(b.title)}</span>` : ''
       }
       <p>${esc(summary(b, lang))}</p>
       <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</small>
@@ -192,7 +192,7 @@ function homePage(books, lang) {
       : `<p class="kicker">Scripture / ${books.length} 部梵文经典</p>
     <h1>从梵文直接读懂经书<span lang="en">${esc(T.zh.siteSub)}</span></h1>
     <p>每一段先给从梵文直译的白话，再把玄奘、鸠摩罗什这些古代译本放在旁边对照：古人多译了什么、少译了什么、哪里和梵文不一样，都标出来。最后附梵文原文和罗马转写。</p>
-    <p>${books.filter(hasEn).map((b) => esc(b.title)).join('、')}另有从梵文直译的英文，并逐段标出英文、中文、梵文的差别。点右上角 EN 看英文版。</p>`;
+    <p>${books.filter(hasEn).map((b) => esc(b.title)).join('、')}另有英文版（同样从梵文直译），每段都标出英文、中文、梵文的差别。点右上角 EN 切换。</p>`;
   const body = `
 <section class="hero hero--art">
   <div class="hero-copy">
@@ -272,7 +272,7 @@ function bookIndexPage(b, lang) {
 <section class="hero hero--art hero--book">
   <div class="hero-copy">
   <h1>${esc(title(b, lang))}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
-  <p>${esc(summary(b, lang))}</p>${lang === 'zh' && hasEn(b) ? `\n  <p class="en-summary" lang="en">${esc(b.en.summary)}</p>` : ''}
+  <p>${esc(summary(b, lang))}</p>
   <p class="meta">${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</p>
   </div>
   ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
@@ -280,8 +280,8 @@ function bookIndexPage(b, lang) {
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
-      const sub = lang === 'zh' ? ch.en : ch.title;
-      return `<li><a href="${chapterPath(b, i, lang)}"><strong>${esc(chTitle(ch, lang))}${sub ? `<em lang="${lang === 'zh' ? 'en' : 'zh-Hans'}">${esc(sub)}</em>` : ''}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
+      const sub = lang === 'en' ? ch.title : '';
+      return `<li><a href="${chapterPath(b, i, lang)}"><strong>${esc(chTitle(ch, lang))}${sub ? `<em lang="zh-Hans">${esc(sub)}</em>` : ''}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
 </ol>${compareSection(b, lang)}`;
@@ -316,24 +316,25 @@ function bookIndexPage(b, lang) {
   });
 }
 
-function enHtml(v, lang) {
-  if (!v.en) return '';
-  const t = T[lang];
-  const cmp = v.en.cmp ?? [];
+// 三语对照注：英文版挂在英文下面（显示英文），中文版挂在白话下面（显示中文）
+function cmpHtml(v, lang) {
+  const cmp = v.en?.cmp ?? [];
+  if (!cmp.length) return '';
   const note = (n) => (lang === 'en' && n.en ? [n.en, 'en'] : [n.note, 'zh-Hans']);
   return `
+      <details class="notes cmp"><summary>${T[lang].cmpLabel(cmp.length)}</summary><dl>${cmp
+    .map((n) => {
+      const [text, l] = note(n);
+      return `<dt>${esc(n.w)}</dt><dd lang="${l}">${esc(text)}</dd>`;
+    })
+    .join('')}</dl></details>`;
+}
+
+function enHtml(v, lang) {
+  if (!v.en) return '';
+  return `
     <div class="col en" data-col="en">
-      <p class="en-text" lang="en">${esc(v.en.text)}</p>${
-        cmp.length
-          ? `
-      <details class="notes cmp"><summary>${t.cmpLabel(cmp.length)}</summary><dl>${cmp
-              .map((n) => {
-                const [text, l] = note(n);
-                return `<dt>${esc(n.w)}</dt><dd lang="${l}">${esc(text)}</dd>`;
-              })
-              .join('')}</dl></details>`
-          : ''
-      }
+      <p class="en-text" lang="en">${esc(v.en.text)}</p>${cmpHtml(v, lang)}
     </div>`;
 }
 
@@ -356,15 +357,21 @@ function oldHtml(v, lang) {
 
 function verseHtml(v, j, lang) {
   const t = T[lang];
-  const zh = `
-    <p class="col zh" data-col="zh"${lang === 'en' ? ' lang="zh-Hans"' : ''}>${esc(v.zh)}</p>`;
-  // 中文版：白话 → 英文 → 古译 → 梵文；英文版：英文 → 梵文 → 白话 → 古译
+  const zh =
+    lang === 'en'
+      ? `
+    <p class="col zh" data-col="zh" lang="zh-Hans">${esc(v.zh)}</p>`
+      : `
+    <div class="col zh" data-col="zh">
+      <p class="zh-text">${esc(v.zh)}</p>${cmpHtml(v, lang)}
+    </div>`;
+  // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文 → 梵文 → 白话 → 古译
   const sa = `
     <div class="col sa" data-col="sa">
       <p class="deva" lang="sa">${esc(v.sa.text)}</p>
       <p class="iast" lang="sa-Latn">${esc(v.sa.tr)}</p>
     </div>`;
-  const cols = lang === 'en' ? [enHtml(v, lang), sa, zh, oldHtml(v, lang)] : [zh, enHtml(v, lang), oldHtml(v, lang), sa];
+  const cols = lang === 'en' ? [enHtml(v, lang), sa, zh, oldHtml(v, lang)] : [zh, oldHtml(v, lang), sa];
   return `
   <li class="verse" id="v${j + 1}">
     <a class="num" href="#v${j + 1}" aria-label="${t.verseLabel(j + 1)}">${j + 1}</a>${cols.join('')}
@@ -382,19 +389,19 @@ function chapterPage(b, i, lang) {
   const oldLabel = lang === 'en' ? (b.oldTranslator ? `${transName(b.oldTranslator)} (classical Chinese)` : 'Chinese notes') : b.oldTranslator ? `${b.oldTranslator}古译` : '注';
   const btn = {
     zh: `<button type="button" data-toggle="zh" aria-pressed="true">${lang === 'en' ? 'Plain Chinese' : '白话直译'}</button>`,
-    en: hasEn(b) ? '<button type="button" data-toggle="en" aria-pressed="true">English</button>' : '',
+    en: lang === 'en' ? '<button type="button" data-toggle="en" aria-pressed="true">English</button>' : '',
     old: hasOld ? `<button type="button" data-toggle="old" aria-pressed="true">${esc(oldLabel)}</button>` : '',
     sa: `<button type="button" data-toggle="sa" aria-pressed="true">${lang === 'en' ? 'Sanskrit' : '梵文'}</button>`,
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
-  const otherSub = lang === 'zh' ? (single ? (hasEn(b) ? b.en.summary : '') : ch.en ?? '') : single ? '' : ch.title;
+  const otherSub = lang === 'en' && !single ? ch.title : '';
   const body = `
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 <section class="hero compact hero--art hero--book">
   <div class="hero-copy">
   <h1>${esc(heading)}<span lang="sa-Latn">${esc(b.sanskrit)}</span></h1>
-  ${sub ? `<p>${esc(sub)}</p>` : ''}${otherSub ? `\n  <p class="en-summary" lang="${lang === 'zh' ? 'en' : 'zh-Hans'}">${esc(otherSub)}</p>` : ''}
+  ${sub ? `<p>${esc(sub)}</p>` : ''}${otherSub ? `\n  <p class="en-summary" lang="zh-Hans">${esc(otherSub)}</p>` : ''}
   <p class="meta">${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}</p>
   </div>
   ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}

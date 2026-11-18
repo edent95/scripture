@@ -55,7 +55,7 @@ test('构建出每一章的页面、sitemap、CNAME，站内链接都指向存�
   }
 });
 
-test('章节页段数和内容一致：每段都有白话和梵文，有英译的书每段都有英文，古译数和数据一致', () => {
+test('章节页段数和内容一致：每段都有白话和梵文，没有英文栏，三语对照与古译数和数据一致', () => {
   build();
   for (const b of loadBooks()) {
     b.chapters.forEach((ch, i) => {
@@ -65,7 +65,8 @@ test('章节页段数和内容一致：每段都有白话和梵文，有英译�
       assert.equal(count('zh'), ch.verses.length, `${p} 白话段数不对`);
       assert.equal(count('sa'), ch.verses.length, `${p} 梵文段数不对`);
       assert.equal(count('old'), ch.verses.filter((v) => v.old).length, `${p} 古译段数不对`);
-      assert.equal(count('en'), b.en ? ch.verses.length : 0, `${p} 英译段数不对`);
+      assert.equal(count('en'), 0, `${p} 中文版不该有英文栏`);
+      assert.equal(html.split('class="notes cmp"').length - 1, ch.verses.filter((v) => v.en?.cmp).length, `${p} 三语对照注数不对`);
     });
   }
 });
