@@ -1,0 +1,365 @@
+{
+ "slug": "great-compassion-mantra",
+ "title": "The Great Compassion Mantra",
+ "summary": "The Avalokiteshvara mantra Chinese Buddhists chant most, explained line by line from the Sanskrit: homage to the Three Jewels, a call to the “blue-throated” lord, and a string of blessings.",
+ "compare": [
+  "这部咒最大的问题不在翻译，而在原文本身。今天华人念的是唐代伽梵达摩的汉字音译，本站的梵文是不空译本里附的悉昙字本。两者都经过多次抄写，很多音节已经走样：l 写成 r、v 写成 b、词尾掉了、一个词被拆成两三句。所以白话和英文都只能「按最可能的读法」译，凡是找不到对得上的梵文词的地方，中文写「意思不明」，英文写 meaning unclear，两边都不硬译。读者看到英文里的 (meaning unclear) 或问号，不是漏译，是原文真的读不出来。",
+  "第二个要点是 nīlakaṇṭha「青颈」。英文直译 Blue-Throat，保留了它在印度神话里的来历：湿婆吞下毒药救了世界，喉咙变青。这部咒把这个湿婆的称号用在观音身上，同时还出现 Hari（毗湿奴的名号）、Śaṅkara（湿婆的名号）、狮子面、持莲花、持轮等称呼。中文音译把这些全变成了没有意思的音，英文直译出来以后，读者会看到观音在这里是借着印度诸神的形象被呼唤的。",
+  "第三个要点是 svāhā。中文沿用音译「娑婆诃」，英文也保留 svāhā 不译。它原是把供品投进祭火时的呼声，没有一个现代词对得上，硬译成 hail 或 so be it 都会多出或少掉意思，所以英文第一次出现时用括号解释，之后照原音写。"
+ ],
+ "compareEn": [
+  "The biggest problem in this mantra is not the translation but the source text itself. What Chinese Buddhists chant today is the Tang-dynasty Chinese-character transcription by Bhagavaddharma; the Sanskrit on this site is the Siddham-script version attached to Amoghavajra’s edition. Both went through many rounds of copying, and many syllables have drifted: l written as r, v as b, word endings dropped, a single word split across two or three lines. So both the plain Chinese and the English can only follow “the most likely reading.” Wherever no matching Sanskrit word can be found, the Chinese says 意思不明 (yìsi bù míng, “meaning unclear”) and the English says “meaning unclear”; neither forces a translation. When you see “(meaning unclear)” or a question mark in the English, nothing has been skipped: the original really cannot be read there.",
+  "The second key point is nīlakaṇṭha, “blue-throated.” The English translates it literally as Blue-Throat, keeping its origin in Indian myth: Shiva swallowed a poison to save the world, and his throat turned blue. The mantra applies this title of Shiva to Avalokiteshvara, and along with it come Hari (a name of Vishnu), Shankara (a name of Shiva), the lion-faced one, the lotus-holder and the wheel-holder. The Chinese transcription turns all of these into meaningless sounds; once the English spells them out, readers can see that Avalokiteshvara is being called on here through the images of Indian gods.",
+  "The third key point is svāhā. Chinese keeps the transcription 娑婆诃 (suōpóhē), and the English also leaves svāhā untranslated. It was originally the cry made when an offering was thrown into the sacrificial fire, and no modern word matches it; rendering it as “hail” or “so be it” would add or lose something. So the English explains it in brackets the first time and then simply writes the sound."
+ ],
+ "chapters": [
+  {
+   "title": "The Great Compassion Mantra",
+   "verses": [
+    {
+     "h": "68b8e5b8",
+     "en": "Homage to the Three Jewels (the Buddha, his teaching, and the community)!",
+     "cmp": [
+      {
+       "w": "ratnatraya",
+       "note": "字面是「三样宝」。英文 Three Jewels 是通行译法，中文「三宝」意思一样；音译「喝啰怛那哆啰夜」里的「喝」只是模拟 r 音，不是多一个字。",
+       "en": "Literally “the triple jewel.” The English “Three Jewels” is the usual rendering and matches the Chinese 三宝 (sānbǎo, “three treasures”); in the transcription 喝啰怛那哆啰夜 (hēluódánàduōluóyè), the first character 喝 only imitates the Sanskrit r sound and is not an extra word."
+      }
+     ]
+    },
+    {
+     "h": "6b60f6e7",
+     "en": "Homage to the noble Avalokiteshvara (“the Lord who looks down” on the world), the bodhisattva (one set on awakening), the great being, the one of great compassion!",
+     "cmp": [
+      {
+       "w": "āryāvalokiteśvarāya",
+       "note": "梵文「圣」和「观自在」连成一个词。古音译把「阿唎㖿」（圣）单独算一句，念的人会在中间停顿；英文和白话都照梵文连着译。",
+       "en": "In the Sanskrit, “noble” and “Avalokiteshvara” form a single word. The old transcription counts 阿唎㖿 (ālīyē, “noble”) as a line of its own, so chanters pause in the middle; the English and the plain Chinese follow the Sanskrit and keep them together."
+      }
+     ]
+    },
+    {
+     "h": "c1b10c84",
+     "en": "Om! To the one who, in every fear, clears (the fear) away (?).",
+     "cmp": [
+      {
+       "w": "śudhanadasya",
+       "note": "悉昙本这个词字面读不通，较可能是 śodhana（清除）加 tasya（他的）。白话和英文都按这个方向译，英文加问号表示不确定。",
+       "en": "As written in the Siddham text this word cannot be read directly; most likely it is śodhana (“clearing away”) plus tasya (“of him”). Both the plain Chinese and the English translate along these lines, and the English adds a question mark to show the doubt."
+      }
+     ]
+    },
+    {
+     "h": "48a070f7",
+     "en": "Having paid homage to him, (I will recite) this … of the noble Avalokiteshvara (the last word is unclear, perhaps “hymn of praise”).",
+     "cmp": [
+      {
+       "w": "raṃdhava",
+       "note": "无法确认是什么词，按上下文可能是「赞颂」。中文用省略号，英文也留空并在括号里说明猜测。",
+       "en": "This word cannot be identified; from the context it may mean something like “hymn of praise.” The Chinese leaves an ellipsis, and the English leaves the gap too, with the guess in brackets."
+      }
+     ]
+    },
+    {
+     "h": "19a5233a",
+     "en": "Homage to Blue-Throat (Nilakantha)! I will recite (his) heart-mantra.",
+     "cmp": [
+      {
+       "w": "narakidhi",
+       "note": "标准梵文是 nīlakaṇṭha「青颈」：湿婆吞毒救世、喉咙变青的称号，这部咒用来称呼观音，咒名也由此而来。英文直译 Blue-Throat，中文古音译「那啰谨墀」完全看不出这层意思。另外，有学者把前面的 namo 读成 nāma「名叫」，整句就是「我要念诵名叫青颈的心咒」；白话和英文照悉昙本的 namo 译成「礼敬」。",
+       "en": "The standard Sanskrit is nīlakaṇṭha, “blue-throated”: the title Shiva earned when he swallowed a poison to save the world and his throat turned blue. The mantra uses it for Avalokiteshvara, and the mantra’s name comes from it. The English translates it literally as Blue-Throat, while the old Chinese transcription 那啰谨墀 (nàluó jǐnchí) shows none of this. Some scholars also read the preceding namo as nāma, “named,” giving “I will recite the heart-mantra called Blue-Throat”; the plain Chinese and the English follow the Siddham text’s namo and render it as “homage.”"
+      },
+      {
+       "w": "hṛdaya",
+       "note": "「心」，在咒语里指一部咒的核心、精华。英文 heart-mantra、中文「心咒」都是同一个比喻。音译「醯唎摩诃」里的「摩诃」不是「大」，只是 hṛdaya 讹变的音。",
+       "en": "“Heart”: in mantras it means the core or essence of a spell. The English “heart-mantra” and the Chinese 心咒 (xīnzhòu, “heart spell”) use the same image. In the transcription 醯唎摩诃 (xīlì móhē), the 摩诃 (móhē) is not “great” (mahā); it is just a garbled sound from hṛdaya."
+      }
+     ]
+    },
+    {
+     "h": "b322f103",
+     "en": "(This heart-mantra) accomplishes every good aim; it is auspicious and unconquerable, and it purifies the path of existence for all beings (the last word is unclear; “purifies” is supplied from the context).",
+     "cmp": [
+      {
+       "w": "mavadudu",
+       "note": "悉昙本这个词字面无法解读，「能清净」是按上下文补的，中文版已注明不确定，英文也在括号里照实说。",
+       "en": "As written this word cannot be read; “purifies” is filled in from the context. The Chinese edition already marks this as uncertain, and the English says so in brackets."
+      }
+     ]
+    },
+    {
+     "h": "32627136",
+     "en": "It goes like this:",
+     "cmp": [
+      {
+       "w": "tadyathā",
+       "note": "「就是这样」，用来引出咒的正文：前面是礼敬和说明，后面才是咒本身。英文 It goes like this 只是起头语；中文古音译「怛姪他」则被当成咒文的一部分来念。",
+       "en": "“Namely, thus”: it introduces the mantra proper. Everything before it is homage and explanation; the spell itself starts after it. The English “It goes like this” is just an introduction, while the old Chinese transcription 怛姪他 (dázhítā) is chanted as part of the spell."
+      }
+     ]
+    },
+    {
+     "h": "30ea49c2",
+     "en": "Om! O you who look and see, O you who have gone beyond the world, come, O Hari!",
+     "cmp": [
+      {
+       "w": "ehṛe",
+       "note": "按音译「夷醯唎」，应是 ehi（来）加 hare（诃利啊）。Hari 是毗湿奴在印度教里的名号，这里用来呼唤观音。英文保留 Hari，中文音译看不出是神名。",
+       "en": "Judging from the transcription 夷醯唎 (yíxīlì), this should be ehi (“come”) plus hare (“O Hari”). Hari is a Hindu name of Vishnu, used here to call on Avalokiteshvara. The English keeps the name Hari; in the Chinese transcription you cannot tell it is a god’s name."
+      },
+      {
+       "w": "lokate karate",
+       "note": "悉昙本分成两截，按意思可能本是一个词 lokātikrānte「超越世间的」。白话和英文都按这个推测译。",
+       "en": "The Siddham text splits this into two pieces, but it was probably one word, lokātikrānte, “gone beyond the world.” Both the plain Chinese and the English translate it that way."
+      }
+     ]
+    },
+    {
+     "h": "e1d04575",
+     "en": "O great bodhisattva!"
+    },
+    {
+     "h": "ba90c242",
+     "en": "All, all! Remember, remember! My heart!",
+     "cmp": [
+      {
+       "w": "mala mala",
+       "note": "字面是「污垢、污垢」，放在这里说不通；按文意是 smara smara「忆念吧」的讹写。白话和英文都译成「忆念」，没有照字面译「污垢」。",
+       "en": "Literally “dirt, dirt,” which makes no sense here; it is most likely a garbled smara smara, “remember, remember.” The plain Chinese and the English both translate it as “remember” rather than literally as “dirt.”"
+      }
+     ]
+    },
+    {
+     "h": "fa956684",
+     "en": "Do it, do it, carry out the work! Dhuru, dhuru (a cry of urging)! O victorious one! O greatly victorious one!",
+     "cmp": [
+      {
+       "w": "dhuru dhuru",
+       "note": "不是常见的梵文词，多半是加强语气的叠音。英文照原音写出并在括号里说明，不硬译。",
+       "en": "Not a common Sanskrit word; most likely a doubled sound for emphasis. The English writes out the sound and explains it in brackets rather than forcing a meaning."
+      }
+     ]
+    },
+    {
+     "h": "be7c08d5",
+     "en": "Hold on, hold on! To the Lord of the Earth!",
+     "cmp": [
+      {
+       "w": "dhiriṇi rāya",
+       "note": "合起来像 dharaṇīśvarāya「向大地之主」，也可能是 dhāriṇī「持者」，难以断定。英文和白话都取「大地之主」。",
+       "en": "Taken together this looks like dharaṇīśvarāya, “to the Lord of the Earth,” though it could also be dhāriṇī, “the one who holds”; it is hard to be sure. The English and the plain Chinese both take “Lord of the Earth.”"
+      }
+     ]
+    },
+    {
+     "h": "2c69e2fb",
+     "en": "Move, move! My … (here the chanter may put in their own name) O stainless one, O freed one!",
+     "cmp": [
+      {
+       "w": "mama",
+       "note": "「我的」。悉昙本在这里有小注「弟子某甲受持」：念的人可以把自己的名字放进来。中文用省略号，英文在括号里说明。",
+       "en": "“My.” The Siddham text has a small note here, 弟子某甲受持 (dìzǐ mǒujiǎ shòuchí, “the disciple so-and-so holds this”): the person chanting can insert their own name. The Chinese uses an ellipsis; the English explains it in brackets."
+      }
+     ]
+    },
+    {
+     "h": "d84b831d",
+     "en": "Come, come! Cut, cut!"
+    },
+    {
+     "h": "4226b9ac",
+     "en": "… (the first words are unclear) Rain, rain down rain, spread it everywhere!",
+     "cmp": [
+      {
+       "w": "arṣaṃ pracali",
+       "note": "字义难以确定，中文版标「意思难定」，英文也写 unclear，不硬译。后面的 vaṣa 看起来是 varṣa「雨」丢了 r。",
+       "en": "The meaning cannot be pinned down. The Chinese edition marks it 意思难定 (yìsi nán dìng, “meaning hard to fix”), and the English also says “unclear” rather than force a meaning. The following vaṣa looks like varṣa, “rain,” with the r dropped."
+      }
+     ]
+    },
+    {
+     "h": "c23253e7",
+     "en": "Huru, huru (a cry of urging) … (mara: meaning unclear)! Huru, huru, O Hari!",
+     "cmp": [
+      {
+       "w": "mara",
+       "note": "可能是 smara「忆念」，也可能是 māra「魔」，无法断定，白话和英文都不译。",
+       "en": "This could be smara, “remember,” or māra, “the tempter, death”; there is no way to decide, so neither the plain Chinese nor the English translates it."
+      }
+     ]
+    },
+    {
+     "h": "57536779",
+     "en": "Flow, flow! Siri, siri! Suru, suru!",
+     "cmp": [
+      {
+       "w": "siri siri suru suru",
+       "note": "这两组是咒语里常见的叠音，没有确定的字义。英文和白话都照音写，只有 sara「流动」能译出来。",
+       "en": "These two pairs are repeated sounds common in mantras, with no fixed meaning. The English and the plain Chinese both just write the sounds; only sara, “flow,” can be translated."
+      }
+     ]
+    },
+    {
+     "h": "4fa84e3f",
+     "en": "Awaken, awaken! Awaken (all beings), awaken (them)!",
+     "cmp": [
+      {
+       "w": "bodhaya",
+       "note": "bodhiya 是「觉悟吧」，bodhaya 是使役形「使（别人）觉悟吧」。英文 awaken 一个词兼有两义，所以要在括号里补出对象；中文用「让（众生）觉悟」区分。",
+       "en": "Bodhiya is “awaken!”, while bodhaya is the causative “make (others) awaken!” The English word “awaken” covers both senses, so the object has to be added in brackets; the Chinese separates them with 让（众生）觉悟 (ràng zhòngshēng juéwù, “let beings awaken”)."
+      }
+     ]
+    },
+    {
+     "h": "e80e4ab5",
+     "en": "O loving one! O Blue-Throat!",
+     "cmp": [
+      {
+       "w": "maitriya",
+       "note": "读音像弥勒（Maitreya），两个词都来自 maitrī「慈爱」，但这里是形容词，不一定指弥勒菩萨。英文译成 loving one，不写成人名。",
+       "en": "It sounds like Maitreya, the future Buddha, and both words come from maitrī, “loving-kindness,” but here it is an adjective and need not mean Maitreya. The English renders it “loving one,” not as a name."
+      }
+     ]
+    },
+    {
+     "h": "781d1763",
+     "en": "O fierce subduer, … (payamana: meaning unclear), svāhā (the cry made when an offering goes into the sacred fire: “may it be well offered, may it be fulfilled”)!",
+     "cmp": [
+      {
+       "w": "svāhā",
+       "note": "原是古印度把供品投进祭火时的呼声。中文沿用音译「娑婆诃」，英文也保留原音，只在第一次出现时解释。从这里开始，咒语进入一连串「向某某，娑婆诃」。",
+       "en": "Originally the cry made in ancient India when an offering was thrown into the sacrificial fire. Chinese keeps the transcription 娑婆诃 (suōpóhē), and the English also keeps the original sound, explaining it only the first time. From here on the mantra becomes a string of “to so-and-so, svāhā.”"
+      },
+      {
+       "w": "payamana",
+       "note": "找不到对得上的梵文词，中文版标「意思不明」，英文照实写 meaning unclear。",
+       "en": "No matching Sanskrit word can be found. The Chinese edition marks it 意思不明 (yìsi bù míng, “meaning unclear”), and the English says the same."
+      }
+     ]
+    },
+    {
+     "h": "37e9fa44",
+     "en": "To the accomplished one, svāhā!",
+     "cmp": [
+      {
+       "w": "siddha",
+       "note": "「已成就的人」，指修行圆满、有了神通或达到目标的人。英文 accomplished one 和中文「成就者」都偏抽象，梵文还带着「练成了」的意思。",
+       "en": "“One who has achieved,” someone whose practice is complete, who has gained powers or reached the goal. The English “accomplished one” and the Chinese 成就者 (chéngjiùzhě, “achiever”) are both a little abstract; the Sanskrit also carries the sense of “has mastered it.”"
+      }
+     ]
+    },
+    {
+     "h": "b848381f",
+     "en": "To the greatly accomplished one, svāhā!"
+    },
+    {
+     "h": "4ca6023f",
+     "en": "To the lord who has mastered yoga, svāhā!",
+     "cmp": [
+      {
+       "w": "siddhāyoge śvakaraya",
+       "note": "音译分成两句，梵文其实是一个复合词 siddha-yogeśvarāya「向成就瑜伽的自在者」。yogeśvara「瑜伽之主」在印度教里也是湿婆、克里希那的称号。",
+       "en": "The transcription splits this into two lines, but the Sanskrit is one compound, siddha-yogeśvarāya, “to the lord of yoga who has achieved it.” Yogeśvara, “lord of yoga,” is also a Hindu title of Shiva and of Krishna."
+      }
+     ]
+    },
+    {
+     "h": "b400b587",
+     "en": "To Blue-Throat, svāhā!"
+    },
+    {
+     "h": "7e41f4b7",
+     "en": "To … (maranara: meaning unclear), svāhā!",
+     "cmp": [
+      {
+       "w": "maranara",
+       "note": "可能也是一个称号，但找不到对得上的梵文词，中文版标「意思不明」，英文照实写。",
+       "en": "Possibly another title, but no matching Sanskrit word can be found. The Chinese edition marks it “meaning unclear,” and the English says the same."
+      }
+     ]
+    },
+    {
+     "h": "9df02214",
+     "en": "To the lion-faced one, svāhā!",
+     "cmp": [
+      {
+       "w": "sirasaṃ āmukhāya",
+       "note": "最可能是 siṃha「狮子」加 mukha「脸」的讹写；也可能是 śiras「头」。英文和白话都取「狮子面」。",
+       "en": "Most likely a garbled siṃha (“lion”) plus mukha (“face”); it could also be śiras, “head.” The English and the plain Chinese both take “lion-faced.”"
+      }
+     ]
+    },
+    {
+     "h": "adbf8c22",
+     "en": "To (all) the greatly accomplished ones, svāhā!",
+     "cmp": [
+      {
+       "w": "pamahāsiddhāya",
+       "note": "音译开头「娑婆」像 sarva「一切」，悉昙本只有 pa。英文按音译补了 all，放在括号里。",
+       "en": "The transcription begins with 娑婆 (suōpó), which looks like sarva, “all,” but the Siddham text has only pa. The English supplies “all” from the transcription and puts it in brackets."
+      }
+     ]
+    },
+    {
+     "h": "0685fac2",
+     "en": "To the one accomplished by the wheel, svāhā!",
+     "cmp": [
+      {
+       "w": "cakra",
+       "note": "「轮」，可以指法轮，也可以指作武器用的飞轮（毗湿奴的标志）。英文 wheel 和中文「轮」都保留了两种可能。",
+       "en": "“Wheel”: it can mean the wheel of the teaching or the throwing discus used as a weapon (Vishnu’s emblem). Both the English “wheel” and the Chinese 轮 (lún) keep both possibilities open."
+      }
+     ]
+    },
+    {
+     "h": "ee4bd622",
+     "en": "To the one who holds a lotus in his hand, svāhā!",
+     "cmp": [
+      {
+       "w": "padmakastaya",
+       "note": "按文意应是 padma-hastāya「手持莲花者」，悉昙本把 h 写成了 k。",
+       "en": "From the sense it should be padma-hastāya, “to the lotus-in-hand one”; the Siddham text writes k for h."
+      }
+     ]
+    },
+    {
+     "h": "58d5050a",
+     "en": "To Blue-Throat … (vagaraya: meaning unclear), svāhā!",
+     "cmp": [
+      {
+       "w": "vagaraya",
+       "note": "找不到对得上的梵文词，中文版标「意思不明」，英文照实写，不硬译。",
+       "en": "No matching Sanskrit word can be found. The Chinese edition marks it “meaning unclear,” and the English says the same instead of forcing a meaning."
+      }
+     ]
+    },
+    {
+     "h": "afd59f1b",
+     "en": "To the mighty one, Shankara (“the one who brings happiness,” a name of Shiva) (?), svāhā!",
+     "cmp": [
+      {
+       "w": "mavariśaṅkaya",
+       "note": "按音译推测是 mahābali「大力」加 śaṅkara「商羯罗」，并不确定，英文加问号。Śaṅkara 是湿婆的称号，英文写出来以后，读者能看到这串称呼和湿婆的关联。",
+       "en": "Guessing from the transcription, this is mahābali (“great strength”) plus śaṅkara (“Shankara”), but it is not certain, so the English adds a question mark. Śaṅkara is a title of Shiva; once the English spells it out, readers can see how this string of titles is tied to Shiva."
+      }
+     ]
+    },
+    {
+     "h": "51d71753",
+     "en": "Homage to the Three Jewels! Homage to the noble Avalokiteshvara!"
+    },
+    {
+     "h": "0e02a037",
+     "en": "Awakening, svāhā!",
+     "cmp": [
+      {
+       "w": "bodhi svāhā",
+       "note": "悉昙本的结尾只是「菩提，娑婆诃」。今天常念的伽梵达摩音译本结尾是「娑婆诃，唵悉殿都曼哆啰钵驮耶，娑婆诃」（大意「愿咒句成就」），悉昙本没有这一句，反而多一个 bodhi。英文和白话照悉昙本译。",
+       "en": "The Siddham text ends simply with “bodhi svāhā,” “awakening, svāhā.” The Bhagavaddharma transcription that people chant today ends instead with 娑婆诃，唵悉殿都曼哆啰钵驮耶，娑婆诃 (suōpóhē, ǎn xīdiàndū mànduōluó bōtuóyē, suōpóhē; roughly “may the mantra’s words be fulfilled”). The Siddham text lacks that line and has an extra bodhi instead. The English and the plain Chinese follow the Siddham text."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -10,13 +10,16 @@
  "source": {
   "orig": {
    "name": "SuttaCentral（Mahāsaṅgīti）",
+   "en": "SuttaCentral (Mahāsaṅgīti)",
    "url": "https://suttacentral.net/",
    "license": "CC0"
   },
   "old": {
    "name": "CBETA T02n0109",
+   "en": "CBETA T02n0109",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

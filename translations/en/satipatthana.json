@@ -1,0 +1,804 @@
+{
+ "slug": "satipatthana",
+ "title": "The Great Discourse on Mindfulness",
+ "summary": "The fullest teaching on mindfulness: keep watching body, feelings, mind and mental phenomena, see them arise and pass, and stop clinging.",
+ "compare": [
+  "这部经的核心词是 sati。它的本义是「记得」，在这里指把注意力一直放在当下发生的事情上、不忘失。英文 mindfulness 是十九世纪末英译者造出来的用法，现在已经通行；中文「念」是古译，但现代读者很容易把它读成「念头」或「念诵」。本站英文用 mindfulness，白话保留「念」，在第一次出现时说明它是「保持觉察」。",
+  "第二个难点是第四个念处的 dhamma。巴利文 dhamma 有两种常见意思：一是佛陀的教法，二是「现象、事物、心里的对象」。经里说的「在法上随观法」，用的是第二种：五盖、五蕴、六处、七觉支、四谛这些身心现象。白话沿用「法」字，容易被读成「佛法」；英文在这里写 phenomena，在说到佛陀的教法时才写 Dhamma（大写），两种意思分开。",
+  "第三个差别是整部经反复出现的 kāye kāyānupassī「在身上随观身」。巴利文把「身」说两次，注释家解作「只把身体当身体看，不当成我、不当成美」。白话照字面保留了重复；英文写 contemplating the body as a body，用 as 点出这层意思。",
+  "本站对照的中文古译是《中阿含·念处经》，比巴利的《大念处经》短：观法一节里没有「四圣谛」的长篇解说（巴利本里从「第一个诵分完」以后那一大段），身体部分少了几种观法，结尾却多了「一日一夜」「须臾」也能有进步的说法。英文照巴利全文译，白话有几处用「……（同上）」省略的地方，英文都按原文写全。"
+ ],
+ "compareEn": [
+  "The core word of this discourse is sati. It originally means \"remembering,\" and here it means keeping attention steadily on what is happening now, without losing it. The English \"mindfulness\" is a usage coined by English translators at the end of the nineteenth century and is now standard; the Chinese 念 (niàn) is the classical rendering, but modern readers easily take it as \"a passing thought\" or \"to recite.\" The site's English says \"mindfulness\" and the plain Chinese keeps 念, explaining on its first appearance that it means staying aware.",
+  "The second difficulty is dhamma in the fourth establishing. Pali dhamma has two common meanings: the Buddha's teaching, and \"phenomena, things, objects of the mind.\" \"Contemplating dhammas in dhammas\" uses the second: the hindrances, aggregates, sense bases, factors of awakening and noble truths, all phenomena of body and mind. The plain Chinese keeps the character 法 (fǎ), which is easily read as \"the Buddha's teaching\"; the English says \"phenomena\" here and keeps \"Dhamma\" (capitalized) for the teaching, so the two meanings stay apart.",
+  "The third difference is the refrain kāye kāyānupassī, \"contemplating body in the body.\" The Pali says \"body\" twice, which the commentators explain as \"seeing the body just as a body, not as a self or as beautiful.\" The plain Chinese keeps the repetition literally; the English says \"contemplating the body as a body,\" using \"as\" to bring out that sense.",
+  "The classical Chinese shown on the Chinese page is the Discourse on the Establishings of Mindfulness from the Chinese Madhyama Āgama, which is shorter than the Pali Great Discourse: its contemplation of phenomena has no long exposition of the four noble truths (the whole stretch after \"end of the first recitation section\" in the Pali), its body section lacks some contemplations, and at the end it adds that even \"one day and one night\" or \"a brief moment\" of practice brings progress. The English translates the full Pali; where the plain Chinese abbreviates with \"... (as above),\" the English writes the passage out as the original does."
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · Introduction (Uddesa)",
+   "verses": [
+    {
+     "h": "3152da99",
+     "en": "This is what I heard. Once the Blessed One was staying among the Kurus (a people of northern ancient India), at a Kuru market town called Kammāsadhamma."
+    },
+    {
+     "h": "29a7e9e5",
+     "en": "There the Blessed One addressed the bhikkhus (monks): \"Bhikkhus!\" \"Venerable sir!\" the bhikkhus replied. The Blessed One said this: \"Bhikkhus, this is a direct path for the purification of beings, for getting past sorrow and lamenting, for the ending of pain and distress, for reaching the true way, for realizing nibbāna (the going out of greed, hatred and delusion): namely, the four establishings of mindfulness.",
+     "cmp": [
+      {
+       "w": "ekāyano",
+       "note": "ekāyana 字面是「一条去向的」，可以读成「唯一的路」，也可以读成「直通的、只往一个方向的路」。旧时英译常作 the only way，带有排他的意思；白话「直通的路」和英文 a direct path 取后一种读法。古译只写「有一道」。",
+       "en": "Ekāyana literally means \"going one way.\" It can be read as \"the only path\" or as \"a path that runs straight in one direction.\" Older English often has \"the only way,\" which sounds exclusive; the plain Chinese 直通的路 (zhítōng de lù, \"a straight-through road\") and the English \"a direct path\" take the second reading. The classical Chinese says just 有一道 (yǒu yī dào, \"there is one way\")."
+      },
+      {
+       "w": "satipaṭṭhānā",
+       "note": "sati-paṭṭhāna 可以拆成 sati-upaṭṭhāna「念的安立」，也可以拆成 sati-paṭṭhāna「念的基础、念处」。中文「念处」取后一种，白话括号里说「安立念的方法」取前一种；英文 establishings of mindfulness 也取前一种。",
+       "en": "Sati-paṭṭhāna can be split as sati-upaṭṭhāna, \"establishing of mindfulness,\" or as sati-paṭṭhāna, \"foundation of mindfulness.\" The traditional Chinese 念处 (niànchù, \"mindfulness-place\") takes the second; the plain Chinese gloss 安立念的方法 (\"ways of establishing mindfulness\") and the English \"establishings of mindfulness\" take the first."
+      },
+      {
+       "w": "sati",
+       "note": "sati 本义是「记得」，在这里指把注意力保持在当下、不忘失。英文 mindfulness、中文「念」都是约定俗成的译法；中文「念」容易被读成「念头」或「念诵」。",
+       "en": "Sati originally means \"remembering\"; here it means keeping attention on what is present and not losing it. English \"mindfulness\" and Chinese 念 (niàn) are the conventional renderings, though a Chinese reader can easily hear 念 as \"a thought\" or \"to recite.\""
+      }
+     ]
+    },
+    {
+     "h": "98a7bb58",
+     "en": "What are the four? Here, bhikkhus, a bhikkhu lives contemplating the body as a body, ardent, clearly knowing, mindful, having put away greed and distress about the world. He lives contemplating feelings as feelings, ardent, clearly knowing, mindful, having put away greed and distress about the world. He lives contemplating the mind as mind, ardent, clearly knowing, mindful, having put away greed and distress about the world. He lives contemplating phenomena as phenomena, ardent, clearly knowing, mindful, having put away greed and distress about the world. (End of the introduction.)",
+     "cmp": [
+      {
+       "w": "kāye kāyānupassī",
+       "note": "字面是「在身上随观身」。重复一次「身」，注释家解作「只看身体本身，不把它看成别的（如我、美、常）」。英文 contemplating the body as a body 把重复改成了 as；白话「在身上随观身」照字面。",
+       "en": "Literally \"contemplating body in the body.\" The commentators explain the repetition as \"seeing the body just as body, not as something else (a self, beautiful, permanent).\" The English \"contemplating the body as a body\" turns the repetition into \"as\"; the plain Chinese 在身上随观身 (\"contemplating body in the body\") keeps the letter."
+      },
+      {
+       "w": "dhammesu",
+       "note": "dhamma 在第四个念处里不是「教法」，而是「心理与存在的种种现象」，经里接着列出的五盖、五蕴、六处、七觉支、四谛都属于这一类。英文写 phenomena，白话保留「法」，容易被读成「佛法」。",
+       "en": "Dhamma in the fourth establishing does not mean \"the teaching\" but \"mental and existential phenomena\": the hindrances, aggregates, sense bases, factors of awakening and noble truths that the discourse goes on to list. The English says \"phenomena\"; the plain Chinese keeps 法 (fǎ), which a reader can easily take as \"the Buddha's teaching.\""
+      },
+      {
+       "w": "abhijjhādomanassaṁ",
+       "note": "abhijjhā「贪求」，domanassa「心里不快、忧恼」。英文 greed and distress、白话「贪求和忧恼」一致。白话这一段把后三个念处用「……」省略了，巴利原文是写全的，英文照全文译。",
+       "en": "Abhijjhā is \"covetousness,\" domanassa \"unhappiness of mind.\" The English \"greed and distress\" and the plain Chinese 贪求和忧恼 (\"craving and vexation\") agree. The plain Chinese abbreviates the last three establishings with an ellipsis; the Pali writes them out, and the English translates them in full."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · Contemplating the Body (Kāyānupassanā)",
+   "verses": [
+    {
+     "h": "99f6cbd9",
+     "en": "And how, bhikkhus, does a bhikkhu live contemplating the body as a body? Here, bhikkhus, a bhikkhu goes to the forest, to the foot of a tree or to an empty hut, and sits down, folding his legs crosswise, setting his body upright and establishing mindfulness in front of him. Mindful, he breathes in; mindful, he breathes out.",
+     "cmp": [
+      {
+       "w": "parimukhaṁ",
+       "note": "parimukhaṁ 字面是「在嘴的周围、在面前」。白话「放在面前」、英文 in front of him 都照字面；有的传统解作「鼻端」，也有解作「首要、当前」。古译这一段直接从「念入息」讲起，没有坐姿。",
+       "en": "Parimukhaṁ literally means \"around the mouth, in front.\" The plain Chinese 放在面前 (\"placed in front\") and the English \"in front of him\" follow the letter; some traditions read it as \"at the tip of the nose,\" others as \"foremost, to the fore.\" The classical Chinese starts straight with \"mindful of the in-breath\" and leaves out the sitting posture."
+      }
+     ]
+    },
+    {
+     "h": "3edad741",
+     "en": "Breathing in long, he knows, 'I breathe in long'; breathing out long, he knows, 'I breathe out long.' Breathing in short, he knows, 'I breathe in short'; breathing out short, he knows, 'I breathe out short.' He trains like this: 'I will breathe in experiencing the whole body'; he trains like this: 'I will breathe out experiencing the whole body.' He trains like this: 'I will breathe in calming the bodily activity'; he trains like this: 'I will breathe out calming the bodily activity.'",
+     "cmp": [
+      {
+       "w": "sabbakāya",
+       "note": "sabba-kāya「整个身体」，注释家解作「整段呼吸（呼吸之身）」，也有人读作字面的全身。白话「整个身体」、英文 the whole body 都照字面，不作解释。",
+       "en": "Sabba-kāya, \"the whole body,\" is explained by the commentators as \"the whole body of the breath,\" though others read it as the whole physical body. The plain Chinese 整个身体 (zhěnggè shēntǐ, \"the whole body\") and the English \"the whole body\" both follow the letter without choosing."
+      },
+      {
+       "w": "kāyasaṅkhāraṁ",
+       "note": "kāya-saṅkhāra「身行」，在经里指的就是呼吸本身。白话「身体的活动」、英文 the bodily activity 都没点明是呼吸。古译写「止身行息入，止口行息出」，把后一句换成了「口行」。",
+       "en": "Kāya-saṅkhāra, \"bodily formation,\" refers in the discourses to the breathing itself. The plain Chinese 身体的活动 (\"the body's activity\") and the English \"the bodily activity\" don't say it is the breath. The classical Chinese changes the second line to 口行 (kǒu xíng, \"verbal activity\")."
+      }
+     ]
+    },
+    {
+     "h": "fc81a041",
+     "en": "Bhikkhus, just as a skilled turner or his apprentice, making a long turn, knows, 'I make a long turn,' or making a short turn, knows, 'I make a short turn,' so too, bhikkhus, a bhikkhu breathing in long knows, 'I breathe in long'; breathing out long, he knows, 'I breathe out long'; breathing in short, he knows, 'I breathe in short'; breathing out short, he knows, 'I breathe out short.' He trains like this: 'I will breathe in experiencing the whole body'; he trains like this: 'I will breathe out experiencing the whole body'; he trains like this: 'I will breathe in calming the bodily activity'; he trains like this: 'I will breathe out calming the bodily activity.'",
+     "cmp": [
+      {
+       "w": "bhamakāro",
+       "note": "bhamakāra 是转动车床或陶轮的工匠，añchati 是「拉、转」。白话「车床师傅」「拉长、拉短」、英文 turner / a long turn 都是意译，原文的动作是拉绳转动车床。",
+       "en": "A bhamakāra is a craftsman working a lathe, and añchati means \"to pull, to turn.\" The plain Chinese 车床师傅 (\"lathe master\") with 拉长、拉短 (\"pulling long, pulling short\") and the English \"turner / a long turn\" both paraphrase; the actual motion is pulling a cord to spin the lathe."
+      }
+     ]
+    },
+    {
+     "h": "24a68acb",
+     "en": "In this way he lives contemplating the body as a body internally, or externally, or both internally and externally. He lives contemplating the nature of arising in the body, or the nature of passing away in the body, or the nature of both arising and passing away in the body. Or else the mindfulness 'there is a body' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on breathing.)",
+     "cmp": [
+      {
+       "w": "ajjhattaṁ / bahiddhā",
+       "note": "「内」「外」：注释家多解作「自己的身体」和「别人的身体」，也有人解作「从里面感受」和「从外面观察」。英文 internally / externally、白话「内在／外在」都照字面，不作解释。",
+       "en": "\"Internally / externally\": the commentators mostly explain these as \"one's own body\" and \"other people's bodies,\" though some read them as \"felt from within\" and \"observed from outside.\" The English and the plain Chinese 内在／外在 (\"inner / outer\") follow the letter without choosing."
+      },
+      {
+       "w": "samudayadhamma",
+       "note": "samudaya-dhamma 是「生起的性质」。白话写「生起的现象」，英文写 the nature of arising，更贴 dhamma 在这里「性质」的意思。",
+       "en": "Samudaya-dhamma means \"the nature of arising.\" The plain Chinese 生起的现象 (\"phenomena of arising\") turns it into things; the English \"the nature of arising\" is closer to dhamma's sense of \"nature, characteristic\" here."
+      }
+     ]
+    },
+    {
+     "h": "4ba01c0b",
+     "en": "Again, bhikkhus, when walking, a bhikkhu knows, 'I am walking'; when standing, he knows, 'I am standing'; when sitting, he knows, 'I am sitting'; when lying down, he knows, 'I am lying down.' However his body is placed, he knows it accordingly.",
+     "cmp": [
+      {
+       "w": "gacchanto",
+       "note": "巴利本只有行、住、坐、卧四种姿势；古译多了「眠则知眠，寤则知寤」。",
+       "en": "The Pali has just four postures: walking, standing, sitting, lying down. The classical Chinese adds \"asleep, he knows he is asleep; awake, he knows he is awake.\""
+      }
+     ]
+    },
+    {
+     "h": "8e69f736",
+     "en": "In this way he lives contemplating the body as a body internally, or externally, or both internally and externally. He lives contemplating the nature of arising in the body, or the nature of passing away in the body, or the nature of both arising and passing away in the body. Or else the mindfulness 'there is a body' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on postures.)"
+    },
+    {
+     "h": "6ccc5268",
+     "en": "Again, bhikkhus, a bhikkhu acts with clear knowing when going forward and coming back; acts with clear knowing when looking ahead and looking aside; acts with clear knowing when bending and stretching his limbs; acts with clear knowing when wearing his outer robe, carrying his bowl and wearing his robes; acts with clear knowing when eating, drinking, chewing and tasting; acts with clear knowing when defecating and urinating; acts with clear knowing when walking, standing, sitting, falling asleep, waking up, speaking and staying silent. In this way he lives ... (as above). That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on clear knowing.)",
+     "cmp": [
+      {
+       "w": "sampajānakārī",
+       "note": "sampajāna 是「清楚地知道」，常译「正知」。英文 acts with clear knowing、白话「清楚地做」一致。",
+       "en": "Sampajāna means \"clearly knowing,\" traditionally 正知 (zhèngzhī, \"right knowing\") in Chinese. The English \"acts with clear knowing\" and the plain Chinese 清楚地做 (\"does it clearly\") agree."
+      }
+     ]
+    },
+    {
+     "h": "e2c654c2",
+     "en": "Again, bhikkhus, a bhikkhu reviews this very body, from the soles of the feet up and from the hair of the head down, bounded by the skin and full of many kinds of impurity: 'In this body there are head hair, body hair, nails, teeth, skin; flesh, sinews, bones, bone marrow, kidneys; heart, liver, membranes, spleen, lungs; intestines, mesentery, stomach contents, feces; bile, phlegm, pus, blood, sweat, fat; tears, grease, spit, snot, joint fluid, urine.'",
+     "cmp": [
+      {
+       "w": "asucino",
+       "note": "asuci「不洁」。这一观不是要人厌恶身体，而是破除「身体是美的」这个执著。英文 impurity、白话「不干净的东西」都照字面。巴利本列了三十一样，古译多了「脑」，排序也不同。",
+       "en": "Asuci means \"impure.\" The point is not to hate the body but to break the fixation that the body is beautiful. The English \"impurity\" and the plain Chinese 不干净的东西 (\"unclean things\") follow the letter. The Pali lists thirty-one parts; the classical Chinese adds the brain and orders them differently."
+      }
+     ]
+    },
+    {
+     "h": "a8537abe",
+     "en": "Bhikkhus, it is as if there were a bag open at both ends, full of various kinds of grain: hill rice, paddy, mung beans, other beans, sesame seeds, husked rice. A man with good eyes would open it and look them over: 'This is hill rice, this is paddy, these are mung beans, these are beans, these are sesame seeds, this is husked rice.' Just so, bhikkhus, a bhikkhu reviews this very body, from the soles of the feet up and from the hair of the head down, bounded by the skin and full of many kinds of impurity: 'In this body there are head hair, body hair ... urine.' In this way he lives ... (as above). That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on attending to the repulsive.)"
+    },
+    {
+     "h": "db515776",
+     "en": "Again, bhikkhus, a bhikkhu reviews this very body, however it stands, however it is placed, in terms of elements: 'In this body there are the earth element, the water element, the fire element, the air element.'",
+     "cmp": [
+      {
+       "w": "dhātuso",
+       "note": "四界：地（坚硬）、水（流动、黏合）、火（冷热）、风（运动）。英文 element、白话「元素」都容易被读成化学元素；巴利文 dhātu 指的是四种性质。古译写了六界，多了空界、识界。",
+       "en": "The four elements: earth (hardness), water (flowing, cohesion), fire (heat and cold), air (motion). The English \"element\" and the plain Chinese 元素 (yuánsù, \"element\") can be read as chemical elements; Pali dhātu means these four qualities. The classical Chinese has six, adding space and consciousness."
+      }
+     ]
+    },
+    {
+     "h": "530ac493",
+     "en": "Bhikkhus, just as a skilled butcher or his apprentice, having killed a cow, would sit at a crossroads with it cut up into portions, so too, bhikkhus, a bhikkhu reviews this very body, however it stands, however it is placed, in terms of elements: 'In this body there are the earth element, the water element, the fire element, the air element.' In this way he lives contemplating the body as a body internally ... (as above). That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on attending to the elements.)",
+     "cmp": [
+      {
+       "w": "goghātako",
+       "note": "比喻的重点是：牛被切成一块块摆在路口，屠夫心里就不再有「牛」，只有「肉」。白话和英文都照字面，没有补出这层意思。古译写「分作六段」，对应它的六界。",
+       "en": "The point of the simile: once the cow is cut into portions at the crossroads, the butcher no longer thinks \"cow,\" only \"meat.\" The English and the plain Chinese both translate literally without spelling this out. The classical Chinese says \"cut into six parts,\" matching its six elements."
+      }
+     ]
+    },
+    {
+     "h": "e73685cd",
+     "en": "Again, bhikkhus, it is as if a bhikkhu were to see a corpse thrown aside in a charnel ground, one day dead, or two days dead, or three days dead, bloated, livid and oozing pus. He compares this very body with it: 'This body too has that same nature; it will become like that; it cannot escape it.' In this way he lives ... (as above). That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body.",
+     "cmp": [
+      {
+       "w": "sivathikāya",
+       "note": "sivathikā 是古印度丢弃尸体、任其腐烂的野地，不是今天的墓地。白话「坟场」、英文 charnel ground 比较接近；英文 cemetery 会误导。",
+       "en": "A sivathikā was open ground in ancient India where bodies were left to rot, not a cemetery in today's sense. The plain Chinese 坟场 (fénchǎng, \"burial ground\") and the English \"charnel ground\" are closer; \"cemetery\" would mislead."
+      }
+     ]
+    },
+    {
+     "h": "fe2fa8e1",
+     "en": "Again, bhikkhus, it is as if a bhikkhu were to see a corpse thrown aside in a charnel ground, being eaten by crows, eaten by hawks, eaten by vultures, eaten by herons, eaten by dogs, eaten by tigers, eaten by leopards, eaten by jackals, eaten by all sorts of small creatures. He compares this very body with it: 'This body too has that same nature; it will become like that; it cannot escape it.' In this way he lives ... (as above). That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body."
+    },
+    {
+     "h": "045c2e5c",
+     "en": "Again, bhikkhus, it is as if a bhikkhu were to see a corpse thrown aside in a charnel ground: a skeleton with flesh and blood, held together by sinews ... a skeleton without flesh, smeared with blood, held together by sinews ... a skeleton with no flesh or blood left, held together by sinews ..."
+    },
+    {
+     "h": "bd876d10",
+     "en": "... bones no longer joined, scattered in all directions: here a hand bone, there a foot bone, here an ankle bone, there a shin bone, here a thigh bone, there a hip bone, here a rib, there a backbone, here a shoulder bone, there a neck bone, here a jawbone, there a tooth, there the skull. He compares this very body with it: 'This body too has that same nature; it will become like that; it cannot escape it.' In this way he lives ... (as above)."
+    },
+    {
+     "h": "e9141f91",
+     "en": "Again, bhikkhus, it is as if a bhikkhu were to see bones thrown aside in a charnel ground: bones bleached white, the color of shells ... bones heaped up, more than a year old ... bones rotted and crumbled to powder. He compares this very body with it: 'This body too has that same nature; it will become like that; it cannot escape it.'"
+    },
+    {
+     "h": "59408c89",
+     "en": "In this way he lives contemplating the body as a body internally, or externally, or both internally and externally. He lives contemplating the nature of arising in the body, or the nature of passing away in the body, or the nature of both arising and passing away in the body. Or else the mindfulness 'there is a body' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating the body as a body. (End of the section on the nine charnel-ground contemplations. End of the fourteen contemplations of the body.)"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · Contemplating Feelings (Vedanānupassanā)",
+   "verses": [
+    {
+     "h": "eec87dae",
+     "en": "And how, bhikkhus, does a bhikkhu live contemplating feelings as feelings? Here, bhikkhus, when feeling a pleasant feeling, a bhikkhu knows, 'I feel a pleasant feeling.' When feeling a painful feeling, he knows, 'I feel a painful feeling.' When feeling a feeling that is neither painful nor pleasant, he knows, 'I feel a feeling that is neither painful nor pleasant.'",
+     "cmp": [
+      {
+       "w": "vedanā",
+       "note": "vedanā 是「受」：每一个经验带着的那点「舒服、不舒服、都不是」的味道，不是情绪。英文 feeling 容易被读成 emotion；白话「感受」也有同样的问题。古译写「觉」。",
+       "en": "Vedanā is the bare tone that comes with each experience: pleasant, unpleasant or neither. It is not emotion. The English \"feeling\" is easily read as \"emotion,\" and the plain Chinese 感受 (gǎnshòu, \"feeling\") has the same problem. The classical Chinese writes 觉 (jué, \"sensation\")."
+      }
+     ]
+    },
+    {
+     "h": "5a4a536b",
+     "en": "When feeling a worldly pleasant feeling, he knows, 'I feel a worldly pleasant feeling.' When feeling an unworldly pleasant feeling, he knows, 'I feel an unworldly pleasant feeling.' When feeling a worldly painful feeling, he knows, 'I feel a worldly painful feeling.' When feeling an unworldly painful feeling, he knows, 'I feel an unworldly painful feeling.' When feeling a worldly feeling that is neither painful nor pleasant, he knows, 'I feel a worldly feeling that is neither painful nor pleasant.' When feeling an unworldly feeling that is neither painful nor pleasant, he knows, 'I feel an unworldly feeling that is neither painful nor pleasant.'",
+     "cmp": [
+      {
+       "w": "sāmisaṁ / nirāmisaṁ",
+       "note": "āmisa 本义是「肉、诱饵」，引申为「世俗的、跟欲乐有关的」。白话「带着世俗诱饵的」保留了诱饵的画面；英文 worldly / unworldly 只译了引申义。白话把后四句合成一句概述，巴利原文是逐句写出的，英文照全文译。",
+       "en": "Āmisa originally means \"flesh, bait,\" and by extension \"worldly, tied to sensual pleasure.\" The plain Chinese 带着世俗诱饵的 (\"carrying worldly bait\") keeps the image of bait; the English \"worldly / unworldly\" gives only the extended sense. The plain Chinese sums up the last four lines in one sentence; the Pali writes them out one by one, and the English translates them all."
+      }
+     ]
+    },
+    {
+     "h": "e1d3e48d",
+     "en": "In this way he lives contemplating feelings as feelings internally, or externally, or both internally and externally. He lives contemplating the nature of arising in feelings, or the nature of passing away in feelings, or the nature of both arising and passing away in feelings. Or else the mindfulness 'there is feeling' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating feelings as feelings. (End of the contemplation of feelings.)"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · Contemplating the Mind (Cittānupassanā)",
+   "verses": [
+    {
+     "h": "1f676ca7",
+     "en": "And how, bhikkhus, does a bhikkhu live contemplating the mind as mind? Here, bhikkhus, a bhikkhu knows a mind with lust as 'a mind with lust,' and a mind free of lust as 'a mind free of lust.' He knows a mind with hatred as 'a mind with hatred,' and a mind free of hatred as 'a mind free of hatred.' He knows a mind with delusion as 'a mind with delusion,' and a mind free of delusion as 'a mind free of delusion.'",
+     "cmp": [
+      {
+       "w": "pajānāti",
+       "note": "整段的动词都是 pajānāti「清楚知道」，不是「改变」或「压下」。心有贪，就只是知道有贪。英文 knows、白话「知道」一致；古译加了「如真」（如实）二字。",
+       "en": "The verb throughout is pajānāti, \"knows clearly,\" not \"changes\" or \"suppresses.\" If the mind has lust, one simply knows it has lust. The English \"knows\" and the plain Chinese 知道 (zhīdào, \"knows\") agree; the classical Chinese adds 如真 (rú zhēn, \"as it truly is\")."
+      }
+     ]
+    },
+    {
+     "h": "89de3936",
+     "en": "He knows a contracted mind as 'a contracted mind,' and a scattered mind as 'a scattered mind.' He knows an expanded mind as 'an expanded mind,' and an unexpanded mind as 'an unexpanded mind.'",
+     "cmp": [
+      {
+       "w": "saṅkhittaṁ / mahaggataṁ",
+       "note": "saṅkhitta「收缩的」，注释家解作昏沉、退缩的心；mahaggata「变得广大的」，指入定后扩展的心。白话「收缩」「广大」、英文 contracted / expanded 都照字面。",
+       "en": "Saṅkhitta, \"contracted,\" is explained by the commentators as a sluggish, withdrawn mind; mahaggata, \"grown great,\" is the mind expanded in deep meditation. The plain Chinese 收缩 / 广大 (\"shrunk / vast\") and the English \"contracted / expanded\" follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "16a9e4fd",
+     "en": "He knows a surpassable mind as 'a surpassable mind,' and an unsurpassable mind as 'an unsurpassable mind.' He knows a concentrated mind as 'a concentrated mind,' and an unconcentrated mind as 'an unconcentrated mind.' He knows a released mind as 'a released mind,' and an unreleased mind as 'an unreleased mind.'",
+     "cmp": [
+      {
+       "w": "sauttaraṁ",
+       "note": "sa-uttara「其上还有的」，即还不是最高的心境。白话展开成「心之上还有更高的」，英文用一个词 surpassable，更紧凑。",
+       "en": "Sa-uttara, \"with something above it,\" means a state of mind that is not yet the highest. The plain Chinese unpacks it as 心之上还有更高的 (\"there is something higher above this mind\"); the English uses the single word \"surpassable.\""
+      }
+     ]
+    },
+    {
+     "h": "0e7658ed",
+     "en": "In this way he lives contemplating the mind as mind internally, or externally, or both internally and externally. He lives contemplating the nature of arising in the mind, or the nature of passing away in the mind, or the nature of both arising and passing away in the mind. Or else the mindfulness 'there is mind' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating the mind as mind. (End of the contemplation of mind.)"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · Contemplating Phenomena (Dhammānupassanā)",
+   "verses": [
+    {
+     "h": "7a4d3a13",
+     "en": "And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena? Here, bhikkhus, a bhikkhu lives contemplating phenomena as phenomena in terms of the five hindrances. And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena in terms of the five hindrances?",
+     "cmp": [
+      {
+       "w": "nīvaraṇa",
+       "note": "nīvaraṇa 字面是「遮盖物、障碍」，中文旧译「盖」，取其「盖住心」的意思。白话「障碍」、英文 hindrances 都偏「挡路」，少了「遮盖」的画面。",
+       "en": "Nīvaraṇa literally means \"covering, obstruction\"; the old Chinese 盖 (gài, \"lid, cover\") takes the sense of something covering the mind. The plain Chinese 障碍 (zhàng'ài, \"obstacle\") and the English \"hindrances\" both lean toward \"blocking the way\" and lose the image of covering."
+      }
+     ]
+    },
+    {
+     "h": "256605ba",
+     "en": "Here, bhikkhus, if there is sensual desire in him, a bhikkhu knows, 'There is sensual desire in me'; if there is no sensual desire in him, he knows, 'There is no sensual desire in me.' He knows how sensual desire that has not arisen comes to arise, he knows how sensual desire that has arisen is abandoned, and he knows how sensual desire that has been abandoned does not arise again in the future.",
+     "cmp": [
+      {
+       "w": "kāmacchanda",
+       "note": "kāma-chanda「对欲乐的意欲」，不只是性欲，而是对一切感官享受的想要。白话「欲贪」、英文 sensual desire 都可能被读窄。",
+       "en": "Kāma-chanda, \"desire for sensual pleasure,\" is not only sexual desire but wanting any sensory enjoyment. The plain Chinese 欲贪 (yùtān, \"desire-greed\") and the English \"sensual desire\" can both be read too narrowly."
+      }
+     ]
+    },
+    {
+     "h": "3489b3fd",
+     "en": "If there is ill will in him, a bhikkhu knows, 'There is ill will in me'; if there is no ill will in him, he knows, 'There is no ill will in me.' He knows how ill will that has not arisen comes to arise, he knows how ill will that has arisen is abandoned, and he knows how ill will that has been abandoned does not arise again in the future. If there is dullness and drowsiness in him, a bhikkhu knows, 'There is dullness and drowsiness in me'; if there is no dullness and drowsiness in him, he knows, 'There is no dullness and drowsiness in me.' He knows how dullness and drowsiness that has not arisen comes to arise, he knows how dullness and drowsiness that has arisen is abandoned, and he knows how dullness and drowsiness that has been abandoned does not arise again in the future. If there is restlessness and remorse in him, a bhikkhu knows, 'There is restlessness and remorse in me'; if there is no restlessness and remorse in him, he knows, 'There is no restlessness and remorse in me.' He knows how restlessness and remorse that has not arisen comes to arise, he knows how restlessness and remorse that has arisen is abandoned, and he knows how restlessness and remorse that has been abandoned does not arise again in the future.",
+     "cmp": [
+      {
+       "w": "uddhaccakukkucca",
+       "note": "uddhacca 是「浮动、静不下来」，kukkucca 是「后悔、懊恼」。白话「掉举（浮躁不安）和后悔」、英文 restlessness and remorse 一致。白话这一段用「（同上）」省略，巴利原文三样都写全，英文照全文译。",
+       "en": "Uddhacca is \"agitation, not settling,\" kukkucca \"regret, worry over what one did.\" The plain Chinese 掉举（浮躁不安）和后悔 (\"agitation and regret\") and the English \"restlessness and remorse\" agree. The plain Chinese abbreviates this passage with \"(as above)\"; the Pali writes all three out, and the English translates them in full."
+      }
+     ]
+    },
+    {
+     "h": "fc25e006",
+     "en": "If there is doubt in him, a bhikkhu knows, 'There is doubt in me'; if there is no doubt in him, he knows, 'There is no doubt in me.' He knows how doubt that has not arisen comes to arise, he knows how doubt that has arisen is abandoned, and he knows how doubt that has been abandoned does not arise again in the future."
+    },
+    {
+     "h": "12fced83",
+     "en": "In this way he lives contemplating phenomena as phenomena internally, or externally, or both internally and externally. He lives contemplating the nature of arising in phenomena, or the nature of passing away in phenomena, or the nature of both arising and passing away in phenomena. Or else the mindfulness 'there are phenomena' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating phenomena as phenomena in terms of the five hindrances. (End of the section on the hindrances.)"
+    },
+    {
+     "h": "972bb154",
+     "en": "Again, bhikkhus, a bhikkhu lives contemplating phenomena as phenomena in terms of the five aggregates of clinging. And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena in terms of the five aggregates of clinging? Here, bhikkhus, a bhikkhu sees: 'Such is form (the physical body and matter), such is its arising, such is its passing away; such is feeling, such is its arising, such is its passing away; such is perception (recognizing), such is its arising, such is its passing away; such are mental formations (will and its activities), such is their arising, such is their passing away; such is consciousness (knowing an object), such is its arising, such is its passing away.'",
+     "cmp": [
+      {
+       "w": "iti rūpaṁ",
+       "note": "巴利文 iti 是「如此、这样」，「如此是色」带着「就是这样而已」的语气。白话「这是色」、英文 such is form 意思接近。saṅkhārā「行」最难译，白话「意志造作」、英文 mental formations 都只是近似。",
+       "en": "Pali iti means \"thus\"; \"thus is form\" has the tone of \"just this, nothing more.\" The plain Chinese 这是色 (\"this is form\") and the English \"such is form\" are close. Saṅkhārā is the hardest term here: the plain Chinese 意志造作 (\"volitional making\") and the English \"mental formations\" are both approximations."
+      }
+     ]
+    },
+    {
+     "h": "dfa567ad",
+     "en": "In this way he lives contemplating phenomena as phenomena internally, or externally, or both internally and externally. He lives contemplating the nature of arising in phenomena, or the nature of passing away in phenomena, or the nature of both arising and passing away in phenomena. Or else the mindfulness 'there are phenomena' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating phenomena as phenomena in terms of the five aggregates of clinging. (End of the section on the aggregates.)"
+    },
+    {
+     "h": "e5ac3bd3",
+     "en": "Again, bhikkhus, a bhikkhu lives contemplating phenomena as phenomena in terms of the six internal and external sense bases. And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena in terms of the six internal and external sense bases? Here, bhikkhus, a bhikkhu knows the eye, he knows sights, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future.",
+     "cmp": [
+      {
+       "w": "saṁyojanaṁ",
+       "note": "saṁyojana「把东西绑在一起的绳子」，白话「束缚」、英文 fetter 都保留了「绑住」的画面。古译写「内结」。",
+       "en": "Saṁyojana is \"a rope that ties things together.\" The plain Chinese 束缚 (shùfù, \"bond\") and the English \"fetter\" both keep the image of being tied. The classical Chinese writes 内结 (nèi jié, \"inner knot\")."
+      }
+     ]
+    },
+    {
+     "h": "ce5d1018",
+     "en": "He knows the ear, he knows sounds, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future. He knows the nose, he knows smells, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future. He knows the tongue, he knows tastes, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future. He knows the body, he knows touches, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future. He knows the mind, he knows mental objects, and he knows the fetter that arises dependent on both. He knows how a fetter that has not arisen comes to arise, he knows how a fetter that has arisen is abandoned, and he knows how a fetter that has been abandoned does not arise again in the future.",
+     "cmp": [
+      {
+       "w": "manañca / dhamme",
+       "note": "第六处是「意」和它的对象「法」。这里的 dhamma 指「心里想到的东西」，不是佛法。白话「心里的对象（法）」、英文 mental objects 都点明了。白话把前四处用「……」省略，巴利文写全，英文照全文译。",
+       "en": "The sixth base is mind and its object, dhamma. Here dhamma means \"what the mind thinks of,\" not the teaching. The plain Chinese 心里的对象（法） (\"objects in the mind\") and the English \"mental objects\" both make this clear. The plain Chinese abbreviates the first four bases; the Pali writes them out, and the English translates them in full."
+      }
+     ]
+    },
+    {
+     "h": "b7477f52",
+     "en": "In this way he lives contemplating phenomena as phenomena internally, or externally, or both internally and externally. He lives contemplating the nature of arising in phenomena, or the nature of passing away in phenomena, or the nature of both arising and passing away in phenomena. Or else the mindfulness 'there are phenomena' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating phenomena as phenomena in terms of the six internal and external sense bases. (End of the section on the sense bases.)"
+    },
+    {
+     "h": "e6b44b56",
+     "en": "Again, bhikkhus, a bhikkhu lives contemplating phenomena as phenomena in terms of the seven factors of awakening. And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena in terms of the seven factors of awakening? Here, bhikkhus, if the mindfulness factor of awakening is present in him, he knows, 'The mindfulness factor of awakening is present in me'; if it is not present in him, he knows, 'The mindfulness factor of awakening is not present in me.' He knows how the mindfulness factor of awakening that has not arisen comes to arise, and he knows how the mindfulness factor of awakening that has arisen is brought to fulfilment by development.",
+     "cmp": [
+      {
+       "w": "bojjhaṅga",
+       "note": "bojjhaṅga 是 bodhi-aṅga「觉悟的组成部分」。白话「觉悟的要素」、英文 factors of awakening 一致。注意这里的动词跟五盖不同：五盖要「舍掉」，觉支要「修习圆满」。",
+       "en": "Bojjhaṅga is bodhi-aṅga, \"a limb of awakening.\" The plain Chinese 觉悟的要素 (\"elements of awakening\") and the English \"factors of awakening\" agree. Note the verbs differ from the hindrances: hindrances are abandoned, the factors of awakening are brought to fulfilment."
+      }
+     ]
+    },
+    {
+     "h": "d061f77f",
+     "en": "If the investigation-of-phenomena factor of awakening is present in him, he knows, 'The investigation-of-phenomena factor of awakening is present in me'; if it is not present in him, he knows, 'The investigation-of-phenomena factor of awakening is not present in me.' He knows how the investigation-of-phenomena factor of awakening that has not arisen comes to arise, and he knows how the investigation-of-phenomena factor of awakening that has arisen is brought to fulfilment by development. If the energy factor of awakening is present in him, he knows, 'The energy factor of awakening is present in me'; if it is not present in him, he knows, 'The energy factor of awakening is not present in me.' He knows how the energy factor of awakening that has not arisen comes to arise, and he knows how the energy factor of awakening that has arisen is brought to fulfilment by development. If the joy factor of awakening is present in him, he knows, 'The joy factor of awakening is present in me'; if it is not present in him, he knows, 'The joy factor of awakening is not present in me.' He knows how the joy factor of awakening that has not arisen comes to arise, and he knows how the joy factor of awakening that has arisen is brought to fulfilment by development. If the tranquility factor of awakening is present in him, he knows, 'The tranquility factor of awakening is present in me'; if it is not present in him, he knows, 'The tranquility factor of awakening is not present in me.' He knows how the tranquility factor of awakening that has not arisen comes to arise, and he knows how the tranquility factor of awakening that has arisen is brought to fulfilment by development. If the concentration factor of awakening is present in him, he knows, 'The concentration factor of awakening is present in me'; if it is not present in him, he knows, 'The concentration factor of awakening is not present in me.' He knows how the concentration factor of awakening that has not arisen comes to arise, and he knows how the concentration factor of awakening that has arisen is brought to fulfilment by development.",
+     "cmp": [
+      {
+       "w": "dhammavicaya",
+       "note": "dhamma-vicaya「对诸法的拣择」，就是分辨心里哪些是善、哪些是不善。白话「择法」、英文 investigation of phenomena 都照字面。白话这一段用「（同上）」省略，英文照巴利全文译。",
+       "en": "Dhamma-vicaya, \"sorting through phenomena,\" means telling apart what in the mind is wholesome and what is not. The plain Chinese 择法 (zéfǎ, \"choosing among dharmas\") and the English \"investigation of phenomena\" follow the letter. The plain Chinese abbreviates this passage with \"(as above)\"; the English translates the full Pali."
+      },
+      {
+       "w": "passaddhi",
+       "note": "passaddhi 是身心「平静下来、松下来」。白话「轻安」、英文 tranquility 一致。古译写「息」。",
+       "en": "Passaddhi is body and mind \"calming down, relaxing.\" The plain Chinese 轻安 (qīng'ān, \"light ease\") and the English \"tranquility\" agree. The classical Chinese writes 息 (xī, \"rest\")."
+      }
+     ]
+    },
+    {
+     "h": "4460c8e0",
+     "en": "If the equanimity factor of awakening is present in him, he knows, 'The equanimity factor of awakening is present in me'; if it is not present in him, he knows, 'The equanimity factor of awakening is not present in me.' He knows how the equanimity factor of awakening that has not arisen comes to arise, and he knows how the equanimity factor of awakening that has arisen is brought to fulfilment by development.",
+     "cmp": [
+      {
+       "w": "upekkhā",
+       "note": "upekkhā 字面是「从上面看着」，指不偏不倚、不被拉走的心，不是冷漠。白话「平等不偏的心」、英文 equanimity 都译出了。",
+       "en": "Upekkhā literally means \"looking on from above\": a balanced mind that isn't pulled either way, not indifference. The plain Chinese 平等不偏的心 (\"an even, unbiased mind\") and the English \"equanimity\" both convey it."
+      }
+     ]
+    },
+    {
+     "h": "85330595",
+     "en": "In this way he lives contemplating phenomena as phenomena internally, or externally, or both internally and externally. He lives contemplating the nature of arising in phenomena, or the nature of passing away in phenomena, or the nature of both arising and passing away in phenomena. Or else the mindfulness 'there are phenomena' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating phenomena as phenomena in terms of the seven factors of awakening. (End of the section on the factors of awakening.)"
+    },
+    {
+     "h": "474acbf1",
+     "en": "Again, bhikkhus, a bhikkhu lives contemplating phenomena as phenomena in terms of the four noble truths. And how, bhikkhus, does a bhikkhu live contemplating phenomena as phenomena in terms of the four noble truths? Here, bhikkhus, a bhikkhu knows as it really is, 'This is suffering'; he knows as it really is, 'This is the origin of suffering'; he knows as it really is, 'This is the cessation of suffering'; he knows as it really is, 'This is the way leading to the cessation of suffering.' (End of the first recitation section.)",
+     "cmp": [
+      {
+       "w": "bhāṇavāra",
+       "note": "bhāṇavāra「诵分」是背诵时的一个段落单位，约二百五十偈的长度。白话「诵分」、英文 recitation section 一致。从这里到四谛一节末，是《大念处经》比《中部·念处经》多出的部分。",
+       "en": "A bhāṇavāra, \"recitation section,\" is a unit for memorizing, about 250 verses long. The plain Chinese 诵分 (sòngfèn) and the English agree. From here to the end of the section on the truths is the material the Great Discourse adds to the shorter Discourse on the Establishings of Mindfulness in the Middle-length Discourses."
+      }
+     ]
+    },
+    {
+     "h": "00481428",
+     "en": "And what, bhikkhus, is the noble truth of suffering? Birth is suffering, aging is suffering, death is suffering; sorrow, lamenting, pain, distress and despair are suffering; being with what one dislikes is suffering, being separated from what one loves is suffering, not getting what one wants is suffering. In short, the five aggregates of clinging are suffering."
+    },
+    {
+     "h": "445f4329",
+     "en": "And what, bhikkhus, is birth? For various beings in various orders of beings, it is birth, being born, descent into the womb, coming forth, the appearance of the aggregates, the acquiring of the sense bases. This, bhikkhus, is called birth."
+    },
+    {
+     "h": "ad932212",
+     "en": "And what, bhikkhus, is aging? For various beings in various orders of beings, it is aging, decrepitude, broken teeth, gray hair, wrinkled skin, the shrinking of life, the wearing out of the faculties. This, bhikkhus, is called aging.",
+     "cmp": [
+      {
+       "w": "khaṇḍiccaṁ pāliccaṁ",
+       "note": "khaṇḍicca「（牙齿）断缺」、pālicca「（头发）变白」，巴利文只是两个抽象名词，没写牙齿和头发，注释家才补出来。白话「牙齿脱落、头发变白」、英文 broken teeth, gray hair 都照注释补了。",
+       "en": "Khaṇḍicca, \"brokenness,\" and pālicca, \"grayness,\" are just two abstract nouns in the Pali; teeth and hair are supplied by the commentary. The plain Chinese 牙齿脱落、头发变白 (\"teeth falling out, hair turning white\") and the English \"broken teeth, gray hair\" both follow the commentary."
+      }
+     ]
+    },
+    {
+     "h": "d1ab660b",
+     "en": "And what, bhikkhus, is death? For various beings, from various orders of beings, it is passing away, departing, breaking up, disappearance, dying, death, the completion of one's time, the breaking up of the aggregates, the laying down of the body, the cutting off of the life faculty. This, bhikkhus, is called death."
+    },
+    {
+     "h": "4a791ada",
+     "en": "And what, bhikkhus, is sorrow? Bhikkhus, in someone who has met with some misfortune or other, who is touched by some painful thing or other, it is sorrow, sorrowing, sorrowfulness, inner sorrow, deep inner sorrow. This, bhikkhus, is called sorrow.",
+     "cmp": [
+      {
+       "w": "antosoko antoparisoko",
+       "note": "巴利经在下定义时喜欢把同一个词根变来变去地重复（soka、socanā、socitatta），这是口诵文体。英文和白话都尽量译成一串近义词，但原文那种一个词根回响的效果译不出来。",
+       "en": "When defining a term the Pali likes to repeat one root in many forms (soka, socanā, socitatta), a feature of oral style. The English and the plain Chinese both turn it into a string of near-synonyms, but the echo of a single root can't be carried over."
+      }
+     ]
+    },
+    {
+     "h": "05c1ec1e",
+     "en": "And what, bhikkhus, is lamenting? Bhikkhus, in someone who has met with some misfortune or other, who is touched by some painful thing or other, it is crying, wailing, weeping, lamenting, the state of crying, the state of lamenting. This, bhikkhus, is called lamenting."
+    },
+    {
+     "h": "fe492973",
+     "en": "And what, bhikkhus, is pain? Bhikkhus, it is bodily pain, bodily discomfort, the painful, uncomfortable feeling born of bodily contact. This, bhikkhus, is called pain.",
+     "cmp": [
+      {
+       "w": "dukkhaṁ",
+       "note": "这里的 dukkha 是狭义的「身体上的痛」，跟四谛里宽义的「苦」不同。白话写「痛苦」、英文写 pain，都把它和前面的 suffering 区分开了。",
+       "en": "Dukkha here is the narrow sense of \"bodily pain,\" unlike the wide \"suffering\" of the four truths. The plain Chinese 痛苦 (tòngkǔ, \"pain\") and the English \"pain\" both set it apart from the earlier \"suffering.\""
+      }
+     ]
+    },
+    {
+     "h": "d6bf872f",
+     "en": "And what, bhikkhus, is distress? Bhikkhus, it is mental pain, mental discomfort, the painful, uncomfortable feeling born of mental contact. This, bhikkhus, is called distress.",
+     "cmp": [
+      {
+       "w": "domanassaṁ",
+       "note": "domanassa 字面是「坏的心情」，就是心里的痛。白话写「烦恼」，容易跟佛经里另一个词 kilesa（烦恼、染污）混在一起；英文 distress 没有这个问题。",
+       "en": "Domanassa literally means \"bad-mindedness,\" pain of the mind. The plain Chinese 烦恼 (fánnǎo, \"vexation\") can be confused with another Buddhist term, kilesa (\"defilement\"), which is also rendered 烦恼; the English \"distress\" avoids this."
+      }
+     ]
+    },
+    {
+     "h": "5326e959",
+     "en": "And what, bhikkhus, is despair? Bhikkhus, in someone who has met with some misfortune or other, who is touched by some painful thing or other, it is trouble, despair, being troubled, being in despair. This, bhikkhus, is called despair.",
+     "cmp": [
+      {
+       "w": "upāyāso",
+       "note": "upāyāsa 本义是「极度的疲累、心力耗尽」。白话「绝望」、英文 despair 偏向「没有希望」，原文更接近「被压垮、精疲力竭」。",
+       "en": "Upāyāsa originally means \"extreme weariness, exhaustion.\" The plain Chinese 绝望 (juéwàng, \"despair\") and the English \"despair\" lean toward hopelessness; the Pali is closer to being crushed and worn out."
+      }
+     ]
+    },
+    {
+     "h": "b6adf0b3",
+     "en": "And what, bhikkhus, is the suffering of being with what one dislikes? Here, whoever has unwanted, unloved, disagreeable sights, sounds, smells, tastes, touches and mental objects, or whoever has those who wish him harm, wish him ill, wish him discomfort, wish him no security, the meeting, coming together, joining up and mixing with them: this, bhikkhus, is called the suffering of being with what one dislikes."
+    },
+    {
+     "h": "14cc8582",
+     "en": "And what, bhikkhus, is the suffering of being separated from what one loves? Here, whoever has wanted, loved, agreeable sights, sounds, smells, tastes, touches and mental objects, or whoever has those who wish him good, wish him well, wish him comfort, wish him security, a mother or father, brother or sister, friends or colleagues, relatives or kin, the not meeting, not coming together, not joining up and not mixing with them: this, bhikkhus, is called the suffering of being separated from what one loves.",
+     "cmp": [
+      {
+       "w": "amaccā",
+       "note": "amacca 本义是「（国王的）大臣」，引申为「同伴、同僚」。白话「同事」、英文 colleagues 都取了引申义。",
+       "en": "Amacca originally means \"(a king's) minister,\" and by extension \"companion, colleague.\" The plain Chinese 同事 (tóngshì, \"coworker\") and the English \"colleagues\" both take the extended sense."
+      }
+     ]
+    },
+    {
+     "h": "4462e862",
+     "en": "And what, bhikkhus, is not getting what one wants, which is suffering? Bhikkhus, in beings subject to birth, this wish arises: 'Oh, if only we were not subject to birth! If only birth would not come to us!' But that cannot be had by wishing. This too is not getting what one wants, which is suffering."
+    },
+    {
+     "h": "bae16ae2",
+     "en": "Bhikkhus, in beings subject to aging, this wish arises: 'Oh, if only we were not subject to aging! If only aging would not come to us!' But that cannot be had by wishing. That too is not getting what one wants, which is suffering."
+    },
+    {
+     "h": "b679e80b",
+     "en": "Bhikkhus, in beings subject to illness, this wish arises: 'Oh, if only we were not subject to illness! If only illness would not come to us!' But that cannot be had by wishing. That too is not getting what one wants, which is suffering. Bhikkhus, in beings subject to death, this wish arises: 'Oh, if only we were not subject to death! If only death would not come to us!' But that cannot be had by wishing. That too is not getting what one wants, which is suffering."
+    },
+    {
+     "h": "99ac6452",
+     "en": "Bhikkhus, in beings subject to sorrow, lamenting, pain, distress and despair, this wish arises: 'Oh, if only we were not subject to sorrow, lamenting, pain, distress and despair! If only sorrow, lamenting, pain, distress and despair would not come to us!' But that cannot be had by wishing. That too is not getting what one wants, which is suffering."
+    },
+    {
+     "h": "cef46fe5",
+     "en": "And what, bhikkhus, are 'in short, the five aggregates of clinging are suffering'? They are the form aggregate of clinging, the feeling aggregate of clinging, the perception aggregate of clinging, the mental-formations aggregate of clinging, the consciousness aggregate of clinging. These, bhikkhus, are called 'in short, the five aggregates of clinging are suffering.' This, bhikkhus, is called the noble truth of suffering."
+    },
+    {
+     "h": "2bf1cd8d",
+     "en": "And what, bhikkhus, is the noble truth of the origin of suffering? It is this craving that leads to renewed existence, bound up with delight and lust, seeking pleasure now here, now there; that is, craving for sensual pleasures, craving for existence, craving for non-existence.",
+     "cmp": [
+      {
+       "w": "taṇhā",
+       "note": "taṇhā 字面是「口渴」。白话「渴爱」、英文 craving 都保留了停不下来的饥渴。",
+       "en": "Taṇhā literally means \"thirst.\" The plain Chinese 渴爱 (kě'ài, \"thirsting love\") and the English \"craving\" both keep the sense of a thirst that won't stop."
+      }
+     ]
+    },
+    {
+     "h": "e4575abc",
+     "en": "And where, bhikkhus, does this craving arise when it arises, where does it settle when it settles? Whatever in the world is dear and delightful: that is where this craving arises when it arises, where it settles when it settles. And what in the world is dear and delightful?",
+     "cmp": [
+      {
+       "w": "nivisamānā nivisati",
+       "note": "nivisati「进去住下、安家」。白话「扎根」换了个植物的比喻；英文 settles 更贴原文「住下来」的意思。",
+       "en": "Nivisati means \"to enter and settle down, make a home.\" The plain Chinese 扎根 (zhāgēn, \"take root\") switches to a plant image; the English \"settles\" is closer to the Pali sense of moving in."
+      }
+     ]
+    },
+    {
+     "h": "50b0bf5d",
+     "en": "The eye in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles. The ear in the world ... the nose in the world ... the tongue in the world ... the body in the world ... the mind in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "88b01c09",
+     "en": "Sights in the world ... sounds in the world ... smells in the world ... tastes in the world ... touches in the world ... mental objects in the world are dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "8b509df7",
+     "en": "Eye-consciousness in the world ... ear-consciousness in the world ... nose-consciousness in the world ... tongue-consciousness in the world ... body-consciousness in the world ... mind-consciousness in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles.",
+     "cmp": [
+      {
+       "w": "cakkhuviññāṇaṁ",
+       "note": "viññāṇa「识」是「分别着知道」，眼识就是「通过眼睛知道」。白话括号写「看的意识」，英文 eye-consciousness。",
+       "en": "Viññāṇa, \"consciousness,\" is \"knowing by discerning\"; eye-consciousness is knowing through the eye. The plain Chinese glosses it as 看的意识 (\"the consciousness of seeing\"); the English says \"eye-consciousness.\""
+      }
+     ]
+    },
+    {
+     "h": "f1e125b3",
+     "en": "Eye-contact in the world ... ear-contact in the world ... nose-contact in the world ... tongue-contact in the world ... body-contact in the world ... mind-contact in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "aeac5855",
+     "en": "Feeling born of eye-contact in the world ... feeling born of ear-contact in the world ... feeling born of nose-contact in the world ... feeling born of tongue-contact in the world ... feeling born of body-contact in the world ... feeling born of mind-contact in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "2cf980cf",
+     "en": "Perception of sights in the world ... perception of sounds in the world ... perception of smells in the world ... perception of tastes in the world ... perception of touches in the world ... perception of mental objects in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "7ed8a7d0",
+     "en": "Intention about sights in the world ... intention about sounds in the world ... intention about smells in the world ... intention about tastes in the world ... intention about touches in the world ... intention about mental objects in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "2f155506",
+     "en": "Craving for sights in the world ... craving for sounds in the world ... craving for smells in the world ... craving for tastes in the world ... craving for touches in the world ... craving for mental objects in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles."
+    },
+    {
+     "h": "34fe3814",
+     "en": "Thinking about sights in the world ... thinking about sounds in the world ... thinking about smells in the world ... thinking about tastes in the world ... thinking about touches in the world ... thinking about mental objects in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles.",
+     "cmp": [
+      {
+       "w": "vitakko / vicāro",
+       "note": "vitakka 是把心「拿起来放到」对象上，vicāra 是在对象上「来回走动」。旧译「寻、伺」，白话「寻思、细想」，英文 thinking / examining，都只是近似。",
+       "en": "Vitakka is \"lifting the mind onto\" an object, vicāra \"moving back and forth over\" it. The old Chinese 寻、伺 (xún, sì, \"seeking, watching\"), the plain Chinese 寻思、细想 (\"thinking, pondering closely\") and the English \"thinking / examining\" are all approximations."
+      }
+     ]
+    },
+    {
+     "h": "0c344131",
+     "en": "Examining sights in the world ... examining sounds in the world ... examining smells in the world ... examining tastes in the world ... examining touches in the world ... examining mental objects in the world is dear and delightful; that is where this craving arises when it arises, where it settles when it settles. This, bhikkhus, is called the noble truth of the origin of suffering."
+    },
+    {
+     "h": "125d3822",
+     "en": "And what, bhikkhus, is the noble truth of the cessation of suffering? It is the complete fading away and cessation of that very craving, giving it up, letting it go, being free of it, no longer clinging to it."
+    },
+    {
+     "h": "7fe5e806",
+     "en": "And where, bhikkhus, is this craving abandoned when it is abandoned, where does it cease when it ceases? Whatever in the world is dear and delightful: that is where this craving is abandoned when it is abandoned, where it ceases when it ceases. And what in the world is dear and delightful?",
+     "cmp": [
+      {
+       "w": "ettha",
+       "note": "渴爱在哪里生起，就在哪里止息：经文刻意用同一句「凡是世间里可爱的、可喜的」。白话和英文都保留了这个对称。",
+       "en": "Craving ceases right where it arises: the discourse deliberately repeats the same phrase, \"whatever in the world is dear and delightful.\" The English and the plain Chinese both keep this symmetry."
+      }
+     ]
+    },
+    {
+     "h": "244b9da8",
+     "en": "The eye in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases. The ear in the world ... the nose in the world ... the tongue in the world ... the body in the world ... the mind in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "64522e27",
+     "en": "Sights in the world ... sounds in the world ... smells in the world ... tastes in the world ... touches in the world ... mental objects in the world are dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "68bc5f5c",
+     "en": "Eye-consciousness in the world ... ear-consciousness in the world ... nose-consciousness in the world ... tongue-consciousness in the world ... body-consciousness in the world ... mind-consciousness in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "59d53b63",
+     "en": "Eye-contact in the world ... ear-contact in the world ... nose-contact in the world ... tongue-contact in the world ... body-contact in the world ... mind-contact in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "29c4901b",
+     "en": "Feeling born of eye-contact in the world ... feeling born of ear-contact in the world ... feeling born of nose-contact in the world ... feeling born of tongue-contact in the world ... feeling born of body-contact in the world ... feeling born of mind-contact in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "d48edaaf",
+     "en": "Perception of sights in the world ... perception of sounds in the world ... perception of smells in the world ... perception of tastes in the world ... perception of touches in the world ... perception of mental objects in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "ed62fdc5",
+     "en": "Intention about sights in the world ... intention about sounds in the world ... intention about smells in the world ... intention about tastes in the world ... intention about touches in the world ... intention about mental objects in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "887eb2f7",
+     "en": "Craving for sights in the world ... craving for sounds in the world ... craving for smells in the world ... craving for tastes in the world ... craving for touches in the world ... craving for mental objects in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "b9991200",
+     "en": "Thinking about sights in the world ... thinking about sounds in the world ... thinking about smells in the world ... thinking about tastes in the world ... thinking about touches in the world ... thinking about mental objects in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases."
+    },
+    {
+     "h": "f7fcfe58",
+     "en": "Examining sights in the world ... examining sounds in the world ... examining smells in the world ... examining tastes in the world ... examining touches in the world ... examining mental objects in the world is dear and delightful; that is where this craving is abandoned when it is abandoned, where it ceases when it ceases. This, bhikkhus, is called the noble truth of the cessation of suffering."
+    },
+    {
+     "h": "3c8a939f",
+     "en": "And what, bhikkhus, is the noble truth of the way leading to the cessation of suffering? It is just this noble eightfold path: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration."
+    },
+    {
+     "h": "e58bf932",
+     "en": "And what, bhikkhus, is right view? Bhikkhus, it is knowledge of suffering, knowledge of the origin of suffering, knowledge of the cessation of suffering, knowledge of the way leading to the cessation of suffering. This, bhikkhus, is called right view."
+    },
+    {
+     "h": "a90a6e7f",
+     "en": "And what, bhikkhus, is right intention? The intention of renunciation, the intention of non-ill will, the intention of harmlessness. This, bhikkhus, is called right intention.",
+     "cmp": [
+      {
+       "w": "nekkhamma",
+       "note": "nekkhamma 字面是「出离」，指离开欲乐，常跟出家相连，但不限于出家。白话「出离欲乐」、英文 renunciation 一致。",
+       "en": "Nekkhamma literally means \"going out,\" leaving sensual pleasure behind; it is often linked with leaving home to become a monk or nun, but isn't limited to that. The plain Chinese 出离欲乐 (\"leaving sensual pleasure\") and the English \"renunciation\" agree."
+      }
+     ]
+    },
+    {
+     "h": "5a795a0e",
+     "en": "And what, bhikkhus, is right speech? Refraining from lying, refraining from divisive speech, refraining from harsh speech, refraining from idle chatter. This, bhikkhus, is called right speech."
+    },
+    {
+     "h": "f6cf3804",
+     "en": "And what, bhikkhus, is right action? Refraining from killing living beings, refraining from taking what is not given, refraining from sexual misconduct. This, bhikkhus, is called right action.",
+     "cmp": [
+      {
+       "w": "kāmesumicchācārā",
+       "note": "kāmesu micchā-cāra 字面是「在欲乐上的错误行为」，传统解作不正当的性行为。白话照字面写「在欲乐上做不正当的事」，英文直接写 sexual misconduct。",
+       "en": "Kāmesu micchā-cāra literally means \"wrong conduct in sensual pleasures,\" traditionally understood as sexual misconduct. The plain Chinese stays literal with 在欲乐上做不正当的事 (\"doing improper things in sensual pleasure\"); the English says \"sexual misconduct\" directly."
+      }
+     ]
+    },
+    {
+     "h": "1bb4b0ab",
+     "en": "And what, bhikkhus, is right livelihood? Here, bhikkhus, a noble disciple gives up wrong livelihood and makes his living by right livelihood. This, bhikkhus, is called right livelihood."
+    },
+    {
+     "h": "98685eee",
+     "en": "And what, bhikkhus, is right effort? Here, bhikkhus, a bhikkhu generates desire, makes an effort, rouses energy, lifts up his mind and strives, so that evil, unwholesome things that have not arisen do not arise; he generates desire, makes an effort, rouses energy, lifts up his mind and strives to abandon evil, unwholesome things that have arisen; he generates desire, makes an effort, rouses energy, lifts up his mind and strives so that wholesome things that have not arisen may arise; he generates desire, makes an effort, rouses energy, lifts up his mind and strives so that wholesome things that have arisen may stay, not be lost, grow, expand and be fulfilled by development. This, bhikkhus, is called right effort.",
+     "cmp": [
+      {
+       "w": "chandaṁ janeti",
+       "note": "chanda 是「想做的意愿」，中性的词，跟 taṇhā「渴爱」不同：想要修善也是 chanda。白话「意愿」、英文 desire 里，英文 desire 容易让人以为是贪欲。",
+       "en": "Chanda is \"the wish to act,\" a neutral word, different from taṇhā, \"craving\": wanting to do good is also chanda. The plain Chinese 意愿 (yìyuàn, \"will, wish\") is neutral; the English \"desire\" may sound like greed."
+      }
+     ]
+    },
+    {
+     "h": "d53c5e3e",
+     "en": "And what, bhikkhus, is right mindfulness? Here, bhikkhus, a bhikkhu lives contemplating the body as a body, ardent, clearly knowing, mindful, having put away greed and distress about the world; he lives contemplating feelings as feelings, ardent, clearly knowing, mindful, having put away greed and distress about the world; he lives contemplating the mind as mind, ardent, clearly knowing, mindful, having put away greed and distress about the world; he lives contemplating phenomena as phenomena, ardent, clearly knowing, mindful, having put away greed and distress about the world. This, bhikkhus, is called right mindfulness."
+    },
+    {
+     "h": "3a93f996",
+     "en": "And what, bhikkhus, is right concentration? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome things, a bhikkhu enters and lives in the first jhāna (meditative absorption), which has thinking and examining, with joy and happiness born of seclusion. With the stilling of thinking and examining, he enters and lives in the second jhāna, which has inner clarity and unification of mind, without thinking and examining, with joy and happiness born of concentration.",
+     "cmp": [
+      {
+       "w": "jhāna",
+       "note": "jhāna 是深度专注的心境，中文音译「禅」（禅那），后来「禅」在中文里又变成了禅宗的禅，意思宽了很多。英文保留巴利原词 jhāna，括号里说明是 meditative absorption。",
+       "en": "Jhāna is a state of deep absorption. Chinese transliterates it as 禅 (chán, from channa), and later 禅 also became the name of the Chan (Zen) school, so the Chinese word grew much wider. The English keeps the Pali jhāna with \"meditative absorption\" in brackets."
+      }
+     ]
+    },
+    {
+     "h": "6fdc426e",
+     "en": "With the fading away of joy as well, he lives equanimous, mindful and clearly knowing, and he feels happiness with the body; he enters and lives in the third jhāna, of which the noble ones declare, 'Equanimous and mindful, he lives happily.' With the abandoning of pleasure and the abandoning of pain, and with the earlier disappearance of gladness and distress, he enters and lives in the fourth jhāna, which is neither painful nor pleasant and has mindfulness purified by equanimity. This, bhikkhus, is called right concentration.",
+     "cmp": [
+      {
+       "w": "kāyena",
+       "note": "kāya 字面是「身」，但这里注释家解作「名身」，也就是整个身心。白话「身体感受到乐」、英文 with the body 都照字面。",
+       "en": "Kāya literally means \"body,\" but here the commentators explain it as the \"mental body,\" the whole of body and mind. The plain Chinese 身体感受到乐 (\"the body feels pleasure\") and the English \"with the body\" both follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "3535e07f",
+     "en": "This, bhikkhus, is called the noble truth of the way leading to the cessation of suffering. In this way he lives contemplating phenomena as phenomena internally, or externally, or both internally and externally. He lives contemplating the nature of arising in phenomena, or the nature of passing away in phenomena, or the nature of both arising and passing away in phenomena. Or else the mindfulness 'there are phenomena' is simply present to him, just to the extent needed for knowing and for mindfulness. He lives independent, clinging to nothing in the world. That too, bhikkhus, is how a bhikkhu lives contemplating phenomena as phenomena in terms of the four noble truths. (End of the section on the truths. End of the contemplation of phenomena.)"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · Conclusion (Nigamana)",
+   "verses": [
+    {
+     "h": "3f8e46e5",
+     "en": "Bhikkhus, if anyone should develop these four establishings of mindfulness in this way for seven years, one of two fruits can be expected for him: final knowledge here and now, or, if there is some clinging left, the state of non-returning. Let alone seven years, bhikkhus.",
+     "cmp": [
+      {
+       "w": "aññā / anāgāmitā",
+       "note": "aññā「究竟智」就是成阿罗汉（完全觉悟的人）；anāgāmī「不还者」是死后不再回到欲界、在更高的天界证得涅槃的人。白话和英文都在括号或字面里点出了；英文 final knowledge 比白话「究竟的智慧」少了「成阿罗汉」的说明，这里补上。",
+       "en": "Aññā, \"final knowledge,\" means becoming an arahant (a fully awakened person); an anāgāmī, a \"non-returner,\" does not come back to the sense world after death and reaches nibbāna in a higher realm. The plain Chinese adds \"becoming an arahant\" in brackets, which the English \"final knowledge\" leaves implicit; this note supplies it."
+      },
+      {
+       "w": "upādisese",
+       "note": "upādi-sesa「剩余的执取／燃料」，upādi 也有「柴薪」的意思，跟 nibbāna「火熄」的比喻相连。白话「剩余的执取」、英文 clinging left 都只译了一层。",
+       "en": "Upādi-sesa, \"remainder of clinging / fuel\": upādi can also mean \"firewood,\" linking to the image of nibbāna as a fire going out. The plain Chinese 剩余的执取 (\"remaining grasping\") and the English \"clinging left\" give only one layer."
+      }
+     ]
+    },
+    {
+     "h": "b569174c",
+     "en": "Bhikkhus, if anyone should develop these four establishings of mindfulness in this way for six years ... five years ... four years ... three years ... two years ... one year ... Let alone one year, bhikkhus."
+    },
+    {
+     "h": "8eadd470",
+     "en": "Bhikkhus, if anyone should develop these four establishings of mindfulness in this way for seven months, one of two fruits can be expected for him: final knowledge here and now, or, if there is some clinging left, the state of non-returning. Let alone seven months, bhikkhus."
+    },
+    {
+     "h": "4d23f391",
+     "en": "Bhikkhus, if anyone should develop these four establishings of mindfulness in this way for six months ... five months ... four months ... three months ... two months ... one month ... half a month ... Let alone half a month, bhikkhus."
+    },
+    {
+     "h": "4028724a",
+     "en": "Bhikkhus, if anyone should develop these four establishings of mindfulness in this way for seven days, one of two fruits can be expected for him: final knowledge here and now, or, if there is some clinging left, the state of non-returning.",
+     "cmp": [
+      {
+       "w": "sattāhaṁ",
+       "note": "巴利本到七天为止；古译还往下说到「一日一夜」，甚至「少少须臾顷」：早上这样修，晚上就有进步。",
+       "en": "The Pali stops at seven days; the classical Chinese goes further, down to \"one day and one night\" and even \"a brief moment\": practice like this in the morning and by evening there will be progress."
+      }
+     ]
+    },
+    {
+     "h": "346b3337",
+     "en": "'Bhikkhus, this is a direct path for the purification of beings, for getting past sorrow and lamenting, for the ending of pain and distress, for reaching the true way, for realizing nibbāna: namely, the four establishings of mindfulness.' That is what was said, and this is why it was said.\""
+    },
+    {
+     "h": "548fddbc",
+     "en": "This is what the Blessed One said. Glad at heart, the bhikkhus delighted in the Blessed One's words. (The Great Discourse on the Establishings of Mindfulness is finished, the ninth.)"
+    }
+   ]
+  }
+ ]
+}

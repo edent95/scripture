@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（DSBC 录入，Vaidya 1960 校本 Gaṇḍavyūha）",
+   "en": "GRETIL (DSBC transcription of Vaidya’s 1960 Gaṇḍavyūha)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T10n0293",
+   "en": "CBETA T10n0293",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

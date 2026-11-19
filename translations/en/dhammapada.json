@@ -1,0 +1,2802 @@
+{
+ "slug": "dhammapada",
+ "title": "The Dhammapada",
+ "summary": "423 short verses on how the mind brings pain and joy, on heedfulness, hatred and craving. The most memorized text in Theravada Buddhism.",
+ "compare": [
+  "书名本身就有两种读法。dhamma-pada 可以是「法的句子」，也可以是「法的道路」。中文「法句经」取了前一种，英文多半不译，直接写 Dhammapada。本站英文保留原名，第 44 偈的注里说明两种读法。全书最常出现的 dhamma 也一样难：有时是佛陀的教法（英文大写 Dhamma），有时是「事物、心理状态」（第 1 偈的 dhammā，英文写 things），有时是「法则」（第 5 偈「这是永远不变的道理」，英文写 law）。白话多用一个「法」字，英文按上下文分开。",
+  "第二个关键词是 appamāda，第 2 品整品讲它。中文「不放逸」偏「不放纵」，英文 heedfulness 偏「留神」，巴利文两层都有：不懒散、不漫不经心、时时警醒。古译直接写成「戒」，把一种心的状态变成了守规矩。本站英文统一写 heedfulness / heedless，白话统一写「不放逸 / 放逸」。",
+  "第三，《法句经》是诗，大量用双关和文字游戏，这是三种语言之间最大的落差。kasāva「污浊」和 kāsāva「袈裟」（第 9 偈），第 97 偈一整句「坏人 / 圣人」的双关，vana「树林 / 欲望」和 nibbāna（第 283、344 偈），第 19 品里 samaṇa / sameti、bhikkhu / bhikkhati、muni / munāti 的拆字，第 294–295 偈「杀父杀母」的谜语。白话和英文都只能译出深一层的意思，双关和谜底都写在注里。",
+  "本站对照的中文古译是三国时维祇难等译的《法句经》。它和巴利本同源但不同本：章次、偈数都不一样，很多偈只是主题相近、句子不对应，有的意思甚至相反（如第 39 偈「舍弃福与恶」，古译作「福能遏恶」；第 134 偈「像破锣一样不出声」，古译作「如叩钟磬」）。英文直接从巴利文译，只在注里点出几处对英文读者有意思的出入。"
+ ],
+ "compareEn": [
+  "The title itself has two readings. Dhamma-pada can mean \"verses of Dhamma\" or \"the path of Dhamma.\" The Chinese title 法句经 (Fǎjù jīng, \"Scripture of Dhamma Phrases\") takes the first; English usually leaves it untranslated as \"Dhammapada.\" The site's English keeps the Pali name, and the note on verse 44 explains both readings. The word dhamma, which appears throughout the book, is just as hard: sometimes it is the Buddha's teaching (capitalized \"Dhamma\" in English), sometimes \"things, mental states\" (dhammā in verse 1, \"things\" in English), sometimes \"law, principle\" (verse 5, \"this is an eternal law\"). The plain Chinese mostly uses the single character 法 (fǎ); the English separates the senses by context.",
+  "The second key word is appamāda, the subject of the whole of chapter 2. Chinese 不放逸 (bù fàngyì, \"not letting oneself go\") leans toward not indulging, the English \"heedfulness\" toward paying attention; the Pali has both: not slacking, not drifting, staying alert. The classical Chinese simply writes 戒 (jiè, \"precepts\"), turning a state of mind into rule-keeping. The site's English consistently uses \"heedfulness / heedless,\" and the plain Chinese 不放逸 / 放逸.",
+  "Third, the Dhammapada is poetry, full of puns and wordplay, and this is the biggest gap between the three languages: kasāva, \"stain,\" and kāsāva, \"ochre robe\" (verse 9); verse 97, a whole line that reads as either a scoundrel or a saint; vana, \"forest / desire,\" and nibbāna (verses 283 and 344); the play on samaṇa / sameti, bhikkhu / bhikkhati and muni / munāti in chapter 19; and the riddle of \"killing mother and father\" in verses 294–295. The plain Chinese and the English can carry only the deeper meaning; the puns and the answers to the riddles are given in the notes.",
+  "The classical Chinese shown on the Chinese page is the Dharmapada translated in the Three Kingdoms period by Vighna and others. It comes from the same tradition as the Pali but from a different recension: the chapters and verse counts differ, many verses share only a theme rather than wording, and some even say the opposite (verse 39, \"having left behind both merit and evil,\" becomes 福能遏恶, \"merit can hold back evil\"; verse 134, \"silent like a broken gong,\" becomes 如叩钟磬, \"like striking a bell or chime\"). The English is translated straight from the Pali and notes only a few differences of interest to English readers."
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · Pairs (Yamakavagga)",
+   "verses": [
+    {
+     "h": "4590893c",
+     "en": "Mind goes before all things; mind is their chief; they are made by mind. If you speak or act with a corrupted mind, suffering follows you, as the wheel follows the foot of the ox that pulls the cart.",
+     "cmp": [
+      {
+       "w": "dhammā",
+       "note": "dhammā 在这里是「心理状态、经验」，注释家解作受、想、行等心所。白话写「一切事」、英文写 all things，都比原文宽；但这一句的力量正在于「心先于一切」，宽读也是古来常见的读法。",
+       "en": "Dhammā here means \"mental states, experiences\"; the commentators explain them as feeling, perception and the other mental factors. The plain Chinese 一切事 (\"all matters\") and the English \"all things\" are both wider than that, though the wide reading is an old and common one, since the force of the line is \"mind comes first.\""
+      },
+      {
+       "w": "manomayā",
+       "note": "mano-maya「由心构成的」。白话「心造出来的」、英文 made by mind 都照字面。古译「心为法本」把这一句收成了一个哲学命题，比原文更硬。",
+       "en": "Mano-maya means \"made of mind.\" The plain Chinese 心造出来的 (\"made by the mind\") and the English \"made by mind\" follow the letter. The classical Chinese 心为法本 (xīn wéi fǎ běn, \"mind is the root of all dharmas\") turns the line into a firmer philosophical thesis than the Pali."
+      }
+     ]
+    },
+    {
+     "h": "58090755",
+     "en": "Mind goes before all things; mind is their chief; they are made by mind. If you speak or act with a clear, calm mind, happiness follows you like a shadow that never leaves.",
+     "cmp": [
+      {
+       "w": "pasannena",
+       "note": "pasanna 是「澄清的、安定的、有信心的」，像沉淀后变清的水。白话「清净的心」、英文 a clear, calm mind 都取「澄清」这一层。",
+       "en": "Pasanna means \"clear, settled, confident,\" like water that has become clear after the mud settles. The plain Chinese 清净的心 (\"a pure mind\") and the English \"a clear, calm mind\" both take the \"clear\" sense."
+      }
+     ]
+    },
+    {
+     "h": "13aef538",
+     "en": "\"He abused me, he hit me, he beat me, he robbed me\": in those who hold on to such thoughts, hatred is never stilled.",
+     "cmp": [
+      {
+       "w": "upanayhanti",
+       "note": "upanayhati 字面是「绑紧、捆住」，指把怨恨裹着不放。白话「抱着不放」、英文 hold on to 都译出了。",
+       "en": "Upanayhati literally means \"to tie up tight,\" keeping a grudge bundled up. The plain Chinese 抱着不放 (\"hugging it and not letting go\") and the English \"hold on to\" both convey it."
+      }
+     ]
+    },
+    {
+     "h": "cf0f39df",
+     "en": "\"He abused me, he hit me, he beat me, he robbed me\": in those who do not hold on to such thoughts, hatred is stilled."
+    },
+    {
+     "h": "cde71bd3",
+     "en": "Hatred is never stilled by hatred in this world; by non-hatred it is stilled. This is an eternal law.",
+     "cmp": [
+      {
+       "w": "esa dhammo sanantano",
+       "note": "dhamma 在这里是「法则、道理」，不是佛陀的教法。白话「永远不变的道理」、英文 an eternal law 都译出了这一层。sanantana「古老、永恒的」也带着「自古如此」的意味。",
+       "en": "Dhamma here means \"law, principle,\" not the Buddha's teaching. The plain Chinese 永远不变的道理 (\"an unchanging principle\") and the English \"an eternal law\" both carry this. Sanantana, \"ancient, eternal,\" also has the sense of \"so it has always been.\""
+      }
+     ]
+    },
+    {
+     "h": "3deaa3a4",
+     "en": "Others do not understand that here we all must come to an end. Those who understand this, their quarrels are stilled.",
+     "cmp": [
+      {
+       "w": "yamāmase",
+       "note": "yamāmase 可以读成「我们终将灭亡」（注释家的读法），也可以读成「我们应当自制」。白话取前一种，写「终究都要死」；英文 must come to an end 也取前一种。古译「不好责彼，务自省身」更接近后一种。",
+       "en": "Yamāmase can be read as \"we shall perish\" (the commentators' reading) or as \"we should restrain ourselves.\" The plain Chinese takes the first with 终究都要死 (\"in the end we all die\"), and so does the English \"must come to an end.\" The classical Chinese 务自省身 (\"take care to examine yourself\") is closer to the second."
+      }
+     ]
+    },
+    {
+     "h": "ce45974f",
+     "en": "Whoever lives looking only at what is attractive, unguarded in the senses, without moderation in eating, lazy and weak in effort: Māra (the tempter, lord of death and desire) overpowers him, as the wind blows down a weak tree.",
+     "cmp": [
+      {
+       "w": "subhānupassiṁ",
+       "note": "subha「美的、可爱的」，指只看身体与欲乐美好的一面。白话「美好可爱的一面」、英文 what is attractive 一致。古译「行见身净」点明了是身体。",
+       "en": "Subha means \"beautiful, attractive,\" seeing only the lovely side of the body and of pleasure. The plain Chinese 美好可爱的一面 (\"the beautiful, lovable side\") and the English \"what is attractive\" agree. The classical Chinese 行见身净 (\"seeing the body as pure\") makes clear it is the body."
+      }
+     ]
+    },
+    {
+     "h": "c11bc120",
+     "en": "Whoever lives seeing what is unattractive, well guarded in the senses, moderate in eating, with faith and energy aroused: Māra does not overpower him, as the wind cannot shake a mountain of rock."
+    },
+    {
+     "h": "44a4840f",
+     "en": "Whoever puts on the ochre robe while still stained inside, without self-control and truthfulness, is not worthy of the ochre robe.",
+     "cmp": [
+      {
+       "w": "anikkasāvo kāsāvaṁ",
+       "note": "原文是文字游戏：kasāva「污浊」和 kāsāva「袈裟（土黄色染的衣）」只差一个长音。英文和白话都译不出这个双关，只能在注里说明。",
+       "en": "The Pali is a pun: kasāva, \"stain,\" and kāsāva, \"ochre robe,\" differ only in one long vowel. Neither the English nor the plain Chinese can carry the pun, so it is explained here."
+      }
+     ]
+    },
+    {
+     "h": "8d5020bb",
+     "en": "But whoever has thrown off the stain, is well settled in virtue, with self-control and truthfulness, is truly worthy of the ochre robe."
+    },
+    {
+     "h": "0d60afc2",
+     "en": "Those who take the worthless for the essence and see the essence as worthless never reach the essence; they keep to wrong thoughts.",
+     "cmp": [
+      {
+       "w": "sāra",
+       "note": "sāra 本义是「树心、心材」，树最坚实的部分。白话「精华」、英文 essence 都丢了「树心」的画面。",
+       "en": "Sāra originally means \"heartwood,\" the hardest part of a tree. The plain Chinese 精华 (jīnghuá, \"essence\") and the English \"essence\" both lose the image of heartwood."
+      }
+     ]
+    },
+    {
+     "h": "928bb6fe",
+     "en": "Those who know the essence as essence and the worthless as worthless reach the essence; they keep to right thoughts."
+    },
+    {
+     "h": "fc0e6119",
+     "en": "As rain gets into a badly thatched house, so passion gets into an untrained mind.",
+     "cmp": [
+      {
+       "w": "abhāvitaṁ",
+       "note": "a-bhāvita「没有被培养的」，跟 bhāvanā「修习」同根。白话「没有修练过的」、英文 untrained 都译出了。",
+       "en": "A-bhāvita, \"not cultivated,\" shares its root with bhāvanā, \"cultivation.\" The plain Chinese 没有修练过的 (\"never trained\") and the English \"untrained\" both convey it."
+      }
+     ]
+    },
+    {
+     "h": "c03416a4",
+     "en": "As rain does not get into a well-thatched house, so passion does not get into a well-trained mind."
+    },
+    {
+     "h": "341c26a8",
+     "en": "He grieves here, he grieves hereafter; the wrongdoer grieves in both places. He grieves, he is afflicted, seeing the impurity of his own deeds."
+    },
+    {
+     "h": "ec4c8693",
+     "en": "He rejoices here, he rejoices hereafter; the doer of good rejoices in both places. He rejoices, he delights, seeing the purity of his own deeds."
+    },
+    {
+     "h": "00cd56b9",
+     "en": "He is tormented here, he is tormented hereafter; the wrongdoer is tormented in both places. \"I have done wrong\": that thought torments him, and he is tormented more when he has gone to a bad destination.",
+     "cmp": [
+      {
+       "w": "tappati",
+       "note": "tappati 字面是「被烧、受热」，跟 tapa「热」同根。白话「受煎熬」保留了火的意思；英文 tormented 只剩下痛苦。",
+       "en": "Tappati literally means \"is burned, is heated,\" from the same root as tapa, \"heat.\" The plain Chinese 受煎熬 (shòu jiān'áo, \"to be fried and stewed\") keeps the sense of fire; the English \"tormented\" keeps only the pain."
+      }
+     ]
+    },
+    {
+     "h": "f2154343",
+     "en": "He is glad here, he is glad hereafter; the doer of good is glad in both places. \"I have done good\": that thought gladdens him, and he is gladder still when he has gone to a good destination."
+    },
+    {
+     "h": "df1fb279",
+     "en": "Though he recites many texts, if a careless man does not act on them, he is like a cowherd counting other people's cows: he has no share in the life of a renunciant.",
+     "cmp": [
+      {
+       "w": "saṁhita",
+       "note": "saṁhitā 指背诵的经文、圣典。白话「经文」、英文 texts 一致。古译这一偈和巴利本差别很大，没有「替别人数牛」的比喻。",
+       "en": "Saṁhitā means the recited texts, the scriptures. The plain Chinese 经文 (\"scripture\") and the English \"texts\" agree. The classical Chinese verse differs a lot from the Pali and has no image of counting other people's cows."
+      }
+     ]
+    },
+    {
+     "h": "bc7ceb80",
+     "en": "Though he recites only a few texts, if he lives by the Dhamma, in line with the Dhamma, giving up passion, hatred and delusion, knowing rightly, his mind well released, clinging to nothing here or hereafter: he has a share in the life of a renunciant."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · Heedfulness (Appamādavagga)",
+   "verses": [
+    {
+     "h": "6da764a0",
+     "en": "Heedfulness is the path to the deathless; heedlessness is the path to death. The heedful do not die; the heedless are as if already dead.",
+     "cmp": [
+      {
+       "w": "appamādo",
+       "note": "appamāda 是「不放逸」：时时留心、不懈怠、不漫不经心。英文 heedfulness 偏「留意」，中文「不放逸」偏「不放纵」，各取了一半。古译直接写成「戒」，变成了守戒。",
+       "en": "Appamāda means not being careless: staying alert, not slacking, not drifting. The English \"heedfulness\" leans toward attentiveness; the Chinese 不放逸 (bù fàngyì, \"not letting oneself go\") leans toward not indulging; each catches half. The classical Chinese simply writes 戒 (jiè, \"precepts\"), turning it into keeping rules."
+      },
+      {
+       "w": "amatapadaṁ",
+       "note": "amata「不死」，指涅槃。白话「不死」、英文 the deathless 都照字面；古译「甘露」取的是 amata 的另一个意思「甘露、不死药」。",
+       "en": "Amata, \"the deathless,\" means nibbāna. The plain Chinese 不死 (\"not dying\") and the English \"the deathless\" follow the letter; the classical Chinese 甘露 (gānlù, \"sweet dew\") takes amata's other meaning, \"ambrosia, the drink of immortality.\""
+      }
+     ]
+    },
+    {
+     "h": "dacd42fe",
+     "en": "Clearly seeing this difference, the wise are established in heedfulness. They delight in heedfulness, glad to be in the realm of the noble ones."
+    },
+    {
+     "h": "2ea22c42",
+     "en": "Meditating, persevering, always firm in effort, the wise reach nibbāna (the going out of greed, hatred and delusion), the unsurpassed freedom from bondage.",
+     "cmp": [
+      {
+       "w": "yogakkhemaṁ",
+       "note": "yoga-khema 字面是「从轭（束缚）中得到的安稳」。白话「无上的安稳」、英文 freedom from bondage 各取了一半：一个讲安稳，一个讲解脱。",
+       "en": "Yoga-khema literally means \"security from the yoke (of bondage).\" The plain Chinese 无上的安稳 (\"unsurpassed security\") and the English \"freedom from bondage\" each take half: one the security, the other the release."
+      }
+     ]
+    },
+    {
+     "h": "44b7871e",
+     "en": "For one who is energetic and mindful, pure in action, who acts with consideration, self-restrained, living by the Dhamma and heedful, his good name grows."
+    },
+    {
+     "h": "731a17d9",
+     "en": "By effort and heedfulness, by restraint and self-taming, the wise should make an island that no flood can overwhelm.",
+     "cmp": [
+      {
+       "w": "dīpaṁ",
+       "note": "dīpa 既是「岛」也是「灯」。这里接着说「洪水淹不没」，所以是岛。白话「岛」、英文 island 都对；古译「定明」取了「灯」的意思。",
+       "en": "Dīpa means both \"island\" and \"lamp.\" Since the line goes on to say \"no flood can overwhelm,\" it is an island here. The plain Chinese 岛 and the English \"island\" are right; the classical Chinese 定明 (\"steady light\") takes the sense of \"lamp.\""
+      }
+     ]
+    },
+    {
+     "h": "fd91cd9c",
+     "en": "Foolish, ignorant people give themselves to heedlessness; the wise guard heedfulness as their greatest treasure."
+    },
+    {
+     "h": "a8740073",
+     "en": "Do not give yourself to heedlessness or to intimacy with sensual delight; the heedful one who meditates attains great happiness."
+    },
+    {
+     "h": "f479c5fa",
+     "en": "When the wise one drives off heedlessness with heedfulness, he climbs the tower of wisdom and, free of sorrow, looks on the sorrowing crowd; as one standing on a mountain looks at those on the plain below, the wise one looks upon the fools."
+    },
+    {
+     "h": "19729fa4",
+     "en": "Heedful among the heedless, wide awake among the sleeping, the wise one goes ahead, leaving them behind like a swift horse leaving a weak one."
+    },
+    {
+     "h": "1289bdad",
+     "en": "By heedfulness Maghavā (an old name of Sakka, king of the gods) became the chief of the gods. Heedfulness is praised; heedlessness is always blamed."
+    },
+    {
+     "h": "0c6f8c64",
+     "en": "The bhikkhu (monk) who delights in heedfulness and sees the danger in heedlessness goes on like a fire, burning up every fetter, small or large.",
+     "cmp": [
+      {
+       "w": "bhikkhu",
+       "note": "bhikkhu 字面是「乞食者」，指受了戒的出家男众。中文音译「比丘」，英文保留巴利写法 bhikkhu，第一次出现时用 monk 解释。英文 monk 带着基督教修道院的联想，所以不直接替换。",
+       "en": "Bhikkhu literally means \"one who lives on alms,\" a fully ordained male renunciant. Chinese transliterates it as 比丘 (bǐqiū); the English keeps the Pali bhikkhu and glosses it \"monk\" on its first appearance. \"Monk\" carries associations of Christian monasteries, so it isn't used as a straight substitute."
+      }
+     ]
+    },
+    {
+     "h": "d3e5af1c",
+     "en": "The bhikkhu who delights in heedfulness and sees the danger in heedlessness cannot fall away: he is close to nibbāna."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · The Mind (Cittavagga)",
+   "verses": [
+    {
+     "h": "2413813d",
+     "en": "The mind is quivering and unsteady, hard to guard and hard to hold back; the wise one straightens it, as an arrow-maker straightens the shaft of an arrow."
+    },
+    {
+     "h": "3009e045",
+     "en": "Like a fish pulled from its home in the water and thrown on dry land, this mind thrashes about, trying to escape the realm of Māra.",
+     "cmp": [
+      {
+       "w": "māradheyyaṁ pahātave",
+       "note": "这句可以读成「（心）挣扎着想逃离魔的领域」，也可以读成「（所以）要舍离魔的领域」。白话和英文都取前一种。",
+       "en": "This line can be read as \"(the mind) thrashes, trying to escape Māra's realm\" or as \"(therefore) Māra's realm should be abandoned.\" The plain Chinese and the English both take the first reading."
+      }
+     ]
+    },
+    {
+     "h": "0ca0ca85",
+     "en": "The mind is hard to restrain and quick, landing wherever it likes; it is good to tame it. A tamed mind brings happiness."
+    },
+    {
+     "h": "5f48d4bb",
+     "en": "The mind is very hard to see and very subtle, landing wherever it likes; the wise one should guard it. A guarded mind brings happiness."
+    },
+    {
+     "h": "ef3afa83",
+     "en": "Traveling far, wandering alone, without a body, lying in the cave: those who restrain this mind will be freed from Māra's bonds.",
+     "cmp": [
+      {
+       "w": "guhāsayaṁ",
+       "note": "guhā-saya「卧在洞穴里的」，注释家解作藏在心脏（身体）里。白话补了「身体这个洞穴」，英文照字面写 lying in the cave。",
+       "en": "Guhā-saya, \"lying in a cave,\" is explained by the commentators as hidden in the heart (the body). The plain Chinese adds 身体这个洞穴 (\"the cave of the body\"); the English keeps \"lying in the cave.\""
+      }
+     ]
+    },
+    {
+     "h": "e9041b62",
+     "en": "For one whose mind is unsteady, who does not know the true Dhamma, whose confidence wavers, wisdom does not grow full.",
+     "cmp": [
+      {
+       "w": "pariplavapasādassa",
+       "note": "pasāda 是「澄净的信心」，pariplava「漂浮不定」。白话「信心摇摆不定」、英文 whose confidence wavers 一致。",
+       "en": "Pasāda is \"clear confidence,\" pariplava \"floating, unsteady.\" The plain Chinese 信心摇摆不定 (\"faith swaying\") and the English \"whose confidence wavers\" agree."
+      }
+     ]
+    },
+    {
+     "h": "bb54ae72",
+     "en": "For one whose mind is not soaked with lust, not struck by hatred, who has left behind both merit and evil, who is awake, there is no fear.",
+     "cmp": [
+      {
+       "w": "puññapāpapahīnassa",
+       "note": "「舍弃了福与恶」：阿罗汉的行为不再造业，所以连福德也「舍」了。白话「超越了善和恶」、英文 left behind both merit and evil 照字面。古译反而写「福能遏恶」，意思相反。",
+       "en": "\"Having abandoned both merit and evil\": an arahant's actions no longer create kamma, so even merit is left behind. The plain Chinese 超越了善和恶 (\"gone beyond good and evil\") and the English follow the letter. The classical Chinese has 福能遏恶 (\"merit can hold back evil\"), almost the opposite."
+      }
+     ]
+    },
+    {
+     "h": "97ba9679",
+     "en": "Knowing this body to be like a clay pot, making this mind firm like a fortified city, fight Māra with the weapon of wisdom; guard what you have won, and do not settle down in it.",
+     "cmp": [
+      {
+       "w": "anivesano",
+       "note": "a-nivesana「不住下来、不安家」，就是不执着已有的成就。白话「不要贪恋它」、英文 do not settle down in it 一致。古译「藏六如龟」是另一个比喻，巴利本没有。",
+       "en": "A-nivesana, \"not settling in, not making a home,\" means not clinging to what has been achieved. The plain Chinese 不要贪恋它 (\"don't be attached to it\") and the English \"do not settle down in it\" agree. The classical Chinese image \"hide the six senses like a tortoise\" is not in the Pali."
+      }
+     ]
+    },
+    {
+     "h": "8416c501",
+     "en": "Ah, before long this body will lie on the ground, cast aside, empty of consciousness, like a useless log."
+    },
+    {
+     "h": "c5bf2401",
+     "en": "Whatever harm an enemy may do to an enemy, or a foe to a foe, a wrongly directed mind can do one greater harm."
+    },
+    {
+     "h": "dd08589b",
+     "en": "Not a mother, not a father, nor any other relative can do as much good as a rightly directed mind does for oneself."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · Flowers (Pupphavagga)",
+   "verses": [
+    {
+     "h": "cff60f8f",
+     "en": "Who will master this earth, and Yama's world (the realm of the dead), and this world with its gods? Who will pick out a well-taught Dhamma verse, as a skilled person picks a flower?",
+     "cmp": [
+      {
+       "w": "dhammapadaṁ",
+       "note": "dhamma-pada 可以是「法句」（法的诗句），也可以是「法的道路」。白话「法句」、英文 Dhamma verse 都取前一种，这也是整本书名字的由来。",
+       "en": "Dhamma-pada can mean \"a verse of Dhamma\" or \"the path of Dhamma.\" The plain Chinese 法句 (fǎjù, \"Dhamma phrase\") and the English \"Dhamma verse\" both take the first, which is also where the book gets its name."
+      }
+     ]
+    },
+    {
+     "h": "93a7eb44",
+     "en": "The learner (sekha, one on the noble path who is still in training) will master this earth, and Yama's world, and this world with its gods. The learner will pick out a well-taught Dhamma verse, as a skilled person picks a flower."
+    },
+    {
+     "h": "192e6296",
+     "en": "Knowing this body is like foam, fully understanding that its nature is a mirage, cut off Māra's flower-tipped arrows and go where the King of Death cannot see you.",
+     "cmp": [
+      {
+       "w": "papupphakāni",
+       "note": "papupphaka「花箭」：印度神话里爱神用花做箭头的箭，佛经里常归给魔。白话「花箭」、英文 flower-tipped arrows 都保留了这个意象。",
+       "en": "Papupphaka, \"flower-tipped arrows\": in Indian myth the god of love shoots arrows tipped with flowers, and Buddhist texts often give them to Māra. The plain Chinese 花箭 (huā jiàn, \"flower arrows\") and the English both keep the image."
+      }
+     ]
+    },
+    {
+     "h": "448ab7d8",
+     "en": "The man who only gathers flowers, his mind caught up in them: death seizes him and carries him off, as a great flood sweeps away a sleeping village."
+    },
+    {
+     "h": "665b2510",
+     "en": "The man who only gathers flowers, his mind caught up in them, never sated in sensual pleasures: the Ender (death) brings him under his power."
+    },
+    {
+     "h": "47dc5aba",
+     "en": "As a bee takes the nectar and flies off without harming the flower's color or scent, so should the sage (muni) walk through the village."
+    },
+    {
+     "h": "0c999ae2",
+     "en": "Do not look at others' faults, at what others have done or left undone; look only at what you yourself have done and left undone."
+    },
+    {
+     "h": "38168906",
+     "en": "Like a lovely flower full of color but without scent are well-spoken words that bear no fruit in one who does not act on them."
+    },
+    {
+     "h": "e7a27f5e",
+     "en": "Like a lovely flower full of color and with scent are well-spoken words that bear fruit in one who acts on them."
+    },
+    {
+     "h": "df991e5a",
+     "en": "As from a heap of flowers many garlands can be made, so one born mortal should do much good."
+    },
+    {
+     "h": "4ed5435b",
+     "en": "The scent of flowers does not travel against the wind, nor sandalwood, tagara or jasmine; but the scent of good people travels against the wind. A good person's fragrance spreads in every direction."
+    },
+    {
+     "h": "992c3149",
+     "en": "Sandalwood or tagara, blue lotus or jasmine: among all these kinds of fragrance, the fragrance of virtue is unsurpassed.",
+     "cmp": [
+      {
+       "w": "sīlagandho",
+       "note": "sīla 是「戒、德行」。白话「戒德」、英文 virtue 意思一致；英文 virtue 少了「守戒」的具体意味。",
+       "en": "Sīla means \"precepts, moral conduct.\" The plain Chinese 戒德 (jièdé, \"precept-virtue\") and the English \"virtue\" agree, though \"virtue\" loses the concrete sense of keeping precepts."
+      }
+     ]
+    },
+    {
+     "h": "ab506944",
+     "en": "Slight is this fragrance of tagara and sandalwood; but the fragrance of the virtuous rises to the gods, the highest of all."
+    },
+    {
+     "h": "7fd45f6c",
+     "en": "Those who are complete in virtue, who live heedfully, released by right understanding: Māra cannot find their path."
+    },
+    {
+     "h": "a297a16c",
+     "en": "As on a heap of rubbish thrown by the highway a lotus may grow, pure-scented and delightful,"
+    },
+    {
+     "h": "5ab57e63",
+     "en": "so among the rubbish-like, blinded ordinary people, the disciple of the Fully Awakened One shines out with wisdom.",
+     "cmp": [
+      {
+       "w": "puthujjane",
+       "note": "puthujjana「凡夫」，字面是「众多人中的一个」，指还没进入圣道的一般人，不带鄙视。白话「凡夫」、英文 ordinary people 一致。",
+       "en": "Puthujjana, \"ordinary person,\" literally \"one of the many,\" means someone not yet on the noble path, with no contempt intended. The plain Chinese 凡夫 (fánfū) and the English \"ordinary people\" agree."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · The Fool (Bālavagga)",
+   "verses": [
+    {
+     "h": "cc5300ce",
+     "en": "Long is the night for one who lies awake; long is a league for one who is tired; long is the round of rebirth (saṁsāra) for fools who do not know the true Dhamma.",
+     "cmp": [
+      {
+       "w": "yojanaṁ",
+       "note": "yojana 是古印度的路程单位，大约一天牛车的路程，十几公里。英文 league 是英国的古路程单位，大约五公里，只是近似。",
+       "en": "A yojana is an ancient Indian measure of distance, roughly a day's ox-cart journey, over ten kilometers. The English \"league,\" an old measure of about five kilometers, is only an approximation."
+      }
+     ]
+    },
+    {
+     "h": "80eedc2c",
+     "en": "If, as you travel, you do not find a companion better than yourself or equal to you, keep firmly to traveling alone: there is no companionship with a fool."
+    },
+    {
+     "h": "f968ced0",
+     "en": "\"I have sons, I have wealth\": so the fool torments himself. Not even oneself is one's own; how then sons, how then wealth?",
+     "cmp": [
+      {
+       "w": "attā hi attano natthi",
+       "note": "「自己都不属于自己」。这里的 attā 是日常的「自己」，不是哲学上的「我」，但这句常被拿来讲无我。古译「我且非我」读得更哲学。",
+       "en": "\"Not even oneself is one's own.\" Attā here is the everyday \"oneself,\" not the philosophical \"self,\" though the line is often quoted on non-self. The classical Chinese 我且非我 (\"even I am not I\") reads it more philosophically."
+      }
+     ]
+    },
+    {
+     "h": "6195001a",
+     "en": "A fool who knows he is a fool is to that extent wise; but a fool who thinks himself wise is called a fool indeed."
+    },
+    {
+     "h": "c99c7d4b",
+     "en": "Even if a fool keeps company with a wise man all his life, he does not come to know the Dhamma, as a spoon does not know the taste of the soup."
+    },
+    {
+     "h": "3a8627b7",
+     "en": "If a thoughtful person keeps company with a wise man even for a moment, he quickly comes to know the Dhamma, as the tongue knows the taste of the soup."
+    },
+    {
+     "h": "df11ef90",
+     "en": "Fools of little wit go about as their own enemies, doing evil deeds that bear bitter fruit."
+    },
+    {
+     "h": "e4617d3d",
+     "en": "That deed is not well done which one regrets after doing it, whose result one receives weeping, with a tear-stained face."
+    },
+    {
+     "h": "e3a1e4f0",
+     "en": "That deed is well done which one does not regret after doing it, whose result one receives glad and happy."
+    },
+    {
+     "h": "cd540b54",
+     "en": "As long as the evil has not ripened, the fool thinks it sweet as honey; but when the evil ripens, then he comes to suffering."
+    },
+    {
+     "h": "4a92dc78",
+     "en": "Month after month a fool might eat his food from the tip of a blade of kusa grass, yet he is not worth a sixteenth part of those who have understood the Dhamma.",
+     "cmp": [
+      {
+       "w": "kusaggena",
+       "note": "用吉祥草尖挑食物吃，是当时苦行者的修法，表示吃得极少。白话和英文都照字面，没有说明这是苦行。",
+       "en": "Eating food from the tip of a kusa grass blade was an ascetic practice of the time, a sign of eating almost nothing. The plain Chinese and the English both translate literally without saying it is an austerity."
+      }
+     ]
+    },
+    {
+     "h": "7c0931c3",
+     "en": "An evil deed, once done, does not turn at once, as fresh milk does not curdle at once; smoldering, it follows the fool like fire covered by ashes.",
+     "cmp": [
+      {
+       "w": "muccati",
+       "note": "muccati 一般是「解脱」，这里注释家解作「（牛奶）变质、凝结」。白话「变质」、英文 turn 都取这个意思。",
+       "en": "Muccati usually means \"is released,\" but here the commentators take it as \"(milk) turns, curdles.\" The plain Chinese 变质 (\"spoil\") and the English \"turn\" both take this sense."
+      }
+     ]
+    },
+    {
+     "h": "2eec3c8e",
+     "en": "Whatever cleverness a fool gains leads only to his harm; it destroys the fool's bright portion and splits his head.",
+     "cmp": [
+      {
+       "w": "muddhamassa vipātayaṁ",
+       "note": "「打碎他的头」，注释家解作毁掉他的智慧。白话和英文都照字面保留。",
+       "en": "\"Splitting his head\" is explained by the commentators as destroying his wisdom. The plain Chinese and the English both keep the literal image."
+      }
+     ]
+    },
+    {
+     "h": "4b192c6c",
+     "en": "He wants an undeserved reputation, precedence among the bhikkhus, authority in the monasteries, and offerings from other families."
+    },
+    {
+     "h": "0ad499e1",
+     "en": "\"Let both householders and renunciants think it was I who did this; let them follow my will in everything, great or small\": such is the fool's thinking, and his desire and pride grow."
+    },
+    {
+     "h": "ffdbeee4",
+     "en": "One road leads to gain, another leads to nibbāna. Knowing this clearly, the bhikkhu, the disciple of the Buddha, should not delight in honors but should cultivate solitude.",
+     "cmp": [
+      {
+       "w": "vivekaṁ",
+       "note": "viveka「远离」：身体上离开人群，心里离开欲念。白话「远离（独处、离欲）」两层都给了，英文 solitude 偏身体上的独处。",
+       "en": "Viveka, \"seclusion\": the body withdrawn from crowds and the mind withdrawn from desires. The plain Chinese 远离（独处、离欲） (\"withdrawal [solitude, freedom from desire]\") gives both; the English \"solitude\" leans toward physical aloneness."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · The Wise (Paṇḍitavagga)",
+   "verses": [
+    {
+     "h": "ea0c7876",
+     "en": "If you find an intelligent person who points out your faults and speaks to correct you, keep company with such a wise one, as with someone who shows you hidden treasure. For one who keeps such company, things get better, not worse."
+    },
+    {
+     "h": "94e2fb0f",
+     "en": "Let him advise and instruct, and hold others back from what is wrong; the good love him, the bad dislike him."
+    },
+    {
+     "h": "b9ef77e3",
+     "en": "Do not keep company with bad friends, do not keep company with the lowest of people; keep company with good friends, keep company with the best of people.",
+     "cmp": [
+      {
+       "w": "kalyāṇe mitte",
+       "note": "kalyāṇa-mitta「善友」，在佛经里是很重的词：能带你走正路的朋友、老师。白话「好朋友」、英文 good friends 都比原文轻。",
+       "en": "Kalyāṇa-mitta, \"good friend,\" is a weighty term in the discourses: a friend or teacher who leads you on the right path. The plain Chinese 好朋友 (hǎo péngyou) and the English \"good friends\" are both lighter than the Pali."
+      }
+     ]
+    },
+    {
+     "h": "df3a683c",
+     "en": "One who drinks in the Dhamma sleeps at ease, with a clear and calm mind; the wise one always delights in the Dhamma taught by the noble ones.",
+     "cmp": [
+      {
+       "w": "dhammapīti",
+       "note": "dhamma-pīti 可以读成「以法为喜」，也可以读成「饮法的人」（pīti 与 pivati「喝」相近）。白话取前一种，英文 drinks in the Dhamma 取后一种。",
+       "en": "Dhamma-pīti can be read as \"one who rejoices in the Dhamma\" or as \"one who drinks the Dhamma\" (pīti sounds like pivati, \"to drink\"). The plain Chinese takes the first reading, the English \"drinks in the Dhamma\" the second."
+      }
+     ]
+    },
+    {
+     "h": "d48d922a",
+     "en": "Irrigators guide the water, arrow-makers straighten the shaft, carpenters bend the wood; the wise tame themselves."
+    },
+    {
+     "h": "216b0db9",
+     "en": "As a solid rock is not shaken by the wind, so the wise are not moved by blame or praise."
+    },
+    {
+     "h": "b2d468c9",
+     "en": "As a deep lake is clear, still and unclouded, so the wise become clear and calm when they have heard the Dhamma."
+    },
+    {
+     "h": "13645aec",
+     "en": "Good people let go of everything; the peaceful do not chatter out of longing for pleasures. Touched by happiness or by pain, the wise show neither elation nor dejection.",
+     "cmp": [
+      {
+       "w": "cajanti",
+       "note": "cajanti「舍弃、放下」；有的版本作 vajanti「（到处）行走」。白话、英文都取 cajanti。",
+       "en": "Cajanti means \"let go, give up\"; some editions read vajanti, \"walk on.\" The plain Chinese and the English both follow cajanti."
+      }
+     ]
+    },
+    {
+     "h": "7a47e6c2",
+     "en": "Not for his own sake nor for another's would he wish for a son, wealth or a kingdom; he would not want to prosper by unrighteous means. Such a person is virtuous, wise and righteous."
+    },
+    {
+     "h": "31e14152",
+     "en": "Few among people are those who cross to the far shore; the rest of humankind just runs up and down this bank.",
+     "cmp": [
+      {
+       "w": "pāragāmino",
+       "note": "「到彼岸」是巴利经常见的比喻：此岸是生死，彼岸是涅槃。白话、英文都照字面。",
+       "en": "\"Going to the far shore\" is a common image in the Pali texts: this shore is birth and death, the far shore nibbāna. The plain Chinese and the English both keep it literally."
+      }
+     ]
+    },
+    {
+     "h": "38c6ba0e",
+     "en": "But those who practice in accordance with the Dhamma when the Dhamma is rightly taught will cross to the far shore, over the realm of death so hard to cross."
+    },
+    {
+     "h": "004abd19",
+     "en": "Leaving the dark way, the wise should cultivate the bright, going from home into homelessness, into seclusion, where delight is hard to find.",
+     "cmp": [
+      {
+       "w": "kaṇhaṁ / sukkaṁ",
+       "note": "「黑法、白法」就是恶行、善行。英文 dark / bright 保留了黑白的画面，白话在括号里补了意思。古译这一偈换成了「断五阴法」，跟巴利本不同。",
+       "en": "\"Dark and bright dhammas\" are bad and good conduct. The English \"dark / bright\" keeps the black-and-white image; the plain Chinese adds the meaning in brackets. The classical Chinese replaces this verse with \"cut off the five aggregates,\" unlike the Pali."
+      }
+     ]
+    },
+    {
+     "h": "6a8d92da",
+     "en": "There he should seek delight, having left sensual pleasures behind, owning nothing; the wise one should cleanse himself of the mind's defilements."
+    },
+    {
+     "h": "eb0b07b8",
+     "en": "Those whose minds are well developed in the factors of awakening, who delight in letting go of grasping and in not clinging, their taints destroyed, radiant: they have reached final peace in this very world.",
+     "cmp": [
+      {
+       "w": "parinibbutā",
+       "note": "parinibbuta「完全熄灭了的」，跟 nibbāna 同根。白话「完全熄灭（证入涅槃）」保留了火的画面；英文 reached final peace 只剩下结果。",
+       "en": "Parinibbuta, \"completely extinguished,\" shares its root with nibbāna. The plain Chinese 完全熄灭 (\"completely gone out\") keeps the image of fire; the English \"reached final peace\" keeps only the result."
+      },
+      {
+       "w": "khīṇāsavā",
+       "note": "āsava 字面是「流出物、漏」，像伤口渗出的东西，指最深的烦恼。白话「烦恼已尽」、英文 taints destroyed 都译成了意思。",
+       "en": "Āsava literally means \"outflow, leak,\" like what seeps from a wound; it names the deepest defilements. The plain Chinese 烦恼已尽 (\"afflictions ended\") and the English \"taints destroyed\" both give the meaning."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · The Arahant (Arahantavagga)",
+   "verses": [
+    {
+     "h": "165bb816",
+     "en": "For one who has finished the journey, who is free of sorrow, released in every way, who has let go of all ties, there is no more fever.",
+     "cmp": [
+      {
+       "w": "pariḷāho",
+       "note": "pariḷāha「灼热、焦躁」。白话「热恼」、英文 fever 都保留了热的意思；古译「冷而无煖」把它说成了「冷」，意思相同、说法相反。",
+       "en": "Pariḷāha means \"burning, feverish distress.\" The plain Chinese 热恼 (rènǎo, \"hot vexation\") and the English \"fever\" both keep the heat; the classical Chinese 冷而无煖 (\"cool, with no warmth\") says the same thing from the other side."
+      }
+     ]
+    },
+    {
+     "h": "f65e8d37",
+     "en": "The mindful exert themselves; they take no delight in a dwelling. Like swans leaving a pond, they leave home after home behind.",
+     "cmp": [
+      {
+       "w": "arahant",
+       "note": "这一品的题目 arahant「阿罗汉」字面是「值得（供养、尊敬）的人」，指完全觉悟、断尽烦恼的人。中文音译，英文保留巴利写法 arahant。",
+       "en": "This chapter's title word, arahant, literally means \"one who is worthy (of offerings and respect),\" a fully awakened person whose defilements are gone. Chinese transliterates it as 阿罗汉 (āluóhàn); the English keeps the Pali arahant."
+      }
+     ]
+    },
+    {
+     "h": "5e447b58",
+     "en": "Those who store nothing up, who understand their food rightly, whose domain is the liberation that is empty and signless: their way is hard to trace, like that of birds in the sky.",
+     "cmp": [
+      {
+       "w": "suññato animitto",
+       "note": "「空、无相」是两种解脱门：看见一切空无自性，看见一切没有可抓的相。白话、英文都照字面。",
+       "en": "\"Empty and signless\" are two doors to liberation: seeing everything as empty of self, and seeing nothing as having a mark to grasp. The plain Chinese and the English both translate literally."
+      }
+     ]
+    },
+    {
+     "h": "f3fdf2ab",
+     "en": "One whose taints are destroyed, who does not depend on food, whose domain is the liberation that is empty and signless: his track is hard to trace, like that of birds in the sky."
+    },
+    {
+     "h": "5a533900",
+     "en": "One whose senses have become calm, like horses well tamed by a charioteer, who has let go of pride and is free of taints: even the gods envy such a steady one."
+    },
+    {
+     "h": "48ee34d1",
+     "en": "Like the earth, he does not resist; like the city's gate-post, he is steady and of good conduct; like a lake without mud, he is clear. For such a one there are no more rounds of rebirth.",
+     "cmp": [
+      {
+       "w": "indakhilupamo",
+       "note": "inda-khīla「因陀罗柱」，城门口深埋地下的大石柱，比喻稳固不动。白话括号里说明了；古译写「不动如山」，换了比喻。",
+       "en": "Inda-khīla, \"Indra's post,\" is the great stone pillar sunk deep at a city gate, an image of steadiness. The plain Chinese explains it in brackets; the classical Chinese 不动如山 (\"unmoving like a mountain\") changes the image."
+      }
+     ]
+    },
+    {
+     "h": "ba79ad6c",
+     "en": "Calm is his mind, calm his speech and action, for one released by right understanding, fully at peace, steady."
+    },
+    {
+     "h": "5146bbdc",
+     "en": "The one who is not credulous, who knows the unmade, who has cut the link, who has destroyed every opportunity, who has thrown out all desire: he is truly the highest of people.",
+     "cmp": [
+      {
+       "w": "assaddho akataññū",
+       "note": "这一偈整句都是双关：表面上是「不信的、忘恩的、破门入室的、毁掉机会的、吃呕吐物的」，一个坏人；深一层是「不轻信（已亲证）、知道无为（涅槃）、斩断轮回的纽带、断了再生的机会、吐掉了欲望」，一位阿罗汉。白话和英文都只能译出深一层，双关译不出来。",
+       "en": "The whole verse is a string of puns. On the surface it reads \"faithless, ungrateful, a housebreaker, one who has ruined his chances, an eater of vomit\": a scoundrel. Underneath it reads \"not credulous (having seen for himself), knowing the unmade (nibbāna), cutting the link of rebirth, ending the chance of rebirth, having vomited out desire\": an arahant. The English and the plain Chinese can only give the deeper reading; the puns don't carry over."
+      }
+     ]
+    },
+    {
+     "h": "29fc29b4",
+     "en": "Whether in a village or in the forest, in a valley or on high ground, wherever the arahants live, that place is delightful."
+    },
+    {
+     "h": "d400ecc8",
+     "en": "Delightful are the forests where ordinary people find no delight; those free of passion will delight there, for they are not seeking sensual pleasures."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · The Thousands (Sahassavagga)",
+   "verses": [
+    {
+     "h": "7a5fde23",
+     "en": "Better than a thousand words strung together that are useless is one useful word, hearing which one becomes calm."
+    },
+    {
+     "h": "b18f8c4e",
+     "en": "Better than a thousand verses strung together that are useless is one line of verse, hearing which one becomes calm."
+    },
+    {
+     "h": "6fcfd97f",
+     "en": "Though one should recite a hundred verses strung together that are useless, better is one line of Dhamma, hearing which one becomes calm."
+    },
+    {
+     "h": "653de097",
+     "en": "Though one should conquer a thousand times a thousand men in battle, the one who conquers himself alone is the greatest of conquerors."
+    },
+    {
+     "h": "9fb5fa5c",
+     "en": "Better indeed is self-conquest than the conquest of other people. Of a person who has tamed himself, always living in restraint,"
+    },
+    {
+     "h": "9e6e2f1b",
+     "en": "neither god nor gandhabba (a heavenly musician), nor Māra together with Brahmā (the creator god of Indian religion), could turn the victory of such a being into defeat."
+    },
+    {
+     "h": "4f89b986",
+     "en": "If month after month for a hundred years someone should sacrifice with a thousand (coins), and another should honor for just a moment one who has developed himself, that honoring is better than a hundred years of sacrifice.",
+     "cmp": [
+      {
+       "w": "yajetha",
+       "note": "yajati 是婆罗门的「祭祀」：烧供品给神。这几偈是拿佛教的「供养修行人」对比婆罗门的祭祀。白话、英文都照字面，「千」后面的「钱」是补出来的。",
+       "en": "Yajati is the brahmin \"sacrifice,\" burning offerings to the gods. These verses set honoring a practitioner against brahmin sacrifice. The plain Chinese and the English follow the letter; \"coins\" after \"a thousand\" is supplied."
+      }
+     ]
+    },
+    {
+     "h": "6f525773",
+     "en": "If for a hundred years someone should tend the sacred fire in the forest, and another should honor for just a moment one who has developed himself, that honoring is better than a hundred years of sacrifice."
+    },
+    {
+     "h": "a7f698e5",
+     "en": "Whatever sacrifice or offering one makes in the world for a whole year, seeking merit, all of it is not worth a quarter: better is bowing to those who are upright."
+    },
+    {
+     "h": "548ce619",
+     "en": "For one who habitually bows and always respects the elders, four things increase: long life, good looks, happiness and strength."
+    },
+    {
+     "h": "482d7d25",
+     "en": "Better than living a hundred years without virtue and unsettled is a single day of life for one who is virtuous and meditates."
+    },
+    {
+     "h": "57e477c6",
+     "en": "Better than living a hundred years without wisdom and unsettled is a single day of life for one who is wise and meditates."
+    },
+    {
+     "h": "d4d4bd63",
+     "en": "Better than living a hundred years lazy and weak in effort is a single day of life for one who firmly rouses his energy."
+    },
+    {
+     "h": "20ba2bcf",
+     "en": "Better than living a hundred years not seeing the rising and passing away of things is a single day of life for one who sees rising and passing away."
+    },
+    {
+     "h": "a331f891",
+     "en": "Better than living a hundred years not seeing the deathless state is a single day of life for one who sees the deathless state."
+    },
+    {
+     "h": "aa191e53",
+     "en": "Better than living a hundred years not seeing the highest Dhamma is a single day of life for one who sees the highest Dhamma."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · Evil (Pāpavagga)",
+   "verses": [
+    {
+     "h": "f3ae7468",
+     "en": "Hurry to do good, and hold your mind back from evil; for when one is slow to do good, the mind delights in evil."
+    },
+    {
+     "h": "d4cc5ae9",
+     "en": "If a person does evil, let him not do it again and again; let him not set his heart on it. The piling up of evil is painful."
+    },
+    {
+     "h": "dca7769a",
+     "en": "If a person does good, let him do it again and again; let him set his heart on it. The piling up of good is happiness.",
+     "cmp": [
+      {
+       "w": "puñña",
+       "note": "puñña 常译「福、功德」，指能带来好结果的善行。白话写「好事」「善」，英文写 good，都比「福德」更日常。",
+       "en": "Puñña is often rendered \"merit,\" good deeds that bring good results. The plain Chinese 好事、善 (\"good deeds, goodness\") and the English \"good\" are both more everyday than \"merit.\""
+      }
+     ]
+    },
+    {
+     "h": "e1ca81d2",
+     "en": "Even an evildoer sees good fortune as long as his evil has not ripened; but when the evil ripens, then the evildoer sees evil."
+    },
+    {
+     "h": "14e1ab44",
+     "en": "Even a good person sees misfortune as long as his good has not ripened; but when the good ripens, then the good person sees good things."
+    },
+    {
+     "h": "4ccffdb0",
+     "en": "Do not think lightly of evil, saying, \"It won't come to me.\" Drop by drop a water jar is filled; little by little, the fool fills himself with evil.",
+     "cmp": [
+      {
+       "w": "na mantaṁ āgamissati",
+       "note": "「它不会来到我这里」：指恶的果报不会找上自己。白话「它不会找上我」、英文 it won't come to me 一致。",
+       "en": "\"It won't come to me\": that the result of evil won't find you. The plain Chinese 它不会找上我 (tā bú huì zhǎoshàng wǒ, \"it won't find me\") and the English \"It won't come to me\" agree."
+      }
+     ]
+    },
+    {
+     "h": "816f6b4e",
+     "en": "Do not think lightly of good, saying, \"It won't come to me.\" Drop by drop a water jar is filled; little by little, the wise one fills himself with good."
+    },
+    {
+     "h": "7e4f66b7",
+     "en": "As a merchant with great wealth and few companions avoids a dangerous road, as one who wants to live avoids poison, so one should avoid evil deeds."
+    },
+    {
+     "h": "8c94e134",
+     "en": "If there is no wound on your hand, you can carry poison in it; poison does not get into a hand without a wound. There is no evil for one who does no evil."
+    },
+    {
+     "h": "9c5b1cb8",
+     "en": "Whoever wrongs an innocent person, one who is pure and without blemish, that evil comes back on the fool himself, like fine dust thrown against the wind."
+    },
+    {
+     "h": "1e513627",
+     "en": "Some are born in a womb; evildoers go to hell (niraya); those on a good path go to heaven; those without taints attain final nibbāna.",
+     "cmp": [
+      {
+       "w": "nirayaṁ",
+       "note": "niraya 字面是「没有快乐的地方」。中文「地狱」、英文 hell 都带着各自宗教里「地下」「永罚」的联想；佛教的 niraya 不是永远的，业尽就出来。",
+       "en": "Niraya literally means \"a place without joy.\" Chinese 地狱 (dìyù, \"earth prison\") and English \"hell\" each carry their own religion's sense of \"underground\" or \"eternal punishment\"; the Buddhist niraya is not eternal, and one leaves it when the kamma is used up."
+      }
+     ]
+    },
+    {
+     "h": "3311c7b5",
+     "en": "Not in the sky, not in the middle of the ocean, not by entering a mountain cave: there is no place in the world where one could stand and escape the evil one has done."
+    },
+    {
+     "h": "2f8a154b",
+     "en": "Not in the sky, not in the middle of the ocean, not by entering a mountain cave: there is no place in the world where one could stand and not be overcome by death."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · The Rod (Daṇḍavagga)",
+   "verses": [
+    {
+     "h": "0d62f0ee",
+     "en": "All tremble at the rod; all fear death. Putting yourself in their place, do not kill or cause others to kill.",
+     "cmp": [
+      {
+       "w": "daṇḍassa",
+       "note": "daṇḍa 是「棍子、刑杖」，也代表一切暴力和惩罚。白话「棍子」、英文 the rod 都照字面；中文旧译「刀杖」多了刀。",
+       "en": "Daṇḍa is \"stick, rod of punishment,\" standing for all violence and punishment. The plain Chinese 棍子 (\"stick\") and the English \"the rod\" are literal; the older Chinese chapter name 刀杖 (dāozhàng, \"knife and staff\") adds a knife."
+      },
+      {
+       "w": "attānaṁ upamaṁ katvā",
+       "note": "「拿自己作比方」：将心比心。英文 putting yourself in their place 意译；古译「恕己可为譬」用了儒家的「恕」字。",
+       "en": "\"Making oneself the comparison\": putting yourself in the other's shoes. The English \"putting yourself in their place\" paraphrases; the classical Chinese 恕己可为譬 uses the Confucian word 恕 (shù, \"reciprocity\")."
+      }
+     ]
+    },
+    {
+     "h": "1113980e",
+     "en": "All tremble at the rod; to all, life is dear. Putting yourself in their place, do not kill or cause others to kill."
+    },
+    {
+     "h": "da006029",
+     "en": "Whoever, seeking his own happiness, harms with the rod beings who want happiness, will not find happiness after death."
+    },
+    {
+     "h": "b6d3a4f5",
+     "en": "Whoever, seeking his own happiness, does not harm with the rod beings who want happiness, will find happiness after death."
+    },
+    {
+     "h": "b7a89cc2",
+     "en": "Do not speak harshly to anyone; those spoken to will answer you back. Angry talk is painful, and blows in return may strike you."
+    },
+    {
+     "h": "610380ae",
+     "en": "If you can keep yourself silent, like a broken gong, you have reached nibbāna: no anger is found in you.",
+     "cmp": [
+      {
+       "w": "kaṁso upahato",
+       "note": "「破了的铜锣」敲了不响，比喻被骂也不回嘴。古译反过来写「如叩钟磬」，意思变成了「说话要像敲钟一样好听」。",
+       "en": "A broken gong makes no sound when struck: an image of not answering back when abused. The classical Chinese reverses it with 如叩钟磬 (\"like striking a bell or chime\"), so the sense becomes \"let your speech ring out well.\""
+      }
+     ]
+    },
+    {
+     "h": "d8e82e7b",
+     "en": "As a cowherd with a stick drives the cows to pasture, so old age and death drive on the lives of living beings."
+    },
+    {
+     "h": "8e493955",
+     "en": "When the fool does evil deeds, he does not realize it; the witless one is tormented by his own deeds, as if burned by fire."
+    },
+    {
+     "h": "195a5d03",
+     "en": "Whoever uses the rod on those who are without a rod, and wrongs those who are innocent, quickly comes to one of these ten states:"
+    },
+    {
+     "h": "d4d963bf",
+     "en": "sharp pain, loss of wealth, injury to the body, serious illness, or madness;"
+    },
+    {
+     "h": "9ed1ca4e",
+     "en": "trouble from the king, or a terrible accusation, or the loss of relatives, or the ruin of his possessions;"
+    },
+    {
+     "h": "b2b65367",
+     "en": "or fire burns down his houses; and when the body breaks up, that unwise one is reborn in hell."
+    },
+    {
+     "h": "f9787070",
+     "en": "Not going naked, not matted hair, not smearing with mud, not fasting, not sleeping on the bare ground, not dust and dirt, not striving while squatting on the heels: none of these purifies a mortal who has not overcome doubt.",
+     "cmp": [
+      {
+       "w": "naggacariyā na jaṭā",
+       "note": "这里列的都是当时印度各派苦行者的修法：裸行、结发、涂泥、绝食、睡地、蹲踞。白话和英文都照字面列出，没有点明是哪一派。",
+       "en": "These are all practices of various ascetic schools of the time: going naked, matted hair, mud-smearing, fasting, sleeping on the ground, squatting. The plain Chinese and the English list them literally without naming the schools."
+      }
+     ]
+    },
+    {
+     "h": "3904b1ee",
+     "en": "Even if he is adorned, if he lives evenly, calm, tamed, steady, living the holy life, having laid down the rod toward all beings: he is a brahmin, he is a renunciant, he is a bhikkhu."
+    },
+    {
+     "h": "41e98a8f",
+     "en": "Is there anyone in the world restrained by conscience, who wakes himself up as a good horse avoids the whip?",
+     "cmp": [
+      {
+       "w": "niddaṁ apabodheti",
+       "note": "本站底本作 niddaṁ apabodheti「把睡眠唤醒、自己醒着」；别的版本多作 nindaṁ apabodhati「不招惹责备」。白话按后一种译成「不去招惹责备」；英文照底本写 wakes himself up。两种读法都通，意思都是「不用别人鞭策就自觉」。",
+       "en": "This edition reads niddaṁ apabodheti, \"wakes from sleep, keeps himself awake\"; most other editions read nindaṁ apabodhati, \"does not invite blame.\" The plain Chinese follows the second with 不去招惹责备 (\"doesn't invite blame\"); the English follows this edition with \"wakes himself up.\" Either way the sense is \"alert on his own, without needing the whip.\""
+      }
+     ]
+    },
+    {
+     "h": "42282089",
+     "en": "Like a good horse touched by the whip, be ardent and stirred. By faith, virtue and energy, by concentration and by discerning the Dhamma, complete in knowledge and conduct, mindful, you will leave behind this great suffering.",
+     "cmp": [
+      {
+       "w": "saṁvegino",
+       "note": "saṁvega 是被生老病死「震动、惊醒」的心情，带一点急迫感。白话「警醒」、英文 stirred 都只译出一部分。",
+       "en": "Saṁvega is the feeling of being shaken awake by aging, sickness and death, with a sense of urgency. The plain Chinese 警醒 (jǐngxǐng, \"alert\") and the English \"stirred\" each give only part of it."
+      }
+     ]
+    },
+    {
+     "h": "2a887336",
+     "en": "Irrigators guide the water, arrow-makers straighten the shaft, carpenters bend the wood; those of good conduct tame themselves."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · Old Age (Jarāvagga)",
+   "verses": [
+    {
+     "h": "260ba7d7",
+     "en": "Why this laughter, why this joy, when the world is always burning? Wrapped in darkness, will you not look for a lamp?",
+     "cmp": [
+      {
+       "w": "pajjalite",
+       "note": "「一直在燃烧」，指世界被贪、瞋、痴之火烧着，呼应佛陀的《燃烧经》。白话、英文都照字面，没有点明是什么火。",
+       "en": "\"Always burning\" means the world burning with the fires of greed, hatred and delusion, echoing the Buddha's Fire Sermon. The plain Chinese and the English stay literal and don't say what fire."
+      }
+     ]
+    },
+    {
+     "h": "96bbfd40",
+     "en": "Look at this painted image, a body of sores propped up, sickly, much thought about, in which nothing lasts or stays."
+    },
+    {
+     "h": "c70aa5a4",
+     "en": "This body is worn out, a nest of disease, fragile. This rotting heap breaks apart, for life ends in death."
+    },
+    {
+     "h": "20663512",
+     "en": "These bones thrown away like gourds in autumn, gray like doves: what delight is there in seeing them?"
+    },
+    {
+     "h": "661766df",
+     "en": "It is a city built of bones, plastered with flesh and blood, in which are stored old age and death, pride and contempt.",
+     "cmp": [
+      {
+       "w": "makkho",
+       "note": "makkha 是「抹煞别人的好处、贬低别人」。白话「虚伪」不太准确；英文 contempt 较近。",
+       "en": "Makkha means \"belittling others' good qualities, disparagement.\" The plain Chinese 虚伪 (xūwěi, \"hypocrisy\") is not quite accurate; the English \"contempt\" is closer."
+      }
+     ]
+    },
+    {
+     "h": "4d762ef7",
+     "en": "Even the splendid chariots of kings wear out, and the body too comes to old age; but the Dhamma of the good does not age. So the good declare to the good."
+    },
+    {
+     "h": "c8cd8bda",
+     "en": "A person of little learning grows old like an ox: his flesh grows, but his wisdom does not."
+    },
+    {
+     "h": "bdc75c1e",
+     "en": "Through many births in the round of rebirth I have wandered without rest, seeking the builder of the house. Painful is birth again and again.",
+     "cmp": [
+      {
+       "w": "gahakāraṁ",
+       "note": "「造房子的人」比喻渴爱：是它一次次造出「身体」这座房子。传统说这两偈是佛陀觉悟时说的第一句话。白话、英文都照字面保留比喻。",
+       "en": "\"The house-builder\" is craving, which builds the house of the body again and again. Tradition says these two verses were the Buddha's first words on awakening. The plain Chinese and the English both keep the image literally."
+      }
+     ]
+    },
+    {
+     "h": "1f8f876a",
+     "en": "House-builder, you are seen! You will not build a house again. All your rafters are broken, your ridgepole is shattered. My mind has gone to the unconditioned; it has reached the end of craving.",
+     "cmp": [
+      {
+       "w": "visaṅkhāragataṁ",
+       "note": "visaṅkhāra「无造作、离开一切有为」，指涅槃。白话「不再造作的地方」、英文 the unconditioned 都译出了；古译「灭意断行」意思接近。",
+       "en": "Visaṅkhāra, \"free of all conditioned making,\" means nibbāna. The plain Chinese 不再造作的地方 (\"the place of no more making\") and the English \"the unconditioned\" both convey it."
+      }
+     ]
+    },
+    {
+     "h": "a4def09d",
+     "en": "Those who have not lived the holy life, who have not gained wealth in their youth, waste away like old herons at a pond with no fish left."
+    },
+    {
+     "h": "189faf90",
+     "en": "Those who have not lived the holy life, who have not gained wealth in their youth, lie like arrows spent from the bow, sighing over the past."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · Oneself (Attavagga)",
+   "verses": [
+    {
+     "h": "89c2fcf7",
+     "en": "If you hold yourself dear, guard yourself well. In one of the three watches, the wise one should keep awake.",
+     "cmp": [
+      {
+       "w": "tiṇṇaṁ aññataraṁ yāmaṁ",
+       "note": "yāma 字面是「夜里的一更」，一夜分三更。注释家解作人生的三个阶段：少年、中年、老年。白话直接写「一生的三个阶段」，英文照字面写 three watches。",
+       "en": "Yāma literally means \"a watch of the night,\" the night being divided into three. The commentators read it as the three stages of life: youth, middle age, old age. The plain Chinese says 一生的三个阶段 (\"the three stages of life\") outright; the English keeps the literal \"three watches.\""
+      }
+     ]
+    },
+    {
+     "h": "90210c31",
+     "en": "First set yourself in what is proper, then teach others; such a wise one will not be faulted."
+    },
+    {
+     "h": "49b2502b",
+     "en": "As you teach others, so should you do yourself. Only one well tamed should tame others; the self, it seems, is hard to tame."
+    },
+    {
+     "h": "2c51f03c",
+     "en": "You are your own refuge; who else could be your refuge? With yourself well tamed, you gain a refuge hard to find.",
+     "cmp": [
+      {
+       "w": "attā hi attano nātho",
+       "note": "nātha 是「保护者、依怙」。这一句常被引来说「自依止」。这里的 attā 是日常的「自己」，不是佛教要否定的「我」。白话「依靠」、英文 refuge 一致。",
+       "en": "Nātha means \"protector, one to rely on.\" The line is often quoted on \"relying on oneself.\" Attā here is the everyday \"oneself,\" not the \"self\" that Buddhism denies. The plain Chinese 依靠 (yīkào, \"something to lean on\") and the English \"refuge\" agree."
+      }
+     ]
+    },
+    {
+     "h": "9440002d",
+     "en": "The evil done by oneself, born of oneself, produced by oneself, grinds down the fool as a diamond grinds a stone gem."
+    },
+    {
+     "h": "2be14bf2",
+     "en": "One whose bad conduct is extreme, like a māluvā creeper smothering a sal tree, does to himself just what his enemy would wish for him."
+    },
+    {
+     "h": "4aa3e53c",
+     "en": "Easy to do are things that are bad and harmful to oneself; what is beneficial and good is supremely hard to do."
+    },
+    {
+     "h": "88c746ad",
+     "en": "The fool who, relying on a wrong view, reviles the teaching of the arahants (fully awakened ones), the noble ones who live by the Dhamma, bears fruit for his own destruction, like the kaṭṭhaka reed.",
+     "cmp": [
+      {
+       "w": "kaṭṭhakasseva",
+       "note": "kaṭṭhaka 是一种竹或芦苇，开花结果后整株枯死。白话写「竹子」，英文保留原名并写 reed。",
+       "en": "Kaṭṭhaka is a kind of bamboo or reed that dies once it flowers and fruits. The plain Chinese writes 竹子 (\"bamboo\"); the English keeps the Pali name and says \"reed.\""
+      }
+     ]
+    },
+    {
+     "h": "0812b0a8",
+     "en": "By oneself is evil done, by oneself is one defiled; by oneself is evil left undone, by oneself is one purified. Purity and impurity are one's own; no one can purify another."
+    },
+    {
+     "h": "c7d92088",
+     "en": "Do not neglect your own good for the sake of another's, however great. Clearly knowing your own good, be intent on that good.",
+     "cmp": [
+      {
+       "w": "attadatthaṁ",
+       "note": "「自己的利益」，注释家明说是指自己的解脱，不是自私。白话「自己的事」「目标」、英文 your own good 都照字面，读者容易读成自顾自。",
+       "en": "\"One's own good\": the commentators say plainly that this means one's own liberation, not selfishness. The plain Chinese 自己的事 (\"your own business\") and the English \"your own good\" are literal and can be misread as self-centered."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · The World (Lokavagga)",
+   "verses": [
+    {
+     "h": "8fe00d34",
+     "en": "Do not follow low ways, do not live carelessly, do not hold wrong views; do not be one who keeps the world going.",
+     "cmp": [
+      {
+       "w": "lokavaḍḍhano",
+       "note": "loka-vaḍḍhana「使世间增长的人」，指不断造业、让轮回延续的人。白话加了括号「（轮回）」，英文写 keeps the world going。",
+       "en": "Loka-vaḍḍhana, \"one who makes the world grow,\" is someone who keeps creating kamma and so keeps the round of rebirth going. The plain Chinese adds \"(rebirth)\" in brackets; the English says \"keeps the world going.\""
+      }
+     ]
+    },
+    {
+     "h": "c0b1dfc0",
+     "en": "Rise up! Do not be careless! Practice the Dhamma well. One who lives by the Dhamma sleeps at ease in this world and the next."
+    },
+    {
+     "h": "7bdb23df",
+     "en": "Practice the Dhamma well; do not practice it badly. One who lives by the Dhamma sleeps at ease in this world and the next."
+    },
+    {
+     "h": "4948d9a6",
+     "en": "One who looks on the world as on a bubble, as on a mirage: the King of Death does not see him."
+    },
+    {
+     "h": "9cae2eac",
+     "en": "Come, look at this world, decked out like a royal chariot, where fools sink down; for those who understand, there is no clinging to it."
+    },
+    {
+     "h": "6fec8d4d",
+     "en": "One who was careless before but afterwards is careless no more lights up this world, like the moon set free from a cloud."
+    },
+    {
+     "h": "e5e48368",
+     "en": "One whose evil deed is covered over by good lights up this world, like the moon set free from a cloud."
+    },
+    {
+     "h": "dd5d4ccf",
+     "en": "This world is blind; few here see clearly. Like birds escaped from a net, few go to heaven."
+    },
+    {
+     "h": "1836f0b3",
+     "en": "Swans travel the path of the sun; those with spiritual powers travel through the sky. The wise are led out of the world, having conquered Māra and his army.",
+     "cmp": [
+      {
+       "w": "iddhiyā",
+       "note": "iddhi「神通」，指禅修得来的超常能力，如在空中行走。白话「有神通的人」、英文 those with spiritual powers 一致。",
+       "en": "Iddhi means supernormal powers gained through meditation, such as moving through the air. The plain Chinese 有神通的人 (\"those with supernatural powers\") and the English \"those with spiritual powers\" agree."
+      }
+     ]
+    },
+    {
+     "h": "acc3b20e",
+     "en": "For a person who has transgressed this one thing, who tells lies and has given up on the world beyond, there is no evil he would not do."
+    },
+    {
+     "h": "32e40004",
+     "en": "The stingy do not go to the world of the gods; fools do not praise giving. But the wise one rejoices in giving, and by that he is happy in the world beyond."
+    },
+    {
+     "h": "cb591e70",
+     "en": "Better than sole rule over the earth, better than going to heaven, better than lordship over all worlds, is the fruit of stream-entry.",
+     "cmp": [
+      {
+       "w": "sotāpatti",
+       "note": "sotāpatti「入流」：第一次见到涅槃，从此进入通往解脱的水流，不会再退。中文「入流果」、英文 stream-entry 都照字面，没有解释是什么流。",
+       "en": "Sotāpatti, \"stream-entry,\" is the first glimpse of nibbāna, after which one has entered the current that leads to liberation and cannot fall back. The Chinese 入流果 (rùliú guǒ, \"fruit of entering the stream\") and the English \"stream-entry\" are both literal and don't explain what the stream is."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · The Buddha (Buddhavagga)",
+   "verses": [
+    {
+     "h": "c4ca4894",
+     "en": "Whose victory is not undone, whose victory nothing in the world can follow: that Buddha of boundless range, the trackless one, by what track will you lead him astray?",
+     "cmp": [
+      {
+       "w": "apadaṁ kena padena",
+       "note": "原文是文字游戏：pada 既是「足迹」也是「路子、手段」。「没有足迹的人，你要用什么路子带走他？」白话「没有足迹可循……拿什么路子」、英文 trackless ... by what track 都保留了双关。",
+       "en": "The Pali plays on pada, which means both \"footprint\" and \"way, means\": \"The one without a track, by what track will you lead him?\" The plain Chinese 没有足迹可循……拿什么路子 (\"no footprint to follow ... by what way\") and the English \"trackless ... by what track\" both keep the pun."
+      }
+     ]
+    },
+    {
+     "h": "c00cb97f",
+     "en": "In whom there is no craving, that ensnaring, clinging net, to lead him anywhere at all: that Buddha of boundless range, the trackless one, by what track will you lead him astray?"
+    },
+    {
+     "h": "2ffbb0e6",
+     "en": "The wise who are devoted to meditation, who delight in the peace of renunciation, mindful and fully awakened: even the gods envy them."
+    },
+    {
+     "h": "eddda4ea",
+     "en": "Hard is it to be born human, hard is the life of mortals, hard is it to hear the true Dhamma, hard is the arising of buddhas."
+    },
+    {
+     "h": "66e619d3",
+     "en": "Not doing any evil, taking up what is good, purifying one's own mind: this is the teaching of the buddhas.",
+     "cmp": [
+      {
+       "w": "kusalassa upasampadā",
+       "note": "kusala 是「善、善巧」，upasampadā「具足、达成」。中文熟悉的「诸恶莫作，众善奉行，自净其意，是诸佛教」就是这一偈的古译。英文 taking up what is good 只译出了意思。",
+       "en": "Kusala means \"wholesome, skillful,\" and upasampadā \"attaining, taking up.\" The familiar Chinese line 诸恶莫作，众善奉行，自净其意，是诸佛教 (\"Do no evil, practice all good, purify your mind: this is the teaching of all buddhas\") is the classical rendering of this very verse. The English \"taking up what is good\" gives the sense."
+      }
+     ]
+    },
+    {
+     "h": "4bd40a69",
+     "en": "Patient endurance is the highest austerity; nibbāna is the highest, say the buddhas. One who harms others is no renunciant; one who hurts others is no samaṇa (wandering ascetic)."
+    },
+    {
+     "h": "c79dde1c",
+     "en": "Not reviling, not harming, restraint according to the Pātimokkha (the core monastic code), moderation in food, a secluded dwelling, devotion to the higher mind: this is the teaching of the buddhas."
+    },
+    {
+     "h": "b7fc671c",
+     "en": "Not even with a rain of gold coins is there satisfaction in sensual pleasures. \"Sensual pleasures give little enjoyment and much pain\": knowing this, the wise one"
+    },
+    {
+     "h": "65d1af22",
+     "en": "finds no delight even in heavenly pleasures. The disciple of the Fully Awakened One delights in the ending of craving."
+    },
+    {
+     "h": "441c5478",
+     "en": "Driven by fear, people go to many refuges: to mountains and forests, to parks, sacred trees and shrines.",
+     "cmp": [
+      {
+       "w": "cetyāni",
+       "note": "cetiya 是「祠、塔、圣地」，可以是一棵被敬拜的树，也可以是一座土堆。白话「祠庙」、英文 shrines 一致。",
+       "en": "A cetiya is \"a shrine, a sacred spot\": a revered tree or a mound. The plain Chinese 祠庙 (cí miào, \"shrine, temple\") and the English \"shrines\" agree."
+      }
+     ]
+    },
+    {
+     "h": "d39a626d",
+     "en": "That is not a safe refuge, that is not the highest refuge; going to that refuge, one is not freed from all suffering."
+    },
+    {
+     "h": "dc28bb6e",
+     "en": "But whoever goes for refuge to the Buddha, the Dhamma and the Sangha (the community of practitioners), and sees with right wisdom the four noble truths:",
+     "cmp": [
+      {
+       "w": "saṅghañca",
+       "note": "saṅgha 本义是「团体、集会」，在这里指出家人的团体，或者更深一层，指已经证悟的圣者们。中文音译「僧」，现代中文「僧」常指单个和尚；英文保留 Sangha。",
+       "en": "Saṅgha originally means \"group, assembly\"; here it is the community of renunciants, or at a deeper level the noble ones who have realized the path. Chinese transliterates it as 僧 (sēng), which in modern Chinese usually means a single monk; the English keeps Sangha."
+      }
+     ]
+    },
+    {
+     "h": "721055df",
+     "en": "suffering, the arising of suffering, the overcoming of suffering, and the noble eightfold path that leads to the calming of suffering."
+    },
+    {
+     "h": "1053e7d8",
+     "en": "That is a safe refuge, that is the highest refuge; going to that refuge, one is freed from all suffering."
+    },
+    {
+     "h": "5f8fbe41",
+     "en": "A thoroughbred person is hard to find; he is not born just anywhere. Wherever such a wise one is born, that family thrives in happiness."
+    },
+    {
+     "h": "1ab375fc",
+     "en": "Happy is the arising of buddhas, happy the teaching of the true Dhamma, happy the harmony of the Sangha, happy the practice of those in harmony."
+    },
+    {
+     "h": "d435ed08",
+     "en": "Whoever honors those worthy of honor, buddhas or their disciples, who have gone beyond mental proliferation and crossed over sorrow and lamenting,",
+     "cmp": [
+      {
+       "w": "papañca",
+       "note": "papañca 是心把一个念头越扯越多、越想越复杂的倾向。白话「虚妄的分别」加了括号解释；英文 mental proliferation 直译。",
+       "en": "Papañca is the mind's tendency to spin one thought into more and more, ever more complicated. The plain Chinese 虚妄的分别 (\"false discrimination\") adds an explanation in brackets; the English \"mental proliferation\" is more direct."
+      }
+     ]
+    },
+    {
+     "h": "d8eb507c",
+     "en": "whoever honors such ones, at peace and fearing nothing, the merit he gains cannot be measured by anyone as \"this much.\""
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · Happiness (Sukhavagga)",
+   "verses": [
+    {
+     "h": "b4b32c3b",
+     "en": "How happily we live, free of hatred among the hateful! Among hateful people we live free of hatred."
+    },
+    {
+     "h": "5129c59e",
+     "en": "How happily we live, free of sickness among the sick! Among sick people we live free of sickness.",
+     "cmp": [
+      {
+       "w": "āturesu",
+       "note": "ātura「病着的」，注释家解作「被烦恼折磨的」，不是身体的病。白话「病着的人」、英文 the sick 都照字面，读者可能以为是身体的病。",
+       "en": "Ātura, \"sick,\" is explained by the commentators as \"afflicted by defilements,\" not bodily illness. The plain Chinese 病着的人 (\"the sick\") and the English \"the sick\" are literal, and readers may take it as physical illness."
+      }
+     ]
+    },
+    {
+     "h": "877a8ef1",
+     "en": "How happily we live, free of striving among those who strive! Among striving people we live free of striving.",
+     "cmp": [
+      {
+       "w": "ussukesu",
+       "note": "ussuka「急切、忙于追求的」。白话「急着追求的」、英文 those who strive 意思接近；英文 strive 有时是褒义，原文这里是贬义的「汲汲营营」。",
+       "en": "Ussuka means \"eager, busy chasing after things.\" The plain Chinese 急着追求的 (\"rushing after things\") is close; the English \"strive\" is sometimes positive, whereas the Pali here means anxious grasping."
+      }
+     ]
+    },
+    {
+     "h": "dd6a4296",
+     "en": "How happily we live, we who own nothing! We shall feed on joy, like the gods of Streaming Radiance (Ābhassara, gods who live on joy)."
+    },
+    {
+     "h": "a8ea80bf",
+     "en": "Victory breeds hatred; the defeated sleep in pain. The one at peace sleeps happily, having given up victory and defeat."
+    },
+    {
+     "h": "5820dd43",
+     "en": "There is no fire like passion, no losing throw like hatred, no pain like the aggregates, no happiness higher than peace.",
+     "cmp": [
+      {
+       "w": "kali",
+       "note": "kali 本义是骰子游戏里「输的那一面」，引申为厄运。白话「厄运」取引申义；英文 losing throw 保留了赌博的画面。",
+       "en": "Kali originally means \"the losing throw\" in a dice game, and by extension misfortune. The plain Chinese 厄运 (èyùn, \"bad luck\") takes the extended sense; the English \"losing throw\" keeps the gambling image."
+      }
+     ]
+    },
+    {
+     "h": "6b2b0e01",
+     "en": "Hunger is the worst illness, conditioned things the worst suffering. Knowing this as it really is: nibbāna is the highest happiness.",
+     "cmp": [
+      {
+       "w": "saṅkhāraparamā dukhā",
+       "note": "saṅkhāra 在这里注释家解作五蕴，即一切由条件构成的身心。白话「有为法」加了解释，英文 conditioned things 直译。有的读法认为 saṅkhāra 只指「身体」，跟前一句饥饿相应。",
+       "en": "The commentators take saṅkhāra here as the five aggregates, everything in body and mind made up of conditions. The plain Chinese 有为法 (\"conditioned dharmas\") adds an explanation; the English \"conditioned things\" is direct. Some readings take saṅkhāra here as just \"the body,\" matching the hunger in the line before."
+      }
+     ]
+    },
+    {
+     "h": "3df898b7",
+     "en": "Health is the greatest gain, contentment the greatest wealth, a trusted friend the best relative, nibbāna the highest happiness.",
+     "cmp": [
+      {
+       "w": "vissāsaparamā ñāti",
+       "note": "「信赖是最好的亲人」：能信得过的人，比血亲还亲。白话「可信赖的人是最好的亲人」、英文 a trusted friend the best relative 都补出了「人」。",
+       "en": "\"Trust is the best kinsman\": someone you can trust is closer than blood. The plain Chinese 可信赖的人是最好的亲人 (\"a trustworthy person is the best relative\") and the English \"a trusted friend\" both supply a person."
+      }
+     ]
+    },
+    {
+     "h": "90126b56",
+     "en": "Having tasted the flavor of solitude and the flavor of peace, one becomes free of fear and free of evil, drinking the flavor of joy in the Dhamma."
+    },
+    {
+     "h": "5bd39dbb",
+     "en": "It is good to see the noble ones; living with them is always happy. By not seeing fools, one would always be happy."
+    },
+    {
+     "h": "1dc71cc9",
+     "en": "One who walks in the company of fools grieves for a long time. Living with fools is painful, like always living with an enemy; living with the wise is happy, like a gathering of relatives."
+    },
+    {
+     "h": "9d35be53",
+     "en": "Therefore: the steadfast, the wise, the learned, the one who bears the load, virtuous, devout, noble: follow such a good and intelligent person, as the moon follows the path of the stars.",
+     "cmp": [
+      {
+       "w": "dhorayhasīlaṁ",
+       "note": "dhorayha 是「能拉车、能负重的（牛）」，比喻能担起责任的人。白话「能负重担」、英文 the one who bears the load 都保留了这个意思。",
+       "en": "Dhorayha is \"(an ox) fit to pull the cart, to bear the load,\" an image of someone who can carry responsibility. The plain Chinese 能负重担 (\"able to bear heavy burdens\") and the English \"the one who bears the load\" both keep it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · The Dear (Piyavagga)",
+   "verses": [
+    {
+     "h": "78d09ee9",
+     "en": "Applying himself to what he should not, not applying himself to what he should, giving up the goal and grasping at what is pleasant, he will come to envy those who devote themselves to their own training."
+    },
+    {
+     "h": "e212ba7e",
+     "en": "Do not get attached to what is dear, or ever to what is not dear. Not seeing what is dear is painful, and so is seeing what is not dear.",
+     "cmp": [
+      {
+       "w": "piya",
+       "note": "piya 是「亲爱的、可爱的」，可以指人，也可以指东西。白话第一句写成「喜欢的人」，后面又写「心爱的东西」；英文用 what is dear，把人和物都包进去。",
+       "en": "Piya means \"dear, beloved\" and can refer to people or things. The plain Chinese says 喜欢的人 (\"people you like\") in this verse and 心爱的东西 (\"things you love\") in the next; the English uses \"what is dear\" to cover both."
+      }
+     ]
+    },
+    {
+     "h": "e5bf55c6",
+     "en": "So do not hold anything dear, for losing what is dear is hard. Those for whom nothing is dear or not dear have no bonds."
+    },
+    {
+     "h": "29e6b7b2",
+     "en": "From what is dear comes grief, from what is dear comes fear. For one freed from what is dear there is no grief; how then fear?"
+    },
+    {
+     "h": "8e1e217c",
+     "en": "From affection comes grief, from affection comes fear. For one freed from affection there is no grief; how then fear?",
+     "cmp": [
+      {
+       "w": "pemato",
+       "note": "这一组五偈用了五个近义词：piya（亲爱）、pema（爱恋、情分）、rati（喜好）、kāma（欲乐）、taṇhā（渴爱），由浅入深。英文分别用 dear / affection / attachment / sensual desire / craving，白话也分别用了不同的词。",
+       "en": "This set of five verses uses five near-synonyms, from mild to deep: piya (dear), pema (affection), rati (delight, attachment), kāma (sensual desire), taṇhā (craving). The English uses \"dear / affection / attachment / sensual desire / craving,\" and the plain Chinese also uses a different word for each."
+      }
+     ]
+    },
+    {
+     "h": "957988a5",
+     "en": "From attachment comes grief, from attachment comes fear. For one freed from attachment there is no grief; how then fear?"
+    },
+    {
+     "h": "b795685d",
+     "en": "From sensual desire comes grief, from sensual desire comes fear. For one freed from sensual desire there is no grief; how then fear?"
+    },
+    {
+     "h": "d91d4cf8",
+     "en": "From craving comes grief, from craving comes fear. For one freed from craving there is no grief; how then fear?"
+    },
+    {
+     "h": "5bdb847e",
+     "en": "One who is complete in virtue and insight, established in the Dhamma, who speaks the truth and does his own work: people hold him dear.",
+     "cmp": [
+      {
+       "w": "saccavedinaṁ",
+       "note": "sacca-vedin 可以是「说真话的」，也可以是「了知真谛（四谛）的」。白话取前一种；英文 speaks the truth 也取前一种。",
+       "en": "Sacca-vedin can mean \"one who speaks the truth\" or \"one who knows the truths (the four noble truths).\" The plain Chinese and the English \"speaks the truth\" both take the first."
+      }
+     ]
+    },
+    {
+     "h": "3c139b76",
+     "en": "One in whom a longing for the inexpressible has arisen, whose mind is filled with it, whose heart is not bound to sensual pleasures: he is called one who goes upstream.",
+     "cmp": [
+      {
+       "w": "uddhaṁsoto",
+       "note": "uddhaṁ-sota「逆流而上的人」，是不还者（anāgāmī）的一种，死后生到更高的天界，在那里证涅槃。白话、英文都照字面，没有说明是哪一种圣者。",
+       "en": "Uddhaṁ-sota, \"one who goes upstream,\" is a kind of non-returner (anāgāmī) who after death is reborn in higher heavens and attains nibbāna there. The plain Chinese and the English both stay literal without naming the stage."
+      }
+     ]
+    },
+    {
+     "h": "2a5e1059",
+     "en": "When a man who has long been away comes home safely from afar, his relatives, friends and well-wishers welcome his return."
+    },
+    {
+     "h": "a3f6491f",
+     "en": "In the same way, when one who has done good goes from this world to the next, his good deeds receive him, as relatives receive a dear one come home."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17 · Anger (Kodhavagga)",
+   "verses": [
+    {
+     "h": "2615ca99",
+     "en": "Give up anger, let go of pride, get past every fetter. Sufferings do not fall on one who does not cling to name-and-form (mind and body) and owns nothing."
+    },
+    {
+     "h": "ffeb6027",
+     "en": "Whoever checks anger as it flares up, like a chariot running wild, I call a true charioteer; other people only hold the reins."
+    },
+    {
+     "h": "b71ad16f",
+     "en": "Conquer anger with non-anger, conquer the bad with good, conquer the stingy with giving, conquer the liar with truth."
+    },
+    {
+     "h": "630ee41f",
+     "en": "Speak the truth, do not get angry, give when asked, even if you have only a little: by these three things one goes into the presence of the gods."
+    },
+    {
+     "h": "ec869023",
+     "en": "Those sages (munis) who do no harm, always restrained in body, go to the place from which there is no falling, where, having gone, they grieve no more."
+    },
+    {
+     "h": "54bd52d9",
+     "en": "For those who are always wakeful, training day and night, intent on nibbāna, the taints come to an end."
+    },
+    {
+     "h": "06a22c7c",
+     "en": "This is an old saying, Atula, not just of today: they blame the one who sits silent, they blame the one who talks a lot, they even blame the one who speaks in moderation. There is no one in the world who is not blamed.",
+     "cmp": [
+      {
+       "w": "atula",
+       "note": "Atula 是注释故事里一位在家信徒的名字，佛陀在这里直接对他说话。atula 本身也有「无可比拟」的意思，但这里是人名。白话、英文都作人名处理。",
+       "en": "Atula is the name of a lay follower in the commentarial story, whom the Buddha addresses here. Atula also means \"incomparable,\" but here it is a name; the plain Chinese and the English both treat it as one."
+      }
+     ]
+    },
+    {
+     "h": "033ad480",
+     "en": "There never was, there never will be, nor is there now, a person who is wholly blamed or wholly praised."
+    },
+    {
+     "h": "bf429806",
+     "en": "But if the discerning, after examining him day after day, praise someone as flawless in conduct, intelligent, endowed with wisdom and virtue,"
+    },
+    {
+     "h": "ab790712",
+     "en": "like a coin of Jambu River gold, who is fit to blame him? Even the gods praise him; he is praised by Brahmā too."
+    },
+    {
+     "h": "46cb64d0",
+     "en": "Guard against agitation of the body; be restrained in body. Give up bad conduct of body and practice good conduct with the body.",
+     "cmp": [
+      {
+       "w": "kāyappakopaṁ",
+       "note": "pakopa「激动、骚动」，跟 kopa「愤怒」同根，所以白话译「身体发怒」。但在这里它泛指身体的一切不当举动，不只是发脾气。英文 agitation 取宽义。",
+       "en": "Pakopa, \"agitation, disturbance,\" shares its root with kopa, \"anger,\" so the plain Chinese writes 身体发怒 (\"the body getting angry\"). But here it covers any misconduct of the body, not only temper; the English \"agitation\" takes the broader sense."
+      }
+     ]
+    },
+    {
+     "h": "ee96ae1d",
+     "en": "Guard against agitation of speech; be restrained in speech. Give up bad conduct of speech and practice good conduct with speech."
+    },
+    {
+     "h": "6298f99a",
+     "en": "Guard against agitation of mind; be restrained in mind. Give up bad conduct of mind and practice good conduct with the mind."
+    },
+    {
+     "h": "8c5fbec5",
+     "en": "The wise are restrained in body, restrained in speech, restrained in mind: they are truly well restrained in every way."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18 · Stains (Malavagga)",
+   "verses": [
+    {
+     "h": "274a6271",
+     "en": "You are now like a withered leaf; Yama's messengers (the servants of death) stand beside you. You stand at the threshold of departure, and you have no provisions for the journey."
+    },
+    {
+     "h": "5906e4e4",
+     "en": "So make an island for yourself; strive quickly, be wise. Your stains blown away, without blemish, you will reach the heavenly ground of the noble ones.",
+     "cmp": [
+      {
+       "w": "dīpaṁ",
+       "note": "dīpa 既是「岛」也是「灯」。白话写「洲岛」并在括号里给了「灯」；英文取「岛」，跟第 25 偈一致。",
+       "en": "Dīpa means both \"island\" and \"lamp.\" The plain Chinese writes 洲岛 (zhōudǎo, \"island\") and gives \"lamp\" in brackets; the English takes \"island,\" as in verse 25."
+      }
+     ]
+    },
+    {
+     "h": "ad0559da",
+     "en": "Your life is now near its end; you have set out into Yama's presence. There is no resting place for you along the way, and you have no provisions for the journey."
+    },
+    {
+     "h": "669a66e2",
+     "en": "So make an island for yourself; strive quickly, be wise. Your stains blown away, without blemish, you will not come again to birth and old age."
+    },
+    {
+     "h": "c631c232",
+     "en": "Gradually, little by little, moment by moment, the wise one should blow away his own stains, as a smith blows away the dross from silver.",
+     "cmp": [
+      {
+       "w": "niddhame",
+       "note": "niddhamati「吹掉」：银匠用风箱吹火，把银里的杂质烧掉。白话「吹掉」、英文 blow away 都保留了这个动作，前几偈的「把污垢吹掉」也是同一个词。",
+       "en": "Niddhamati, \"to blow away\": the smith works the bellows so the dross in the silver burns off. The plain Chinese 吹掉 (\"blow off\") and the English \"blow away\" both keep the action; \"stains blown away\" in the verses before uses the same word."
+      }
+     ]
+    },
+    {
+     "h": "4a6a7665",
+     "en": "As rust arising from iron, once arisen, eats away that very iron, so his own deeds lead the transgressor to a bad destination.",
+     "cmp": [
+      {
+       "w": "atidhonacārinaṁ",
+       "note": "atidhona-cārin 字面是「越过（四种资具）该有分寸的人」，注释家解作用衣食等资具不知节制、不省察的人。白话「行为不检点的人」、英文 the transgressor 都只译了大意。",
+       "en": "Atidhona-cārin literally means \"one who goes beyond the proper measure,\" explained by the commentators as one who uses robes, food and other requisites without reflection or restraint. The plain Chinese 行为不检点的人 (\"one of careless conduct\") and the English \"the transgressor\" give only the general sense."
+      }
+     ]
+    },
+    {
+     "h": "e050593a",
+     "en": "Not being recited is the stain on sacred verses; not being kept up is the stain on houses; sloth is the stain on beauty; heedlessness is the stain on a guardian."
+    },
+    {
+     "h": "b465a48f",
+     "en": "Misconduct is the stain on a woman; stinginess is the stain on a giver. Evil things are indeed stains, in this world and the next.",
+     "cmp": [
+      {
+       "w": "malitthiyā",
+       "note": "「品行不端是女人的污垢」，注释家专指不贞。这一句反映了古代印度的性别观念；白话、英文都照实译出，不作删改。",
+       "en": "\"Misconduct is a woman's stain\": the commentators take it to mean infidelity. The line reflects the gender attitudes of ancient India; the plain Chinese and the English both translate it as it stands, without softening."
+      }
+     ]
+    },
+    {
+     "h": "ba0192f1",
+     "en": "But worse than these stains is ignorance, the greatest stain. Having given up this stain, bhikkhus, be stainless.",
+     "cmp": [
+      {
+       "w": "avijjā",
+       "note": "a-vijjā「不知、无明」，不是「没知识」，而是看不清四谛、看不清真相。白话「无明」加了解释，英文 ignorance 容易被读成「没学问」。",
+       "en": "A-vijjā, \"not-knowing,\" does not mean lack of education but not seeing the four truths, not seeing how things are. The plain Chinese 无明 (wúmíng, \"no light\") adds an explanation; the English \"ignorance\" is easily read as \"lack of learning.\""
+      }
+     ]
+    },
+    {
+     "h": "6e53848d",
+     "en": "Life is easy for one without shame, bold as a crow, a backbiter, brash, arrogant, living a corrupt life."
+    },
+    {
+     "h": "10bf39d7",
+     "en": "Life is hard for one with a sense of shame, always seeking purity, not sluggish, not arrogant, living a pure life, seeing clearly.",
+     "cmp": [
+      {
+       "w": "alīnena",
+       "note": "a-līna「不退缩、不懈怠的」。白话写「不执著」，跟原文不合；英文 not sluggish 较贴原文。",
+       "en": "A-līna means \"not shrinking, not sluggish.\" The plain Chinese 不执著 (\"not clinging\") doesn't match the Pali; the English \"not sluggish\" is closer."
+      }
+     ]
+    },
+    {
+     "h": "e0bc5428",
+     "en": "Whoever kills living beings, speaks falsely, takes in the world what is not given, goes to another man's wife,"
+    },
+    {
+     "h": "ba524e5b",
+     "en": "and whoever is given to drinking liquor and wine: that person digs up his own root right here in this world."
+    },
+    {
+     "h": "2de15d7b",
+     "en": "Know this, good man: evil things are hard to restrain. Do not let greed and wrongdoing torment you with suffering for a long time.",
+     "cmp": [
+      {
+       "w": "asaññatā",
+       "note": "asaññata「不受约束的」，可以读成「恶法难以约束」，也可以读成「不自制的人（就是恶法）」。白话「恶法是不受约束的」、英文 hard to restrain 都取前一种。",
+       "en": "Asaññata, \"unrestrained,\" can be read as \"evil things are hard to restrain\" or \"those without restraint (are evil).\" The plain Chinese 恶法是不受约束的 (\"evil dharmas are unrestrained\") and the English \"hard to restrain\" both take the first."
+      }
+     ]
+    },
+    {
+     "h": "c7d848d5",
+     "en": "People give according to their faith, according to their goodwill. Whoever is upset over the food and drink given to others does not attain concentration by day or by night."
+    },
+    {
+     "h": "f172d633",
+     "en": "But whoever has cut this off, uprooted it and destroyed it, attains concentration by day and by night."
+    },
+    {
+     "h": "a18c6464",
+     "en": "There is no fire like passion, no grip like hatred, no net like delusion, no river like craving.",
+     "cmp": [
+      {
+       "w": "gaho",
+       "note": "gaha 是「抓住、钳住」，也可以指鳄鱼或鬼魅的抓捕。白话「钳子」、英文 grip 都取「抓住」。",
+       "en": "Gaha means \"seizing, a grip,\" and can also be the grip of a crocodile or a demon. The plain Chinese 钳子 (\"pincers\") and the English \"grip\" both take \"seizing.\""
+      }
+     ]
+    },
+    {
+     "h": "7b8546bd",
+     "en": "Others' faults are easy to see, but one's own are hard to see. One winnows others' faults like chaff, but hides one's own, as a cheating gambler hides a losing throw."
+    },
+    {
+     "h": "240ef755",
+     "en": "One who keeps looking for others' faults, always finding fault: his taints grow, and he is far from their ending."
+    },
+    {
+     "h": "0599a7f5",
+     "en": "There is no track in the sky, no true renunciant outside. People delight in proliferation; the Tathāgatas (the Buddha's name for himself, the \"thus-gone\") are free of proliferation.",
+     "cmp": [
+      {
+       "w": "bāhire",
+       "note": "bāhire「在外面」，注释家解作「在佛陀的教法之外」。白话直接写「佛法以外」，英文照字面写 outside，不补出是什么之外。",
+       "en": "Bāhire, \"outside,\" is explained by the commentators as \"outside the Buddha's teaching.\" The plain Chinese says 佛法以外 (\"outside the Buddha-dharma\") outright; the English keeps the bare \"outside.\""
+      }
+     ]
+    },
+    {
+     "h": "52be6a6c",
+     "en": "There is no track in the sky, no true renunciant outside. Conditioned things are not eternal; the buddhas do not waver."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 19 · The Just (Dhammaṭṭhavagga)",
+   "verses": [
+    {
+     "h": "020692fc",
+     "en": "One is not just because one settles a case hastily. The wise one should judge both right and wrong.",
+     "cmp": [
+      {
+       "w": "dhammaṭṭho",
+       "note": "dhammaṭṭha 字面是「站在法上的」，在这几偈里接近「公正的法官」：注释故事里讲的是收贿断案的法官。白话「安住于法的人」偏修行；英文 just 偏司法。",
+       "en": "Dhammaṭṭha literally means \"standing in dhamma,\" and in these verses it is close to \"a just judge\": the commentarial story is about judges who took bribes. The plain Chinese 安住于法的人 (\"one who abides in the Dhamma\") leans toward spiritual practice; the English \"just\" leans toward the law court."
+      }
+     ]
+    },
+    {
+     "h": "29ac30eb",
+     "en": "The intelligent one who guides others without haste, justly and impartially, who is a guardian of the Dhamma, is called \"just.\""
+    },
+    {
+     "h": "c8de1c6c",
+     "en": "One is not wise just because one speaks a lot. One who is secure, without hatred, without fear, is called \"wise.\""
+    },
+    {
+     "h": "4eb41b8f",
+     "en": "One is not a bearer of the Dhamma just because one speaks a lot. But one who, having heard even a little, sees the Dhamma with his own body and is not careless about the Dhamma: he is truly a bearer of the Dhamma.",
+     "cmp": [
+      {
+       "w": "kāyena passati",
+       "note": "「用身体看见法」：意思是亲身体证，不是只在头脑里懂。白话「用身体去实证」、英文 sees ... with his own body 都照字面。",
+       "en": "\"Sees the Dhamma with the body\" means realizing it in one's own experience, not just understanding it in the head. The plain Chinese 用身体去实证 (\"realize with the body\") and the English both keep the literal wording."
+      }
+     ]
+    },
+    {
+     "h": "80d31c47",
+     "en": "One is not an elder just because his head is gray. He is ripe in years, but he is called \"one grown old in vain.\"",
+     "cmp": [
+      {
+       "w": "thero",
+       "note": "thera「长老」，在僧团里指受戒十年以上的比丘。这一偈和下一偈是在给这个头衔重新下定义。白话括号里说明了；英文 elder 没有点出僧团的意思。",
+       "en": "A thera, \"elder,\" is a bhikkhu ordained ten years or more. This verse and the next redefine the title. The plain Chinese explains it in brackets; the English \"elder\" doesn't show the monastic sense."
+      }
+     ]
+    },
+    {
+     "h": "b9b5f467",
+     "en": "In whom there is truth and Dhamma, harmlessness, restraint and self-taming: that wise one who has thrown off his stains is called \"an elder.\""
+    },
+    {
+     "h": "3dbf0e5d",
+     "en": "Not by mere eloquence, nor by a lovely complexion, does an envious, stingy, deceitful person become good-hearted."
+    },
+    {
+     "h": "6a4ba36a",
+     "en": "But one in whom this is cut off, uprooted and destroyed, that intelligent one who has thrown off his faults, is called \"good-hearted.\""
+    },
+    {
+     "h": "742cb66a",
+     "en": "Not by a shaven head does one who is undisciplined and speaks falsely become a renunciant. How could one full of desire and greed be a renunciant?"
+    },
+    {
+     "h": "75283e21",
+     "en": "But one who calms all evil, small and large, completely, because he has calmed evil, is called a renunciant.",
+     "cmp": [
+      {
+       "w": "sameti / samaṇo",
+       "note": "这一组偈子都是文字游戏：samaṇa「沙门」被解作 sameti「平息（恶）的人」，下面 bhikkhu 和 bhikkhati、muni 和 mona / munāti 也一样。白话和英文只能译出意思，双关译不出来。",
+       "en": "This group of verses plays on words: samaṇa, \"renunciant,\" is glossed as one who sameti, \"calms\" evil; below, bhikkhu plays on bhikkhati, \"to beg,\" and muni on mona, \"silence,\" and munāti, \"to weigh.\" The plain Chinese and the English can give only the meaning; the puns don't carry over."
+      }
+     ]
+    },
+    {
+     "h": "8f01bc36",
+     "en": "One is not a bhikkhu just because he begs from others; taking up a worldly way of life, one is not thereby a bhikkhu.",
+     "cmp": [
+      {
+       "w": "vissaṁ dhammaṁ",
+       "note": "vissa 可以读成「整个的、一切的」，也可以读成「庸俗的、有臭味的」（visa）。白话取后一种写「庸俗的法」，英文 a worldly way of life 也取后一种。",
+       "en": "Vissa can be read as \"whole, all\" or as \"vulgar, foul-smelling.\" The plain Chinese takes the second with 庸俗的法 (\"a vulgar dharma\"), and the English \"a worldly way of life\" does the same."
+      }
+     ]
+    },
+    {
+     "h": "827475f1",
+     "en": "But one who here has set aside both merit and evil, who lives the holy life, who walks in the world with understanding: he is truly called a bhikkhu."
+    },
+    {
+     "h": "d420dcee",
+     "en": "Not by silence does one who is confused and ignorant become a sage. But the wise one who, as if holding up a pair of scales, takes only the best,"
+    },
+    {
+     "h": "137f4555",
+     "en": "and avoids evil: he is a sage, and by that he is a sage. One who weighs both worlds is for that reason called a sage."
+    },
+    {
+     "h": "9536afb7",
+     "en": "One is not noble who harms living beings. By harmlessness toward all living beings one is called \"noble.\""
+    },
+    {
+     "h": "665388e2",
+     "en": "Not by mere precepts and vows, nor by much learning, nor by gaining concentration, nor by sleeping in seclusion,"
+    },
+    {
+     "h": "5be805b9",
+     "en": "nor by thinking, \"I touch the bliss of renunciation that ordinary people do not know,\" bhikkhu, should you rest content while you have not reached the end of the taints."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 20 · The Path (Maggavagga)",
+   "verses": [
+    {
+     "h": "2e7a2149",
+     "en": "Of paths, the eightfold is the best; of truths, the four statements; of all things, dispassion is the best; and of two-footed beings, the one with eyes to see.",
+     "cmp": [
+      {
+       "w": "saccānaṁ caturo padā",
+       "note": "「真理之中，四句最好」：指四圣谛。白话括号里把四谛和八正道都列了出来；英文只写 the four statements，没有展开。",
+       "en": "\"Of truths, the four statements\" means the four noble truths. The plain Chinese lists both the four truths and the eightfold path in brackets; the English just says \"the four statements\" without unpacking them."
+      }
+     ]
+    },
+    {
+     "h": "f5793820",
+     "en": "This is the only path; there is no other for the purification of vision. Follow this path: it bewilders Māra."
+    },
+    {
+     "h": "69594697",
+     "en": "Following this path you will make an end of suffering. I have taught you this path, having understood for myself how to pull out the dart.",
+     "cmp": [
+      {
+       "w": "sallakantanaṁ",
+       "note": "salla「箭、刺」，比喻烦恼和痛苦。白话括号里点明了「烦恼」，英文保留 dart 的画面。",
+       "en": "Salla, \"arrow, dart,\" is an image of defilement and pain. The plain Chinese names \"afflictions\" in brackets; the English keeps the image of the dart."
+      }
+     ]
+    },
+    {
+     "h": "4877ea21",
+     "en": "You yourselves must make the effort; the Tathāgatas only point the way. Those who follow it and meditate will be freed from Māra's bonds."
+    },
+    {
+     "h": "f4e38d4c",
+     "en": "\"All conditioned things are impermanent\": when one sees this with wisdom, one becomes weary of suffering. This is the path to purity.",
+     "cmp": [
+      {
+       "w": "nibbindati",
+       "note": "nibbindati「厌倦、不再着迷」，是看清以后自然的放下，不是厌恶。白话「厌离」、英文 becomes weary of 都照字面。",
+       "en": "Nibbindati means \"grows weary, is no longer enchanted\": a natural letting go after seeing clearly, not disgust. The plain Chinese 厌离 (yànlí, \"turn away in weariness\") and the English \"becomes weary of\" follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "0a0eee92",
+     "en": "\"All conditioned things are suffering\": when one sees this with wisdom, one becomes weary of suffering. This is the path to purity."
+    },
+    {
+     "h": "28421c92",
+     "en": "\"All things are not-self\": when one sees this with wisdom, one becomes weary of suffering. This is the path to purity.",
+     "cmp": [
+      {
+       "w": "sabbe dhammā anattā",
+       "note": "前两偈说的是 saṅkhārā「有为法」，这一偈换成了 dhammā「一切法」，范围更大，连涅槃也包括在内：涅槃虽然不是无常、不是苦，也不是「我」。白话「一切事物」、英文 all things 都保留了这个换词。",
+       "en": "The two verses before speak of saṅkhārā, \"conditioned things\"; this one switches to dhammā, \"all things,\" a wider range that includes even nibbāna: nibbāna is not impermanent or suffering, but it is not a self either. The plain Chinese 一切事物 (\"all things\") and the English \"all things\" both keep the change of word."
+      }
+     ]
+    },
+    {
+     "h": "750dd741",
+     "en": "Not rising when it is time to rise, young and strong but given to idleness, his resolve and thinking sunk low, lazy: such an idle person does not find the path by wisdom."
+    },
+    {
+     "h": "a7df8942",
+     "en": "Guarding his speech, well restrained in mind, let him do nothing unwholesome with the body. Let him purify these three ways of action, and he will gain the path taught by the sages."
+    },
+    {
+     "h": "2d39cd73",
+     "en": "From practice wisdom arises; without practice wisdom is lost. Knowing these two roads, toward growth and toward decline, one should set oneself so that wisdom grows.",
+     "cmp": [
+      {
+       "w": "bhūri",
+       "note": "bhūri 本义是「广大、丰富」，注释家解作「像大地一样广的智慧」。白话、英文都取了「智慧」。yoga 在这里是「专心修习」，跟后来印度的瑜伽派无关。",
+       "en": "Bhūri originally means \"vast, abundant\"; the commentators explain it as \"wisdom as wide as the earth.\" The plain Chinese and the English both take \"wisdom.\" Yoga here means \"dedicated practice,\" unrelated to the later Yoga school."
+      }
+     ]
+    },
+    {
+     "h": "8090e14f",
+     "en": "Cut down the forest, not just a tree; from the forest comes fear. Having cut down the forest and the undergrowth, bhikkhus, be free of the forest.",
+     "cmp": [
+      {
+       "w": "vanaṁ / nibbanā",
+       "note": "文字游戏：vana 既是「树林」也是「欲望」，nibbana「没有树林的」听起来像 nibbāna「涅槃」。英文 free of the forest、白话「没有树林的人」都只能保留字面，双关在注里说明。",
+       "en": "A pun: vana means both \"forest\" and \"desire,\" and nibbana, \"forest-free,\" sounds like nibbāna. The English \"free of the forest\" and the plain Chinese 没有树林的人 (\"forest-free people\") can keep only the literal sense; the pun is explained here."
+      }
+     ]
+    },
+    {
+     "h": "329eef6f",
+     "en": "As long as the undergrowth of a man's desire for women is not cut down, even the smallest bit, his mind is bound, like a suckling calf to its mother."
+    },
+    {
+     "h": "1a8ef30a",
+     "en": "Cut out your self-love, as you would pluck an autumn lily with your hand. Cultivate the path of peace, the nibbāna taught by the Well-gone One (the Buddha).",
+     "cmp": [
+      {
+       "w": "sinehamattano",
+       "note": "sineha 本义是「油、黏腻」，引申为「爱恋」。attano 可以是「对自己的」，也可以是「自己的（爱恋）」。白话写「对自己的贪恋」，英文 self-love 同样读法。",
+       "en": "Sineha originally means \"oil, stickiness,\" and by extension \"affection.\" Attano can mean \"for oneself\" or \"one's own (affection).\" The plain Chinese 对自己的贪恋 (\"attachment to oneself\") and the English \"self-love\" take the same reading."
+      }
+     ]
+    },
+    {
+     "h": "221ba8f7",
+     "en": "\"Here I will live in the rains, here in winter and summer\": so the fool plans, not aware of the danger."
+    },
+    {
+     "h": "741b13dc",
+     "en": "That man, drunk on his children and cattle, his mind attached, death seizes and carries off, as a great flood sweeps away a sleeping village."
+    },
+    {
+     "h": "e8984607",
+     "en": "Sons are no protection, nor a father, nor relatives; for one seized by the Ender (death), there is no protection in kin."
+    },
+    {
+     "h": "0ab8e624",
+     "en": "Understanding the force of this, the wise one, restrained by virtue, should quickly clear the path that leads to nibbāna."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 21 · Miscellaneous (Pakiṇṇakavagga)",
+   "verses": [
+    {
+     "h": "0faa65af",
+     "en": "If by giving up a small happiness one sees a great happiness, the wise one, seeing the great happiness, gives up the small."
+    },
+    {
+     "h": "58e089f9",
+     "en": "One who seeks his own happiness by causing pain to others, entangled in the bonds of hatred, is not freed from hatred."
+    },
+    {
+     "h": "04ff10c6",
+     "en": "What should be done is neglected, what should not be done is done: for the proud and careless, the taints increase."
+    },
+    {
+     "h": "50f7ba97",
+     "en": "But for those who always keep mindfulness of the body well set up, who do not pursue what should not be done and persist in what should be done, the mindful and clearly knowing, the taints come to an end."
+    },
+    {
+     "h": "4ebb10ad",
+     "en": "Having killed mother and father and two warrior kings, having destroyed a kingdom with its officials, the brahmin goes on untroubled.",
+     "cmp": [
+      {
+       "w": "mātaraṁ pitaraṁ hantvā",
+       "note": "这两偈是谜语：母亲是渴爱，父亲是「我慢」，两位国王是常见和断见，国家和官员是六根六境与对它们的贪着，第五个「老虎」是疑盖（或五盖）。这里的「婆罗门」指已断尽烦恼的阿罗汉。白话只在括号里点了「修行完成的人」，英文正文照字面，谜底写在注里。",
+       "en": "These two verses are a riddle: the mother is craving, the father is conceit, the two kings are the views of eternalism and annihilationism, the kingdom with its officials is the senses and their objects with the attachment to them, and the fifth, \"the tiger,\" is the hindrance of doubt (or the five hindrances). The \"brahmin\" here is an arahant. The plain Chinese hints only at \"one who has completed the practice\" in brackets; the English text stays literal and the answer is given in this note."
+      }
+     ]
+    },
+    {
+     "h": "2ee3b820",
+     "en": "Having killed mother and father and two brahmin kings, having killed the tiger as the fifth, the brahmin goes on untroubled."
+    },
+    {
+     "h": "546fb498",
+     "en": "The disciples of Gotama (the Buddha's family name) always wake up well awake, whose mindfulness, day and night, is always on the Buddha."
+    },
+    {
+     "h": "09334552",
+     "en": "The disciples of Gotama always wake up well awake, whose mindfulness, day and night, is always on the Dhamma."
+    },
+    {
+     "h": "b35d2f48",
+     "en": "The disciples of Gotama always wake up well awake, whose mindfulness, day and night, is always on the Sangha."
+    },
+    {
+     "h": "6e53a2ae",
+     "en": "The disciples of Gotama always wake up well awake, whose mindfulness, day and night, is always on the body."
+    },
+    {
+     "h": "db3a3a4f",
+     "en": "The disciples of Gotama always wake up well awake, whose minds, day and night, delight in harmlessness."
+    },
+    {
+     "h": "d5a8c0a3",
+     "en": "The disciples of Gotama always wake up well awake, whose minds, day and night, delight in meditation."
+    },
+    {
+     "h": "d268026b",
+     "en": "Hard is going forth, hard to delight in it; hard is household life, and painful. Painful is living with those who are not alike; painful is wandering on, for the wanderer is beset by suffering. So do not be a wanderer, and do not be beset by suffering.",
+     "cmp": [
+      {
+       "w": "addhagū",
+       "note": "addhagū「走长路的人」，指在生死轮回里奔走的人。白话「在生死路上奔走的人」补出了「生死」，英文 wanderer 照字面。",
+       "en": "Addhagū, \"one who travels the long road,\" means one wandering in the round of rebirth. The plain Chinese 在生死路上奔走的人 (\"one running on the road of birth and death\") supplies \"birth and death\"; the English \"wanderer\" stays literal."
+      }
+     ]
+    },
+    {
+     "h": "b9dc67dc",
+     "en": "One who has faith, is complete in virtue, and is blessed with good name and wealth is honored wherever he goes."
+    },
+    {
+     "h": "17597436",
+     "en": "The good shine from afar, like the Himalaya mountains; the bad are not seen even when near, like arrows shot in the night."
+    },
+    {
+     "h": "f5349882",
+     "en": "Sitting alone, sleeping alone, walking alone without slacking, alone taming himself, he should find delight at the forest's edge."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 22 · Hell (Nirayavagga)",
+   "verses": [
+    {
+     "h": "80bb6474",
+     "en": "The one who says what did not happen goes to hell, and so does the one who, having done something, says, \"I didn't do it.\" Both become alike after death, people of base deeds in the world beyond."
+    },
+    {
+     "h": "37e1b70d",
+     "en": "Many with the ochre robe around their necks are of evil character and unrestrained. These evildoers, by their evil deeds, are reborn in hell."
+    },
+    {
+     "h": "c1d8eac2",
+     "en": "Better to swallow a red-hot iron ball, burning like a flame, than for one without virtue and restraint to eat the alms of the country.",
+     "cmp": [
+      {
+       "w": "raṭṭhapiṇḍaṁ",
+       "note": "raṭṭha-piṇḍa「国家的食团」，指百姓供养给出家人的饭。白话「全国百姓供养的饭」、英文 the alms of the country 都补出了「供养」。",
+       "en": "Raṭṭha-piṇḍa, \"the country's alms-food,\" is the food lay people give to renunciants. The plain Chinese 全国百姓供养的饭 (\"food offered by the people of the whole country\") and the English \"the alms of the country\" both make the giving explicit."
+      }
+     ]
+    },
+    {
+     "h": "93d26bd6",
+     "en": "Four things befall the careless man who goes after another's wife: a gain of demerit, an uneasy sleep, blame as the third, and hell as the fourth.",
+     "cmp": [
+      {
+       "w": "apuññalābhaṁ",
+       "note": "a-puñña-lābha「得到非福」，就是造下了恶业。白话写「得到恶报」，把「造业」说成了「受报」；英文 a gain of demerit 照字面。",
+       "en": "A-puñña-lābha, \"a gain of demerit,\" means making bad kamma. The plain Chinese 得到恶报 (\"receiving evil retribution\") turns making kamma into receiving its result; the English \"a gain of demerit\" stays literal."
+      }
+     ]
+    },
+    {
+     "h": "c06e7bf4",
+     "en": "A gain of demerit and a bad destination; the brief pleasure of a frightened man with a frightened woman; and the king imposes a heavy punishment. So a man should not go after another's wife."
+    },
+    {
+     "h": "76dc0b1f",
+     "en": "As kusa grass wrongly grasped cuts the hand, so the renunciant's life wrongly handled drags one down to hell."
+    },
+    {
+     "h": "fdc0a223",
+     "en": "Any slack action, any corrupted vow, a holy life lived under suspicion: none of these brings great fruit."
+    },
+    {
+     "h": "bfb3188a",
+     "en": "If something is to be done, do it; take it on firmly. A slack wanderer only scatters more dust."
+    },
+    {
+     "h": "bcbb03ba",
+     "en": "A bad deed is better left undone, for a bad deed torments you afterwards; a good deed is better done, for having done it you have no regret."
+    },
+    {
+     "h": "596ccb86",
+     "en": "Like a frontier city guarded inside and out, so guard yourselves. Do not let the moment pass you by; those who let the moment pass grieve when they are consigned to hell.",
+     "cmp": [
+      {
+       "w": "khaṇo",
+       "note": "khaṇa「时机」，注释家解作「生而为人、遇到佛法」这个难得的时机。白话「时机」、英文 the moment 都照字面。",
+       "en": "Khaṇa, \"the moment, the opportunity,\" is explained by the commentators as the rare chance of being born human and meeting the Dhamma. The plain Chinese 时机 (shíjī) and the English \"the moment\" stay literal."
+      }
+     ]
+    },
+    {
+     "h": "ed93aad4",
+     "en": "Ashamed of what is not shameful, unashamed of what is shameful, holding wrong views, beings go to a bad destination."
+    },
+    {
+     "h": "6db9503a",
+     "en": "Seeing danger where there is none and no danger where there is danger, holding wrong views, beings go to a bad destination."
+    },
+    {
+     "h": "8fd6a7ba",
+     "en": "Seeing fault where there is none and no fault where there is fault, holding wrong views, beings go to a bad destination."
+    },
+    {
+     "h": "6918eefb",
+     "en": "Knowing fault as fault and the faultless as faultless, holding right views, beings go to a good destination."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 23 · The Elephant (Nāgavagga)",
+   "verses": [
+    {
+     "h": "8234a60b",
+     "en": "As an elephant in battle endures the arrow shot from the bow, so I will endure abuse; for most people are of poor conduct.",
+     "cmp": [
+      {
+       "w": "nāgo",
+       "note": "nāga 可以是「大象」，也可以是「龙、蛇」，还可以比喻「圣者、大人物」。这一品的 nāga 都是大象，但也暗含「圣者」的意思。白话「大象」、英文 elephant 只能取一层。",
+       "en": "Nāga can mean \"elephant,\" \"serpent, dragon,\" or figuratively \"a great one, a sage.\" In this chapter it is the elephant, with the sense of \"great one\" in the background. The plain Chinese 大象 (dàxiàng, \"elephant\") and the English \"elephant\" can take only one layer."
+      }
+     ]
+    },
+    {
+     "h": "27ed6f08",
+     "en": "They lead the tamed one into a crowd; the king mounts the tamed one. Best among people is the tamed one who endures abuse."
+    },
+    {
+     "h": "f40cece5",
+     "en": "Excellent are tamed mules, thoroughbred horses from the Sindhu, and great tusked elephants; but one who has tamed himself is better still."
+    },
+    {
+     "h": "7657df95",
+     "en": "For not by these mounts can one go to the land never gone to, as the tamed one goes by his own well-tamed self."
+    },
+    {
+     "h": "3a373a99",
+     "en": "The elephant called Dhanapāla (\"Guardian of Wealth\"), in fierce rut and hard to hold back, eats not a mouthful when bound: the elephant longs for the elephant forest."
+    },
+    {
+     "h": "03f34b35",
+     "en": "When someone is sluggish and a glutton, a sleeper who rolls about as he lies, like a great hog fattened on fodder, that dullard goes into the womb again and again."
+    },
+    {
+     "h": "0dc8220f",
+     "en": "This mind used to wander wherever it wished, wherever it liked, as it pleased. Today I will hold it in check wisely, as the trainer with his hook holds an elephant in rut."
+    },
+    {
+     "h": "5dba2a1d",
+     "en": "Delight in heedfulness, guard your own minds. Pull yourselves out of the hard place, like an elephant sunk in the mud."
+    },
+    {
+     "h": "27b47e37",
+     "en": "If you find a wise companion to walk with you, of good conduct and steady, overcoming all dangers, walk with him gladly and mindfully."
+    },
+    {
+     "h": "2f2f38da",
+     "en": "If you do not find a wise companion to walk with you, of good conduct and steady, then, like a king who has left a conquered kingdom, walk alone, like an elephant in the elephant forest."
+    },
+    {
+     "h": "edc95091",
+     "en": "Better to walk alone; there is no companionship with a fool. Walk alone and do no evil, at ease, like an elephant in the elephant forest."
+    },
+    {
+     "h": "08b55063",
+     "en": "Friends are a joy when need arises; contentment with whatever there is is a joy; merit is a joy at the end of life; the abandoning of all suffering is a joy."
+    },
+    {
+     "h": "fef15e46",
+     "en": "A joy in the world is caring for one's mother, and a joy is caring for one's father; a joy in the world is honoring renunciants, and a joy is honoring brahmins.",
+     "cmp": [
+      {
+       "w": "matteyyatā / sāmaññatā",
+       "note": "matteyyatā 可以是「孝敬母亲」，也可以是「慈母般的心」；sāmaññatā、brahmaññatā 可以是「敬重沙门、婆罗门」，也可以是「做沙门、做婆罗门（的品格）」。白话和英文都取注释家的「孝敬、敬重」读法。",
+       "en": "Matteyyatā can mean \"caring for one's mother\" or \"being motherly\"; sāmaññatā and brahmaññatā can mean \"honoring renunciants and brahmins\" or \"the character of a renunciant, of a brahmin.\" The plain Chinese and the English both follow the commentarial reading of \"caring for, honoring.\""
+      }
+     ]
+    },
+    {
+     "h": "7a1c374d",
+     "en": "A joy is virtue lasting into old age; a joy is faith firmly planted; a joy is the gaining of wisdom; a joy is not doing evil."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 24 · Craving (Taṇhāvagga)",
+   "verses": [
+    {
+     "h": "4a9f516d",
+     "en": "For a person who lives carelessly, craving grows like a māluvā creeper. He leaps from life to life, like a monkey in the forest looking for fruit.",
+     "cmp": [
+      {
+       "w": "taṇhā",
+       "note": "taṇhā 字面是「口渴」。白话「渴爱」、英文 craving 都保留了停不下来的饥渴。",
+       "en": "Taṇhā literally means \"thirst.\" The plain Chinese 渴爱 (kě'ài, \"thirsting love\") and the English \"craving\" both keep the restless hunger."
+      },
+      {
+       "w": "hurā huraṁ",
+       "note": "hurā huraṁ「从这里到那里」，注释家解作从一世到另一世。白话、英文都取了这个解释。",
+       "en": "Hurā huraṁ, \"from here to there,\" is explained by the commentators as from one life to the next. The plain Chinese and the English both take that reading."
+      }
+     ]
+    },
+    {
+     "h": "e3330335",
+     "en": "Whoever is overcome by this wretched craving, this clinging in the world, his sorrows grow like bīraṇa grass after rain."
+    },
+    {
+     "h": "d252228a",
+     "en": "But whoever overcomes this wretched craving, so hard to get past in the world, his sorrows fall away from him like drops of water from a lotus leaf."
+    },
+    {
+     "h": "f89f0cc6",
+     "en": "So I say to you, all who are gathered here, good fortune to you: dig up the root of craving, as one who wants the fragrant root digs up bīraṇa grass. Do not let Māra break you again and again, as a stream breaks a reed.",
+     "cmp": [
+      {
+       "w": "usīratthova",
+       "note": "usīra 是毗罗那草（bīraṇa）的香根，可以做香料。白话「要香根的人」、英文 one who wants the fragrant root 都补出了「香根」。",
+       "en": "Usīra is the fragrant root of bīraṇa grass, used for perfume. The plain Chinese 要香根的人 (\"one who wants the fragrant root\") and the English both supply \"fragrant root.\""
+      }
+     ]
+    },
+    {
+     "h": "67a00184",
+     "en": "As a tree, though cut down, grows again if its roots are unharmed and firm, so while the underlying tendency to craving is not rooted out, this suffering arises again and again.",
+     "cmp": [
+      {
+       "w": "anusaye",
+       "note": "anusaya「随眠、潜在倾向」：平时睡着、条件一到就醒来的烦恼。白话「潜伏的习性」、英文 underlying tendency 都译出了。",
+       "en": "Anusaya, \"latent tendency\": a defilement that lies dormant and wakes when conditions arise. The plain Chinese 潜伏的习性 (\"lurking habit\") and the English \"underlying tendency\" both convey it."
+      }
+     ]
+    },
+    {
+     "h": "6ff282f7",
+     "en": "One in whom the thirty-six streams rushing toward the pleasant are strong: his thoughts bound up with passion sweep away that person of wrong view.",
+     "cmp": [
+      {
+       "w": "chattiṁsati sotā",
+       "note": "「三十六条水流」，注释家解作十八种渴爱（对六根、六境、六识）乘以内外两种。白话、英文都照字面，没有展开。",
+       "en": "\"Thirty-six streams\": the commentators explain them as eighteen kinds of craving (for the six senses, six objects and six consciousnesses), times two, internal and external. The plain Chinese and the English stay literal without unpacking it."
+      }
+     ]
+    },
+    {
+     "h": "599635de",
+     "en": "The streams flow everywhere; the creeper sprouts and takes hold. Seeing that the creeper has grown, cut its root with wisdom."
+    },
+    {
+     "h": "891feee8",
+     "en": "A person's pleasures are flowing and oiled with affection. Bound to what is agreeable, seeking happiness, such people are subject to birth and old age."
+    },
+    {
+     "h": "289fedf7",
+     "en": "Driven by craving, people run about like a snared hare. Caught in fetters and attachments, they come to suffering again and again, for a long time."
+    },
+    {
+     "h": "0577845d",
+     "en": "Driven by craving, people run about like a snared hare. Therefore one who longs for his own freedom from passion should drive out craving.",
+     "cmp": [
+      {
+       "w": "ākaṅkhanta",
+       "note": "本站底本这一句没有 bhikkhu「比丘」，白话加了「比丘」；别的版本有作 bhikkhu ākaṅkhī virāgam attano 的。英文照底本写 one who longs。",
+       "en": "This edition has no bhikkhu in this line, yet the plain Chinese adds 比丘 (bǐqiū, \"monk\"); some other editions read bhikkhu ākaṅkhī virāgam attano. The English follows this edition with \"one who longs.\""
+      }
+     ]
+    },
+    {
+     "h": "7ce9628e",
+     "en": "One who has left the forest but is drawn to the forest, freed from the forest, runs right back to the forest: come, look at that person, freed, he runs right back into bondage.",
+     "cmp": [
+      {
+       "w": "nibbanatho vanādhimutto",
+       "note": "又是 vana「树林／欲望」的双关（见第 283 偈）：离开了欲望的林子，心又倾向欲望，跑回去。这一偈注释家讲的是一位还俗的比丘。白话「心倾向林外的自由」和原文不太合：vanādhimutto 是「倾心于林子」。英文 drawn to the forest 照原文。",
+       "en": "Another pun on vana, \"forest / desire\" (see verse 283): having left the forest of desire, the mind leans back toward it and runs back. The commentarial story is about a monk who returned to lay life. The plain Chinese 心倾向林外的自由 (\"the mind inclines to freedom outside the forest\") doesn't quite fit: vanādhimutto means \"drawn to the forest.\" The English \"drawn to the forest\" follows the Pali."
+      }
+     ]
+    },
+    {
+     "h": "9ca6f3eb",
+     "en": "The wise do not call that a strong bond which is made of iron, wood or rope; but infatuation with jewels and earrings, and longing for children and wives:"
+    },
+    {
+     "h": "c4a8caff",
+     "en": "that, say the wise, is the strong bond, dragging down, loose-seeming, hard to undo. Cutting even this, they go forth, free of longing, having left sensual pleasure behind."
+    },
+    {
+     "h": "eb8ef6f6",
+     "en": "Those dyed with passion fall back into the stream they themselves made, as a spider into its own web. Cutting even this, the wise go on, free of longing, having left all suffering behind."
+    },
+    {
+     "h": "c1bbdfaf",
+     "en": "Let go of the past, let go of the future, let go of the present, gone beyond existence. With your mind released in every way, you will not come again to birth and old age.",
+     "cmp": [
+      {
+       "w": "pure / pacchato / majjhe",
+       "note": "「前、后、中」，注释家解作过去、未来、现在。白话照字面写「前面、后面、中间」，英文直接写 past / future / present。",
+       "en": "\"In front, behind, in the middle\" is explained by the commentators as past, future and present. The plain Chinese keeps the literal 前面、后面、中间 (\"in front, behind, in between\"); the English says \"past / future / present\" directly."
+      }
+     ]
+    },
+    {
+     "h": "b1c03fc6",
+     "en": "For a person churned by thoughts, of strong passion, looking at what is attractive, craving grows all the more: he is making his bond stronger."
+    },
+    {
+     "h": "58d4e6d4",
+     "en": "But one who delights in calming thoughts, who always mindfully develops the perception of the unattractive, he will make an end of craving, he will cut Māra's bond.",
+     "cmp": [
+      {
+       "w": "asubhaṁ",
+       "note": "asubha「不美」：观察身体并不美好，用来对治贪恋（参见《大念处经》观身的部分）。白话括号里说明了；英文 the perception of the unattractive 照字面。",
+       "en": "Asubha, \"the unattractive\": contemplating the body as not beautiful, as an antidote to lust (see the body contemplations in the Great Discourse on Mindfulness). The plain Chinese explains it in brackets; the English \"the perception of the unattractive\" is literal."
+      }
+     ]
+    },
+    {
+     "h": "cf5089fa",
+     "en": "He has reached the goal, fearless, free of craving, without blemish; he has cut out the darts of existence. This is his last body."
+    },
+    {
+     "h": "0bd3b4db",
+     "en": "Free of craving, without grasping, skilled in words and their meanings, knowing how letters combine and which comes before and after: he is called \"one in his last body, of great wisdom, a great person.\"",
+     "cmp": [
+      {
+       "w": "niruttipadakovido",
+       "note": "「通晓词句和语言」：注释家解作通达四无碍解（义、法、词、辩）。这一偈把阿罗汉描写成精通语言的人，有点出人意料。白话、英文都照字面。",
+       "en": "\"Skilled in words and their meanings\": the commentators explain it as mastery of the four analytical knowledges (of meaning, of teaching, of language, of eloquence). Describing an arahant as an expert in language is a little surprising. The plain Chinese and the English both stay literal."
+      }
+     ]
+    },
+    {
+     "h": "3d2a0f9e",
+     "en": "\"I have overcome all, I know all, I am untainted by all things. I have let go of all, freed in the ending of craving. Having understood by myself, whom should I point to as my teacher?\"",
+     "cmp": [
+      {
+       "w": "kamuddiseyyaṁ",
+       "note": "传统说这是佛陀觉悟后对外道 Upaka 说的话：他的觉悟没有老师。白话、英文都照字面，没有补出这个背景。",
+       "en": "Tradition says the Buddha spoke this after his awakening to the wandering ascetic Upaka: his awakening had no teacher. The plain Chinese and the English stay literal without adding this background."
+      }
+     ]
+    },
+    {
+     "h": "2b14d6c3",
+     "en": "The gift of the Dhamma surpasses all gifts; the taste of the Dhamma surpasses all tastes; delight in the Dhamma surpasses all delights; the ending of craving overcomes all suffering."
+    },
+    {
+     "h": "d0d9dccf",
+     "en": "Wealth destroys the foolish, but not those who seek the far shore. Through craving for wealth the fool destroys himself as he would destroy others."
+    },
+    {
+     "h": "e04973f6",
+     "en": "Fields are spoiled by weeds; people are spoiled by passion. So what is given to those free of passion bears great fruit."
+    },
+    {
+     "h": "d8f5038a",
+     "en": "Fields are spoiled by weeds; people are spoiled by hatred. So what is given to those free of hatred bears great fruit."
+    },
+    {
+     "h": "a45f89c8",
+     "en": "Fields are spoiled by weeds; people are spoiled by delusion. So what is given to those free of delusion bears great fruit."
+    },
+    {
+     "h": "738c0434",
+     "en": "Fields are spoiled by weeds; people are spoiled by wanting. So what is given to those free of wanting bears great fruit."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 25 · The Bhikkhu (Bhikkhuvagga)",
+   "verses": [
+    {
+     "h": "bde5ec3e",
+     "en": "Restraint of the eye is good, good is restraint of the ear; restraint of the nose is good, good is restraint of the tongue."
+    },
+    {
+     "h": "04c310fe",
+     "en": "Restraint of the body is good, good is restraint of speech; restraint of the mind is good, good is restraint everywhere. The bhikkhu restrained everywhere is freed from all suffering."
+    },
+    {
+     "h": "0ea2d127",
+     "en": "Controlled in hand, controlled in foot, controlled in speech, controlled in the highest, delighting within, composed, alone and content: him they call a bhikkhu.",
+     "cmp": [
+      {
+       "w": "saṁyatuttamo",
+       "note": "saṁyat-uttama 可以读成「在最高处（头）受控制的」，也可以读成「最受控制的」。白话取前一种并补了「头脑」；英文 controlled in the highest 照字面保留两可。",
+       "en": "Saṁyat-uttama can be read as \"controlled in the highest part (the head)\" or as \"supremely controlled.\" The plain Chinese takes the first and adds 头脑 (\"the head\"); the English \"controlled in the highest\" keeps both readings open."
+      }
+     ]
+    },
+    {
+     "h": "61ae4034",
+     "en": "The bhikkhu who controls his mouth, who speaks wisely and is not puffed up, who explains the meaning and the Dhamma: sweet are his words."
+    },
+    {
+     "h": "6c77246a",
+     "en": "Dwelling in the Dhamma, delighting in the Dhamma, reflecting on the Dhamma, recollecting the Dhamma, a bhikkhu does not fall away from the true Dhamma."
+    },
+    {
+     "h": "7f274da8",
+     "en": "Do not look down on what you have received, and do not live envying others. A bhikkhu who envies others does not attain concentration."
+    },
+    {
+     "h": "67d4a8e8",
+     "en": "Though a bhikkhu receives little, if he does not look down on what he receives, the gods praise him, pure in livelihood and not lazy."
+    },
+    {
+     "h": "8310ea60",
+     "en": "One who has no sense of \"mine\" toward name-and-form in any way, and does not grieve for what is not: he is truly called a bhikkhu.",
+     "cmp": [
+      {
+       "w": "asatā ca na socati",
+       "note": "asatā 可以读成「因为（它）不存在了」，也可以读成「对不存在的东西」。白话「失去了也不忧愁」意译；英文 does not grieve for what is not 照字面。",
+       "en": "Asatā can be read as \"because it no longer exists\" or \"over what does not exist.\" The plain Chinese 失去了也不忧愁 (\"not grieving when it is lost\") paraphrases; the English \"does not grieve for what is not\" stays literal."
+      }
+     ]
+    },
+    {
+     "h": "2dea670e",
+     "en": "The bhikkhu who dwells in loving-kindness, with clear confidence in the Buddha's teaching, will reach the peaceful state, the happiness of the stilling of conditioned things.",
+     "cmp": [
+      {
+       "w": "mettāvihārī",
+       "note": "mettā「慈」来自 mitta「朋友」，是朋友般的善意。白话「慈心」、英文 loving-kindness 都是约定俗成的译法（参见《慈经》）。",
+       "en": "Mettā comes from mitta, \"friend\": the goodwill of a friend. The plain Chinese 慈心 (cíxīn) and the English \"loving-kindness\" are the conventional renderings (see the Discourse on Loving-kindness)."
+      }
+     ]
+    },
+    {
+     "h": "2edb2c96",
+     "en": "Bail out this boat, bhikkhu; once bailed, it will go lightly for you. Having cut off passion and hatred, you will reach nibbāna."
+    },
+    {
+     "h": "7d63b1da",
+     "en": "Cut off five, give up five, and develop five more. The bhikkhu who has gone beyond five attachments is called \"one who has crossed the flood.\"",
+     "cmp": [
+      {
+       "w": "pañca",
+       "note": "这一偈是个数字谜：注释家说，要斩断的五样是五下分结，要舍弃的五样是五上分结，要修习的五样是信、精进、念、定、慧五根，五种执著是贪、瞋、痴、慢、见。白话、英文都照字面，答案写在注里。",
+       "en": "This verse is a number puzzle. According to the commentators, the five to cut off are the five lower fetters, the five to give up are the five higher fetters, the five to develop are the five faculties (faith, energy, mindfulness, concentration, wisdom), and the five attachments are greed, hatred, delusion, conceit and views. The plain Chinese and the English stay literal; the answers are given here."
+      }
+     ]
+    },
+    {
+     "h": "75baf6d7",
+     "en": "Meditate, bhikkhu, do not be careless; do not let your mind whirl in sensual pleasures. Do not carelessly swallow the iron ball, and cry, as you burn, \"This is suffering!\""
+    },
+    {
+     "h": "184a56f9",
+     "en": "There is no meditation for one without wisdom, no wisdom for one who does not meditate. One who has both meditation and wisdom is close to nibbāna.",
+     "cmp": [
+      {
+       "w": "jhānaṁ",
+       "note": "jhāna 是深度专注的心境，中文译「禅定」，英文这里写 meditation，是为了读起来顺；更准确的是「禅那、入定」。",
+       "en": "Jhāna is a state of deep absorption, rendered 禅定 (chándìng) in Chinese. The English uses \"meditation\" here for readability; more precisely it is meditative absorption."
+      }
+     ]
+    },
+    {
+     "h": "232edba0",
+     "en": "For a bhikkhu who has entered an empty dwelling, his mind at peace, seeing the Dhamma rightly, there is a joy beyond the human."
+    },
+    {
+     "h": "f9ee1d29",
+     "en": "Whenever he reflects on the rising and passing away of the aggregates, he gains joy and gladness: for those who understand, that is the deathless."
+    },
+    {
+     "h": "7b84f707",
+     "en": "For a wise bhikkhu, this is the beginning here: guarding the senses, contentment, and restraint according to the Pātimokkha (the core monastic code)."
+    },
+    {
+     "h": "b0fa8960",
+     "en": "Keep company with good friends, pure in livelihood and not lazy. Be friendly in your ways, skilled in conduct; then, full of gladness, you will make an end of suffering."
+    },
+    {
+     "h": "66f43d32",
+     "en": "As the jasmine sheds its withered flowers, so, bhikkhus, should you shed passion and hatred."
+    },
+    {
+     "h": "76f3a95e",
+     "en": "Calm in body, calm in speech, calm and well composed, the bhikkhu who has spat out the bait of the world is called \"one at peace.\"",
+     "cmp": [
+      {
+       "w": "lokāmiso",
+       "note": "āmisa「诱饵、肉」，世间的诱饵就是欲乐和名利。白话「世间的诱饵」、英文 the bait of the world 都保留了这个画面（参见《大念处经》观受部分）。",
+       "en": "Āmisa means \"bait, flesh\"; the bait of the world is sensual pleasure, fame and gain. The plain Chinese 世间的诱饵 (\"the world's bait\") and the English \"the bait of the world\" both keep the image (see the contemplation of feelings in the Great Discourse on Mindfulness)."
+      }
+     ]
+    },
+    {
+     "h": "05c84a11",
+     "en": "Urge yourself on by yourself, examine yourself by yourself. Self-guarded and mindful, bhikkhu, you will live happily."
+    },
+    {
+     "h": "3590382d",
+     "en": "You are your own refuge; who else could be your refuge? You are your own destination. So restrain yourself, as a merchant trains a fine horse."
+    },
+    {
+     "h": "feb66f16",
+     "en": "The bhikkhu full of gladness, with clear confidence in the Buddha's teaching, will reach the peaceful state, the happiness of the stilling of conditioned things."
+    },
+    {
+     "h": "6a7dfe77",
+     "en": "The bhikkhu who, though young, devotes himself to the Buddha's teaching lights up this world, like the moon set free from a cloud."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 26 · The Brahmin (Brāhmaṇavagga)",
+   "verses": [
+    {
+     "h": "122ff6ce",
+     "en": "Cut the stream with effort, drive out sensual desires, brahmin! Knowing the ending of conditioned things, you are one who knows the unmade, brahmin.",
+     "cmp": [
+      {
+       "w": "brāhmaṇa",
+       "note": "brāhmaṇa 本是古印度的祭司种姓，生来就是。这一品里佛陀把这个词拿过来，重新定义成「真正清净的人」，跟出身无关。白话在括号里说明了；英文保留 brahmin，第 393 偈正面说出这层意思。",
+       "en": "Brāhmaṇa originally means a member of the hereditary priestly caste of ancient India. In this chapter the Buddha takes the word over and redefines it as \"one who is truly pure,\" regardless of birth. The plain Chinese explains this in brackets; the English keeps \"brahmin,\" and verse 393 states the point directly."
+      },
+      {
+       "w": "akataññū",
+       "note": "akataññū 字面可以是「忘恩的」，这里是「知道非造作（涅槃）的」，跟第 97 偈同一个双关。",
+       "en": "Akataññū can mean \"ungrateful,\" but here it means \"knowing the unmade (nibbāna),\" the same pun as in verse 97."
+      }
+     ]
+    },
+    {
+     "h": "a0f4215c",
+     "en": "When the brahmin has gone beyond in two things, all the bonds of that knowing one come to an end.",
+     "cmp": [
+      {
+       "w": "dvayesu dhammesu",
+       "note": "「两种法」，注释家解作止（samatha）和观（vipassanā）。白话、英文都照字面，没有展开。",
+       "en": "\"Two things\" is explained by the commentators as calm (samatha) and insight (vipassanā). The plain Chinese and the English both stay literal without unpacking it."
+      }
+     ]
+    },
+    {
+     "h": "8b1c8fa5",
+     "en": "For whom there is neither this shore nor the far shore nor both, who is free of distress and unbound: him I call a brahmin."
+    },
+    {
+     "h": "5f36dc55",
+     "en": "One who meditates, free of dust, settled, his task done, without taints, who has reached the highest goal: him I call a brahmin."
+    },
+    {
+     "h": "ea0b8a88",
+     "en": "The sun shines by day, the moon glows by night, the warrior shines in his armor, the brahmin shines in meditation; but all day and all night the Buddha shines in his splendor.",
+     "cmp": [
+      {
+       "w": "tapati",
+       "note": "tapati「发热、发光」，跟 tapa「苦行」同根。白话「发光、闪耀」、英文 shines 都只取了光。",
+       "en": "Tapati means \"to glow, to burn,\" from the same root as tapa, \"austerity.\" The plain Chinese 发光、闪耀 (\"give off light, shine\") and the English \"shines\" take only the light."
+      }
+     ]
+    },
+    {
+     "h": "f5912991",
+     "en": "Because he has put away evil he is called a brahmin; because he lives in calm he is called a renunciant; because he drives out his own stains he is called one who has gone forth.",
+     "cmp": [
+      {
+       "w": "bāhitapāpo / samacariyā / pabbājayaṁ",
+       "note": "三个都是文字游戏：brāhmaṇa 被解作 bāhita-pāpa「排除了恶的」，samaṇa 被解作 sama-cariyā「平和地行」，pabbajita「出家人」被解作 pabbājeti「赶走（污垢）」。白话、英文都只能译出意思。",
+       "en": "All three are wordplay: brāhmaṇa is glossed as bāhita-pāpa, \"one who has put away evil\"; samaṇa as sama-cariyā, \"living in calm\"; pabbajita, \"one who has gone forth,\" as pabbājeti, \"drives out\" (stains). The plain Chinese and the English can give only the meaning."
+      }
+     ]
+    },
+    {
+     "h": "e153469c",
+     "en": "Do not strike a brahmin, and let no brahmin unleash his anger on the one who strikes him. Shame on the one who strikes a brahmin; greater shame on the one who unleashes his anger."
+    },
+    {
+     "h": "bde523c9",
+     "en": "Nothing is better for a brahmin than this: holding the mind back from what is dear. Wherever the wish to harm turns away, there suffering is stilled."
+    },
+    {
+     "h": "face92cd",
+     "en": "One who does no wrong by body, speech or mind, restrained in these three: him I call a brahmin."
+    },
+    {
+     "h": "21344d5c",
+     "en": "From whomever one learns the Dhamma taught by the Fully Awakened One, one should honor him with care, as a brahmin honors the sacrificial fire."
+    },
+    {
+     "h": "b736dfc2",
+     "en": "Not by matted hair, not by clan, not by birth does one become a brahmin. In whom there is truth and Dhamma, he is pure, he is a brahmin.",
+     "cmp": [
+      {
+       "w": "na jaccā",
+       "note": "jacca「出身」：这一偈正面否定了「婆罗门是生来的」。白话、英文都照字面。古印度的种姓制度是这一品的背景。",
+       "en": "Jacca means \"birth\": this verse directly rejects the idea that one is a brahmin by birth. The plain Chinese and the English both translate literally; the caste system of ancient India is the background of the whole chapter."
+      }
+     ]
+    },
+    {
+     "h": "c665b084",
+     "en": "What use is your matted hair, fool? What use your antelope-skin robe? Inside you is a thicket, and you polish the outside."
+    },
+    {
+     "h": "4b576ad8",
+     "en": "One who wears rag-robes, lean, his veins standing out, meditating alone in the forest: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "paṁsukūla",
+       "note": "paṁsu-kūla 字面是「垃圾堆」，指从垃圾堆、坟场捡来的破布缝成的衣。白话把来历说清楚了；英文 rag-robes 只说了「破布衣」。",
+       "en": "Paṁsu-kūla literally means \"rubbish heap\": robes sewn from rags picked up from rubbish heaps and charnel grounds. The plain Chinese spells out where the cloth comes from; the English \"rag-robes\" says only that they are rags."
+      }
+     ]
+    },
+    {
+     "h": "325171b3",
+     "en": "I do not call him a brahmin who is born of a womb, sprung from a mother. If he still owns things, he is just a \"bho-sayer\" (one who addresses others haughtily). One who owns nothing and grasps at nothing: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "bhovādi",
+       "note": "bho 是婆罗门对别人说话时的称呼，带一点居高临下，像「喂」。bhovādī「说 bho 的人」是在挖苦只有身份、没有德行的婆罗门。白话照字面译成「称呼别人『喂』的人」，英文保留原词并加括号说明。",
+       "en": "Bho is how brahmins addressed others, a little condescending, like \"hey, you.\" Bhovādī, \"a bho-sayer,\" mocks brahmins who have the status but not the virtue. The plain Chinese renders it literally as 称呼别人「喂」的人 (\"one who calls others 'hey'\"); the English keeps the word and explains it in brackets."
+      }
+     ]
+    },
+    {
+     "h": "cf2bc808",
+     "en": "One who has cut every fetter, who does not tremble, who has gone beyond ties and is unbound: him I call a brahmin."
+    },
+    {
+     "h": "7267c749",
+     "en": "One who has cut the strap and the thong, the chain together with its fittings, who has lifted the bar, the awakened one: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "naddhiṁ varattañca",
+       "note": "这一串都是比喻，注释家解作：皮带是瞋恨，绳索是渴爱，链子是六十二种邪见，缰绳是潜在倾向，门闩是无明。白话、英文都照字面。",
+       "en": "These are all images, explained by the commentators as: the strap is hatred, the thong craving, the chain the sixty-two wrong views, its fittings the latent tendencies, and the bar ignorance. The plain Chinese and the English stay literal."
+      }
+     ]
+    },
+    {
+     "h": "49e59bf5",
+     "en": "One who without anger endures abuse, beating and bonds, whose army is the power of patience: him I call a brahmin."
+    },
+    {
+     "h": "67e2158b",
+     "en": "One who is free of anger, devout, virtuous, not swollen with pride, tamed, in his last body: him I call a brahmin."
+    },
+    {
+     "h": "e80854a7",
+     "en": "Like water on a lotus leaf, like a mustard seed on the point of a needle, one who does not cling to sensual pleasures: him I call a brahmin."
+    },
+    {
+     "h": "99e27290",
+     "en": "One who knows, right here, the ending of his own suffering, who has laid down the burden and is unbound: him I call a brahmin."
+    },
+    {
+     "h": "7880e2c4",
+     "en": "One of deep wisdom, intelligent, who knows the path from what is not the path, who has reached the highest goal: him I call a brahmin."
+    },
+    {
+     "h": "2496adfc",
+     "en": "One who does not mix with householders or with the homeless, who wanders without a home and wants little: him I call a brahmin."
+    },
+    {
+     "h": "0130e540",
+     "en": "One who has laid down the rod toward all beings, the trembling and the firm, who neither kills nor causes killing: him I call a brahmin."
+    },
+    {
+     "h": "d7e0989e",
+     "en": "Unhostile among the hostile, at peace among those who take up the rod, not grasping among those who grasp: him I call a brahmin."
+    },
+    {
+     "h": "0fdc9d60",
+     "en": "One from whom passion and hatred, pride and contempt have fallen away like a mustard seed from the point of a needle: him I call a brahmin."
+    },
+    {
+     "h": "8a9ff278",
+     "en": "One who speaks words that are not harsh, that inform, that are true, by which he offends no one: him I call a brahmin."
+    },
+    {
+     "h": "513f1c50",
+     "en": "One who here in the world takes nothing not given, long or short, small or large, fine or poor: him I call a brahmin."
+    },
+    {
+     "h": "37472c94",
+     "en": "One who has no longings for this world or the next, without longing and unbound: him I call a brahmin."
+    },
+    {
+     "h": "3d5377a8",
+     "en": "One who has no attachments, who through understanding is free of doubt, who has plunged into the deathless: him I call a brahmin."
+    },
+    {
+     "h": "92cbfeb9",
+     "en": "One who here has gone beyond the tie to both merit and evil, sorrowless, dustless, pure: him I call a brahmin."
+    },
+    {
+     "h": "ffb7b909",
+     "en": "One who is like the moon, spotless and pure, clear and unclouded, in whom delight in existence is destroyed: him I call a brahmin."
+    },
+    {
+     "h": "8f4257f8",
+     "en": "One who has passed beyond this swampy road, this hard path, the round of rebirth and delusion, who has crossed and reached the far shore, meditative, unmoved, free of doubt, at peace through not clinging: him I call a brahmin."
+    },
+    {
+     "h": "738dc71c",
+     "en": "One who here has given up sensual pleasures and wanders homeless, in whom sensual desire and existence are destroyed: him I call a brahmin."
+    },
+    {
+     "h": "826142e3",
+     "en": "One who here has given up craving and wanders homeless, in whom craving and existence are destroyed: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "taṇhābhavaparikkhīṇaṁ",
+       "note": "本站底本这一段把整首偈抄了两遍，应是录文重复；白话只译一遍，英文也只译一遍。",
+       "en": "This edition copies the whole verse twice, apparently a duplication in the transcription; the plain Chinese translates it once, and so does the English."
+      }
+     ]
+    },
+    {
+     "h": "da30379f",
+     "en": "One who has left behind the human bond and gone beyond the divine bond, released from all bonds: him I call a brahmin."
+    },
+    {
+     "h": "09e02509",
+     "en": "One who has left behind delight and discontent, who has become cool, without a basis for rebirth, a hero who has conquered the whole world: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "sītibhūtaṁ",
+       "note": "sīti-bhūta「变得清凉」：烦恼是火，熄了就凉，跟 nibbāna「熄灭」呼应。白话「清凉」、英文 cool 都保留了这个意思。",
+       "en": "Sīti-bhūta, \"become cool\": the defilements are fire, and when it goes out one is cool, echoing nibbāna, \"going out.\" The plain Chinese 清凉 (qīngliáng) and the English \"cool\" both keep this."
+      }
+     ]
+    },
+    {
+     "h": "4e649c36",
+     "en": "One who knows fully the passing away and rebirth of beings, unattached, well gone, awakened: him I call a brahmin."
+    },
+    {
+     "h": "8bb9865f",
+     "en": "One whose destination gods, gandhabbas and humans do not know, whose taints are destroyed, an arahant: him I call a brahmin."
+    },
+    {
+     "h": "6c4853aa",
+     "en": "One who has nothing before, behind or in between, who owns nothing and grasps at nothing: him I call a brahmin."
+    },
+    {
+     "h": "2c208cc4",
+     "en": "The bull, the noble one, the hero, the great seer, the victor, unmoved, washed clean, awakened: him I call a brahmin.",
+     "cmp": [
+      {
+       "w": "nhātakaṁ",
+       "note": "nhātaka「沐浴过的人」，在婆罗门传统里指学成出师、行过沐浴礼的人；佛陀把它解作洗净了烦恼的人。白话「已洗净」、英文 washed clean 都照字面。",
+       "en": "Nhātaka, \"one who has bathed,\" in brahmin tradition means a student who has finished his studies and taken the ritual bath; the Buddha reinterprets it as one washed clean of defilements. The plain Chinese 已洗净 (yǐ xǐjìng, \"already washed clean\") and the English \"washed clean\" are literal."
+      }
+     ]
+    },
+    {
+     "h": "cc7bd30a",
+     "en": "One who knows his former lives, who sees heaven and the states of woe, who has reached the end of birth, a sage perfected in direct knowledge, who has completed all that is to be completed: him I call a brahmin."
+    }
+   ]
+  }
+ ]
+}

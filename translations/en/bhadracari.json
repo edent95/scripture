@@ -1,0 +1,504 @@
+{
+ "slug": "bhadracari",
+ "title": "The Vow of Good Conduct",
+ "summary": "The sixty-two verses that close the Avatamsaka: homage, offering, confession, rejoicing, and the vow to keep the “good conduct” life after life.",
+ "compare": [
+  "这部偈最关键的词是书名里的 bhadracarī。bhadra 是「好的、吉祥的、贤善的」，carī 是「行、修行的方式」，合起来是「贤善之行」，英文直译 good conduct。中文传统却几乎不用直译：般若译《普贤行愿品》把它和普贤菩萨（Samantabhadra，「处处贤善」）绑在一起，成了「普贤行」。梵文里两层意思都在——bhadra 既是「好」，也是普贤名字的后半——但大部分偈颂只说「好的行」，到后面才明说这是普贤的行。英文照梵文写 good conduct，提到普贤时才写 Samantabhadra，读者能看到这个双关；中文读者看到的一直是「普贤」。",
+  "第二个要点是 jina。梵文偈颂几乎处处称佛为 jina「胜者」（战胜烦恼的人），英文直译 Victorious One；般若的汉译大多改成「如来」「诸佛」，这个「打胜仗」的意象就不见了。同样，narasiṃha「人中狮子」、sugata「善逝」、nātha「救护者」，英文都照字面译出，并在第一次出现时解释。",
+  "第三个现象是体裁和语言。原文是一种带俗语色彩的「佛教混合梵文」：动词常写成 vandami、karomi 这类不规范的形式，读起来像口语诗。般若的汉译是七言偈，句数和梵本大致对应，但常常重组：有的两颂并成一颂（如第 13 颂，汉译一口气写了八句），有的梵颂在汉译里找不到对应（第 17 颂）。英文逐颂照梵文译，不跟汉译的分合。"
+ ],
+ "compareEn": [
+  "The key word in these verses is the one in the title, bhadracarī. Bhadra means “good, auspicious, excellent,” and carī means “conduct, a way of practice”; together, “good conduct,” which is how the English renders it. Chinese tradition almost never translates it literally: Prajna’s Chinese version, the 普贤行愿品 (Pǔxián xíngyuàn pǐn, “Chapter on Samantabhadra’s Conduct and Vows”), ties it to the bodhisattva Samantabhadra (“good in every way”) and makes it 普贤行 (Pǔxián xíng, “Samantabhadra’s conduct”). In the Sanskrit both senses are present, since bhadra is both “good” and the second half of Samantabhadra’s name, but most verses just say “good conduct,” and only later is it named as Samantabhadra’s. The English follows the Sanskrit, writing “good conduct” and using “Samantabhadra” only where he is named, so readers can see the pun; Chinese readers see “Samantabhadra” throughout.",
+  "The second key point is jina. The Sanskrit verses almost everywhere call the buddhas jina, “victor” (one who has conquered the afflictions), which the English renders literally as “Victorious One”; Prajna’s Chinese mostly changes it to 如来 (rúlái, “Thus-Come One”) or 诸佛 (zhū fó, “the buddhas”), and the image of winning a battle disappears. In the same way, narasiṃha (“lion among men”), sugata (“the one who has gone well”) and nātha (“protector”) are all translated literally in the English and explained at their first appearance.",
+  "The third point is the form and language. The original is in a kind of “Buddhist Hybrid Sanskrit” colored by vernacular speech: verbs often appear in irregular forms like vandami and karomi, and it reads like spoken verse. Prajna’s Chinese is in seven-character lines that roughly match the Sanskrit verse count, but it often regroups them: sometimes two verses are merged into one (verse 13, where the Chinese runs on for eight lines), and sometimes a Sanskrit verse has no Chinese counterpart (verse 17). The English translates verse by verse from the Sanskrit and does not follow the Chinese merges and splits."
+ ],
+ "chapters": [
+  {
+   "title": "The Vow of Good Conduct",
+   "verses": [
+    {
+     "h": "caa3b19a",
+     "en": "However many lions among men (buddhas) there are in the worlds of the ten directions, gone into all three times (past, present and future), I bow to every one of them, with none left out, clear and glad in body, speech and mind.",
+     "cmp": [
+      {
+       "w": "narasiṃha",
+       "note": "「人中狮子」，佛的称号。英文 lions among men 照字面译，括号说明是指佛；般若译「人师子」，意象相同。",
+       "en": "“Lion among men,” a title of the Buddha. The English translates it literally and notes in brackets that it means the buddhas; Prajna’s 人师子 (rén shīzi, “human lion”) has the same image."
+      },
+      {
+       "w": "prasanna",
+       "note": "「澄净、欢喜、有信心」，像水沉淀后变清。英文 clear and glad 保留了两层意思；般若「清净」只取了「净」。",
+       "en": "“Clear, glad, trusting,” like water once the mud settles. The English “clear and glad” keeps both senses; Prajna’s 清净 (qīngjìng, “pure”) keeps only the purity."
+      }
+     ]
+    },
+    {
+     "h": "6d97be2b",
+     "en": "With bodies as many as the dust-motes of all the buddha-lands, I bow down to all the Victorious Ones (jina, “victor,” a title of a buddha), my mind turned toward each of them, by the power of the vow of good conduct.",
+     "cmp": [
+      {
+       "w": "jina",
+       "note": "「胜者」，战胜了烦恼的人，是佛的称号。英文 Victorious One 照字面；般若这里写「如来」，「胜利」的意象就没有了。",
+       "en": "“Victor,” one who has conquered the afflictions; a title of the buddhas. The English “Victorious One” is literal; Prajna writes 如来 (rúlái, “Thus-Come One”), and the image of victory is lost."
+      },
+      {
+       "w": "bhadracarīpraṇidhāna",
+       "note": "「贤善之行的誓愿」。英文 vow of good conduct 照字面；般若译「普贤行愿」，把 bhadra（好）读成了普贤（Samantabhadra）的名字。",
+       "en": "“The vow of good conduct.” The English is literal; Prajna renders it 普贤行愿 (Pǔxián xíngyuàn, “Samantabhadra’s conduct and vows”), reading bhadra (“good”) as the name Samantabhadra."
+      }
+     ]
+    },
+    {
+     "h": "1cc31686",
+     "en": "On the tip of a single dust-mote there are buddhas as many as dust-motes, each seated among the buddhas’ children (bodhisattvas). In the same way, without exception, the whole realm of reality: I trust that all of it is filled with Victorious Ones.",
+     "cmp": [
+      {
+       "w": "dharmadhātu",
+       "note": "「法界」：一切存在的总和。英文 realm of reality 是意译；中文「法界」是专门术语，白话加了括号。",
+       "en": "Dharmadhātu, the sum of everything that exists. The English “realm of reality” paraphrases; the Chinese 法界 (fǎjiè, “Dharma-realm”) is a technical term, and the plain Chinese adds brackets."
+      }
+     ]
+    },
+    {
+     "h": "d8eb9e2a",
+     "en": "And to them, with sounds from an ocean of every kind of voice, I offer oceans of praise that never run out, telling the virtues of all the Victorious Ones; I praise all these Sugatas (“those who have gone well,” a title of the buddhas).",
+     "cmp": [
+      {
+       "w": "sugata",
+       "note": "「好好走过去的人」。英文保留 Sugata 并加解释；中文「善逝」是逐字译，现代读者容易误读成「好好地去世」。",
+       "en": "“One who has gone well.” The English keeps Sugata with an explanation; the Chinese 善逝 (shànshì, “well-gone”) is word for word, but modern readers easily misread it as “passed away peacefully.”"
+      }
+     ]
+    },
+    {
+     "h": "6973ad24",
+     "en": "With the finest flowers and the finest garlands, with music, ointments and the finest parasols, with the finest lamps and the finest incense, I make offerings to those Victorious Ones."
+    },
+    {
+     "h": "142a30fc",
+     "en": "With the finest clothes and the finest perfumes, with packets of fragrant powder piled as high as Mount Meru (the mountain at the center of the world), with every finest and most excellent array, I make offerings to those Victorious Ones."
+    },
+    {
+     "h": "5219b73d",
+     "en": "And whatever offerings are unsurpassed and vast, I take them all with trust as offered to all the Victorious Ones. By the power of trust in good conduct, I bow to and honor all the Victorious Ones.",
+     "cmp": [
+      {
+       "w": "adhimucyami",
+       "note": "「深信、信解、认定」。英文 take them with trust 是意译；白话「信解（相信并领受）」较完整；般若「深信」只取了「信」。",
+       "en": "“Trust, resolve, take as true.” The English “take them with trust” paraphrases; the plain Chinese 信解 (xìnjiě, “trust and understand”) is fuller, and Prajna’s 深信 (shēnxìn, “deeply believe”) keeps only the belief."
+      }
+     ]
+    },
+    {
+     "h": "54c7ff7a",
+     "en": "Whatever wrong I may have done, driven by greed, hatred and delusion, with body, speech and mind alike, I confess it all.",
+     "cmp": [
+      {
+       "w": "pratideśayamī",
+       "note": "「一件件说出来」，坦白认错。英文 confess 照义；中文「忏悔」带着「后悔」的意思，梵文的重点在「说出来」。般若还加了「无始」二字（从无始以来），梵文没有。",
+       "en": "“Declare one by one,” openly own up. The English “confess” matches; the Chinese 忏悔 (chànhuǐ, “repent”) adds a sense of remorse, while the Sanskrit stresses “speaking it out.” Prajna also adds 无始 (wúshǐ, “beginningless”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "bfd46d39",
+     "en": "And the merit of beings in the ten directions, of those still training and those whose training is done, of the solitary buddhas (who awaken on their own), of the buddhas’ children and of all the Victorious Ones: I rejoice in all of it.",
+     "cmp": [
+      {
+       "w": "anumodayamī",
+       "note": "「随着高兴」：为别人的善事高兴。英文 rejoice in；中文「随喜」今天常被当成「捐款」的意思，梵文只是「替人高兴」。",
+       "en": "“To be glad along with”: rejoicing in others’ good deeds. The English says “rejoice in”; the Chinese 随喜 (suíxǐ) is often heard today as “to make a donation,” but the Sanskrit simply means being happy for others."
+      }
+     ]
+    },
+    {
+     "h": "937952be",
+     "en": "And those lamps of the world in the ten directions who have awakened to awakening and reached freedom from attachment: I ask all of these protectors to turn the unsurpassed wheel (of the teaching).",
+     "cmp": [
+      {
+       "w": "asaṅgata",
+       "note": "「无所执着」。般若译「最初成就菩提者」，意思变成「刚刚成佛的」，和梵文不同。",
+       "en": "“Free of attachment.” Prajna writes 最初成就菩提者 (“those who have just attained awakening”), which differs from the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "ff3b7a29",
+     "en": "And those who wish to show their final nirvana (complete extinguishing, leaving the world), I beg with joined palms: for the good and happiness of the whole world, stay for eons (ages of immense length) as many as the dust-motes of the buddha-lands."
+    },
+    {
+     "h": "34147b0a",
+     "en": "Through bowing, offering and confessing, through rejoicing, requesting and pleading, whatever good I have gathered, however small, I dedicate all of it to awakening.",
+     "cmp": [
+      {
+       "w": "bodhayi nāmayamī",
+       "note": "「转向菩提」：把功德转过来朝向觉悟。英文 dedicate to awakening；般若写「回向众生及佛道」，多了「众生」。",
+       "en": "“Bend toward awakening”: turning one’s merit toward awakening. The English says “dedicate to awakening”; Prajna writes 回向众生及佛道 (“dedicate to all beings and to the Buddha’s path”), adding “all beings.”"
+      }
+     ]
+    },
+    {
+     "h": "69d1fca5",
+     "en": "May the buddhas of the past be honored, and those now living in the worlds of the ten directions; and may those yet to come quickly fulfill their heart’s wishes and awaken to awakening.",
+     "cmp": [
+      {
+       "w": "pūjita bhontu",
+       "note": "梵文这一颂只有四句。般若在这里写了八句，多出「我随一切如来学，修习普贤圆满行」等，和后面几颂的意思混在一起。英文照梵文。",
+       "en": "This Sanskrit verse has only four lines. Prajna writes eight here, adding lines such as 我随一切如来学，修习普贤圆满行 (“I follow all the Tathagatas in learning, and practice Samantabhadra’s perfect conduct”), mixing in ideas from the verses that follow. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "829b27dc",
+     "en": "However many lands there are in the ten directions, may they be pure and vast, and may they be filled with Victorious Ones who have gone to the king of trees, the tree of awakening, and with the buddhas’ children."
+    },
+    {
+     "h": "6fd31813",
+     "en": "However many beings there are in the ten directions, may they always be happy and free of illness. May everything right for the whole world go well, and may their hopes come true.",
+     "cmp": [
+      {
+       "w": "ṛdhyatu āśā",
+       "note": "「愿希望实现」。般若译成「灭除烦恼尽无余」，变成了解脱的愿望，梵文只是祝愿世俗的希望成真。",
+       "en": "“May their hopes succeed.” Prajna turns it into 灭除烦恼尽无余 (“may afflictions be wiped out without remainder”), a wish for liberation, whereas the Sanskrit simply wishes that ordinary hopes come true."
+      }
+     ]
+    },
+    {
+     "h": "3cc39dcf",
+     "en": "As I practice the conduct of awakening, may I remember my past lives in every realm of rebirth. In every birth, death and rebirth, may I always be one who has left home (a monk).",
+     "cmp": [
+      {
+       "w": "jātismara",
+       "note": "「记得前生」。英文 remember my past lives；般若译「成宿命」，是「宿命通」的简称，现代读者容易读成「命中注定」。",
+       "en": "“Remembering former births.” The English says “remember my past lives”; Prajna’s 成宿命 (chéng sùmìng) is short for the power of knowing past lives, but modern readers easily take 宿命 as “fate.”"
+      }
+     ]
+    },
+    {
+     "h": "28cb563e",
+     "en": "Learning after all the Victorious Ones, bringing good conduct to completion, may I always keep the conduct of ethics, stainless and pure, never broken, without a gap.",
+     "cmp": [
+      {
+       "w": "śīlacari",
+       "note": "般若本没有和这一颂单独对应的句子，戒行的内容并进了上一颂的「常得出家修净戒，无垢无破无穿漏」。",
+       "en": "Prajna’s version has no lines matching this verse on its own; the content on ethical conduct is folded into the previous verse: 常得出家修净戒，无垢无破无穿漏 (“always leaving home and keeping pure precepts, stainless, unbroken, without leaks”)."
+      }
+     ]
+    },
+    {
+     "h": "82ef38af",
+     "en": "In the languages of gods and of nagas (serpent spirits), of yakshas, kumbhandas (two kinds of spirits) and humans, in every language there is in the world, I will teach the Dharma.",
+     "cmp": [
+      {
+       "w": "nāga",
+       "note": "「蛇神」，中文传统译「龙」。英文保留 naga 并解释，避免读者想到中国或西方的龙。",
+       "en": "A serpent deity; Chinese tradition renders it 龙 (lóng, “dragon”). The English keeps “naga” with an explanation so readers do not picture a Chinese or Western dragon."
+      }
+     ]
+    },
+    {
+     "h": "2b44ba99",
+     "en": "Striving in the perfections (pāramitā, the practices that “reach the far shore”), may my mind never lose its way from awakening. And whatever wrongs act as obstacles, may they be wholly worn away."
+    },
+    {
+     "h": "1b1235da",
+     "en": "Freed from karma, from the afflictions and from the paths of Mara (the tempter), may I move through the realms of the world like a lotus untouched by water, like the sun and moon not caught in the sky."
+    },
+    {
+     "h": "537647c5",
+     "en": "Calming all the pain of the lower realms (hells, hungry ghosts and animals), setting the whole world in happiness, may I act for the good of the whole world, as far as the paths of the lands reach in all directions."
+    },
+    {
+     "h": "45fd2b96",
+     "en": "Going along with what beings do, completing the conduct of awakening, and spreading good conduct, may I go on like this through all the eons to come."
+    },
+    {
+     "h": "81eee406",
+     "en": "Those who share my conduct, may I always meet with them. In body, in speech, in intention, may we follow one conduct and one vow."
+    },
+    {
+     "h": "413dbc76",
+     "en": "And the friends who want what is good for me, who show me good conduct, may I always meet with them, and may I never let them down.",
+     "cmp": [
+      {
+       "w": "na virāgayi",
+       "note": "「不让他们失望、不惹他们不高兴」。般若译成「于我常生欢喜心」，主语换成了朋友，变成「他们常对我欢喜」。",
+       "en": "“Never displease them, never let them down.” Prajna writes 于我常生欢喜心 (“may they always feel glad toward me”), switching the subject to the friends."
+      }
+     ]
+    },
+    {
+     "h": "92ad2f57",
+     "en": "May I always see the Victorious Ones face to face, those protectors surrounded by the buddhas’ children; and through all the eons to come may I tirelessly make vast offerings to them."
+    },
+    {
+     "h": "8ad1ac40",
+     "en": "Upholding the true Dharma of the Victorious Ones, making the conduct of awakening shine, and purifying good conduct, may I go on like this through all the eons to come."
+    },
+    {
+     "h": "658efb0b",
+     "en": "Wandering through every kind of existence, may I gain merit and knowledge that never run out. Through wisdom, skill in means, meditation and liberation, through every virtue, may I become an inexhaustible treasury."
+    },
+    {
+     "h": "17468c11",
+     "en": "On the tip of a single dust-mote there are lands as many as dust-motes, and in each land inconceivably many buddhas, seated among the buddhas’ children. May I see them as I practice the conduct of awakening."
+    },
+    {
+     "h": "3e90f064",
+     "en": "In this way, without exception, in all directions, on the tip of every hair there are oceans of buddhas and oceans of lands, as many as the three times hold; may I enter them and wander for oceans of eons.",
+     "cmp": [
+      {
+       "w": "bālapatheṣu",
+       "note": "按般若「一一毛端」，这里应读作 vāla「毛发」。梵文写法不规范，也可以读成「愚人的道路」，白话和英文都取「毛端」。",
+       "en": "Following Prajna’s 一一毛端 (“on the tip of each hair”), this should be read as vāla, “hair.” The irregular Sanskrit spelling could also be read as “paths of fools”; the plain Chinese and the English both take “tip of a hair.”"
+      }
+     ]
+    },
+    {
+     "h": "a0444e25",
+     "en": "With sounds from an ocean of voices within a single voice, (I enter) the pure voices of all the Victorious Ones; the voices of all the Victorious Ones that speak to each being’s heart, the Buddha’s eloquence, may I always enter.",
+     "cmp": [
+      {
+       "w": "buddhasarasvati",
+       "note": "Sarasvatī 是印度的辩才与语言女神，这里当普通名词用，指「佛的妙音、辩才」。英文 the Buddha’s eloquence 只取意思；般若「佛辩才海」也一样。",
+       "en": "Sarasvati is the Indian goddess of eloquence and speech; here the name is used as an ordinary noun for “the Buddha’s wonderful speech, eloquence.” The English “the Buddha’s eloquence” gives only the meaning, and so does Prajna’s 佛辩才海 (fó biàncái hǎi, “the Buddha’s ocean of eloquence”)."
+      }
+     ]
+    },
+    {
+     "h": "b4015534",
+     "en": "And in those voices that never end, where the Victorious Ones of all three times keep turning the wheel of the teaching, may I enter by the power of understanding."
+    },
+    {
+     "h": "80784554",
+     "en": "In a single instant may I enter into all the eons to come; and the eons that the three times hold, may I enter and move through them within a fraction of an instant."
+    },
+    {
+     "h": "111937d7",
+     "en": "The lions among men of all three times, may I see them in a single instant; and may I always enter their domain, by the power of a liberation that is like a magic show.",
+     "cmp": [
+      {
+       "w": "māyagatena vimokṣa",
+       "note": "「如幻的解脱」：像幻术一样的解脱，指看清一切如幻而得的自在。英文 like a magic show 保留了 māyā「幻术」的画面；中文「如幻」读者多理解成「虚幻」。",
+       "en": "“A liberation that is like illusion”: the freedom of seeing everything as a conjuring show. The English “like a magic show” keeps the picture in māyā, a magician’s illusion; Chinese readers mostly take 如幻 (rú huàn) as “unreal.”"
+      }
+     ]
+    },
+    {
+     "h": "ad17b5f4",
+     "en": "The splendid arrays of the fine lands of the three times, may I bring them forth on the tip of a single dust-mote; and so, without exception, in all directions, may I enter the arrayed lands of the Victorious Ones."
+    },
+    {
+     "h": "9880bca0",
+     "en": "And the future lamps of the world, from their awakening and the turning of the wheel to the showing of nirvana and final peace: may I go to all those protectors."
+    },
+    {
+     "h": "0b25e165",
+     "en": "By the power of spiritual feats that speed everywhere, by the power of knowledge that faces every way, by the power of conduct with every virtue, by the power of love that reaches everywhere,",
+     "cmp": [
+      {
+       "w": "samantamukhena",
+       "note": "「面向一切方向的」。般若译「普门遍入大乘力」，多出「大乘」，梵文没有。",
+       "en": "“Facing every way.” Prajna writes 普门遍入大乘力 (“the power of the Great Vehicle entering through the universal gate”), adding “Great Vehicle,” which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "8c0b6906",
+     "en": "by the power of merit that is wholly good, by the power of knowledge that is free of attachment, by the power of wisdom, skill in means and meditation, gathering the power of awakening,"
+    },
+    {
+     "h": "b709e485",
+     "en": "purifying the power of karma, crushing the power of the afflictions, rendering powerless the power of Mara, may I fulfill all the powers of good conduct.",
+     "cmp": [
+      {
+       "w": "karmabalaṃ pariśodhayamānaḥ",
+       "note": "「净化业力」。般若译「清净一切善业力」，加了「善」字，意思变成「让善业更清净」；梵文是把业的力量本身净化掉。",
+       "en": "“Purifying the power of karma.” Prajna writes 清净一切善业力 (“purifying all the power of good karma”), adding “good,” which shifts the sense; the Sanskrit means purifying the force of karma itself."
+      }
+     ]
+    },
+    {
+     "h": "819d1e49",
+     "en": "Purifying oceans of lands, freeing oceans of beings, seeing deeply into oceans of things, plunging into oceans of knowledge,"
+    },
+    {
+     "h": "0c8f7c99",
+     "en": "purifying oceans of conduct, fulfilling oceans of vows, honoring oceans of buddhas, may I go on tirelessly through oceans of eons."
+    },
+    {
+     "h": "ea20c50c",
+     "en": "And the special vows about the conduct of awakening made by the Victorious Ones of all three times: may I fulfill all of them, with none left out, and through good conduct awaken to awakening."
+    },
+    {
+     "h": "ccb20ee6",
+     "en": "The eldest son of all the Victorious Ones, whose name is Samantabhadra (“good in every way”): so that my conduct may be the same as that wise one’s, I dedicate all this good.",
+     "cmp": [
+      {
+       "w": "samantabhadra",
+       "note": "到这里梵文才第一次点出普贤的名字。samanta-bhadra 字面是「处处贤善」，和书名 bhadracarī「贤善之行」用的是同一个 bhadra。英文到这里才写 Samantabhadra；般若本从头就写「普贤」。",
+       "en": "Only here does the Sanskrit name Samantabhadra for the first time. Samanta-bhadra literally means “good in every way,” using the same bhadra as the title’s bhadracarī, “good conduct.” The English writes Samantabhadra only from here on; Prajna’s Chinese has 普贤 (Pǔxián) from the very start."
+      }
+     ]
+    },
+    {
+     "h": "c6d1a82f",
+     "en": "Purity of body, speech and mind, purity of conduct and purity of land: however the good, wise one dedicates, may mine be the same as his.",
+     "cmp": [
+      {
+       "w": "bhadra vidusya",
+       "note": "「贤善的智者」，一语双关地指普贤（Samantabhadra）。般若直接写「如是智慧号普贤」。英文 the good, wise one 保留了双关，读者结合上一颂能看出指普贤。",
+       "en": "“The good, wise one,” a play on the name Samantabhadra. Prajna writes it out: 如是智慧号普贤 (“this wisdom is named Samantabhadra”). The English “the good, wise one” keeps the pun; with the previous verse readers can see it means Samantabhadra."
+      }
+     ]
+    },
+    {
+     "h": "141df2bd",
+     "en": "For the sake of good conduct that is good in every way, may I carry out the vows of Manjushri (the bodhisattva of wisdom); through all the eons to come, tirelessly, may I complete every one of those tasks."
+    },
+    {
+     "h": "3404f72a",
+     "en": "May there be no limit to my conduct, and no limit to my virtues; abiding in limitless conduct, may I know all their marvelous transformations."
+    },
+    {
+     "h": "dbf142e9",
+     "en": "As far as the end of space may reach, so far, with none left out, is the end of beings; as far as the end of karma and afflictions reaches, so far reaches the end of my vow.",
+     "cmp": [
+      {
+       "w": "yāvata niṣṭha",
+       "note": "梵文只说「虚空的尽头在哪里……我誓愿的尽头就在那里」，暗含「虚空无尽，所以誓愿无尽」。白话在括号里点明；般若直接写出「我愿究竟恒无尽」。英文照梵文，不加。",
+       "en": "The Sanskrit only says “as far as the end of space … so far the end of my vow,” implying that since space has no end, neither does the vow. The plain Chinese spells this out in brackets, and Prajna writes it directly: 我愿究竟恒无尽 (“my vow is ultimately endless”). The English follows the Sanskrit and adds nothing."
+      }
+     ]
+    },
+    {
+     "h": "17d484d5",
+     "en": "Suppose someone gave the Victorious Ones the endless lands of the ten directions, adorned with jewels, and gave the finest happiness of gods and humans for as many eons as there are dust-motes in the lands:",
+     "cmp": [
+      {
+       "w": "rathaalaṃkṛtu",
+       "note": "字面是「以车装饰」，多半是 ratna-alaṃkṛta「以宝物装饰」的讹写；白话、英文、般若「众宝」都按「宝物」译。",
+       "en": "Literally “adorned with chariots,” most likely a corruption of ratna-alaṃkṛta, “adorned with jewels”; the plain Chinese, the English and Prajna’s 众宝 (zhòng bǎo, “many jewels”) all read it as “jewels.”"
+      }
+     ]
+    },
+    {
+     "h": "c0767ca9",
+     "en": "whoever hears this king of dedications and even once gives rise to trust, longing for supreme awakening, would gain a merit higher and finer than that.",
+     "cmp": [
+      {
+       "w": "pariṇāmanarāja",
+       "note": "「回向之王」：这部偈的自称。般若译「胜愿王」，把「回向」换成了「愿」。",
+       "en": "“King of dedications,” the text’s name for itself. Prajna writes 胜愿王 (shèng yuàn wáng, “king of supreme vows”), replacing “dedication” with “vow.”"
+      }
+     ]
+    },
+    {
+     "h": "e93642fb",
+     "en": "Through it they leave the lower realms behind, and leave bad friends behind; whoever has this vow of good conduct will soon see Amitabha (“Boundless Light,” the Buddha of the western Land of Bliss).",
+     "cmp": [
+      {
+       "w": "amitābha",
+       "note": "「无量光」。般若意译「如来无量光」，中文读者熟悉的「阿弥陀」是音译；英文用 Amitabha 并解释。",
+       "en": "“Boundless Light.” Prajna translates the meaning as 如来无量光 (“the Tathagata Boundless Light”), while the familiar Chinese name 阿弥陀 (Ēmítuó) is a transcription; the English uses Amitabha with an explanation."
+      }
+     ]
+    },
+    {
+     "h": "e9490d4a",
+     "en": "They have gained a real gain, their life is well lived, and their coming into this human birth is a welcome one. For as Samantabhadra is, so they too will soon become."
+    },
+    {
+     "h": "72399695",
+     "en": "Whoever, through ignorance, has done the five worst wrongs that bring immediate retribution (falling straight into the deepest hell), by reciting this good conduct will soon wear them all away completely.",
+     "cmp": [
+      {
+       "w": "kṣipru",
+       "note": "「很快」。般若译「一念速疾皆销灭」，变成「一念之间」，比梵文说得更快。",
+       "en": "“Quickly.” Prajna writes 一念速疾皆销灭 (“all wiped out swiftly in a single thought”), making it even faster than the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "153fcab1",
+     "en": "Such a person will be endowed with knowledge, good looks, the marks (of a great being), fine complexion and good family; rival teachers and the hosts of Mara cannot harm him, and he is honored throughout the three worlds.",
+     "cmp": [
+      {
+       "w": "tīrthika",
+       "note": "「渡口派」，佛教对其他修行派别的称呼。中文「外道」带贬义；英文 rival teachers 较中性。",
+       "en": "Literally “ford-makers,” the Buddhist name for other religious schools. The Chinese 外道 (wàidào, “outside paths”) is pejorative; the English “rival teachers” is more neutral."
+      }
+     ]
+    },
+    {
+     "h": "e321d415",
+     "en": "Soon he goes to the king of trees, the tree of awakening, and, having gone there, sits down for the good of beings; he awakens to awakening, sets the wheel turning, and defeats Mara with his whole army."
+    },
+    {
+     "h": "8c721a46",
+     "en": "Whoever holds, recites or teaches this vow of good conduct, only the buddhas know what its fruit will be; it is supreme awakening, so have no doubt."
+    },
+    {
+     "h": "fa69f4ae",
+     "en": "As heroic Manjushri knows, so too does Samantabhadra. Learning after them, I dedicate all this good."
+    },
+    {
+     "h": "3c914117",
+     "en": "The highest dedication praised by the Victorious Ones of all three times: in that way I dedicate all this good to excellent good conduct."
+    },
+    {
+     "h": "47827154",
+     "en": "And when the time of my death comes, may I clear away every obstacle, see Amitabha face to face, and go to his land, Sukhavati (“the Land of Bliss”).",
+     "cmp": [
+      {
+       "w": "kālakriyā",
+       "note": "「做时间的事」，委婉地说「死」。英文 the time of my death 直说；般若「临欲命终时」也直说。",
+       "en": "Literally “doing one’s time,” a polite way of saying “dying.” The English “the time of my death” says it plainly, as does Prajna’s 临欲命终时 (“when about to reach the end of life”)."
+      }
+     ]
+    },
+    {
+     "h": "0695e190",
+     "en": "Once I have gone there, may all these vows stand before me complete; and fulfilling them all, with none left out, may I work for the good of beings as long as the world lasts."
+    },
+    {
+     "h": "6427afc3",
+     "en": "There, in the beautiful and lovely assembly of the Victorious One, born in a fine and splendid lotus, may I receive the prediction (of my own future buddhahood) face to face from Amitabha, the Victorious One.",
+     "cmp": [
+      {
+       "w": "vyākaraṇa",
+       "note": "「预言、解说」，这里指佛预告某人将来成佛。英文 prediction 加括号说明；中文「授记」是专门术语。",
+       "en": "“Prediction, explanation”; here, a buddha’s announcement that someone will become a buddha in the future. The English “prediction” explains in brackets; the Chinese 授记 (shòujì, “giving the record”) is a technical term."
+      }
+     ]
+    },
+    {
+     "h": "a33937d8",
+     "en": "Having received that prediction there, with many hundreds of millions of emanated bodies, may I do much good for beings in all ten directions by the power of understanding."
+    },
+    {
+     "h": "06df7940",
+     "en": "Whatever good I have gathered, however small, by reciting this vow of good conduct, may it in a single instant bring to fulfillment every good wish of the world.",
+     "cmp": [
+      {
+       "w": "mayi saṃcitu",
+       "note": "梵文「我所积下的善」。般若写「若人诵此普贤愿，我说少分之善根」，主语变成「若人」，意思也模糊了。",
+       "en": "The Sanskrit says “the good I have gathered.” Prajna writes 若人诵此普贤愿，我说少分之善根 (“if someone recites this vow of Samantabhadra, I speak of a small share of good roots”), changing the subject to “someone” and blurring the meaning."
+      }
+     ]
+    },
+    {
+     "h": "9447b81d",
+     "en": "By the boundless, utterly excellent merit gained from dedicating good conduct, may the world, sunk in the flood of misfortune, go to the excellent city of Amitabha.",
+     "cmp": [
+      {
+       "w": "amitābhapuri",
+       "note": "「阿弥陀之城」。英文 city of Amitabha 照字面；白话「阿弥陀那座最好的城」也是；般若译「无量光佛刹」，把「城」换成了「佛土」。",
+       "en": "“Amitabha’s city.” The English “city of Amitabha” is literal, as is the plain Chinese; Prajna writes 无量光佛刹 (“the buddha-land of Boundless Light”), replacing “city” with “buddha-land.”"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

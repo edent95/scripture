@@ -1,0 +1,142 @@
+{
+ "slug": "mangala-sutta",
+ "title": "The Discourse on Blessings",
+ "summary": "Asked what the highest blessing is, the Buddha skips omens and rituals and lists ways of living instead, up to a mind that gain and loss cannot shake.",
+ "compare": [
+  "这部经的关键词是 maṅgala。在佛陀的时代，它指的是「吉兆、好彩头」：出门见到什么、听到什么、碰到什么算吉利，人们为此争论不休。中文「吉祥」和英文 blessing 都把它当成一种「福气」来读，少了原来那层「预兆」的意思。整部经的妙处正在这里：天神问的是「什么是最好的兆头」，佛陀答的却全是怎么做人、怎么过日子。英文第一次出现时写 blessing，并在注里说明它原本是「吉兆」。",
+  "第二个差别在中文古译。本站对照的古译出自《法句经·吉祥品》，它和巴利文这部经是同一个主题，但句子并不一一对应：开头问话的是「梵志道士」而不是天神，中间多了「不婬于女色」，第 12 段完全换成了「离贪欲、愚痴、瞋恚」。英文直接从巴利文译，所以这些出入只在注里点出对英文读者重要的几处。",
+  "第三个差别在第 12 段的 lokadhammā「世间法」。巴利文只用一个词，指的是固定的八样：得与失、名与无名、毁与誉、乐与苦。白话把它展开成「得失、毁誉、苦乐」，英文写 the ups and downs of the world，再在注里列出八样。"
+ ],
+ "compareEn": [
+  "The key word in this discourse is maṅgala. In the Buddha's day it meant an \"auspicious sign, a good omen\": what you see, hear or touch on leaving the house that counts as lucky, a topic people argued about endlessly. Chinese 吉祥 (jíxiáng, \"auspicious, lucky\") and English \"blessing\" both read it as a kind of good fortune and lose the original sense of \"omen.\" That is exactly the point of the whole discourse: the deity asks what the best omen is, and every answer the Buddha gives is about how to live. On its first appearance the English says \"blessing\" and the note explains that the word originally meant an omen.",
+  "The second difference is the classical Chinese. The old Chinese parallel shown on the Chinese page comes from the \"Blessings\" chapter of the Chinese Dharmapada. It shares the theme with this Pali discourse, but the lines do not match one for one: the questioner at the start is 梵志道士 (fànzhì dàoshì, \"brahmins and ascetics\") rather than a deity, it adds \"not indulging in women,\" and verse 12 is replaced entirely by \"leaving greed, delusion and anger.\" The English follows the Pali directly, so only the differences that matter for English readers are noted.",
+  "The third difference is lokadhammā, \"the ways of the world,\" in verse 12. The Pali uses a single word for a fixed set of eight: gain and loss, fame and obscurity, blame and praise, pleasure and pain. The plain Chinese unpacks it as 得失、毁誉、苦乐 (\"gain and loss, blame and praise, pain and pleasure\"); the English says \"the ups and downs of the world\" and lists the eight in a note."
+ ],
+ "chapters": [
+  {
+   "title": "The Discourse on Blessings",
+   "verses": [
+    {
+     "h": "75d1356f",
+     "en": "This is what I heard. Once the Blessed One was staying near Sāvatthī, in Jeta's Grove, in the park of Anāthapiṇḍika (\"feeder of the unprotected,\" a rich lay supporter). Then, late in the night, a certain deity of surpassing beauty, lighting up the whole of Jeta's Grove, came to the Blessed One, bowed to him, and stood to one side. Standing there, the deity addressed the Blessed One in verse:",
+     "cmp": [
+      {
+       "w": "devatā",
+       "note": "devatā 是「天神」，巴利文这个词是阴性名词，但并不表示这位天神是女性。白话用「他」，英文用中性的 the deity，避开了性别。古译把问话的人换成了「梵志道士」。",
+       "en": "Devatā, \"deity,\" is grammatically feminine in Pali, but that doesn't say the deity is female. The plain Chinese uses 他 (tā, \"he\"); the English uses the neutral \"the deity\" and avoids gender. The classical Chinese replaces the questioner with 梵志道士 (fànzhì dàoshì, \"brahmins and ascetics\")."
+      }
+     ]
+    },
+    {
+     "h": "00b44512",
+     "en": "\"Many gods and humans have pondered what blessings are, hoping for well-being. Tell us the highest blessing.\"",
+     "cmp": [
+      {
+       "w": "maṅgala",
+       "note": "maṅgala 在佛陀时代指「吉兆、好彩头」，人们争论出门看见什么、听见什么才算吉利。英文 blessing、中文「吉祥」都读成「福气」，少了「预兆」这一层。整部经的意思正在于：佛陀不谈兆头，只谈怎么做人。",
+       "en": "In the Buddha's time maṅgala meant an \"auspicious sign, a good omen\"; people argued over which sights and sounds on leaving the house were lucky. English \"blessing\" and Chinese 吉祥 (jíxiáng, \"auspicious\") both read it as good fortune and lose the sense of \"omen.\" That is the point of the discourse: the Buddha says nothing about omens, only about how to live."
+      }
+     ]
+    },
+    {
+     "h": "3706e166",
+     "en": "\"Not keeping company with fools, keeping company with the wise, honoring those worthy of honor: this is the highest blessing."
+    },
+    {
+     "h": "0c1b5a47",
+     "en": "Living in a suitable place, having done good deeds in the past, setting oneself in the right direction: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "atta-sammāpaṇidhi",
+       "note": "atta-sammā-paṇidhi 字面是「把自己正确地安放」，即立定正确的志向。英文 setting oneself in the right direction、白话「把自己摆在正确的方向上」都照字面。古译「勅身从真正」意思相近。",
+       "en": "Atta-sammā-paṇidhi literally means \"placing oneself rightly,\" that is, setting a right aim in life. The English \"setting oneself in the right direction\" and the plain Chinese 把自己摆在正确的方向上 (\"putting oneself in the right direction\") both follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "2e90c28b",
+     "en": "Much learning and a skill, discipline well trained, and words that are well spoken: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "vinayo",
+       "note": "vinaya 可以是一般的「自律、教养」，也可以专指出家人的「戒律」。这部经是对在家人和天神说的，注释家两种都举。白话「规矩」、英文 discipline 都取宽的意思。",
+       "en": "Vinaya can mean general \"self-discipline, good training\" or specifically the monastic code. Since this is said to lay people and deities, the commentators give both readings. The plain Chinese 规矩 (guīju, \"rules, good conduct\") and the English \"discipline\" take the broad sense."
+      }
+     ]
+    },
+    {
+     "h": "c23314b7",
+     "en": "Caring for mother and father, supporting wife and children, work that is not in disarray: this is the highest blessing."
+    },
+    {
+     "h": "9f7b0863",
+     "en": "Giving, living by the Dhamma (the Buddha's teaching, the right way), helping one's relatives, blameless actions: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "dhammacariyā",
+       "note": "dhamma 在巴利文里既指佛陀的教法，也指「正当的道理」。白话写「依法而行」，英文写 living by the Dhamma，并在括号里说明两层意思。古译这一句换成了「奉诸得道者，亦敬诸天人」。",
+       "en": "Dhamma in Pali means both the Buddha's teaching and \"what is right.\" The plain Chinese says 依法而行 (yī fǎ ér xíng, \"acting according to the Dhamma\"); the English says \"living by the Dhamma\" and explains both senses in brackets. The classical Chinese replaces this line with \"serving those who have attained the Way and honoring gods and humans.\""
+      }
+     ]
+    },
+    {
+     "h": "7917b51f",
+     "en": "Abstaining and refraining from evil, restraint in drinking alcohol, not being careless about good things: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "appamādo ca dhammesu",
+       "note": "appamāda 是「不放逸、不粗心」，是巴利经里极重要的词。dhammesu 可以是「对诸善法」，也可以只是「在各种事情上」。白话加了「善」字，英文写 good things，跟白话同一读法。",
+       "en": "Appamāda, \"heedfulness, not being careless,\" is one of the most important words in the Pali discourses. Dhammesu can mean \"toward good qualities\" or simply \"in all things.\" The plain Chinese adds 善 (shàn, \"good\"), and the English \"good things\" follows the same reading."
+      }
+     ]
+    },
+    {
+     "h": "47a74632",
+     "en": "Respect and humility, contentment and gratitude, hearing the Dhamma at the right time: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "nivāto",
+       "note": "nivāta 字面是「没有风的」，比喻心里不鼓胀、不自大。白话「谦卑」、英文 humility 都只译出意思，丢了「无风」这个画面。",
+       "en": "Nivāta literally means \"windless,\" an image for a mind not puffed up. The plain Chinese 谦卑 (qiānbēi, \"humble\") and the English \"humility\" give the sense but lose the picture of still air."
+      }
+     ]
+    },
+    {
+     "h": "2f6dc86d",
+     "en": "Patience and being easy to correct, seeing renunciants (samaṇas, wandering ascetics), discussing the Dhamma at the right time: this is the highest blessing."
+    },
+    {
+     "h": "a2c23a57",
+     "en": "Self-discipline and the holy life, seeing the noble truths, realizing nibbāna (the going out of greed, hatred and delusion): this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "tapo",
+       "note": "tapa 字面是「热、苦行」，佛陀在别处反对自我折磨，所以注释家把这里的 tapa 解作「克制感官」。白话写「苦修」，偏字面；英文写 self-discipline，取注释家的读法。",
+       "en": "Tapa literally means \"heat, austerity.\" Since the Buddha elsewhere rejects self-torment, the commentators explain tapa here as restraint of the senses. The plain Chinese 苦修 (kǔxiū, \"austere practice\") stays literal; the English \"self-discipline\" follows the commentarial reading."
+      },
+      {
+       "w": "ariyasaccāna",
+       "note": "ariya-sacca 通常译「圣谛」，ariya 是「高贵的、圣者的」。白话「圣者的真理」、英文 noble truths 意思一致，指苦、集、灭、道四谛。",
+       "en": "Ariya-sacca is usually rendered \"noble truth\"; ariya means \"noble, of the noble ones.\" The plain Chinese 圣者的真理 (\"the truths of the noble ones\") and the English \"noble truths\" agree; they are the four truths of suffering, its origin, its end and the way."
+      }
+     ]
+    },
+    {
+     "h": "a91d15ab",
+     "en": "When touched by the ways of the world, a mind that does not shake, free of sorrow, free of dust, secure: this is the highest blessing.",
+     "cmp": [
+      {
+       "w": "lokadhammehi",
+       "note": "loka-dhamma「世间法」是固定的八样：得与失、名与无名、毁与誉、乐与苦。白话展开成六样，英文写 the ways of the world。古译这一段完全换成了「离贪欲、愚痴、瞋恚」。",
+       "en": "Loka-dhamma, \"worldly conditions,\" is a fixed set of eight: gain and loss, fame and obscurity, blame and praise, pleasure and pain. The plain Chinese lists six of them; the English says \"the ways of the world.\" The classical Chinese replaces this whole verse with leaving greed, delusion and anger."
+      }
+     ]
+    },
+    {
+     "h": "774e4d37",
+     "en": "Those who have done such things are undefeated everywhere and go everywhere in safety. That is their highest blessing.\" (The Discourse on Blessings, the fourth.)"
+    }
+   ]
+  }
+ ]
+}

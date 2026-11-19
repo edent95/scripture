@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）",
+   "en": "GRETIL (Chowkhamba 1970; verse 66 from Ruzsa’s edition)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T54n2137",
+   "en": "CBETA T54n2137",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [
@@ -237,7 +240,7 @@
      }
     },
     {
-     "zh": "萨埵（sattva，明亮的性质）被认为是轻盈的、能照亮的；罗阇（rajas，躁动的性质）是推动的、动荡的；多磨（tamas，暗沉的性质）是沉重的、遮蔽的。它们虽然相反，却为了一个目的一起运作，就像一盏灯（灯芯、油、火合在一起才照明）。",
+     "zh": "萨埵（sattva，明亮的性质）被认为是轻盈的、能照亮的；罗阇（rajas，躁动的性质）是推动的、动荡的；多磨（tamas，暗沉的性质）是沉重的、遮蔽的。它们为了一个目的一起运作，就像一盏灯（灯芯、油、火合在一起才照明）。",
      "old": {
       "who": "真谛",
       "text": "喜者轻光相，忧者持动相；暗者重覆相，相违合如灯。",
@@ -1015,7 +1018,7 @@
      }
     },
     {
-     "zh": "所以，（原人）没有一个被束缚，也没有一个得解脱，也没有一个在轮回。在轮回、被束缚、得解脱的，是依托在种种（身体）上的原质。",
+     "zh": "所以，谁也没有被束缚，谁也没有得解脱，谁也没有在轮回（这里说的是原人）。在轮回、被束缚、得解脱的，是依托在种种（身体）上的原质。",
      "old": {
       "who": "真谛",
       "text": "人无缚无脱，无轮转生死；轮转及系缚，解脱唯自性。",

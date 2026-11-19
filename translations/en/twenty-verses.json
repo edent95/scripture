@@ -1,0 +1,223 @@
+{
+ "slug": "twenty-verses",
+ "title": "Twenty Verses on Consciousness Only",
+ "summary": "Vasubandhu answers the objections to “only consciousness, no outer objects”: dreams, hungry ghosts, hells, atoms, killing and reading other minds.",
+ "compare": [
+  "这部论和《唯识三十颂》出自同一位作者，本站英文的术语两部一致：vijñāna 一律译 consciousness（识），vijñapti 一律译 representation（表象，字面「使人知道」，指东西在心里显现出来的样子），vijñaptimātra 译 nothing but representation，pariṇāma 译 transformation（转变），vāsanā 译 imprints（习气）。中文版两个词都用「识」字，白话在第一颂用「识的显现」来区分；英文直接用两个不同的词，读者更容易看出世亲论证的是「我们见到的只是表象」，而不是「只有心存在」。",
+  "第二个要点是 artha。梵文 artha 同时是「对象」「意义」「用处」；论里说「没有外在的 artha」，指的是心外独立存在的对象。英文译成 object，中文玄奘译「境」「义」，白话写「对象」。玄奘本第一句「此中都无少分实义」用了「义」字，现代读者容易读成「没有意义」，其实是「没有真实的对象」。",
+  "第三个现象是体裁。本站的梵文只有偈颂（二十二首），没有世亲自己写的长篇散文注释；玄奘的《唯识二十论》是偈颂加散文一起译的，所以古译那一栏有时是散文，有时把两颂并成一颂（例如第三、四颂），第十七、十八颂还夹着省略号。英文只译偈颂本身，有些颂太简略，英文在括号里补出反驳的人和回答的人，免得读者不知道谁在说话。"
+ ],
+ "compareEn": [
+  "This treatise is by the same author as the Thirty Verses, and the site’s English keeps the terms identical across both: vijñāna is always “consciousness,” vijñapti is always “representation” (literally “a making-known,” the way something appears in the mind), vijñaptimātra is “nothing but representation,” pariṇāma is “transformation,” and vāsanā is “imprints.” The Chinese edition uses the same character 识 (shí, “consciousness”) for both of the first two words, and the plain Chinese has to mark the difference in verse 1 with 识的显现 (shí de xiǎnxiàn, “the appearing of consciousness”); the English simply uses two different words, so readers can more easily see that Vasubandhu is arguing “what we see is only representation,” not “only the mind exists.”",
+  "The second key point is artha. Sanskrit artha means “object,” “meaning” and “purpose” all at once; when the treatise says there is no outer artha, it means an object existing independently outside the mind. The English renders it “object”; Xuanzang uses 境 (jìng, “sphere, object”) and 义 (yì, “meaning”), and the plain Chinese writes 对象 (duìxiàng, “object”). Xuanzang’s first line, 此中都无少分实义, uses 义, which a modern reader easily takes as “there is no real meaning here,” when it actually says “there is no real object here.”",
+  "The third point is the form of the text. The Sanskrit on this site has only the verses (twenty-two of them), without Vasubandhu’s own long prose commentary. Xuanzang translated verses and prose together, so the classical Chinese column is sometimes prose, sometimes merges two verses into one (as with verses 3 and 4), and in verses 17 and 18 contains ellipses. The English translates only the verses; some are very terse, so the English adds in brackets who is objecting and who is answering, so readers know who is speaking."
+ ],
+ "chapters": [
+  {
+   "title": "Twenty Verses on Consciousness Only",
+   "verses": [
+    {
+     "h": "91474949",
+     "en": "All this is nothing but representation (vijñapti, “a making-known”: the way things appear in the mind), because it shows objects that do not exist; just as someone with an eye disease sees hairs, flies and so on that are not there.",
+     "cmp": [
+      {
+       "w": "vijñaptimātra",
+       "note": "「只是表象」。白话写「只是识的显现」，用「显现」二字区分 vijñapti 和 vijñāna；英文直接用两个词：representation 对 vijñapti，consciousness 对 vijñāna，和《唯识三十颂》英译一致。",
+       "en": "“Nothing but representation.” The plain Chinese writes 只是识的显现 (zhǐ shì shí de xiǎnxiàn, “only the appearing of consciousness”), using 显现 to separate vijñapti from vijñāna; the English uses two separate words, “representation” for vijñapti and “consciousness” for vijñāna, the same as in the site’s Thirty Verses."
+      },
+      {
+       "w": "asadartha",
+       "note": "「不存在的对象」。artha 在这里是「对象」，玄奘写「实义」，现代读者容易读成「真实的意义」。",
+       "en": "“Non-existent objects.” Artha here means “object”; Xuanzang writes 实义 (shíyì, “real meaning/object”), which modern readers easily take as “real meaning.”"
+      },
+      {
+       "w": "taimirika",
+       "note": "有 timira（眼翳）病的人。英文 eye disease 是概括说法；中文「翳」是古词，白话加了括号解释。",
+       "en": "Someone with timira, a clouding of the eye. The English “eye disease” is general; the Chinese 翳 (yì) is an old word, and the plain Chinese explains it in brackets."
+      }
+     ]
+    },
+    {
+     "h": "6bd106fe",
+     "en": "(Objection:) If a representation did not come from an object, then where and when it is seen would not be fixed, it would not be shared by many people, and things would not really do anything.",
+     "cmp": [
+      {
+       "w": "saṃtānāniyama",
+       "note": "字面是「不限于一个相续（一个人的身心之流）」，也就是不只一个人看得见。英文和白话都意译成「许多人一起看见」。玄奘写「相续不决定」，照字面保留了术语。",
+       "en": "Literally “not restricted to one continuum” (one person’s stream of body and mind), that is, seen by more than one person. The English and the plain Chinese both paraphrase as “shared by many people.” Xuanzang writes 相续不决定 (xiāngxù bù juédìng, “the continuum is not fixed”), keeping the technical term."
+      }
+     ]
+    },
+    {
+     "h": "b2412841",
+     "en": "(Answer:) Fixed place and the rest are established, as in a dream. And not being limited to one person is established as with hungry ghosts: all of them see the river full of pus, and so on.",
+     "cmp": [
+      {
+       "w": "preta",
+       "note": "「已逝者、亡灵」，佛教里指饿鬼。英文 hungry ghosts 是通行译法，「饿」字来自中文传统，梵文 preta 本身没有。",
+       "en": "“The departed, the dead”; in Buddhism, the hungry ghosts. “Hungry ghosts” is the usual English, but the “hungry” comes from the Chinese tradition, 饿鬼 (èguǐ); the Sanskrit preta itself does not say it."
+      }
+     ]
+    },
+    {
+     "h": "3504056a",
+     "en": "Doing things is established as with a wet dream (no partner is there, yet the body really responds). And all of it is established as in hell: (the beings there) all see the hell guards and the rest, and are tormented by them.",
+     "cmp": [
+      {
+       "w": "svapnopaghāta",
+       "note": "字面「梦中的损失」，指梦遗。英文 wet dream、白话「梦遗」都直说；玄奘含蓄地写「如梦损有用」，并且把这一句并进了上一颂。",
+       "en": "Literally “the loss in a dream,” meaning a wet dream. The English and the plain Chinese 梦遗 (mèngyí) both say it plainly; Xuanzang writes it discreetly as 如梦损有用 (“like the dream loss, it has an effect”) and folds it into the previous verse."
+      }
+     ]
+    },
+    {
+     "h": "30d65267",
+     "en": "Animals can be born in heaven, but not in hell in that way; nor can hungry ghosts. For they (if they were the hell guards) would not feel the pain that arises there."
+    },
+    {
+     "h": "ff6d60e2",
+     "en": "If you accept that, through the karma of (the beings in hell), special elements come into being there and transform in this way, why not accept that it is consciousness that transforms?",
+     "cmp": [
+      {
+       "w": "pariṇāma",
+       "note": "「转变」，和《唯识三十颂》的关键词同一个。英文两部都译 transformation；白话这里写「变来变去」，玄奘写「转变」。",
+       "en": "“Transformation,” the same key word as in the Thirty Verses. The English renders it “transformation” in both books; the plain Chinese here says 变来变去 (biàn lái biàn qù, “changing this way and that”), and Xuanzang 转变 (zhuǎnbiàn, “transformation”)."
+      }
+     ]
+    },
+    {
+     "h": "c0e7b1a5",
+     "en": "You suppose that the imprints (vāsanā) of karma are in one place and their fruit in another. Why will you not accept the fruit right where the imprints are? What is your reason?",
+     "cmp": [
+      {
+       "w": "vāsanā",
+       "note": "本义「熏染、留香」。英文 imprints 和《唯识三十颂》一致；玄奘写「熏习」，白话写「习气」。",
+       "en": "Basically “perfuming,” a scent soaking in. The English “imprints” matches the Thirty Verses; Xuanzang writes 熏习 (xūnxí, “perfuming”), and the plain Chinese 习气 (xíqì, “habit-energy”)."
+      }
+     ]
+    },
+    {
+     "h": "430de140",
+     "en": "That the sense bases, such as visible form, exist was said with a particular intention, for people who needed to be taught that way; just like (the Buddha’s talk of) beings born spontaneously.",
+     "cmp": [
+      {
+       "w": "āyatana",
+       "note": "「处、领域」：六种感官和六种对象，合称十二处。英文 sense bases 是意译；中文单字「处」不解释很难懂。",
+       "en": "“Base, field”: the six senses and their six kinds of object, twelve bases in all. The English “sense bases” paraphrases; the single Chinese character 处 (chù, “place”) is hard to follow without explanation."
+      },
+      {
+       "w": "abhiprāyavaśāt",
+       "note": "「出于某种用意」。玄奘写「密意趣」，多了「秘密」的味道。",
+       "en": "“Out of a particular intention.” Xuanzang writes 密意趣 (mìyì qù, “hidden intent”), which adds a flavor of secrecy."
+      }
+     ]
+    },
+    {
+     "h": "b2ce2aee",
+     "en": "A representation arises from its own seed and appears in a certain form; the Sage (the Buddha) spoke of these two as its two bases.",
+     "cmp": [
+      {
+       "w": "dvividhāyatanatvena",
+       "note": "梵文说「两种处」：种子是内的处，显现的样子是外的处。玄奘写「为成内外处，佛说彼为十」，「十」指色等十处，是按注释补的。",
+       "en": "The Sanskrit says “two bases”: the seed is the inner base and the appearance is the outer one. Xuanzang writes 为成内外处，佛说彼为十 (“to set up inner and outer bases, the Buddha spoke of them as ten”), where “ten” refers to the ten bases of form and the senses, supplied from the commentary."
+      }
+     ]
+    },
+    {
+     "h": "26a75fea",
+     "en": "For taught in this way, people enter into the selflessness of persons (that there is no one who sees or thinks). And the teaching in the other way (that there is nothing but representation) leads into the selflessness of things, with regard to the self they are imagined to have.",
+     "cmp": [
+      {
+       "w": "pudgalanairātmya",
+       "note": "「人无我」。pudgala 是「人、个体」。英文 selflessness of persons；玄奘音译成「数取趣」，读者完全看不出是「人」。",
+       "en": "“The selflessness of the person.” Pudgala means “person, individual.” The English says “selflessness of persons”; Xuanzang transcribes pudgala with the odd term 数取趣 (shùqǔqù, “one who repeatedly takes rebirths”), in which readers cannot see “person” at all."
+      }
+     ]
+    },
+    {
+     "h": "526d92a0",
+     "en": "For the object is not a single thing, nor is it many separate atoms, nor are they clumped together; because the atom itself cannot be established.",
+     "cmp": [
+      {
+       "w": "paramāṇu",
+       "note": "「最小的微粒」。英文 atom 是现代词，容易让人想到物理学里的原子；中文「极微」更贴近「最小的一点」。",
+       "en": "“The smallest particle.” The English “atom” is a modern word that may call up the atoms of physics; the Chinese 极微 (jíwēi, “the utterly tiny”) stays closer to “the smallest bit.”"
+      }
+     ]
+    },
+    {
+     "h": "f490a208",
+     "en": "If an atom joined with six others at once (above, below and on four sides), it would have to have six parts. If the six shared one place, the whole lump would be only the size of one atom."
+    },
+    {
+     "h": "bb22efbe",
+     "en": "Since atoms do not join together, whose joining is there when they form a lump? And it is not because they have no parts that their joining fails."
+    },
+    {
+     "h": "9079a009",
+     "en": "Whatever has parts facing different directions cannot be a single thing. (If atoms have no such parts,) how could there be shadow and blocking? If the lump is nothing other (than the atoms), then the shadow and blocking do not belong to it."
+    },
+    {
+     "h": "176e4e54",
+     "en": "If (what the eye sees) were one single thing, there would be no walking step by step, no seeing one part while not seeing another at the same time, no many separate things (in one place with gaps between them), and nothing too fine to see."
+    },
+    {
+     "h": "59ebdcb0",
+     "en": "The thought “I see it right in front of me” comes in dreams and the like too. And when that thought arises, the object is no longer being seen; how can it count as directly perceived?",
+     "cmp": [
+      {
+       "w": "pratyakṣa",
+       "note": "「在眼前的、直接知觉」。英文 directly perceived、白话「亲眼所见」都是日常说法；玄奘译「现量」，是因明的专门术语。",
+       "en": "“Before the eyes, direct perception.” The English “directly perceived” and the plain Chinese 亲眼所见 (qīnyǎn suǒ jiàn, “seen with one’s own eyes”) are everyday phrases; Xuanzang’s 现量 (xiànliàng, “direct means of knowing”) is a technical term of Indian logic."
+      }
+     ]
+    },
+    {
+     "h": "38194770",
+     "en": "It has already been said how a representation appears in the form of an object; memory arises from that. One who has not yet woken up does not understand that the objects seen in the dream do not exist."
+    },
+    {
+     "h": "9240a5e6",
+     "en": "Because beings act on one another, their representations shape one another. In a dream the mind is weakened by sleep, so the result (of what is done in a dream and when awake) is not the same.",
+     "cmp": [
+      {
+       "w": "adhipati",
+       "note": "「主导、增上」：一个人的认知对另一个人的认知起支配作用。英文 act on one another 是意译；玄奘「增上力」保留了术语。",
+       "en": "“Dominance”: one person’s representations have a governing influence on another’s. The English “act on one another” paraphrases; Xuanzang’s 增上力 (zēngshàng lì, “dominant force”) keeps the technical term."
+      }
+     ]
+    },
+    {
+     "h": "9ddbf4ab",
+     "en": "Death is a change brought about by a particular representation in someone else; just as others lose their memory and so on through the mind-power of goblins (piśāca) and the like."
+    },
+    {
+     "h": "0ae4d9ba",
+     "en": "Otherwise, how could the Dandaka forest have been emptied by the anger of sages? And how would that prove that a punishment carried out by the mind is the gravest wrong?",
+     "cmp": [
+      {
+       "w": "manodaṇḍa",
+       "note": "「意罚、心里的杖」：用心造的恶业。佛教说身、口、意三种业里意业最重，这一颂就是用仙人一怒、整片森林变空的传说来证明。英文 punishment carried out by the mind 照字面译。",
+       "en": "“The mind-rod”: harm done by the mind. Buddhists say that of the three kinds of action, by body, speech and mind, mental action is the gravest, and this verse proves it with the legend of a whole forest emptied by a sage’s anger. The English translates the phrase literally."
+      }
+     ]
+    },
+    {
+     "h": "422afc9b",
+     "en": "How is the knowledge of those who know other minds not true to its object? In the same way as knowledge of one’s own mind: through not-knowing, it is not as it is in the Buddha’s range."
+    },
+    {
+     "h": "4f989e6d",
+     "en": "I have made this proof that there is nothing but representation as far as my strength allows. But all of it cannot be thought through: it is the Buddha’s range.",
+     "cmp": [
+      {
+       "w": "vijñaptimātratāsiddhi",
+       "note": "这就是这部论的梵文原名：「只是表象的成立」。中文书名《唯识二十论》、英文书名 Twenty Verses on Consciousness Only 都是按通称起的。",
+       "en": "This is the treatise’s Sanskrit name: “Proof that there is nothing but representation.” The Chinese title 唯识二十论 (Wéishí èrshí lùn, “Twenty-Verse Treatise on Consciousness Only”) and the English title “Twenty Verses on Consciousness Only” both follow the common name."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

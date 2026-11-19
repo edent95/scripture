@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（Bachman 录入、Mahoney 修订，de Jong 1977 颂本）",
+   "en": "GRETIL (input by Bachman, revised by Mahoney; de Jong 1977 verses)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T30n1564",
+   "en": "CBETA T30n1564",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [
@@ -5019,7 +5022,7 @@
      }
     },
     {
-     "zh": "如果说正在灭和正在生（是同时的）也讲不通，那就成了：人在哪些蕴里死去，就在那些蕴里出生。",
+     "zh": "说「正在灭」和「正在生」同时发生，也讲不通：那样的话，人就会在同一批蕴里，一边死去一边出生。",
      "old": {
       "who": "鸠摩罗什",
       "text": "若言于生灭，而谓一时者，则于此阴死，即于此阴生。",
@@ -5027,7 +5030,7 @@
       "notes": [
        {
         "w": "原文含混",
-        "note": "梵文前半句文字简略，这里照字面补出「是同时的」。罗什译成「生灭一时」，理解相同。"
+        "note": "梵文前半句文字简略，「同时」（sārdham）放在后半句；白话把它提前说明。罗什译成「生灭一时」，理解相同。"
        }
       ]
      },
@@ -6102,7 +6105,7 @@
      }
     },
     {
-     "zh": "凡是缘起（依靠条件而出现）的，我们就把它叫做空性。空性是一种依靠（他物）而安立的称呼，它也就是中道。",
+     "zh": "凡是缘起（依靠条件而出现），我们就说它是空性。这空性是依靠（他物）而安立的称呼，它也就是中道。",
      "old": {
       "who": "鸠摩罗什",
       "text": "众因缘生法，我说即是无，亦为是假名，亦是中道义。",

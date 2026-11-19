@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（DSBC 录入）",
+   "en": "GRETIL (DSBC transcription)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T31n1586",
+   "en": "CBETA T31n1586",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

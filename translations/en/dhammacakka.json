@@ -1,0 +1,241 @@
+{
+ "slug": "dhammacakka",
+ "title": "Setting the Wheel of Dhamma in Motion",
+ "summary": "The Buddha's first teaching: avoid both indulgence and self-torment, and the four truths about suffering, its origin, its end and the way there.",
+ "compare": [
+  "这部经最关键的词是 dukkha。中文译「苦」，英文通常译 suffering，两个都偏向「痛苦、难受」。巴利文 dukkha 的范围宽得多：它也指「不圆满、不稳当、终究靠不住」。所以经里说「五取蕴是苦」，并不是说一切时刻都在痛，而是说凡是被抓住不放的身心，都靠不住。英文正文写 suffering，第一次出现时在注里说明这层宽义；白话写「苦」，跟古译一致。",
+  "第二个差别在 taṇhā。白话写「渴爱」，英文写 craving。巴利文字面就是「口渴」，三者都保留了「想要、停不下来」的意思；但古译只写「爱」，现代中文读者容易读成「爱情、喜爱」，而 taṇhā 是一种饥渴，不是温情。经里还分三种：对欲乐、对存在、对不存在的渴爱。古译把后两种写成「色爱、不色之爱」，换成了另一套分类。",
+  "第三个差别是整部经的名字 dhamma-cakka「法轮」。cakka 是「轮子」，也是战车的轮子和转轮王（统治天下的君王）的金轮：一个王「转动轮子」，就是他的统治开始了。英文 Setting the Wheel of Dhamma in Motion、中文「转法轮」都保留了轮子，但只有知道这层王权的比喻，才会明白为什么经末诸天一层一层地高声宣告：一种新的「统治」开始了，而且「谁也不能让它倒转」。",
+  "本站对照的中文古译是安世高译的《转法轮经》，跟巴利本的出入很大：开头多了一千比丘和一只自己飞来的法轮，八正道里的「正念」译成了「正志」，结尾得道的人也从憍陈如一人变成了「八千姟天」和一千比丘。英文直接从巴利文译，只在注里点出对英文读者重要的几处。"
+ ],
+ "compareEn": [
+  "The key word in this discourse is dukkha. Chinese renders it 苦 (kǔ, \"bitter, painful\") and English usually \"suffering\"; both lean toward pain and distress. Pali dukkha is much wider: it also means \"unsatisfactory, unstable, in the end unreliable.\" So when the discourse says \"the five aggregates of clinging are dukkha,\" it does not mean every moment hurts, but that any body and mind we grasp at cannot be relied on. The English text says \"suffering\" and the note on its first appearance explains the wider sense; the plain Chinese says 苦, as the classical translation does.",
+  "The second difference is taṇhā. The plain Chinese says 渴爱 (kě'ài, \"thirsting love\") and the English \"craving.\" The Pali literally means \"thirst,\" and all three keep the sense of wanting that won't stop. But the classical Chinese writes only 爱 (ài, \"love\"), which a modern Chinese reader tends to hear as romantic love or fondness, whereas taṇhā is a thirst, not tenderness. The discourse also names three kinds: craving for sensual pleasure, for existence and for non-existence. The classical Chinese renders the last two as 色爱、不色之爱 (\"craving for form, craving for the formless\"), switching to a different classification.",
+  "The third difference is the discourse's name, dhamma-cakka, \"the wheel of Dhamma.\" Cakka means \"wheel,\" including a chariot wheel and the golden wheel of a wheel-turning monarch (a king who rules the whole world): when a king \"sets the wheel rolling,\" his reign begins. The English \"Setting the Wheel of Dhamma in Motion\" and the Chinese 转法轮 (zhuǎn fǎlún, \"turning the Dhamma wheel\") both keep the wheel, but only with this royal image in mind does it make sense that, at the end, the gods proclaim it level after level: a new \"reign\" has begun, and \"no one can turn it back.\"",
+  "The classical Chinese shown on the Chinese page is An Shigao's translation, which differs widely from the Pali: it opens with a thousand monks and a wheel of Dhamma that flies in by itself, it renders \"right mindfulness\" in the eightfold path as 正志 (zhèng zhì, \"right resolve\"), and at the end the ones who awaken are not Koṇḍañña alone but \"eight thousand myriad gods\" and a thousand monks. The English follows the Pali directly and notes only the differences that matter for English readers."
+ ],
+ "chapters": [
+  {
+   "title": "Setting the Wheel of Dhamma in Motion",
+   "verses": [
+    {
+     "h": "aad59774",
+     "en": "Once the Blessed One was staying near Bārāṇasī, in the Deer Park at Isipatana. There the Blessed One addressed the group of five bhikkhus (monks; these were the five companions who had practiced austerities with him):",
+     "cmp": [
+      {
+       "w": "isipatane",
+       "note": "Isipatana 字面是「仙人降落处」，中文旧译「仙人堕处」。白话照用旧名，英文保留巴利地名。古译开头完全不同：多了一千比丘、诸天，还有一只法轮自己飞来，佛用手按住它。",
+       "en": "Isipatana literally means \"where the seers alighted,\" rendered in older Chinese as 仙人堕处 (xiānrén duò chù, \"where the immortals fell\"). The plain Chinese uses that old name; the English keeps the Pali place name. The classical Chinese opens quite differently: a thousand monks and many gods gather, and a wheel of Dhamma flies in by itself until the Buddha stops it with his hand."
+      }
+     ]
+    },
+    {
+     "h": "39598f33",
+     "en": "\"Bhikkhus, there are these two extremes that one who has gone forth should not pursue. Which two? One is devotion to the pleasure of sensual things, which is low, coarse, the way of ordinary people, ignoble and of no benefit. The other is devotion to tormenting oneself, which is painful, ignoble and of no benefit.",
+     "cmp": [
+      {
+       "w": "kāmasukhallikānuyogo",
+       "note": "kāma-sukha-allika-anuyoga 字面是「黏在欲乐上的投入」。英文 devotion to the pleasure of sensual things、白话「沉溺在欲乐里」都译出了。古译写成「念在贪欲无清净志」，意思接近。",
+       "en": "Kāma-sukha-allika-anuyoga literally means \"devotion that sticks to sensual pleasure.\" The English \"devotion to the pleasure of sensual things\" and the plain Chinese 沉溺在欲乐里 (\"sunk in sensual pleasure\") both convey it."
+      },
+      {
+       "w": "anariyo",
+       "note": "an-ariya「不高贵的、非圣者的」。英文 ignoble、白话「不高贵的」都照字面；ariya 在佛经里专指「圣者」，跟种族无关。",
+       "en": "An-ariya means \"not noble, not of the noble ones.\" The English \"ignoble\" and the plain Chinese 不高贵的 (\"not noble\") follow the letter; in the discourses ariya means \"the noble ones\" (the awakened), unrelated to race."
+      }
+     ]
+    },
+    {
+     "h": "1b76296e",
+     "en": "Bhikkhus, avoiding both these extremes, the Tathāgata (the \"one who has thus come / thus gone,\" the Buddha's way of naming himself) has fully awakened to the middle way, which gives vision, gives knowledge, and leads to calm, to direct knowledge, to full awakening, to nibbāna (the going out of greed, hatred and delusion).",
+     "cmp": [
+      {
+       "w": "tathāgata",
+       "note": "tathāgata 可以拆成 tathā-gata「如此去」或 tathā-āgata「如此来」，中文译「如来」只取了后一种。英文保留原词，括号里两种都给。",
+       "en": "Tathāgata can be split as tathā-gata, \"thus gone,\" or tathā-āgata, \"thus come\"; Chinese 如来 (rúlái, \"thus come\") takes only the second. The English keeps the Pali word and gives both readings in brackets."
+      },
+      {
+       "w": "nibbāna",
+       "note": "nibbāna 字面是「（火）熄灭」，熄灭的是贪、瞋、痴之火。中文音译「涅槃」，英文保留巴利写法 nibbāna，第一次出现时说明「熄灭」的意思。古译写「泥洹」，也是音译。",
+       "en": "Nibbāna literally means \"going out\" (as of a fire): the fires of greed, hatred and delusion going out. Chinese transliterates it as 涅槃 (nièpán); the English keeps the Pali spelling and explains \"going out\" on its first appearance."
+      }
+     ]
+    },
+    {
+     "h": "d9071fa1",
+     "en": "And what, bhikkhus, is that middle way the Tathāgata has awakened to, which gives vision, gives knowledge, and leads to calm, to direct knowledge, to full awakening, to nibbāna? It is just this noble eightfold path: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This, bhikkhus, is that middle way the Tathāgata has awakened to, which gives vision, gives knowledge, and leads to calm, to direct knowledge, to full awakening, to nibbāna.",
+     "cmp": [
+      {
+       "w": "sammā",
+       "note": "sammā 常译「正」或 right，其实更接近「完整的、恰到好处的」，不是对错二分的「正确」。白话「正确的」、英文 right 都偏向对错。",
+       "en": "Sammā is usually rendered 正 (zhèng, \"correct\") or \"right,\" but it is closer to \"complete, just as it should be\" than to a right-versus-wrong judgment. The plain Chinese 正确的 (zhèngquè de, \"correct\") and the English \"right\" both lean toward the latter."
+      },
+      {
+       "w": "sammāsati",
+       "note": "sati 是「念、记得、保持觉察」，英文 mindfulness。古译把第七支译成「正志」，第六支译成「正治」，跟今天通行的「正念」「正精进」不同。",
+       "en": "Sati means \"remembering, staying aware,\" in English \"mindfulness.\" The classical Chinese renders the seventh factor as 正志 (zhèng zhì, \"right resolve\") and the sixth as 正治 (zhèng zhì, \"right management\"), unlike today's standard 正念 (\"right mindfulness\") and 正精进 (\"right effort\")."
+      }
+     ]
+    },
+    {
+     "h": "75ee26fc",
+     "en": "Now this, bhikkhus, is the noble truth of suffering: birth is suffering, aging is suffering, illness is suffering, death is suffering; being with what one dislikes is suffering, being separated from what one loves is suffering, not getting what one wants is suffering. In short, the five aggregates of clinging (the five parts of body and mind that we grasp at as \"me\") are suffering.",
+     "cmp": [
+      {
+       "w": "dukkha",
+       "note": "dukkha 中文译「苦」，英文译 suffering，两者都偏「痛苦」。巴利文的范围更宽，也指「不圆满、靠不住」。所以「五取蕴是苦」不是说时时都痛，而是说被执取的身心终究靠不住。",
+       "en": "Dukkha is rendered 苦 (kǔ, \"bitter, painful\") in Chinese and \"suffering\" in English; both lean toward pain. The Pali is wider and also means \"unsatisfactory, unreliable.\" So \"the five aggregates of clinging are dukkha\" does not mean they always hurt, but that the body and mind we cling to cannot finally be relied on."
+      },
+      {
+       "w": "pañcupādānakkhandhā",
+       "note": "upādāna-kkhandha 字面是「执取的堆」：色、受、想、行、识五样。khandha 本义是「一堆、一捆」。英文 aggregates、白话「身心成分」都比「堆」抽象。古译写「五阴受盛」。",
+       "en": "Upādāna-kkhandha literally means \"heaps of clinging\": form, feeling, perception, mental formations and consciousness. Khandha originally means \"heap, bundle.\" The English \"aggregates\" and the plain Chinese 身心成分 (\"components of body and mind\") are both more abstract than \"heap.\""
+      }
+     ]
+    },
+    {
+     "h": "fa42d22d",
+     "en": "Now this, bhikkhus, is the noble truth of the origin of suffering: it is this craving that leads to renewed existence, bound up with delight and lust, seeking pleasure now here, now there; that is, craving for sensual pleasures, craving for existence, craving for non-existence.",
+     "cmp": [
+      {
+       "w": "taṇhā",
+       "note": "taṇhā 字面是「口渴」。白话「渴爱」、英文 craving 都保留了停不下来的饥渴；古译只写「爱」，现代读者容易读成爱情。",
+       "en": "Taṇhā literally means \"thirst.\" The plain Chinese 渴爱 (kě'ài, \"thirsting love\") and the English \"craving\" both keep the restless hunger; the classical Chinese writes only 爱 (ài, \"love\"), which modern readers easily take as romantic love."
+      },
+      {
+       "w": "bhavataṇhā, vibhavataṇhā",
+       "note": "后两种是「对存在的渴爱」和「对不存在的渴爱」（想要消失、断灭）。古译写「色爱、不色之爱」，换成了「色界、无色界」的另一套分类。",
+       "en": "The last two are \"craving for existence\" and \"craving for non-existence\" (wanting to vanish, be annihilated). The classical Chinese writes 色爱、不色之爱 (\"craving for form, craving for the formless\"), switching to a different classification by realms of form and formlessness."
+      }
+     ]
+    },
+    {
+     "h": "5f836ad2",
+     "en": "Now this, bhikkhus, is the noble truth of the cessation of suffering: it is the complete fading away and cessation of that very craving, giving it up, letting it go, being free of it, no longer clinging to it.",
+     "cmp": [
+      {
+       "w": "anālayo",
+       "note": "an-ālaya「无所依附」，ālaya 是「住处、窝、执著的地方」。英文 no longer clinging to it、白话「不再依附它」都译成了「不依附」，丢了「无窝可住」的画面。",
+       "en": "An-ālaya means \"without a home in it\"; ālaya is \"dwelling, nest, a place of attachment.\" The English \"no longer clinging to it\" and the plain Chinese 不再依附它 (\"no longer depending on it\") give the sense but lose the picture of having no nest to settle in."
+      }
+     ]
+    },
+    {
+     "h": "ae0c4b65",
+     "en": "Now this, bhikkhus, is the noble truth of the way leading to the cessation of suffering: it is just this noble eightfold path, that is, right view ... right concentration."
+    },
+    {
+     "h": "cb9ccefb",
+     "en": "'This is the noble truth of suffering': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose. 'This noble truth of suffering is to be fully understood': ... arose in me. 'This noble truth of suffering has been fully understood': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose.",
+     "cmp": [
+      {
+       "w": "pariññeyyan / pariññātan",
+       "note": "这里是「三转」的第一谛：「这是苦」（认识）、「应当彻底了知」（要做的事）、「已经彻底了知」（做完了）。每一谛对应一个动词：苦要了知，集要舍断，灭要亲证，道要修习。英文和白话都保留了这个结构；古译把四谛的三转混在一起，看不出来。",
+       "en": "This is the first truth in its \"three turnings\": \"this is suffering\" (recognizing), \"it is to be fully understood\" (the task), \"it has been fully understood\" (the task done). Each truth has its own verb: suffering is to be understood, its origin abandoned, its cessation realized, the path developed. The English and the plain Chinese keep this structure; the classical Chinese mixes the turnings of the four truths together so it can't be seen."
+      }
+     ]
+    },
+    {
+     "h": "c293bce8",
+     "en": "'This is the noble truth of the origin of suffering': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose. 'This noble truth of the origin of suffering is to be abandoned': ... arose in me. 'This noble truth of the origin of suffering has been abandoned': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose."
+    },
+    {
+     "h": "b1e89259",
+     "en": "'This is the noble truth of the cessation of suffering': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose. 'This noble truth of the cessation of suffering is to be realized': ... arose in me. 'This noble truth of the cessation of suffering has been realized': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose."
+    },
+    {
+     "h": "3dfe1964",
+     "en": "'This is the noble truth of the way leading to the cessation of suffering': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose. 'This noble truth of the way leading to the cessation of suffering is to be developed': ... arose in me. 'This noble truth of the way leading to the cessation of suffering has been developed': bhikkhus, about things never heard before, vision arose in me, knowledge arose, wisdom arose, true knowing arose, light arose.",
+     "cmp": [
+      {
+       "w": "bhāvetabban",
+       "note": "bhāveti 是「使之生长、培养」。白话「修习」、英文 developed 都偏「练习、发展」；巴利文的意思是让道在心里长起来。",
+       "en": "Bhāveti means \"to make grow, to cultivate.\" The plain Chinese 修习 (xiūxí, \"practice\") and the English \"developed\" both lean toward training; the Pali means letting the path grow in the mind."
+      }
+     ]
+    },
+    {
+     "h": "190533ea",
+     "en": "Bhikkhus, as long as my knowing and seeing of these four noble truths as they really are, in their three turnings and twelve aspects, was not fully purified, I did not claim, in this world with its gods, its Māra (the tempter) and its Brahmā, among this population with its renunciants and brahmins, its gods and humans, to have awakened to the unsurpassed perfect awakening.",
+     "cmp": [
+      {
+       "w": "tiparivaṭṭaṁ dvādasākāraṁ",
+       "note": "「三转十二行相」：四谛各有三转（认识、要做、做完），共十二个方面。英文 three turnings and twelve aspects、白话「三转、十二个方面」都照字面。",
+       "en": "\"Three turnings, twelve aspects\": each of the four truths has three turnings (recognizing, the task, the task done), twelve in all. The English and the plain Chinese 三转、十二个方面 both follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "34543559",
+     "en": "But when my knowing and seeing of these four noble truths as they really are, in their three turnings and twelve aspects, was fully purified, then, bhikkhus, I claimed, in this world with its gods, its Māra and its Brahmā, among this population with its renunciants and brahmins, its gods and humans, to have awakened to the unsurpassed perfect awakening. And the knowing and seeing arose in me: 'My release is unshakable. This is my last birth. Now there is no more renewed existence.'\"",
+     "cmp": [
+      {
+       "w": "akuppā",
+       "note": "a-kuppa 字面是「不会被激怒、不会动摇的」。英文 unshakable、白话「不可动摇」都译出了。古译这一段换成了「戒、定、慧、解、度知见」五分法身。",
+       "en": "A-kuppa literally means \"not to be provoked, unshakable.\" The English \"unshakable\" and the plain Chinese 不可动摇 (\"cannot be shaken\") both carry it. The classical Chinese replaces this passage with a list of five qualities: virtue, concentration, wisdom, release, and the knowing and seeing of release."
+      }
+     ]
+    },
+    {
+     "h": "901cfcd3",
+     "en": "This is what the Blessed One said. Glad at heart, the group of five bhikkhus delighted in the Blessed One's words."
+    },
+    {
+     "h": "9107ac4e",
+     "en": "And while this explanation was being spoken, the Dhamma-eye, free of dust and stain, arose in the venerable Koṇḍañña (one of the five bhikkhus): \"Whatever has the nature to arise, all of it has the nature to cease.\"",
+     "cmp": [
+      {
+       "w": "dhammacakkhuṁ",
+       "note": "「法眼」：看清事物本性的眼光。经里给出的内容只有一句：凡是会生起的，都会灭去。古译说得道的是阿若拘邻（即憍陈如）等人和「八千姟天」，还有一千比丘证阿罗汉；巴利本只有憍陈如一人。",
+       "en": "The \"Dhamma-eye\" is the eye that sees the nature of things, and the discourse gives its content in one line: whatever arises will cease. In the classical Chinese those who awaken are Koṇḍañña and others plus \"eight thousand myriad gods,\" and a thousand monks become arahants; in the Pali it is Koṇḍañña alone."
+      }
+     ]
+    },
+    {
+     "h": "36d7edd4",
+     "en": "When the Blessed One had set the wheel of Dhamma in motion, the earth gods raised a cry: \"At Bārāṇasī, in the Deer Park at Isipatana, the Blessed One has set in motion the unsurpassed wheel of Dhamma, which cannot be turned back by any renunciant or brahmin or god or Māra or Brahmā or anyone at all in the world.\"",
+     "cmp": [
+      {
+       "w": "dhammacakka",
+       "note": "cakka「轮」也是转轮王（统治天下的君王）的金轮：王「转动轮子」，就是统治开始。所以天神宣告的是一种新的「统治」开始了，而且「不能让它倒转」。英文和白话都保留了「轮」，但这层王权的比喻要靠读者自己知道。",
+       "en": "Cakka, \"wheel,\" is also the golden wheel of a wheel-turning monarch (a king who rules the world): when the king \"sets the wheel rolling,\" his reign begins. So the gods are proclaiming that a new \"reign\" has begun and \"cannot be turned back.\" The English and the plain Chinese both keep the wheel, but readers have to know the royal image themselves."
+      }
+     ]
+    },
+    {
+     "h": "92fc5bf7",
+     "en": "Hearing the cry of the earth gods, the gods of the Four Great Kings raised a cry: \"At Bārāṇasī, in the Deer Park at Isipatana, the Blessed One has set in motion the unsurpassed wheel of Dhamma, which cannot be turned back by any renunciant or brahmin or god or Māra or Brahmā or anyone at all in the world.\" Hearing the cry of the gods of the Four Great Kings, the gods of the Thirty-three ... the Yāma gods ... the Tusita gods ... the gods who delight in creating ... the gods who wield power over others' creations ... the gods of Brahmā's company raised a cry: \"At Bārāṇasī, in the Deer Park at Isipatana, the Blessed One has set in motion the unsurpassed wheel of Dhamma, which cannot be turned back by any renunciant or brahmin or god or Māra or Brahmā or anyone at all in the world.\"",
+     "cmp": [
+      {
+       "w": "nimmānaratī / paranimmitavasavattī",
+       "note": "这两层天的名字是有意思的：nimmāna-rati「以自己变化出来的东西为乐」，para-nimmita-vasa-vatti「支配别人变化出来的东西」。英文照字面意译，白话用中文旧译「化乐天」「他化自在天」。",
+       "en": "These two heavens have meaningful names: nimmāna-rati, \"delighting in what they create,\" and para-nimmita-vasa-vatti, \"wielding power over what others create.\" The English translates the meaning; the plain Chinese uses the old Chinese names 化乐天 (huàlè tiān) and 他化自在天 (tāhuà zìzài tiān)."
+      }
+     ]
+    },
+    {
+     "h": "2a61f447",
+     "en": "So, in that moment, that instant, that second, the cry rose all the way up to the Brahmā world. And this ten-thousandfold world system shook, quaked and trembled violently, and an immeasurable, magnificent light appeared in the world, surpassing the divine majesty of the gods themselves.",
+     "cmp": [
+      {
+       "w": "dasasahassilokadhātu",
+       "note": "巴利本说「一万个世界」；古译写「三千日月万二千天地」，换成了大乘习惯的「三千大千世界」说法。",
+       "en": "The Pali says \"ten thousand world systems\"; the classical Chinese writes \"three thousand suns and moons, twelve thousand heavens and earths,\" switching to the Mahayana picture of a trichiliocosm."
+      }
+     ]
+    },
+    {
+     "h": "aee498b9",
+     "en": "Then the Blessed One uttered this inspired saying: \"Koṇḍañña has really understood! Koṇḍañña has really understood!\" And so the venerable Koṇḍañña came to be called Aññāsi-Koṇḍañña, \"Koṇḍañña who understood.\" (The first.)",
+     "cmp": [
+      {
+       "w": "aññāsi",
+       "note": "aññāsi 是「他懂了」，动词过去式。名字 Aññāsi-Koṇḍañña 就是「懂了的憍陈如」，中文音译成「阿若憍陈如」，原意就看不出了。英文和白话都在括号里补出了意思。",
+       "en": "Aññāsi is a past-tense verb, \"he understood.\" The name Aññāsi-Koṇḍañña is literally \"Koṇḍañña who understood\"; Chinese transliterates it as 阿若憍陈如 (Āruò Qiáochénrú), which hides the meaning. The English and the plain Chinese both add it in brackets."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

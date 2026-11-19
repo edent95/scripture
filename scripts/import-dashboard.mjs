@@ -10,9 +10,9 @@ const OUT = new URL('../content/', import.meta.url).pathname;
 // 面板 id -> 本站 slug、分组、简介，以及原文 / 古译的底本来源（页面底部署名用）。顺序就是首页的排列顺序。
 // 来源：orig = 原文电子录文，old = 古译电子本；license 照来源自己的授权写。老九部当时没记来源，不写。
 const GRETIL = 'https://gretil.sub.uni-goettingen.de/';
-const SC = { name: 'SuttaCentral（Mahāsaṅgīti）', url: 'https://suttacentral.net/', license: 'CC0' };
+const SC = { name: 'SuttaCentral（Mahāsaṅgīti）', en: 'SuttaCentral (Mahāsaṅgīti)', url: 'https://suttacentral.net/', license: 'CC0' };
 const NC = 'CC BY-NC-SA 4.0';
-const cbeta = (no) => ({ name: `CBETA ${no}`, url: 'https://cbetaonline.dila.edu.tw/', license: 'CBETA 非商业使用条款' });
+const cbeta = (no) => ({ name: `CBETA ${no}`, en: `CBETA ${no.replace(/（.*）/, '')}`, url: 'https://cbetaonline.dila.edu.tw/', license: 'CBETA 非商业使用条款', licenseEn: 'CBETA non-commercial terms' });
 const BOOKS = [
   ['sa-heart', 'heart-sutra', 'buddhism', '两百多字讲「空」：构成「我」的五类东西都没有不变的本质。看清这一点，心就不再被恐惧绑住。'],
   ['sa-vajra', 'diamond-sutra', 'buddhism', '须菩提问佛：想求觉悟的人，心该怎么放？佛的回答是：去帮助一切众生，但心里不抓着「我在帮人」。'],
@@ -20,23 +20,23 @@ const BOOKS = [
     { orig: { ...cbeta('T20n1113B（不空译悉昙本）') }, old: cbeta('T20n1060') }],
   ['sa-amitabha', 'amitabha-sutra', 'buddhism', '没有人发问，佛自己讲起西方极乐世界的样子，劝人一心念阿弥陀佛的名号，往生到那里。'],
   ['sa-bhaisajya', 'medicine-buddha', 'buddhism', '佛讲东方琉璃世界的药师佛：他从前发了十二个大愿，要治众生的病、让饿的人吃饱、冷的人穿暖；听到他的名字、供养他，能免横死、消灾延寿。',
-    { orig: { name: 'GRETIL（DSBC 录入，Vaidya 1961 校本）', url: GRETIL, license: NC }, old: cbeta('T14n0450') }],
+    { orig: { name: 'GRETIL（DSBC 录入，Vaidya 1961 校本）', en: 'GRETIL (DSBC transcription of Vaidya’s 1961 edition)', url: GRETIL, license: NC }, old: cbeta('T14n0450') }],
   ['sa-bhadracari', 'bhadracari', 'buddhism', '《华严经》结尾的六十二颂愿文：礼佛、供养、忏悔、随喜、请佛说法、请佛住世、回向，再发愿生生世世修「贤善之行」，临终往生极乐。',
-    { orig: { name: 'GRETIL（DSBC 录入，Vaidya 1960 校本 Gaṇḍavyūha）', url: GRETIL, license: NC }, old: cbeta('T10n0293') }],
+    { orig: { name: 'GRETIL（DSBC 录入，Vaidya 1960 校本 Gaṇḍavyūha）', en: 'GRETIL (DSBC transcription of Vaidya’s 1960 Gaṇḍavyūha)', url: GRETIL, license: NC }, old: cbeta('T10n0293') }],
   ['sa-sukhavati', 'larger-sukhavati', 'buddhism', '法藏比丘发下大愿、修成阿弥陀佛、建成极乐世界的来龙去脉——净土信仰的源头故事。'],
   ['sa-lotus', 'lotus-sutra', 'buddhism', '佛说：以前讲的几种修行路都是因材施教的方便，最后只有一条路，人人都能成佛。'],
   ['sa-vimala', 'vimalakirti-sutra', 'buddhism', '在家居士维摩诘「病了」，佛的大弟子都不敢去探病，因为都被他问倒过；文殊菩萨去了，两人谈「不二」。'],
   ['sa-lanka', 'lankavatara-sutra', 'buddhism', '佛在楞伽山为大慧菩萨讲：我们看到的世界，都是心自己显现出来的。早期禅宗拿它来印心。'],
   ['sa-mmk', 'middle-way-verses', 'buddhism', '龙树用二十七品短偈，一样一样追问因缘、来去、自我、时间、如来、涅槃，指出什么都找不到独立不变的本质：依条件而有，就是空，也就是中道。',
-    { orig: { name: 'GRETIL（Bachman 录入、Mahoney 修订，de Jong 1977 颂本）', url: GRETIL, license: NC }, old: cbeta('T30n1564') }],
+    { orig: { name: 'GRETIL（Bachman 录入、Mahoney 修订，de Jong 1977 颂本）', en: 'GRETIL (input by Bachman, revised by Mahoney; de Jong 1977 verses)', url: GRETIL, license: NC }, old: cbeta('T30n1564') }],
   ['sa-trimsika', 'thirty-verses', 'buddhism', '世亲用三十首偈讲一件事：我们说的「我」和「世界」，都是识自己变现出来的；从阿赖耶识一路讲到怎样修到「转依」。',
-    { orig: { name: 'GRETIL（DSBC 录入）', url: GRETIL, license: NC }, old: cbeta('T31n1586') }],
+    { orig: { name: 'GRETIL（DSBC 录入）', en: 'GRETIL (DSBC transcription)', url: GRETIL, license: NC }, old: cbeta('T31n1586') }],
   ['sa-vimsatika', 'twenty-verses', 'buddhism', '世亲回应「只有识、没有外境」会招来的反驳：梦、饿鬼、地狱、极微、杀生、他心智，一路论证世界只是心的显现。',
-    { orig: { name: 'GRETIL（Fukita 录入，Lévi 1925 校本）', url: GRETIL, license: NC }, old: cbeta('T31n1590') }],
+    { orig: { name: 'GRETIL（Fukita 录入，Lévi 1925 校本）', en: 'GRETIL (input by Fukita; Lévi 1925 edition)', url: GRETIL, license: NC }, old: cbeta('T31n1590') }],
   ['sa-nyayapravesa', 'gateway-to-logic', 'buddhism', '一本辩论和推理的入门手册：怎样立主张、给理由、举例子，哪些论证看着对其实不对，最后讲「亲见」和「推理」两种认识途径。',
-    { orig: { name: 'Dhruva 校本（GOS 38，1930），本站据 OCR 校订', url: 'https://jainqq.org/', license: '公有领域' }, old: cbeta('T32n1630') }],
+    { orig: { name: 'Dhruva 校本（GOS 38，1930），本站据 OCR 校订', en: 'Dhruva edition (GOS 38, 1930), corrected by this site from OCR', url: 'https://jainqq.org/', license: '公有领域', licenseEn: 'public domain' }, old: cbeta('T32n1630') }],
   ['sa-buddhacarita', 'buddhacarita', 'buddhism', '马鸣用宫廷长诗写佛陀的前半生：出生、宫中享乐、出城见老病死、夜里离家、访师苦行，直到菩提树下降魔、开始觉悟。梵文只存到这里。',
-    { orig: { name: 'GRETIL（DSBC 录入，Johnston 1935 校本）', url: GRETIL, license: NC }, old: cbeta('T04n0192') }],
+    { orig: { name: 'GRETIL（DSBC 录入，Johnston 1935 校本）', en: 'GRETIL (DSBC transcription of Johnston’s 1935 edition)', url: GRETIL, license: NC }, old: cbeta('T04n0192') }],
   ['pi-metta', 'metta-sutta', 'theravada', '十首偈：先说想求寂静的人该是什么样子——正直、知足、不贪恋，再教人像母亲护着独子那样，把善意毫无界限地给一切众生。',
     { orig: SC }],
   ['pi-mangala', 'mangala-sutta', 'theravada', '有人问什么才是最好的吉祥。佛不讲兆头和仪式，而是一条条列出做人的德行：亲近智者、孝养父母、布施、谦卑、知恩，直到心不被得失动摇。',
@@ -50,9 +50,9 @@ const BOOKS = [
   ['sa-gita', 'bhagavad-gita', 'hinduism', '大战开打前，阿周那不忍向亲人动手；黑天告诉他：尽你的本分去做，但别执着结果。'],
   ['sa-yoga', 'yoga-sutras', 'hinduism', '一百九十多句短句讲清楚：瑜伽就是让心的波动停下来，以及一步一步怎么做到。'],
   ['sa-samkhya', 'samkhya-karika', 'hinduism', '自在黑用七十来颂讲数论派的世界观：世界分成能变出万物的「原质」和只看不动的「原人」，认清两者的分别，就能脱离苦。',
-    { orig: { name: 'GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）', url: GRETIL, license: NC }, old: cbeta('T54n2137') }],
+    { orig: { name: 'GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）', en: 'GRETIL (Chowkhamba 1970; verse 66 from Ruzsa’s edition)', url: GRETIL, license: NC }, old: cbeta('T54n2137') }],
   ['sa-upanishads', 'upanishads', 'hinduism', '三部古印度奥义书，讲「自我」和宇宙根本「梵」的关系：伊莎篇讲舍弃与享用；蛙氏篇用「唵」的三个音讲醒、梦、熟睡和第四种状态；羯陀篇是少年那支凯多向死神追问人死后去哪里。',
-    { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', url: GRETIL, license: NC } }],
+    { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', en: 'GRETIL (Īśā: Kāṇva recension; Māṇḍūkya: input by Samuels; Kaṭha: after Olivelle 1998)', url: GRETIL, license: NC } }],
 ];
 
 /** 面板 prose 格式 -> 本站的 chapters[]。导入和 check-dashboard-book.mjs 共用。 */

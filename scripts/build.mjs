@@ -60,8 +60,8 @@ const T = {
     chapters: (n) => `${n} 章`,
     verses: (n) => `${n} 段`,
     sep: ' · ',
-    compareKicker: '梵文 · 英文 · 中文',
-    compareTitle: '英文、中文、梵文差在哪',
+    compareKicker: (o) => `${o} · 英文 · 中文`,
+    compareTitle: (o) => `英文、中文、${o}差在哪`,
     compareHint: '每段白话下面的「三语对照」，是这一段里具体的差别。',
     cmpLabel: (n) => `三语对照 ${n}`,
     toDark: '换成深色',
@@ -82,8 +82,8 @@ const T = {
     chapters: (n) => `${n} chapters`,
     verses: (n) => `${n} passages`,
     sep: ' · ',
-    compareKicker: 'Sanskrit · English · Chinese',
-    compareTitle: 'Where English, Chinese and Sanskrit part ways',
+    compareKicker: (o) => `${o} · English · Chinese`,
+    compareTitle: (o) => `Where English, Chinese and ${o} part ways`,
     compareHint: 'The “Three languages” note under a passage gives the specific differences in that passage.',
     cmpLabel: (n) => `Three languages ${n}`,
     toDark: 'Switch to dark theme',
@@ -127,8 +127,8 @@ function compareSection(b, lang) {
   const pLang = lang === 'en' && !b.en.compareEn ? ' lang="zh-Hans"' : '';
   return `
 <section class="compare" id="compare">
-  <p class="kicker">${t.compareKicker}</p>
-  <h2>${esc(t.compareTitle)}</h2>
+  <p class="kicker">${t.compareKicker(orig(b, lang))}</p>
+  <h2>${esc(t.compareTitle(orig(b, lang)))}</h2>
   ${paras.map((p) => `<p${pLang}>${esc(p)}</p>`).join('\n  ')}
   <p class="meta">${esc(t.compareHint)}</p>
 </section>`;
@@ -278,11 +278,11 @@ ${groups
     alt: { zh: '/', en: '/en/' },
     title:
       lang === 'en'
-        ? `${t.siteName}: Heart Sutra, Diamond Sutra, Bhagavad Gita and Yoga Sutras from the Sanskrit`
+        ? `${t.siteName}: Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads and more, from the Sanskrit and Pali`
         : `${t.siteName}：心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌原文对照`,
     description:
       lang === 'en'
-        ? 'The Heart Sutra, Diamond Sutra, Amitabha Sutra, Bhagavad Gita and Yoga Sutras translated straight from the Sanskrit into plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.'
+        ? 'The Heart Sutra, Diamond Sutra, Great Compassion Mantra, Medicine Buddha Sutra, Verses on the Middle Way, Dhammapada, Metta Sutta, Bhagavad Gita, Yoga Sutras, Upanishads and more, translated straight from the Sanskrit and Pali into plain English, passage by passage, with notes on where English, Chinese and the original differ.'
         : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书等 24 部经典：从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
     body,
     jsonLd: {
@@ -413,12 +413,16 @@ function verseHtml(v, j, lang, b) {
 
 // 底本署名：原文电子录文与古译电子本各自的来源和授权（只在中文版显示；来源名是中文写的，英文版有了英译再补英文写法）
 function sourceNote(b, lang) {
-  if (lang !== 'zh' || !b.source) return '';
+  if (!b.source) return '';
+  if (lang === 'en') {
+    const o = b.source.orig;
+    if (!o) return '';
+    return `\n<p class="meta source-note">${esc(orig(b, 'en'))} source: <a href="${esc(o.url)}" rel="noopener">${esc(o.en ?? o.name)}</a> (${esc(o.licenseEn ?? o.license)}). This site’s English and notes are CC BY 4.0; the source text keeps its own license.</p>`;
+  }
   const one = (label, src) =>
     src ? `${label}：<a href="${esc(src.url)}" rel="noopener">${esc(src.name)}</a>（${esc(src.license)}）` : '';
   const parts = [one(`${orig(b, 'zh')}底本`, b.source.orig), one('古译', b.source.old)].filter(Boolean);
-  return `
-<p class="meta source-note">${parts.join('；')}。本站白话与注释以 CC BY 4.0 授权，底本按各自来源的授权使用。</p>`;
+  return `\n<p class="meta source-note">${parts.join('；')}。本站白话与注释以 CC BY 4.0 授权，底本按各自来源的授权使用。</p>`;
 }
 
 function chapterPage(b, i, lang) {
