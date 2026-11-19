@@ -4,7 +4,7 @@
 import { createRequire } from 'node:module';
 import { join } from 'node:path';
 import { mkdirSync, writeFileSync } from 'node:fs';
-import { SCENE_NAMES, sceneSvg } from './scenes.mjs';
+import { SCENE_NAMES, coverSceneSvg, sceneSvg } from './scenes.mjs';
 
 const Mandala = createRequire(import.meta.url)('./mandala-core.cjs');
 
@@ -65,6 +65,25 @@ export function writeEmblems(outDir) {
       }
     }
   }
+}
+
+// 首页封面墙(xhs-cover-feed 技能)的六种墨色,深浅相间:森林绿、米白、酒红、藏青、浅粉、赭黄。
+// 封面是「图片」,不跟浅深色模式变。一本书固定一种(按书的顺序轮),线稿文件 covers/<slug>.svg 按它上色。
+export const COVER_TONES = [
+  { bg: '#1f3d32', ink: '#ece5d3', foil: '#dcb563' },
+  { bg: '#f1ebdd', ink: '#27362f', foil: '#a87624' },
+  { bg: '#5a1f2b', ink: '#f2e4d8', foil: '#e2b76d' },
+  { bg: '#1c2a4a', ink: '#e8e5db', foil: '#dab868' },
+  { bg: '#f3d9d4', ink: '#45222d', foil: '#9c5f22' },
+  { bg: '#d9a441', ink: '#2c2010', foil: '#7a2a1c' },
+];
+export const coverTone = (i) => COVER_TONES[i % COVER_TONES.length];
+
+/** covers/<slug>.svg:keys 的顺序就是书的顺序,决定每本书的墨色 */
+export function writeCovers(outDir, keys) {
+  const dir = join(outDir, 'covers');
+  mkdirSync(dir, { recursive: true });
+  keys.forEach((key, i) => writeFileSync(join(dir, `${key}.svg`), coverSceneSvg(key, coverTone(i))));
 }
 
 /** 跟系统浅深色与「减少动效」走的 <picture>;still = 一律静止(小图) */

@@ -139,7 +139,27 @@ test('首页有「继续读」按钮位和「在读」「读完了」两个书�
   const css = readFileSync(join(OUT, 'styles.css'), 'utf8');
   assert.ok(css.includes('top: var(--header-h, 64px)'), '栏目开关要跟着页头实际高度贴');
   assert.match(css, /@media \(max-width: 480px\) \{[^}]*\}\s*\.home-link \{ display: none; \}/, '小屏要收掉页头的 Eden 链接');
-  assert.ok(css.includes('.book-list { grid-template-columns: minmax(0, 1fr); }'), '手机上书卡不能被内容撑得比屏幕宽');
+  assert.ok(css.includes('grid-template-columns: repeat(2, minmax(0, 1fr));') && css.includes('repeat(var(--feed-cols, 2), minmax(0, 1fr))'), '手机上书卡不能被内容撑得比屏幕宽');
+});
+
+test('首页封面墙：每本书一张封面（线稿文件存在、墨色与底色一致），相邻两本不撞色不撞版式，英文版封面上没有中文', () => {
+  const books = loadBooks();
+  build();
+  for (const file of ['index.html', 'en/index.html']) {
+    const html = readFileSync(join(OUT, file), 'utf8');
+    const cards = [...html.matchAll(/data-book="([^"]+)"[^>]*>\s*<div class="feed-art" data-layout="(\d)" data-pattern="(\d)" style="[^"]*--cover-bg:(#[0-9a-f]{6})[^"]*">\s*<img class="feed-scene" src="(\/covers\/[^"]+)"[\s\S]*?<h3 class="feed-title">([^<]+)<\/h3>\s*<span class="feed-seal"[^>]*>([^<]+)</g)];
+    assert.equal(cards.length, books.length, `${file} 封面数不对`);
+    cards.forEach(([, slug, layout, , bg, src, name, seal], i) => {
+      assert.equal(src, `/covers/${slug}.svg`);
+      const svg = readFileSync(join(OUT, src), 'utf8');
+      assert.ok(svg.includes(`fill="${bg}"`) || !svg.includes('fill="#'), `${slug} 线稿的实心件要用封面底色`);
+      assert.ok(svg.includes('non-scaling-stroke') && !svg.includes('<animate'), `${slug} 封面线稿要静止、线宽不随缩放变`);
+      if (i) assert.ok(cards[i - 1][2] !== layout && cards[i - 1][4] !== bg, `${slug} 和前一本撞版式或撞色`);
+      if (file.startsWith('en/')) assert.ok(!/[\u4e00-\u9fff]/.test(name + seal), `英文版封面有中文：${name} ${seal}`);
+    });
+  }
+  const js = readFileSync(join(OUT, 'app.js'), 'utf8');
+  assert.ok(js.indexOf("shelve('done'") < js.indexOf("'book-list feed'"), '要先搬书架再分列');
 });
 
 test('每页页脚写明 CC BY 4.0 授权并链到协议，仓库有 LICENSE', () => {

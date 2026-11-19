@@ -1266,8 +1266,20 @@ const SUBJECTS = {
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 
 export function sceneSvg(name, { palette = 'light', animate = true } = {}) {
-  const P = PALETTES[palette];
+  const P = typeof palette === 'string' ? PALETTES[palette] : palette;
   const s = SUBJECTS[name](P, animate);
   const defs = DEFS.replace('</defs>', `${s.defs ?? ''}</defs>`);
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-190 -190 380 380" fill="none" stroke-linecap="round" stroke-linejoin="round">${defs}${frame(P, animate, s.frame)}${clipped(s.body)}</svg>`;
+}
+
+/**
+ * 首页封面墙用的线稿:静止,颜色跟封面墨色走(paper = 封面底色,实心件才不会露白)。
+ * 原图按 380px 画,线宽 0.4–0.9;封面上只有 150–400px,所以线宽改成不随缩放变,再整体加粗到屏幕上看得见。
+ */
+export function coverSceneSvg(name, { bg, ink, foil }) {
+  const rgba = (hex, a) => `rgba(${[1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16)).join(',')},${a})`;
+  const svg = sceneSvg(name, { palette: { ink: rgba(ink, 0.78), faint: rgba(ink, 0.26), foil, paper: bg }, animate: false });
+  return svg
+    .replace(/stroke-width="([\d.]+)"/g, (_, w) => `stroke-width="${(Number(w) * 1.5).toFixed(2)}"`)
+    .replace(/(<svg[^>]*>)/, '$1<style>*{vector-effect:non-scaling-stroke}</style>');
 }
