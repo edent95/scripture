@@ -92,6 +92,27 @@ test('英文版：有英译的书每章都有英文页，段数一致，右上�
   }
 });
 
+test('首页不放使用说明；每页有浅深色切换；书卡与章节页带阅读进度用的数据', () => {
+  const books = loadBooks();
+  const paths = build();
+  const zhHome = readFileSync(join(OUT, 'index.html'), 'utf8');
+  const enHome = readFileSync(join(OUT, 'en', 'index.html'), 'utf8');
+  assert.ok(!zhHome.includes('点右上角 EN 切换') && !zhHome.includes('每一段先给从梵文直译的白话'), '中文首页还有使用说明');
+  assert.ok(!enHome.includes('one click away'), '英文首页还有使用说明');
+  for (const p of paths) {
+    const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+    assert.ok(html.includes('class="theme-toggle"'), `${p} 缺浅深色切换`);
+    assert.ok(html.indexOf("localStorage.getItem('scripture.theme')") < html.indexOf('<body'), `${p} 主题要在 body 之前套上`);
+  }
+  for (const b of books) {
+    assert.ok(zhHome.includes(`data-book="${b.slug}" data-verses="${b.chapters.map((c) => c.verses.length).join(',')}"`), `首页 ${b.slug} 卡缺进度数据`);
+    b.chapters.forEach((ch, i) => {
+      const html = readFileSync(join(OUT, chapterPath(b, i), 'index.html'), 'utf8');
+      assert.ok(html.includes(`<body data-lang="zh" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}">`), `${chapterPath(b, i)} 缺进度数据`);
+    });
+  }
+});
+
 test('本地服务：页面 200、缺斜杠 301、未知路径 404', async () => {
   build();
   const server = await startServer(0);
