@@ -41,6 +41,8 @@ const T = {
     compareTitle: '英文、中文、梵文差在哪',
     compareHint: '每段白话下面的「三语对照」，是这一段里具体的差别。',
     cmpLabel: (n) => `三语对照 ${n}`,
+    toDark: '换成深色',
+    toLight: '换成浅色',
   },
   en: {
     htmlLang: 'en',
@@ -61,6 +63,8 @@ const T = {
     compareTitle: 'Where English, Chinese and Sanskrit part ways',
     compareHint: 'The “Three languages” note under a passage gives the specific differences in that passage.',
     cmpLabel: (n) => `Three languages ${n}`,
+    toDark: 'Switch to dark theme',
+    toLight: 'Switch to light theme',
   },
 };
 
@@ -109,7 +113,7 @@ function langToggle(lang, alt) {
 }
 
 /** alt: { zh, en } 这一页在两种语言里的路径；只有真正对应的页才写 hreflang。 */
-function layout({ lang, path, alt, exact = true, title: pageTitle, description, body, jsonLd, noindex = false }) {
+function layout({ lang, path, alt, exact = true, title: pageTitle, description, body, jsonLd, noindex = false, bodyData = '' }) {
   const t = T[lang];
   const url = SITE + path;
   const hreflang = exact
@@ -139,12 +143,14 @@ ${hreflang}<meta property="og:type" content="article">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap">
 <link rel="stylesheet" href="/styles.css">
+<script>try{var t=localStorage.getItem('scripture.theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
-<body data-lang="${lang}">
+<body data-lang="${lang}"${bodyData}>
 <header class="site-header">
   <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span>${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
   <div class="header-actions">
     ${langToggle(lang, alt)}
+    <button class="theme-toggle" type="button" data-to-dark="${esc(t.toDark)}" data-to-light="${esc(t.toLight)}" aria-label="${esc(t.toDark)}" title="${esc(t.toDark)}"><span class="icon-moon" aria-hidden="true"></span><span class="icon-sun" aria-hidden="true"></span></button>
     <a class="home-link" href="${MAIN_SITE}/${lang === 'zh' ? 'zh/' : ''}">Eden ↗</a>
   </div>
 </header>
@@ -168,9 +174,12 @@ function breadcrumbLd(items) {
   };
 }
 
+// 阅读进度：卡片 / 章节目录带上书的 slug 和每章段数，src/app.js 按本机记下的进度标「读完」「读到一半」
+const progressAttrs = (b) => `data-book="${b.slug}" data-verses="${b.chapters.map((ch) => ch.verses.length).join(',')}"`;
+
 function bookCard(b, lang) {
   const t = T[lang];
-  return `<li><a href="${bookPath(b, lang)}">
+  return `<li><a href="${bookPath(b, lang)}" ${progressAttrs(b)}>
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(title(b, lang))}</strong>
       <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
@@ -189,13 +198,9 @@ function homePage(books, lang) {
   const intro =
     lang === 'en'
       ? `<p class="kicker">Scripture / ${shown.length} Sanskrit classics in English</p>
-    <h1>Read the scriptures straight from the Sanskrit</h1>
-    <p>Every passage is translated directly from the Sanskrit into plain English, with the Devanagari original and its romanization alongside. A short note marks where the English, the Chinese and the Sanskrit part ways: a word that shifts meaning, a line an ancient translator added or cut.</p>
-    <p>A Chinese edition, with the classical translations by Xuanzang and Kumarajiva, is one click away under 中文 at the top right.</p>`
+    <h1>Read the scriptures straight from the Sanskrit</h1>`
       : `<p class="kicker">梵文经典 / ${books.length} 部</p>
-    <h1>从梵文直接读懂经书</h1>
-    <p>每一段先给从梵文直译的白话，再把玄奘、鸠摩罗什这些古代译本放在旁边对照：古人多译了什么、少译了什么、哪里和梵文不一样，都标出来。最后附梵文原文和罗马转写。</p>
-    <p>${books.filter(hasEn).map((b) => esc(b.title)).join('、')}另有英文版（同样从梵文直译），每段都标出英文、中文、梵文的差别。点右上角 EN 切换。</p>`;
+    <h1>从梵文直接读懂经书</h1>`;
   const body = `
 <section class="hero hero--art">
   <div class="hero-copy">
@@ -224,7 +229,7 @@ ${groups
   <ul class="book-list">
     ${pending
       .map(
-        (b) => `<li><a href="${bookPath(b, 'zh')}" hreflang="zh-Hans">
+        (b) => `<li><a href="${bookPath(b, 'zh')}" hreflang="zh-Hans" ${progressAttrs(b)}>
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(EN_PENDING[b.slug]?.[0] ?? b.sanskrit)}</strong>
       <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
@@ -282,7 +287,7 @@ function bookIndexPage(b, lang) {
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
-      return `<li><a href="${chapterPath(b, i, lang)}"><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
+      return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
 </ol>${compareSection(b, lang)}`;
@@ -417,6 +422,7 @@ function chapterPage(b, i, lang) {
     path: chapterPath(b, i, lang),
     alt: chapterAlt(b, i),
     exact: hasEn(b),
+    bodyData: ` data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"`,
     title:
       lang === 'en'
         ? `${heading}: Sanskrit with plain English translation`
