@@ -176,6 +176,7 @@ function layout({ lang, path, alt, exact = true, title: pageTitle, description, 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(pageTitle)}</title>
 <meta name="description" content="${esc(description)}">
+<meta name="msvalidate.01" content="EFE62ECEA018947B29A9A559E0ED2C27">
 ${noindex ? '<meta name="robots" content="noindex">\n' : ''}<link rel="canonical" href="${esc(url)}">
 ${hreflang}<meta property="og:type" content="article">
 <meta property="og:site_name" content="${esc(t.siteName)}">
