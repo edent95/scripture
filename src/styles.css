@@ -432,3 +432,7 @@ main { overflow-x: clip; }
 @media (max-width: 760px) {
   .header-actions { gap: 2px; }
 }
+
+/* 底本署名:页面末尾一行小字,不抢经文 */
+.source-note { max-width: var(--measure); margin: clamp(32px, 4vw, 56px) 0 0; color: var(--muted); font-size: 0.78rem; line-height: 1.7; text-transform: none; }
+.source-note a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }

@@ -6,6 +6,13 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
 import { emblemPicture, writeEmblems } from './emblems.mjs';
+import { SCENE_NAMES } from './scenes.mjs';
+
+// 书页首屏插画：有专属主题插画（scripts/scenes.mjs）的用插画，还没画的先用这部书的花纹章
+const heroArt = (b) =>
+  SCENE_NAMES.includes(b.slug)
+    ? emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })
+    : emblemPicture(b.slug, 'hero-emblem hero-scene');
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -20,6 +27,21 @@ const EN_PENDING = {
   'lotus-sutra': ['The Lotus Sutra', 'The Buddha says the different paths he taught before were skillful means fitted to each listener; in the end there is only one path, and everyone can become a buddha.'],
   'vimalakirti-sutra': ['The Vimalakirti Sutra', 'The layman Vimalakirti is "ill". None of the Buddha’s great disciples dare visit him, since he has out-argued each of them; Manjushri goes, and the two talk about non-duality.'],
   'lankavatara-sutra': ['The Lankavatara Sutra', 'On Mount Lanka the Buddha teaches the bodhisattva Mahamati that the world we see is the mind showing itself. Early Chan used it to confirm awakening.'],
+  'great-compassion-mantra': ['The Great Compassion Mantra', 'The Avalokiteshvara mantra Chinese Buddhists chant most, explained line by line from the Sanskrit: homage to the Three Jewels, a call to the "blue-throated" lord, and a string of blessings.'],
+  'medicine-buddha': ['The Medicine Buddha Sutra', 'The Buddha of the eastern Lapis Lazuli land and his twelve vows: to heal the sick, feed the hungry and clothe the cold.'],
+  bhadracari: ['The Vow of Good Conduct', 'The sixty-two verses that close the Avatamsaka: homage, offering, confession, rejoicing, and the vow to keep the "good conduct" life after life.'],
+  'middle-way-verses': ['Verses on the Middle Way', 'Nagarjuna questions causes, motion, self, time and nirvana one by one and finds nothing with a fixed nature of its own: what arises from conditions is empty, and that is the middle way.'],
+  'thirty-verses': ['Thirty Verses on Consciousness Only', 'Vasubandhu in thirty verses: the "self" and the "world" are what consciousness itself projects, from the store-consciousness to the final turning around.'],
+  'twenty-verses': ['Twenty Verses on Consciousness Only', 'Vasubandhu answers the objections to "only consciousness, no outer objects": dreams, hungry ghosts, hells, atoms, killing and reading other minds.'],
+  'gateway-to-logic': ['A Gateway to Logic', 'A handbook of debate: how to state a thesis, give a reason and an example, which arguments only look valid, and the two ways of knowing, perception and inference.'],
+  buddhacarita: ['The Life of the Buddha', 'Ashvaghosha’s court epic of the Buddha’s early life, from his birth to his victory over Mara under the bodhi tree. The Sanskrit survives only this far.'],
+  'metta-sutta': ['The Discourse on Loving-kindness', 'Ten verses: what someone seeking peace should be like, and how to give goodwill without limit to every being, as a mother guards her only child.'],
+  'mangala-sutta': ['The Discourse on Blessings', 'Asked what the highest blessing is, the Buddha skips omens and rituals and lists ways of living instead, up to a mind that gain and loss cannot shake.'],
+  dhammacakka: ['Setting the Wheel of Dhamma in Motion', 'The Buddha’s first teaching: avoid both indulgence and self-torment, and the four truths about suffering, its origin, its end and the way there.'],
+  satipatthana: ['The Great Discourse on Mindfulness', 'The fullest teaching on mindfulness: keep watching body, feelings, mind and mental phenomena, see them arise and pass, and stop clinging.'],
+  dhammapada: ['The Dhammapada', '423 short verses on how the mind brings pain and joy, on heedfulness, hatred and craving. The most memorized text in Theravada Buddhism.'],
+  'samkhya-karika': ['The Samkhya Verses', 'Ishvarakrishna’s seventy-odd verses: the world splits into matter that becomes everything and spirit that only watches; seeing the difference ends suffering.'],
+  upanishads: ['Three Upanishads', 'Isha, Mandukya and Katha on the self and brahman: renouncing and enjoying, the four states behind the syllable Om, and a boy who questions Death.'],
 };
 
 const T = {
@@ -30,7 +52,7 @@ const T = {
     siteSub: '',
     home: '首页',
     sitemap: '网站地图',
-    footer: '梵文原文与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
+    footer: '梵文、巴利文原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
     notFound: '找不到这一页',
     backHome: '回到首页',
     cols: '显示哪几栏',
@@ -52,7 +74,7 @@ const T = {
     siteSub: '',
     home: 'Home',
     sitemap: 'Sitemap',
-    footer: 'The Sanskrit texts and the classical Chinese translations (Xuanzang, Kumarajiva, Kang Sengkai, Shikshananda) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
+    footer: 'The Sanskrit and Pali texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
     notFound: 'Page not found',
     backHome: 'Back to home',
     cols: 'Columns to show',
@@ -78,7 +100,14 @@ export const chapterPath = (b, i, lang = 'zh') => (b.chapters.length === 1 ? boo
 const homePath = (lang) => `${T[lang].prefix}/`;
 const verseCount = (b) => b.chapters.reduce((n, ch) => n + ch.verses.length, 0);
 const hasEn = (b) => Boolean(b.en);
-const langs = (lang) => [T[lang].htmlLang, 'sa'];
+// 原文语言：梵文（缺省）或巴利文。书的 origLang 由导入脚本按面板 id 前缀（sa- / pi-）写入。
+const ORIG = {
+  sa: { zh: '梵文', en: 'Sanskrit', short: '梵' },
+  pi: { zh: '巴利文', en: 'Pali', short: '巴' },
+};
+const origCode = (b) => b?.origLang ?? 'sa';
+const orig = (b, lang) => ORIG[origCode(b)][lang];
+const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi']);
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
@@ -86,8 +115,8 @@ const saName = (b, lang) => (lang === 'en' ? b.sanskrit.replace('(小本)', ' (s
 const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
 const chTitle = (ch, lang) => (lang === 'en' ? ch.en : ch.title);
 function compareLabel(b, lang) {
-  if (lang === 'en') return 'translated from the Sanskrit';
-  return b.oldTranslator ? `${b.oldTranslator}译本对照` : '梵汉对照';
+  if (lang === 'en') return `translated from the ${orig(b, 'en')}`;
+  return b.oldTranslator ? `${b.oldTranslator}译本对照` : `${ORIG[origCode(b)].short}汉对照`;
 }
 
 // 三语对照总结。多章书放在目录页，单章书放在经文后面。
@@ -183,7 +212,7 @@ function bookCard(b, lang) {
   return `<li><a href="${bookPath(b, lang)}" ${progressAttrs(b)}>
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(title(b, lang))}</strong>
-      <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
+      <span class="sa-name" lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span>
       <p>${esc(summary(b, lang))}</p>
       <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</small>
     </a></li>`;
@@ -198,10 +227,10 @@ function homePage(books, lang) {
   const pending = books.filter((b) => !hasEn(b));
   const intro =
     lang === 'en'
-      ? `<p class="kicker">Scripture / ${shown.length} Sanskrit classics in English</p>
-    <h1>Read the scriptures straight from the Sanskrit</h1>`
-      : `<p class="kicker">梵文经典 / ${books.length} 部</p>
-    <h1>从梵文直接读懂经书</h1>`;
+      ? `<p class="kicker">Scripture / ${shown.length} classics in English</p>
+    <h1>Read the scriptures straight from the original</h1>`
+      : `<p class="kicker">梵文 · 巴利文经典 / ${books.length} 部</p>
+    <h1>从原文直接读懂经书</h1>`;
   const body = `
 <section class="hero hero--art">
   <div class="hero-copy">
@@ -233,7 +262,7 @@ ${groups
         (b) => `<li><a href="${bookPath(b, 'zh')}" hreflang="zh-Hans" ${progressAttrs(b)}>
       ${emblemPicture(b.slug, 'card-emblem', { still: true })}
       <strong>${esc(EN_PENDING[b.slug]?.[0] ?? b.sanskrit)}</strong>
-      <span class="sa-name" lang="sa-Latn">${esc(saName(b, lang))}</span>
+      <span class="sa-name" lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span>
       <p>${esc(EN_PENDING[b.slug]?.[1] ?? '')}</p>
       <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · Chinese edition ↗</small>
     </a></li>`,
@@ -250,11 +279,11 @@ ${groups
     title:
       lang === 'en'
         ? `${t.siteName}: Heart Sutra, Diamond Sutra, Bhagavad Gita and Yoga Sutras from the Sanskrit`
-        : `${t.siteName}：心经、金刚经、法华经、薄伽梵歌梵汉对照`,
+        : `${t.siteName}：心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌原文对照`,
     description:
       lang === 'en'
         ? 'The Heart Sutra, Diamond Sutra, Amitabha Sutra, Bhagavad Gita and Yoga Sutras translated straight from the Sanskrit into plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.'
-        : '心经、金刚经、阿弥陀经、无量寿经、法华经、维摩诘经、楞伽经、薄伽梵歌、瑜伽经：从梵文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
+        : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书等 24 部经典：从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -280,11 +309,11 @@ function bookIndexPage(b, lang) {
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${esc(tradition)}</nav>
 <section class="hero hero--art hero--book">
   <div class="hero-copy">
-  <h1>${esc(title(b, lang))}<span lang="sa-Latn">${esc(saName(b, lang))}</span></h1>
+  <h1>${esc(title(b, lang))}<span lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span></h1>
   <p>${esc(summary(b, lang))}</p>
   <p class="meta">${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</p>
   </div>
-  ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
+  ${heroArt(b)}
 </section>
 <ol class="chapter-list">
   ${b.chapters
@@ -292,7 +321,7 @@ function bookIndexPage(b, lang) {
       return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
-</ol>${compareSection(b, lang)}`;
+</ol>${compareSection(b, lang)}${sourceNote(b, lang)}`;
   return layout({
     lang,
     path: bookPath(b, lang),
@@ -300,12 +329,12 @@ function bookIndexPage(b, lang) {
     exact: hasEn(b),
     title:
       lang === 'en'
-        ? `${b.en.title} (${saName(b, lang)}): Sanskrit, plain English and Chinese side by side`
-        : `${b.title} 梵文原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
+        ? `${b.en.title} (${saName(b, lang)}): ${orig(b, 'en')}, plain English and Chinese side by side`
+        : `${b.title} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
     description:
       lang === 'en'
-        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with the Sanskrit in Devanagari and romanization.`
-        : `${b.summary} 共 ${b.chapters.length} 章，每段附梵文天城体与罗马转写。`,
+        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with the ${orig(b, 'en')} in Devanagari and romanization.`
+        : `${b.summary} 共 ${b.chapters.length} 章，每段附${orig(b, 'zh')}天城体与罗马转写。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -315,7 +344,7 @@ function bookIndexPage(b, lang) {
           name: title(b, lang),
           alternateName: saName(b, lang),
           url: SITE + bookPath(b, lang),
-          inLanguage: langs(lang),
+          inLanguage: langs(lang, b),
           license: LICENSE_URL,
           hasPart: b.chapters.map((ch, i) => ({ '@type': 'Chapter', name: chTitle(ch, lang), url: SITE + chapterPath(b, i, lang) })),
         },
@@ -363,7 +392,7 @@ function oldHtml(v) {
     </div>`;
 }
 
-function verseHtml(v, j, lang) {
+function verseHtml(v, j, lang, b) {
   const t = T[lang];
   const zh = `
     <div class="col zh" data-col="zh">
@@ -372,14 +401,24 @@ function verseHtml(v, j, lang) {
   // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文（下挂三语对照）→ 梵文，不放中文栏
   const sa = `
     <div class="col sa" data-col="sa">
-      <p class="deva" lang="sa">${esc(v.sa.text)}</p>
-      <p class="iast" lang="sa-Latn">${esc(v.sa.tr)}</p>
+      <p class="deva" lang="${origCode(b)}">${esc(v.sa.text)}</p>
+      <p class="iast" lang="${origCode(b)}-Latn">${esc(v.sa.tr)}</p>
     </div>`;
   const cols = lang === 'en' ? [enHtml(v, lang), sa] : [zh, oldHtml(v), sa];
   return `
   <li class="verse" id="v${j + 1}">
     <a class="num" href="#v${j + 1}" aria-label="${t.verseLabel(j + 1)}">${j + 1}</a>${cols.join('')}
   </li>`;
+}
+
+// 底本署名：原文电子录文与古译电子本各自的来源和授权（只在中文版显示；来源名是中文写的，英文版有了英译再补英文写法）
+function sourceNote(b, lang) {
+  if (lang !== 'zh' || !b.source) return '';
+  const one = (label, src) =>
+    src ? `${label}：<a href="${esc(src.url)}" rel="noopener">${esc(src.name)}</a>（${esc(src.license)}）` : '';
+  const parts = [one(`${orig(b, 'zh')}底本`, b.source.orig), one('古译', b.source.old)].filter(Boolean);
+  return `
+<p class="meta source-note">${parts.join('；')}。本站白话与注释以 CC BY 4.0 授权，底本按各自来源的授权使用。</p>`;
 }
 
 function chapterPage(b, i, lang) {
@@ -395,7 +434,7 @@ function chapterPage(b, i, lang) {
     zh: lang === 'zh' ? '<button type="button" data-toggle="zh" aria-pressed="true">白话直译</button>' : '',
     en: lang === 'en' ? '<button type="button" data-toggle="en" aria-pressed="true">English</button>' : '',
     old: hasOld && lang === 'zh' ? `<button type="button" data-toggle="old" aria-pressed="true">${esc(oldLabel)}</button>` : '',
-    sa: `<button type="button" data-toggle="sa" aria-pressed="true">${lang === 'en' ? 'Sanskrit' : '梵文'}</button>`,
+    sa: `<button type="button" data-toggle="sa" aria-pressed="true">${esc(orig(b, lang))}</button>`,
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
@@ -403,17 +442,17 @@ function chapterPage(b, i, lang) {
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 <section class="hero compact hero--art hero--book">
   <div class="hero-copy">
-  <h1>${esc(heading)}<span lang="sa-Latn">${esc(saName(b, lang))}</span></h1>
+  <h1>${esc(heading)}<span lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span></h1>
   ${sub ? `<p>${esc(sub)}</p>` : ''}
   <p class="meta">${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}</p>
   </div>
-  ${emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })}
+  ${heroArt(b)}
 </section>
 <div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
 </div>
-<ol class="verses">${ch.verses.map((v, j) => verseHtml(v, j, lang)).join('')}
-</ol>${single ? compareSection(b, lang) : ''}
+<ol class="verses">${ch.verses.map((v, j) => verseHtml(v, j, lang, b)).join('')}
+</ol>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang)}
 <nav class="pager">
   ${prev ? `<a rel="prev" href="${chapterPath(b, i - 1, lang)}">← ${esc(chTitle(prev, lang))}</a>` : '<span></span>'}
   ${next ? `<a rel="next" href="${chapterPath(b, i + 1, lang)}">${esc(chTitle(next, lang))} →</a>` : '<span></span>'}
@@ -428,8 +467,8 @@ function chapterPage(b, i, lang) {
     bodyData: ` data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"`,
     title:
       lang === 'en'
-        ? `${heading}: Sanskrit with plain English translation`
-        : `${heading} 梵文原文 · 白话直译 · ${compareLabel(b, lang)}`,
+        ? `${heading}: ${orig(b, 'en')} with plain English translation`
+        : `${heading} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)}`,
     description: clip(lang === 'en' ? ch.verses[0].en.text : ch.verses[0].zh, lang === 'en' ? 160 : 140),
     body,
     jsonLd: {
@@ -440,7 +479,7 @@ function chapterPage(b, i, lang) {
           name: heading,
           alternateName: saName(b, lang),
           url: SITE + chapterPath(b, i, lang),
-          inLanguage: langs(lang),
+          inLanguage: langs(lang, b),
           license: LICENSE_URL,
           ...(single ? {} : { isPartOf: { '@type': 'Book', name: title(b, lang), url: SITE + bookPath(b, lang) } }),
         },
@@ -498,7 +537,7 @@ export function build() {
   const en = books.filter(hasEn);
   write(
     'llms.txt',
-    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit texts and classical Chinese translations are public domain.\n\n${books
+    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文、巴利文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit and Pali into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit/Pali texts and classical Chinese translations are public domain; the digital source transcriptions keep their own licenses (credited on each book page).\n\n${books
       .map(
         (b) =>
           `## ${b.title} (${b.sanskrit})${hasEn(b) ? ` — ${b.en.title}` : ''}\n\n${b.summary}\n\n${hasEn(b) ? `${b.en.summary}\n\n` : ''}${b.chapters.map((ch, i) => `- [${ch.title}](${SITE}${chapterPath(b, i)})`).join('\n')}`,

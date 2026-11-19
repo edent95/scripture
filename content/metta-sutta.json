@@ -1,0 +1,229 @@
+{
+ "slug": "metta-sutta",
+ "order": 15,
+ "tradition": "theravada",
+ "origLang": "pi",
+ "title": "慈经",
+ "sanskrit": "Karaṇīyamettasutta",
+ "summary": "十首偈：先说想求寂静的人该是什么样子——正直、知足、不贪恋，再教人像母亲护着独子那样，把善意毫无界限地给一切众生。",
+ "source": {
+  "orig": {
+   "name": "SuttaCentral（Mahāsaṅgīti）",
+   "url": "https://suttacentral.net/",
+   "license": "CC0"
+  }
+ },
+ "chapters": [
+  {
+   "title": "慈经 · Karaṇīyamettasutta",
+   "verses": [
+    {
+     "zh": "善于为自己求真正好处的人，想要通达那寂静的境地，应当这样做：能干，正直，非常正直，肯听人劝，温和，不傲慢。",
+     "old": {
+      "notes": [
+       {
+        "w": "Karaṇīya",
+        "note": "「应当做的」。经的第一个字，所以这部经在南传又叫《应作慈经》（Karaṇīyamettasutta）。"
+       },
+       {
+        "w": "atthakusala",
+        "note": "「善于利益的人」：attha 是好处、目的，kusala 是熟练、善巧。"
+       },
+       {
+        "w": "santaṁ padaṁ abhisamecca",
+        "note": "「寂静的境地」，注释传统说指涅槃，经文本身没有点名。abhisamecca 字面是「通达了之后」，也可以读成「为了通达」，所以这一句可以理解成已经证到的人该怎样做，也可以理解成想要证到的人该怎样做。"
+       },
+       {
+        "w": "suhujū",
+        "note": "su-ujū，「非常正直」，在「正直」（ujū）上再加强一层。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "“करणीयमत्थकुसलेन, यन्त सन्तं पदं अभिसमेच्च; सक्को उजू च सुहुजू च, सूवचो चस्स मुदु अनतिमानी.",
+      "tr": "“Karaṇīyamatthakusalena, Yanta santaṁ padaṁ abhisamecca; Sakko ujū ca suhujū ca, Sūvaco cassa mudu anatimānī."
+     }
+    },
+    {
+     "zh": "知足，容易供养，事情少，过得简单轻便；感官平静，有分寸，不莽撞，不贪恋施主的人家。",
+     "old": {
+      "notes": [
+       {
+        "w": "subharo",
+        "note": "「容易养活」，指出家人不挑剔，给什么吃什么，不给供养的人添麻烦。"
+       },
+       {
+        "w": "nipako",
+        "note": "「审慎、有分寸」。"
+       },
+       {
+        "w": "kulesu ananugiddho",
+        "note": "「不贪恋各个家庭」。出家人靠在家人供养，这里是说不黏着某几户施主。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "सन्तुस्सको च सुभरो च, अप्पकिच्चो च सल्लहुकवुत्ति; सन्तिन्द्रियो च निपको च, अप्पगब्भो कुलेस्वननुगिद्धो.",
+      "tr": "Santussako ca subharo ca, Appakicco ca sallahukavutti; Santindriyo ca nipako ca, Appagabbho kulesvananugiddho."
+     }
+    },
+    {
+     "zh": "哪怕是一件小事，只要明白人会因此责备他，就不去做。（然后这样想：）愿一切众生快乐、安稳，愿一切众生内心安乐。",
+     "old": {
+      "notes": [
+       {
+        "w": "sukhitattā",
+        "note": "「自身安乐的」：attā 在这里是「自己」，sukhita 是「快乐的」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "न च खुद्दमाचरे किञ्चि, येन विञ्ञू परे उपवदेय्युं; सुखिनो व खेमिनो होन्तु, सब्बसत्ता भवन्तु सुखितत्ता.",
+      "tr": "Na ca khuddamācare kiñci, Yena viññū pare upavadeyyuṁ; Sukhino va khemino hontu, Sabbasattā bhavantu sukhitattā."
+     }
+    },
+    {
+     "zh": "无论有什么样的生命，会害怕逃走的也好，安住不动的也好，一个不漏；长的、大的，中等的、短的，细小的、粗大的；",
+     "old": {
+      "notes": [
+       {
+        "w": "tasā vā thāvarā",
+        "note": "字面是「会颤抖的或稳固的」。可以理解成会动的动物和不会动的东西，注释传统则解释成「还有贪爱、会恐惧的」和「已经断尽贪爱、不再恐惧的（阿罗汉）」。"
+       },
+       {
+        "w": "anavasesā",
+        "note": "「没有剩余」，一个也不落下。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ये केचि पाणभूतत्थि, तसा वा थावरा वनवसेसा; दीघा वा ये व महन्ता, मज्झिमा रस्सका अणुकथूला.",
+      "tr": "Ye keci pāṇabhūtatthi, Tasā vā thāvarā vanavasesā; Dīghā vā ye va mahantā, Majjhimā rassakā aṇukathūlā."
+     }
+    },
+    {
+     "zh": "看得见的、看不见的，住在远处的、住在近处的，已经出生的、正要出生的——愿一切众生内心安乐。",
+     "old": {
+      "notes": [
+       {
+        "w": "sambhavesī",
+        "note": "「寻求出生的」：还在母胎、蛋里，或者正要投生的众生。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "दिट्ठा वा ये व अदिट्ठा, ये व दूरे वसन्ति अविदूरे; भूता व सम्भवेसी व, सब्बसत्ता भवन्तु सुखितत्ता.",
+      "tr": "Diṭṭhā vā ye va adiṭṭhā, Ye va dūre vasanti avidūre; Bhūtā va sambhavesī va, Sabbasattā bhavantu sukhitattā."
+     }
+    },
+    {
+     "zh": "不要有人欺骗别人，不要在任何地方看不起任何人；不要因为恼怒、因为敌对的念头，希望对方受苦。",
+     "old": {
+      "notes": [
+       {
+        "w": "nikubbetha",
+        "note": "「欺骗、陷害」。"
+       },
+       {
+        "w": "byārosanā paṭighasaññā",
+        "note": "「出于愤怒、出于敌意的想法」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "न परो परं निकुब्बेथ, नातिमञ्ञेथ कत्थचि न कञ्चि; ब्यारोसना पटिघसञ्ञ, नाञ्ञमञ्ञस्स दुक्खमिच्छेय्य.",
+      "tr": "Na paro paraṁ nikubbetha, Nātimaññetha katthaci na kañci; Byārosanā paṭighasañña, Nāññamaññassa dukkhamiccheyya."
+     }
+    },
+    {
+     "zh": "就像母亲拼了性命守护自己唯一的儿子，对一切众生，也要这样培养无边无量的心。",
+     "old": {
+      "notes": [
+       {
+        "w": "āyusā",
+        "note": "「用生命」：可以理解成「拿性命去护」，也可以理解成「一辈子护着」。"
+       },
+       {
+        "w": "aparimāṇaṁ",
+        "note": "「无量的、不设边界的」：心里不划分谁该爱、谁不该爱。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "माता यथा नियं पुत्तम् आयुसा एकपुत्तमनुरक्खे; एवम्पि सब्बभूतेसु, मानसं भावये अपरिमाणं.",
+      "tr": "Mātā yathā niyaṁ puttam Āyusā ekaputtamanurakkhe; Evampi sabbabhūtesu, Mānasaṁ bhāvaye aparimāṇaṁ."
+     }
+    },
+    {
+     "zh": "对整个世界培养慈心，培养无量的心：向上、向下、向四方，没有阻碍，没有怨恨，没有敌意。",
+     "old": {
+      "notes": [
+       {
+        "w": "mettā",
+        "note": "慈。由 mitta（朋友）变来，意思是像对朋友那样的善意。"
+       },
+       {
+        "w": "asapattaṁ",
+        "note": "「没有敌手的」：心里没有把任何人当对手。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "मेत्तञ्च सब्बलोकस्मि, मानसं भावये अपरिमाणं; उद्धं अधो च तिरियञ्च, असम्बाधं अवेरमसपत्तं.",
+      "tr": "Mettañca sabbalokasmi, Mānasaṁ bhāvaye aparimāṇaṁ; Uddhaṁ adho ca tiriyañca, Asambādhaṁ averamasapattaṁ."
+     }
+    },
+    {
+     "zh": "站着、走着、坐着、躺着，只要还没睡着，都要守住这份念。人们说，这就是在这里的「梵住」。",
+     "old": {
+      "notes": [
+       {
+        "w": "vitamiddho",
+        "note": "「离开了昏睡」，即醒着的时候。"
+       },
+       {
+        "w": "adhiṭṭheyya",
+        "note": "「应当坚守、下定决心保持」。"
+       },
+       {
+        "w": "brahmaṁ vihāraṁ",
+        "note": "「梵住」：像梵天（古印度最高的天神）那样的心境。佛教用来指慈、悲、喜、舍四种无量心。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "तिट्ठं चरं निसिन्नो व, सयानो यावतास्स वितमिद्धो; एतं सतिं अधिट्ठेय्य, ब्रह्ममेतं विहारमिधमाहु.",
+      "tr": "Tiṭṭhaṁ caraṁ nisinno va, Sayāno yāvatāssa vitamiddho; Etaṁ satiṁ adhiṭṭheyya, Brahmametaṁ vihāramidhamāhu."
+     }
+    },
+    {
+     "zh": "不落入（各种）见解，有戒行，见得清楚，去掉对欲乐的贪求，这样的人一定不会再进入母胎。——慈经第八。",
+     "old": {
+      "notes": [
+       {
+        "w": "diṭṭhi",
+        "note": "「见解」，这里指各种执着的看法，注释说主要指「有一个常住的我」这种看法。"
+       },
+       {
+        "w": "dassanena sampanno",
+        "note": "「具足了见」：亲眼看清真相，注释传统指初果（入流）的见道。"
+       },
+       {
+        "w": "gabbhaseyya",
+        "note": "「睡在母胎里」，指再次投生。"
+       },
+       {
+        "w": "Mettasuttaṁ aṭṭhamaṁ",
+        "note": "经末的标记：「慈经，第八」，指它是《经集》第一品的第八部经。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "दिट्ठिञ्च अनुपग्गम्म, सीलवा दस्सनेन सम्पन्नो; कामेसु विनय गेधं, न हि जातुग्गब्भसेय्य पुनरेती”ति. मेत्तसुत्तं अट्ठमं.",
+      "tr": "Diṭṭhiñca anupaggamma, Sīlavā dassanena sampanno; Kāmesu vinaya gedhaṁ, Na hi jātuggabbhaseyya punaretī”ti. Mettasuttaṁ aṭṭhamaṁ."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -4,8 +4,12 @@
 
 ## 结构
 
-- 内容只收个人面板书库「梵文」书架的九部：心经、金刚经、阿弥陀经、无量寿经、法华经、维摩诘经、楞伽经（佛经）；薄伽梵歌、瑜伽经（印度经典）。
-- `content/<slug>.json` 是**生成物**：`node scripts/import-dashboard.mjs [面板书库目录]` 从 `personal-dashboard/client/public/books/local/sa-*.json` 转过来（面板那边是 p 白话直译 → old 古译对照 → sa 梵文 的 prose 格式）。改内容去面板那边改，再重新导入；不要手改 content/。新增一部书：在导入脚本的 `BOOKS` 表加一行（面板 id、slug、tradition、一句白话简介）。
+- 内容来自个人面板书库的「梵文」（`sa-*.json`）和「巴利文」（`pi-*.json`）书架，现在 24 部，分三组：佛经（梵文）、巴利文经典、印度经典，书目见 README 和 `scripts/import-dashboard.mjs` 的 `BOOKS` 表。巴利文书的 `origLang` 是 `pi`（导入脚本按 `pi-` 前缀写入），页面上的「梵文」字样都会换成「巴利文」。
+- `content/<slug>.json` 是**生成物**：`node scripts/import-dashboard.mjs [面板书库目录]` 从 `personal-dashboard/client/public/books/local/sa-*.json` 转过来（面板那边是 p 白话直译 → old 古译对照 → sa 梵文 的 prose 格式）。改内容去面板那边改，再重新导入；不要手改 content/。新增一部书：
+  1. 在面板书库写 `<id>.json`（`sa-` 梵文 / `pi-` 巴利文），原文与古译一律从 GRETIL、SuttaCentral、CBETA 抓取逐字照抄，`sa.tr` 填罗马转写、`sa.text` 留空，跑 `node scripts/iast-to-deva.mjs <文件>` 机械生成天城体（巴利文书每次全部重生成，`’` 当引号不当 avagraha）；
+  2. `node scripts/check-dashboard-book.mjs <文件>` 校验；
+  3. 在面板 `index.json` 加条目、导入脚本 `BOOKS` 表加一行（面板 id、slug、tradition、白话简介、底本来源 `source`），`EN_PENDING` 加英文书名与简介，`scripts/emblems.mjs` 加一枚花纹章（专属插画 `scripts/scenes.mjs` 可以后补，没有时首屏用花纹章）；
+  4. 重新导入。
 - 一段 = `{ zh 白话直译, old?: { who, text 古译原句, plain 古译今译, notes[{ w, note }] }, sa: { text 天城体, tr 罗马转写 } }`，校验见 `scripts/content.mjs`。
 - **英译**是本站自己的叠加层 `translations/en/<slug>.json`（不经面板，导入脚本不会碰它）：英文从梵文直译，每段带梵文指纹 `h`（`sa.tr` 的 sha1 前 8 位），可选 `cmp[{ w, note }]` 写这一段英文、中文、梵文具体差在哪（只在真有差别时写）；整部书的 `compare` 是三语对照总结（多章书显示在目录页，单章书在经文后面）。面板重新导入后某段梵文变了，指纹对不上，构建会报错，那一段英译要重译。`node scripts/en-skeleton.mjs <slug> [章]` 打印带指纹的底稿。已有英译：心经、金刚经、阿弥陀经、薄伽梵歌、瑜伽经；法华经、楞伽经、维摩诘经、无量寿经还没做。
 - **中英两版**：中文版在 `/…`，英文版在 `/en/…`，格式见下面「多语言规则」。
@@ -15,7 +19,7 @@
 
 ## 内容规矩
 
-- 梵文原文与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀）是公有领域；**不要收现代人的译本**（如王志成译《薄伽梵歌》，英文的 Conze、Easwaran 等），它们有版权。英译只能是本站从梵文自己直译。
+- 梵文、巴利文原文与古代汉译是公有领域，但**电子录文有各自的授权**：GRETIL / DSBC 多为 CC BY-NC-SA 4.0，CBETA 是非商业使用条款，SuttaCentral 是 CC0。每部书的 `source` 写明底本与授权，页面底部会署名；本站一旦商用，要先换底本或取得授权。**不要收现代人的译本**（如王志成译《薄伽梵歌》，英文的 Conze、Easwaran 等），它们有版权。英译只能是本站从梵文自己直译。
 - 白话要像跟朋友讲；不加立场，不做护教或批判。
 - **授权**：本站自己的内容（白话直译、英译、古译今译、注释、网页文字）以 CC BY 4.0 授权，写在仓库根 `LICENSE`、每页页脚（`rel="license"` 链接）、JSON-LD 的 `license` 和 `llms.txt`；公有领域的梵文原文与古译不主张权利。改页脚或授权要四处一起改，测试会查页脚链接和 JSON-LD。
 
