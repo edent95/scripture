@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（DSBC 录入，Vaidya 1961 校本）",
+   "en": "GRETIL (DSBC transcription of Vaidya’s 1961 edition)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T14n0450",
+   "en": "CBETA T14n0450",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [
@@ -1335,7 +1338,7 @@
      }
     },
     {
-     "zh": "「第二种横死：被国王的刑罚处死。第三种横死：太放逸、过日子懒散随便的人，被人夺走精气。第四种横死：被火烧死。第五种横死：被水淹死。第六种横死：住在狮子、老虎、猛兽、凶兽中间，被它们咬死。第七种横死：从山崖上掉下去。」",
+     "zh": "「第二种横死：被国王的刑罚处死。第三种横死：太放逸、过日子懒散随便的人，被人（多半是「非人」之误，原本漏了一个 a-）夺走精气。第四种横死：被火烧死。第五种横死：被水淹死。第六种横死：住在狮子、老虎、猛兽、凶兽中间，被它们咬死。第七种横死：从山崖上掉下去。」",
      "old": {
       "who": "玄奘",
       "text": "二者，横被王法之所诛戮。三者，畋猎嬉戏，耽婬嗜酒，放逸无度，横为非人夺其精气。四者，横为火焚。五者，横为水溺。六者，横为种种恶兽所噉。七者，横堕山崖。",

@@ -1,0 +1,713 @@
+{
+ "slug": "samkhya-karika",
+ "title": "The Samkhya Verses",
+ "summary": "Ishvarakrishna’s seventy-odd verses: the world splits into prakṛti, matter that becomes everything, and puruṣa, awareness that only watches. Seeing the difference clearly ends suffering.",
+ "compare": [
+  "这部论最难的是两个核心词：prakṛti 和 puruṣa。白话沿用旧译「原质」「原人」，英文保留梵文原词，第一次出现时加括号解释。这样做是因为常见的英文译法都会带进别的东西：nature 让人想到大自然，matter 太像物理学；spirit、soul、self 会让人想到基督教的灵魂或日常的「自我」。puruṣa 字面就是「人、男人」，它在数论里却只是一个不思考、不行动、只是「看」的觉知。英文用复数 puruṣas，读者一眼就看出数论说原人有很多个，跟奥义书「一切众生只有一个自我」正好相反；中文没有复数，只能写「很多个」。从第 59 颂起，论里把原质写成舞女、把原人写成观众，英文也从 it 改成 she / he。",
+  "第二个差别在 guṇa。它本义是「一股绳」，三股拧在一起，才成了世界这根绳。英文保留原词，第一次出现时解释为 strands；白话译「性质」，古译「三德」，都看不出这个比喻，古译的「德」还容易被读成道德。三股的名字 sattva、rajas、tamas，英文保留原词，白话音译为「萨埵、罗阇、多磨」，古译却意译为「喜、忧、暗」。",
+  "第三个差别是同一个梵文词有几种意思。liṅga 在第 5 颂是逻辑上的「标记」，在第 20、40–52 颂却是轮回的「细身」；tamas 在第 13 颂是三德之一，在第 48 颂却是五种颠倒的第一种（无知）。白话和英文都只能拆成不同的词来译，读者看不出原文是同一个词。",
+  "最后，中文白话借了不少佛教词：「我执」（ahaṃkāra）、「熏染」、「颠倒」、「成就」、「独存」。中文读者容易带着佛教的意思去读，比如「我执」在佛教里是要破除的执着，在数论里却只是原质生成过程的一道工序。英文用 I-maker、perfumed、error、accomplishment、aloneness，没有这层干扰。第 64 颂的「我不是、没有我的、没有我」，看起来很像佛教的无我，方向却相反：数论说的是看的那个原人不是这些心身活动，原人本身照样在。"
+ ],
+ "compareEn": [
+  "The hardest words in this treatise are its two core terms, prakṛti and puruṣa. The plain Chinese keeps the old renderings 原质 (yuánzhì, “original substance”) and 原人 (yuánrén, “original person”); the English keeps the Sanskrit words and explains them in brackets on first use. The reason is that the usual English renderings all bring in something extra: “nature” suggests the natural world, “matter” sounds like physics, and “spirit,” “soul” or “self” suggest the Christian soul or the everyday ego. Puruṣa literally means “person, man,” yet in Sāṃkhya it is pure awareness that does not think or act, only watches. The English can use the plural “puruṣas,” so readers see at once that Sāṃkhya holds there are many of them, the exact opposite of the Upanishads’ “one self in all beings”; Chinese has no plural and has to say 很多个 (“many of them”). From verse 59 on, the text casts prakṛti as a dancer and puruṣa as the audience, and the English switches from “it” to “she” and “he.”",
+  "The second difference is guṇa. It originally means “a strand of rope”: three strands twisted together make the rope of the world. The English keeps the word and glosses it as “strands” on first use; the plain Chinese 性质 (xìngzhì, “property”) and the classical 三德 (sāndé, “three virtues”) lose the image, and the classical 德 (dé) is easily read as moral virtue. The English keeps the three names, sattva, rajas and tamas, as they are; the plain Chinese transliterates them as 萨埵、罗阇、多磨 (sàduǒ, luóshé, duōmó), while the classical Chinese translates them by meaning as 喜、忧、暗 (xǐ, yōu, àn, “joy, sorrow, darkness”).",
+  "The third difference is that one Sanskrit word can carry several meanings. Liṅga is a logical “mark” in verse 5 but the “subtle body” that migrates from life to life in verses 20 and 40–52; tamas is one of the three guṇas in verse 13 but the first of the five errors (ignorance) in verse 48. Both the plain Chinese and the English have to split these into different words, and readers can’t see that the original uses one word.",
+  "Finally, the plain Chinese borrows a good deal of Buddhist vocabulary: 我执 (wǒzhí, “clinging to self”) for ahaṃkāra, 熏染 (xūnrǎn, “perfuming”), 颠倒 (diāndǎo, “inversion, error”), 成就 (chéngjiù, “accomplishment”), 独存 (dúcún, “existing alone”). Chinese readers easily bring Buddhist meanings along: in Buddhism 我执 is an attachment to be broken, while in Sāṃkhya ahaṃkāra is simply one stage in the unfolding of prakṛti. The English “I-maker,” “perfumed,” “error,” “accomplishment” and “aloneness” are free of that interference. Verse 64, “I am not, nothing is mine, there is no I,” looks very like the Buddhist teaching of no-self, but it points the other way: Sāṃkhya means that the watching puruṣa is not this mind-and-body activity, and puruṣa itself remains."
+ ],
+ "chapters": [
+  {
+   "title": "The Samkhya Verses",
+   "verses": [
+    {
+     "h": "907c2748",
+     "en": "Because we are struck by three kinds of suffering, we want to know what can strike them down. If you say that is pointless, since visible remedies are already at hand: no, because those remedies do not work for certain, and do not work for good.",
+     "cmp": [
+      {
+       "w": "duḥkhatraya / abhighāta",
+       "note": "梵文只说「三种苦」，没有列出是哪三种；白话括号里的「身心的、别人和外物的、天灾鬼神的」来自注释传统。另外，梵文用同一个词根 abhighāta 说苦「打击」人，又说要找办法「打击」苦，前后呼应。英文 struck / strike down 保留了这个对仗，白话「打击」「除掉」就看不出了。",
+       "en": "The Sanskrit only says “three kinds of suffering” without naming them; the list in the plain Chinese (from body and mind, from other people and things, from natural disasters and spirits) comes from the commentaries. The verse also uses the same root, abhighāta, for suffering “striking” us and for our wish to “strike” suffering down. The English “struck / strike down” keeps the echo; the plain Chinese 打击 (dǎjī, “strike”) and 除掉 (chúdiào, “get rid of”) lose it."
+      },
+      {
+       "w": "naikāntātyantataḥ",
+       "note": "「不必定，也不究竟」：看得见的办法有时不灵，灵了也会复发。这两个词到第 68 颂又出现，用来形容最后的「独存」是「必定的、究竟的」，整部论首尾呼应。英文两处都用 for certain / for good 来保留这个呼应；白话两处的措辞不同（「不一定管用、不能一劳永逸」和「必定的、彻底的」），呼应就淡了。",
+       "en": "“Not for certain, not for good”: visible remedies sometimes fail, and even when they work the trouble comes back. The same two words return in verse 68 to describe final aloneness as “certain and for good,” so the treatise opens and closes on them. The English uses “for certain / for good” in both places to keep the echo; the plain Chinese words them differently each time, 不一定管用、不能一劳永逸 (“not sure to work, not once and for all”) and 必定的、彻底的 (“certain, thorough”), so the echo fades."
+      }
+     ]
+    },
+    {
+     "h": "9108f919",
+     "en": "The remedy we hear about from scripture is just like the visible ones, because it is impure and bound up with running out and with being better or worse. The opposite of both is better: the clear knowledge of the manifest, the unmanifest, and the knower.",
+     "cmp": [
+      {
+       "w": "ānuśravika",
+       "note": "字面是「听来的、口口相传的」，指吠陀传统里的办法，主要是祭祀。白话把「吠陀」「祭祀」直接补了出来。aviśuddha「不纯净」，注释家多说是指祭祀要杀牲。",
+       "en": "Literally “what is heard, handed down by word of mouth”: the remedies of the Vedic tradition, chiefly ritual sacrifice. The plain Chinese supplies “the Vedas” and “sacrifice” outright. Aviśuddha, “impure,” is usually explained by the commentators as referring to the animal killing involved in sacrifice."
+      }
+     ]
+    },
+    {
+     "h": "81a8886d",
+     "en": "Root prakṛti (primal nature, the source from which everything unfolds) is not produced from anything. The seven beginning with mahat (“the great”) both produce and are produced. The sixteen are only produced. Puruṣa (the pure conscious witness) neither produces nor is produced.",
+     "cmp": [
+      {
+       "w": "prakṛti / vikṛti",
+       "note": "梵文这一对词出自同一个词根：prakṛti 是「做出来之前的、源头」，vikṛti 是「变出来的」。英文 produce / be produced 保住了这一对；白话「变出别的」「被变出来」也保住了；古译「本」「变」最简洁。prakṛti 本书译为「原质」，英文保留原词。",
+       "en": "This pair comes from one root: prakṛti is “what things are made from, the source,” and vikṛti is “what has been changed out of it.” The English “produce / be produced” keeps the pair, as does the plain Chinese 变出别的 / 被变出来 (“changes into others / is changed out”). Prakṛti is rendered 原质 (yuánzhì, “original substance”) in the Chinese; the English keeps the Sanskrit word."
+      },
+      {
+       "w": "puruṣa",
+       "note": "puruṣa 字面就是「人、男人」。白话沿用旧译「原人」，英文保留原词，第一次出现时解释为「纯粹的觉知者」。英文不用 soul 或 self，免得读者想到基督教的灵魂或日常的「自我」。",
+       "en": "Puruṣa literally means “person, man.” The plain Chinese keeps the old rendering 原人 (yuánrén, “original person”); the English keeps the Sanskrit word and glosses it on first use as “the pure conscious witness,” avoiding “soul” or “self,” which would bring in the Christian soul or the everyday ego."
+      }
+     ]
+    },
+    {
+     "h": "6ab4fb66",
+     "en": "Three means of valid knowledge are accepted: perception, inference, and the word of a reliable person; for every means of knowledge is included in these. What is to be known is established through a means of knowledge.",
+     "cmp": [
+      {
+       "w": "pramāṇa",
+       "note": "pramāṇa 字面是「量度的工具」，古译就译作「量」；白话「认识途径」、英文 means of valid knowledge 都是意译。",
+       "en": "Pramāṇa literally means “a measuring instrument”; the classical Chinese renders it 量 (liàng, “measure”). The plain Chinese 认识途径 (rènshi tújìng, “route to knowing”) and the English “means of valid knowledge” both translate the sense rather than the picture."
+      }
+     ]
+    },
+    {
+     "h": "c35d3f5e",
+     "en": "Perception is the act of determining each object through its sense. Inference is said to be of three kinds, and rests on a mark and what bears the mark. The word of a reliable person is reliable revelation.",
+     "cmp": [
+      {
+       "w": "liṅga",
+       "note": "这里 liṅga 是逻辑上的「标记」（烟是火的标记）。同一个词到第 20、40–52 颂指「细身」，第 10 颂又用来形容显现的东西。白话分成「标记」「细身」两个词，英文也分成 mark 和 subtle body，读者看不出原文是同一个词。",
+       "en": "Here liṅga is a logical “mark” (smoke is the mark of fire). The same word later means the “subtle body” (verses 20 and 40–52), and in verse 10 it describes manifest things. The plain Chinese splits it into 标记 (biāojì, “mark”) and 细身 (xìshēn, “subtle body”), and the English likewise into “mark” and “subtle body,” so readers can’t see that the original uses one word throughout."
+      },
+      {
+       "w": "āptaśruti",
+       "note": "śruti 字面是「听到的」，专指吠陀这种「天启」。英文 revelation 有了「天启」的意思，却丢了「听」；白话补了「天启，指吠陀」。",
+       "en": "Śruti literally means “what is heard,” and is the technical name for the Vedas as revelation. The English “revelation” has the sense of revealed scripture but loses the “hearing”; the plain Chinese adds 天启，指吠陀 (“revelation, meaning the Vedas”)."
+      }
+     ]
+    },
+    {
+     "h": "8e3cb20b",
+     "en": "Things beyond the senses are known through the kind of inference called “seen from general correlation.” What remains unproven even by that, being out of sight, is established through reliable tradition."
+    },
+    {
+     "h": "8993a746",
+     "en": "A thing may exist and still not be perceived: because it is too far away, too close, the senses are damaged, the mind is unsteady, it is too subtle, something blocks it, something stronger overpowers it, or it is mixed in with things just like it."
+    },
+    {
+     "h": "36ed6d80",
+     "en": "Prakṛti is not perceived because it is subtle, not because it does not exist. It is perceived through its effects. Those effects, mahat and the rest, are both unlike prakṛti and like it."
+    },
+    {
+     "h": "65d4f351",
+     "en": "The effect already exists in its cause: because what does not exist cannot be made; because people reach for the right material; because not everything comes from everything; because a capable cause makes only what it is capable of; and because the effect has the same nature as its cause.",
+     "cmp": [
+      {
+       "w": "sat kāryam",
+       "note": "「结果是存在的」，这就是数论有名的「因中有果论」（satkāryavāda）。梵文只说「结果存在」，没说存在在哪里；英文 already exists in its cause、白话「本来就存在（于原因之中）」都把「在原因里、事先」补了出来。",
+       "en": "“The effect is existent”: this is Sāṃkhya’s well-known doctrine of the pre-existent effect (satkāryavāda). The Sanskrit only says “the effect exists,” not where; the English “already exists in its cause” and the plain Chinese 本来就存在（于原因之中） (“already exists, in the cause”) both supply “beforehand, in the cause.”"
+      }
+     ]
+    },
+    {
+     "h": "db22cd3e",
+     "en": "The manifest has a cause; it is not permanent, not all-pervading, active, many, dependent, a mark, made of parts, and ruled by something else. The unmanifest is the opposite."
+    },
+    {
+     "h": "e422cc50",
+     "en": "The manifest is made of the three guṇas (the strands of nature), cannot be told apart from them, is an object, is shared by all, is not conscious, and has the power to produce. So is pradhāna (“the chief,” another name for prakṛti). Puruṣa is the opposite of these, and yet in some ways like them.",
+     "cmp": [
+      {
+       "w": "guṇa",
+       "note": "guṇa 本义是「一股绳」。英文保留原词，第一次出现时解释为 strands（几股）；白话译「性质」，古译「三德」，都看不出「绳子的几股」这个比喻：三股缠在一起，才拧成世界这根绳。",
+       "en": "Guṇa originally means “a strand of rope.” The English keeps the word and glosses it on first use as “strands”; the plain Chinese 性质 (xìngzhì, “property”) and the classical 三德 (sāndé, “three virtues”) both lose the picture of three strands twisted together into the rope of the world."
+      },
+      {
+       "w": "tathā ca pumān",
+       "note": "「原人是相反的，而且 tathā（也是那样）」。tathā 可以读成「也同样」，跟第 10 颂说的未显现者一样（无因、常住、遍在）。白话和英文都取这种读法，写成「又在某些地方跟它们相同」。",
+       "en": "“Puruṣa is the opposite, and tathā (likewise).” Tathā is read as “also like,” i.e., like the unmanifest as described in verse 10 (uncaused, permanent, all-pervading). The plain Chinese and the English both take this reading: “and yet in some ways like them.”"
+      }
+     ]
+    },
+    {
+     "h": "8ebc578a",
+     "en": "The guṇas have pleasure, pain and dullness as their nature; their work is to illuminate, to set in motion and to hold in check. They act by overpowering one another, supporting one another, producing one another, pairing with one another, and interacting.",
+     "cmp": [
+      {
+       "w": "viṣāda",
+       "note": "viṣāda 是「沮丧、发闷、意气消沉」，属多磨。白话「沮丧」对；英文 dullness 偏向迟钝，取的是多磨「沉重」那一面。",
+       "en": "Viṣāda is “dejection, heaviness of spirit,” belonging to tamas. The plain Chinese 沮丧 (jǔsàng, “dejected”) fits; the English “dullness” leans toward the sluggish, heavy side of tamas."
+      }
+     ]
+    },
+    {
+     "h": "bf47a039",
+     "en": "Sattva is held to be light and illuminating; rajas is stimulating and restless; tamas is heavy and covering. They work together for a purpose, like a lamp.",
+     "cmp": [
+      {
+       "w": "pradīpavat",
+       "note": "梵文只说「像灯一样，为了一个目的运作」。白话加了「虽然相反」和灯芯、油、火的解释，都来自注释（古译也有「相违」）。英文照原文，只写 like a lamp。",
+       "en": "The Sanskrit only says “they work for a purpose, like a lamp.” The plain Chinese adds 虽然相反 (“although opposed”) and the explanation of wick, oil and flame, both from the commentaries (the classical Chinese also has 相违, “opposed”). The English follows the original and says only “like a lamp.”"
+      },
+      {
+       "w": "sattva / rajas / tamas",
+       "note": "三种性质英文都保留原词。古译把它们译成「喜、忧、暗」，取的是第 12 颂的快乐、不快乐、沮丧；白话用音译「萨埵、罗阇、多磨」。",
+       "en": "The English keeps all three Sanskrit names. The classical Chinese renders them 喜、忧、暗 (xǐ, yōu, àn, “joy, sorrow, darkness”), taking them from the pleasure, pain and dejection of verse 12; the plain Chinese transliterates them as 萨埵、罗阇、多磨 (sàduǒ, luóshé, duōmó)."
+      }
+     ]
+    },
+    {
+     "h": "70112beb",
+     "en": "That the manifest has non-distinctness and the other traits is established, because it is made of the three guṇas and because no exception is found. And since an effect has the nature of the qualities of its cause, the unmanifest is established too."
+    },
+    {
+     "h": "36448f1d",
+     "en": "There must be an unmanifest cause: because individual things are limited in size; because they share a common nature; because effects come about through the power of a cause; because cause and effect can be told apart; and because the whole many-formed world merges back into one.",
+     "cmp": [
+      {
+       "w": "(15–16)",
+       "note": "第 15、16 颂在梵文里是一整句：第 15 颂列理由，主句「所以，未显现的原因是存在的」在第 16 颂开头。白话在第 15 颂开头用括号补了主句，英文则用 There must be 先说出来。",
+       "en": "In Sanskrit, verses 15 and 16 form one sentence: verse 15 lists the reasons, and the main clause, “the unmanifest cause exists,” opens verse 16. The plain Chinese supplies the main clause in brackets at the start of verse 15; the English states it up front with “There must be.”"
+      }
+     ]
+    },
+    {
+     "h": "183f8305",
+     "en": "So the unmanifest cause exists. It works through the three guṇas, by combining and by transforming, like water, because each guṇa rests in a different base.",
+     "cmp": [
+      {
+       "w": "salilavat",
+       "note": "梵文只说「像水」。白话补的「同样的雨水落到不同地方，味道各不相同」是注释的解释：雨水本是一种味，落进不同的果子里就变成不同的味。英文照原文只写 like water。",
+       "en": "The Sanskrit only says “like water.” The plain Chinese adds the commentators’ explanation that the same rain tastes different depending on where it falls (rain has one taste, but turns sweet or sour in different fruits). The English follows the original and says only “like water.”"
+      }
+     ]
+    },
+    {
+     "h": "f79d8f6a",
+     "en": "Puruṣa exists: because whatever is put together exists for the sake of something else; because there must be something opposite to what has the three guṇas and the rest; because there must be a controller; because there must be an experiencer; and because activity aims at aloneness (kaivalya).",
+     "cmp": [
+      {
+       "w": "kaivalya",
+       "note": "kaivalya 来自 kevala「独一、单单」，指原人跟原质分开、只剩自己。白话「独存」，英文 aloneness，都保留了「只剩自己」的意思；常见英译 liberation 就丢了这一层。本站《瑜伽经》英文也用 aloneness。",
+       "en": "Kaivalya comes from kevala, “alone, only,” and means puruṣa separated from prakṛti, with only itself remaining. The plain Chinese 独存 (dúcún, “existing alone”) and the English “aloneness” both keep that sense; the common rendering “liberation” loses it. The site’s English Yoga Sūtras also uses “aloneness.”"
+      },
+      {
+       "w": "bhoktṛ",
+       "note": "bhoktṛ 字面是「吃的人、享用者」，在这里指「经历者」：苦乐要有人受。白话「享受者」、英文 experiencer，后者把苦也包括了进去。",
+       "en": "Bhoktṛ literally means “eater, enjoyer,” here “the one who undergoes experience”: pleasure and pain need someone to undergo them. The plain Chinese 享受者 (xiǎngshòu zhě, “enjoyer”) sounds only pleasant; the English “experiencer” includes pain."
+      }
+     ]
+    },
+    {
+     "h": "de8cfc7c",
+     "en": "That there are many puruṣas is established: because birth, death and the faculties are allotted to each one separately; because beings do not all act at the same time; and because the three guṇas are mixed differently in each.",
+     "cmp": [
+      {
+       "w": "puruṣabahutva",
+       "note": "「原人是多个」：这是数论跟吠檀多最大的分歧。奥义书说一切众生里只有一个自我，数论说每个众生各有一个原人。英文用复数 puruṣas，一眼看得出；中文没有复数，白话要靠「很多个」才说清楚。",
+       "en": "“Many puruṣas”: this is the sharpest split between Sāṃkhya and Vedānta. The Upanishads say there is one self in all beings; Sāṃkhya says each being has its own puruṣa. The English plural “puruṣas” shows this at a glance; Chinese has no plural, so the plain Chinese has to say 很多个 (“many of them”)."
+      }
+     ]
+    },
+    {
+     "h": "09b8af1e",
+     "en": "And from this contrast it is established that puruṣa is a witness, alone, neutral, a seer, and not a doer."
+    },
+    {
+     "h": "58aaefd6",
+     "en": "So, through its contact with puruṣa, the unconscious subtle body (liṅga) seems to be conscious; and likewise, although the doing belongs to the guṇas, the one who sits apart seems to be the doer.",
+     "cmp": [
+      {
+       "w": "udāsīna",
+       "note": "udāsīna 字面是「坐在一边的」，引申为「不偏不倚、不关心」。白话「置身事外」、英文 the one who sits apart，都保留了「坐在旁边」的画面。",
+       "en": "Udāsīna literally means “sitting apart,” and by extension “indifferent, uninvolved.” The plain Chinese 置身事外 (zhìshēn shìwài, “standing outside the affair”) and the English “the one who sits apart” both keep the picture of someone sitting off to the side."
+      }
+     ]
+    },
+    {
+     "h": "4094edfb",
+     "en": "The union of the two is for puruṣa’s seeing of pradhāna and for pradhāna’s bringing puruṣa to aloneness. It is like the union of a lame man and a blind man; creation is made by that union.",
+     "cmp": [
+      {
+       "w": "puruṣasya / pradhānasya",
+       "note": "梵文只是两个属格：「原人的，为了看；原质的，为了独存」。谁看谁、谁独存，要读者补。白话和英文都取通行的读法：原人要看原质，原质要让原人独存。瘸子骑在瞎子肩上的故事也是注释补的，原文只说「像瘸子和瞎子」。",
+       "en": "The Sanskrit has just two genitives: “of puruṣa, for seeing; of pradhāna, for aloneness.” Who sees whom and who becomes alone must be supplied. The plain Chinese and the English both take the usual reading: puruṣa is to see pradhāna, and pradhāna is to bring puruṣa to aloneness. The story of the lame man riding on the blind man’s shoulders is also from the commentaries; the original only says “like the lame and the blind.”"
+      }
+     ]
+    },
+    {
+     "h": "29a21ab0",
+     "en": "From prakṛti comes mahat; from that, ahaṃkāra (the I-maker); from that, the group of sixteen; and from five of those sixteen come the five gross elements.",
+     "cmp": [
+      {
+       "w": "ahaṃkāra",
+       "note": "字面是「造出『我』的东西」。白话「我执」借了佛教词，带着「执着」的贬义；古译「我慢」也是佛教词，偏「傲慢」。英文 I-maker 照字面译，不带道德评价：在数论里它只是一道生成工序。",
+       "en": "Literally “the maker of ‘I’.” The plain Chinese 我执 (wǒzhí, “clinging to self”) borrows a Buddhist term with a negative sense of attachment; the classical 我慢 (wǒmàn, “I-pride”) is also Buddhist and leans toward arrogance. The English “I-maker” follows the literal sense with no moral judgment: in Sāṃkhya it is just one stage in the unfolding."
+      }
+     ]
+    },
+    {
+     "h": "1164cb98",
+     "en": "Buddhi (the intellect, the same as mahat) is determination. Virtue, knowledge, dispassion and power are its sattva form; its tamas form is the reverse of these.",
+     "cmp": [
+      {
+       "w": "dharma / aiśvarya",
+       "note": "dharma 在这里是「德行、善」，不是宗教或「正法」；白话「德行」、英文 virtue 都对。aiśvarya 是「做主的力量、自在」，后来专指瑜伽者的神通，白话「自在力」，英文 power。",
+       "en": "Dharma here means “virtue, merit,” not religion or “the true teaching”; the plain Chinese 德行 (déxíng, “virtue”) and the English “virtue” both fit. Aiśvarya is “lordliness, mastery,” later used for a yogi’s supernormal powers; the plain Chinese says 自在力 (zìzài lì, “power of mastery”), the English “power.”"
+      }
+     ]
+    },
+    {
+     "h": "207b0d26",
+     "en": "Ahaṃkāra is the sense of “I.” From it creation goes two ways: the group of eleven faculties, and the five tanmātras (subtle elements).",
+     "cmp": [
+      {
+       "w": "tanmātra",
+       "note": "tanmātra 字面是「只是那个」：只是声、只是触……，还没有混合成具体的东西。白话在括号里解释了字面，英文用 subtle elements 意译。",
+       "en": "Tanmātra literally means “just that”: just sound, just touch, and so on, not yet mixed into concrete things. The plain Chinese explains the literal meaning in brackets; the English translates the sense as “subtle elements.”"
+      }
+     ]
+    },
+    {
+     "h": "7739b199",
+     "en": "The sattva-natured group of eleven comes forth from ahaṃkāra in its “modified” form; the tanmātras come from ahaṃkāra as “the source of the elements,” and they are tamas-natured. Both come from its “fiery” form.",
+     "cmp": [
+      {
+       "w": "taijasa",
+       "note": "梵文只说「两者都从光热型而来」，没说它属罗阇，也没说「推动」。白话补的「属罗阇」「得到推动」来自注释：罗阇本身不生东西，只给另两种性质提供动力。",
+       "en": "The Sanskrit only says “both come from the fiery (taijasa) form.” It does not say this form is rajas, nor that it “drives” them. The plain Chinese adds 属罗阇 (“belonging to rajas”) and 得到推动 (“are set in motion”) from the commentaries: rajas produces nothing of its own, it only supplies the energy for the other two."
+      }
+     ]
+    },
+    {
+     "h": "c9ad74cb",
+     "en": "The faculties of knowing are called ear, skin, eye, tongue and nose. Speech, hands, feet, anus and genitals are called the faculties of action.",
+     "cmp": [
+      {
+       "w": "indriya",
+       "note": "indriya 指「能力」，不是器官本身：眼根是「看的能力」，不是眼球。古译「根」，白话「感官」，英文 faculty，后两者都比原词更偏向身体器官。",
+       "en": "Indriya means a “power, capacity,” not the organ itself: the eye-indriya is the power of seeing, not the eyeball. The classical Chinese says 根 (gēn, “root”); the plain Chinese 感官 (gǎnguān, “sense organ”) leans more toward the bodily organ than the original, while the English “faculty” stays closer to “power.”"
+      }
+     ]
+    },
+    {
+     "h": "d147a88a",
+     "en": "Here the mind (manas) is of both kinds. It forms intentions, and it is a faculty because it shares their nature. The faculties are many because the guṇas transform in particular ways, and because what they grasp differs.",
+     "cmp": [
+      {
+       "w": "manas / saṅkalpaka",
+       "note": "manas 白话译「意」，加括号「心思」；英文 mind。数论里 manas 地位比觉低，是把感官传来的东西整理、拟想的那部分，所以英文 mind 有点大。saṅkalpaka 是「构想、起念」，英文 forms intentions。",
+       "en": "The plain Chinese renders manas as 意 (yì, “intention, mind”), with 心思 (xīnsi, “thoughts”) in brackets; the English says “mind.” In Sāṃkhya, manas ranks below buddhi: it is the part that sorts and shapes what the senses bring in, so the English “mind” is a bit too big. Saṅkalpaka means “forming ideas, intending”; the English says “forms intentions.”"
+      }
+     ]
+    },
+    {
+     "h": "87bcc64a",
+     "en": "The function of the five knowing faculties toward color and the rest is held to be mere seeing. The functions of the other five are speaking, grasping, walking, excreting and pleasure.",
+     "cmp": [
+      {
+       "w": "ālocanamātra",
+       "note": "「只是看到」：感官只是觉察到，还没有判断「这是什么」，判断是心和觉的事。英文 mere seeing、白话「只是看到（单纯的觉察）」都译出来了。ānanda「快乐」在这里专指性快感，白话「快乐」把它说淡了。",
+       "en": "“Mere seeing”: the senses only notice; judging what something is belongs to the mind and buddhi. The English “mere seeing” and the plain Chinese 只是看到（单纯的觉察） (“just seeing, plain noticing”) both convey this. Ānanda, “pleasure,” here specifically means sexual pleasure, which the plain Chinese 快乐 (kuàilè, “happiness”) softens."
+      }
+     ]
+    },
+    {
+     "h": "565f695d",
+     "en": "The function of the three is their own defining trait, and it is not shared. The function shared by all the instruments is the five breaths, prāṇa and the rest.",
+     "cmp": [
+      {
+       "w": "vāyu",
+       "note": "梵文用的是 vāyu「风」，说生命的五种功能是体内的五种风：呼吸、消化、循环等。白话和古译都用「气」「风」；英文 breaths 偏窄，只像呼吸。",
+       "en": "The Sanskrit word is vāyu, “wind”: the five life functions are five winds inside the body, covering breathing, digestion, circulation and so on. The plain Chinese 气 (qì) and the classical 风 (fēng, “wind”) keep this; the English “breaths” is narrower and sounds like breathing only."
+      }
+     ]
+    },
+    {
+     "h": "15398fe0",
+     "en": "With regard to what is seen, the four (the three inner instruments and one sense) are said to work both at once and one after another. With regard to what is unseen too, the work of the three is preceded by that.",
+     "cmp": [
+      {
+       "w": "tatpūrvikā",
+       "note": "「以那个为前提」：梵文的「那个」指什么不清楚。白话补成「先前感官的作用」，这是常见读法：没看见的东西（回忆、推想），也要靠以前感官看到过。",
+       "en": "“Preceded by that”: what “that” refers to is unclear in the Sanskrit. The plain Chinese supplies 先前感官的作用 (“the earlier work of the senses”), the usual reading: even things not seen now (memories, inferences) depend on what the senses once took in."
+      }
+     ]
+    },
+    {
+     "h": "15125310",
+     "en": "Each takes up its own function, prompted by the intent of the others. The purpose of puruṣa is the only cause; nothing makes an instrument act.",
+     "cmp": [
+      {
+       "w": "na kenacit kāryate",
+       "note": "「没有谁驱使」：这些机能自己运作，背后没有一个指挥的神，也没有一个做事的「我」。原人只是让它们运作的「目的」，不是推动者。白话和英文都译出来了。",
+       "en": "“Made to act by no one”: the instruments run by themselves, with no directing god behind them and no acting “I.” Puruṣa is only the purpose for which they work, not their driver. The plain Chinese and the English both convey this."
+      }
+     ]
+    },
+    {
+     "h": "52924dcf",
+     "en": "The instrument is thirteenfold; it grasps, holds and illuminates. Its object is tenfold: what is grasped, held and illuminated.",
+     "cmp": [
+      {
+       "w": "karaṇa",
+       "note": "karaṇa 字面是「工具、用来做事的东西」，古译「作具」很贴切。白话「机能」偏抽象，英文 instrument 保留了「工具」的意思：觉、我执、意和十种感官都是原人看世界用的工具。",
+       "en": "Karaṇa literally means “instrument, that with which something is done,” and the classical 作具 (zuòjù, “working tool”) is apt. The plain Chinese 机能 (jīnéng, “function”) is more abstract; the English “instrument” keeps the sense of a tool: buddhi, ahaṃkāra, manas and the ten faculties are all tools through which puruṣa sees the world."
+      }
+     ]
+    },
+    {
+     "h": "368d962d",
+     "en": "The inner instrument is threefold, the outer tenfold; the outer is called the field of objects for the three. The outer works in the present only; the inner instrument works in all three times."
+    },
+    {
+     "h": "99d6af1e",
+     "en": "Of these, the five faculties of knowing have both specific and non-specific objects. Speech has sound as its object; the remaining (four faculties of action) have all five as objects.",
+     "cmp": [
+      {
+       "w": "viśeṣa / aviśeṣa",
+       "note": "「有差别的」指粗大元素，「没有差别的」指细微元素（第 38 颂）。白话「有差别、没有差别」照字面，英文 specific / non-specific 也照字面，两边都要读到第 38 颂才明白。",
+       "en": "“Specific” means the gross elements, “non-specific” the subtle elements (see verse 38). The plain Chinese 有差别 / 没有差别 (“with distinctions / without distinctions”) and the English “specific / non-specific” are both literal, and both only make sense once the reader reaches verse 38."
+      }
+     ]
+    },
+    {
+     "h": "d380d21b",
+     "en": "Because buddhi, with the other inner instruments, plunges into every object, the threefold instrument is the doorkeeper and the rest are the doors."
+    },
+    {
+     "h": "afc2fd9f",
+     "en": "These, like lamps, each different from the others, particular forms of the guṇas, light up the whole of puruṣa’s purpose and hand it over to buddhi."
+    },
+    {
+     "h": "9e32ce14",
+     "en": "Because it is buddhi that accomplishes every experience for puruṣa, it is also buddhi that discerns the subtle difference between pradhāna and puruṣa.",
+     "cmp": [
+      {
+       "w": "buddhi",
+       "note": "这里有个反转：觉本身属于原质，是物质的一部分；可正是这件物质的工具，最后分辨出自己不是原人。白话和英文都照译，读者要自己留意这一层。",
+       "en": "There is a twist here: buddhi itself belongs to prakṛti, it is part of matter; yet it is this material instrument that finally discerns that it is not puruṣa. The plain Chinese and the English both translate it straight, and the reader has to notice this on their own."
+      }
+     ]
+    },
+    {
+     "h": "2251fafe",
+     "en": "The tanmātras are non-specific. From these five come the five gross elements; these are called specific, and they are calming, disturbing and dulling.",
+     "cmp": [
+      {
+       "w": "śānta / ghora / mūḍha",
+       "note": "这三个词正好对应萨埵、罗阇、多磨：同一样东西，让人平静、让人不安、让人发昏。白话、英文都照字面译，没有点明这个对应。",
+       "en": "These three words match sattva, rajas and tamas: the same thing can calm, disturb or dull a person. The plain Chinese and the English both translate them literally without spelling out the match."
+      }
+     ]
+    },
+    {
+     "h": "b47fca78",
+     "en": "The specific are of three kinds: subtle bodies, bodies born of mother and father, and the gross elements. Of these, the subtle bodies endure; those born of mother and father perish."
+    },
+    {
+     "h": "873fd496",
+     "en": "The subtle body (liṅga) came into being first. It is unhindered and lasting, made of everything from mahat down to the subtle elements. It migrates from birth to birth without itself experiencing anything, perfumed by the dispositions (bhāva).",
+     "cmp": [
+      {
+       "w": "adhivāsita",
+       "note": "字面是「被熏香的」：像衣服熏过香，香味留在上面。白话「熏染」、古译「薰习」（佛教常用词）都保留了这个比喻，英文 perfumed 也是。",
+       "en": "Literally “perfumed”: like cloth that has been scented, the fragrance stays on it. The plain Chinese 熏染 (xūnrǎn, “steeped in smoke or scent”) and the classical 薰习 (xūnxí, a common Buddhist term) keep the image, and so does the English “perfumed.”"
+      }
+     ]
+    },
+    {
+     "h": "3ae0dbff",
+     "en": "As a picture cannot stand without a surface, or a shadow without a post or the like, so the liṅga cannot stand without the specific (subtle bodies); it does not exist without a support.",
+     "cmp": [
+      {
+       "w": "vinā viśeṣaiḥ / vinā aviśeṣaiḥ",
+       "note": "vināviśeṣaiḥ 可以拆成「离了有差别的」，也可以拆成「离了没有差别的（细微元素）」，两种拆法梵文写出来一模一样。白话取前者，古译「若离五唯身」取后者。英文跟白话。",
+       "en": "Vināviśeṣaiḥ can be split as “without the specific” or as “without the non-specific (the subtle elements)”; written out in Sanskrit, the two splits look identical. The plain Chinese takes the first; the classical Chinese 若离五唯身 (“if apart from the body of the five subtle elements”) takes the second. The English follows the plain Chinese."
+      }
+     ]
+    },
+    {
+     "h": "5e5c0ad1",
+     "en": "Driven by the purpose of puruṣa, through the link of cause and consequence, and by its connection with the all-pervading power of prakṛti, the liṅga plays its parts like an actor."
+    },
+    {
+     "h": "37b50382",
+     "en": "The dispositions, virtue and the rest, are innate, natural or acquired. They are seen to rest on the instrument (buddhi); the stages of the embryo and so on rest on the effect (the body).",
+     "cmp": [
+      {
+       "w": "bhāva",
+       "note": "bhāva 是数论的术语，指觉里的八种倾向：德行、失德、智慧、无知、不贪恋、贪恋、自在力、无力。白话「心理倾向」、英文 dispositions 都只是近似。",
+       "en": "Bhāva is a technical term in Sāṃkhya for the eight tendencies of buddhi: virtue and vice, knowledge and ignorance, dispassion and passion, power and powerlessness. The plain Chinese 心理倾向 (xīnlǐ qīngxiàng, “psychological tendencies”) and the English “dispositions” are both approximations."
+      }
+     ]
+    },
+    {
+     "h": "35f75d0f",
+     "en": "Through virtue one goes upward; through its lack one goes downward. Through knowledge comes release; from the reverse, bondage, it is held."
+    },
+    {
+     "h": "3eabcfe8",
+     "en": "From dispassion comes absorption into prakṛti; from passion of the rajas kind comes saṃsāra (the round of rebirth); from power comes freedom from obstruction; from the reverse of these, the reverse.",
+     "cmp": [
+      {
+       "w": "prakṛtilaya",
+       "note": "「融入原质」听上去像修行的终点，但在数论里不是：只靠不贪恋、没有分辨的智慧，人会沉进原质里一段时间，之后还要再出来。真正的解脱只靠智慧（第 44 颂）。白话和英文都照字面，读者容易误会。",
+       "en": "“Absorption into prakṛti” sounds like the goal of practice, but in Sāṃkhya it is not: with dispassion alone and no discerning knowledge, a person sinks into prakṛti for a time and then comes out again. Real release comes only through knowledge (verse 44). The plain Chinese and the English both translate literally, which is easy to misread."
+      }
+     ]
+    },
+    {
+     "h": "e1a5d5c9",
+     "en": "This is the creation of ideas (pratyaya), known as error, incapacity, contentment and accomplishment. Through the clashing of the guṇas when they are out of balance, it has fifty varieties.",
+     "cmp": [
+      {
+       "w": "siddhi",
+       "note": "siddhi 在这里是「成就」：通往智慧的几种好条件（第 51 颂）。它跟《瑜伽经》第三章那些「神通」是同一个词，意思却不一样。白话「成就」、英文 accomplishment 都避开了「神通」。",
+       "en": "Siddhi here means “accomplishment”: the favorable conditions that lead to knowledge (verse 51). It is the same word as the supernormal “powers” of Book 3 of the Yoga Sūtras, but the meaning is different. The plain Chinese 成就 (chéngjiù, “achievement”) and the English “accomplishment” both steer clear of “powers.”"
+      }
+     ]
+    },
+    {
+     "h": "50463e5b",
+     "en": "There are five kinds of error, and twenty-eight kinds of incapacity, which come from defects in the instruments. Contentment has nine kinds, accomplishment eight."
+    },
+    {
+     "h": "5adebded",
+     "en": "Darkness has eight kinds, and delusion eight; great delusion has ten; gloom has eighteen, and so does blind gloom.",
+     "cmp": [
+      {
+       "w": "tamas",
+       "note": "这里的 tamas「黑暗」是五种颠倒的第一种（即无知），不是三德里的多磨。白话译「黑暗」，没有用音译「多磨」，正好避开了混淆；英文 darkness 也是。",
+       "en": "Here tamas, “darkness,” is the first of the five errors (i.e., ignorance), not the guṇa tamas. The plain Chinese translates it as 黑暗 (hēi’àn, “darkness”) instead of the transliteration 多磨 (duōmó), which avoids the confusion, and the English “darkness” does the same."
+      }
+     ]
+    },
+    {
+     "h": "826bd9c8",
+     "en": "Incapacity is said to be the injuries of the eleven faculties, together with the injuries of buddhi. The injuries of buddhi are seventeen, the reverse of the contentments and the accomplishments."
+    },
+    {
+     "h": "869a68f7",
+     "en": "Nine contentments are taught: four inner ones, called nature, means, time and luck; and five outer ones, which come from turning away from the objects of sense.",
+     "cmp": [
+      {
+       "w": "tuṣṭi",
+       "note": "「满足」听上去是好事，在数论里却是障碍：人以为「原质自会解决」「时候到了就好」「全靠运气」，于是不再追求智慧。第 51 颂就说它是拖住成就的钩子。这四个名字原文只有一个词，具体意思靠注释。",
+       "en": "“Contentment” sounds like a good thing, but in Sāṃkhya it is an obstacle: people think “nature will take care of it,” “it will happen in time,” or “it’s all luck,” and stop seeking knowledge. Verse 51 calls it a hook that holds back accomplishment. Each of the four names is a single word in the original; their exact sense comes from the commentaries."
+      }
+     ]
+    },
+    {
+     "h": "f0734ec7",
+     "en": "Reasoning, hearing the teaching, study, the threefold ending of suffering, gaining friends, and giving: these are the eight accomplishments. The three kinds listed before are the hook that holds accomplishment back.",
+     "cmp": [
+      {
+       "w": "aṅkuśa",
+       "note": "aṅkuśa 是赶象用的钩子，本来是用来控制方向的；这里说颠倒、无能、满足这三类像钩子一样把成就拉住。白话「拖住成就的钩子」、英文 the hook that holds accomplishment back 都译出了。",
+       "en": "An aṅkuśa is an elephant hook, normally used to steer; here the three kinds (error, incapacity and contentment) are said to hold accomplishment back like that hook. The plain Chinese 拖住成就的钩子 (“the hook that drags back accomplishment”) and the English both convey it."
+      }
+     ]
+    },
+    {
+     "h": "e08dbcd5",
+     "en": "Without the dispositions there is no liṅga, and without the liṅga the dispositions do not come about. So creation is twofold: one kind called liṅga, the other called bhāva (disposition)."
+    },
+    {
+     "h": "b8c8805a",
+     "en": "The divine order has eight kinds, the animal order five, and the human order one: this, in brief, is the creation of living beings."
+    },
+    {
+     "h": "15768935",
+     "en": "Above, creation is rich in sattva; below, at the root, it is rich in tamas; in the middle it is rich in rajas: from Brahma down to a clump of grass.",
+     "cmp": [
+      {
+       "w": "brahmādistambaparyantaḥ",
+       "note": "Brahmā 是造物之神「梵天」，不是奥义书里的「梵」（brahman）。stamba 是「一丛草」，古译作「柱」，取了这个词的另一个意思。",
+       "en": "Brahmā is the creator god, not the brahman of the Upanishads. Stamba is “a clump of grass”; the classical Chinese 柱 (zhù, “post”) takes the word’s other meaning."
+      }
+     ]
+    },
+    {
+     "h": "682a7612",
+     "en": "Here the conscious puruṣa meets with suffering made by old age and death, until the liṅga ceases. So, in short, there is suffering.",
+     "cmp": [
+      {
+       "w": "prāpnoti cetanaḥ puruṣaḥ",
+       "note": "这一颂说原人「承受」苦，第 62 颂却说原人从来没有被束缚。注释的解释是：原人只是「好像」在受苦，因为细身的苦映在它身上。白话和英文都照字面，两颂之间的张力保留着。",
+       "en": "This verse says puruṣa “meets with” suffering, yet verse 62 says puruṣa is never bound. The commentators explain that puruṣa only seems to suffer, because the suffering of the subtle body is reflected in it. The plain Chinese and the English both translate literally, keeping the tension between the two verses."
+      }
+     ]
+    },
+    {
+     "h": "23b99ed8",
+     "en": "So this whole undertaking of prakṛti, from mahat down to the particular elements, is for the release of each puruṣa: done for another’s sake, as if for its own."
+    },
+    {
+     "h": "43e39ba2",
+     "en": "As unknowing milk flows to make the calf grow, so pradhāna acts to release puruṣa.",
+     "cmp": [
+      {
+       "w": "ajña",
+       "note": "「不知道的」：这是数论最特别的一点，原质有目的，却没有心。牛奶不知道小牛，却为小牛流出来。白话「没有知觉的」、英文 unknowing 都译出了。",
+       "en": "“Unknowing”: this is one of Sāṃkhya’s most distinctive ideas, that prakṛti acts for a purpose without having a mind. The milk knows nothing of the calf, yet flows for it. The plain Chinese 没有知觉的 (“without awareness”) and the English “unknowing” both convey this."
+      }
+     ]
+    },
+    {
+     "h": "9f7ace20",
+     "en": "As people take up tasks to settle a longing, so the unmanifest acts for the release of puruṣa."
+    },
+    {
+     "h": "a0f53972",
+     "en": "As a dancer stops dancing once she has shown herself to the audience, so prakṛti withdraws once she has revealed herself to puruṣa.",
+     "cmp": [
+      {
+       "w": "nartakī / prakṛti",
+       "note": "prakṛti 是阴性词，puruṣa 是阳性词，从这一颂起论里把两者写成舞女和观众、女人和男人。白话从下一颂起用「她」；英文从这一颂起也用 she，之前一直用 it。",
+       "en": "Prakṛti is a feminine noun and puruṣa a masculine one, and from this verse on the text casts them as dancer and audience, woman and man. The plain Chinese switches to 她 (tā, “she”) from the next verse; the English uses “she” from this verse on, having said “it” before."
+      }
+     ]
+    },
+    {
+     "h": "2d52c829",
+     "en": "In many ways she helps him, though he does nothing for her in return. She has the guṇas; he has none. She labors for his purpose, gaining nothing for herself."
+    },
+    {
+     "h": "defce1aa",
+     "en": "To my mind, nothing is more bashful than prakṛti. Once she knows, “I have been seen,” she never again comes into puruṣa’s sight.",
+     "cmp": [
+      {
+       "w": "sukumāratara",
+       "note": "字面是「更娇嫩、更柔弱」。白话「羞怯」、英文 bashful 取的是注释的读法：她像一个被人看见就躲起来的良家女子。古译「濡」（柔软）更贴字面。",
+       "en": "Literally “more tender, more delicate.” The plain Chinese 羞怯 (xiūqiè, “shy”) and the English “bashful” follow the commentators’ reading: she is like a modest woman who hides once she is seen. The classical 濡 (rú, “soft”) is closer to the literal sense."
+      }
+     ]
+    },
+    {
+     "h": "ea778a46",
+     "en": "So no one is bound, no one is released, and no one wanders from birth to birth. It is prakṛti, resting in many different bodies, that wanders, is bound and is released.",
+     "cmp": [
+      {
+       "w": "na kaścit",
+       "note": "梵文是「没有任何一个」，说得很绝。白话补了「（原人）」，把范围限定在原人；英文照原文写 no one，读者读到后半句才知道指的是原人。",
+       "en": "The Sanskrit says “no one at all,” a sweeping statement. The plain Chinese adds （原人） (“puruṣa”) to limit the scope; the English keeps “no one,” and the reader learns only from the second half that puruṣa is meant."
+      }
+     ]
+    },
+    {
+     "h": "ab8a1ace",
+     "en": "With seven forms prakṛti binds herself by herself; and she herself, for puruṣa’s purpose, frees herself with one form.",
+     "cmp": [
+      {
+       "w": "saptabhiḥ rūpaiḥ / ekarūpeṇa",
+       "note": "原文没有说是哪七种、哪一种。白话括号里补的是第 23 颂的八种倾向去掉「智慧」：德行、失德、无知、不贪恋、贪恋、自在力、无力；剩下的一种就是智慧。英文没有展开。",
+       "en": "The original does not say which seven or which one. The plain Chinese supplies in brackets the eight dispositions of verse 23 minus knowledge: virtue, vice, ignorance, dispassion, passion, power and powerlessness; the one remaining form is knowledge. The English does not spell them out."
+      }
+     ]
+    },
+    {
+     "h": "d5d4eca6",
+     "en": "So, through repeated practice of the truth, the knowledge arises: “I am not,” “nothing is mine,” “there is no I.” It is complete, pure because free of error, and solitary.",
+     "cmp": [
+      {
+       "w": "nāsmi na me nāham",
+       "note": "三句否定，看上去很像佛教的「无我」，方向却相反：数论是说原人不是这些心身活动，那个看的「我」照样在。白话在第一句补了「（这些）」，写成「我不是（这些）」，把这一层点明了；英文照原文写 I am not，比较陡。",
+       "en": "The three negations look much like the Buddhist “no-self,” but they point the other way: Sāṃkhya means that puruṣa is not this mind-and-body activity, while the seeing “I” remains. The plain Chinese adds （这些） (“these”) to the first, “I am not (these),” which makes that clear; the English keeps the bare “I am not,” which is more abrupt."
+      },
+      {
+       "w": "kevala",
+       "note": "kevala「唯一、单独」，跟 kaivalya「独存」同根。白话「唯一的（让人独存的）智慧」、英文 solitary 都把这层关系留了下来。",
+       "en": "Kevala, “sole, alone,” shares its root with kaivalya, “aloneness.” The plain Chinese 唯一的（让人独存的）智慧 (“the sole knowledge, which leads to aloneness”) and the English “solitary” both keep the link."
+      }
+     ]
+    },
+    {
+     "h": "3bf7e51d",
+     "en": "Through it, puruṣa, at ease and resting in himself like a spectator, looks at prakṛti: she has stopped producing, because her purpose is fulfilled, and has turned away from her seven forms.",
+     "cmp": [
+      {
+       "w": "svastha",
+       "note": "svastha 字面是「安住在自己里面」，现代印地语里是「健康」的意思。白话「自在安然」、英文 at ease and resting in himself 都把字面和引申义一起译了。",
+       "en": "Svastha literally means “resting in oneself”; in modern Hindi it means “healthy.” The plain Chinese 自在安然 (zìzài ānrán, “free and at peace”) and the English “at ease and resting in himself” render both the literal and the extended sense."
+      }
+     ]
+    },
+    {
+     "h": "c6fe7c07",
+     "en": "One, the onlooker, thinks, “I have seen her,” and loses interest; the other stops, thinking, “I have been seen.” Though the two are still joined, there is no longer any reason for creation."
+    },
+    {
+     "h": "51c81d09",
+     "en": "Once right knowledge is gained, virtue and the rest no longer act as causes; yet one goes on bearing a body because of the force of past impressions, like a potter’s wheel that keeps spinning.",
+     "cmp": [
+      {
+       "w": "cakrabhramavat",
+       "note": "梵文只说「像轮子转」。白话和英文都补成「陶轮」，这是注释的通行解释：陶工的手停了，轮子还会转一阵。",
+       "en": "The Sanskrit only says “like the whirling of a wheel.” The plain Chinese and the English both make it a potter’s wheel, the usual explanation in the commentaries: the potter’s hand has stopped, but the wheel spins on for a while."
+      },
+      {
+       "w": "saṃskāra",
+       "note": "saṃskāra「过去行为留下的印记、余力」。白话「余力」、英文 force of past impressions，都把「印记」和「惯性」两层意思合在一起。",
+       "en": "Saṃskāra means “impressions left by past actions, residual force.” The plain Chinese 余力 (yúlì, “leftover force”) and the English “force of past impressions” both combine the ideas of trace and momentum."
+      }
+     ]
+    },
+    {
+     "h": "917ea1b3",
+     "en": "When the body breaks apart and pradhāna stops, its purpose achieved, he attains aloneness that is both certain and for good."
+    },
+    {
+     "h": "2acc6c8d",
+     "en": "This secret knowledge, for the sake of puruṣa, was set out by the highest sage. In it the lasting, arising and dissolving of beings are considered.",
+     "cmp": [
+      {
+       "w": "paramarṣi",
+       "note": "「最高的仙人」，原文没有说名字。白话补了「迦毗罗」（Kapila，传说中数论的开创者），是传统的说法；英文照原文不点名。",
+       "en": "“The highest sage”; the original gives no name. The plain Chinese supplies 迦毗罗 (Jiāpíluó, Kapila, the legendary founder of Sāṃkhya), following tradition; the English follows the original and gives no name."
+      }
+     ]
+    },
+    {
+     "h": "ba5ba5eb",
+     "en": "This supreme means of purification the sage gave out of compassion to Asuri; Asuri gave it to Panchashikha, and he spread the teaching far and wide.",
+     "cmp": [
+      {
+       "w": "tantra",
+       "note": "tantra 在这里是「学说、体系」，跟后来的密教「坦特罗」没有关系。白话「学说」、英文 teaching 都避开了这个误会。",
+       "en": "Tantra here means “system of doctrine” and has nothing to do with later Tantric ritual. The plain Chinese 学说 (xuéshuō, “doctrine”) and the English “teaching” both avoid that misunderstanding."
+      }
+     ]
+    },
+    {
+     "h": "2764d8fb",
+     "en": "Handed down through a line of pupils, it was summarized in āryā verses by Ishvarakrishna, a man of noble mind, who had understood the established doctrine thoroughly.",
+     "cmp": [
+      {
+       "w": "āryābhiḥ / āryamatinā",
+       "note": "āryā 是这部论用的诗律名称，ārya-mati 是「心意高尚的」。两个词挨在一起，是个文字游戏：用「高尚」诗体写的，作者也「高尚」。白话、英文都没法保留。",
+       "en": "Āryā is the name of the meter the treatise is written in, and ārya-mati means “of noble mind.” The two sit side by side as a play on words: written in the “noble” meter by a “noble-minded” author. Neither the plain Chinese nor the English can keep it."
+      }
+     ]
+    },
+    {
+     "h": "d0338a77",
+     "en": "The topics of these seventy verses, they say, are the topics of the whole Ṣaṣṭitantra (the “Sixty-Topic Treatise”), without the illustrative stories and without the debates against other schools.",
+     "cmp": [
+      {
+       "w": "saptati",
+       "note": "论里自称「七十颂」，本书却有 73 颂：一般认为最后几颂是后人加的。古译「摄六万义尽」把「六十（科）」变成了「六万」。",
+       "en": "The treatise calls itself “the seventy,” yet this edition has 73 verses; the last few are generally thought to be later additions. The classical Chinese 摄六万义尽 (“includes all sixty thousand topics”) turns “sixty (topics)” into “sixty thousand.”"
+      }
+     ]
+    },
+    {
+     "h": "35d41a70",
+     "en": "So this treatise, though brief in view, does not lack substance. It is like the image of that great body of teaching caught in a mirror."
+    }
+   ]
+  }
+ ]
+}

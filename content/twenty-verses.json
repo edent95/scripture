@@ -9,13 +9,16 @@
  "source": {
   "orig": {
    "name": "GRETIL（Fukita 录入，Lévi 1925 校本）",
+   "en": "GRETIL (input by Fukita; Lévi 1925 edition)",
    "url": "https://gretil.sub.uni-goettingen.de/",
    "license": "CC BY-NC-SA 4.0"
   },
   "old": {
    "name": "CBETA T31n1590",
+   "en": "CBETA T31n1590",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

@@ -1,0 +1,138 @@
+{
+ "slug": "metta-sutta",
+ "title": "The Discourse on Loving-kindness",
+ "summary": "Ten verses: what someone seeking peace should be like, and how to give goodwill without limit to every being, as a mother guards her only child.",
+ "compare": [
+  "这部经的核心词是 mettā。它来自 mitta「朋友」，字面是「朋友般的心意」：希望对方好，不带占有，也不要求回报。英文常译 loving-kindness，多了一层 love 的热度；中文「慈」又偏向长辈对晚辈的疼惜，跟后文「像母亲护着独子」很合，却少了「朋友之间」那份平等。本站英文第一次出现时写 loving-kindness，并说明它的意思是 friendly goodwill，白话写「慈心」。",
+  "第二个差别在 bhāvaye「培养、使之生长」。巴利文的「修」（bhāvanā）是让心里本来有的东西一点点长大，像种地；英文 meditate 偏「静坐」，中文「修」偏「修炼」。本站英文写 cultivate，白话写「培养」，两边都贴着原文的「生长」意思。",
+  "第三个差别在第 9 段的 brahma-vihāra。白话照字面写「梵住」，英文常见 sublime abiding、divine abiding。brahma 在这里不是指梵天这位神，而是「最高、最清净」；vihāra 是「住处、过日子的方式」。所以英文写 a divine way of living，并在注里说明 brahma 只是「最高」的意思。"
+ ],
+ "compareEn": [
+  "The key word of this discourse is mettā. It comes from mitta, \"friend,\" and literally means \"the attitude of a friend\": wishing someone well, without possessiveness and without asking anything back. English usually renders it \"loving-kindness,\" which adds the warmth of \"love\"; Chinese renders it 慈 (cí, \"kindly affection\"), which leans toward the tenderness of an elder for a child. That fits the later image of a mother guarding her only son, but loses the equality between friends. On its first appearance the site's English says \"loving-kindness\" and explains it as friendly goodwill; the plain Chinese says 慈心 (cíxīn, \"a kindly heart\").",
+  "The second difference is bhāvaye, \"one should cultivate, make grow.\" Pali bhāvanā means letting something already in the mind slowly grow, like farming. English \"meditate\" suggests sitting still, and Chinese 修 (xiū, \"practice, refine\") suggests self-discipline. The site's English says \"cultivate\" and the plain Chinese says 培养 (péiyǎng, \"nurture\"), both keeping the original sense of growing.",
+  "The third difference is brahma-vihāra in verse 9. The plain Chinese follows the letter with 梵住 (fàn zhù, \"Brahma-dwelling\"); English often has \"sublime abiding\" or \"divine abiding.\" Brahma here does not mean the god Brahmā but \"highest, purest,\" and vihāra means \"a place to live, a way of living.\" So the English says \"a divine way of living,\" and the note explains that brahma only means \"the highest.\""
+ ],
+ "chapters": [
+  {
+   "title": "The Discourse on Loving-kindness",
+   "verses": [
+    {
+     "h": "4d3126fa",
+     "en": "This is what should be done by someone skilled in what is truly good, who wants to reach that state of peace: be capable, upright, truly upright, easy to speak to, gentle, and not proud.",
+     "cmp": [
+      {
+       "w": "attha-kusala",
+       "note": "attha 可以是「利益、好处」，也可以是「目的、意义」。kusala 是「善巧、熟练」。白话写「善于为自己求真正好处的人」，加了「为自己」；原文没有说是谁的好处。英文 skilled in what is truly good 留着这个开放。",
+       "en": "Attha can mean \"benefit, good\" or \"goal, meaning\"; kusala means \"skilled, adept.\" The plain Chinese 善于为自己求真正好处的人 (\"one skilled at seeking what is truly good for oneself\") adds \"for oneself\"; the Pali doesn't say whose good. The English \"skilled in what is truly good\" leaves that open."
+      },
+      {
+       "w": "santaṁ padaṁ",
+       "note": "santaṁ padaṁ「寂静的境地」，注释家都解作涅槃（nibbāna）。原文只说「寂静之处」，英文和白话都照字面译，没有点名涅槃。",
+       "en": "Santaṁ padaṁ, \"the peaceful state,\" is explained by the commentators as nibbāna (the going-out of greed, hatred and delusion). The Pali only says \"the peaceful place,\" so the English and the plain Chinese both translate it literally without naming nibbāna."
+      }
+     ]
+    },
+    {
+     "h": "0bb7756f",
+     "en": "Content, easy to support, with few duties and a light, simple life; senses calm, prudent, not brash, not greedy around the families who give alms.",
+     "cmp": [
+      {
+       "w": "kulesu ananugiddho",
+       "note": "kula 是「家、家族」，这里指供养出家人的施主人家。英文写 the families who give alms，补出了「施主」；白话「不贪恋施主的人家」也补了。原文只说「对各家不贪著」。",
+       "en": "Kula means \"house, family,\" here the lay households that feed monks and nuns. The English \"the families who give alms\" fills in \"who give alms,\" and the plain Chinese 不贪恋施主的人家 (\"not attached to the donors' households\") does the same; the Pali only says \"not greedy among families.\""
+      }
+     ]
+    },
+    {
+     "h": "e0f107c4",
+     "en": "Not doing even the smallest thing that wise people would blame. (And thinking:) May all beings be happy and safe; may all beings be happy at heart.",
+     "cmp": [
+      {
+       "w": "sukhitattā",
+       "note": "sukhita-attā 字面是「自身安乐的」，attā 在这里只是「自己、内心」，不是哲学上的「我」。英文 happy at heart、白话「内心安乐」都译成了心里的快乐。",
+       "en": "Sukhita-attā literally means \"whose self is happy\"; attā here just means \"oneself, one's heart,\" not the philosophical \"self.\" The English \"happy at heart\" and the plain Chinese 内心安乐 (nèixīn ānlè, \"at ease within\") both render it as inner happiness."
+      }
+     ]
+    },
+    {
+     "h": "9e0599ce",
+     "en": "Whatever living beings there are, the ones that tremble and the ones that stand firm, leaving none out: long ones or large ones, middle-sized, short, tiny or bulky,",
+     "cmp": [
+      {
+       "w": "tasā vā thāvarā",
+       "note": "tasa「会颤抖的」、thāvara「稳固的」。注释家解作「还有贪爱、会害怕的」和「已经没有贪爱的阿罗汉」；字面也可以读成「会动的」和「不动的（如植物）」。白话写「会害怕逃走的、安住不动的」，英文写 tremble / stand firm，都照字面。",
+       "en": "Tasa means \"trembling,\" thāvara \"firm.\" The commentators read them as \"those who still crave and fear\" and \"arahants (fully awakened ones) who no longer crave\"; literally they can also mean \"moving\" and \"unmoving (such as plants).\" The plain Chinese 会害怕逃走的、安住不动的 (\"those that fear and flee, those that stay still\") and the English \"tremble / stand firm\" both follow the letter."
+      }
+     ]
+    },
+    {
+     "h": "ccbe62b2",
+     "en": "seen or unseen, living far away or close by, already born or still seeking birth: may all beings be happy at heart.",
+     "cmp": [
+      {
+       "w": "sambhavesī",
+       "note": "sambhavesī 字面是「寻求出生的」，指还在母胎、卵中或正要投生的生命。白话「正要出生的」把「寻求」的意味弱化了；英文 still seeking birth 保留。",
+       "en": "Sambhavesī literally means \"seeking birth,\" beings still in the womb, the egg, or about to be reborn. The plain Chinese 正要出生的 (\"about to be born\") softens the \"seeking\"; the English \"still seeking birth\" keeps it."
+      }
+     ]
+    },
+    {
+     "h": "5798ba50",
+     "en": "Let no one deceive another or look down on anyone anywhere; out of anger or a hostile thought, let no one wish suffering on another."
+    },
+    {
+     "h": "23ad031a",
+     "en": "Just as a mother would protect her own son, her only son, with her life, so toward all beings one should cultivate a boundless heart."
+    },
+    {
+     "h": "040a04a9",
+     "en": "Toward the whole world, cultivate loving-kindness (mettā, friendly goodwill), a boundless heart: above, below and all around, unconfined, without hatred, without enmity.",
+     "cmp": [
+      {
+       "w": "mettā",
+       "note": "mettā 来自 mitta「朋友」，是「朋友般的善意」。英文 loving-kindness 多了 love 的热度，中文「慈」偏向长辈的疼惜。英文在括号里补了 friendly goodwill。",
+       "en": "Mettā comes from mitta, \"friend\": the goodwill of a friend. \"Loving-kindness\" adds the warmth of \"love,\" and Chinese 慈 (cí, \"kindly affection\") leans toward an elder's tenderness. The English adds \"friendly goodwill\" in brackets."
+      },
+      {
+       "w": "tiriyañca",
+       "note": "tiriyaṁ 是「横向、水平方向」。白话写「向四方」，英文写 all around，都意译了。",
+       "en": "Tiriyaṁ means \"across, horizontally.\" The plain Chinese 向四方 (\"toward the four directions\") and the English \"all around\" both paraphrase it."
+      }
+     ]
+    },
+    {
+     "h": "e9230e7d",
+     "en": "Standing, walking, sitting or lying down, as long as one is not drowsy, one should keep this mindfulness firmly. This, they say, is a divine way of living, here and now.",
+     "cmp": [
+      {
+       "w": "vigatamiddho",
+       "note": "原文 yāvat' assa vigatamiddho 是「只要他没有昏沉」。白话写「只要还没睡着」，英文写 as long as one is not drowsy，比白话更贴原文。",
+       "en": "The Pali yāvat' assa vigatamiddho means \"as long as he is free of drowsiness.\" The plain Chinese 只要还没睡着 (\"as long as one hasn't fallen asleep\") is a bit looser; the English \"as long as one is not drowsy\" is closer."
+      },
+      {
+       "w": "brahmaṁ vihāraṁ",
+       "note": "brahma-vihāra 白话照字面写「梵住」。brahma 这里是「最高、最清净」，不是指梵天这位神；vihāra 是「住、过日子」。英文写 a divine way of living。",
+       "en": "The plain Chinese renders brahma-vihāra literally as 梵住 (fàn zhù, \"Brahma-dwelling\"). Brahma here means \"highest, purest,\" not the god Brahmā, and vihāra means \"dwelling, way of living.\" The English says \"a divine way of living.\""
+      }
+     ]
+    },
+    {
+     "h": "ac22ee41",
+     "en": "Not falling into views, virtuous, endowed with clear seeing, having removed greed for sensual pleasures, such a person will surely never again lie in a womb. (The Discourse on Loving-kindness, the eighth.)",
+     "cmp": [
+      {
+       "w": "diṭṭhiñca anupaggamma",
+       "note": "diṭṭhi 本义是「见解」，在巴利经里常专指错误的、执着的见解。白话「不落入（各种）见解」、英文 not falling into views 都照字面，没有说是哪一种见解。",
+       "en": "Diṭṭhi literally means \"view,\" but in the Pali discourses it often means a wrong or clung-to view. The plain Chinese 不落入（各种）见解 (\"not falling into [any] views\") and the English \"not falling into views\" both keep the letter and don't say which views."
+      },
+      {
+       "w": "gabbhaseyyaṁ",
+       "note": "gabbha-seyya「躺进母胎」，意思是不再投生。英文 lie in a womb、白话「进入母胎」都照字面。",
+       "en": "Gabbha-seyya, \"lying in a womb,\" means not being reborn again. The English \"lie in a womb\" and the plain Chinese 进入母胎 (\"enter a mother's womb\") both keep the image."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

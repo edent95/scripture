@@ -1,0 +1,731 @@
+{
+ "slug": "medicine-buddha",
+ "title": "The Medicine Buddha Sutra",
+ "summary": "The Buddha of the eastern Lapis Lazuli land and his twelve vows: to heal the sick, feed the hungry and clothe the cold.",
+ "compare": [
+  "先说佛名。梵文 Bhaiṣajyaguru-vaidūrya-prabha-rāja 是「药的老师、琉璃光之王」。英文通称 Medicine Buddha，本站正文写 Medicine Master of Lapis Light，第一次出现时把四个部分都译出来。vaidūrya 是一种蓝色宝石，到底是今天的青金石、绿柱石还是猫眼石，学界说法不一；中文「琉璃」今天多指玻璃，英文 lapis lazuli 又太确定。白话、英文都只能取一个近似，读者知道它是「深蓝、透亮的宝石」就够了。",
+  "第二个差别在誓愿的措辞。梵本的十二大愿每条开头都是「等我将来证得无上正等正觉的时候……」，后面几条把这句缩成一串破折号（原稿就是这样省略的），英文照样用省略号。玄奘的译文更完整、更整齐，也常比梵本多出几句，例如第八愿梵本只说「她不再是女身」，玄奘明写「转女成男，具丈夫相」；第十一愿玄奘多了「后以法味，毕竟安乐」。英文照梵本，这些差别在各段的对照注里标出。",
+  "第三个现象是这部梵本本身残缺。本站用的 Vaidya 校本有好几处原稿缺字、读不通（标了问号或空缺），中文白话按上下文补出的地方都加了括号，英文也一样用括号或 (unclear) 标明。另外，玄奘本在后半部多出不少梵本没有的内容：请僧念经、点七层灯、挂五色续命幡、放生，九种横死的详细说法，阎罗王掌管名籍，用五色线结神将名字等。今天汉传寺院的药师法会，很多做法就来自这些段落。英文只译梵本里有的，这些增补在各段的对照注里标出。"
+ ],
+ "compareEn": [
+  "First, the Buddha’s name. Sanskrit Bhaiṣajyaguru-vaidūrya-prabha-rāja means “Master of Medicine, King of Lapis Light.” In English he is usually called the Medicine Buddha; the site’s text says “Medicine Master of Lapis Light,” translating all four parts at the first appearance. Vaidūrya is a blue gemstone, and scholars disagree whether it was lapis lazuli, beryl or cat’s-eye; the Chinese 琉璃 (liúlí) today mostly means “glass,” while the English “lapis lazuli” sounds too certain. The plain Chinese and the English can only choose an approximation; it is enough to know it is a deep blue, translucent gem.",
+  "The second difference is in the wording of the vows. In the Sanskrit, each of the twelve great vows opens with “When in the future I awaken to unsurpassed, perfect awakening …,” and from the third vow on this phrase is cut down to a row of dashes (that is how the manuscript abbreviates it); the English uses an ellipsis in the same way. Xuanzang’s Chinese is fuller and more even, and often has lines the Sanskrit lacks. In the eighth vow, for instance, the Sanskrit only says “she will no longer be a woman,” while Xuanzang spells it out as 转女成男，具丈夫相 (“turn from woman into man, with all the marks of a man”); in the eleventh vow Xuanzang adds 后以法味，毕竟安乐 (“afterward, with the taste of the Dharma, lasting happiness”). The English follows the Sanskrit, and these differences are marked in the notes under each passage.",
+  "The third point is that this Sanskrit text is itself damaged. The Vaidya edition used on this site has several places where the manuscript has gaps or cannot be read (marked with question marks or blanks). Where the plain Chinese fills something in from the context, it uses brackets, and the English does the same, marking gaps with brackets or “(unclear).” In its second half, Xuanzang’s version also has a good deal the Sanskrit lacks: inviting monks to recite the sutra, lamps in seven tiers, five-colored life-prolonging banners, releasing animals, a fuller account of the nine untimely deaths, King Yama keeping the register of names, tying the generals’ names in five-colored thread. Many practices in Chinese Medicine Buddha ceremonies today come from these passages. The English translates only what is in the Sanskrit, and these additions are marked in the notes under each passage."
+ ],
+ "chapters": [
+  {
+   "title": "The Medicine Buddha Sutra",
+   "verses": [
+    {
+     "h": "20e69c4a",
+     "en": "The Sutra of the Medicine Master, King of Lapis Light. Om! Homage to the All-Knowing One! Homage to the Blessed One, the Medicine Master, King of Lapis Light, the Tathagata (“the one who has come thus,” a title of a buddha)!",
+     "cmp": [
+      {
+       "w": "bhaiṣajyaguru",
+       "note": "「药的老师」。英文 Medicine Master 照字面；中文「药师」也是。guru 在英文里已经是外来词（「导师」），这里不用，以免带出现代的意思。",
+       "en": "“Teacher of medicine.” The English “Medicine Master” is literal, as is the Chinese 药师 (yàoshī). Guru is already an English loanword (“spiritual guide”), so it is avoided here to keep out the modern associations."
+      },
+      {
+       "w": "vaidūrya",
+       "note": "一种蓝色宝石，究竟是青金石、绿柱石还是猫眼石，说法不一。英文 lapis 只是近似；中文「琉璃」今天多被理解为玻璃。",
+       "en": "A blue gemstone; whether it was lapis lazuli, beryl or cat’s-eye is disputed. The English “lapis” is only an approximation; the Chinese 琉璃 (liúlí) is today mostly understood as “glass.”"
+      }
+     ]
+    },
+    {
+     "h": "5f45fb36",
+     "en": "This is what I heard. Once the Blessed One, traveling through the country stage by stage, arrived at the great city of Vaishali (capital of the Licchavi clan). There the Blessed One stayed at Vaishali, at the foot of a tree called Music-Sound, with a great community of monks, eight thousand monks, and with thirty-six thousand bodhisattvas, and with a gathering of kings, ministers, brahmins (the priestly class) and householders, and an assembly of gods, nagas, yakshas, gandharvas (heavenly musicians), asuras, garudas, kinnaras (half-human singing spirits), great serpents, humans and non-humans. Surrounded and honored by them, he was teaching the Dharma.",
+     "cmp": [
+      {
+       "w": "vaiśālī",
+       "note": "地名。英文音译 Vaishali；玄奘意译成「广严城」，中文读者看不出是同一座城。",
+       "en": "A place name. The English transcribes it as Vaishali; Xuanzang translates the meaning as 广严城 (Guǎngyán chéng, “City of Broad Splendor”), so Chinese readers cannot tell it is the same city."
+      },
+      {
+       "w": "gandharva · asura · garuḍa · kinnara · mahoraga",
+       "note": "梵本的八部众列得很全；玄奘只写「天、龙、药叉、人、非人等」，省掉了中间几类。英文照梵本全列。",
+       "en": "The Sanskrit lists the eight kinds of spirit beings in full; Xuanzang writes only 天、龙、药叉、人、非人等 (“gods, nagas, yakshas, humans, non-humans and so on”), leaving out several. The English lists them all, as the Sanskrit does."
+      }
+     ]
+    },
+    {
+     "h": "70eb5fa5",
+     "en": "Then Manjushri, the Prince of the Dharma (heir of the Dharma King, the Buddha), through the Buddha’s power rose from his seat, put his upper robe over one shoulder, set his right knee on the ground, bowed with joined palms toward the Blessed One and said: “Blessed One, please teach the names of those Tathagatas and explain in detail the vows they made long ago. Hearing them, we would wash away all the obstacles of karma (hindrances left by past actions). This is out of kindness to beings in the last age, the last time, when only a semblance of the true Dharma remains.”",
+     "cmp": [
+      {
+       "w": "saddharmapratirūpaka",
+       "note": "「像是正法的东西」：正法衰微、只剩外表的时代。英文 a semblance of the true Dharma 照字面；玄奘译「像法」，「像」就是「相似」的意思，但现代读者看不出来。",
+       "en": "“Something resembling the true Dharma”: the age when the teaching has faded and only its outward form is left. The English “a semblance of the true Dharma” is literal; Xuanzang writes 像法 (xiàngfǎ, “resemblance Dharma”), where 像 means “resembling,” but modern readers no longer see this."
+      }
+     ]
+    },
+    {
+     "h": "24ddf6fc",
+     "en": "Then the Blessed One praised the youthful Manjushri: “Good, good, Manjushri! You are a person of great compassion, Manjushri. You have raised boundless compassion and (asked this, the word is unclear) for the sake, the good and the happiness of beings wrapped in all kinds of karmic obstacles, and for the good of gods and humans. So, Manjushri, listen, and keep it well and truly in mind; I will explain.” “Yes, Blessed One,” said the youthful Manjushri, and listened to the Blessed One.",
+     "cmp": [
+      {
+       "w": "samādhesase(?)",
+       "note": "原稿这个词读不通，校本加了问号。按上下文是「来请问」一类意思，白话照这个方向译，英文在括号里注明不确定。",
+       "en": "This word cannot be read in the manuscript, and the edition adds a question mark. From the context it means something like “you have come to ask,” and the plain Chinese translates in that direction; the English notes the doubt in brackets."
+      },
+      {
+       "w": "kumārabhūta",
+       "note": "「童子、王子」：文殊的称号，指他永远是少年的模样，也有「王子」之意。英文 youthful；中文「童子」容易读成小孩。",
+       "en": "“Youth, prince”: Manjushri’s title, meaning he always appears young, and also implying a prince. The English says “youthful”; the Chinese 童子 (tóngzǐ) is easily read as “a little boy.”"
+      }
+     ]
+    },
+    {
+     "h": "07e2ca77",
+     "en": "The Blessed One said to him: “Manjushri, to the east of here, beyond buddha-lands as many as the grains of sand in ten Ganges rivers, there is a world called Lapis Radiance. There lives a Tathagata named Medicine Master of Lapis Light: worthy, perfectly and fully awakened, complete in knowledge and conduct, the one who has gone well, knower of the world, unsurpassed, tamer of those who can be tamed, teacher of gods and humans, a buddha, a blessed one.”",
+     "cmp": [
+      {
+       "w": "vaidūryanirbhāsā",
+       "note": "世界名，「琉璃光照」。玄奘译「净琉璃」，多了「净」，少了「光照」。",
+       "en": "The world’s name, “Lapis Radiance.” Xuanzang writes 净琉璃 (jìng liúlí, “Pure Lapis”), adding “pure” and dropping “radiance.”"
+      },
+      {
+       "w": "puruṣadamyasārathi",
+       "note": "「驾驭可调伏之人的车夫」。英文 tamer of those who can be tamed 是意译；玄奘把一个称号拆成「无上丈夫、调御士」，和通行的「无上士、调御丈夫」分法不同。",
+       "en": "“Charioteer of people who can be tamed.” The English “tamer of those who can be tamed” paraphrases. Xuanzang splits the titles as 无上丈夫、调御士 (“unsurpassed man, tamer”), unlike the usual Chinese split 无上士、调御丈夫 (“unsurpassed one, tamer of men”)."
+      }
+     ]
+    },
+    {
+     "h": "37fbcc66",
+     "en": "“And Manjushri, when that Blessed One, the Tathagata Medicine Master of Lapis Light, was formerly practicing the conduct of a bodhisattva, he made these twelve great vows. What are the twelve great vows?”",
+     "cmp": [
+      {
+       "w": "katamāni dvādaśa",
+       "note": "梵本只问「哪十二个大愿」；玄奘多了一句「令诸有情，所求皆得」，先把十二愿的目的说出来。",
+       "en": "The Sanskrit simply asks “what are the twelve great vows?”; Xuanzang adds 令诸有情，所求皆得 (“so that all beings obtain whatever they seek”), stating the purpose of the vows up front."
+      }
+     ]
+    },
+    {
+     "h": "4077c7d2",
+     "en": "“His first great vow was: ‘When in the future I awaken to unsurpassed, perfect awakening, then may the light of my body make immeasurable, countless, boundless worlds blaze, glow and shine. And just as I am endowed with the thirty-two marks of a great man and my body is adorned with the eighty secondary features, so may all beings be.’”"
+    },
+    {
+     "h": "fc943058",
+     "en": "“His second great vow was: ‘When in the future I awaken to unsurpassed, perfect awakening, then, once I have reached awakening, may my body be like a priceless lapis gem, utterly pure inside and out, full of stainless light. May my body be vast, with matching splendor and radiance, and may its nets of rays outshine the sun and moon. And whatever beings are born in the world, whatever people go off in any direction in the pitch-dark night, may they all, touched by my light in every direction, do good deeds.’”",
+     "cmp": [
+      {
+       "w": "kuśalāni karmāṇi kurvīran",
+       "note": "梵本是「去做善事」；玄奘译「随意所趣，作诸事业」，变成「想去哪就去哪、办成各种事」，没有「善」字。",
+       "en": "The Sanskrit says “may they do good deeds”; Xuanzang writes 随意所趣，作诸事业 (“go wherever they wish and get all their work done”), without the word “good.”"
+      }
+     ]
+    },
+    {
+     "h": "b84f9278",
+     "en": "“His third great vow was: ‘When in the future I … , then, once I have reached awakening, through the strength of immeasurable wisdom and skill in means, may beings have things to use and enjoy that never run out, for the boundless realm of beings. May no being lack anything at all.’”"
+    },
+    {
+     "h": "3f7dd1c1",
+     "en": "“His fourth great vow was: ‘When in the future I … , then, once I have reached awakening, may I set on the unsurpassed path of awakening, the Great Vehicle, those beings who have taken a wrong path, and those who have taken the path of the disciples (who seek only their own liberation) or the path of the solitary buddhas (who awaken without a teacher).’”"
+    },
+    {
+     "h": "cc1f46fe",
+     "en": "“His fifth great vow was: ‘When in the future I … , then, once I have reached awakening, may all beings who live the holy life under my teaching keep their ethics unbroken and be well restrained. And may no one whose ethics have failed go to a bad rebirth anywhere once they have heard my name.’”",
+     "cmp": [
+      {
+       "w": "akhaṇḍaśīlāḥ",
+       "note": "「戒律不缺」。玄奘多了「具三聚戒」（大乘的三类戒），梵本没有。",
+       "en": "“With unbroken ethics.” Xuanzang adds 具三聚戒 (“complete in the three groups of precepts,” a Mahayana classification), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "902c2800",
+     "en": "“His sixth great vow was: ‘When in the future I … , then, once I have reached awakening, may beings with poor bodies, impaired senses, ugly looks, those who are dull, mute, lame, hunchbacked, with white skin patches, with withered limbs, blind, deaf or mad, and those with any other disease of the body, all have complete senses and whole, well-formed limbs once they hear my name.’”"
+    },
+    {
+     "h": "f8882c43",
+     "en": "“His seventh great vow was: ‘When in the future I … , then, once I have reached awakening, if my name should fall into the ears of beings tormented by all kinds of disease, with no protection and no refuge, without medicine or care, with no one to look after them, poor and suffering, may all their diseases be calmed, and may they be free of illness and misfortune until they reach awakening.’”",
+     "cmp": [
+      {
+       "w": "karṇapuṭe nipatet",
+       "note": "「落进耳朵里」。英文 fall into the ears 照字面；玄奘「一经其耳」意思相同。玄奘还多了「家属资具，悉皆丰足」，梵本没有。",
+       "en": "“Fall into the hollow of the ear.” The English is literal, and Xuanzang’s 一经其耳 (“once it passes through their ears”) means the same. Xuanzang also adds 家属资具，悉皆丰足 (“their families and goods all plentiful”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "2e8f8c64",
+     "en": "“His eighth great vow was: ‘When in the future I … , then if any woman, troubled by the hundreds of faults of a woman’s lot, disgusted with being a woman, and wishing to be free of a woman’s birth, keeps my name in mind, may that woman no longer be a woman until she reaches awakening.’”",
+     "cmp": [
+      {
+       "w": "na strībhāvo bhavet",
+       "note": "梵本只说「她不再是女身」。玄奘明写「转女成男，具丈夫相」。英文照梵本；这一愿反映的是古印度对女性的看法，英文、白话都照原文译，不加评论。",
+       "en": "The Sanskrit only says “she will no longer be a woman.” Xuanzang states outright 转女成男，具丈夫相 (“turn from a woman into a man, with all the marks of a man”). The English follows the Sanskrit; this vow reflects ancient Indian views of women, and both the English and the plain Chinese translate it as it stands without comment."
+      }
+     ]
+    },
+    {
+     "h": "d62a32df",
+     "en": "“His ninth great vow was: ‘When in the future I … , then, once I have reached awakening, may I turn back all beings bound by the snares of Mara (the tempter) and caught in the thickets and narrow passes of all kinds of views, from all the snares of Mara and from those views; set them on right view; and step by step show them the bodhisattva’s way of life.’”"
+    },
+    {
+     "h": "b646df8e",
+     "en": "“His tenth great vow was: ‘When in the future I … , then, once I have reached awakening, may whatever beings are afraid of the power of kings and the like, or are bound in chains and locked up, or deserve death, or are harmed by many tricks, or are insulted, or are struck by suffering of body, speech and mind, be freed from every fear and misfortune by hearing my name and by the power of my merit.’”"
+    },
+    {
+     "h": "5e052895",
+     "en": "“His eleventh great vow was: ‘When in the future I … , then, once I have reached awakening, if beings burning with the fire of hunger, busy hunting for food and drink and doing wrong because of it, keep my name in mind, may I satisfy their bodies with food full of color, aroma and flavor.’”",
+     "cmp": [
+      {
+       "w": "āhāreṇa śarīraṃ saṃtarpayeyam",
+       "note": "梵本到「让他们吃饱」就结束。玄奘多了「后以法味，毕竟安乐而建立之」，先给饭吃，再给法味。",
+       "en": "The Sanskrit ends with “may I satisfy their bodies with food.” Xuanzang adds 后以法味，毕竟安乐而建立之 (“afterward, with the taste of the Dharma, establish them in lasting happiness”): food first, then the Dharma."
+      }
+     ]
+    },
+    {
+     "h": "d29ed778",
+     "en": "“His twelfth great vow was: ‘When in the future I … , then, once I have reached awakening, if any beings who have no clothes, who are poor, troubled by cold and heat, gadflies and mosquitoes, suffering day and night, keep my name in mind, may I provide them with clothes to wear and offer them pleasing things dyed in many colors; and with all kinds of jewels and ornaments, perfumes, garlands, ointments, instruments, music and cymbals, may I fulfill every wish of all beings.’”"
+    },
+    {
+     "h": "843bb7b4",
+     "en": "“These, Manjushri, are the twelve great vows that the Blessed One, the Tathagata Medicine Master of Lapis Light, worthy and perfectly awakened, made long ago while practicing the conduct of awakening.”"
+    },
+    {
+     "h": "bd89fd19",
+     "en": "“And Manjushri, the vows of that Blessed One, the Tathagata Medicine Master of Lapis Light, and the array of virtues of his buddha-land, could not be told in full in an eon, or in more than an eon.”"
+    },
+    {
+     "h": "d1a789bf",
+     "en": "“That buddha-land is utterly pure. There are no stones, gravel or grit; no faults of sensual desire; no sound of the suffering of the lower realms; and no women. That great earth is made of lapis, and its walls, ramparts, palaces, gateways, windows, latticework and eaves are made of the seven precious substances. It is just like the world Sukhavati (the Land of Bliss in the west).”",
+     "cmp": [
+      {
+       "w": "yadṛśī sukhāvatī",
+       "note": "梵本只说「就像极乐世界」。白话补了「西方的」，玄奘还多了「金绳界道」「功德庄严，等无差别」。英文照梵本，只在括号里解释极乐世界在西方。",
+       "en": "The Sanskrit only says “just like Sukhavati.” The plain Chinese adds “in the west,” and Xuanzang also adds 金绳界道 (“roads marked off with golden cords”) and 功德庄严，等无差别 (“equal in every virtue and adornment”). The English follows the Sanskrit and explains in brackets that the Land of Bliss is in the west."
+      }
+     ]
+    },
+    {
+     "h": "a26cd2fa",
+     "en": "“In that world, Lapis Radiance, there are two bodhisattvas, great beings, who lead those immeasurable, countless bodhisattvas and great beings: one named Sun Illuminator, the second Moon Illuminator. They hold the treasury of the true Dharma of that Blessed One, the Tathagata Medicine Master of Lapis Light.”",
+     "cmp": [
+      {
+       "w": "sūryavairocana · candravairocana",
+       "note": "「日遍照、月遍照」。英文意译 Sun Illuminator / Moon Illuminator；中文寺院里常称「日光菩萨、月光菩萨」。",
+       "en": "“Sun All-Illuminating” and “Moon All-Illuminating.” The English translates them as Sun Illuminator and Moon Illuminator; in Chinese temples they are usually called 日光菩萨、月光菩萨 (Rìguāng Púsà, Yuèguāng Púsà, “Sunlight and Moonlight Bodhisattvas”)."
+      }
+     ]
+    },
+    {
+     "h": "6fd95dd0",
+     "en": "“So, Manjushri, a son or daughter of good family who has faith should make a vow to be born in that buddha-land.”"
+    },
+    {
+     "h": "05fba711",
+     "en": "Again the Blessed One spoke to the youthful Manjushri: “Manjushri, there are ordinary beings who do not know good action from bad. Overpowered by greed, they know nothing of giving or of the great fruit of giving. Foolish and dull, lacking the faculty of faith, they are busy only with piling up wealth, and their minds do not move toward giving and sharing.”",
+     "cmp": [
+      {
+       "w": "dānasaṃvibhāge",
+       "note": "「布施、分享」。玄奘多了「多聚财宝，勤加守护；见乞者来，其心不喜」等具体描写，梵本较简略。",
+       "en": "“Giving and sharing.” Xuanzang adds concrete details such as 多聚财宝，勤加守护；见乞者来，其心不喜 (“they pile up treasure and guard it closely; when a beggar comes, they are not pleased”), while the Sanskrit is briefer."
+      }
+     ]
+    },
+    {
+     "h": "987aeda8",
+     "en": "“When the time comes to give, their minds feel (pain) as if they were cutting flesh from their own bodies. And there are many beings who do not even use (their wealth) themselves, let alone give it to their mothers, fathers, wives and daughters, let alone to their servants, maids and workers, let alone to other people who come asking.”"
+    },
+    {
+     "h": "4ae0ceaf",
+     "en": "“When such beings die, they will be reborn in the world of hungry ghosts or as animals. But those who, back when they were human, heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, will find, while they are in the world of Yama (lord of the dead) or among the animals, that the Tathagata’s name comes (vividly?) before their minds.”",
+     "cmp": [
+      {
+       "w": "su(saṃ?)mukhībhaviṣyati",
+       "note": "原稿这里有缺字，校本打了问号。意思大致是「浮现在眼前」，英文在括号里保留疑问。",
+       "en": "The manuscript has a gap here, and the edition adds a question mark. The sense is roughly “will come before their eyes”; the English keeps the doubt in brackets."
+      },
+      {
+       "w": "yamaloka",
+       "note": "「阎罗的世界」，前半句说的是饿鬼界，这里换成阎罗界，指的是同一类恶道。玄奘统一写「恶趣」。",
+       "en": "“The world of Yama.” The first half of the sentence speaks of the world of hungry ghosts and here it says Yama’s world; both refer to the same kind of lower realm. Xuanzang simply writes 恶趣 (èqù, “bad destinies”)."
+      }
+     ]
+    },
+    {
+     "h": "cb620df0",
+     "en": "“The moment they remember it, they will die from there and be reborn in the human world again, and they will remember their past lives. Afraid of bad rebirths, they will no longer want the pleasures of the senses; they will delight in giving and speak in praise of giving. Giving up everything, step by step they will give their hands, feet, heads and eyes, their flesh and blood, to those who ask, let alone any other heap of wealth.”"
+    },
+    {
+     "h": "69e3a7ee",
+     "en": "“Again, Manjushri, there are beings who take on the training rules in the presence of the Tathagatas, yet fall into failed ethics, or sometimes into failed views or failed conduct. And some, though ethical, who keep their ethics, do not go on to seek broad learning, and do not understand the deep meaning of what the Tathagatas have taught. And some who are learned become arrogant, stiff with pride, given to envy of others; they look down on the true Dharma and reject it.”",
+     "cmp": [
+      {
+       "w": "śīlavipannā ye punaḥ śīlavanto",
+       "note": "梵本这一句读起来有点乱（「犯了戒的……那些持戒的」），白话和英文按意思理顺。玄奘则排成整齐的五层递进：破戒、破轨则、毁正见、弃多闻、增上慢。",
+       "en": "The Sanskrit here is a little muddled (“those whose ethics have failed … those who are ethical”); the plain Chinese and the English smooth it out by sense. Xuanzang arranges it as a neat five-step sequence: breaking precepts, breaking rules of conduct, ruining right view, abandoning learning, and arrogance."
+      }
+     ]
+    },
+    {
+     "h": "521c64bf",
+     "en": "“Such deluded people are on Mara’s side. They have taken a wrong path themselves, and they push many hundreds of thousands of millions of other beings over a great cliff. Beings like this will mostly end up in hell.”",
+     "cmp": [
+      {
+       "w": "narakavāsagati",
+       "note": "梵本只说「地狱」。玄奘写「地狱、傍生、鬼趣，流转无穷」，把三恶道都列上。",
+       "en": "The Sanskrit says only “hell.” Xuanzang writes 地狱、傍生、鬼趣，流转无穷 (“hell, animals and ghosts, wandering without end”), listing all three lower realms."
+      }
+     ]
+    },
+    {
+     "h": "f02f3433",
+     "en": "“But those among them who have heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, will find, while they are in hell, that by the Buddha’s power the Tathagata’s name comes before them. Dying from there, they will be reborn in the human world again, with right view, full of energy, with good intentions. Leaving home, they will go forth in the Tathagata’s teaching and step by step complete the bodhisattva’s way of life.”",
+     "cmp": [
+      {
+       "w": "narake sthitānām",
+       "note": "梵本说「待在地狱里时」名字出现在面前。玄奘这一段长得多，先说听到名号就不堕恶趣，堕了才「令其现前暂闻名号」，又补上持戒、多闻、不谤法等，把上一段的五种毛病一一对治。英文照梵本。",
+       "en": "The Sanskrit says the name comes before them “while they are in hell.” Xuanzang’s passage is much longer: first, those who hear the name do not fall into bad rebirths at all; only those who do fall are made to hear it briefly; and he adds keeping the precepts, broad learning, not slandering the Dharma and so on, curing one by one the five faults of the previous passage. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "8ac30f4f",
+     "en": "“Again, Manjushri, there are stingy beings who speak in praise of themselves and say bad things about others. Beings who raise themselves up and put others down will suffer in the three lower realms for many thousands of years.”"
+    },
+    {
+     "h": "a11d8d57",
+     "en": "“After many thousands of years they die from there and are reborn as animals such as cattle, horses, camels and donkeys. Beaten with whips and sticks, their bodies tormented by hunger and thirst, they walk the road carrying heavy loads. If they ever do gain a human birth, they will always be born into low families and be slaves under others’ control.”"
+    },
+    {
+     "h": "fb1f84f8",
+     "en": "“Those who, back when they were human, heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, will through that root of good be freed from every suffering. They will have sharp faculties, and be learned, clear-minded and wise. Intent on seeking the good, they will always find good friends (kalyāṇamitra, spiritual friends and teachers). They cut through the snare of Mara, break the eggshell of ignorance, dry up the river of afflictions, and are freed from birth, old age, sickness, death, fear, sorrow, lamentation, pain, grief and despair.”",
+     "cmp": [
+      {
+       "w": "avidyāṇḍakośa",
+       "note": "「无明的蛋壳」：人被无明包着，像小鸡在蛋里，要啄破壳才出得来。英文 eggshell of ignorance、白话「无明的蛋壳」都保留了这个比喻；玄奘写「破无明㲉」，「㲉」字现代读者多不认识。",
+       "en": "“The eggshell of ignorance”: people are wrapped in ignorance like a chick inside an egg and must break the shell to get out. The English and the plain Chinese both keep the image; Xuanzang writes 破无明㲉 (pò wúmíng què, “break the shell of ignorance”), using a character 㲉 (què) that most modern readers do not recognize."
+      }
+     ]
+    },
+    {
+     "h": "cc7b36d0",
+     "en": "“Again, Manjushri, there are beings who love to tell tales and stir up quarrels, fights and disputes among beings. Hostile toward each other, these beings commit all kinds of bad deeds with body, speech and mind; they wish each other harm and are always scheming to bring each other to ruin.”"
+    },
+    {
+     "h": "0dfdef73",
+     "en": "“They call up forest spirits, tree spirits and mountain spirits; in cemeteries they call up all sorts of ghosts. They take the lives of animals and make offerings to yakshas and rakshasas (man-eating demons) that eat flesh and drink blood. They take an enemy’s name or make an image of his body, and over it they work dark spells, using kakhordas and vetalas (spirits that animate corpses), wanting to cut short his life or destroy his body.”",
+     "cmp": [
+      {
+       "w": "kākhordavetāla",
+       "note": "kākhorda 是一种害人的鬼或咒术，vetāla 是附在尸体上使它起来的鬼。白话合并成「起尸鬼之类」；英文保留两个原词并解释。玄奘写「厌媚蛊道，呪起尸鬼」，加了中国读者熟悉的「蛊」。",
+       "en": "A kakhorda is a kind of harmful spirit or spell, and a vetala is a spirit that enters a corpse and makes it rise. The plain Chinese merges them as 起尸鬼之类 (“corpse-raising ghosts and the like”); the English keeps both words with an explanation. Xuanzang writes 厌媚蛊道，呪起尸鬼, adding 蛊 (gǔ, poison sorcery), a practice familiar to Chinese readers."
+      }
+     ]
+    },
+    {
+     "h": "24fa5b64",
+     "en": "“But no one can do any harm to those who have heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light. They all live with love toward one another, wishing each other well and free of ill will, each content with what is their own.”"
+    },
+    {
+     "h": "2d5e6a97",
+     "en": "“Again, Manjushri, there are the four assemblies, monks, nuns, laymen and laywomen, and other sons and daughters of good family who have faith, who keep the fast with its eight noble parts, or keep the training rules for a year or for three months, with this vow and this aim: ‘By this root of good, may we be born in the western direction, in the world Sukhavati, where the Tathagata Amitayus (“Boundless Life,” another name of Amitabha) is.’”",
+     "cmp": [
+      {
+       "w": "amitāyus",
+       "note": "「无量寿」，阿弥陀佛的另一个名号。英文保留 Amitayus 并说明它就是 Amitabha；白话写「阿弥陀（无量寿）」。玄奘还多了「听闻正法，而未定者」，指心还没定下来的人，梵本没有。",
+       "en": "“Boundless Life,” another name of Amitabha. The English keeps Amitayus and notes that it is Amitabha; the plain Chinese writes 阿弥陀（无量寿）(“Amitabha (Boundless Life)”). Xuanzang also adds 听闻正法，而未定者 (“who have heard the true Dharma but are not yet settled”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "4a68b1fb",
+     "en": "“Those of them who have heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, will be shown the way at the hour of death by eight bodhisattvas who come through their spiritual powers, and they will appear there, born spontaneously in lotuses of many colors.”"
+    },
+    {
+     "h": "95b9360d",
+     "en": "“Some will be born in the world of the gods. Once born there, their earlier root of good is not used up, and they will not go to a bad rebirth. Dying from there, they will be reborn here in the human world and become kings, wheel-turning rulers (ideal world-emperors) over the four continents. They will set many hundreds of thousands of millions of beings on the ten paths of good action.”"
+    },
+    {
+     "h": "bbe76e4c",
+     "en": "“Others will be born into great and wealthy warrior families or great and wealthy brahmin families, or into families rich in money, grain, treasuries and storehouses. They will be good-looking, powerful and surrounded by followers.”",
+     "cmp": [
+      {
+       "w": "kṣatriyamahāśāla",
+       "note": "「刹帝利大家族」：刹帝利是武士、王族阶层。玄奘还加了「居士大家」，并多出「聪明智慧，勇健威猛，如大力士」，梵本没有。",
+       "en": "“Great warrior families”: the kshatriyas are the class of warriors and kings. Xuanzang adds 居士大家 (“great householder families”) and also 聪明智慧，勇健威猛，如大力士 (“intelligent and wise, brave and mighty, like great strongmen”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "051a796e",
+     "en": "“And any woman who hears the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, and takes it to heart, can expect that this is her last time as a woman.”"
+    },
+    {
+     "h": "fb762b53",
+     "en": "Then the youthful Manjushri said to the Blessed One: “Blessed One, in the last age, the last time, I will make those sons and daughters of good family who have faith hear the name of that Blessed One, the Tathagata Medicine Master of Lapis Light. I will bring the Buddha’s name to their ears even in their dreams.”",
+     "cmp": [
+      {
+       "w": "svapnāntaram api",
+       "note": "「甚至在梦里」。英文 even in their dreams、白话「睡梦里」都照字面；玄奘写「乃至睡中亦以佛名觉悟其耳」，多了「觉悟」：在睡梦里用佛名把人叫醒。",
+       "en": "“Even in a dream.” The English and the plain Chinese are literal; Xuanzang writes 乃至睡中亦以佛名觉悟其耳 (“even in sleep, I will wake their ears with the Buddha’s name”), adding the idea of waking them."
+      }
+     ]
+    },
+    {
+     "h": "1d7c061f",
+     "en": "“There will be those who keep, recite, teach and master this jewel of a sutra, explain it at length to others, copy it or have it copied, or make it into a book and honor it with all kinds of flowers, incense, perfumes, garlands, ointments, parasols, banners and flags. It should be wrapped in cloth of five colors and set in a clean place.”"
+    },
+    {
+     "h": "091e74a9",
+     "en": "“Wherever this sutra is kept, the four great kings (guardian gods of the four directions) will come with their retinues, along with many other hundreds of thousands of millions of gods.”",
+     "cmp": [
+      {
+       "w": "upasaṃkramiṣyanti",
+       "note": "梵本只说「会到那里去」。玄奘多了「供养守护」，点明来做什么。",
+       "en": "The Sanskrit only says “will come there.” Xuanzang adds 供养守护 (“to make offerings and stand guard”), spelling out why they come."
+      }
+     ]
+    },
+    {
+     "h": "981e88dc",
+     "en": "“This sutra will spread there, Blessed One, and they will make this jewel of a sutra known. Those who keep in mind the detailed account of the special vows that the Blessed One, the Tathagata Medicine Master of Lapis Light, made long ago, and the Tathagata’s name, will not die before their time. No one can steal their vital strength, and if it has been stolen, it comes back to them.”",
+     "cmp": [
+      {
+       "w": "akālamaraṇa",
+       "note": "「不在该死的时候死」。英文 die before their time；中文「横死」是旧说法，指意外或非正常死亡。",
+       "en": "“Death at the wrong time.” The English says “die before their time”; the Chinese 横死 (hèngsǐ) is an old term for violent or untimely death."
+      },
+      {
+       "w": "ojas",
+       "note": "「精气、生命力」。英文 vital strength；玄奘写明是「诸恶鬼神夺其精气」，梵本没有说是谁夺的。",
+       "en": "“Vital essence, life-force.” The English says “vital strength”; Xuanzang says outright that it is 诸恶鬼神 (“evil ghosts and spirits”) who steal it, while the Sanskrit does not say who."
+      }
+     ]
+    },
+    {
+     "h": "afd818ae",
+     "en": "The Blessed One said: “So it is, Manjushri, it is just as you say. Manjushri, a son or daughter of good family with faith who wishes to honor that Tathagata should have an image of that Tathagata made, and for seven days and nights keep the fast with the eight noble parts.”"
+    },
+    {
+     "h": "f0713464",
+     "en": "“Being clean and eating clean food, in a clean place (spread with all kinds of flowers, perfumed with all kinds of incense, adorned with all kinds of cloth, parasols, banners and flags), on that spot of ground, with body well bathed, wearing clean and spotless clothes, one should be of pure mind, an untroubled mind, a mind without ill will, a mind of love toward all beings, (a mind of equanimity,) a mind that treats all beings alike.”",
+     "cmp": [
+      {
+       "w": "maitracittena (upekṣācittena)",
+       "note": "梵本写了慈心，「舍心」是校本补的（加了括号）。玄奘列出慈、悲、喜、舍四种。英文保留括号，表示是校补。",
+       "en": "The Sanskrit has the mind of love, and “mind of equanimity” is supplied by the editor (in brackets). Xuanzang lists all four: 慈、悲、喜、舍 (love, compassion, joy, equanimity). The English keeps the brackets to show the editor’s addition."
+      }
+     ]
+    },
+    {
+     "h": "dcbbe9f1",
+     "en": "“To the sound of all kinds of instruments and singing, one should walk around that image of the Tathagata, keeping it on one’s right, keep in mind the perfect vows of that Tathagata, and recite this sutra.”"
+    },
+    {
+     "h": "1990cc7b",
+     "en": "“Whatever one thinks of, whatever one asks for, every wish is fulfilled. If one wants a long life, one becomes long-lived. If one asks for wealth, one becomes rich. If one seeks power, one gains it with little trouble. If one longs for a son, one gets a son.”",
+     "cmp": [
+      {
+       "w": "putrābhilāṣī",
+       "note": "梵本只说「想要儿子」。玄奘改成「求男女得男女」，儿女都包括了。",
+       "en": "The Sanskrit says only “longs for a son.” Xuanzang changes it to 求男女得男女 (“seeking sons or daughters, one gets sons or daughters”), including daughters."
+      },
+      {
+       "w": "aiśvarya",
+       "note": "「主宰权、权势」。玄奘译「官位」，变成中国读者熟悉的做官。",
+       "en": "“Lordship, power.” Xuanzang renders it 官位 (guānwèi, “official rank”), turning it into the government office familiar to Chinese readers."
+      }
+     ]
+    },
+    {
+     "h": "244fe98b",
+     "en": "“Those who have a bad dream, where a crow sits, or see an evil omen, or where a hundred ill-starred things appear, should honor that Blessed One, the Tathagata Medicine Master of Lapis Light; and all bad dreams, evil omens and inauspicious things will be calmed.”",
+     "cmp": [
+      {
+       "w": "vāyasa",
+       "note": "「乌鸦」，在印度是凶兆。英文 crow 照字面；玄奘写「怪鸟来集」，没点明是乌鸦。",
+       "en": "“Crow,” a bad omen in India. The English is literal; Xuanzang writes 怪鸟来集 (“strange birds gather”) without naming the crow."
+      }
+     ]
+    },
+    {
+     "h": "6cee0c60",
+     "en": "“Those who live in fear of fire, water, poison, weapons, scorching heat, wild elephants, lions, tigers, bears, hyenas, leopards, venomous snakes, scorpions, centipedes, gadflies, mosquitoes and the like should honor that Tathagata. They will be freed from every fear."
+    },
+    {
+     "h": "3e86c1f3",
+     "en": "“Those who fear robbers and thieves should honor that Tathagata.”",
+     "cmp": [
+      {
+       "w": "corabhayaṃ taskarabhayam",
+       "note": "梵本是两个近义词，都是「盗贼」。玄奘改成「他国侵扰，盗贼反乱」，加上了外敌入侵和叛乱。",
+       "en": "The Sanskrit has two near-synonyms, both meaning “thieves.” Xuanzang renders it 他国侵扰，盗贼反乱 (“invasion by other countries, bandits and rebellion”), adding foreign invasion and revolt."
+      }
+     ]
+    },
+    {
+     "h": "605a0575",
+     "en": "“Again, Manjushri, sons and daughters of good family who have faith, who take the three refuges (in the Buddha, the Dharma and the Sangha) for life and worship no other gods; those who keep the five precepts; those who keep the bodhisattva vows, four hundred training rules; and those who have left home as monks and keep two hundred and fifty rules, and nuns who keep five hundred rules: if any of them falls away from one of the rules they have taken on and is afraid of a bad rebirth, and keeps in mind the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, they need fear no more the pain of going to the three lower realms.”",
+     "cmp": [
+      {
+       "w": "pañca śikṣāpadāni",
+       "note": "梵本列了五戒、菩萨四百戒、比丘二百五十戒、比丘尼五百戒。玄奘多列了「十戒」（沙弥戒）。",
+       "en": "The Sanskrit lists the five precepts, the four hundred bodhisattva rules, the 250 monks’ rules and the 500 nuns’ rules. Xuanzang adds 十戒 (shí jiè, “the ten precepts” of novices)."
+      }
+     ]
+    },
+    {
+     "h": "a2a05e06",
+     "en": "“And a woman who suffers sharp, harsh, bitter pain in childbirth, if she calls to mind the name of that Blessed One, the Tathagata Medicine Master of Lapis Light, and honors him, will give birth easily and bear a son whole in every limb, handsome, pleasing, good to look at, sharp-witted and intelligent. He will be healthy and seldom ill, and non-human beings will not be able to steal his vital strength.”",
+     "cmp": [
+      {
+       "w": "putra",
+       "note": "梵本说「生下儿子」。玄奘写「所生之子」，「子」在中文里可以泛指孩子，不一定是男孩。",
+       "en": "The Sanskrit says “a son.” Xuanzang writes 所生之子 (suǒ shēng zhī zǐ, “the child she bears”), where 子 (zǐ) can mean any child, not necessarily a boy."
+      }
+     ]
+    },
+    {
+     "h": "8dce46e6",
+     "en": "Then the Blessed One spoke to the venerable Ananda: “Ananda, do you believe, do you trust, the virtues of that Blessed One, the Tathagata Medicine Master of Lapis Light, worthy and perfectly awakened, that I am praising? Or do you have doubts, second thoughts or hesitation about this deep domain of the buddhas?”"
+    },
+    {
+     "h": "6a457eac",
+     "en": "Then the venerable Ananda said to the Blessed One: “Venerable Blessed One, I have no doubts, second thoughts or hesitation about the sutras spoken by the Tathagata. Why? Because there is no impurity in the conduct of the Tathagatas’ body, speech and mind. Blessed One, the sun and moon, so mighty and so powerful, might fall to the earth, or Sumeru, king of mountains, might move from its place, but the word of the buddhas would not turn out otherwise.”"
+    },
+    {
+     "h": "307a601f",
+     "en": "“But, venerable one, there are beings lacking the faculty of faith. Hearing of this domain of the buddhas, they will say: ‘How can merely calling to mind that Tathagata’s name bring so many virtues and benefits?’ They do not believe it, do not trust it, and reject it. For them this will lead, for a long night, to harm, not to good, not to happiness, but to downfall.”"
+    },
+    {
+     "h": "4dff58b3",
+     "en": "The Blessed One said: “Ananda, it is impossible, there is no chance, that a being who has heard that Tathagata’s name should go to a bad rebirth or a lower realm; that cannot happen. The buddhas’ domain, Ananda, is hard to believe. That you believe and trust it, Ananda, should be seen as the Tathagata’s power. This is no ground for any disciple or solitary buddha; the only exception is bodhisattvas, great beings, who are bound to just one more birth (before buddhahood).”",
+     "cmp": [
+      {
+       "w": "ekajātipratibaddha",
+       "note": "「只系于一生」：再过一生就成佛的菩萨。玄奘写「一生所系菩萨」，之前还多列了「未登地诸菩萨」也不能信解，梵本没有。",
+       "en": "“Bound to one birth”: a bodhisattva who will become a buddha after just one more life. Xuanzang writes 一生所系菩萨 (“bodhisattvas bound to one birth”), and before that adds 未登地诸菩萨 (“bodhisattvas who have not yet reached the stages”) to those who cannot believe, which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "13e03be9",
+     "en": "“Ananda, it is hard to gain a human birth, hard to have faith in and respect for the Three Jewels, and very hard indeed to hear a Tathagata’s name. Ananda, the bodhisattva conduct of that Blessed One, the Tathagata Medicine Master of Lapis Light, is measureless; his skill in means is measureless too; and measureless is the detail of his special vows. If I wished, I could explain in detail that Tathagata’s bodhisattva conduct for an eon or more than an eon. The eon would run out, Ananda, but one could never reach the end of the detail of the special vows that the Blessed One, the Tathagata Medicine Master of Lapis Light, made long ago.”",
+     "cmp": [
+      {
+       "w": "kṣīyeta ānanda alpam",
+       "note": "梵文这句直译是「阿难，（劫）会用完、是少的」，句子有点残缺；白话和英文都照玄奘「劫可速尽」的方向理解为「劫会用完」。",
+       "en": "Literally this reads “Ananda, (the eon) would run out, it is small,” and the sentence is a little broken; both the plain Chinese and the English take it, in line with Xuanzang’s 劫可速尽 (“the eon could quickly end”), as “the eon would run out.”"
+      }
+     ]
+    },
+    {
+     "h": "60d1f2cb",
+     "en": "At that time, in that very assembly, a bodhisattva and great being named Deliverer had gathered and was seated. He rose from his seat, put his upper robe over one shoulder, set his right knee on the ground, bowed with joined palms toward the Blessed One and said: “Venerable Blessed One, in the last age, the last time, there will be beings tormented by all kinds of disease, (their bodies wasted) by long illness, their throats and lips parched with hunger and thirst, facing death. Surrounded by weeping friends, relatives and kin, they see darkness in every direction and are dragged off by the men of Yama (lord of the dead).”",
+     "cmp": [
+      {
+       "w": "trāṇamukta",
+       "note": "菩萨名，「救护而得解脱」。英文意译 Deliverer；玄奘意译「救脱」。",
+       "en": "The bodhisattva’s name, roughly “rescued and set free.” The English renders it Deliverer; Xuanzang translates it 救脱 (Jiùtuō, “Rescue-and-Release”)."
+      },
+      {
+       "w": "yamapuruṣa",
+       "note": "「阎罗的人」：阎罗王派来拘魂的差役。玄奘这一段没有译这句，留到下一段才写「琰魔使」。",
+       "en": "“Yama’s men”: the officers the lord of the dead sends to fetch the soul. Xuanzang does not translate this here and only mentions 琰魔使 (“Yama’s messengers”) in the next passage."
+      }
+     ]
+    },
+    {
+     "h": "6423b65b",
+     "en": "“While his body lies on the bed, his consciousness is led before Yama, the King of Dharma. And whatever that person has done, good or bad, is all written down clearly by the one born together with that being who has followed him all along, and handed over to Yama, the King of Dharma. Then Yama, the King of Dharma, questions him, reckons up the good and bad he has done, and gives his judgment accordingly.”",
+     "cmp": [
+      {
+       "w": "sahajānubaddha",
+       "note": "「同时出生、一路跟着的」：每个人身边有一位同生的记录者。梵文句子没有明说是神；玄奘译「俱生神」，点明是一位神。英文照梵文写 the one born together with that being。",
+       "en": "“Born together with him and following him along”: each person has a recorder born at the same moment. The Sanskrit does not say outright that it is a god; Xuanzang writes 俱生神 (jùshēng shén, “the god born together with one”). The English follows the Sanskrit: “the one born together with that being.”"
+      },
+      {
+       "w": "yamo dharmarājaḥ",
+       "note": "「阎罗法王」：死者之王，同时是按法审判的王。英文 King of Dharma 照字面；中文「阎罗王」在民间是阴间的判官，意思相近。",
+       "en": "“Yama, King of Dharma”: lord of the dead, and also the king who judges by the law. The English “King of Dharma” is literal; in Chinese folk belief 阎罗王 (Yánluó Wáng) is the judge of the underworld, which is close."
+      }
+     ]
+    },
+    {
+     "h": "bec65f91",
+     "en": "“If at that point his friends, relatives and kin go for refuge, for the sick man’s sake, to that Blessed One, the Tathagata Medicine Master of Lapis Light, and make offerings to that Tathagata, it can happen that his consciousness returns, and he knows himself again as if waking from a dream.”",
+     "cmp": [
+      {
+       "w": "śaraṇaṃ gaccheyuḥ",
+       "note": "梵本只说皈依、供养。玄奘多了「请诸众僧，转读此经，然七层之灯，悬五色续命神幡」：请僧念经、点七层灯、挂五色续命幡。今天华人寺院的药师法会就是照玄奘本做的。",
+       "en": "The Sanskrit only mentions taking refuge and making offerings. Xuanzang adds 请诸众僧，转读此经，然七层之灯，悬五色续命神幡 (“invite monks to recite this sutra, light lamps in seven tiers, and hang five-colored life-prolonging banners”). The Medicine Buddha ceremonies in Chinese temples today follow Xuanzang’s version."
+      }
+     ]
+    },
+    {
+     "h": "43c2b785",
+     "en": "“And perhaps on the seventh day, or the (twenty-first) day, or the thirty-fifth day, or the forty-ninth day, his consciousness returns and he regains his memory. He sees for himself the ripening of his good and bad karma. Knowing this, he will never again do anything bad or harmful, even to save his life. So a son or daughter of good family with faith should honor that Blessed One, the Tathagata Medicine Master of Lapis Light.”",
+     "cmp": [
+      {
+       "w": "(ekaviṃśatime)",
+       "note": "「第二十一天」是校本补的（原稿缺），所以英文保留括号。七天一轮、四十九天为止，和中国民间「做七」的习俗相合。",
+       "en": "“The twenty-first day” is supplied by the editor (the manuscript has a gap), so the English keeps the brackets. Cycles of seven days up to the forty-ninth match the Chinese folk custom of memorial rites every seven days after a death."
+      }
+     ]
+    },
+    {
+     "h": "27f396b0",
+     "en": "Then the venerable Ananda said to the bodhisattva named Deliverer: “Son of good family, how should one honor that Blessed One, the Medicine Master of Lapis Light?”",
+     "cmp": [
+      {
+       "w": "kathaṃ pūjā kartavyā",
+       "note": "梵本只问「怎样供养」。玄奘写「续命幡灯，复云何造？」，直接问怎么做续命幡和灯。",
+       "en": "The Sanskrit only asks “how should one honor him?” Xuanzang writes 续命幡灯，复云何造？ (“and how are the life-prolonging banners and lamps made?”), asking directly about the banners and lamps."
+      }
+     ]
+    },
+    {
+     "h": "3c6982b2",
+     "en": "The bodhisattva Deliverer said: “Venerable Ananda, those who want to free someone from a serious illness should keep, for the sick person’s sake, the fast with the eight noble parts for seven days, and as far as they can, serve and honor the community of monks with food, drink and every necessity. They should call to mind the name of the Blessed One, the Medicine Master of Lapis Light, three times at night and three times during the day.”"
+    },
+    {
+     "h": "0868d45f",
+     "en": "“This sutra should be recited forty-nine times. Forty-nine lamps should be lit. Seven images should be made, and seven lamps lit before each image. Each lamp should be made as big as a cartwheel. If by the thirty-ninth day the light has not gone out, know that all will be well. Banners of five colors, more than forty-nine of them (?), should be made.”",
+     "cmp": [
+      {
+       "w": "ekonacatvāriṃśatime",
+       "note": "梵文是「第三十九天」，白话和英文照译；玄奘写「乃至四十九日，光明不绝」，和前面的四十九对齐，梵本这里可能是笔误。",
+       "en": "The Sanskrit says “the thirty-ninth day,” and the plain Chinese and the English translate it so; Xuanzang writes 乃至四十九日，光明不绝 (“the light unbroken up to the forty-ninth day”), matching the earlier forty-nines, so the Sanskrit may be a slip here."
+      },
+      {
+       "w": "ekonapañcāśadadhikāḥ",
+       "note": "字面「多于四十九的」，意思不太清楚：白话理解成「四十九面以上」，玄奘写「长四十九搩手」（幡长四十九拃）。英文加问号。玄奘还多了「放杂类众生至四十九」（放生），梵本没有。",
+       "en": "Literally “more than forty-nine,” which is not quite clear: the plain Chinese takes it as “forty-nine or more banners,” while Xuanzang writes 长四十九搩手 (“forty-nine hand-spans long”). The English adds a question mark. Xuanzang also adds 放杂类众生至四十九 (“release forty-nine living creatures of various kinds”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "359c0a9f",
+     "en": "“Again, venerable Ananda, consecrated kings of the warrior class may face misfortune or calamity: the scourge of disease, of revolt in their own realm, of invasion from another realm, of the stars, of eclipses of the moon and sun, of untimely wind and rain, or of drought; or ill omens, an epidemic or a disaster may arise. Then that consecrated warrior king should have a mind of love toward all beings and set free those who are in prison.”",
+     "cmp": [
+      {
+       "w": "mūrdhābhiṣikta",
+       "note": "「头顶受过灌水礼的」：印度国王即位时要在头上浇水。英文 consecrated 是概括说法；中文「灌顶王」照字面。",
+       "en": "“Sprinkled on the head”: Indian kings were consecrated by having water poured over their heads. The English “consecrated” is general; the Chinese 灌顶王 (guàndǐng wáng, “head-sprinkled king”) is literal."
+      }
+     ]
+    },
+    {
+     "h": "bd320dd4",
+     "en": "“And he should honor that Blessed One, the Tathagata Medicine Master of Lapis Light, in the way described before. Then, through this root of good of that consecrated warrior king, and through the detailed special vows that the Blessed One, the Tathagata Medicine Master of Lapis Light, made long ago, there will be safety and plenty in that realm. Wind and rain will come in their season and the crops will flourish, and all the beings living in the realm will be healthy, happy and full of joy. In that realm, evil yakshas, rakshasas, ghosts and pishachas (flesh-eating demons) will not harm beings, and no one will see any evil omens. And the consecrated warrior king will grow in life span, looks, strength, health and power.”",
+     "cmp": [
+      {
+       "w": "āyurvarṇabalārogyaiśvarya",
+       "note": "梵本这一段到国王增寿为止。玄奘后面还多了一大段：后妃、太子、大臣、百姓生病时，也要造幡、点灯、放生、散花、烧香。英文照梵本。",
+       "en": "The Sanskrit passage ends with the king’s increase in life and power. Xuanzang adds a long further section: when queens, princes, ministers or common people fall ill, they too should make banners, light lamps, release animals, scatter flowers and burn incense. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "2eb7f5c9",
+     "en": "Then the venerable Ananda said to the bodhisattva Deliverer: “Son of good family, how can a life that has run out be extended again?” The bodhisattva Deliverer said: “Venerable Ananda, did you not hear from the Tathagata himself that there are untimely deaths? To ward them off, he taught the use of mantras and medicines.”",
+     "cmp": [
+      {
+       "w": "mantrauṣadhiprayogā",
+       "note": "梵本说如来教了「咒语和药物」的用法。玄奘改成「劝造续命幡灯，修诸福德」，没有提咒语和药，并且先点明「九横死」，再让阿难问「九横云何」。",
+       "en": "The Sanskrit says the Tathagata taught the use of “mantras and medicines.” Xuanzang changes this to 劝造续命幡灯，修诸福德 (“urged making life-prolonging banners and lamps and doing meritorious deeds”), with no mention of mantras or medicine, and first names the “nine untimely deaths,” then has Ananda ask what they are."
+      }
+     ]
+    },
+    {
+     "h": "68a558c3",
+     "en": "“There are beings who fall ill. The illness is not serious, but they have no medicine and no one to care for them; or else doctors give them (the wrong) medicine. This is the first untimely death.”",
+     "cmp": [
+      {
+       "w": "vaidyā(bhaiṣajyaṃ) kurvanti",
+       "note": "梵本残缺，只说「医生给药」，括号是校补。白话和英文按玄奘「授以非药」补了「不对的」。玄奘这一条还多了一大段：信邪师、占卜、杀生祭神求寿，梵本都没有。",
+       "en": "The Sanskrit is incomplete and says only “doctors give medicine,” with the bracketed word supplied by the editor. The plain Chinese and the English add “the wrong,” following Xuanzang’s 授以非药 (“give them what is not medicine”). Xuanzang’s version of this item also adds a long passage about trusting false teachers, fortune-telling and killing animals as offerings to the gods to buy long life, none of which is in the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "5fe0bb26",
+     "en": "“The second untimely death is dying by the king’s punishment. The third untimely death: those who are extremely careless and live heedlessly have their vital strength stolen by (non-)humans. The fourth untimely death: those who die by fire. The fifth untimely death: those who drown. The sixth untimely death: those who make their home among (lions,) tigers, beasts of prey and wild animals, and die there. The seventh untimely death: those who fall from a cliff.”",
+     "cmp": [
+      {
+       "w": "manuṣyā ojo 'paharanti",
+       "note": "梵文写「人」夺走精气，但第 54 段夺精气的是「非人」（amanuṣya），玄奘这里也写「横为非人夺其精气」，梵文多半漏了否定前缀 a-。白话照字面译成「被人」，英文写 (non-)humans 表示这处疑问。玄奘还把「放逸」具体写成「畋猎嬉戏，耽婬嗜酒」。",
+       "en": "The Sanskrit says “humans” steal the vital strength, but in passage 54 it is “non-humans” (amanuṣya) who do so, and Xuanzang here also writes 横为非人夺其精气 (“have their vital strength stolen by non-humans”), so the Sanskrit has probably lost the negative prefix a-. The plain Chinese translates literally as “by people”; the English writes “(non-)humans” to flag the problem. Xuanzang also spells out “heedless” as 畋猎嬉戏，耽婬嗜酒 (“hunting and playing, indulging in sex and drink”)."
+      }
+     ]
+    },
+    {
+     "h": "d0c7926e",
+     "en": "“The eighth untimely death: those who die through poison or through the use of kakhordas and vetalas. The ninth untimely death: those who are stricken by hunger and thirst, cannot get food or drink, and die in misery. These are the untimely deaths the Tathagata has described in brief; and there are countless other untimely deaths.”",
+     "cmp": [
+      {
+       "w": "anyāni ca aprameyāṇi",
+       "note": "梵本到「还有无量的横死」结束。玄奘接着多了一段：阎罗王掌管世间名籍，对不孝、五逆、破辱三宝的人论罪处罚，所以要点灯造幡、放生修福。",
+       "en": "The Sanskrit ends with “and there are countless other untimely deaths.” Xuanzang adds a further passage: King Yama keeps the register of the world’s names and punishes those who are unfilial, commit the five gravest crimes or insult the Three Jewels, so one should light lamps, make banners, release animals and do good."
+      }
+     ]
+    },
+    {
+     "h": "129c96c7",
+     "en": "Then twelve great yaksha generals had gathered in that assembly: the great yaksha general named Kimbhira, the great yaksha general named Vajra, the great yaksha general named Mekhila, the great yaksha general named Antila, the great yaksha general named Anila, the great yaksha general named Santhila, the great yaksha general named Indala, the great yaksha general named Payila, the great yaksha general named Mahala, the great yaksha general named Cidala, the great yaksha general named Caundhula, and the great yaksha general named Vikala.",
+     "cmp": [
+      {
+       "w": "mahāyakṣasenāpati",
+       "note": "「夜叉大将」。夜叉（yakṣa）在印度是一类能善能恶的自然神灵，佛经里常收为护法。英文写 yaksha general；中文寺院里通称「十二神将」。",
+       "en": "“Great yaksha general.” In India the yakshas are nature spirits who can be kind or harmful; Buddhist texts often make them protectors of the teaching. The English says “yaksha general”; in Chinese temples they are known as 十二神将 (shí’èr shénjiàng, “the twelve divine generals”)."
+      }
+     ]
+    },
+    {
+     "h": "b4482eb3",
+     "en": "These twelve great yaksha generals, each surrounded by his own followers, said to the Blessed One with one voice: “Blessed One, by the Buddha’s power we have heard the name of that Blessed One, the Tathagata Medicine Master of Lapis Light. We no longer fear bad rebirths. Together and united, for as long as we live, we go for refuge to the Buddha, we go for refuge to the Dharma, we go for refuge to the Sangha.”",
+     "cmp": [
+      {
+       "w": "ekaikānucaraparivāritā",
+       "note": "梵本只说「各自带着随从」。玄奘写明「一一各有七千药叉以为眷属」，有了具体数目。",
+       "en": "The Sanskrit says only “each surrounded by his followers.” Xuanzang specifies 一一各有七千药叉以为眷属 (“each with seven thousand yakshas as his retinue”)."
+      }
+     ]
+    },
+    {
+     "h": "7fe02b2b",
+     "en": "“We will work hard for the sake, the good and the happiness of all beings. Especially, whoever spreads this sutra in a village, a town, the countryside or a forest retreat, or keeps in mind the name of that Blessed One, the Medicine Master of Lapis Light, and serves and honors him: that being we will guard and protect, free from everything inauspicious, and fulfill all their hopes.”",
+     "cmp": [
+      {
+       "w": "āśāṃ paripūrayiṣyāmaḥ",
+       "note": "梵本到「满足心愿」结束。玄奘多了一句：有病难的人读这部经，用五色线结上神将的名字，如愿后再解开。这是汉传药师法会里「结名」的来源。",
+       "en": "The Sanskrit ends with “fulfill all their hopes.” Xuanzang adds a line: those in sickness or trouble should recite this sutra and tie the generals’ names in five-colored thread, untying it once their wish is granted. This is the source of the “tying the names” rite in Chinese Medicine Buddha ceremonies."
+      }
+     ]
+    },
+    {
+     "h": "9a7d0a40",
+     "en": "Then the Blessed One praised those yaksha generals: “Good, good, great yaksha generals! You remember with gratitude what that Blessed One, the Tathagata Medicine Master of Lapis Light, has done, and you have set out to work for the good of all beings.”"
+    },
+    {
+     "h": "0ed28c3c",
+     "en": "Then the venerable Ananda said to the Blessed One: “Blessed One, what is the name of this teaching? How should I remember it?” The Blessed One said: “Then, Ananda, remember this teaching as ‘The Detailed Account of the Special Vows Made Long Ago by the Tathagata Medicine Master of Lapis Light,’ and remember it as ‘The Vow of the Twelve Great Yaksha Generals.’”",
+     "cmp": [
+      {
+       "w": "dvādaśānāṃ mahāyakṣasenāpatīnāṃ praṇidhānam",
+       "note": "梵本给了两个经名。玄奘给了三个：「说药师琉璃光如来本愿功德」「说十二神将饶益有情结愿神呪」「拔除一切业障」，第二个名字里有「神呪」，可是玄奘本正文并没有咒。",
+       "en": "The Sanskrit gives two titles. Xuanzang gives three: 说药师琉璃光如来本愿功德 (“on the original vows and merits of the Tathagata Medicine Master of Lapis Light”), 说十二神将饶益有情结愿神呪 (“the spell of the twelve divine generals’ vow to benefit beings”) and 拔除一切业障 (“removing all karmic obstacles”). The second mentions a “spell,” yet Xuanzang’s text contains no spell."
+      }
+     ]
+    },
+    {
+     "h": "d0407117",
+     "en": "So spoke the Blessed One. The youthful Manjushri, the venerable Ananda, the bodhisattva Deliverer, those bodhisattvas, those great disciples, those kings, ministers, brahmins and householders, the whole assembly, and the world with its gods, humans, asuras and gandharvas, were delighted and rejoiced at what the Blessed One had said."
+    },
+    {
+     "h": "77cf0a0b",
+     "en": "This is the Great Vehicle sutra called “The Noble Medicine Master, King of Lapis Light.”"
+    }
+   ]
+  }
+ ]
+}

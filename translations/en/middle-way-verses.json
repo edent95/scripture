@@ -1,0 +1,3321 @@
+{
+ "slug": "middle-way-verses",
+ "title": "Verses on the Middle Way",
+ "summary": "Nagarjuna questions causes, motion, self, time and nirvana one by one and finds nothing with a fixed nature of its own: what arises from conditions is empty, and that is the middle way.",
+ "compare": [
+  "这部论最关键的一组词是 svabhāva 和 śūnyatā。svabhāva 字面是「自己的存在」，指一样东西独立、不靠别的、不变的本质；英文全书固定译 own-nature，中文译「自性」。śūnyatā 英文译 emptiness，中文译「空」，两个译法都容易被读成「什么都没有」。可龙树要说的是「缺了自性」：东西照样在起作用，只是没有一个独立不变的核心。第 24 品第 18 颂把这层意思讲得最清楚：缘起，就叫做空性。所以英文第一次出现时都把 own-nature 解释出来，之后一律不换词，读者才能看出全书是在反复追问同一个东西。",
+  "第二个难点是 prapañca。它的原义是「铺开、扩散」，指心把事物不停展开成名字、概念和分别。罗什译「戏论」，现代中文读者容易读成「玩笑话、空谈」；白话写「概念上的纠缠」；英文全书固定译 conceptual proliferation（概念的增生）。这个词在开头的归敬颂、第 18 品第 5 颂和最后第 25 品第 24 颂首尾出现，是全书「要平息的是什么」的答案，所以三种语言里都值得盯住。",
+  "第三是 saṃvṛti 与 paramārtha 两谛。saṃvṛti 原义「遮盖」，又有「约定、共识」的意思；中文「世俗谛」、英文 conventional truth 都只取了「约定」一义，丢了「遮盖住真相」那一层。另外，pratītyasamutpāda 英文全书译 dependent arising，中文「缘起」；upādāna 一词两义（「执取」和「燃料」），英文多译 grasping，第 10、22 品因为双关另作处理。",
+  "总的来看，罗什的译本流畅、影响极大，但常把梵文的问句改成结论，把对方的话写得像作者自己的话，还加减了不少颂（第 3、8、21、23、26 品少颂，第 7、13、27 品多颂）。英文照梵本逐颂直译，段数和梵本一样；凡是对英文读者重要的出入，都在每颂的对照注里标出来。"
+ ],
+ "compareEn": [
+  "The key pair of words in this work is svabhāva and śūnyatā. Svabhāva literally means “own being”: a nature a thing has independently, relying on nothing else and never changing. Throughout, the English uses “own-nature”; Chinese uses 自性 (zìxìng, “self-nature”). Śūnyatā is “emptiness” in English and 空 (kōng, “empty”) in Chinese, and both are easily read as “nothing at all.” But what Nāgārjuna means is “lacking own-nature”: things go on working, they just have no independent, unchanging core. Chapter 24, verse 18 says it most plainly: dependent arising is what we call emptiness. So the English explains own-nature on its first appearance and never changes the word afterwards, so readers can see that the whole book keeps pressing on the same point.",
+  "The second hard word is prapañca. It literally means “spreading out,” the mind's habit of endlessly unfolding things into names, concepts and distinctions. Kumārajīva rendered it 戏论 (xìlùn, “idle talk”), which a modern Chinese reader tends to hear as “joking, empty chatter”; the plain Chinese says 概念上的纠缠 (“conceptual entanglement”); the English always says “conceptual proliferation.” The word appears in the opening homage, in chapter 18, verse 5, and in the final verse of chapter 25, and it is the book's answer to “what is it that has to be calmed?” — so it is worth tracking in all three languages.",
+  "The third is the pair of two truths, saṃvṛti and paramārtha. Saṃvṛti originally means “covering,” and also “agreement, convention”; both the Chinese 世俗谛 (shìsú dì, “worldly truth”) and the English “conventional truth” keep only the “convention” sense and lose the sense of “covering up how things are.” Besides these, pratītyasamutpāda is always “dependent arising” in English and 缘起 (yuánqǐ) in Chinese; upādāna has two meanings, “grasping” and “fuel,” and the English mostly says “grasping,” treating chapters 10 and 22 separately because of the pun.",
+  "Overall, Kumārajīva's version reads smoothly and has been enormously influential, but it often turns the Sanskrit's questions into conclusions, makes the opponent's words sound like the author's own, and adds or drops a number of verses (fewer in chapters 3, 8, 21, 23 and 26; more in chapters 7, 13 and 27). The English translates the Sanskrit verse by verse, with the same number of verses as the Sanskrit, and marks every difference that matters for an English reader in the comparison note under that verse."
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · Examining Conditions (Pratyayaparīkṣā)",
+   "verses": [
+    {
+     "h": "02990785",
+     "en": "Not ceasing, not arising; not cut off, not permanent; not one thing, not many things; not coming, not going —",
+     "cmp": [
+      {
+       "w": "anirodham anutpādam",
+       "note": "梵文这一颂没有主语，八个「不」都是下一颂「缘起」的形容词，一句话跨两颂。英文用破折号接到下一颂，保留了这个悬念；白话和罗什都把它写成独立的一句。",
+       "en": "This verse has no subject: the eight “nots” are all adjectives describing “dependent arising” in the next verse, so one sentence runs across two verses. The English ends on a dash and carries on into the next verse, keeping that suspense; the plain Chinese and Kumārajīva both make it a sentence of its own."
+      },
+      {
+       "w": "anekārtham anānārtham",
+       "note": "字面是「不是同一个东西，也不是各不相同的东西」。英文 not one thing, not many things 取了「一 / 多」，白话也写「不是一，也不是多」；罗什的「不一亦不异」更贴近「同 / 异」的原意。",
+       "en": "Literally “not a single thing, not separate things.” The English “not one thing, not many things” and the plain Chinese 不是一，也不是多 (“not one, not many”) both take it as one versus many; Kumārajīva's 不一亦不异 (bù yī yì bù yì, “not the same, not different”) is closer to the original sense of same versus different."
+      }
+     ]
+    },
+    {
+     "h": "588e317b",
+     "en": "— this is dependent arising, the calming of all conceptual proliferation, the peaceful. I bow to the fully awakened one who taught it, the best of all who speak.",
+     "cmp": [
+      {
+       "w": "pratītyasamutpāda",
+       "note": "「依靠……而一起出现」：一个东西靠条件才出现。英文全书固定译 dependent arising，第一次出现这里；白话写「缘起」并加括号解释。",
+       "en": "“Arising together in dependence on…”: a thing appears only by relying on conditions. Throughout this book the English uses “dependent arising” for it, starting here; the plain Chinese writes 缘起 (yuánqǐ, “arising from conditions”) with a gloss in brackets."
+      },
+      {
+       "w": "prapañca",
+       "note": "原义「铺开、扩散」，指心把事物不停展开成名字、概念、分别。英文全书译 conceptual proliferation（概念的增生）；白话「概念上的纠缠」；罗什「戏论」，容易被读成「玩笑话」。",
+       "en": "Literally “spreading out, expansion”: the mind's habit of endlessly unfolding things into names, concepts and distinctions. Throughout this book the English says “conceptual proliferation”; the plain Chinese says 概念上的纠缠 (“conceptual entanglement”); Kumārajīva's 戏论 (xìlùn, “idle talk”) is easy to read as “joking words.”"
+      }
+     ]
+    },
+    {
+     "h": "965ee198",
+     "en": "Nothing, anywhere, has ever been found to arise from itself, from something else, from both, or without a cause.",
+     "cmp": [
+      {
+       "w": "bhāvāḥ",
+       "note": "bhāva 是「存在的东西、事物」。英文全书多译 thing / existent thing；这个词同时带「存在」的意思，所以下文 bhāva / abhāva 有时要译成 existence / nonexistence。",
+       "en": "Bhāva means “an existing thing, an entity.” The English mostly uses “thing” or “existent thing,” but the word also carries the sense of “being,” so later the pair bhāva / abhāva sometimes has to be “existence / nonexistence.”"
+      }
+     ]
+    },
+    {
+     "h": "3592fa35",
+     "en": "There are four conditions: the cause, the object, the immediately preceding moment, and likewise the dominant condition. There is no fifth condition.",
+     "cmp": [
+      {
+       "w": "pratyaya",
+       "note": "英文全书把 pratyaya 译 condition，把 hetu 译 cause。中文「因」「缘」两字的分工和这个对应：缘 = condition，因 = cause。",
+       "en": "Throughout, pratyaya is “condition” and hetu is “cause.” This matches the Chinese division of labor between 缘 (yuán, “condition”) and 因 (yīn, “cause”)."
+      }
+     ]
+    },
+    {
+     "h": "721671ad",
+     "en": "For the own-nature of things — a fixed nature they have by themselves, not borrowed from anything — is not found in their conditions or anywhere like that. And where there is no own-nature, there is no other-nature either.",
+     "cmp": [
+      {
+       "w": "svabhāva / parabhāva",
+       "note": "svabhāva 字面「自己的存在」，指东西独立、不靠别的、不变的本质。英文全书固定译 own-nature，第一次在这里解释；parabhāva 相应译 other-nature。中文译「自性」「他性」。",
+       "en": "Svabhāva literally means “own being”: a nature a thing has independently, relying on nothing, never changing. Throughout, the English uses “own-nature,” explained here on its first appearance, and parabhāva correspondingly “other-nature.” Chinese has 自性 (zìxìng) and 他性 (tāxìng)."
+      }
+     ]
+    },
+    {
+     "h": "1eea4e17",
+     "en": "The activity of producing does not come with conditions, nor does it come without conditions. Conditions are not without that activity — or are they really with it?",
+     "cmp": [
+      {
+       "w": "kriyā",
+       "note": "梵文问的是「生」这个动作（kriyā）在不在条件里。英文和白话都照这个译；罗什换成了「果」，问题就变成条件里有没有结果。",
+       "en": "The Sanskrit asks whether the act (kriyā) of producing is found in the conditions. The English and plain Chinese follow this; Kumārajīva switches it to 果 (guǒ, “result”), which turns the question into whether the result is in the conditions."
+      }
+     ]
+    },
+    {
+     "h": "5aa40b73",
+     "en": "“Depending on these, that arises; so these are its conditions,” people say. But as long as it has not arisen, why are they not non-conditions?"
+    },
+    {
+     "h": "c2d7071b",
+     "en": "A condition makes no sense for a thing whether it does not exist or already exists. If it does not exist, whose condition is it? If it already exists, what is the condition for?"
+    },
+    {
+     "h": "bcb460f8",
+     "en": "When a thing comes about neither as existent, nor as nonexistent, nor as both existent and nonexistent, how can there be a cause that brings it about? In that case it makes no sense."
+    },
+    {
+     "h": "b10b4ae1",
+     "en": "This existing thing is taught to be simply without an object. But if a thing has no object, where then does the object as a condition come from?",
+     "cmp": [
+      {
+       "w": "ārambaṇa",
+       "note": "「所缘」：心所对的对象。这一颂很简短，没说「这个东西」指什么，一般理解为心和心的活动。英文照字面译，不补出来。",
+       "en": "Ārambaṇa is the object a mind attends to. The verse is terse and does not say what “this thing” is; it is usually taken as mind and mental events. The English stays literal and does not fill it in."
+      }
+     ]
+    },
+    {
+     "h": "97b83495",
+     "en": "If things have not yet arisen, ceasing makes no sense. So the immediately preceding condition does not hold. And if something has already ceased, what kind of condition can it be?"
+    },
+    {
+     "h": "055d3108",
+     "en": "Since things without own-nature have no real existence, the saying “when this exists, that comes to be” makes no sense at all.",
+     "cmp": [
+      {
+       "w": "satīdam asmin bhavati",
+       "note": "这是引用佛经里缘起的标准公式「此有故彼有」。英文加了引号，白话也用引号，读者能看出是引文。",
+       "en": "This quotes the standard formula of dependent arising from the early sutras, “when this exists, that comes to be.” Both the English and the plain Chinese put it in quotation marks so readers can see it is a quotation."
+      }
+     ]
+    },
+    {
+     "h": "a686a3c7",
+     "en": "That result is not in the conditions taken one by one, nor in the conditions taken together. How could something that is not in the conditions come from the conditions?",
+     "cmp": [
+      {
+       "w": "vyasta-samasta",
+       "note": "「分开的、合起来的」。英文 one by one / taken together、白话「分开的 / 合起来的」都贴原意；罗什「略广」偏离了。",
+       "en": "“Separate and combined.” The English “one by one / taken together” and the plain Chinese 分开的 / 合起来的 both follow the original; Kumārajīva's 略广 (lüè guǎng, “brief and broad”) drifts away from it."
+      }
+     ]
+    },
+    {
+     "h": "c1d929a9",
+     "en": "But if that result, though nonexistent, comes forth from those conditions, why does it not also come forth from non-conditions?"
+    },
+    {
+     "h": "24cc4799",
+     "en": "The result is made of conditions, but the conditions are not made of themselves. How can a result made from things not made of themselves be made of conditions?",
+     "cmp": [
+      {
+       "w": "-maya",
+       "note": "梵文用 -maya「由……做成的」：果是条件做成的，条件却不是自己做成的。英文 made of 照译；罗什换成「从无自性生」，意思接近，比喻换了。",
+       "en": "The Sanskrit uses -maya, “made of”: the result is made of conditions, but the conditions are not made of themselves. The English keeps “made of”; Kumārajīva recasts it as 从无自性生 (“born from what has no own-nature”), close in meaning but with a different image."
+      }
+     ]
+    },
+    {
+     "h": "21fb0a27",
+     "en": "So no result exists, whether made of conditions or made of non-conditions. Since there is no result, where are conditions and non-conditions?"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · Examining Going and Coming (Gatāgataparīkṣā)",
+   "verses": [
+    {
+     "h": "849cd45a",
+     "en": "First, what has already been walked is not being walked. What has not yet been walked is certainly not being walked. And apart from the already walked and the not yet walked, the stretch being walked is not being walked either.",
+     "cmp": [
+      {
+       "w": "gamyamāna",
+       "note": "梵文是被动分词「正在被走过的（那一段路）」，讲的是地方。英文 the stretch being walked、白话「正在被走的这一段」都保留了「地方」；罗什「去时」读起来像在讲时间。全章都是这个词。",
+       "en": "The Sanskrit is a passive participle, “what is being gone over,” and refers to a place. The English “the stretch being walked” and the plain Chinese 正在被走的这一段 (“the stretch being walked”) both keep it as a place; Kumārajīva's 去时 (qù shí, “the time of going”) reads as if it were about time. The same word runs through the whole chapter."
+      },
+      {
+       "w": "gam-",
+       "note": "梵文 gam 是「去、走」的通用动词，同一个词根变出 gata（已去）、gamana（走）、gantṛ（走的人）、gantavya（要去的地方）。英文统一用 walk / go 一族，难免比梵文笨重。",
+       "en": "Gam is the ordinary verb “to go,” and one root yields gata (gone), gamana (going), gantṛ (goer), gantavya (the place to be gone to). The English uses the walk/go family throughout and is unavoidably clumsier than the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "4adaccb4",
+     "en": "[An objector:] Where there is movement, there is going. And since the movement is in the stretch being walked — not in what has been walked, not in what has not been walked — the going is in the stretch being walked."
+    },
+    {
+     "h": "a2766526",
+     "en": "How could there be any going in the stretch being walked? For without going, a “stretch being walked” makes no sense at all."
+    },
+    {
+     "h": "d7ed26e7",
+     "en": "Whoever says the stretch being walked has going in it must accept a stretch being walked without going — since for him the stretch being walked is what is walked."
+    },
+    {
+     "h": "4aa670d5",
+     "en": "If there is going in the stretch being walked, two goings follow: the one that makes it a stretch being walked, and the one that goes on in it as well."
+    },
+    {
+     "h": "145d1314",
+     "en": "If two goings follow, two goers follow too, since without a goer, going makes no sense."
+    },
+    {
+     "h": "d361efc3",
+     "en": "If without a goer going makes no sense, then when there is no going, where would a goer come from?"
+    },
+    {
+     "h": "f3c05a8b",
+     "en": "First, a goer does not go. A non-goer certainly does not go. Apart from goer and non-goer, what third one could go?"
+    },
+    {
+     "h": "de5500f0",
+     "en": "How can “the goer goes” make sense, when without going a goer makes no sense at all?"
+    },
+    {
+     "h": "2bb4462c",
+     "en": "Whoever holds the position “the goer goes” must accept a goer without going, since he wants the goer to have going added on."
+    },
+    {
+     "h": "08803d17",
+     "en": "If the goer goes, two goings follow: the one by which he shows up as a goer, and the one he, as goer, is doing.",
+     "cmp": [
+      {
+       "w": "ajyate",
+       "note": "这个本子读 ajyate「被显出」，别的本子读 ucyate「被叫做」。英文 shows up as 照前者译，两种读法意思相近。",
+       "en": "This edition reads ajyate, “is made manifest”; other editions read ucyate, “is called.” The English “shows up as” follows the first, and the two readings come to much the same thing."
+      }
+     ]
+    },
+    {
+     "h": "6a27e21e",
+     "en": "Going does not start in what has been walked. Going does not start in what has not been walked. It does not start in the stretch being walked. So where does going start?"
+    },
+    {
+     "h": "13eac33e",
+     "en": "Before going starts, there is no stretch being walked and nothing already walked where going could start. And in what has not been walked, how could there be going?"
+    },
+    {
+     "h": "b9dd57aa",
+     "en": "Since the start of going is not seen in any way at all, what is there to distinguish as walked, being walked, or not walked?"
+    },
+    {
+     "h": "90db43c3",
+     "en": "First, a goer does not stand still. A non-goer certainly does not stand still. Apart from goer and non-goer, what third one could stand still?",
+     "cmp": [
+      {
+       "w": "tiṣṭhati",
+       "note": "「站住、停下」，和「走」相对。英文 stand still 照字面；罗什的「住」是古汉语的「停止」，不是「居住」。",
+       "en": "“Stands, comes to rest,” the opposite of going. The English “stand still” is literal; Kumārajīva's 住 (zhù) means “to stop” in classical Chinese, not “to live somewhere.”"
+      }
+     ]
+    },
+    {
+     "h": "49d91a62",
+     "en": "How can “the goer stands still” make sense, when without going a goer makes no sense at all?"
+    },
+    {
+     "h": "c55552fd",
+     "en": "One does not stop from the stretch being walked, nor from what has been walked, nor from what has not been walked. Going, setting out and stopping are all just like going.",
+     "cmp": [
+      {
+       "w": "gamanaṃ saṃpravṛttiś ca nivṛttiś ca",
+       "note": "梵文列了三样：走、开始、停下。英文 going, setting out and stopping 三样都译了；罗什合成「行止」，漏了「开始」。",
+       "en": "The Sanskrit lists three things: going, setting out, and stopping. The English keeps all three; Kumārajīva merges them into 行止 (xíng zhǐ, “moving and stopping”) and drops “setting out.”"
+      }
+     ]
+    },
+    {
+     "h": "8078828d",
+     "en": "To say that going is the very same as the goer does not work. To say the goer is something quite other than going does not work either."
+    },
+    {
+     "h": "617f1e91",
+     "en": "If going were the very same as the goer, it would follow that the doer and the deed are one and the same."
+    },
+    {
+     "h": "1f7d4c43",
+     "en": "If the goer is imagined as other than going, there would be going without a goer and a goer without going."
+    },
+    {
+     "h": "1883a14a",
+     "en": "Two things that cannot be established either as one thing or as separate things — how on earth can they be established at all?"
+    },
+    {
+     "h": "b6c14625",
+     "en": "The going by which someone shows up as a goer is not a going he goes, because there is no one before that going. Someone goes somewhere, after all.",
+     "cmp": [
+      {
+       "w": "kaścid kiṃcid dhi gacchati",
+       "note": "末句「总得是某个人走向某个地方」：走需要先有一个人和一个去处。英文和白话都译出了；罗什没有译这一句，也把「在走之前没有人」改成「先无有去法」。",
+       "en": "The last line, “someone goes somewhere, after all”: going needs a person and a destination first. The English and plain Chinese both translate it; Kumārajīva leaves it out, and turns “there is no one before that going” into 先无有去法 (“there is no going beforehand”)."
+      }
+     ]
+    },
+    {
+     "h": "8d41df34",
+     "en": "Nor does he go some other going than the one by which he shows up as a goer, since two goings do not make sense in a single goer."
+    },
+    {
+     "h": "df68f69a",
+     "en": "A goer who really exists does not go any of the three kinds of going. A goer who does not exist does not go any of the three kinds of going either.",
+     "cmp": [
+      {
+       "w": "triprakāra",
+       "note": "「三种方式」，指走被设想为存在、不存在、或既存在又不存在。英文 the three kinds of going 照字面，读者要从下一颂才看得出是哪三种。",
+       "en": "“Of three kinds”: going conceived as existent, nonexistent, or both. The English “the three kinds of going” is literal; readers only see which three from the next verse."
+      }
+     ]
+    },
+    {
+     "h": "fb0d48db",
+     "en": "A goer who both exists and does not exist does not go any of the three kinds of going. Therefore going, the goer, and the place to be gone to are not found."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · Examining the Senses (Cakṣurādīndriyaparīkṣā)",
+   "verses": [
+    {
+     "h": "b80d1c3f",
+     "en": "Seeing, hearing, smelling, tasting, touching, and mind: these are the six senses. Their fields are what can be seen and so on.",
+     "cmp": [
+      {
+       "w": "darśanaṃ śravaṇaṃ…",
+       "note": "梵文列的是动作名词「看、听、闻……」，不是器官「眼、耳」。英文 seeing, hearing 和白话「看、听」都照动作译；罗什直接写成「眼耳」。",
+       "en": "The Sanskrit lists action nouns — seeing, hearing, smelling — not organs like eye and ear. The English “seeing, hearing” and the plain Chinese 看、听 follow the actions; Kumārajīva writes the organs, 眼耳 (yǎn ěr, “eye, ear”)."
+      },
+      {
+       "w": "gocara",
+       "note": "原义「牧场、活动范围」，指感官所对的东西。英文 fields 保留了「地盘」的意象；罗什「尘」带有「染污的尘土」色彩，梵文没有。",
+       "en": "Literally “pasture, range,” the things a sense ranges over. The English “fields” keeps the image of a territory; Kumārajīva's 尘 (chén, “dust”) adds a sense of defiling dirt that the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "6516cb6f",
+     "en": "Seeing does not see its own self. And if something does not see itself, how will it see others?"
+    },
+    {
+     "h": "29855f21",
+     "en": "The example of fire is not enough to establish seeing. That example, along with seeing, has already been answered by the analysis of what is being walked, walked and not walked.",
+     "cmp": [
+      {
+       "w": "agnidṛṣṭānta",
+       "note": "「火的比喻」：对方说火烧别的也照亮自己，看也一样。梵文只说「火喻」，英文和白话都在别处补出它的内容（白话加了括号）。",
+       "en": "“The fire example”: the opponent says fire burns others and lights itself up, and seeing is the same. The Sanskrit just says “the fire example”; the plain Chinese explains it in brackets, while the English leaves the reader to recall chapter 10's fire image or the opponent's usual argument."
+      }
+     ]
+    },
+    {
+     "h": "dedffd0f",
+     "en": "When it is not seeing anything at all, there is no seeing. So how can it make sense to say that seeing sees?"
+    },
+    {
+     "h": "a2c78154",
+     "en": "Seeing does not see, and non-seeing does not see. The seer, too, should be understood as explained by seeing itself."
+    },
+    {
+     "h": "1768e293",
+     "en": "There is no seer, whether apart from seeing or not apart from it. With no seer, where are the seen and the seeing?"
+    },
+    {
+     "h": "e4912d7d",
+     "en": "Just as a child is said to be born in dependence on mother and father, consciousness is said to arise in dependence on the eye and visible form.",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "罗什本没有这一颂。英文照梵本译出。",
+       "en": "Kumārajīva's version has no verse here. The English translates the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "a4345c43",
+     "en": "Since the seen and seeing do not exist, the four beginning with consciousness do not exist. How then will grasping and the rest come to be?",
+     "cmp": [
+      {
+       "w": "vijñānādicatuṣṭaya / upādāna",
+       "note": "「以意识为首的四样」一般指识、触、受、爱；upādāna「执取」是十二缘起里接下去的一支。英文照字面译，没有把这些名目展开。",
+       "en": "“The four beginning with consciousness” are usually taken as consciousness, contact, feeling and craving; upādāna, “grasping,” is the next link in the twelve-link chain. The English stays literal and does not spell these out."
+      }
+     ]
+    },
+    {
+     "h": "539b5e76",
+     "en": "Hearing, smelling, tasting, touching and mind are explained by seeing itself. The hearer, what is heard and so on should be understood the same way."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · Examining the Aggregates (Skandhaparīkṣā)",
+   "verses": [
+    {
+     "h": "e6aede32",
+     "en": "Apart from the cause of form, form is not found. Apart from form, the cause of form is not seen either.",
+     "cmp": [
+      {
+       "w": "skandha / rūpa",
+       "note": "品名 skandha 原义「堆」，指构成一个人的五类东西。英文全书译 aggregates；rūpa 译 form，指身体和一切看得见摸得着的物质（白话「形色」）。",
+       "en": "The chapter title's skandha literally means “heap”: the five kinds of things that make up a person. The English uses “aggregates” throughout; rūpa is “form,” meaning the body and everything physical that can be seen and touched (the plain Chinese says 形色, xíngsè, “shape and color”)."
+      }
+     ]
+    },
+    {
+     "h": "d16b3b02",
+     "en": "If form existed apart from the cause of form, it would follow that form has no cause. But nothing anywhere exists without a cause."
+    },
+    {
+     "h": "f9656f52",
+     "en": "If the cause of form existed apart from form, it would be a cause without an effect. But there is no cause without an effect."
+    },
+    {
+     "h": "ff1ecc00",
+     "en": "If form already exists, a cause of form makes no sense. If form does not exist, a cause of form makes no sense either."
+    },
+    {
+     "h": "c52ac8b1",
+     "en": "And form without a cause makes no sense whatsoever. So one should not entertain any ideas at all about form.",
+     "cmp": [
+      {
+       "w": "vikalpān vikalpayet",
+       "note": "「不应起分别」，梵文没有主语。英文用 one should、白话也没加主语；罗什补了「有智者」。",
+       "en": "“One should not construct concepts”; the Sanskrit has no subject. The English uses an impersonal “one,” and the plain Chinese adds none; Kumārajīva adds 有智者 (yǒu zhì zhě, “the wise”)."
+      }
+     ]
+    },
+    {
+     "h": "00f3f71a",
+     "en": "To say the effect resembles its cause does not make sense. To say the effect does not resemble its cause does not make sense either."
+    },
+    {
+     "h": "f0ef3571",
+     "en": "Feeling, mind, perception, volitional formations — and every single thing — follow the same pattern as form.",
+     "cmp": [
+      {
+       "w": "vedanā, citta, saṃjñā, saṃskāra",
+       "note": "五蕴的另外四样：感受、心、认知、意志活动。梵文这里用 citta「心」代替通常的 vijñāna「识」。英文 feeling, mind, perception, volitional formations 照梵文用 mind；罗什按惯例改成「识」。",
+       "en": "The other four aggregates: feeling, mind, perception, volitional formations. Here the Sanskrit uses citta, “mind,” instead of the usual vijñāna, “consciousness.” The English keeps “mind”; Kumārajīva normalizes it to 识 (shí, “consciousness”)."
+      }
+     ]
+    },
+    {
+     "h": "4ba60290",
+     "en": "When an argument is made by means of emptiness, whoever tries to answer it has answered nothing: his answer turns out to be in the same position as what was to be proved.",
+     "cmp": [
+      {
+       "w": "śūnyatā",
+       "note": "「空性」：事物没有自性（独立不变的本质）。英文全书固定译 emptiness，第一次出现在这里；它不是「什么都没有」，而是「缺了自性」。罗什把场景改成「离开空来回答」，意思不同。",
+       "en": "Śūnyatā: things lacking own-nature. Throughout, the English uses “emptiness,” first here; it does not mean “nothing at all” but “lacking own-nature.” Kumārajīva recasts the scene as 离空而欲答 (“answering apart from emptiness”), which changes the meaning."
+      },
+      {
+       "w": "samaṃ sādhyena",
+       "note": "「和要证明的东西一样」：反驳所依靠的东西同样没有自性，也有待证明。英文 in the same position as what was to be proved 照字面。",
+       "en": "“The same as what is to be proved”: whatever the objection relies on is just as empty and just as much in need of proof. The English “in the same position as what was to be proved” is literal."
+      }
+     ]
+    },
+    {
+     "h": "58133be7",
+     "en": "When an explanation is given by means of emptiness, whoever tries to find fault with it has found no fault: his criticism turns out to be in the same position as what was to be proved."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · Examining the Elements (Dhātuparīkṣā)",
+   "verses": [
+    {
+     "h": "05d66142",
+     "en": "No space at all exists before the defining mark of space. If it existed before its defining mark, it would follow that it is something without a mark.",
+     "cmp": [
+      {
+       "w": "dhātu / ākāśa",
+       "note": "品名 dhātu「元素」，指地、水、火、风、空、识六样；这一品拿 ākāśa「虚空」作代表。英文 space 指「空间」，不要和 emptiness（śūnyatā）混淆——中文「空」一个字两边都用，英文分得开。",
+       "en": "The chapter title's dhātu means “element”: earth, water, fire, air, space and consciousness. This chapter takes ākāśa, “space,” as its example. The English “space” is a different word from “emptiness” (śūnyatā); Chinese uses 空 (kōng) for both, while English keeps them apart."
+      },
+      {
+       "w": "lakṣaṇa",
+       "note": "「特征、标志」，用来认出一样东西的记号（虚空的特征一般说是「不阻碍」）。英文 defining mark，白话「特征」。",
+       "en": "Lakṣaṇa, “characteristic, mark”: the sign by which a thing is recognized (for space, usually “not obstructing”). The English says “defining mark,” the plain Chinese 特征 (tèzhēng, “feature”)."
+      }
+     ]
+    },
+    {
+     "h": "2579df64",
+     "en": "Nothing anywhere exists without a mark. And if there is no thing without a mark, where does the mark come to rest?"
+    },
+    {
+     "h": "255bb852",
+     "en": "A mark does not come to rest on what has no mark, nor on what already has a mark, nor anywhere other than these two."
+    },
+    {
+     "h": "bb984d07",
+     "en": "And when the mark does not come to rest, the marked thing makes no sense. When the marked thing makes no sense, the mark cannot exist either."
+    },
+    {
+     "h": "6bbe21ef",
+     "en": "So there is no marked thing and no mark. And apart from the marked and the mark, there is no thing at all."
+    },
+    {
+     "h": "9b422dec",
+     "en": "And if there is no existent thing, of what will there be nonexistence? And who is it — something unlike both existence and nonexistence — that knows existence and nonexistence?",
+     "cmp": [
+      {
+       "w": "bhāva / abhāva",
+       "note": "这一颂里 bhāva 既是「存在的东西」又是「存在」。英文前半用 existent thing，后半用 existence / nonexistence，把一个词拆成两种译法；白话也一样。",
+       "en": "In this verse bhāva is both “an existent thing” and “existence.” The English uses “existent thing” in the first half and “existence / nonexistence” in the second, splitting one word into two renderings; the plain Chinese does the same."
+      }
+     ]
+    },
+    {
+     "h": "3133cf68",
+     "en": "So space is not an existent thing, not a nonexistence, not a marked thing and not a mark. The other five elements are just like space."
+    },
+    {
+     "h": "31291830",
+     "en": "Those of little understanding, who see things as existing or as not existing, do not see the peace, the calming of everything there is to see.",
+     "cmp": [
+      {
+       "w": "draṣṭavyopaśama",
+       "note": "「所见之物的平息」：平息的是被看见的对象。英文 the calming of everything there is to see 照字面；罗什「灭见」容易读成「灭掉见解」。",
+       "en": "“The calming of what is to be seen”: what calms down is the field of objects. The English “the calming of everything there is to see” is literal; Kumārajīva's 灭见 (miè jiàn, “extinguishing views”) is easily read as “getting rid of opinions.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · Examining Desire and the Desirer (Rāgaraktaparīkṣā)",
+   "verses": [
+    {
+     "h": "2b8c9992",
+     "en": "If before desire there were a desirer free of desire, then desire would arise in dependence on him: when there is a desirer, there is desire.",
+     "cmp": [
+      {
+       "w": "rāga / rakta",
+       "note": "同出一个字根 raj「染色」：rāga 是「贪恋」（原义「颜色」），rakta 是「被染上的人」。英文 desire / desirer 保住了两词同根，但丢了「染色」的比喻；罗什「染 / 染者」两样都保住了。",
+       "en": "Both come from the root raj, “to dye”: rāga is “desire” (originally “color”), and rakta “one who is dyed.” The English “desire / desirer” keeps the shared root but loses the dyeing image; Kumārajīva's 染 / 染者 (rǎn / rǎnzhě, “dye / the dyed one”) keeps both."
+      }
+     ]
+    },
+    {
+     "h": "a7e6c0ee",
+     "en": "And if there is no desirer, where would desire come from? Whether desire exists or not, the same pattern holds for the desirer."
+    },
+    {
+     "h": "714056d6",
+     "en": "Nor does it make sense for desire and the desirer to arise together, for then desire and the desirer would not depend on each other."
+    },
+    {
+     "h": "b611c501",
+     "en": "If they are one, there is no being-together, since a thing is not together with itself. And if they are separate, how could there be being-together?",
+     "cmp": [
+      {
+       "w": "sahabhāva",
+       "note": "「同在、同时并存」。英文 being-together 照字面；罗什「合」偏向「结合」。",
+       "en": "“Co-existence, being at the same time.” The English “being-together” is literal; Kumārajīva's 合 (hé, “join”) leans toward “combining.”"
+      }
+     ]
+    },
+    {
+     "h": "ac7af73d",
+     "en": "If there were being-together in oneness, it would happen even without a companion. If there were being-together in separateness, it would happen even without a companion."
+    },
+    {
+     "h": "e19454ff",
+     "en": "And if there is being-together in separateness, are desire and desirer first established each on its own, so that afterwards they are together?"
+    },
+    {
+     "h": "daf10186",
+     "en": "Or if desire and desirer are already established each on its own, why do you imagine them being together?"
+    },
+    {
+     "h": "b6e67293",
+     "en": "Because separateness cannot be established, you want being-together; and to establish being-together, you want separateness again."
+    },
+    {
+     "h": "f3ce2e2f",
+     "en": "Since separateness is not established, being-together is not established. In which kind of separateness do you want being-together to be?"
+    },
+    {
+     "h": "363375e8",
+     "en": "So desire is established neither together with the desirer nor apart from it. Like desire, nothing at all is established either together or apart."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · Examining the Conditioned (Saṃskṛtaparīkṣā)",
+   "verses": [
+    {
+     "h": "e99f5a97",
+     "en": "If arising is conditioned, then the three marks belong to it too. But if arising is unconditioned, how can it be a mark of the conditioned?",
+     "cmp": [
+      {
+       "w": "saṃskṛta / trilakṣaṇī",
+       "note": "saṃskṛta「被造作的」，指由条件造成的东西，英文全书译 conditioned（中文「有为」）；asaṃskṛta 译 unconditioned（「无为」）。三相是阿毗达磨说的生、住、灭。罗什用「三相」作品名，英文照梵文品名。",
+       "en": "Saṃskṛta, “put together,” means whatever is produced by conditions; throughout, the English says “conditioned” (Chinese 有为, yǒuwéi), and asaṃskṛta “unconditioned” (无为, wúwéi). The three marks are the Abhidharma's arising, enduring and perishing. Kumārajīva names the chapter 三相 (sān xiàng, “the three marks”); the English follows the Sanskrit title."
+      }
+     ]
+    },
+    {
+     "h": "6fafd837",
+     "en": "Taken separately, arising and the other two cannot do the work of marking the conditioned. Taken together, how could they be in one place at one time?"
+    },
+    {
+     "h": "2c1db5d6",
+     "en": "If arising, enduring and perishing had some further mark of the conditioned, there would be an infinite regress. If they have none, they are not conditioned."
+    },
+    {
+     "h": "86be5fb7",
+     "en": "[An objector:] The arising of arising only produces the root arising. The root arising, in turn, produces the arising of arising.",
+     "cmp": [
+      {
+       "w": "utpādotpāda / mūlotpāda",
+       "note": "「生起的生起」和「根本的生起」：说一切有部主张两者互相生。英文 the arising of arising / the root arising 照字面，读来拗口，梵文本身也拗口。",
+       "en": "“The arising of arising” and “the root arising”: the Sarvāstivāda school held that each produces the other. The English “the arising of arising / the root arising” is literal and awkward, as is the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "60460cd4",
+     "en": "If, as you say, the arising of arising produces the root arising, how will it produce it when it has not itself been produced by the root?"
+    },
+    {
+     "h": "62010fea",
+     "en": "If, as you say, the one produced by the root then produces the root, how does the root, not yet produced by it, produce it?"
+    },
+    {
+     "h": "e2b02919",
+     "en": "By your account, this one, while being produced, might well produce that one — if it could produce it while still unborn.",
+     "cmp": [
+      {
+       "w": "(one verse, two in Kumārajīva)",
+       "note": "梵本只有一颂，泛说「这个」生「那个」；罗什把两个方向各写一颂。英文照梵本一颂。",
+       "en": "The Sanskrit has one verse speaking generally of “this one” producing “that one”; Kumārajīva writes a verse for each direction. The English follows the single Sanskrit verse."
+      }
+     ]
+    },
+    {
+     "h": "435593ff",
+     "en": "[An objector:] Just as a lamp lights up both itself and others, arising would produce both itself and others."
+    },
+    {
+     "h": "a1f51ebd",
+     "en": "There is no darkness in the lamp, nor where it stands. What does the lamp light up? For lighting up is the destruction of darkness."
+    },
+    {
+     "h": "e5c41acf",
+     "en": "How is darkness destroyed by a lamp that is just arising? For a lamp, while arising, does not reach the darkness."
+    },
+    {
+     "h": "16d83990",
+     "en": "And if darkness were destroyed by a lamp without reaching it, a lamp standing here would destroy the darkness standing everywhere in the world."
+    },
+    {
+     "h": "173fa073",
+     "en": "If a lamp lights up both itself and others, then darkness too will no doubt hide both itself and others."
+    },
+    {
+     "h": "415c6644",
+     "en": "If this arising has not yet arisen, how could it produce itself? And if it produces itself once it has arisen, what is left to be produced in what is already born?"
+    },
+    {
+     "h": "8455fa32",
+     "en": "What is arising, what has arisen and what has not arisen do not arise in any way at all. This has been explained by the analysis of what is being walked, walked and not walked."
+    },
+    {
+     "h": "853a4702",
+     "en": "Since what is arising does not get a foothold in arising, how can what is arising be said to arise in dependence on arising?",
+     "cmp": [
+      {
+       "w": "pratītya utpattim",
+       "note": "梵文说「正在生起的依靠『生起』而生」；罗什换成「众缘和合时生」，驳的是另一种说法。英文照梵文。",
+       "en": "The Sanskrit speaks of what is arising “arising in dependence on arising”; Kumārajīva substitutes “arising when many conditions come together,” refuting a different claim. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "ae3b374e",
+     "en": "Whatever comes to be in dependence on something else is, by its very nature, at peace. So what is arising, and arising itself, are both at peace.",
+     "cmp": [
+      {
+       "w": "śānta",
+       "note": "「寂静、平息」：没有自性、没有真正的生起。英文 at peace、白话「寂静」都没有「消失」的意思；罗什「寂灭」多一个「灭」字，容易读成「消失了」。",
+       "en": "“Calm, stilled”: lacking own-nature, with no real arising. The English “at peace” and the plain Chinese 寂静 (jìjìng, “quiet”) carry no sense of vanishing; Kumārajīva's 寂灭 (jìmiè, “stilled and extinguished”) adds “extinguished” and is easily read as “gone.”"
+      },
+      {
+       "w": "svabhāvataḥ",
+       "note": "这里 svabhāva 是副词用法「就本性而言」，不是全书那个要被否定的「自性」。英文 by its very nature，不用 own-nature，避免混淆。",
+       "en": "Here svabhāva is used adverbially, “by nature,” not as the own-nature the book keeps denying. The English says “by its very nature” rather than “own-nature” to avoid confusion."
+      }
+     ]
+    },
+    {
+     "h": "a5275805",
+     "en": "If there were some unarisen thing somewhere, it might arise. But since that thing does not exist, what arises?"
+    },
+    {
+     "h": "c168f43d",
+     "en": "If this arising produces what is arising, which arising, in turn, would produce that arising?"
+    },
+    {
+     "h": "7b2a06d1",
+     "en": "If another arising produces it, there is an infinite regress. If it arises without an arising, then let everything arise that way."
+    },
+    {
+     "h": "6fbf1ede",
+     "en": "For a start, arising makes no sense for what exists or for what does not exist, nor for what both exists and does not exist. This was shown earlier."
+    },
+    {
+     "h": "9eee2590",
+     "en": "Arising makes no sense for a thing that is ceasing. And a thing that is not ceasing makes no sense as a thing.",
+     "cmp": [
+      {
+       "w": "anirudhyamāna",
+       "note": "后半句的意思是：一切东西每刹那都在灭，「不在灭去的东西」根本不存在。英文照字面，意思要靠这条注补出。",
+       "en": "The point of the second line: everything is ceasing at every moment, so “a thing that is not ceasing” does not exist at all. The English is literal and relies on this note for the background."
+      }
+     ]
+    },
+    {
+     "h": "6242d159",
+     "en": "A thing that has not endured does not endure. A thing that has endured does not endure. What is enduring does not endure. And what unarisen thing endures?"
+    },
+    {
+     "h": "697d5304",
+     "en": "Enduring makes no sense for a thing that is ceasing. And a thing that is not ceasing makes no sense as a thing."
+    },
+    {
+     "h": "4c669e6a",
+     "en": "Since all things are at all times subject to aging and death, what things are there that endure without aging and death?"
+    },
+    {
+     "h": "515a3756",
+     "en": "Enduring cannot endure by another enduring, nor by itself — just as arising does not arise by itself or by another."
+    },
+    {
+     "h": "3f40ba04",
+     "en": "What has not ceased does not cease. What has ceased does not cease. Nor does what is ceasing. What unborn thing can cease?"
+    },
+    {
+     "h": "032299e3",
+     "en": "First, cessation makes no sense for a thing that is enduring. Nor does cessation make sense for a thing that is not enduring."
+    },
+    {
+     "h": "d7fed19a",
+     "en": "A state does not cease in that same state, nor does a state cease in some other state.",
+     "cmp": [
+      {
+       "w": "avasthā",
+       "note": "「状态、阶段」。英文 state、白话「状态」照译；罗什译「时」，从状态变成了时间。",
+       "en": "“State, phase.” The English “state” and plain Chinese 状态 follow it; Kumārajīva has 时 (shí, “time”), turning a state into a moment."
+      }
+     ]
+    },
+    {
+     "h": "58e19e4b",
+     "en": "Since the arising of all things makes no sense, the ceasing of all things makes no sense either."
+    },
+    {
+     "h": "15d6a8a9",
+     "en": "First, cessation makes no sense for an existing thing, since a single thing cannot be both existent and nonexistent."
+    },
+    {
+     "h": "7e4bf6fa",
+     "en": "Nor does cessation make sense for a nonexistent thing, just as there is no cutting off a second head."
+    },
+    {
+     "h": "d1db7eba",
+     "en": "There is no cessation by itself, nor by another — just as arising does not arise by itself or by another."
+    },
+    {
+     "h": "9e372724",
+     "en": "Since arising, enduring and perishing are not established, there is nothing conditioned. And since the conditioned is not established, how will the unconditioned be established?"
+    },
+    {
+     "h": "30bdb782",
+     "en": "Like a magic show, like a dream, like a city of the gandharvas: that is how arising, enduring and perishing are described.",
+     "cmp": [
+      {
+       "w": "gandharvanagara",
+       "note": "「乾闼婆（天上的乐神）之城」，指空中的幻城、海市蜃楼。英文保留原词，读者需要知道这是蜃景。",
+       "en": "“City of the gandharvas” (celestial musicians): a phantom city in the sky, a mirage. The English keeps the original name; the reader should know it means a mirage."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · Examining the Deed and the Doer (Karmakārakaparīkṣā)",
+   "verses": [
+    {
+     "h": "d52bf3bb",
+     "en": "A doer who really exists does not do a deed that really exists. Nor does a doer who does not really exist undertake a deed that does not really exist.",
+     "cmp": [
+      {
+       "w": "karma",
+       "note": "这一品的 karma 是「所做的事、行为的对象」，不专指善恶业。英文用 deed，第 17 品讲因果报应时才用 karma。",
+       "en": "In this chapter karma means “what is done, the deed,” not specifically moral karma. The English uses “deed” here and saves “karma” for chapter 17, where moral cause and effect is the topic."
+      },
+      {
+       "w": "sadbhūta / asadbhūta",
+       "note": "「真实存在的 / 不真实存在的」。英文 really exists 照译；罗什「决定 / 无定」改成了「确定不确定」的角度。",
+       "en": "“Really existent / not really existent.” The English “really exists” follows it; Kumārajīva's 决定 / 无定 (juédìng / wúdìng, “fixed / unfixed”) shifts the angle to certainty."
+      }
+     ]
+    },
+    {
+     "h": "9891df98",
+     "en": "For what really exists there is no activity, so the deed would be without a doer. For what really exists there is no activity, so the doer would be without a deed."
+    },
+    {
+     "h": "59466673",
+     "en": "If a doer who does not really exist did a deed that does not really exist, the deed would have no cause, and the doer would have no cause."
+    },
+    {
+     "h": "b15b0c11",
+     "en": "If there is no cause, there is neither effect nor instrumental cause. Without these, there is no activity, no doer and no instrument.",
+     "cmp": [
+      {
+       "w": "kāraṇa",
+       "note": "kāraṇa 可指「起作用的原因」，也可指「工具、手段」。英文前半译 instrumental cause、后半译 instrument，两义都照顾到。",
+       "en": "Kāraṇa can mean “efficient cause” or “instrument, means.” The English uses “instrumental cause” in the first line and “instrument” in the second to cover both."
+      }
+     ]
+    },
+    {
+     "h": "299965d4",
+     "en": "If activity and the rest are impossible, there is no Dharma and no non-Dharma. And with no Dharma and no non-Dharma, there is no fruit born of them.",
+     "cmp": [
+      {
+       "w": "dharma / adharma",
+       "note": "这里 dharma 指「合乎正道的行为」，adharma 是违背正道的行为。英文 Dharma / non-Dharma 保留原词；罗什译「罪福」，换成了中国人熟悉的框架。",
+       "en": "Here dharma means right conduct and adharma wrong conduct. The English keeps “Dharma / non-Dharma”; Kumārajīva's 罪福 (zuì fú, “sin and merit”) puts it in a frame familiar to Chinese readers."
+      }
+     ]
+    },
+    {
+     "h": "a9a40a4e",
+     "en": "If there is no fruit, the path to liberation and the path to heaven make no sense, and it follows that every action is pointless.",
+     "cmp": [
+      {
+       "w": "mokṣa / svarga / mārga",
+       "note": "梵文说「通往解脱和天界的路」。英文全译了；罗什只说「涅槃」，漏了天界和「路」。",
+       "en": "The Sanskrit speaks of “the path to liberation and to heaven.” The English keeps all of it; Kumārajīva says only 涅槃 (nièpán, “nirvana”), dropping heaven and the path."
+      }
+     ]
+    },
+    {
+     "h": "bb837cc3",
+     "en": "A doer who both exists and does not exist does not do a deed that both exists and does not exist. For existence and nonexistence contradict each other — how could they be in one thing?"
+    },
+    {
+     "h": "0fc563c0",
+     "en": "What does not exist is not done by an existing doer, and what exists is not done by a nonexistent doer. If they were, all the faults already mentioned would follow."
+    },
+    {
+     "h": "f8f60f20",
+     "en": "A doer who really exists does not do a deed that does not exist, nor one that both exists and does not exist — for the reasons already given."
+    },
+    {
+     "h": "2fb146de",
+     "en": "A doer who does not really exist does not do a deed that exists, nor one that both exists and does not exist — for the reasons already given.",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "罗什把这一颂的意思并入上一颂，没有单独译。英文照梵本译出。",
+       "en": "Kumārajīva folds this verse into the previous one and does not translate it separately. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "dbc978b7",
+     "en": "A doer who both exists and does not exist does not do a deed that exists or one that does not exist. Understand this by the reasons already given."
+    },
+    {
+     "h": "c4905d6b",
+     "en": "The doer depends on the deed, and the deed comes about depending on the doer. We see no other way for them to be established."
+    },
+    {
+     "h": "7182c6d9",
+     "en": "In the same way one should understand grasping, since deed and doer have been let go. And by the deed and the doer, one should examine all remaining things.",
+     "cmp": [
+      {
+       "w": "upādāna",
+       "note": "「取、执取」：抓住不放。英文全书除第 10、22 品（那里 upādāna 双关「燃料」）外都译 grasping。",
+       "en": "Upādāna, “grasping, taking hold.” Throughout, the English says “grasping,” except in chapters 10 and 22, where the word doubles as “fuel.”"
+      },
+      {
+       "w": "vyutsargāt",
+       "note": "「因为（事与做事者）被舍弃了」。英文译出 have been let go；罗什没有译这一句，又把「考察」（vibhāvayet）译成语气更强的「破」。",
+       "en": "“Because (deed and doer) are relinquished.” The English has “have been let go”; Kumārajīva omits it, and renders vibhāvayet, “should examine,” with the stronger 破 (pò, “refute, demolish”)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · Examining What Comes Before (Pūrvaparīkṣā)",
+   "verses": [
+    {
+     "h": "06710ebf",
+     "en": "Some say: seeing, hearing and the rest, and feeling and the rest, belong to someone who exists before them.",
+     "cmp": [
+      {
+       "w": "pūrva",
+       "note": "「在前面的」：在一切看、听、感受之前就已存在的主体。英文 what comes before 照字面；罗什「本住」意为「本来就住在那里的」。",
+       "en": "Pūrva, “prior”: a subject already there before all seeing, hearing and feeling. The English “what comes before” is literal; Kumārajīva's 本住 (běn zhù, “originally abiding”) means “the one that was there all along.”"
+      },
+      {
+       "w": "eke vadanti",
+       "note": "「有些人说」，点明是对方的主张。英文和白话都译出；罗什写成自问自答。",
+       "en": "“Some say,” marking this as the opponent's view. The English and plain Chinese both keep it; Kumārajīva turns it into a self-posed question."
+      }
+     ]
+    },
+    {
+     "h": "e189d192",
+     "en": "[They continue:] How could seeing and the rest belong to something that does not exist? So before these there is an existent thing, firmly established."
+    },
+    {
+     "h": "09cec762",
+     "en": "But that existent thing established before seeing, hearing and the rest, and before feeling and the rest — by what is it designated?",
+     "cmp": [
+      {
+       "w": "prajñapyate",
+       "note": "「被施设、被安上名字」：凭什么给它一个名字。英文 designated；罗什「以何而可知」偏重「知道」。这个词在第 22、24 品还会出现。",
+       "en": "“Is designated, is given a name”: on what basis can it be named at all? The English says “designated”; Kumārajīva's 以何而可知 (“by what can it be known”) leans toward knowing. The word returns in chapters 22 and 24."
+      }
+     ]
+    },
+    {
+     "h": "9b924bb5",
+     "en": "If it is established even without seeing and the rest, then without a doubt those too will exist without it."
+    },
+    {
+     "h": "370c8158",
+     "en": "Someone is made manifest by something; something is made manifest by someone. How can there be someone without something, or something without someone?",
+     "cmp": [
+      {
+       "w": "kaścit / kiṃcit",
+       "note": "梵文是不定代词「某个人」「某样东西」。英文 someone / something 照字面；罗什直接说「人」「法」，比梵文更明确。",
+       "en": "The Sanskrit uses indefinite pronouns, “someone” and “something.” The English keeps them; Kumārajīva writes 人 (rén, “person”) and 法 (fǎ, “thing”), more explicit than the original."
+      }
+     ]
+    },
+    {
+     "h": "f74c22e5",
+     "en": "[An objector:] It is not that someone exists before all of seeing and the rest together. At different times it is made manifest by different ones among seeing and the rest.",
+     "cmp": [
+      {
+       "w": "(objector's step back)",
+       "note": "这一颂在梵文里是对方退一步的说法，英文加了 [An objector]。罗什「实无有本住」读起来像作者的结论。",
+       "en": "In the Sanskrit this is the opponent retreating a step, so the English marks it [An objector]. Kumārajīva's 实无有本住 (“there really is no prior abider”) reads like the author's own conclusion."
+      }
+     ]
+    },
+    {
+     "h": "eb0da67b",
+     "en": "If it does not exist before all of seeing and the rest together, how could it exist before each one of them?"
+    },
+    {
+     "h": "7632cf57",
+     "en": "If the seer were the very same as the hearer and the feeler, it would have to exist before each one. But that makes no sense.",
+     "cmp": [
+      {
+       "w": "na yujyate",
+       "note": "末句「这样讲不通」。英文和白话都译出；罗什没有译，反而写成「则应有本住」，意思接近反了。",
+       "en": "The last line, “that makes no sense.” The English and plain Chinese both have it; Kumārajīva drops it and writes 则应有本住 (“then there must be a prior abider”), nearly the opposite."
+      }
+     ]
+    },
+    {
+     "h": "4dafa53c",
+     "en": "If the seer is one, the hearer another and the feeler yet another, then while there is a seer there would also be a hearer, and there would be many selves.",
+     "cmp": [
+      {
+       "w": "ātman",
+       "note": "「我、自我」。英文全书译 self；罗什译「神」，借用当时中国讲「神识、灵魂」的说法。",
+       "en": "Ātman, “self.” The English uses “self” throughout; Kumārajīva writes 神 (shén, “spirit”), borrowing the Chinese vocabulary of the time for a soul."
+      }
+     ]
+    },
+    {
+     "h": "be1dcdfc",
+     "en": "And in the elements from which seeing, hearing and the rest, and feeling and the rest, come to be — it is not found there either.",
+     "cmp": [
+      {
+       "w": "bhūta",
+       "note": "bhūta 既指「元素」，也可读作「已经存在的东西」。英文取 elements，白话加了括号「四大元素」，罗什也译「诸大」。",
+       "en": "Bhūta can mean “element” or “what has come to be.” The English takes “elements,” the plain Chinese adds “the four great elements” in brackets, and Kumārajīva also writes 诸大 (zhū dà, “the great elements”)."
+      }
+     ]
+    },
+    {
+     "h": "76d5b59a",
+     "en": "If the one to whom seeing, hearing and the rest, and feeling and the rest, belong does not exist, then these do not exist either."
+    },
+    {
+     "h": "ac536646",
+     "en": "For what does not exist before seeing and the rest, nor now, nor afterwards, the ideas “it exists” and “it does not exist” come to a stop."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · Examining Fire and Fuel (Agnīndhanaparīkṣā)",
+   "verses": [
+    {
+     "h": "65defbc9",
+     "en": "If the fuel were the fire, doer and deed would be one. If the fire were other than the fuel, there would be fire even without fuel.",
+     "cmp": [
+      {
+       "w": "agni / indhana",
+       "note": "「火」与「柴、燃料」。英文 fire / fuel，白话「火 / 柴」；罗什「燃 / 可燃」是「烧的」与「被烧的」，把两者写成同一个动作的两面。",
+       "en": "Agni, “fire,” and indhana, “fuel, firewood.” The English has “fire / fuel,” the plain Chinese 火 / 柴 (“fire / firewood”); Kumārajīva's 燃 / 可燃 (rán / kěrán, “burning / the burnable”) presents them as two sides of one act."
+      }
+     ]
+    },
+    {
+     "h": "d6d7e7ce",
+     "en": "It would be burning forever, with nothing needed to kindle it; any effort to light it again would be pointless; and so it would have nothing to act on."
+    },
+    {
+     "h": "26b68501",
+     "en": "Because it does not depend on anything else, it would have nothing to kindle it. It would follow that it burns forever, and lighting it again would be pointless."
+    },
+    {
+     "h": "ccbd306a",
+     "en": "Suppose someone says: “What is being burned — that is the fuel.” But if the fuel is just that and nothing more, by what is the fuel being burned?"
+    },
+    {
+     "h": "b22cc7cf",
+     "en": "[If fire is other than fuel,] it will not reach the fuel; not reaching it, it will not burn it; not burning it, it will not go out; not going out, it will stay on with its own marks.",
+     "cmp": [
+      {
+       "w": "nirvāsyati",
+       "note": "「熄灭」，和 nirvāṇa（涅槃）同一个字根：涅槃的原义就是火的熄灭。英文 go out、白话「熄灭」都只能译出字面，这层联系看不出来。",
+       "en": "“Will go out,” from the same root as nirvāṇa: nirvana literally means a fire going out. The English “go out” and the plain Chinese 熄灭 (xīmiè, “be extinguished”) can only give the surface meaning; the link to nirvana is lost."
+      }
+     ]
+    },
+    {
+     "h": "24161805",
+     "en": "[An objector:] Even though fire is other than fuel, it could reach the fuel, just as a woman reaches a man and a man reaches a woman.",
+     "cmp": [
+      {
+       "w": "strī / puruṣa",
+       "note": "梵文的比喻是「女人与男人」。英文和白话照译；罗什改成「此人、彼人」，避开了男女的比喻。",
+       "en": "The Sanskrit image is “a woman and a man.” The English and plain Chinese keep it; Kumārajīva changes it to 此人、彼人 (“this person, that person”), avoiding the sexual image."
+      }
+     ]
+    },
+    {
+     "h": "2ad52e8a",
+     "en": "Fire that is other than fuel could indeed reach the fuel — if fire and fuel existed cut off from each other."
+    },
+    {
+     "h": "7744ce81",
+     "en": "If fire depends on fuel and fuel depends on fire, which one is established first, so that fire can depend on fuel, or fuel on fire?"
+    },
+    {
+     "h": "337b368c",
+     "en": "If fire depends on fuel, that is establishing a fire already established. And then the fuel too would be fuel without fire."
+    },
+    {
+     "h": "876f6125",
+     "en": "If a thing is established by depending on something, and that very something is established by depending on it — then, if what is to be depended on must be established first, which depends on which to be established?"
+    },
+    {
+     "h": "793e7560",
+     "en": "A thing that is established by depending on something — if it is not yet established, how does it depend? And if it depends when already established, its depending makes no sense."
+    },
+    {
+     "h": "0891c35b",
+     "en": "Fire does not depend on fuel, nor is it independent of fuel. Fuel does not depend on fire, nor is it independent of fire."
+    },
+    {
+     "h": "27168250",
+     "en": "Fire does not come from somewhere else, and fire is not in the fuel. The rest about fuel has been covered by the analysis of what is being walked, walked and not walked."
+    },
+    {
+     "h": "eebd7cec",
+     "en": "Fuel is not fire. There is no fire apart from fuel. Fire does not possess fuel. Fuel is not in fire, and fire is not in fuel."
+    },
+    {
+     "h": "a51c2c51",
+     "en": "Fire and fuel explain the whole relation between the self and what it grasps, entirely, along with pots, cloth and everything else.",
+     "cmp": [
+      {
+       "w": "upādāna",
+       "note": "upādāna 一词两义：「燃料」和「执取」。这一颂正是靠这个双关，把火与柴换成「我」与「我所执取的五蕴」。英文 what it grasps 只译出了一义，读者要知道它也是「燃料」。",
+       "en": "Upādāna has two meanings: “fuel” and “grasping.” This verse turns on that pun, swapping fire and fuel for the self and the aggregates it grasps. The English “what it grasps” gives only one meaning; readers should know the word also means “fuel.”"
+      }
+     ]
+    },
+    {
+     "h": "61f3f742",
+     "en": "Those who teach that the self has a reality of its own, and that things each have their own separate reality — I do not think they understand the meaning of the teaching.",
+     "cmp": [
+      {
+       "w": "na manye",
+       "note": "梵文第一人称「我不认为」，是作者自己的判断。英文和白话照译；罗什改成「当知」，变成对读者的告诫。",
+       "en": "The Sanskrit is first person, “I do not think,” the author's own judgment. The English and plain Chinese keep it; Kumārajīva changes it to 当知 (dāng zhī, “you should know”), a warning to the reader."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · Examining the Beginning and the End (Pūrvāparakoṭiparīkṣā)",
+   "verses": [
+    {
+     "h": "3c07b8f7",
+     "en": "The great sage said that no earliest point can be found. For samsara — the round of one life after another — has no beginning and no end: it has no first and no last.",
+     "cmp": [
+      {
+       "w": "saṃsāra",
+       "note": "「流转」：一生接一生的轮回。英文全书写 samsara，第一次在这里解释；中文译「生死」或「轮回」。",
+       "en": "Saṃsāra, “wandering on”: the round of one life after another. Throughout, the English writes “samsara,” explained here on its first appearance; Chinese renders it 生死 (shēngsǐ, “birth and death”) or 轮回 (lúnhuí, “turning wheel”)."
+      }
+     ]
+    },
+    {
+     "h": "ad0f1b67",
+     "en": "Where there is no beginning and no end, how could there be a middle? So here the orders of before, after and at the same time make no sense."
+    },
+    {
+     "h": "38050ca0",
+     "en": "If birth came first and aging-and-death afterwards, there would be birth without aging-and-death, and something deathless would be born.",
+     "cmp": [
+      {
+       "w": "jāyeta cāmṛtaḥ",
+       "note": "「会有不死的东西出生」。英文和白话照译；罗什写成「不生有老死」，意思不同。",
+       "en": "“Something deathless would be born.” The English and plain Chinese follow it; Kumārajīva writes 不生有老死 (“aging-and-death without birth”), a different point."
+      }
+     ]
+    },
+    {
+     "h": "1b2f99a6",
+     "en": "If birth came afterwards and aging-and-death first, aging-and-death would have no cause: how could what was never born age and die?"
+    },
+    {
+     "h": "b2a254b9",
+     "en": "Nor does it make sense for aging-and-death and birth to happen together: what is being born would be dying, and both would be without a cause."
+    },
+    {
+     "h": "29e3cb8a",
+     "en": "Where these orders of before, after and at the same time do not hold, why do people proliferate concepts like “this is birth” and “that is aging-and-death”?",
+     "cmp": [
+      {
+       "w": "prapañcayanti",
+       "note": "动词形式的 prapañca，就是第 1 品归敬颂的「戏论」。英文照全书译法写 proliferate concepts，好让读者认出是同一个词。",
+       "en": "The verb form of prapañca, the same word as in the opening homage of chapter 1. The English keeps the book's rendering, “proliferate concepts,” so readers can recognize it."
+      }
+     ]
+    },
+    {
+     "h": "c852e541",
+     "en": "Effect and cause, the marked and the mark, feeling and the one who feels, and whatever things there are —"
+    },
+    {
+     "h": "ec9d565c",
+     "en": "— it is not only samsara that has no earliest point: no earliest point is found for any thing at all."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · Examining Suffering (Duḥkhaparīkṣā)",
+   "verses": [
+    {
+     "h": "48b2385e",
+     "en": "Some hold that suffering is made by oneself, made by another, made by both, or comes without a cause. But it makes no sense for it to be something made.",
+     "cmp": [
+      {
+       "w": "duḥkha",
+       "note": "佛教的 duḥkha 范围很宽：从剧痛到「不如意、不圆满」都算。英文 suffering 和中文「苦」都偏重痛苦，比原词窄。",
+       "en": "Buddhist duḥkha is broad: it covers everything from sharp pain to “unsatisfactoriness, things not being right.” Both the English “suffering” and the Chinese 苦 (kǔ, “bitter, painful”) lean toward pain and are narrower than the original."
+      },
+      {
+       "w": "eka icchanti",
+       "note": "「有些人主张」。英文和白话译出；罗什没有标出是谁的主张。",
+       "en": "“Some hold.” The English and plain Chinese include it; Kumārajīva does not say whose view this is."
+      }
+     ]
+    },
+    {
+     "h": "2cd6278c",
+     "en": "If it were made by itself, it would not come about in dependence. But it is in dependence on these aggregates that those aggregates come about."
+    },
+    {
+     "h": "786fda91",
+     "en": "If these were different from those, or those different from these, suffering would be made by another: these would be made by those others."
+    },
+    {
+     "h": "371665c9",
+     "en": "If suffering is made by one's own person, then who is that person, apart from suffering, by whom suffering is self-made?",
+     "cmp": [
+      {
+       "w": "pudgala",
+       "note": "「个人」，指承受轮回的那个人，某些部派认为它是真实的。英文 person，白话「人」，都看不出这是一个专门的哲学术语。",
+       "en": "Pudgala, “person”: the one who goes through samsara, which some Buddhist schools held to be real. The English “person” and the plain Chinese 人 (rén) do not show that it is a technical term."
+      }
+     ]
+    },
+    {
+     "h": "c591fbc6",
+     "en": "If suffering is produced by another person and handed over to someone, then apart from suffering, where is the one it is given to?"
+    },
+    {
+     "h": "b77bfd96",
+     "en": "If suffering is produced by another person, who is that other person, apart from suffering, who makes it and sends it on to someone else?"
+    },
+    {
+     "h": "4475cfd2",
+     "en": "Since self-made suffering is not established, where would suffering made by another come from? For whatever suffering another makes would be, for him, self-made."
+    },
+    {
+     "h": "7d8129cb",
+     "en": "First, suffering is not self-made, for it is not made by that very thing. And if the other is not self-made, how could suffering be made by another?"
+    },
+    {
+     "h": "77c3057a",
+     "en": "Suffering made by both could exist if it were made by each one separately. But since it is made neither by another nor by oneself, how could suffering be without a cause?"
+    },
+    {
+     "h": "3ce6f8a1",
+     "en": "Not only for suffering are these four options not found: for external things too, these four options are not found."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · Examining Formations (Saṃskāraparīkṣā)",
+   "verses": [
+    {
+     "h": "efd35468",
+     "en": "The Blessed One said: “Whatever is deceptive in nature is false.” And all formations are deceptive in nature; so they are false.",
+     "cmp": [
+      {
+       "w": "saṃskāra",
+       "note": "这里 saṃskāra 泛指一切由条件造作出来的东西，不只是五蕴里的「行」。英文用 formations（第 4 品五蕴里是 volitional formations），中文都作「行」。",
+       "en": "Here saṃskāra means everything put together by conditions, not just the fourth aggregate. The English says “formations” (in chapter 4's list of aggregates, “volitional formations”); Chinese uses 行 (xíng) for both."
+      },
+      {
+       "w": "moṣadharma",
+       "note": "「本性会骗人的」。英文 deceptive in nature 照译；罗什加进了「妄取相」（错误地执取相状），把「骗人」讲成人的错误执取。",
+       "en": "“Deceptive by nature.” The English follows it; Kumārajīva adds 妄取相 (“wrongly grasping at appearances”), turning “deceptive” into a mistake on the perceiver's side."
+      }
+     ]
+    },
+    {
+     "h": "63267e69",
+     "en": "[An objector:] If whatever is deceptive in nature is false, what is it that deceives? [Reply:] The Blessed One said this to shed light on emptiness.",
+     "cmp": [
+      {
+       "w": "muṣyate",
+       "note": "「被骗走、被偷走」，和上一颂「欺骗」同根。英文 deceives 保住了同根关系；罗什改问「取了什么」。",
+       "en": "“Is stolen, is cheated,” from the same root as “deceptive” in the previous verse. The English “deceives” keeps the link; Kumārajīva changes the question to “what is grasped?”"
+      }
+     ]
+    },
+    {
+     "h": "722db429",
+     "en": "[An objector:] Things lack own-nature, because we see them becoming otherwise. But a thing without own-nature does not exist, since things are empty.",
+     "cmp": [
+      {
+       "w": "(meaning unclear)",
+       "note": "这一颂哪半句是对方说的、哪半句是龙树的回答，梵文没有标出，各家读法不同。英文和白话都照字面，把后半当作对方的追问。",
+       "en": "The Sanskrit does not mark which half is the opponent's and which is Nāgārjuna's reply, and readings differ. The English and plain Chinese both stay literal and take the second half as the opponent pressing his point."
+      }
+     ]
+    },
+    {
+     "h": "86c777a4",
+     "en": "If there is no own-nature, what is it that becomes otherwise? If there is own-nature, what is it that becomes otherwise?",
+     "cmp": [
+      {
+       "w": "(extra Kumārajīva verse)",
+       "note": "罗什在这里多一颂，用婴儿长成老人的例子提问。梵本没有，英文照梵本。",
+       "en": "Kumārajīva has an extra verse here, raising the example of an infant growing old. The Sanskrit does not, and the English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "e7394b58",
+     "en": "Becoming otherwise makes no sense for the very same thing, nor for something else. For the young do not grow old, and the old do not grow old.",
+     "cmp": [
+      {
+       "w": "jīrṇo na jīryate",
+       "note": "「老人不会（再）变老」。英文和白话照译；罗什改成「老亦不作壮」（老人不会变回壮年），意思不同。",
+       "en": "“The old do not (further) grow old.” The English and plain Chinese follow it; Kumārajīva writes 老亦不作壮 (“the old do not become young again”), a different claim."
+      }
+     ]
+    },
+    {
+     "h": "a748359c",
+     "en": "If the very same thing became otherwise, milk itself would be curd. And what other than milk could come to be curd?"
+    },
+    {
+     "h": "1132c918",
+     "en": "If there were something not empty, there might be something empty. But nothing is not empty, so how will anything be empty?"
+    },
+    {
+     "h": "49d90652",
+     "en": "The Victorious Ones taught emptiness as the way out of all views. But those who make emptiness into a view, they said, are incurable.",
+     "cmp": [
+      {
+       "w": "jinaiḥ",
+       "note": "复数「诸胜者」，即诸佛。英文 the Victorious Ones 保留复数；罗什写成单数「大圣」。",
+       "en": "Plural, “the Victors,” that is, the Buddhas. The English “the Victorious Ones” keeps the plural; Kumārajīva writes the singular 大圣 (dà shèng, “the great sage”)."
+      },
+      {
+       "w": "asādhya",
+       "note": "「无法医治的」，像大夫说病人无药可救。英文 incurable 保住了这个医疗比喻；罗什「诸佛所不化」换成了「教化不了」。",
+       "en": "“Incurable,” as a doctor says of a hopeless patient. The English keeps the medical image; Kumārajīva's 诸佛所不化 (“whom the Buddhas cannot convert”) changes it to a matter of teaching."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · Examining Contact (Saṃsargaparīkṣā)",
+   "verses": [
+    {
+     "h": "9ba5b207",
+     "en": "The seen, seeing and the seer: these three do not come into contact with one another, whether two at a time or all together.",
+     "cmp": [
+      {
+       "w": "saṃsarga",
+       "note": "「接触、结合」。英文 contact，白话「结合」，罗什「合」。罗什又把「两两、全部都不结合」改成「各异方」，提前用上了后面的论证。",
+       "en": "Saṃsarga, “contact, combination.” The English says “contact,” the plain Chinese 结合 (“combine”), Kumārajīva 合 (hé). Kumārajīva also turns “neither two at a time nor all together” into 各异方 (“each in a different direction”), using the later argument in advance."
+      }
+     ]
+    },
+    {
+     "h": "b8b9459f",
+     "en": "Desire, the desirer and the desired should be seen the same way, and so should the remaining afflictions and the remaining sense bases, in this threefold way.",
+     "cmp": [
+      {
+       "w": "kleśa / āyatana",
+       "note": "kleśa「烦恼」：贪、嗔、痴等让心不安的东西，英文全书译 afflictions。āyatana「处」：感官和它的对象，英文 sense bases；罗什译「入」。",
+       "en": "Kleśa: greed, hatred, delusion and the like, which disturb the mind; throughout, the English says “afflictions.” Āyatana: a sense and its object; the English says “sense bases,” Kumārajīva 入 (rù, “entrance”)."
+      }
+     ]
+    },
+    {
+     "h": "9f4117f9",
+     "en": "Contact is between one thing and another different thing. But since there is no such difference among the seen and the rest, they do not come into contact."
+    },
+    {
+     "h": "95afd3c5",
+     "en": "And not only is there no difference among the seen and the rest: difference makes no sense between anything and anything else."
+    },
+    {
+     "h": "f24d1a15",
+     "en": "A different thing is different depending on another different thing; apart from that other, it is not different. Whatever depends on something cannot be different from it."
+    },
+    {
+     "h": "39ef3bcc",
+     "en": "If a different thing were different from another even apart from that other, it would be different. But apart from the other, it is not different; so it does not exist.",
+     "cmp": [
+      {
+       "w": "anyad anyad anyasmāt",
+       "note": "梵文连用一串 anya「不同的、另一个」，绕口令一般。英文 different / another 一再重复，也难读；罗什「应余异有异」更难懂，和梵文对不太上。",
+       "en": "The Sanskrit strings together anya, “other, different,” like a tongue-twister. The English, repeating “different / another,” is hard going too; Kumārajīva's 应余异有异 is even harder and does not match the Sanskrit well."
+      }
+     ]
+    },
+    {
+     "h": "f6ba8b5b",
+     "en": "Difference is not found in what is different, nor in what is not different. And since difference does not exist, there is neither “another” nor “the same.”",
+     "cmp": [
+      {
+       "w": "nāsty anyad vā tad eva vā",
+       "note": "「既没有另一个，也没有同一个」。英文和白话两边都译了；罗什只说「无此彼异」，漏了「同一个」这一边。",
+       "en": "“There is neither another nor the same.” The English and plain Chinese give both sides; Kumārajīva says only 无此彼异 (“no difference between this and that”), dropping “the same.”"
+      }
+     ]
+    },
+    {
+     "h": "d1b74040",
+     "en": "Contact makes no sense between a thing and itself, nor between one thing and another. What is coming into contact, what has come into contact, and the one who brings them into contact do not exist."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · Examining Own-Nature (Svabhāvaparīkṣā)",
+   "verses": [
+    {
+     "h": "fccc9679",
+     "en": "It makes no sense for own-nature to come about through conditions and causes. An own-nature that came about from causes and conditions would be something made.",
+     "cmp": [
+      {
+       "w": "svabhāva",
+       "note": "这一品专讲自性。英文全书固定用 own-nature；罗什这一品多简称「性」，品名也改成「观有无品」。",
+       "en": "This chapter is entirely about own-nature. The English uses “own-nature” as everywhere else; Kumārajīva mostly shortens it to 性 (xìng, “nature”) and names the chapter 观有无品 (“Examining Existence and Nonexistence”)."
+      }
+     ]
+    },
+    {
+     "h": "facd4d35",
+     "en": "But how could there ever be an own-nature that is made? For own-nature is not made, and does not depend on anything else."
+    },
+    {
+     "h": "0296a1bc",
+     "en": "Where there is no own-nature, how will there be other-nature? For the own-nature of something else is what is called other-nature."
+    },
+    {
+     "h": "9a1000a9",
+     "en": "Apart from own-nature and other-nature, where again is an existent thing? Only if there is own-nature or other-nature is an existent thing established."
+    },
+    {
+     "h": "79b8214a",
+     "en": "If existence is not established, nonexistence is not established either. For people call it nonexistence when an existent thing becomes otherwise.",
+     "cmp": [
+      {
+       "w": "anyathābhāva",
+       "note": "「变成别的样子」。英文 becomes otherwise、白话「变了样」照译；罗什「坏」变成了毁坏。",
+       "en": "“Becoming otherwise.” The English “becomes otherwise” and the plain Chinese 变了样 follow it; Kumārajīva's 坏 (huài, “decays, breaks”) makes it destruction."
+      }
+     ]
+    },
+    {
+     "h": "7ac05771",
+     "en": "Those who see own-nature and other-nature, existence and nonexistence, do not see the truth in the Buddha's teaching."
+    },
+    {
+     "h": "c2be1c17",
+     "en": "In the Instruction to Kātyāyana, the Blessed One, who saw clearly through existence and nonexistence, rejected both “it exists” and “it does not exist.”",
+     "cmp": [
+      {
+       "w": "kātyāyanāvavāda",
+       "note": "佛对弟子迦旃延讲的一部短经：世人多依「有」「无」两边。英文用了经名，不加注读者可能不知道；中文汉译在《杂阿含经》。",
+       "en": "A short sutra the Buddha gave his disciple Kātyāyana, saying that people mostly lean on the two extremes of “exists” and “does not exist.” The English gives the title; Chinese readers know it from the 杂阿含经 (Zá Āhán Jīng, the Chinese Saṃyukta Āgama)."
+      },
+      {
+       "w": "bhāvābhāvavibhāvin",
+       "note": "「看清有与无的人」。英文 saw clearly through 照译；罗什「能灭有无」把「看清」变成了「灭除」。",
+       "en": "“One who discerns existence and nonexistence.” The English “saw clearly through” follows it; Kumārajīva's 能灭有无 (“able to extinguish existence and nonexistence”) turns seeing into destroying."
+      }
+     ]
+    },
+    {
+     "h": "e3e5ba64",
+     "en": "If something existed by its intrinsic nature, it could not become nonexistent. For it never makes sense for an intrinsic nature to become otherwise.",
+     "cmp": [
+      {
+       "w": "prakṛti",
+       "note": "这里换了一个词 prakṛti「本来的样子」，意思和自性相近。英文用 intrinsic nature，跟 own-nature 区分开，读者能看出原文换了词。",
+       "en": "Here the text switches to prakṛti, “original nature,” close in meaning to own-nature. The English uses “intrinsic nature” to keep it distinct from “own-nature,” so readers can see the word changed."
+      }
+     ]
+    },
+    {
+     "h": "452bd2a8",
+     "en": "If there is no intrinsic nature, what will become otherwise? And if there is an intrinsic nature, what will become otherwise?"
+    },
+    {
+     "h": "c153a4f5",
+     "en": "“It exists” is grasping at permanence; “it does not exist” is the view of annihilation. So the wise should not lean on existence or nonexistence.",
+     "cmp": [
+      {
+       "w": "śāśvata / uccheda",
+       "note": "「常」与「断」：认为东西永远不变，或认为它会彻底断灭。英文全书固定为 permanence / annihilation。罗什加了「定」字（认定），梵文只说「说有」「说没有」。",
+       "en": "“Permanent” and “cut off”: the belief that things last forever, or that they are utterly wiped out. Throughout, the English uses “permanence / annihilation.” Kumārajīva adds 定 (dìng, “firmly”), while the Sanskrit simply says “it exists” and “it does not exist.”"
+      }
+     ]
+    },
+    {
+     "h": "8c8e5a58",
+     "en": "For whatever exists by own-nature does not become nonexistent — that is permanence. “It does not exist now, but it did before” — that brings annihilation."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · Examining Bondage and Liberation (Bandhamokṣaparīkṣā)",
+   "verses": [
+    {
+     "h": "564f81c2",
+     "en": "If formations wander through samsara: if they are permanent, they do not wander; and if they are impermanent, they do not wander either. The same holds for a living being."
+    },
+    {
+     "h": "029ffa24",
+     "en": "If the person wanders through samsara, yet sought in the five ways among the aggregates, sense bases and elements, he does not exist — who will wander?",
+     "cmp": [
+      {
+       "w": "pañcadhā",
+       "note": "「五种方式」：人是蕴、不是蕴、在蕴里、蕴在他里、拥有蕴。英文照字面写 the five ways，第 22 品第 1 颂会把这五种列出来。",
+       "en": "“In five ways”: the person is the aggregates, is other than them, is in them, has them in him, or possesses them. The English says “the five ways” literally; chapter 22, verse 1 spells them out."
+      }
+     ]
+    },
+    {
+     "h": "819fd5af",
+     "en": "Wandering from one grasping to another grasping, he would be nonexistent in between. And who is he, nonexistent and without grasping — how will he wander?",
+     "cmp": [
+      {
+       "w": "upādāna",
+       "note": "「执取」，这里指被执取的身心。英文 grasping；罗什换成「身」，讲成从这一身到那一身，后半的问句也改成了结论。",
+       "en": "“Grasping,” here meaning the body and mind that are grasped. The English keeps “grasping”; Kumārajīva switches to 身 (shēn, “body”), “from body to body,” and turns the closing question into a statement."
+      }
+     ]
+    },
+    {
+     "h": "210f1339",
+     "en": "Nirvana for formations makes no sense in any way. Nirvana for a living being makes no sense in any way either.",
+     "cmp": [
+      {
+       "w": "nirvāṇa",
+       "note": "原义「（火的）熄灭」，指苦和轮回的止息、解脱。英文全书写 nirvana，第一次在这里解释；罗什这一颂译「灭」，没有用「涅槃」。",
+       "en": "Literally “going out” (as a flame goes out): the ending of suffering and samsara, liberation. Throughout, the English writes “nirvana,” explained here; Kumārajīva renders it 灭 (miè, “extinction”) in this verse rather than 涅槃 (nièpán)."
+      }
+     ]
+    },
+    {
+     "h": "e0539bf9",
+     "en": "Formations, which by nature rise and fall, are not bound and are not freed. Like them, a living being is not bound and is not freed."
+    },
+    {
+     "h": "c3a7f4c0",
+     "en": "If grasping is the bondage, one who has grasping is not bound, and one who has no grasping is not bound. Then in what state is one bound?"
+    },
+    {
+     "h": "2199a39c",
+     "en": "Bondage could indeed bind, if it existed before what is to be bound. But it does not. The rest has been covered by the analysis of what is being walked, walked and not walked."
+    },
+    {
+     "h": "f552a766",
+     "en": "First, one who is bound is not freed. One who is not bound is certainly not freed. If one who is bound were being freed, bondage and liberation would happen at the same time."
+    },
+    {
+     "h": "3ae12050",
+     "en": "“Without grasping, I will go out; nirvana will be mine” — those who hold on like this have the greatest grasping of all.",
+     "cmp": [
+      {
+       "w": "upādānamahāgraha",
+       "note": "「对执取的大执着」，语气很重。英文 the greatest grasping of all 保住了这个力度；罗什「还为受所缚」比较平和。",
+       "en": "“A great clinging made of grasping,” strongly worded. The English “the greatest grasping of all” keeps the force; Kumārajīva's 还为受所缚 (“is still bound by grasping”) is milder."
+      }
+     ]
+    },
+    {
+     "h": "7f19b161",
+     "en": "Where nirvana is not added on and samsara is not taken away — there, what samsara is there? What nirvana is being imagined?",
+     "cmp": [
+      {
+       "w": "yatra",
+       "note": "梵文只说「在那里」，没点明是什么境地。英文 where… there 照字面；罗什加了「实相义如是」，把它说成真实相。",
+       "en": "The Sanskrit says only “where… there,” without naming what state this is. The English stays literal; Kumārajīva adds 实相义如是 (“such is the meaning of true reality”)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17 · Examining Karma and Its Fruit (Karmaphalaparīkṣā)",
+   "verses": [
+    {
+     "h": "f2a8e88d",
+     "en": "[An objector:] A mind that restrains itself and helps others is kind; that is Dharma. It is the seed of fruit both after death and here in this life.",
+     "cmp": [
+      {
+       "w": "(the opponent's voice)",
+       "note": "这一品前半（大约到第 19 颂）多是佛教其他部派对业果的说法，龙树从第 21 颂起才驳。英文在开头加 [An objector] 提示一次；梵文本身没有标记。",
+       "en": "The first part of this chapter (roughly to verse 19) mostly sets out how other Buddhist schools explain karma and its fruit; Nāgārjuna answers from verse 21. The English marks [An objector] once at the start; the Sanskrit itself has no marker."
+      },
+      {
+       "w": "maitraṃ sa dharmaḥ",
+       "note": "梵文先说这颗心「友善」，再说「这就是法」。英文两样都译；罗什合成「慈善」，没有译「法」。",
+       "en": "The Sanskrit says the mind is “kind” and then “that is Dharma.” The English keeps both; Kumārajīva merges them into 慈善 (císhàn, “kind and good”) and drops “Dharma.”"
+      }
+     ]
+    },
+    {
+     "h": "65eea707",
+     "en": "The supreme sage said that karma is intention and what follows from intention. That karma has been described as divided in many ways.",
+     "cmp": [
+      {
+       "w": "karma",
+       "note": "从这一品起 karma 指善恶的「业」：会结出果报的行为。英文直接用 karma；中文「业」。cetanā「思」英文译 intention。",
+       "en": "From this chapter on, karma means moral action that bears fruit. The English simply uses “karma”; Chinese has 业 (yè). Cetanā, “volition,” is rendered “intention.”"
+      },
+      {
+       "w": "paramarṣi",
+       "note": "「最高的仙人」，借印度对古圣贤的称呼来称佛。英文 the supreme sage 照字面；罗什「大圣」。",
+       "en": "“Supreme seer,” borrowing the Indian title for the ancient sages to refer to the Buddha. The English “the supreme sage” is literal; Kumārajīva has 大圣 (dà shèng, “great sage”)."
+      }
+     ]
+    },
+    {
+     "h": "b0364348",
+     "en": "Of these, the karma called intention is considered mental. The karma called what follows from intention is bodily and verbal."
+    },
+    {
+     "h": "b3ee578c",
+     "en": "Speech and movement; the non-abstentions known as unmanifest; and likewise the other unmanifest ones, the abstentions —",
+     "cmp": [
+      {
+       "w": "avijñapti",
+       "note": "「不显示出来的（业）」：不露在外、却留下影响。英文 unmanifest，中文后来多译「无表」，罗什「无作」。这一颂文字很省略，分法各家不同；罗什改成身口各分作、无作四种，还加了「亦善亦不善」。",
+       "en": "“Unmanifest (karma)”: action that does not show outwardly yet leaves an effect. The English says “unmanifest”; later Chinese uses 无表 (wúbiǎo), Kumārajīva 无作 (wúzuò). The verse is very terse and is divided up differently by different commentators; Kumārajīva reorganizes it into four kinds and adds “both good and bad,” which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "db42f767",
+     "en": "— merit that follows from use, and demerit of the same kind, and intention: these seven things are held to be the marks of karma.",
+     "cmp": [
+      {
+       "w": "paribhogānvaya",
+       "note": "「随受用而来的」：别人享用你布施的东西时，你的福德跟着增长。英文 follows from use 很简略，和梵文一样需要这条背景。",
+       "en": "“Following from use”: when others use what you gave them, your merit grows along with it. The English “follows from use” is as terse as the Sanskrit and needs this background."
+      }
+     ]
+    },
+    {
+     "h": "14dba5e4",
+     "en": "If karma stayed until the time it ripened, it would become permanent. If it has ceased, then, having ceased, what fruit will it produce?"
+    },
+    {
+     "h": "412d27fc",
+     "en": "The continuum that starts from a seed, the sprout and so on, goes forward; from it comes the fruit. Without the seed, it does not go forward.",
+     "cmp": [
+      {
+       "w": "saṃtāna",
+       "note": "「相续」：一连串前后相接的状态。英文 continuum；中文「相续」。",
+       "en": "Saṃtāna, “continuum”: a series of states, each following on the last. The English says “continuum”; Chinese has 相续 (xiāngxù)."
+      }
+     ]
+    },
+    {
+     "h": "429676ab",
+     "en": "Since the continuum comes from the seed and the fruit comes from the continuum, the fruit has the seed before it. So it is neither cut off nor permanent."
+    },
+    {
+     "h": "9a4966c7",
+     "en": "Likewise, the continuum of mind that goes forward from that mind — from it comes the fruit. Without the mind, it does not go forward.",
+     "cmp": [
+      {
+       "w": "cetasaḥ",
+       "note": "「从那颗心」，指造业时的心。英文 that mind 照字面；罗什「初心」多了「最初」的意思。",
+       "en": "“From that mind,” the mind at the time of acting. The English “that mind” is literal; Kumārajīva's 初心 (chū xīn, “the first mind”) adds “first.”"
+      }
+     ]
+    },
+    {
+     "h": "779ce5e7",
+     "en": "Since the continuum comes from the mind and the fruit comes from the continuum, the fruit has the karma before it. So it is neither cut off nor permanent."
+    },
+    {
+     "h": "3ec7ff3e",
+     "en": "The means of accomplishing Dharma are the ten bright paths of action. The fruit of Dharma, after death and here, is the five strands of sense pleasure.",
+     "cmp": [
+      {
+       "w": "kāmaguṇāḥ pañca",
+       "note": "五种感官对象（色声香味触）带来的享受。英文 five strands of sense pleasure 照字面；罗什「五欲乐」。罗什又把 dharma 译成「福德」。",
+       "en": "The enjoyments of the five sense objects (sights, sounds, smells, tastes, touches). The English “five strands of sense pleasure” is literal; Kumārajīva has 五欲乐. He also renders dharma here as 福德 (fúdé, “merit”)."
+      }
+     ]
+    },
+    {
+     "h": "e13d5370",
+     "en": "If this way of thinking were right, there would be many great faults. So this way of thinking does not work here."
+    },
+    {
+     "h": "86b7caf5",
+     "en": "Now I will explain another way of thinking, which does fit here — one praised by the Buddhas, the solitary Buddhas and the disciples.",
+     "cmp": [
+      {
+       "w": "pratyekabuddha / śrāvaka",
+       "note": "「独觉」：不靠老师独自觉悟的人；「声闻」：听佛说法而觉悟的弟子。英文 solitary Buddhas / disciples；罗什音译「辟支佛」，又把声闻放宽成「贤圣」。",
+       "en": "Pratyekabuddha: one who awakens alone, without a teacher; śrāvaka: a disciple who awakens by hearing the Buddha. The English says “solitary Buddhas / disciples”; Kumārajīva transliterates the first as 辟支佛 (bìzhīfó) and widens the second to 贤圣 (xiánshèng, “the worthy and holy”)."
+      }
+     ]
+    },
+    {
+     "h": "90f75e44",
+     "en": "The “non-perishing” is like a promissory note, and karma is like the debt. By realm it is of four kinds, and by its nature it is morally neutral.",
+     "cmp": [
+      {
+       "w": "avipraṇāśa",
+       "note": "「不失」：某些部派（一般认为是正量部）设想的、保证业果不会消失的东西。英文 the non-perishing 加引号，表示是专门术语。",
+       "en": "Avipraṇāśa, “non-perishing”: something certain schools (usually identified as the Sammitīya) posited to guarantee that karma's fruit is not lost. The English puts “the non-perishing” in quotation marks to show it is a technical term."
+      },
+      {
+       "w": "dhātutaḥ",
+       "note": "「按界分」：欲界、色界、无色界和无漏。英文 by realm 照字面；罗什只说「分别有四种」。",
+       "en": "“By realm”: the desire realm, form realm, formless realm, and the untainted. The English “by realm” is literal; Kumārajīva says only “divided into four kinds.”"
+      }
+     ]
+    },
+    {
+     "h": "c6bfe1ca",
+     "en": "It is not abandoned by abandoning, only by cultivation. So it is through the non-perishing that the fruit of karma is born.",
+     "cmp": [
+      {
+       "w": "prahāṇa / bhāvanā",
+       "note": "「断除」和「修习」，指修行的两个阶段：见道和修道。英文照字面 abandoning / cultivation；罗什「见谛所断 / 思惟所断」。",
+       "en": "“Abandoning” and “cultivation,” two stages of practice: the path of seeing and the path of cultivation. The English is literal; Kumārajīva has 见谛所断 / 思惟所断 (“abandoned by seeing the truths / by meditation”)."
+      }
+     ]
+    },
+    {
+     "h": "50372c03",
+     "en": "If it were abandoned by abandoning, or by the transfer of karma, faults such as the destruction of karma would follow."
+    },
+    {
+     "h": "ac906fbe",
+     "en": "Of all karmas in the same realm, alike and unlike, only one such thing arises at the moment of rebirth."
+    },
+    {
+     "h": "e3cc8bda",
+     "en": "In this visible life, one arises for every karma of both kinds, and it remains even after the karma has ripened.",
+     "cmp": [
+      {
+       "w": "dṛṣṭe dharme",
+       "note": "「在现世」生出一个「不失」。英文照梵文讲不失的生起；罗什译成「现世受果报」，又把留下来的主语说成「业」。",
+       "en": "“In this visible life,” one “non-perishing” arises. The English follows the Sanskrit, which is about the non-perishing arising; Kumārajīva writes 现世受果报 (“receives its fruit in this life”) and makes karma, not the non-perishing, the thing that remains."
+      }
+     ]
+    },
+    {
+     "h": "3419df57",
+     "en": "It ceases when the fruit is passed beyond, or at death. Here one should distinguish the tainted and the untainted.",
+     "cmp": [
+      {
+       "w": "sāsrava / anāsrava",
+       "note": "「有漏 / 无漏」：有没有烦恼「流出」。英文 tainted / untainted，丢了「漏、流出」的意象。",
+       "en": "“With outflows / without outflows”: whether afflictions are leaking out. The English “tainted / untainted” loses the image of leaking."
+      }
+     ]
+    },
+    {
+     "h": "a5aca336",
+     "en": "Emptiness, yet not annihilation; samsara, yet not permanence; and karma does not perish — this is the Dharma taught by the Buddha."
+    },
+    {
+     "h": "1bc534fe",
+     "en": "Why does karma not arise? Because it has no own-nature. And because it has not arisen, it does not perish."
+    },
+    {
+     "h": "48dfb767",
+     "en": "If karma existed by own-nature, it would without a doubt be permanent. And karma would be something not done, since what is permanent is not done."
+    },
+    {
+     "h": "f1ce8d93",
+     "en": "If karma were not done, there would be the fear of meeting results of what one never did, and the fault of not living the holy life would follow.",
+     "cmp": [
+      {
+       "w": "abrahmacaryavāsa",
+       "note": "「不过梵行（清净的修行生活）」：修行变得没有意义。英文 not living the holy life；罗什读成「守戒的人也会有罪」，读法不同。",
+       "en": "“Not living the brahmacarya (the pure, celibate life of practice)”: practice would become pointless. The English says “not living the holy life”; Kumārajīva reads it as “even those who keep the precepts would be at fault,” a different reading."
+      }
+     ]
+    },
+    {
+     "h": "209f3819",
+     "en": "All everyday conventions would without a doubt be contradicted, and the distinction between those who do good and those who do evil would make no sense."
+    },
+    {
+     "h": "a0f7ff55",
+     "en": "And if karma were of fixed nature because it is settled, then what has already ripened would ripen again."
+    },
+    {
+     "h": "7d0b97c0",
+     "en": "This karma has the afflictions as its nature, and those afflictions are not real. If the afflictions are not real, how could karma be real?",
+     "cmp": [
+      {
+       "w": "kleśātmaka",
+       "note": "「以烦恼为本质」。英文 has the afflictions as its nature 照译；罗什「从烦恼生」把「本质」改成了「来源」。",
+       "en": "“Having afflictions as its nature.” The English follows it; Kumārajīva's 从烦恼生 (“born from afflictions”) changes nature into origin."
+      }
+     ]
+    },
+    {
+     "h": "210c2728",
+     "en": "Karma and the afflictions are said to be the conditions of bodies. If karma and the afflictions are empty, what is there to say about bodies?"
+    },
+    {
+     "h": "ae1f5d52",
+     "en": "A creature veiled by ignorance and chained by craving — he is the one who experiences the fruit. He is neither other than the doer nor the very same.",
+     "cmp": [
+      {
+       "w": "avidyā / tṛṣṇā",
+       "note": "avidyā「无明」：看不清真相；tṛṣṇā「渴爱」：字面是「口渴」。英文 ignorance / craving，丢了「口渴」的意象。罗什没有译「他是受用者」。",
+       "en": "Avidyā, “not-seeing,” not seeing how things are; tṛṣṇā, literally “thirst.” The English “ignorance / craving” loses the image of thirst. Kumārajīva leaves out “he is the one who experiences.”"
+      }
+     ]
+    },
+    {
+     "h": "31f0f63f",
+     "en": "Since this karma has not arisen from conditions, nor arisen without conditions, there is no doer either."
+    },
+    {
+     "h": "949bea35",
+     "en": "If there is no karma and no doer, where would fruit born of karma come from? And if there is no fruit, where will there be one who experiences it?"
+    },
+    {
+     "h": "d7d45eab",
+     "en": "Just as the Teacher, through his perfect magical power, conjures up a phantom figure, and that phantom in turn conjures up another phantom —"
+    },
+    {
+     "h": "9467ba1c",
+     "en": "— so the doer is like the phantom, and the karma he does is like the second phantom conjured up by the first."
+    },
+    {
+     "h": "52e63302",
+     "en": "Afflictions, karmas, bodies, doers and fruits are like a city of the gandharvas, like a mirage, like a dream.",
+     "cmp": [
+      {
+       "w": "marīci",
+       "note": "「阳焰」：阳光下远看像水的热气。英文 mirage；罗什把三个比喻换成「幻、梦、炎、响」，没有乾闼婆城，也漏了「身体」。",
+       "en": "Marīci, the shimmer of heat that looks like water in the distance. The English says “mirage”; Kumārajīva swaps the three images for “illusion, dream, mirage, echo,” losing the gandharva city and also dropping “bodies.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18 · Examining the Self (Ātmaparīkṣā)",
+   "verses": [
+    {
+     "h": "fd36bdb6",
+     "en": "If the self were the aggregates, it would rise and fall. If it were other than the aggregates, it would not have the marks of the aggregates.",
+     "cmp": [
+      {
+       "w": "ātma-parīkṣā",
+       "note": "梵文品名是「观察自我」，英文照梵文；罗什题作「观法品」，重点不同。",
+       "en": "The Sanskrit title is “Examining the Self,” and the English follows it; Kumārajīva titles it 观法品 (“Examining Dharmas”), shifting the focus."
+      }
+     ]
+    },
+    {
+     "h": "7436d298",
+     "en": "And if there is no self, where would there be anything that is “mine”? With self and mine calmed down, one is free of “mine” and free of “I.”",
+     "cmp": [
+      {
+       "w": "nirmama / nirahaṃkāra",
+       "note": "「没有『我的』」「没有『我』（的执着）」。英文 free of “mine” and free of “I” 照字面；罗什改成「得无我智」，加了「智慧」。",
+       "en": "“Without ‘mine,’” “without ‘I’-making.” The English “free of ‘mine’ and free of ‘I’” is literal; Kumārajīva's 得无我智 (“attains the wisdom of no-self”) adds “wisdom.”"
+      }
+     ]
+    },
+    {
+     "h": "f4d30be3",
+     "en": "And the one free of “mine” and free of “I” is not found either. Whoever sees someone free of “mine” and free of “I” does not see.",
+     "cmp": [
+      {
+       "w": "na paśyati",
+       "note": "梵文说：连「没有我执的人」也不存在，看见这样一个人的，其实没看见。英文和白话照译；罗什却赞叹得无我智的人「是实观」「是希有」，意思几乎相反。",
+       "en": "The Sanskrit says even “the one without self-clinging” does not exist, and whoever sees such a person does not really see. The English and plain Chinese follow it; Kumārajīva instead praises the one with no-self wisdom as 实观 (“seeing truly”) and 希有 (“rare”), nearly the opposite."
+      }
+     ]
+    },
+    {
+     "h": "f05bdf3a",
+     "en": "When “mine” and “I” are exhausted, inwardly and outwardly, grasping ceases; and when it is exhausted, birth is exhausted.",
+     "cmp": [
+      {
+       "w": "upādāna / janman",
+       "note": "「执取」与「生（再投生）」。英文 grasping / birth；罗什译「受」和「身」，「受」在汉译里常指感受，容易误读。",
+       "en": "“Grasping” and “birth (rebirth).” The English has “grasping / birth”; Kumārajīva has 受 (shòu) and 身 (shēn, “body”), and 受 usually means “feeling” in Chinese translations, which invites misreading."
+      }
+     ]
+    },
+    {
+     "h": "bbed14b8",
+     "en": "Liberation comes from the exhaustion of karma and afflictions. Karma and afflictions come from conceptual thinking; that comes from conceptual proliferation; and conceptual proliferation ceases in emptiness.",
+     "cmp": [
+      {
+       "w": "vikalpa → prapañca",
+       "note": "梵文是一条链：业和烦恼来自分别（vikalpa，概念区分），分别来自戏论（prapañca）。英文 conceptual thinking → conceptual proliferation 把链条完整译出；罗什改成「业烦恼非实」，省掉了中间环节。",
+       "en": "The Sanskrit gives a chain: karma and afflictions come from vikalpa (conceptual distinctions), which come from prapañca. The English “conceptual thinking → conceptual proliferation” keeps the full chain; Kumārajīva's 业烦恼非实 (“karma and afflictions are unreal”) drops the middle links."
+      },
+      {
+       "w": "śūnyatāyām",
+       "note": "「在空性里」：可以读成「在空性中」或「靠空性」。英文 in emptiness 保留了这个两可。",
+       "en": "“In emptiness”: it can be read as “within emptiness” or “by means of emptiness.” The English “in emptiness” keeps the ambiguity."
+      }
+     ]
+    },
+    {
+     "h": "551cfe8f",
+     "en": "The Buddhas have spoken of a “self,” have taught “no-self,” and have also taught that there is neither any self nor any no-self.",
+     "cmp": [
+      {
+       "w": "prajñapitam",
+       "note": "「施设」：为了说明而安立一个名字，不等于承认它真实存在。英文 spoken of 加引号表达这一层；罗什加了「诸法实相中」这个限定。",
+       "en": "“Designated”: given a name for the sake of teaching, without granting that it really exists. The English “spoken of” with quotation marks tries to convey this; Kumārajīva adds the qualifier 诸法实相中 (“in the true reality of things”)."
+      }
+     ]
+    },
+    {
+     "h": "ffe48779",
+     "en": "What can be expressed has stopped; the range of the mind has stopped. For the true nature of things neither arises nor ceases, like nirvana.",
+     "cmp": [
+      {
+       "w": "dharmatā",
+       "note": "「法性」：事物本来的状态。英文 the true nature of things；罗什译「诸法实相」。注意这不是全书要否定的 svabhāva。",
+       "en": "Dharmatā, “the way things are.” The English says “the true nature of things”; Kumārajīva has 诸法实相 (zhūfǎ shíxiàng, “the true mark of all dharmas”). This is not the svabhāva the book keeps denying."
+      }
+     ]
+    },
+    {
+     "h": "f859f99c",
+     "en": "Everything is real; or not real; or both real and not real; or neither not real nor real. This is the Buddhas' teaching."
+    },
+    {
+     "h": "7a79535b",
+     "en": "Not known by relying on someone else, peaceful, not proliferated by conceptual proliferation, free of conceptual thinking, not many different things: this is the mark of reality.",
+     "cmp": [
+      {
+       "w": "tattva",
+       "note": "「真实、如实的样子」。英文 reality；罗什「实相」。",
+       "en": "Tattva, “thatness, how it really is.” The English says “reality”; Kumārajīva has 实相 (shíxiàng, “true mark”)."
+      }
+     ]
+    },
+    {
+     "h": "a5dec7d0",
+     "en": "Whatever comes to be in dependence on something is not that very thing, nor is it other than that. So it is neither cut off nor permanent."
+    },
+    {
+     "h": "f282aafe",
+     "en": "Not one thing, not many things; not cut off, not permanent: this is the nectar of the teaching of the Buddhas, the protectors of the world.",
+     "cmp": [
+      {
+       "w": "amṛta",
+       "note": "字面「不死」，指不死的甘露。英文 nectar、中文「甘露」都丢了「不死」的意思。",
+       "en": "Amṛta literally means “deathless,” the nectar of immortality. The English “nectar” and the Chinese 甘露 (gānlù, “sweet dew”) both lose the sense of “deathless.”"
+      }
+     ]
+    },
+    {
+     "h": "0981e02b",
+     "en": "When fully awakened Buddhas do not appear and the disciples have died out, the knowledge of the solitary Buddhas arises from seclusion.",
+     "cmp": [
+      {
+       "w": "śrāvakāṇāṃ kṣaye",
+       "note": "「声闻弟子消失了」。英文和白话照译；罗什译成「佛法已灭尽」。",
+       "en": "“When the disciples have died out.” The English and plain Chinese follow it; Kumārajīva writes 佛法已灭尽 (“when the Buddha's teaching has died out”)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 19 · Examining Time (Kālaparīkṣā)",
+   "verses": [
+    {
+     "h": "ccb98ecf",
+     "en": "If the present and the future depend on the past, then the present and the future would be in past time."
+    },
+    {
+     "h": "0299cb8b",
+     "en": "And if the present and the future are not there, how could the present and the future depend on it?"
+    },
+    {
+     "h": "f386cc2f",
+     "en": "But without depending on the past, the two cannot be established. So present and future time do not exist."
+    },
+    {
+     "h": "318b8a52",
+     "en": "By this same method the remaining two, taken in turn, should be understood, as should higher, lower and middle, and oneness and the rest.",
+     "cmp": [
+      {
+       "w": "lakṣayet",
+       "note": "「也该这样看」。英文 should be understood 照字面；罗什直接下结论「是等法皆无」（都没有）。",
+       "en": "“Should be understood this way.” The English is literal; Kumārajīva jumps to the conclusion 是等法皆无 (“these things all do not exist”)."
+      }
+     ]
+    },
+    {
+     "h": "e22787bb",
+     "en": "Time that does not stay put cannot be grasped; time that stays put does not exist. And how can time that is not grasped be designated?"
+    },
+    {
+     "h": "1343f515",
+     "en": "If time depends on things, where is time apart from things? But no thing exists at all, so where will time be?"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 20 · Examining the Assembly of Conditions (Sāmagrīparīkṣā)",
+   "verses": [
+    {
+     "h": "70241ea8",
+     "en": "If the effect is born from the assembly of a cause and conditions, and the effect is already in the assembly, how is it born from the assembly?",
+     "cmp": [
+      {
+       "w": "sāmagrī",
+       "note": "「聚合、凑齐」：因和条件凑在一起。英文 assembly；罗什译「和合」，品名改成「观因果品」。",
+       "en": "Sāmagrī, “coming together, completeness”: the cause and conditions all assembled. The English says “assembly”; Kumārajīva renders it 和合 (héhé, “combination”) and titles the chapter 观因果品 (“Examining Cause and Effect”)."
+      }
+     ]
+    },
+    {
+     "h": "79ac4aea",
+     "en": "If the effect is born from the assembly of a cause and conditions, and the effect is not in the assembly, how is it born from the assembly?"
+    },
+    {
+     "h": "d0482524",
+     "en": "If the effect is in the assembly of a cause and conditions, surely it would be perceived in the assembly. But it is not perceived in the assembly."
+    },
+    {
+     "h": "cba39cca",
+     "en": "If the effect is not in the assembly of a cause and conditions, then causes and conditions would be the same as non-causes and non-conditions."
+    },
+    {
+     "h": "3ab74082",
+     "en": "If the cause, having given the effect its cause, then ceases, the cause would have two selves: the one given and the one that ceased."
+    },
+    {
+     "h": "65a5aee1",
+     "en": "If the cause ceases without giving the effect its cause, then the effect born after the cause has ceased would be without a cause."
+    },
+    {
+     "h": "f0d030c7",
+     "en": "If the effect appeared at the same time as the assembly, it would follow that what produces and what is produced exist at one time."
+    },
+    {
+     "h": "4b3604b7",
+     "en": "If the effect appeared before the assembly, the effect would be free of cause and conditions — it would be without a cause."
+    },
+    {
+     "h": "864b7a43",
+     "en": "If the effect comes when the cause has ceased, the cause would transfer into the effect, and it would follow that a cause already born is born again."
+    },
+    {
+     "h": "3435ad72",
+     "en": "How could what has ceased and disappeared produce an arisen effect? And how could a cause, even while it remains, produce an effect when it is enveloped by it?"
+    },
+    {
+     "h": "10424480",
+     "en": "And if it is not enveloped by the effect, which effect would it produce? For a cause does not produce an effect whether it has seen it or not.",
+     "cmp": [
+      {
+       "w": "avṛtaḥ",
+       "note": "「没有被（果）覆盖」。英文照译；罗什「遍有果」意思不同，可能把 vṛta「覆盖」理解成「遍及」。",
+       "en": "“Not enveloped (by the effect).” The English follows it; Kumārajīva's 遍有果 (“the effect is everywhere in it”) means something else, perhaps taking vṛta, “covered,” as “pervaded.”"
+      }
+     ]
+    },
+    {
+     "h": "fb858930",
+     "en": "A past effect can never meet with a past cause, an unborn one, or a born one.",
+     "cmp": [
+      {
+       "w": "saṃgati",
+       "note": "「接触、相会」，和品名 sāmagrī「聚合」不是同一个词。英文分别用 meet / assembly；罗什都译「和合」，又把这三颂里因和果的位置对调了。",
+       "en": "“Meeting, contact,” not the same word as sāmagrī, “assembly,” in the title. The English uses “meet” and “assembly” respectively; Kumārajīva uses 和合 for both, and in these three verses swaps the places of cause and effect."
+      }
+     ]
+    },
+    {
+     "h": "d8bc566e",
+     "en": "A born effect can never meet with an unborn cause, a past one, or a born one."
+    },
+    {
+     "h": "51cf15a8",
+     "en": "An unborn effect can never meet with a born cause, an unborn one, or one that has perished."
+    },
+    {
+     "h": "45c1a353",
+     "en": "If there is no meeting, how does the cause produce the effect? And if there is a meeting, how does the cause produce the effect?"
+    },
+    {
+     "h": "6a395291",
+     "en": "If the cause is empty of the effect, how does it produce the effect? If the cause is not empty of the effect, how does it produce the effect?",
+     "cmp": [
+      {
+       "w": "phalena śūnya",
+       "note": "这里的 śūnya 是日常用法「（里面）没有某样东西」：因里没有果。英文 empty of the effect 照字面，和全书讲的 emptiness 有联系又不完全一样。",
+       "en": "Here śūnya is used in its everyday sense, “lacking something inside”: the cause does not contain the effect. The English “empty of the effect” is literal; it is related to, but not quite the same as, the book's “emptiness.”"
+      }
+     ]
+    },
+    {
+     "h": "c5d87804",
+     "en": "A non-empty effect will not arise; what is non-empty will not cease. That non-empty thing will be unceasing and unarisen."
+    },
+    {
+     "h": "c0bb5e55",
+     "en": "How will something empty arise? How will something empty cease? It follows that the empty too is unceasing and unarisen."
+    },
+    {
+     "h": "367b5b6f",
+     "en": "It never makes sense for cause and effect to be one. It never makes sense for cause and effect to be different."
+    },
+    {
+     "h": "632bb82c",
+     "en": "If cause and effect were one, producer and produced would be one. If cause and effect were separate, a cause would be the same as a non-cause."
+    },
+    {
+     "h": "070be72a",
+     "en": "If the effect really existed by own-nature, what would the cause produce? If the effect did not exist by own-nature, what would the cause produce?"
+    },
+    {
+     "h": "88d202ec",
+     "en": "Something that is not producing cannot be a cause. And if being a cause makes no sense, whose effect will the effect be?"
+    },
+    {
+     "h": "eda4bf96",
+     "en": "This assembly of causes and conditions does not produce itself by itself. How could it produce an effect?"
+    },
+    {
+     "h": "5b088d69",
+     "en": "So the effect is not made by the assembly, nor made by a non-assembly. Without an effect, where is the assembly of conditions?"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 21 · Examining Coming to Be and Passing Away (Saṃbhavavibhavaparīkṣā)",
+   "verses": [
+    {
+     "h": "7406b6db",
+     "en": "Passing away does not exist, whether apart from coming to be or together with it. Coming to be does not exist, whether apart from passing away or together with it.",
+     "cmp": [
+      {
+       "w": "saṃbhava / vibhava",
+       "note": "「出现、生起」与「消散、消失」，两词同根，只差前缀。英文 coming to be / passing away 保住了成对的感觉；罗什「成 / 坏」。",
+       "en": "Saṃbhava, “coming into being,” and vibhava, “dissolving, disappearing”: the same root with different prefixes. The English “coming to be / passing away” keeps the pairing; Kumārajīva has 成 / 坏 (chéng / huài, “forming / breaking”)."
+      }
+     ]
+    },
+    {
+     "h": "3a755eb1",
+     "en": "How could there be passing away without coming to be? That would be like death without birth. There is no passing away without coming to be."
+    },
+    {
+     "h": "0d7cbf3e",
+     "en": "How could passing away exist together with coming to be? Birth and death do not happen at the same time."
+    },
+    {
+     "h": "7a247bca",
+     "en": "How could there be coming to be without passing away? For impermanence is never absent from things."
+    },
+    {
+     "h": "350d8e6b",
+     "en": "How could coming to be exist together with passing away? Birth and death do not happen at the same time.",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "这一颂和第 3 颂几乎一样，只是对调了两词。罗什本没有这一颂。英文照梵本译出。",
+       "en": "This verse is almost identical to verse 3 with the two terms swapped. Kumārajīva's version lacks it; the English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "af4bd016",
+     "en": "Two things that cannot be established either together or apart from each other — how on earth can they be established at all?",
+     "cmp": [
+      {
+       "w": "siddhi",
+       "note": "「成立、站得住」，是论证用语，和品名的「生成」无关。英文用 established，和 coming to be 分开；罗什都用「成」字，两层意思混了。",
+       "en": "Siddhi, “being established, holding up,” is a term of argument, unrelated to “coming to be” in the title. The English keeps them apart with “established”; Kumārajīva uses 成 (chéng) for both, blurring them."
+      }
+     ]
+    },
+    {
+     "h": "a302d626",
+     "en": "What is wasting away has no coming to be, and what is not wasting away has no coming to be. What is wasting away has no passing away, and what is not wasting away has no passing away."
+    },
+    {
+     "h": "44079fef",
+     "en": "Coming to be and passing away do not exist without a thing. A thing does not exist without coming to be and passing away."
+    },
+    {
+     "h": "f59a9441",
+     "en": "Coming to be and passing away make no sense for what is empty. Coming to be and passing away make no sense for what is not empty."
+    },
+    {
+     "h": "5f3d1449",
+     "en": "It makes no sense that coming to be and passing away are one. It makes no sense that coming to be and passing away are different."
+    },
+    {
+     "h": "958aabf5",
+     "en": "You may think coming to be and passing away are plainly seen. But coming to be and passing away are seen out of delusion."
+    },
+    {
+     "h": "e6f33419",
+     "en": "An existent thing is not born from an existent thing; an existent thing is not born from a nonexistent one. A nonexistent thing is not born from a nonexistent one; a nonexistent thing is not born from an existent one.",
+     "cmp": [
+      {
+       "w": "bhāva / abhāva",
+       "note": "「存在的东西 / 不存在」。英文 existent / nonexistent thing 照译；罗什「法 / 非法」容易和「正法 / 非法」（对错）混淆。",
+       "en": "“Existent thing / nonexistence.” The English follows it; Kumārajīva's 法 / 非法 (fǎ / fēifǎ) is easily confused with “right / wrong Dharma.”"
+      }
+     ]
+    },
+    {
+     "h": "261efdef",
+     "en": "An existent thing is not born from itself, nor from something else, nor from itself and something else together. From where is it born?"
+    },
+    {
+     "h": "21be50bc",
+     "en": "For one who accepts existent things, the views of permanence and annihilation follow, since such a thing would have to be either permanent or impermanent."
+    },
+    {
+     "h": "6e55585a",
+     "en": "[An objector:] For one who accepts existent things there is neither annihilation nor permanence, because becoming is the continuum of the rising and falling of effects and causes.",
+     "cmp": [
+      {
+       "w": "bhava",
+       "note": "bhava「有、存在、生命的延续」，和 bhāva「存在的东西」只差一个长音。英文把 bhava 译成 becoming，跟 existent thing 分开。这一颂是对方的反驳，梵文没有标记，英文加了 [An objector]。",
+       "en": "Bhava, “becoming, the ongoing process of life,” differs from bhāva, “existent thing,” only by a vowel length. The English renders bhava as “becoming” to keep it apart. This verse is the opponent's rejoinder, unmarked in the Sanskrit; the English adds [An objector]."
+      }
+     ]
+    },
+    {
+     "h": "7cc72608",
+     "en": "If becoming is the continuum of the rising and falling of effects and causes, then since what has fallen away does not arise again, the cause would be cut off."
+    },
+    {
+     "h": "7b03e2c1",
+     "en": "For what exists by own-nature, it makes no sense to become nonexistent. And at the time of nirvana there would be annihilation, since the stream of becoming has come to rest."
+    },
+    {
+     "h": "64d06b7c",
+     "en": "It makes no sense that the first becoming begins when the last has ceased. Nor does it make sense that the first begins when the last has not ceased.",
+     "cmp": [
+      {
+       "w": "carama / prathama",
+       "note": "「最后的有」与「最初的有」：这一世的最后一刻和下一世的第一刻。英文 the last / the first 照字面，读者需要知道这是在讲投生。",
+       "en": "“The last becoming” and “the first becoming”: the last moment of this life and the first moment of the next. The English “the last / the first” is literal; readers should know this is about rebirth."
+      }
+     ]
+    },
+    {
+     "h": "12e4dd55",
+     "en": "If the first is born while the last is ceasing, then one would be ceasing and another would be arising."
+    },
+    {
+     "h": "4f8a5574",
+     "en": "And if it makes no sense that what is ceasing and what is arising are separate, then one would be born in the very aggregates in which one is dying at that same moment.",
+     "cmp": [
+      {
+       "w": "(meaning unclear)",
+       "note": "梵文前半句很简略，主语和省略的成分不确定。英文和白话各补了一种读法，罗什的「生灭一时」与白话理解相同；英文的补法是「正在灭的和正在生的是分开的」，结论都一样：人在死去的同一组蕴里出生。",
+       "en": "The first line is very terse, and the subject and what is left out are uncertain. The English and plain Chinese each fill it in; the plain Chinese, like Kumārajīva's 生灭一时 (“arising and ceasing at one time”), supplies “simultaneous,” while the English supplies “separate.” Both reach the same conclusion: one would be born in the same aggregates one dies in."
+      }
+     ]
+    },
+    {
+     "h": "09c75857",
+     "en": "So in none of the three times does the stream of becoming make sense. And what does not exist in any of the three times — how can it be a stream of becoming?"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 22 · Examining the Tathagata (Tathāgataparīkṣā)",
+   "verses": [
+    {
+     "h": "70ecccbc",
+     "en": "The Tathagata is not the aggregates, nor other than the aggregates; the aggregates are not in him, nor is he in them; nor does he possess the aggregates. Then which one here is the Tathagata?",
+     "cmp": [
+      {
+       "w": "tathāgata",
+       "note": "佛的称号，可以拆成 tathā-gata「如此而去的」或 tathā-āgata「如此而来的」。英文保留原词 Tathagata（全书不加变音符号），中文「如来」只取了「来」这一种拆法。",
+       "en": "A title of the Buddha that can be split as tathā-gata, “thus gone,” or tathā-āgata, “thus come.” The English keeps the word “Tathagata” (without diacritics throughout); the Chinese 如来 (rúlái, “thus come”) takes only the “come” reading."
+      },
+      {
+       "w": "pañcadhā (five ways)",
+       "note": "这就是第 16 品第 2 颂说的「五种方式」：是蕴、异于蕴、蕴在他里、他在蕴里、拥有蕴。罗什压成「非阴不离阴，此彼不相在」，又把「不同」说成「不离」。",
+       "en": "These are the “five ways” mentioned in chapter 16, verse 2: being the aggregates, being other than them, having them in him, being in them, possessing them. Kumārajīva compresses them, and renders “not other than” as 不离 (bù lí, “not apart from”)."
+      }
+     ]
+    },
+    {
+     "h": "e96cb27f",
+     "en": "If the Buddha exists in dependence on the aggregates, he does not exist by own-nature. And what does not exist by own-nature — how could it exist by other-nature?"
+    },
+    {
+     "h": "3545d7e2",
+     "en": "Whatever exists in dependence on other-nature can rightly be called selfless. And how could what is selfless be the Tathagata?"
+    },
+    {
+     "h": "22e2cbf6",
+     "en": "If there is no own-nature, how could there be other-nature? Apart from own-nature and other-nature, who is the Tathagata?"
+    },
+    {
+     "h": "f2698e38",
+     "en": "If there were some Tathagata without depending on the aggregates, he would now take them up, and having taken them up, he would then exist.",
+     "cmp": [
+      {
+       "w": "upādāya / upādāna",
+       "note": "「依靠、取着」：和第 8、16、18 品的「执取」是同一个词。这一品英文译 depend on / take up / what is taken up，好让「如来依靠五蕴」读得通；读者要知道它和 grasping 是同一个梵文词。",
+       "en": "“Depending on, taking up”: the same word as “grasping” in chapters 8, 16 and 18. In this chapter the English uses “depend on / take up / what is taken up” so that “the Tathagata depends on the aggregates” reads naturally; readers should know it is the same Sanskrit word as “grasping.”"
+      }
+     ]
+    },
+    {
+     "h": "123d7c42",
+     "en": "But without depending on the aggregates there is no Tathagata at all. And how will what does not exist without depending take anything up?"
+    },
+    {
+     "h": "2e03c5cb",
+     "en": "There is no taking up without something taken up. And there is in no way a Tathagata without taking up.",
+     "cmp": [
+      {
+       "w": "upādāna",
+       "note": "这里 upādāna 可以指「依靠的动作」，也可以指「被依靠的东西」。英文 taking up / something taken up 把两义拆开写；梵文是一个词。",
+       "en": "Here upādāna can mean the act of taking up or the thing taken up. The English separates them as “taking up / something taken up”; the Sanskrit uses one word."
+      }
+     ]
+    },
+    {
+     "h": "b10908ec",
+     "en": "He who is not found as the same or as different, when sought in the five ways — how is that Tathagata designated by what he takes up?",
+     "cmp": [
+      {
+       "w": "prajñapyate",
+       "note": "「被施设、被称呼」：能不能凭五蕴给如来安一个名字。英文 designated；罗什改成「受中有」，问的是有没有，少了「安名」这一层。",
+       "en": "“Is designated, is named”: can the Tathagata be given a name on the basis of the aggregates? The English says “designated”; Kumārajīva's 受中有 (“is he present in what is taken up?”) asks about existence and loses the naming."
+      }
+     ]
+    },
+    {
+     "h": "9060f7e5",
+     "en": "And this that is taken up does not exist by own-nature. And what does not exist by own-nature — how could it exist by other-nature?"
+    },
+    {
+     "h": "5348a9dc",
+     "en": "So what is taken up and the one who takes up are empty in every way. How can an empty Tathagata be designated by something empty?",
+     "cmp": [
+      {
+       "w": "(meaning unclear)",
+       "note": "后半句可以读成反问（说不出来），也可以读成「正是这样被称说」。英文和罗什都作反问。",
+       "en": "The second line can be read as a rhetorical question (he cannot be designated) or as “that is exactly how he is designated.” The English, like Kumārajīva, takes it as a question."
+      }
+     ]
+    },
+    {
+     "h": "117460fd",
+     "en": "One should not say “empty,” nor “not empty,” nor “both,” nor “neither.” But they are spoken for the sake of designation.",
+     "cmp": [
+      {
+       "w": "prajñapti",
+       "note": "「施设」：为了说明而方便安立的名称。英文全书译 designation；罗什「假名」的「假」是「借来用」，不是「虚假」。",
+       "en": "Prajñapti, a name put in place for the sake of communication. Throughout, the English says “designation”; in Kumārajīva's 假名 (jiǎmíng), 假 means “borrowed,” not “fake.”"
+      }
+     ]
+    },
+    {
+     "h": "245f038f",
+     "en": "How could the four — permanent, impermanent and so on — apply to this peaceful one? How could the four — finite, infinite and so on — apply to this peaceful one?",
+     "cmp": [
+      {
+       "w": "catuṣṭaya",
+       "note": "「四句」：是、不是、又是又不是、既不是是也不是不是。这里指佛不回答的那些问题：世界常不常、有没有边。英文 the four 照字面；罗什加了「相」。",
+       "en": "“The four”: is, is not, both, neither. Here they are the questions the Buddha left unanswered: is the world permanent, is it finite. The English “the four” is literal; Kumārajīva adds 相 (xiàng, “mark”)."
+      }
+     ]
+    },
+    {
+     "h": "8694f5f2",
+     "en": "Whoever has seized the heavy grasp “the Tathagata exists” will imagine “he does not exist,” conceptualizing even about one who has gone to nirvana.",
+     "cmp": [
+      {
+       "w": "ghanagrāha",
+       "note": "「厚重的抓取」。英文 heavy grasp 照字面；罗什译「邪见深厚」，又漏了「先执著有」这个环节。",
+       "en": "“A dense grasp.” The English “heavy grasp” is literal; Kumārajīva's 邪见深厚 (“deep in wrong views”) also drops the step “first clinging to ‘he exists.’”"
+      }
+     ]
+    },
+    {
+     "h": "21667078",
+     "en": "Since he is empty by own-nature, the thought that the Buddha exists or does not exist after his cessation makes no sense at all."
+    },
+    {
+     "h": "a10d7d1c",
+     "en": "Those who proliferate concepts about the Buddha, who is beyond conceptual proliferation and imperishable — all of them, struck down by conceptual proliferation, do not see the Tathagata.",
+     "cmp": [
+      {
+       "w": "avyaya / prapañcahata",
+       "note": "avyaya「不会消失的」，罗什没有译；「被戏论所伤」，罗什加了「破慧眼」的比喻。英文两处都照梵文。",
+       "en": "Avyaya, “imperishable,” is left out by Kumārajīva; for “struck down by conceptual proliferation” he adds the image 破慧眼 (“destroys the eye of wisdom”). The English follows the Sanskrit in both places."
+      }
+     ]
+    },
+    {
+     "h": "c63f8a42",
+     "en": "Whatever nature the Tathagata has, that is the nature of this world. The Tathagata has no own-nature; this world has no own-nature."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 23 · Examining the Distortions (Viparyāsaparīkṣā)",
+   "verses": [
+    {
+     "h": "7d7bc585",
+     "en": "Desire, hatred and delusion are said to spring from mental construction, for they arise in dependence on the attractive, the unattractive, and the distortions.",
+     "cmp": [
+      {
+       "w": "śubha / aśubha",
+       "note": "「美好、可爱」与「不美好、可厌」。英文 attractive / unattractive，白话「美好 / 不美好」；罗什「净 / 不净」偏向干净与污秽。",
+       "en": "“Lovely, pleasing” and “unlovely, repulsive.” The English says “attractive / unattractive,” the plain Chinese 美好 / 不美好 (“lovely / not lovely”); Kumārajīva's 净 / 不净 (jìng / bújìng, “pure / impure”) leans toward clean versus filthy."
+      },
+      {
+       "w": "viparyāsa",
+       "note": "「颠倒、看反了」：把无常当常、把苦当乐之类。英文全书译 distortions；中文「颠倒」（倒过来）的意象更鲜明。",
+       "en": "Viparyāsa, “inversion, getting it backwards”: taking the impermanent as permanent, suffering as pleasure, and so on. Throughout, the English says “distortions”; the Chinese 颠倒 (diāndǎo, “upside down”) has the more vivid image."
+      }
+     ]
+    },
+    {
+     "h": "8dd31f5a",
+     "en": "What arises in dependence on the attractive, the unattractive and the distortions does not exist by own-nature. So the afflictions are not real."
+    },
+    {
+     "h": "cb8e67bb",
+     "en": "The existence or nonexistence of the self cannot be established in any way. Without it, how can the existence or nonexistence of the afflictions be established?"
+    },
+    {
+     "h": "7dd029a5",
+     "en": "For these afflictions belong to someone, and that someone is not established. Or if they exist without anyone, they belong to no one."
+    },
+    {
+     "h": "663c54e5",
+     "en": "Like the view of one's own body as self, the afflictions are not in the afflicted one in any of the five ways. Like the view of one's own body as self, the afflicted one is not in the afflictions in any of the five ways either.",
+     "cmp": [
+      {
+       "w": "svakāyadṛṣṭi",
+       "note": "「身见」：把身心五蕴当成自我的看法。英文 the view of one's own body as self 把意思展开了；罗什又只译了一个方向，漏了「在烦恼里也找不到被染污者」。",
+       "en": "“The view of one's own body (as self)”: taking the five aggregates to be a self. The English spells this out; Kumārajīva translates only one direction and drops “the afflicted one is not found in the afflictions.”"
+      }
+     ]
+    },
+    {
+     "h": "bff75ccc",
+     "en": "The attractive, the unattractive and the distortions do not exist by own-nature. So in dependence on which attractive, unattractive and distortions do the afflictions arise?"
+    },
+    {
+     "h": "03865a61",
+     "en": "Form, sound, taste, touch, smell and mental objects — these six are imagined as the basis of desire, hatred and delusion.",
+     "cmp": [
+      {
+       "w": "vikalpyate",
+       "note": "「被分别、被想象成」：这六种只是被心想成了三毒的对象。英文 imagined as 照译；罗什直接说「是三毒根本」，少了「被想象」这一层。",
+       "en": "“Are imagined as”: these six are only constructed by the mind into objects of the three poisons. The English keeps “imagined”; Kumārajīva says flatly they “are the root of the three poisons,” losing that layer."
+      }
+     ]
+    },
+    {
+     "h": "acfe2fff",
+     "en": "Form, sound, taste, touch, smell and mental objects are nothing but things like a city of the gandharvas, like a mirage, like a dream.",
+     "cmp": [
+      {
+       "w": "kevalāḥ",
+       "note": "「仅仅是」。梵文这里没有「空」字。英文 nothing but 照译；罗什加了「皆空」。",
+       "en": "“Merely.” There is no word “empty” here. The English “nothing but” follows the Sanskrit; Kumārajīva adds 皆空 (jiē kōng, “all empty”)."
+      }
+     ]
+    },
+    {
+     "h": "216fc346",
+     "en": "How could there be anything unattractive or attractive in them, when they are like a magically conjured person, like a reflection?"
+    },
+    {
+     "h": "488dd9cb",
+     "en": "There is no unattractive that we could designate without depending on the attractive. And the attractive depends on that; so the attractive makes no sense."
+    },
+    {
+     "h": "6a6b0ad2",
+     "en": "There is no attractive that we could designate without depending on the unattractive. And the unattractive depends on that; so the unattractive does not exist."
+    },
+    {
+     "h": "34cb4fee",
+     "en": "If the attractive does not exist, where will desire come from? If the unattractive does not exist, where will hatred come from?"
+    },
+    {
+     "h": "8dc3fff1",
+     "en": "If grasping the impermanent as “permanent” is a distortion, then since in the empty there is not even anything impermanent, how is that grasping a distortion?",
+     "cmp": [
+      {
+       "w": "nānityaṃ vidyate śūnye",
+       "note": "「空里面连无常都没有」。英文 not even anything impermanent 照译；罗什写成「空中无有常」（空中没有常），意思不同。",
+       "en": "“In the empty there is nothing impermanent.” The English “not even anything impermanent” follows it; Kumārajīva writes 空中无有常 (“in emptiness there is nothing permanent”), a different point."
+      }
+     ]
+    },
+    {
+     "h": "bb25344b",
+     "en": "If grasping the impermanent as “permanent” is a distortion, why isn't grasping it as “impermanent” a distortion too, in the empty?"
+    },
+    {
+     "h": "426306d1",
+     "en": "That by which one grasps, the grasping, the grasper and what is grasped — all are at peace. So grasping does not exist.",
+     "cmp": [
+      {
+       "w": "grāha",
+       "note": "这一组颂用的 grāha「抓、执著」和全书的 upādāna 是不同的词。英文都用 grasp 一族，读者不必分；严格说 grāha 更偏「抓住一个看法」。",
+       "en": "The grāha (“seizing, clinging”) in these verses is a different word from the book's upādāna. The English uses “grasp” for both and the reader need not distinguish them, though strictly grāha leans toward seizing on a view."
+      }
+     ]
+    },
+    {
+     "h": "0af6898f",
+     "en": "And if there is no grasping, false or true, who could have a distortion? Who could be free of distortion?"
+    },
+    {
+     "h": "50b70ded",
+     "en": "Distortions do not arise in one who is already distorted. Nor do distortions arise in one who is not distorted."
+    },
+    {
+     "h": "2d82777b",
+     "en": "Distortions do not arise in one who is in the middle of being distorted. Think it over for yourself: in whom do distortions arise?"
+    },
+    {
+     "h": "fe0f0035",
+     "en": "How can distortions that have not arisen exist? And if distortions are unborn, where is anyone caught in distortion?"
+    },
+    {
+     "h": "5f8b6095",
+     "en": "A thing is not born from itself, nor from something else, nor from both itself and something else. So where is anyone caught in distortion?",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "这一颂把第 1 品「不自生、不他生、不共生」搬到颠倒上。罗什本没有这一颂；英文照梵本译出。",
+       "en": "This verse applies chapter 1's “not from itself, not from another, not from both” to the distortions. Kumārajīva's version lacks it; the English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "bb8dc65a",
+     "en": "If self, purity, permanence and happiness really existed, then self, purity, permanence and happiness would not be distortions."
+    },
+    {
+     "h": "7b4b5fc2",
+     "en": "If self, purity, permanence and happiness do not exist, then no-self, impurity, impermanence and suffering do not exist either.",
+     "cmp": [
+      {
+       "w": "anātman",
+       "note": "梵文列了无我、不净、无常、苦四样。英文四样都译；罗什漏了「无我」。",
+       "en": "The Sanskrit lists four: no-self, impurity, impermanence, suffering. The English keeps all four; Kumārajīva drops “no-self.”"
+      }
+     ]
+    },
+    {
+     "h": "5c3e223e",
+     "en": "In this way, ignorance ceases through the ceasing of the distortions. When ignorance has ceased, volitional formations and the rest cease."
+    },
+    {
+     "h": "8d5a8dc7",
+     "en": "If someone's afflictions really existed by own-nature, how could they be abandoned? Who can abandon an own-nature?"
+    },
+    {
+     "h": "1bce94bc",
+     "en": "If someone's afflictions did not exist by own-nature, how could they be abandoned? Who can abandon what does not exist?"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 24 · Examining the Noble Truths (Āryasatyaparīkṣā)",
+   "verses": [
+    {
+     "h": "2628711c",
+     "en": "[An objector:] If all this is empty, there is no arising and no passing away. Then for you it follows that the four noble truths do not exist.",
+     "cmp": [
+      {
+       "w": "(the opponent's voice)",
+       "note": "第 1 到 6 颂是反对者的质问，第 7 颂开头「对此我们回答」才分出两边。英文在这里加了 [An objector]；罗什本没有提示。",
+       "en": "Verses 1–6 are the opponent's challenge; “To this we reply” at the start of verse 7 marks the turn. The English adds [An objector] here; Kumārajīva's version gives no signal."
+      },
+      {
+       "w": "āryasatya",
+       "note": "「圣者的真理」：苦、苦的来源、苦的止息、止息苦的道路。英文 the four noble truths 是通行译法，「noble」原指「圣者的」，不是「高贵的」。",
+       "en": "“Truths of the noble ones”: suffering, its origin, its cessation, and the path to its cessation. The English “the four noble truths” is the standard rendering; “noble” here means “belonging to the noble (awakened) ones,” not “aristocratic.”"
+      }
+     ]
+    },
+    {
+     "h": "1cb24326",
+     "en": "Full understanding, abandoning, cultivating and realizing make no sense, since the four noble truths do not exist."
+    },
+    {
+     "h": "d48b4e30",
+     "en": "Since they do not exist, the four noble fruits do not exist either. With no fruits, there are no people established in the fruits, and no people on the way to them.",
+     "cmp": [
+      {
+       "w": "āryaphala",
+       "note": "声闻修行的四个果位：入流、一来、不还、阿罗汉。英文 the four noble fruits 照字面，没有展开名目。",
+       "en": "The four stages of a disciple's practice: stream-entry, once-returning, non-returning, and arhatship. The English “the four noble fruits” is literal and does not list them."
+      }
+     ]
+    },
+    {
+     "h": "79083cbf",
+     "en": "If those eight kinds of persons do not exist, there is no Sangha. And since the noble truths do not exist, the true Dharma does not exist either.",
+     "cmp": [
+      {
+       "w": "saṃgha / saddharma",
+       "note": "梵文只说「僧团」「正法」。英文 Sangha / the true Dharma 照译；罗什加了「宝」字，先点出三宝。",
+       "en": "The Sanskrit just says “community” and “true Dharma.” The English has “Sangha / the true Dharma”; Kumārajīva adds 宝 (bǎo, “jewel”), pointing ahead to the Three Jewels."
+      }
+     ]
+    },
+    {
+     "h": "0eb32bc6",
+     "en": "And if there is no Dharma and no Sangha, how will there be a Buddha? Speaking this way, you undermine all Three Jewels."
+    },
+    {
+     "h": "48a7cac9",
+     "en": "You undermine emptiness, the real existence of fruits, non-Dharma and Dharma, and all the everyday conventions of the world."
+    },
+    {
+     "h": "209e80d1",
+     "en": "To this we reply: you do not understand the purpose of emptiness, emptiness itself, or the meaning of emptiness. That is why you are troubled this way.",
+     "cmp": [
+      {
+       "w": "prayojana / śūnyatā / śūnyatārtha",
+       "note": "三样：空性的用处、空性本身、空性的意思。英文三样都分开译；罗什译「空空因缘」与「空义」，「用处」变成了「因缘」。",
+       "en": "Three things: the purpose of emptiness, emptiness itself, and its meaning. The English keeps all three apart; Kumārajīva has 空空因缘 and 空义, turning “purpose” into “the reason for it.”"
+      }
+     ]
+    },
+    {
+     "h": "f6d3988b",
+     "en": "The Buddhas' teaching of the Dharma relies on two truths: the conventional truth of the world, and the truth in the ultimate sense.",
+     "cmp": [
+      {
+       "w": "saṃvṛti / paramārtha",
+       "note": "saṃvṛti 原义「遮盖」，也有「约定、共识」的意思；英文全书译 conventional truth（中文「世俗谛」），只取了「约定」一义。paramārtha「最高的意义」，英文 ultimate（中文「胜义谛 / 第一义谛」）。",
+       "en": "Saṃvṛti originally means “covering,” and also “agreement, convention.” Throughout, the English says “conventional truth” (Chinese 世俗谛, shìsú dì), keeping only the “convention” sense. Paramārtha, “the highest meaning,” is “ultimate” (Chinese 胜义谛 / 第一义谛)."
+      }
+     ]
+    },
+    {
+     "h": "a2991f68",
+     "en": "Those who do not understand the distinction between these two truths do not understand the deep reality in the Buddha's teaching."
+    },
+    {
+     "h": "115a1dd8",
+     "en": "Without relying on everyday language, the ultimate cannot be taught. Without arriving at the ultimate, nirvana is not attained.",
+     "cmp": [
+      {
+       "w": "vyavahāra",
+       "note": "这里用的是 vyavahāra「日常言说」，不是上一颂的 saṃvṛti。英文换成 everyday language；罗什都译「俗谛」。罗什还把「第一义无法被宣说」改成「得不到第一义」。",
+       "en": "This verse uses vyavahāra, “everyday usage,” not saṃvṛti from verse 8. The English switches to “everyday language”; Kumārajīva uses 俗谛 for both. He also turns “the ultimate cannot be taught” into “the ultimate cannot be attained.”"
+      }
+     ]
+    },
+    {
+     "h": "3fd94082",
+     "en": "Emptiness wrongly seen ruins a person of weak understanding, like a snake grabbed the wrong way or a spell cast the wrong way."
+    },
+    {
+     "h": "d96262db",
+     "en": "That is why the Sage's mind turned back from teaching, knowing how hard this Dharma is for the dull to fathom.",
+     "cmp": [
+      {
+       "w": "pratyudāvṛttaṃ cittam",
+       "note": "「心转回去了」：指佛成道后起初不愿说法的传说。英文 mind turned back 照字面；罗什「不欲说」。",
+       "en": "“The mind turned back”: the story that after his awakening the Buddha at first hesitated to teach. The English “mind turned back” is literal; Kumārajīva has 不欲说 (“did not wish to teach”)."
+      }
+     ]
+    },
+    {
+     "h": "ae32025d",
+     "en": "The fault you keep finding with emptiness is no fault that applies to us; it makes no sense for what is empty.",
+     "cmp": [
+      {
+       "w": "adhilaya",
+       "note": "字义不太确定，大致是「指责、贬低」。英文 the fault you keep finding 是一种推测；罗什理解为「你说我执著空」。",
+       "en": "The meaning of adhilaya is uncertain, roughly “censure, disparagement.” The English “the fault you keep finding” is a best guess; Kumārajīva takes it as “you say I am attached to emptiness.”"
+      }
+     ]
+    },
+    {
+     "h": "e9c9b19c",
+     "en": "For whom emptiness works, everything works. For whom emptiness does not work, nothing works."
+    },
+    {
+     "h": "21a1e646",
+     "en": "Pinning your own faults on us, you are like someone riding a horse who has forgotten the very horse he is riding."
+    },
+    {
+     "h": "262f770d",
+     "en": "If you see things as really existing by own-nature, then in that case you see things as having no causes or conditions."
+    },
+    {
+     "h": "d46e48e8",
+     "en": "You undermine effect and cause, the doer, the instrument and the act, arising and ceasing, and the fruit."
+    },
+    {
+     "h": "f45b82bb",
+     "en": "Dependent arising — that is what we call emptiness. It is a designation that depends on something, and it is the middle way itself.",
+     "cmp": [
+      {
+       "w": "yaḥ pratītyasamutpādaḥ",
+       "note": "主语是「缘起」这个道理本身。英文 Dependent arising — that is… 保住了这一点；罗什换成「众因缘生法」（因缘生出来的东西），白话「凡是缘起的」也有一点往「事物」那边偏。",
+       "en": "The subject is dependent arising as such. The English “Dependent arising — that is…” keeps this; Kumārajīva switches to 众因缘生法 (“things produced by causes and conditions”), and the plain Chinese 凡是缘起的 (“whatever arises dependently”) also leans a little toward things."
+      },
+      {
+       "w": "prajñaptir upādāya",
+       "note": "「依靠（别的东西）而安立的称呼」，「它」指空性：空性本身也只是一个借来用的名字。英文 a designation that depends on something 照译；罗什「亦为是假名」读起来像在说「因缘生法也是假名」。",
+       "en": "“A designation made in dependence,” and “it” is emptiness: emptiness itself is only a borrowed name. The English “a designation that depends on something” follows this; Kumārajīva's 亦为是假名 (“it is also a provisional name”) reads as if the things were the provisional name."
+      },
+      {
+       "w": "madhyamā pratipad",
+       "note": "「中间的道路」：不落「有」也不落「无」。英文 the middle way 是全书书名的来源。后世天台宗把罗什这一颂读成「空、假、中」三谛，梵文没有三分的结构。",
+       "en": "“The middle path”: falling into neither “exists” nor “does not exist.” The English “the middle way” is where the book's title comes from. The later Chinese Tiantai school read Kumārajīva's verse as three truths — empty, provisional, middle — a structure the Sanskrit does not have."
+      }
+     ]
+    },
+    {
+     "h": "2a69ff72",
+     "en": "Since there is no thing at all that has not arisen dependently, there is no thing at all that is not empty."
+    },
+    {
+     "h": "f0907d00",
+     "en": "If all this is not empty, there is no arising and no passing away. Then for you it follows that the four noble truths do not exist.",
+     "cmp": [
+      {
+       "w": "aśūnyam",
+       "note": "和第 1 颂只差一个字：「空」换成「不空」，把对方的质问原样还回去。英文也只改了一个词，让读者看到这个对称。",
+       "en": "This differs from verse 1 by a single word, “empty” becoming “not empty,” handing the objection straight back. The English also changes only that word so readers can see the symmetry."
+      }
+     ]
+    },
+    {
+     "h": "a60ed243",
+     "en": "How will there be suffering that has not arisen dependently? It was taught that suffering is the impermanent; and that does not exist in what has own-nature."
+    },
+    {
+     "h": "ce6920f4",
+     "en": "How could what already exists by own-nature arise all over again? So for one who rejects emptiness, there is no origin of suffering."
+    },
+    {
+     "h": "bdb67efc",
+     "en": "There is no cessation of suffering that exists by own-nature. By clinging to own-nature, you reject cessation."
+    },
+    {
+     "h": "f4e3e994",
+     "en": "If the path had own-nature, cultivating it would make no sense. But if the path is cultivated, then your own-nature does not exist.",
+     "cmp": [
+      {
+       "w": "mārga",
+       "note": "这一颂的主语是「道」。英文和白话照译；罗什开头沿用了「苦若有定性」，主语变了。",
+       "en": "The subject of this verse is the path. The English and plain Chinese follow it; Kumārajīva opens with “if suffering had a fixed nature,” carrying over the previous verses' subject."
+      }
+     ]
+    },
+    {
+     "h": "957d69ce",
+     "en": "When suffering, its origin and its cessation do not exist, where will the path lead, as the cessation of suffering?"
+    },
+    {
+     "h": "68d06128",
+     "en": "If by own-nature it is not fully understood, how could it later be fully understood? Isn't own-nature, as you say, fixed?"
+    },
+    {
+     "h": "940a38f3",
+     "en": "In the same way, for you, abandoning, realizing and cultivating, and the four fruits too, make no sense, just like full understanding."
+    },
+    {
+     "h": "85ce4ebf",
+     "en": "For one who holds on to own-nature, how could a fruit that by own-nature has not been attained ever be attained later?"
+    },
+    {
+     "h": "edfcd164",
+     "en": "With no fruits, there are no people established in the fruits, and no people on the way to them. If those eight kinds of persons do not exist, there is no Sangha."
+    },
+    {
+     "h": "8b4197f1",
+     "en": "And since the noble truths do not exist, the true Dharma does not exist either. If there is no Dharma and no Sangha, how will there be a Buddha?"
+    },
+    {
+     "h": "548fc372",
+     "en": "For you, it follows that a Buddha would exist without depending on awakening, and awakening would exist without depending on a Buddha."
+    },
+    {
+     "h": "1bde0dd4",
+     "en": "For you, one who by own-nature is not a Buddha will not attain awakening, even striving for it through the bodhisattva's practice.",
+     "cmp": [
+      {
+       "w": "abuddhaḥ svabhāvena",
+       "note": "「凭自性不是佛的人」，是自性论的推论。英文照译；罗什「先非佛性」容易让人联想到后来如来藏系统的「佛性」，那是另一个概念。",
+       "en": "“One who by own-nature is not a Buddha,” an inference from the own-nature view. The English follows it; Kumārajīva's 先非佛性 can make readers think of the later idea of “Buddha-nature,” a different concept."
+      }
+     ]
+    },
+    {
+     "h": "a617e973",
+     "en": "And no one would ever do anything in accord with Dharma or against it. What is there to be done by what is not empty? For own-nature is not something done."
+    },
+    {
+     "h": "3099712e",
+     "en": "For you, there would be fruit even without Dharma and non-Dharma, and there would be no fruit caused by Dharma and non-Dharma."
+    },
+    {
+     "h": "1f440a82",
+     "en": "Or if for you the fruit is caused by Dharma and non-Dharma, how can that fruit, arisen from Dharma and non-Dharma, be not empty?"
+    },
+    {
+     "h": "b33d942e",
+     "en": "You undermine all the everyday conventions of the world when you reject the emptiness that is dependent arising."
+    },
+    {
+     "h": "3a9959ac",
+     "en": "For one who rejects emptiness, there would be nothing to be done, action would never get started, and a doer would be one who does nothing."
+    },
+    {
+     "h": "f185f572",
+     "en": "The world would be unborn and unceasing, frozen in place, stripped of its many different states.",
+     "cmp": [
+      {
+       "w": "kūṭastha",
+       "note": "「像铁砧一样固定不动的」。英文 frozen in place，白话「凝固不动」；罗什「常住而不坏」。",
+       "en": "Kūṭastha, “fixed like an anvil.” The English says “frozen in place,” the plain Chinese 凝固不动 (“solidified, unmoving”); Kumārajīva has 常住而不坏 (“ever-abiding and indestructible”)."
+      }
+     ]
+    },
+    {
+     "h": "faa91f6c",
+     "en": "If things were not empty, there would be no attaining what has not been attained, no action that ends suffering, and no abandoning of all afflictions."
+    },
+    {
+     "h": "bba42fac",
+     "en": "Whoever sees dependent arising sees this: suffering, its origin, its cessation, and the path.",
+     "cmp": [
+      {
+       "w": "(no “sees the Buddha”)",
+       "note": "梵文没有「见佛」，也没有「经中说」。英文照梵文；罗什把佛经里「见缘起即见法，见法即见佛」一类的话带了进来。",
+       "en": "The Sanskrit has neither “sees the Buddha” nor “as the sutra says.” The English follows the Sanskrit; Kumārajīva brings in the well-known sutra line “whoever sees dependent arising sees the Dharma; whoever sees the Dharma sees the Buddha.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 25 · Examining Nirvana (Nirvāṇaparīkṣā)",
+   "verses": [
+    {
+     "h": "81792a26",
+     "en": "[An objector:] If all this is empty, there is no arising and no passing away. Then through the abandoning of what, or the ceasing of what, is nirvana supposed to happen — and for whom?",
+     "cmp": [
+      {
+       "w": "kasya",
+       "note": "梵文问「谁的涅槃」。英文 and for whom 译出了；罗什「何断何所灭」略去了「谁」。",
+       "en": "The Sanskrit asks “whose nirvana?” The English keeps “and for whom”; Kumārajīva's 何断何所灭 (“what is cut off, what ceases?”) drops the “whose.”"
+      }
+     ]
+    },
+    {
+     "h": "3fc5992b",
+     "en": "[Reply:] If all this is not empty, there is no arising and no passing away. Then through the abandoning of what, or the ceasing of what, is nirvana supposed to happen — and for whom?"
+    },
+    {
+     "h": "3867034a",
+     "en": "Not abandoned, not attained, not cut off, not permanent, not ceased, not arisen: this is called nirvana.",
+     "cmp": [
+      {
+       "w": "aprahīṇam asaṃprāptam",
+       "note": "「没有被舍弃、没有被获得」。英文两样都译；罗什「无得亦无至」都是「获得、到达」一类，漏了「没有被舍弃」。",
+       "en": "“Not abandoned, not attained.” The English keeps both; Kumārajīva's 无得亦无至 (“nothing gained, nothing reached”) are both about attaining and drop “not abandoned.”"
+      }
+     ]
+    },
+    {
+     "h": "13589eda",
+     "en": "First, nirvana is not an existent thing, or it would follow that it has the marks of aging and death. For there is no existent thing without aging and death."
+    },
+    {
+     "h": "f9649c2a",
+     "en": "And if nirvana were an existent thing, nirvana would be conditioned. For nowhere is there any existent thing that is unconditioned."
+    },
+    {
+     "h": "35808c01",
+     "en": "And if nirvana were an existent thing, how could it be without dependence? For there is no existent thing at all that is without dependence.",
+     "cmp": [
+      {
+       "w": "anupādāya",
+       "note": "「不依靠」，和「执取」同一个字根。英文 without dependence；罗什「无受」的「受」是「取」，不是「感受」。",
+       "en": "“Without depending,” from the same root as “grasping.” The English says “without dependence”; in Kumārajīva's 无受 (wú shòu), 受 means “taking,” not “feeling.”"
+      }
+     ]
+    },
+    {
+     "h": "d9f5b992",
+     "en": "If nirvana is not an existent thing, will it be a nonexistence? Where there is no existent thing, there is no nonexistence either."
+    },
+    {
+     "h": "1a250f41",
+     "en": "And if nirvana were a nonexistence, how could it be without dependence? For there is no nonexistence that exists without dependence."
+    },
+    {
+     "h": "0ab3a76b",
+     "en": "The state of coming and going, when it depends on things or is conditioned, is taught as nirvana when it does not depend and is not conditioned.",
+     "cmp": [
+      {
+       "w": "ājavaṃjavībhāva",
+       "note": "「来了又去、去了又来」的状态，指生死流转。英文 the state of coming and going 照字面；罗什「轮转生死」。",
+       "en": "“The state of coming and going, again and again”: the round of birth and death. The English “the state of coming and going” is literal; Kumārajīva has 轮转生死 (“revolving in birth and death”)."
+      },
+      {
+       "w": "(same thing, two views)",
+       "note": "梵文说同一个东西，依靠时叫轮转，不依靠时叫涅槃。英文保住了这个「同一个东西」；罗什写成执取因缘就轮转、不执取就是涅槃，变成了修行上的因果。",
+       "en": "The Sanskrit speaks of one and the same thing, called samsara when dependent and nirvana when not. The English keeps it as one thing; Kumārajīva makes it a cause-and-effect of practice: grasping conditions means samsara, not grasping means nirvana."
+      }
+     ]
+    },
+    {
+     "h": "a12dc481",
+     "en": "The Teacher spoke of abandoning both becoming and non-becoming. So it makes sense that nirvana is neither an existent thing nor a nonexistence.",
+     "cmp": [
+      {
+       "w": "bhava / vibhava",
+       "note": "「生存」与「生存的断绝」，指贪求生存和贪求断灭两种执着。英文 becoming / non-becoming，和全书 bhava 的译法一致；罗什改成「如佛经中说，断有断非有」。",
+       "en": "“Becoming” and “the end of becoming,” the two cravings for continued existence and for annihilation. The English “becoming / non-becoming” matches the book's rendering of bhava; Kumārajīva changes “the Teacher” to “as the sutras say.”"
+      }
+     ]
+    },
+    {
+     "h": "80899a23",
+     "en": "If nirvana were both a nonexistence and an existent thing, liberation would be both a nonexistence and an existent thing. That makes no sense."
+    },
+    {
+     "h": "55853c7c",
+     "en": "If nirvana were both a nonexistence and an existent thing, nirvana would not be without dependence, since both of these depend on something."
+    },
+    {
+     "h": "88d7a2bf",
+     "en": "How could nirvana be both a nonexistence and an existent thing? Nirvana is unconditioned, while existence and nonexistence are conditioned."
+    },
+    {
+     "h": "76a49708",
+     "en": "How could nirvana be both a nonexistence and an existent thing? The two cannot be in one place, like light and darkness."
+    },
+    {
+     "h": "eb27a2bf",
+     "en": "The claim “nirvana is neither a nonexistence nor an existent thing” would be established only if nonexistence and existence were established.",
+     "cmp": [
+      {
+       "w": "añjanā",
+       "note": "「表明（的说法）」，指这句话本身。英文 the claim；罗什「分别」，带出心里区分的意思，又把这一颂和下一颂对调了。",
+       "en": "Añjanā, “the statement,” the claim itself. The English says “the claim”; Kumārajīva's 分别 (fēnbié, “discriminating”) brings in mental distinction-making, and he also swaps this verse with the next."
+      }
+     ]
+    },
+    {
+     "h": "8563db04",
+     "en": "If nirvana is neither a nonexistence nor an existent thing, who could make it known that it is “neither a nonexistence nor an existent thing”?",
+     "cmp": [
+      {
+       "w": "kena ajyate",
+       "note": "「由谁表明」：谁能认知、说出这一点。英文 who could make it known；罗什「以何而分别」问的是凭什么。",
+       "en": "“By whom is it made known?” — who could know and say this. The English “who could make it known” follows it; Kumārajīva's 以何而分别 asks “by what means,” not “by whom.”"
+      }
+     ]
+    },
+    {
+     "h": "798d958c",
+     "en": "After his cessation, the Blessed One cannot be said to exist, nor not to exist, nor both, nor neither."
+    },
+    {
+     "h": "34d0916d",
+     "en": "Even while he remains alive, the Blessed One cannot be said to exist, nor not to exist, nor both, nor neither."
+    },
+    {
+     "h": "ec09cf16",
+     "en": "There is not the slightest thing that distinguishes samsara from nirvana. There is not the slightest thing that distinguishes nirvana from samsara.",
+     "cmp": [
+      {
+       "w": "saṃsāra",
+       "note": "梵文是「轮回」。英文 samsara 照译；罗什「世间」（世界）范围看起来更宽。这一颂是全书最常被引用的话之一。",
+       "en": "The Sanskrit says saṃsāra. The English keeps “samsara”; Kumārajīva's 世间 (shìjiān, “the world”) looks broader. This is one of the most often quoted verses in the book."
+      }
+     ]
+    },
+    {
+     "h": "d9af2dad",
+     "en": "The limit of nirvana is the limit of samsara. Between the two there is not even the subtlest gap.",
+     "cmp": [
+      {
+       "w": "koṭi",
+       "note": "只是「边、端」。英文 limit 照字面；罗什把涅槃那一边译成「实际」，后来在汉语佛教里常指「真实的究竟」，意思比原文重。",
+       "en": "Koṭi simply means “edge, end.” The English “limit” is literal; Kumārajīva renders nirvana's side as 实际 (shíjì), which later Chinese Buddhism often read as “ultimate reality,” heavier than the original."
+      }
+     ]
+    },
+    {
+     "h": "9e0a522b",
+     "en": "The views about what comes after cessation, about whether the world has an end, and about whether it is permanent, rest on nirvana, on the future and on the past."
+    },
+    {
+     "h": "6f2dd4bb",
+     "en": "Since all things are empty, what is endless? What has an end? What is both endless and with an end? What is neither endless nor with an end?"
+    },
+    {
+     "h": "ab297b6c",
+     "en": "What is the same? What is other? What is permanent? What is impermanent? What is both impermanent and permanent? Or what is neither?"
+    },
+    {
+     "h": "64820c3d",
+     "en": "The stilling of all apprehending, the stilling of conceptual proliferation, is peace. No Dharma was ever taught by the Buddha anywhere, to anyone.",
+     "cmp": [
+      {
+       "w": "sarvopalambhopaśama",
+       "note": "「一切把捉的止息」：心不再去抓取对象。英文 the stilling of all apprehending 照译；罗什「诸法不可得」把主语从心的活动换成了诸法，又漏了 śiva「安稳」。",
+       "en": "“The stilling of all apprehending”: the mind no longer seizes on objects. The English follows it; Kumārajīva's 诸法不可得 (“no dharma can be found”) shifts the subject from the mind's activity to things, and he drops śiva, “peace.”"
+      },
+      {
+       "w": "prapañcopaśama",
+       "note": "和第 1 品归敬颂的「戏论平息」首尾呼应。英文用同一个译法 the stilling / calming of conceptual proliferation，让读者看到这个呼应。",
+       "en": "This echoes “the calming of conceptual proliferation” in the opening homage of chapter 1. The English uses the same rendering so the reader can hear the echo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 26 · Examining the Twelve Links (Dvādaśāṅgaparīkṣā)",
+   "verses": [
+    {
+     "h": "e992252c",
+     "en": "Veiled by ignorance, one creates the three kinds of volitional formations for the sake of rebirth, and through these actions goes to a destination.",
+     "cmp": [
+      {
+       "w": "dvādaśāṅga",
+       "note": "「十二支」：缘起的十二个环节，从无明到老死。英文 the twelve links；罗什品名「十二因缘」。",
+       "en": "“The twelve limbs”: the twelve links of dependent arising, from ignorance to aging-and-death. The English says “the twelve links”; Kumārajīva's title is 十二因缘 (“the twelve causes and conditions”)."
+      },
+      {
+       "w": "gati",
+       "note": "「去处」，没说是几道。英文 a destination 照字面；罗什点明「六趣」。",
+       "en": "Gati, “destination, where one goes,” without saying how many. The English “a destination” is literal; Kumārajīva specifies 六趣 (“the six destinies”)."
+      }
+     ]
+    },
+    {
+     "h": "e138f4e9",
+     "en": "With volitional formations as condition, consciousness settles into that destination. Once consciousness has settled, name-and-form is poured in.",
+     "cmp": [
+      {
+       "w": "saṃniviśate / niṣicyate",
+       "note": "「进入、安住下来」，像种子落进土里；「被注入」，像种子注入母胎。英文 settles / poured in 照字面；罗什「着」「增长」偏到了「执着」「生长」。",
+       "en": "“Enters and settles,” like a seed landing in soil; “is poured in,” like a seed into the womb. The English “settles / poured in” is literal; Kumārajīva's 着 (zhuó, “attaches”) and 增长 (zēngzhǎng, “grows”) drift toward clinging and growth."
+      },
+      {
+       "w": "nāmarūpa",
+       "note": "「名色」：心（名）与身（色）。英文 name-and-form 是通行直译，读者需要知道是「心与身」。",
+       "en": "Nāmarūpa, “name and form”: mind (name) and body (form). The English “name-and-form” is the standard literal rendering; readers should know it means mind and body."
+      }
+     ]
+    },
+    {
+     "h": "1a6129fa",
+     "en": "When name-and-form has been poured in, the six sense bases come to be. Coming upon the six sense bases, contact takes place."
+    },
+    {
+     "h": "444f09ee",
+     "en": "In dependence on the eye, visible form and attention — that is, in dependence on name-and-form — consciousness takes place.",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "罗什本没有这一颂和下一颂，只在上一颂用「情尘识和合」一句带过。英文照梵本译出。",
+       "en": "Kumārajīva's version lacks this verse and the next, covering them with one phrase in the previous verse. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "ab72d276",
+     "en": "The coming together of the three — visible form, consciousness and the eye — is contact. And from contact, feeling takes place."
+    },
+    {
+     "h": "d54ad789",
+     "en": "With feeling as condition there is craving, for one craves for the sake of feeling. Craving, one takes up the four kinds of grasping.",
+     "cmp": [
+      {
+       "w": "vedanārthaṃ hi tṛṣyate",
+       "note": "梵文还给了理由「因为是为了感受而渴求」。英文和白话译出；罗什没有，又补上「六触」「三受」的分类。",
+       "en": "The Sanskrit adds the reason, “for one craves for the sake of feeling.” The English and plain Chinese keep it; Kumārajīva drops it and adds classifications (“six contacts,” “three feelings”) not in the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "1e999451",
+     "en": "When there is grasping, the grasper's becoming starts up. If he were without grasping, he would be freed, and there would be no becoming.",
+     "cmp": [
+      {
+       "w": "bhava",
+       "note": "十二支里的「有」：新一轮的生存。英文和第 21 品一样译 becoming；中文「有」字面只是「存在」。",
+       "en": "Bhava as a link in the chain: a new round of existence. The English uses “becoming,” as in chapter 21; the Chinese 有 (yǒu) literally just means “existence.”"
+      }
+     ]
+    },
+    {
+     "h": "70665507",
+     "en": "That becoming is the five aggregates. From becoming, birth starts up; then aging-and-death, suffering and the rest, sorrow with lamentation,",
+     "cmp": [
+      {
+       "w": "pañca skandhāḥ sa ca bhavaḥ",
+       "note": "「这『有』就是五蕴」。英文和白话译出；罗什没有，又把忧悲说成从老死而来。",
+       "en": "“That becoming is the five aggregates.” The English and plain Chinese keep it; Kumārajīva omits it, and makes sorrow and grief come from aging-and-death."
+      }
+     ]
+    },
+    {
+     "h": "d2c502c7",
+     "en": "dejection and distress — all this starts up from birth. That is how this entire mass of suffering comes to be."
+    },
+    {
+     "h": "15626b4a",
+     "en": "So the one who does not know creates volitional formations, the root of samsara. The one who does not know is the doer; the one who knows is not, because he sees reality.",
+     "cmp": [
+      {
+       "w": "tattvadarśanāt",
+       "note": "「因为见到真实」。英文和白话译出；罗什没有，句读也把「行是轮回的根」读成了「这就是生死」。",
+       "en": "“Because he sees reality.” The English and plain Chinese keep it; Kumārajīva omits it, and his phrasing turns “formations are the root of samsara” into “this is birth and death.”"
+      }
+     ]
+    },
+    {
+     "h": "3277f596",
+     "en": "When ignorance has ceased, volitional formations do not arise. And the ceasing of ignorance comes from cultivating this very knowledge.",
+     "cmp": [
+      {
+       "w": "(no Kumārajīva verse)",
+       "note": "罗什本没有这一颂，没讲无明怎样灭。梵文「这个认识」没说明认识的是什么，照上下文是对缘起的认识。",
+       "en": "Kumārajīva's version lacks this verse, so it never says how ignorance ends. “This very knowledge” is not specified in the Sanskrit; from context it is knowledge of dependent arising."
+      }
+     ]
+    },
+    {
+     "h": "a0b154fc",
+     "en": "Through the ceasing of each link, the next does not start up. In this way this entire mass of suffering completely ceases."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 27 · Examining Views (Dṛṣṭiparīkṣā)",
+   "verses": [
+    {
+     "h": "37053150",
+     "en": "The views “I existed in the past” and “I did not exist,” and the views that the world is permanent and so on, rest on the earlier end.",
+     "cmp": [
+      {
+       "w": "dṛṣṭi",
+       "note": "「见解、看法」，没有褒贬。英文 views；罗什品名作「邪见」，加了「错误」的评价。",
+       "en": "Dṛṣṭi, “view, opinion,” neutral in itself. The English says “views”; Kumārajīva titles the chapter 邪见 (xiéjiàn, “wrong views”), adding a verdict."
+      }
+     ]
+    },
+    {
+     "h": "c8babc71",
+     "en": "The views “I will not exist in the future,” “will I be someone else?”, and “I will exist,” and those about the world having an end and so on, rest on the later end.",
+     "cmp": [
+      {
+       "w": "bhaviṣyāmi",
+       "note": "问的是「我将来存不存在」。英文 I will exist 照译；罗什「为作为不作」字面像是问「有没有作为」。",
+       "en": "The question is “will I exist in the future?” The English “I will exist” follows it; Kumārajīva's 为作为不作 literally reads like “will I act or not act?”"
+      }
+     ]
+    },
+    {
+     "h": "2835642c",
+     "en": "To say “I existed in the past” makes no sense. For whoever existed in former lives is not this very one."
+    },
+    {
+     "h": "55afd8c2",
+     "en": "If you say the self is the same, still what is grasped is different. Apart from what is grasped, which one is your self?",
+     "cmp": [
+      {
+       "w": "upādāna",
+       "note": "这里指「被执取的东西」，即五蕴。英文 what is grasped 保持全书的 grasp 一族；罗什这几颂译「身」，更具体也更窄。",
+       "en": "Here upādāna means “what is grasped,” the aggregates. The English keeps the book's “grasp” family with “what is grasped”; Kumārajīva renders it 身 (shēn, “body”) in these verses, more concrete and narrower."
+      }
+     ]
+    },
+    {
+     "h": "234704a5",
+     "en": "If you hold that there is no self apart from what is grasped, then the self would be just what is grasped — and yet you say there is no self.",
+     "cmp": [
+      {
+       "w": "(meaning unclear)",
+       "note": "后半句 nāsti cātmeti vaḥ punaḥ「而你们又说没有自我」很简略，意思大致是「这样自我就等于不存在」。英文照字面。",
+       "en": "The last phrase, “and yet you say there is no self,” is terse; the sense is roughly “then the self amounts to nothing.” The English stays literal."
+      }
+     ]
+    },
+    {
+     "h": "80375b3e",
+     "en": "But what is grasped is not the self: it passes away and it arises. How can what is grasped be the one who grasps?"
+    },
+    {
+     "h": "47f11c6c",
+     "en": "Nor does it make sense for the self to be other than what is grasped. If it were other, it would be perceived without anything grasped, yet it is not perceived."
+    },
+    {
+     "h": "52237655",
+     "en": "So it is not other than what is grasped, nor is it just what is grasped. The self is not without what is grasped, nor is it simply nonexistent: this is the settled conclusion."
+    },
+    {
+     "h": "02b2c604",
+     "en": "To say “I did not exist in the past” makes no sense either. For whoever existed in former lives is not someone other than this one."
+    },
+    {
+     "h": "4eca1243",
+     "en": "If this one were someone else, he would exist even if that one were set aside. That one would stay just where he was, and this one would be born there without having died.",
+     "cmp": [
+      {
+       "w": "jāyeta cāmṛtaḥ",
+       "note": "「没有死就投生」。英文和白话译出；罗什「今我自生」没有「未死」这一层。",
+       "en": "“Would be born without having died.” The English and plain Chinese keep it; Kumārajīva's 今我自生 (“the present I arises by itself”) loses “without having died.”"
+      }
+     ]
+    },
+    {
+     "h": "3ae9a32e",
+     "en": "There would be annihilation, the loss of karma; one person would experience karma done by another — these and other faults would follow."
+    },
+    {
+     "h": "964e0009",
+     "en": "Nor did it come into being without having existed before, for faults follow here too: the self would be something made, or something that came about without a cause."
+    },
+    {
+     "h": "8512327f",
+     "en": "So the views about the past — “I did not exist,” “I existed,” “both,” “neither” — make no sense."
+    },
+    {
+     "h": "8fec39e5",
+     "en": "The views about the future — “will I exist?” and “I will not exist” — are just like those about the past."
+    },
+    {
+     "h": "56c19db3",
+     "en": "If that god were this human, it would be permanence. And the god would be unborn, since what is permanent is not born.",
+     "cmp": [
+      {
+       "w": "śāśvatam",
+       "note": "梵文只说「这就是常」。英文 it would be permanence 照译；罗什加了「堕于常边」，点明是一种极端。",
+       "en": "The Sanskrit just says “this is permanence.” The English follows it; Kumārajīva adds 堕于常边 (“falls into the extreme of permanence”)."
+      }
+     ]
+    },
+    {
+     "h": "80b43fec",
+     "en": "If the human were different from the god, it would be impermanence. If the human were different from the god, continuity would make no sense."
+    },
+    {
+     "h": "c96bf97a",
+     "en": "If one part were divine and one part human, it would be both impermanent and permanent, and that makes no sense."
+    },
+    {
+     "h": "a7df1b32",
+     "en": "If both impermanent and permanent were established, then you could grant that neither permanent nor impermanent is established too."
+    },
+    {
+     "h": "de49d3e5",
+     "en": "If someone came from somewhere and went on again to somewhere, then samsara would be without beginning. But there is no such someone.",
+     "cmp": [
+      {
+       "w": "kaścit",
+       "note": "「某个人」：一个从某处来、到某处去的固定主体。英文 someone；罗什「法若定有来」换成了「法」。",
+       "en": "“Someone”: a fixed subject who comes from somewhere and goes somewhere. The English says “someone”; Kumārajīva changes it to 法 (fǎ, “a dharma, a thing”)."
+      }
+     ]
+    },
+    {
+     "h": "aff2be84",
+     "en": "If nothing is permanent, what will be impermanent, or both permanent and impermanent, or set apart from both of these?"
+    },
+    {
+     "h": "3833702f",
+     "en": "If the world had an end, how could there be another world? And if the world had no end, how could there be another world?"
+    },
+    {
+     "h": "994e47d8",
+     "en": "Since this continuum of the aggregates is like the flame of a lamp, neither having no end nor having an end makes sense."
+    },
+    {
+     "h": "b1058546",
+     "en": "If the earlier aggregates were destroyed and the later aggregates, depending on these, did not arise, then the world would have an end."
+    },
+    {
+     "h": "a6e7cb25",
+     "en": "If the earlier aggregates were not destroyed and the later aggregates, depending on these, did not arise, then the world would have no end.",
+     "cmp": [
+      {
+       "w": "(extra Kumārajīva verse)",
+       "note": "罗什本这里多一颂「真法及说者，听者难得故……」，梵本没有。英文照梵本。",
+       "en": "Kumārajīva adds an extra verse here (“because the true Dharma, its teachers and its hearers are hard to find…”) that the Sanskrit lacks. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "041a7d0e",
+     "en": "If one part had an end and one part had no end, the world would both have an end and have no end, and that makes no sense."
+    },
+    {
+     "h": "5aa97eac",
+     "en": "How could one part of the grasper perish while one part does not perish? That makes no sense."
+    },
+    {
+     "h": "0f01df96",
+     "en": "And how could one part of what is grasped perish while one part does not perish? That makes no sense either."
+    },
+    {
+     "h": "0dac83ef",
+     "en": "If both having an end and having no end were established, then you could grant that neither having an end nor having no end is established too."
+    },
+    {
+     "h": "7872a5ce",
+     "en": "Or rather, since all things are empty, where, for whom, which, and from what would views like permanence arise?"
+    },
+    {
+     "h": "e8395db2",
+     "en": "I bow to Gautama, who out of compassion taught the true Dharma for the abandoning of all views.",
+     "cmp": [
+      {
+       "w": "gautama",
+       "note": "梵文只有佛的姓「乔达摩」。英文照译；罗什加了尊称「大圣主」。这一颂和第 1 品归敬颂首尾呼应：开头礼敬讲缘起的佛，结尾礼敬为断一切见而说法的佛。",
+       "en": "The Sanskrit gives only the Buddha's family name, Gautama. The English follows it; Kumārajīva adds the honorific 大圣主 (“great holy lord”). This verse mirrors the opening homage of chapter 1: the book begins by bowing to the Buddha who taught dependent arising and ends by bowing to the Buddha who taught for the abandoning of all views."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

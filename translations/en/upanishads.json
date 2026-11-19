@@ -1,0 +1,1316 @@
+{
+ "slug": "upanishads",
+ "title": "Three Upanishads",
+ "summary": "The Isha, Mandukya and Katha Upanishads on the self and Brahman: enjoying by letting go, the four states behind the syllable Om, and a boy who goes to Death and asks what happens after we die.",
+ "compare": [
+  "这三篇奥义书最难翻的是 ātman 和 brahman。ātman 白话译「自我」，英文 self，两边都容易被读成心理学上的自我、性格、个性。奥义书里的 ātman 却是每个人最深处、跟宇宙根本同一的那个。更麻烦的是，梵文 ātman 同时是身体（《羯陀》4.12「住在身体中间」）、自我，又是反身代词「自己」（「以自我进入自我」），中文和英文都得拆开译。brahman 白话音译为「梵」，英文写 Brahman；但同一个词，阳性时是「婆罗门」（《羯陀》1.9 死神叫那支凯多「婆罗门啊」），在 2.25 又指婆罗门阶层，造物神「梵天」（Brahmā）也是同一个词根。英文用大小写和拼法（Brahman / brahmin / Brahma）把它们分开，中文用「梵」「婆罗门」「梵天」分开。",
+  "第二个差别是 puruṣa。《羯陀》3.11、6.8 说「比未显现者更高的是 puruṣa」，白话译「原人」，跟本站《数论颂》用的是同一个词。但两者不是一回事：《羯陀》的 puruṣa 只有一个，是一切的终点；数论的 puruṣa 有很多个，每个众生一个。英文这里写作 the Person，跟《数论颂》保留原词 puruṣa 的写法区分开。",
+  "第三个差别是中文读者熟悉的佛教词。「明」和「无明」（《伊莎》9–11）、「轮回」、「梵行」、「牟尼」、「金刚（雷杵）」，还有《羯陀》4.15 死神叫那支凯多「乔答摩」：这些词中文读者一看就会想到佛教，可是在这里，乔答摩是那支凯多的族姓，「无明」指什么古来就有争议。英文 knowledge / ignorance、Gautama 等没有这层联想。",
+  "最后是文体。奥义书很多地方简短到不完整：没有动词（《伊莎》17「我的气息，风，不死的」），故事跳着讲（《羯陀》1.6–1.7 中间那三夜要读到 1.9 才知道），代词指谁也不清楚。白话常在括号里补上说话人和情节；英文只在说话人换了的地方用括号注明是谁在说，其余照原文的跳跃走，所以有些地方英文比白话更难懂，这是原文本来的样子。"
+ ],
+ "compareEn": [
+  "The hardest words in these three Upanishads are ātman and brahman. The plain Chinese renders ātman as 自我 (zìwǒ, “self”) and the English as “self,” and both are easily read as the psychological self, character or personality. But in the Upanishads ātman is the innermost core of each person, identical with the ground of the universe. To complicate matters, Sanskrit ātman also means the body (Katha 4.12, “dwells in the middle of the body”), the self, and the reflexive pronoun “oneself” (“enters the self by the self”), so both Chinese and English have to split it up. The plain Chinese transliterates brahman as 梵 (fàn); the English writes “Brahman.” But the same word in the masculine means “brahmin” (in Katha 1.9 Death addresses Nachiketas as “brahmin”), in Katha 2.25 it means the priestly class, and the creator god Brahmā comes from the same root. The English separates them by capitalization and spelling (Brahman / brahmin / Brahma); the Chinese by 梵 (fàn), 婆罗门 (póluómén, “brahmin”) and 梵天 (Fàntiān, “Brahmā”).",
+  "The second difference is puruṣa. Katha 3.11 and 6.8 say that “higher than the unmanifest is puruṣa,” and the plain Chinese renders it 原人 (yuánrén, “original person”), the same word the site uses in the Samkhya Verses. But they are not the same thing: the Katha’s puruṣa is one, the end point of everything, while Sāṃkhya’s puruṣas are many, one for each being. The English writes “the Person” here, to set it apart from the Samkhya Verses, where the Sanskrit puruṣa is kept.",
+  "The third difference is Buddhist vocabulary familiar to Chinese readers. 明 (míng, “knowledge”) and 无明 (wúmíng, “ignorance”) in Isha 9–11, 轮回 (lúnhuí, “rebirth”), 梵行 (fànxíng, “pure conduct”), 牟尼 (móuní, “sage”), the vajra rendered 雷杵 (léichǔ, “thunder-club”), and in Katha 4.15 Death addressing Nachiketas as 乔答摩 (Qiáodámó, “Gautama”): Chinese readers will think of Buddhism at once, yet here Gautama is Nachiketas’s clan name, and what “ignorance” means has been debated since ancient times. The English “knowledge / ignorance,” “Gautama” and so on carry no such associations.",
+  "Finally, style. The Upanishads are often so terse as to be incomplete: there is no verb (Isha 17, “My breath, the wind, the immortal”), the story jumps (the three nights between Katha 1.6 and 1.7 only come out in 1.9), and it is unclear who a pronoun refers to. The plain Chinese often supplies speakers and plot in brackets; the English marks the speaker in brackets only where it changes, and otherwise follows the original’s jumps, so in places the English is harder going than the plain Chinese. That is how the original reads."
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · The Isha Upanishad (Īśopaniṣad)",
+   "verses": [
+    {
+     "h": "e13765e9",
+     "en": "Om. All this, whatever moves in this moving world, is to be dwelt in by the Lord. So enjoy it by letting it go. Do not covet: whose is wealth, after all?",
+     "cmp": [
+      {
+       "w": "īśā vāsyam",
+       "note": "vāsya 可以来自「住」，也可以来自「穿衣、遮盖」：一切都该让主宰住满，或者一切都该用主宰披盖起来。白话和英文都取「住」。",
+       "en": "Vāsya can come from the verb “to dwell” or from “to clothe, cover”: everything is to be inhabited by the Lord, or everything is to be wrapped in the Lord. The plain Chinese and the English both take “dwell.”"
+      },
+      {
+       "w": "tena tyaktena bhuñjīthāḥ",
+       "note": "「靠那被舍弃的来享用」：舍和享放在同一句里，是这一颂最难的地方。白话「靠舍弃来享用」、英文 enjoy it by letting it go 都保留了这个悖论。kasya svid dhanam 也有两种读法：「财富是谁的呢？」或「不要贪图任何人的财富」。",
+       "en": "“Enjoy by means of what is given up”: putting renouncing and enjoying in one breath is the hardest part of this verse. The plain Chinese 靠舍弃来享用 (“enjoy through giving up”) and the English “enjoy it by letting it go” both keep the paradox. Kasya svid dhanam also has two readings: “whose is wealth, after all?” or “do not covet anyone’s wealth.”"
+      }
+     ]
+    },
+    {
+     "h": "773886ca",
+     "en": "Doing your work here, you should wish to live a hundred years. For one like you it is this way and no other: action does not cling to a man.",
+     "cmp": [
+      {
+       "w": "na karma lipyate",
+       "note": "lip 是「涂抹、沾上」：行为不会像污泥一样粘在人身上。白话「沾到」、英文 cling 都保留了这个画面。《薄伽梵歌》5.10 的莲叶不沾水用的是同一个动词。",
+       "en": "Lip means “to smear, to stick”: action does not stick to a person like mud. The plain Chinese 沾到 (zhāndào, “get stuck on”) and the English “cling” both keep the image. The lotus leaf untouched by water in Bhagavad Gita 5.10 uses the same verb."
+      }
+     ]
+    },
+    {
+     "h": "802006b4",
+     "en": "There are worlds called “demonic,” wrapped in blind darkness. All those people who kill the self go there when they die.",
+     "cmp": [
+      {
+       "w": "ātmahan",
+       "note": "「杀害自我的人」不是说自杀，注释多解释为：不认识自我、过日子像自我不存在的人。白话和英文都照字面，读者容易读成自杀。asurya「阿修罗的」，有的抄本作 asūrya「没有太阳的」。",
+       "en": "“Self-killers” does not mean suicides; the commentaries mostly explain it as people who ignore the self and live as if it did not exist. The plain Chinese and the English both translate literally, which readers may take as suicide. Asurya, “demonic,” appears in some manuscripts as asūrya, “sunless.”"
+      }
+     ]
+    },
+    {
+     "h": "b98f543c",
+     "en": "The One does not stir, yet is swifter than the mind. The gods could not overtake it; it ran on ahead. Standing still, it outruns the others as they race. In it Matarishvan places the waters.",
+     "cmp": [
+      {
+       "w": "mātariśvan / apaḥ",
+       "note": "Mātariśvan 是吠陀里把火带到人间的神，后来等同于风；白话直接写「风」。apas 可以读成「水」，也可以读成「工作、行为」，商羯罗就读成「一切活动」。白话和英文都取「水」。",
+       "en": "Mātariśvan is the Vedic figure who brought fire to humans, later identified with the wind; the plain Chinese simply writes 风 (fēng, “wind”). Apas can be read as “waters” or as “works, activities” (Shankara reads it as “all activities”). The plain Chinese and the English both take “waters.”"
+      }
+     ]
+    },
+    {
+     "h": "1378630c",
+     "en": "It moves; it does not move. It is far away, and it is near. It is inside all this, and it is outside all this."
+    },
+    {
+     "h": "c1ace74b",
+     "en": "But one who sees all beings in the self, and the self in all beings, no longer shrinks from anything.",
+     "cmp": [
+      {
+       "w": "vijugupsate",
+       "note": "vijugupsate 是「厌恶、躲开」：看到一切都是自我，就没有让人嫌弃或害怕而想躲开的东西了。白话「躲避」、英文 shrinks from 都少了一点「厌恶」的味道。",
+       "en": "Vijugupsate means “to feel revulsion, to shrink away”: once you see everything as the self, nothing is left to recoil from in disgust or fear. The plain Chinese 躲避 (duǒbì, “avoid”) and the English “shrinks from” both lose a little of the “disgust.”"
+      }
+     ]
+    },
+    {
+     "h": "72dc794c",
+     "en": "When, for one who understands, all beings have become the self itself, what delusion, what grief can there be for one who sees oneness?"
+    },
+    {
+     "h": "652d924a",
+     "en": "He has gone around everything: bright, bodiless, without wound, without sinews, pure, untouched by evil. A poet and a sage, all-encompassing, self-existent, he has set out all things as they should be, for endless years.",
+     "cmp": [
+      {
+       "w": "śukram ... kaviḥ",
+       "note": "前半句的「光明的、无身的……」都是中性词，像在说「它」；后半句的「诗人、智者」变成阳性，像在说「他」。英文跟着从 bright 等形容词过渡到 He；白话一律用「他」。kavi 是「诗人」也是「先知」，古印度不分这两者。",
+       "en": "The adjectives in the first half (“bright, bodiless...”) are neuter, as if speaking of an “it”; in the second half “poet” and “sage” are masculine, a “he.” The plain Chinese uses 他 (tā, “he”) throughout. Kavi means both “poet” and “seer”; ancient India did not separate the two."
+      }
+     ]
+    },
+    {
+     "h": "098f86ec",
+     "en": "Into blind darkness go those who worship ignorance; into a darkness greater still, it seems, go those who delight in knowledge.",
+     "cmp": [
+      {
+       "w": "vidyā / avidyā",
+       "note": "「明」和「无明」：中文读者会想到佛教的「无明」（十二因缘的第一支），意思并不一样。这里 vidyā 和 avidyā 指什么，古来就有争议，常见的解释是「对神的崇拜」和「祭祀的行为」。英文 knowledge / ignorance 比较中性。",
+       "en": "明 (míng, “knowledge”) and 无明 (wúmíng, “ignorance”): Chinese readers will think of the Buddhist 无明, the first link of dependent origination, which means something different. What vidyā and avidyā mean here has been debated since ancient times; a common explanation is “worship of the gods” and “ritual action.” The English “knowledge / ignorance” is more neutral."
+      }
+     ]
+    },
+    {
+     "h": "6e671df7",
+     "en": "One thing, they say, comes from knowledge; another, they say, comes from ignorance. So we have heard from the wise who explained it to us."
+    },
+    {
+     "h": "bb864303",
+     "en": "One who knows both together, knowledge and ignorance, crosses over death by ignorance and reaches the immortal by knowledge.",
+     "cmp": [
+      {
+       "w": "avidyayā mṛtyuṃ tīrtvā",
+       "note": "「靠无明渡过死亡」听起来矛盾。商羯罗把这里的「无明」解释为祭祀等行为：先靠行为渡过（日常的）死亡，再靠知识得到不死。白话和英文都照字面，保留了这个悖论。",
+       "en": "“Crosses over death by ignorance” sounds contradictory. Shankara explains “ignorance” here as ritual action: first one gets past (ordinary) death by action, then reaches the immortal by knowledge. The plain Chinese and the English both translate literally and keep the paradox."
+      }
+     ]
+    },
+    {
+     "h": "e33ea3ce",
+     "en": "Into blind darkness go those who worship non-becoming; into a darkness greater still, it seems, go those who delight in becoming."
+    },
+    {
+     "h": "8df31203",
+     "en": "One thing, they say, comes from becoming; another, they say, comes from non-becoming. So we have heard from the wise who explained it to us.",
+     "cmp": [
+      {
+       "w": "saṃbhavāt / asaṃbhavāt",
+       "note": "这里是从格，可以读成「从生成而来」，也可以读成「跟生成不同」。白话读成「生成带来的是一种结果」，英文也取这一读法，跟第 10 颂一致。",
+       "en": "These are ablatives, which can mean “coming from becoming” or “different from becoming.” The plain Chinese reads 生成带来的是一种结果 (“becoming brings one result”), and the English takes the same reading, matching verse 10."
+      }
+     ]
+    },
+    {
+     "h": "c0e077db",
+     "en": "One who knows both together, becoming and destruction, crosses over death by destruction and reaches the immortal by becoming.",
+     "cmp": [
+      {
+       "w": "vināśa",
+       "note": "前两颂说的是「不生成」（asaṃbhūti），这一颂换成了「毁灭」（vināśa），原文自己换了词。白话和英文都照着换了。",
+       "en": "The two previous verses spoke of “non-becoming” (asaṃbhūti); this verse switches to “destruction” (vināśa). The original changes the word itself, and the plain Chinese and the English both follow the change."
+      }
+     ]
+    },
+    {
+     "h": "7964c52e",
+     "en": "The face of truth is covered with a golden dish. Pushan (the sun god who nourishes all things and guides the dead), uncover it, so that I, whose law is truth, may see.",
+     "cmp": [
+      {
+       "w": "satyadharmāya",
+       "note": "可以读成「给我这个以真实为法的人」，也可以读成「为了真实之法」。白话和英文都取前者。",
+       "en": "This can be read as “for me, whose law is truth,” or as “for the sake of the law of truth.” The plain Chinese and the English both take the first."
+      }
+     ]
+    },
+    {
+     "h": "a7b9d1cf",
+     "en": "Pushan, lone seer, Yama, Sun, son of Prajapati (the Lord of Creatures), spread apart your rays, gather in your blaze. That most beautiful form of yours, I see it. That person over there, I am he.",
+     "cmp": [
+      {
+       "w": "paśyāmi",
+       "note": "paśyāmi 是「我看见」，现在时。白话写成「我要看见」，变成了愿望；英文照原文写 I see it。紧接着的「那边的那个人，我就是他」是在看见之后说的，所以现在时更合原意。",
+       "en": "Paśyāmi is “I see,” in the present tense. The plain Chinese writes 我要看见 (“I want to see”), turning it into a wish; the English keeps “I see it.” The following “That person over there, I am he” is spoken after the seeing, so the present tense fits the original better."
+      },
+      {
+       "w": "yama",
+       "note": "这里 Yama 是太阳的称号（「控制者」），不是专指死神。白话括号解释为「掌管死者的神」。",
+       "en": "Here Yama is a title of the sun (“the controller”), not specifically the god of death. The plain Chinese glosses it in brackets as “the god who rules the dead.”"
+      }
+     ]
+    },
+    {
+     "h": "68202185",
+     "en": "My breath to the wind, the immortal; and this body ends in ashes. Om. Mind, remember! Remember what was done! Mind, remember! Remember what was done!",
+     "cmp": [
+      {
+       "w": "vāyur anilam",
+       "note": "原文没有动词，只是「气息、风、不死的」三个词并排。白话补了「回到」，英文补了 to。这是临终者的话。",
+       "en": "The original has no verb, just “breath, wind, immortal” set side by side. The plain Chinese supplies 回到 (“returns to”) and the English “to.” These are the words of someone dying."
+      },
+      {
+       "w": "krato",
+       "note": "kratu 是「意志、决心」，也是祭祀里的「意念」。白话「心意」、英文 Mind 都只近似。也有人把它读成对火神的称呼。",
+       "en": "Kratu means “will, resolve,” and also the intention behind a sacrifice. The plain Chinese 心意 (xīnyì, “intent”) and the English “Mind” are both approximations. Some read it as a name for the fire god."
+      }
+     ]
+    },
+    {
+     "h": "a5fc3213",
+     "en": "Agni (god of fire), lead us by a good path to wealth, O god who knows all the ways. Keep crooked wrongdoing away from us. We will offer you our fullest words of homage.",
+     "cmp": [
+      {
+       "w": "rāye",
+       "note": "这一颂原是《梨俱吠陀》1.189.1 的祷词，被搬来放在临终祷告的最后。「引向财富」在这里引申为引向死后的好去处。",
+       "en": "This verse is originally a prayer from Rig Veda 1.189.1, reused here at the end of a deathbed prayer. “Lead us to wealth” is extended here to mean leading the dead to a good place."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · The Mandukya Upanishad (Māṇḍūkyopaniṣad)",
+   "verses": [
+    {
+     "h": "82b0d834",
+     "en": "Om: this syllable is all this. Here is its explanation. What has been, what is, and what will be: all of it is simply Om. And whatever else lies beyond the three times, that too is simply Om.",
+     "cmp": [
+      {
+       "w": "akṣara",
+       "note": "akṣara 是「音节」，字面又是「不会消融的、不灭的」。梵文一个词两层意思，白话「音节」、英文 syllable 都只能取一层。",
+       "en": "Akṣara means “syllable,” and literally also “that which does not melt away, the imperishable.” The Sanskrit holds both senses in one word; the plain Chinese 音节 (yīnjié, “syllable”) and the English “syllable” can only keep one."
+      }
+     ]
+    },
+    {
+     "h": "543c71e3",
+     "en": "For all this is Brahman (the ultimate reality). This self is Brahman. This self has four quarters.",
+     "cmp": [
+      {
+       "w": "catuṣpāt",
+       "note": "字面是「四足的」：pāda 是「脚」，也是「四分之一」，像牛的四条腿、钱的四个四分之一。白话「四个部分」、英文 four quarters 都丢了「脚」的画面，英文 quarters 至少保留了「四分之一」。",
+       "en": "Literally “four-footed”: pāda means “foot” and also “quarter,” like a cow’s four legs or a coin’s four quarters. The plain Chinese 四个部分 (“four parts”) and the English “four quarters” both lose the “foot,” though the English at least keeps the sense of “quarter.”"
+      },
+      {
+       "w": "ātman",
+       "note": "ātman 白话译「自我」，现代中文读者容易想到心理学上的自我；英文 self 也一样。在奥义书里它是每个人最深处、跟梵同一的那个，不是性格或个性。",
+       "en": "The plain Chinese renders ātman as 自我 (zìwǒ, “self”), which modern Chinese readers easily take as the psychological ego; the English “self” has the same problem. In the Upanishads it is the innermost core of each person, identical with Brahman, not personality or character."
+      }
+     ]
+    },
+    {
+     "h": "60846086",
+     "en": "Its place is the waking state. It knows outward, has seven limbs and nineteen mouths, and enjoys the gross. This is Vaishvanara (“common to all people”), the first quarter.",
+     "cmp": [
+      {
+       "w": "saptāṅga / ekonaviṃśatimukha",
+       "note": "「七个肢体、十九张嘴」原文没有解释。商羯罗的说法是：七肢出自《歌者奥义书》对宇宙之身的描述（天为头、太阳为眼等）；十九张嘴是十种感官、五种气，加上意、觉、我执、心。白话和英文都没有展开。",
+       "en": "The “seven limbs and nineteen mouths” are not explained in the text. According to Shankara, the seven limbs come from the Chandogya Upanishad’s description of the cosmic body (the sky as head, the sun as eye, and so on), and the nineteen mouths are the ten faculties, the five breaths, and mind, intellect, ego and thought. Neither the plain Chinese nor the English spells this out."
+      }
+     ]
+    },
+    {
+     "h": "12c981a5",
+     "en": "Its place is dream. It knows inward, has seven limbs and nineteen mouths, and enjoys the refined. This is Taijasa (“the shining one”), the second quarter."
+    },
+    {
+     "h": "bb164701",
+     "en": "When someone asleep desires no desire and sees no dream, that is deep sleep. Its place is deep sleep. It has become one, a single mass of knowing; it is made of bliss and enjoys bliss; mind is its mouth. This is Prajna (“the knowing one”), the third quarter.",
+     "cmp": [
+      {
+       "w": "prājña",
+       "note": "prājña 来自 prajñā「认知、智慧」，白话「智者」、英文 the knowing one 都照字面。有意思的是，它指的正是熟睡：在什么都不知道的熟睡里，认知反而是「一整块」的。",
+       "en": "Prājña comes from prajñā, “knowing, wisdom,” and the plain Chinese 智者 (zhìzhě, “the wise one”) and the English “the knowing one” both follow the literal sense. Curiously, it refers precisely to deep sleep: in the sleep where one knows nothing, knowing is said to be “a single mass.”"
+      }
+     ]
+    },
+    {
+     "h": "4b4fd991",
+     "en": "This is the lord of all; this is the knower of all; this is the inner controller; this is the womb of all, for it is where beings come from and where they return."
+    },
+    {
+     "h": "6edafa29",
+     "en": "Not knowing inward, not knowing outward, not knowing both ways, not a mass of knowing, not knowing, not unknowing; unseen, beyond all dealings, ungraspable, without marks, unthinkable, unnameable; its essence is the certainty of the one self; in it the spread of the world comes to rest; peaceful, auspicious, without a second: this, they think, is the fourth. That is the self. That is what is to be known.",
+     "cmp": [
+      {
+       "w": "caturtha",
+       "note": "原文就叫它「第四」，不是一个专名。后来的吠檀多把它叫作 turīya，也是「第四」的意思。白话和英文都照字面译。",
+       "en": "The original simply calls it “the fourth,” not a proper name. Later Vedānta calls it turīya, which also means “the fourth.” The plain Chinese and the English both translate literally."
+      },
+      {
+       "w": "prapañca / advaita",
+       "note": "prapañca 是「铺开、繁衍」，指世界纷纷扰扰展开的样子；佛教汉译常作「戏论」。白话「现象的纷繁」、英文 the spread of the world 都取字面。advaita「没有第二个」，白话「不二」，英文 without a second，后来成了不二论（Advaita）这一派的名字。",
+       "en": "Prapañca means “spreading out, proliferation,” the world unfolding in all its busyness; Buddhist Chinese translations often render it 戏论 (xìlùn, “idle elaboration”). The plain Chinese 现象的纷繁 (“the profusion of phenomena”) and the English “the spread of the world” both follow the literal sense. Advaita, “without a second,” is 不二 (bú’èr, “not two”) in the plain Chinese and “without a second” in the English; it later became the name of the Advaita school."
+      }
+     ]
+    },
+    {
+     "h": "2b2e66c9",
+     "en": "This self, in terms of syllable, is Om; in terms of its sounds, the quarters are the sounds and the sounds are the quarters: a, u, and m.",
+     "cmp": [
+      {
+       "w": "a-u-m",
+       "note": "梵文语音规则里 a 和 u 连读成 o，所以 Oṃ 可以拆成 a、u、m 三个音。中文和英文读者不知道这条规则，就看不出「唵」怎么会是三个音。mātrā 是「量、音拍」，白话「音素」、英文 sounds 都是近似。",
+       "en": "In Sanskrit sound rules, a and u combine into o, so Oṃ can be split into the three sounds a, u, m. Chinese and English readers who don’t know this rule won’t see how Om can be three sounds. Mātrā means “measure, sound-unit”; the plain Chinese 音素 (yīnsù, “phoneme”) and the English “sounds” are approximations."
+      }
+     ]
+    },
+    {
+     "h": "562c6f5d",
+     "en": "Vaishvanara, whose place is the waking state, is the sound a, the first sound, from āpti (“reaching”) or from ādimattva (“being first”). One who knows this reaches all his desires and becomes first.",
+     "cmp": [
+      {
+       "w": "āpti / ādimattva",
+       "note": "这几颂靠的是同音字的联想：a 跟「到达」「最先」开头相同，u 跟「提升」「两者之间」开头相同，m 跟「度量」「融入」开头相同。白话和英文都只能把梵文词放在括号里，文字游戏本身译不出来。",
+       "en": "These verses rest on sound associations: a starts like “reaching” and “being first,” u like “raising” and “between both,” m like “measuring” and “merging.” The plain Chinese and the English can only put the Sanskrit words in brackets; the wordplay itself can’t be translated."
+      }
+     ]
+    },
+    {
+     "h": "f6496a32",
+     "en": "Taijasa, whose place is dream, is the sound u, the second sound, from utkarṣa (“raising”) or from ubhayatva (“being between both”). One who knows this raises up the stream of knowledge and becomes even toward all; no one who does not know Brahman is born in his family.",
+     "cmp": [
+      {
+       "w": "samāna",
+       "note": "samāna 是「相同、平等」。白话读成「一视同仁」，英文 even toward all 跟白话；也可以读成「被人平等看待」。意思不完全确定。",
+       "en": "Samāna means “same, equal.” The plain Chinese reads it as 一视同仁 (“treats all alike”), and the English “even toward all” follows that; it could also mean “regarded as an equal by others.” The meaning is not entirely certain."
+      }
+     ]
+    },
+    {
+     "h": "90d01001",
+     "en": "Prajna, whose place is deep sleep, is the sound m, the third sound, from miti (“measuring”) or from apīti (“merging”). One who knows this measures all this and becomes the place where it merges."
+    },
+    {
+     "h": "859290bc",
+     "en": "The fourth has no sound. It is beyond all dealings; in it the spread of the world comes to rest; it is auspicious, without a second. So Om is the self itself. One who knows this enters the self by the self. One who knows this.",
+     "cmp": [
+      {
+       "w": "amātra",
+       "note": "「没有音拍的」：唵念完 a、u、m 之后的那一段静默。白话「没有音素的」、英文 has no sound 都译出了。结尾重复「谁这样知道」，是古印度经文一篇结束的标志。",
+       "en": "“Without sound-unit”: the silence after a, u and m have been sounded. The plain Chinese 没有音素的 (“without phoneme”) and the English “has no sound” both convey it. Repeating the last phrase, “One who knows this,” is the old Indian way of marking the end of a text."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · The Katha Upanishad, Part One (Sections 1–3)",
+   "verses": [
+    {
+     "h": "762e66a9",
+     "en": "Eager for the rewards of the sacrifice, Vajashravasa, so the story goes, gave away everything he owned. He had a son named Nachiketas.",
+     "cmp": [
+      {
+       "w": "uśan / sarvavedasa",
+       "note": "uśan「渴望的」，原文没说渴望什么；白话和英文都补了「祭祀的果报」。sarvavedasa 是一种要把全部家产布施出去的祭祀。Vājaśravasa 是父名，意思是「瓦遮施罗婆的儿子」，这位父亲在后文还有别的称呼。",
+       "en": "Uśan means “eager,” without saying for what; the plain Chinese and the English both supply “the rewards of the sacrifice.” Sarvavedasa is a sacrifice in which all one’s possessions are given away. Vājaśravasa is a patronymic, “son of Vājaśravas”; the father goes by other names later in the text."
+      }
+     ]
+    },
+    {
+     "h": "a183c33d",
+     "en": "Though he was only a boy, as the cows meant as gifts for the priests were being led away, faith entered him, and he thought:",
+     "cmp": [
+      {
+       "w": "śraddhā",
+       "note": "śraddhā 不是相信某种教义，而是「对祭祀会不会灵验的认真」，一种郑重的心。白话「信念」、英文 faith 都偏宗教信仰。dakṣiṇā 是给祭司的谢礼，通常是牛。",
+       "en": "Śraddhā is not belief in a doctrine but a seriousness about whether the ritual will truly work, a kind of earnest conviction. The plain Chinese 信念 (xìnniàn, “conviction”) and the English “faith” both lean toward religious belief. Dakṣiṇā is the fee given to the priests, usually cows."
+      }
+     ]
+    },
+    {
+     "h": "7f2bc623",
+     "en": "“They have drunk their last water, eaten their last grass, given their last milk, and are barren. Joyless are the worlds a man goes to who gives such cows.”"
+    },
+    {
+     "h": "63bc0e76",
+     "en": "He said to his father, “Dad, who will you give me to?” He asked a second time, and a third. His father said to him, “I give you to Death!”",
+     "cmp": [
+      {
+       "w": "tata / mṛtyave",
+       "note": "tata 是孩子对父亲的亲昵叫法，白话「爸爸」、英文 Dad 都对。mṛtyu「死亡」在这里被当成一位神，后文他就是阎摩。父亲这句话是气头上的话，却因为说出口就算数。",
+       "en": "Tata is a child’s affectionate word for father; the plain Chinese 爸爸 (bàba) and the English “Dad” both fit. Mṛtyu, “death,” is treated here as a god, who later turns out to be Yama. The father’s words are said in anger, but once spoken they count."
+      }
+     ]
+    },
+    {
+     "h": "8ab13e5e",
+     "en": "“Of many, I go first; of many, I go in the middle. What does Yama have to do that he will do through me today?”",
+     "cmp": [
+      {
+       "w": "(speaker)",
+       "note": "原文没说是谁在说，也没说什么意思。白话补成那支凯多心里想的话，这是通行的读法：我在弟子里有时最好，有时中等，从不最差；死神要我去做什么呢？",
+       "en": "The original says neither who speaks nor what it means. The plain Chinese makes it Nachiketas’s thought, the usual reading: among the pupils I am sometimes the best, sometimes middling, never the worst; what can Death want with me?"
+      }
+     ]
+    },
+    {
+     "h": "d6c380de",
+     "en": "“Look how it was with those before, and see how it is with those after. A mortal ripens like grain, and like grain is born again.”",
+     "cmp": [
+      {
+       "w": "(narrative)",
+       "note": "白话补的「父亲后悔了，那支凯多对他说」原文没有，是注释为了接上故事加的。英文照原文，只有引号里的话。",
+       "en": "The plain Chinese adds “the father regretted it, and Nachiketas said to him,” which is not in the original; the commentators supply it to fill the gap in the story. The English keeps only the quoted words, as in the original."
+      }
+     ]
+    },
+    {
+     "h": "bcb9051f",
+     "en": "“A brahmin guest enters a house like Vaishvanara, the fire. People appease him this way: bring water, son of Vivasvat!”",
+     "cmp": [
+      {
+       "w": "(narrative)",
+       "note": "这里原文跳过了一段故事：那支凯多去了死神的家，死神不在，他等了三夜没吃东西（第 9 颂才说出来）。白话在括号里补了这段，英文没有补。客人像火一样，不好好招待就会烧到主人。",
+       "en": "The original skips part of the story here: Nachiketas went to Death’s house, Death was away, and he waited three nights without food (this only comes out in verse 9). The plain Chinese fills this in with brackets; the English does not. A guest is like fire: treat him badly and he will burn the host."
+      }
+     ]
+    },
+    {
+     "h": "1e681c11",
+     "en": "“Hope and expectation, friendship and kind words, sacrifices and good works, sons and cattle: all of it is snatched away from the foolish man in whose house a brahmin stays without eating.”"
+    },
+    {
+     "h": "520b48ef",
+     "en": "(Death said:) “Brahmin, you are a guest who deserves homage, yet you have stayed three nights in my house without eating. Homage to you, brahmin! May it go well with me. So choose three wishes in return.”",
+     "cmp": [
+      {
+       "w": "brahman",
+       "note": "这里的 brahman 是对婆罗门的称呼「婆罗门啊」，跟「梵」（终极实在）写法一样，只是性别不同：婆罗门是阳性，梵是中性。英文把前者写作 brahmin，后者写作 Brahman，以示区别。",
+       "en": "Here brahman is the form of address “O brahmin,” spelled the same as Brahman, ultimate reality, but of a different gender: the priest is masculine, the ultimate reality is neuter. The English writes the first as “brahmin” and the second as “Brahman” to keep them apart."
+      }
+     ]
+    },
+    {
+     "h": "ef706401",
+     "en": "(Nachiketas said:) “Death, that Gautama may be calm in his thoughts and cheerful, and no longer angry with me; that when you have sent me back, he will know me and speak to me: this I choose as the first of the three wishes.”"
+    },
+    {
+     "h": "7faeadc1",
+     "en": "(Death said:) “Auddalaki Aruni will know you just as before; I am sending you back. He will sleep well at night, his anger gone, once he sees you freed from the mouth of death.”",
+     "cmp": [
+      {
+       "w": "auddālakir āruṇiḥ",
+       "note": "同一个父亲，第 1 颂叫 Vājaśravasa，第 10 颂叫 Gautama（族姓），这里叫 Auddālaki Āruṇi（「乌达罗迦之子、阿鲁那的后人」）。白话在括号里注了「你的父亲」，英文没有注。",
+       "en": "The same father is called Vājaśravasa in verse 1, Gautama (his clan name) in verse 10, and here Auddālaki Āruṇi (“son of Uddālaka, descendant of Aruṇa”). The plain Chinese adds “your father” in brackets; the English does not."
+      }
+     ]
+    },
+    {
+     "h": "bed20b5f",
+     "en": "“In the world of heaven there is no fear at all. You are not there; no one is afraid of old age. Having crossed over both hunger and thirst, beyond grief, one rejoices in the world of heaven.”"
+    },
+    {
+     "h": "00185dd7",
+     "en": "“You, Death, know the fire that leads to heaven. Explain it to me, for I have faith. Those in the world of heaven share in immortality. This I choose as my second wish.”",
+     "cmp": [
+      {
+       "w": "amṛtatva",
+       "note": "这里的「不死」是天界里的长寿，还不是后文讲的那种彻底的不死。白话和英文用的是同一个词，读者要自己分辨。",
+       "en": "The “immortality” here is long life in heaven, not yet the complete deathlessness the text speaks of later. The plain Chinese and the English use the same word for both, so the reader has to tell them apart."
+      }
+     ]
+    },
+    {
+     "h": "8c513aca",
+     "en": "(Death said:) “I will explain it to you; learn it well from me, Nachiketas, for I know the fire that leads to heaven. Know that this fire is the winning of endless worlds and their foundation, set down in the cave.”",
+     "cmp": [
+      {
+       "w": "guhā",
+       "note": "guhā 是「洞穴、隐秘处」，在《羯陀》里反复出现，多半指人心深处。白话这里译「隐秘之处」，后面又译「洞穴」；英文一律用 the cave，让读者看出是同一个词。",
+       "en": "Guhā means “cave, hidden place,” and recurs throughout the Katha, usually meaning the depths of the heart. The plain Chinese translates it 隐秘之处 (“hidden place”) here and 洞穴 (“cave”) later; the English always says “the cave,” so readers can see it is the same word."
+      }
+     ]
+    },
+    {
+     "h": "207b1292",
+     "en": "He told him of that fire, the beginning of the world: what bricks to use, how many, and how to lay them. And Nachiketas repeated it back just as he had been told. Then Death, pleased, spoke to him again."
+    },
+    {
+     "h": "c8b8fab6",
+     "en": "Delighted, the great-souled one said to him: “Here and now I give you one more wish: this fire will be called by your own name. And take this many-colored chain.”",
+     "cmp": [
+      {
+       "w": "sṛṅkā",
+       "note": "sṛṅkā 的意思不明，可能是一条金项链，也可能是比喻。第 2.3 颂又说「财富做成的 sṛṅkā，许多人沉没在里面」。白话和英文都译成「链子」。",
+       "en": "The meaning of sṛṅkā is unclear: it may be a gold necklace, or a figure of speech. Verse 2.3 mentions it again as “the sṛṅkā made of wealth, in which many sink.” The plain Chinese and the English both render it “chain.”"
+      }
+     ]
+    },
+    {
+     "h": "6e393867",
+     "en": "One who has lit the Nachiketa fire three times, who has joined with the three and done the three works, crosses over birth and death. Knowing the god who is worthy of praise, the knower born of Brahman, and seeing him clearly, one reaches this peace forever.",
+     "cmp": [
+      {
+       "w": "tribhiḥ / trikarmakṛt",
+       "note": "「那三者」「三种事」原文没有说明，注释说法不一：三者是父母和老师，或是吠陀、圣传和好人；三种事是祭祀、诵读和布施。白话和英文都没有展开。brahmajajña 也难解，可以读成「生于梵、全知的」，也可以读成「知道生于梵者的」。",
+       "en": "“The three” and “the three works” are not explained in the original, and the commentators disagree: the three are mother, father and teacher, or Veda, tradition and good people; the three works are sacrifice, study and giving. Neither the plain Chinese nor the English spells them out. Brahmajajña is also hard: it can be read as “born of Brahman and all-knowing” or “knower of what is born of Brahman.”"
+      }
+     ]
+    },
+    {
+     "h": "79aa3995",
+     "en": "One who has lit the Nachiketa fire three times, who knows these three, and who, knowing this, builds the Nachiketa fire, throws off the nooses of death ahead of time, passes beyond grief, and rejoices in the world of heaven."
+    },
+    {
+     "h": "8793604e",
+     "en": "“This, Nachiketas, is your fire that leads to heaven, which you chose with your second wish. People will call this fire by your name. Nachiketas, choose your third wish.”"
+    },
+    {
+     "h": "3008d4f4",
+     "en": "(Nachiketas said:) “When a man has died, there is this doubt: some say, ‘He is,’ and some say, ‘He is not.’ Taught by you, I want to know this. Of the wishes, this is the third.”",
+     "cmp": [
+      {
+       "w": "astīti / nāyam astīti",
+       "note": "梵文只是「他是」「他不是」，没有说「还在」，也没有说「在哪里」。白话补成「他还在」「他不在了」，英文照原文写 He is / He is not，保留了这个问题赤裸裸的样子。",
+       "en": "The Sanskrit only says “he is” and “he is not,” without “still” or “where.” The plain Chinese adds 他还在 / 他不在了 (“he is still here / he is gone”); the English keeps the bare “He is / He is not,” leaving the question as stark as it is."
+      }
+     ]
+    },
+    {
+     "h": "74b868a9",
+     "en": "(Death said:) “Even the gods had doubts about this long ago. It is not easy to understand; this matter is subtle. Choose another wish, Nachiketas. Don’t press me. Let me off this one.”",
+     "cmp": [
+      {
+       "w": "dharma",
+       "note": "这里 dharma 只是「道理、这件事」，不是「法」或「责任」。白话「道理」、英文 matter 都对。",
+       "en": "Dharma here just means “principle, this matter,” not “law” or “duty.” The plain Chinese 道理 (dàoli, “principle”) and the English “matter” both fit."
+      }
+     ]
+    },
+    {
+     "h": "668925df",
+     "en": "(Nachiketas said:) “Even the gods had doubts about this, you say, and you, Death, say it is not easy to understand. Yet no other teacher of it like you can be found, and no other wish is equal to this one.”"
+    },
+    {
+     "h": "b166ac12",
+     "en": "(Death said:) “Choose sons and grandsons who will live a hundred years, many cattle, elephants, gold and horses. Choose a great expanse of land, and live yourself as many autumns as you wish."
+    },
+    {
+     "h": "ef49355f",
+     "en": "If you think some wish is equal to this, choose it: wealth and long life. Prosper, Nachiketas, over the wide earth. I will make you one who enjoys all his desires."
+    },
+    {
+     "h": "b31cfc70",
+     "en": "Whatever desires are hard to come by in the world of mortals, ask for all of them as you please. These lovely women with their chariots and their music, such as men can never win: take them as my gift and let them wait on you. Nachiketas, don’t ask about dying.”"
+    },
+    {
+     "h": "6e59beb3",
+     "en": "(Nachiketas said:) “These last only until tomorrow, Ender, and they wear away the vigor of all a mortal’s senses. Even a whole lifetime is short. Keep your chariots; keep your dancing and singing.",
+     "cmp": [
+      {
+       "w": "antaka",
+       "note": "antaka「结束者」，死神的别名。英文 Ender 照字面；白话直接写「死神」。",
+       "en": "Antaka, “the one who ends,” is another name for Death. The English “Ender” is literal; the plain Chinese simply says 死神 (sǐshén, “god of death”)."
+      }
+     ]
+    },
+    {
+     "h": "ead08cfd",
+     "en": "No man is satisfied by wealth. We will get wealth, now that we have seen you; we will live as long as you hold sway. But the wish I would choose is that one alone.",
+     "cmp": [
+      {
+       "w": "yāvad īśiṣyasi tvam",
+       "note": "「只要你还在掌管」：话里带刺。死神掌管寿命，所以能活多久本来就由他决定，用不着拿来当愿望。",
+       "en": "“As long as you hold sway”: there is an edge to this. Death controls lifespans, so how long one lives is his decision anyway; it is no use as a wish."
+      }
+     ]
+    },
+    {
+     "h": "32622797",
+     "en": "Having come near those who do not age and do not die, what aging mortal here below, once he understands, and reflects on the pleasures of beauty and love, would delight in an overly long life?",
+     "cmp": [
+      {
+       "w": "kvadhaḥsthaḥ",
+       "note": "这个词的抄本有问题，意思不明，一般读成「站在下面（人间）的」。白话没有译出，英文译作 here below，是猜测。",
+       "en": "This word is textually corrupt and its meaning is unclear; it is usually read as “standing below (on earth).” The plain Chinese leaves it out; the English “here below” is a guess."
+      }
+     ]
+    },
+    {
+     "h": "310564f1",
+     "en": "Tell us, Death, about what they doubt, about what lies in the great passing on. This wish that has entered into what is hidden: Nachiketas chooses no other.”",
+     "cmp": [
+      {
+       "w": "sāmparāya",
+       "note": "字面是「走过去、离去」，指死后的去处。白话「伟大的去处（死后）」、英文 the great passing on 都保留了「去」的意思。",
+       "en": "Literally “going across, passing over,” meaning where one goes after death. The plain Chinese 伟大的去处（死后） (“the great destination, after death”) and the English “the great passing on” both keep the sense of going."
+      }
+     ]
+    },
+    {
+     "h": "a979ae14",
+     "en": "(Death said:) “The better is one thing, the pleasant quite another. Both, with their different aims, bind a man. Of the two, it goes well for one who takes the better; one who chooses the pleasant misses his aim.",
+     "cmp": [
+      {
+       "w": "śreyas / preyas",
+       "note": "两个词都是比较级，读起来押韵：śreyas「更好的」，preyas「更可爱的」。白话「好的」「舒服的」、英文 the better / the pleasant 都把意思译出了，押韵没了。两样都会「拴住」人，连好的也算，这一点白话和英文都保留了。",
+       "en": "Both words are comparatives and they rhyme: śreyas, “better,” and preyas, “dearer.” The plain Chinese 好的 / 舒服的 (“the good / the comfortable”) and the English “the better / the pleasant” keep the meaning but lose the rhyme. Both “bind” a person, even the better one, and the plain Chinese and the English both keep that."
+      }
+     ]
+    },
+    {
+     "h": "af03f860",
+     "en": "Both the better and the pleasant come up to a man. The wise one looks them over and tells them apart. The wise one chooses the better over the pleasant; the dull one chooses the pleasant, for getting and keeping.",
+     "cmp": [
+      {
+       "w": "dhīra",
+       "note": "dhīra 有两个意思：「坚定、有定力」和「有智慧」（来自 dhī「思想」）。白话一律译「有定力的人」，英文一律译 the wise，各取一半。这个词在《羯陀》里出现很多次。",
+       "en": "Dhīra has two senses: “steady, self-possessed” and “wise” (from dhī, “thought”). The plain Chinese always says 有定力的人 (“the steady person”), the English always “the wise,” each taking half. The word appears many times in the Katha."
+      },
+      {
+       "w": "yogakṣema",
+       "note": "「得到和守住」，就是过日子的盘算。《薄伽梵歌》9.22 也用这个词。",
+       "en": "“Getting and keeping”: the calculations of making a living. Bhagavad Gita 9.22 uses the same word."
+      }
+     ]
+    },
+    {
+     "h": "21f23669",
+     "en": "You, Nachiketas, have weighed desires, the dear and the dear-seeming, and let them go. You did not take this chain made of wealth, in which so many men sink."
+    },
+    {
+     "h": "2b165889",
+     "en": "Far apart and leading opposite ways are these two: ignorance and what is known as knowledge. I take Nachiketas to be one who longs for knowledge; all those desires did not tear you away."
+    },
+    {
+     "h": "9109b549",
+     "en": "Living in the middle of ignorance, wise in their own eyes and thinking themselves learned, fools wander around in circles, staggering, like the blind led by the blind."
+    },
+    {
+     "h": "eeb659df",
+     "en": "The passing on does not dawn on the childish, the careless, the one deluded by the delusion of wealth. Thinking, ‘This world is, there is no other,’ he falls into my power again and again."
+    },
+    {
+     "h": "5fead261",
+     "en": "Many do not even get to hear of it; many, though they hear, do not know it. A wonder is the one who teaches it, skilled the one who gains it; a wonder is the one who knows it, taught by the skilled.",
+     "cmp": [
+      {
+       "w": "āścarya",
+       "note": "āścarya「奇迹、令人惊奇的」，白话译「稀奇」，偏「少见」；英文 a wonder 保留了惊叹。《薄伽梵歌》2.29 用同一个词说自我。",
+       "en": "Āścarya means “a marvel, astonishing”; the plain Chinese 稀奇 (xīqí, “rare, unusual”) leans toward “rare,” while the English “a wonder” keeps the amazement. Bhagavad Gita 2.29 uses the same word about the self."
+      }
+     ]
+    },
+    {
+     "h": "da9a51ae",
+     "en": "Taught by an inferior man, it is not easy to understand, however much one thinks about it. Unless someone else teaches it, there is no way in; for it is subtler than the subtle, beyond reasoning.",
+     "cmp": [
+      {
+       "w": "ananyaprokte",
+       "note": "这个复合词有两种读法：「不由别人讲时」，或「由一个跟它不二（证得了它）的人讲时」。白话和英文都取前一种。",
+       "en": "This compound has two readings: “when not taught by another,” or “when taught by one who is not other than it (who has realized it).” The plain Chinese and the English both take the first."
+      }
+     ]
+    },
+    {
+     "h": "c6638bf1",
+     "en": "This insight is not to be reached by reasoning; taught by another, dearest, it is easy to understand. You have reached it. How firmly you hold to truth! May we always find a questioner like you, Nachiketas.",
+     "cmp": [
+      {
+       "w": "preṣṭha / preṣṭā",
+       "note": "preṣṭha「最亲爱的」和 preṣṭā「提问者」只差一个音，是个文字游戏。白话「最亲爱的」「提问者」、英文 dearest / questioner 都没法保留。",
+       "en": "Preṣṭha, “dearest,” and preṣṭā, “questioner,” differ by a single sound, a play on words. Neither the plain Chinese 最亲爱的 / 提问者 (zuì qīn’ài de / tíwèn zhě, “dearest / questioner”) nor the English “dearest / questioner” can keep it."
+      }
+     ]
+    },
+    {
+     "h": "d4d2d7be",
+     "en": "I know that what is called treasure does not last, for the lasting is not reached by things that do not last. Even so, I built the Nachiketa fire with things that do not last, and I have won what lasts.",
+     "cmp": [
+      {
+       "w": "(logic)",
+       "note": "前半说靠不恒久的得不到恒久的，后半又说用不恒久的材料得到了恒久的，看起来矛盾。商羯罗说，这里的「恒久」只是相对的：死神靠祭火得到的是长久的地位，不是真正的不死。白话和英文都照字面。",
+       "en": "The first half says the lasting is not reached by what does not last; the second says that with things that do not last he won what lasts, which looks contradictory. Shankara says the “lasting” here is only relative: what Death won through the fire is a long-lasting position, not true deathlessness. The plain Chinese and the English both translate literally."
+      }
+     ]
+    },
+    {
+     "h": "338c9763",
+     "en": "The fulfillment of desire, the foundation of the world, the endless reward of sacrifice, the far shore of fearlessness, great praise, the wide course, the foundation: you saw these, Nachiketas, and, being wise, you firmly let them go."
+    },
+    {
+     "h": "c7a9222d",
+     "en": "That god who is hard to see, who has entered into what is hidden, who is set in the cave, who dwells in the depths, the ancient one: the wise man who knows him through the yoga of the inner self leaves joy and grief behind.",
+     "cmp": [
+      {
+       "w": "adhyātmayoga",
+       "note": "这是较早把 yoga 用来指「向内修习」的地方，跟今天的体式无关。白话「内在的瑜伽」、英文 the yoga of the inner self 都照字面。",
+       "en": "This is one of the early places where yoga means “inward discipline,” with nothing to do with today’s postures. The plain Chinese 内在的瑜伽 (“inner yoga”) and the English “the yoga of the inner self” both translate literally."
+      }
+     ]
+    },
+    {
+     "h": "8e4f647b",
+     "en": "A mortal who has heard this and grasped it, who has drawn out this subtle thing that accords with dharma and reached it, rejoices, for he has won what is worth rejoicing in. I think the house stands open for Nachiketas.",
+     "cmp": [
+      {
+       "w": "vivṛtaṃ sadma naciketasaṃ manye",
+       "note": "这句可以读成「我认为（梵的）屋子已经为那支凯多打开」，也可以读成「我认为那支凯多就是一座敞开的屋子」。白话「那支凯多的屋门是敞开的」偏向后者，英文 the house stands open for Nachiketas 取前者。",
+       "en": "This can be read as “I think the house (of Brahman) stands open for Nachiketas,” or “I think Nachiketas is a house thrown open.” The plain Chinese 那支凯多的屋门是敞开的 (“Nachiketas’s door is open”) leans toward the second; the English takes the first."
+      }
+     ]
+    },
+    {
+     "h": "db170993",
+     "en": "(Nachiketas said:) “Apart from right and apart from wrong, apart from what is done and not done, apart from what has been and what is to be: what you see as that, tell it to me.”",
+     "cmp": [
+      {
+       "w": "dharma / adharma",
+       "note": "这里 dharma 和 adharma 是「对和错、善和恶」。白话用「法」「非法」，中文读者可能想到法律或佛法；英文 right and wrong 较直白。",
+       "en": "Here dharma and adharma mean “right and wrong, good and evil.” The plain Chinese uses 法 (fǎ) and 非法 (fēifǎ), which Chinese readers may take as law or Buddhist Dharma; the English “right and wrong” is more direct."
+      }
+     ]
+    },
+    {
+     "h": "5079d98d",
+     "en": "(Death said:) “The word that all the Vedas recite, that all austerities proclaim, for whose sake people live as celibate students: that word I tell you in brief. It is Om.",
+     "cmp": [
+      {
+       "w": "brahmacarya",
+       "note": "字面是「行于梵」，指学生跟着老师学吠陀时守独身的生活。白话用佛教常见的「梵行」，英文 live as celibate students 说的是实际做法。",
+       "en": "Literally “walking in Brahman,” the celibate life of a student learning the Veda from a teacher. The plain Chinese uses the familiar Buddhist term 梵行 (fànxíng, “pure conduct”); the English “live as celibate students” describes the actual practice."
+      }
+     ]
+    },
+    {
+     "h": "dc0107f7",
+     "en": "For this syllable is Brahman; this syllable is the highest. Knowing this very syllable, whatever one wants is one’s own."
+    },
+    {
+     "h": "50d3169a",
+     "en": "This is the best support; this is the highest support. Knowing this support, one is honored in the world of Brahman."
+    },
+    {
+     "h": "281703e2",
+     "en": "The wise one is not born, nor does he die. He did not come from anywhere, nor did he become anyone. Unborn, constant, everlasting, ancient, he is not killed when the body is killed.",
+     "cmp": [
+      {
+       "w": "na jāyate mriyate vā",
+       "note": "这一颂和下一颂几乎一字不差地出现在《薄伽梵歌》2.20 和 2.19，是黑天劝阿周那上阵时引的话。在这里说话的是死神。",
+       "en": "This verse and the next appear almost word for word in Bhagavad Gita 2.20 and 2.19, where Krishna quotes them to urge Arjuna into battle. Here the speaker is Death."
+      }
+     ]
+    },
+    {
+     "h": "9dc5724c",
+     "en": "If the killer thinks he kills, if the killed thinks he is killed, neither of them understands: this one does not kill and is not killed."
+    },
+    {
+     "h": "2d549c09",
+     "en": "Smaller than the small, greater than the great, the self is set in the cave of this creature. One free of willing, his grief gone, sees the greatness of the self through the clarity of the elements.",
+     "cmp": [
+      {
+       "w": "dhātuprasādāt",
+       "note": "「凭着诸要素（感官、心）的澄净」。另一些抄本作 dhātuḥ prasādāt「凭着造物者的恩典」，意思就变成靠神恩。白话和英文都取前一种。guhā 白话补了「（心）」，英文照原文只说 the cave。",
+       "en": "“Through the clarity of the elements (the senses and mind).” Some manuscripts read dhātuḥ prasādāt, “through the grace of the Creator,” which makes it a matter of divine grace. The plain Chinese and the English both take the first. For guhā the plain Chinese adds （心） (“the heart”); the English keeps just “the cave.”"
+      }
+     ]
+    },
+    {
+     "h": "245f8e24",
+     "en": "Sitting, he travels far; lying down, he goes everywhere. Who but me can know that god who rejoices and does not rejoice?",
+     "cmp": [
+      {
+       "w": "madāmadam",
+       "note": "「欢喜又不欢喜」，意思不明，也可能是「骄傲又不骄傲」。紧接的 mad anyaḥ「除了我」跟它同音，像是个文字游戏。",
+       "en": "“Rejoicing and not rejoicing”; the meaning is unclear, and it could also be “proud and not proud.” The next words, mad anyaḥ, “other than me,” sound the same, which looks like a play on words."
+      }
+     ]
+    },
+    {
+     "h": "d0be881c",
+     "en": "Bodiless in bodies, steady among the unsteady: knowing the self as great and all-pervading, the wise man does not grieve."
+    },
+    {
+     "h": "e7351b1e",
+     "en": "This self cannot be won by explaining, nor by intelligence, nor by much learning. It can be won only by the one it chooses; to him this self reveals its own body.",
+     "cmp": [
+      {
+       "w": "yam evaiṣa vṛṇute",
+       "note": "可以读成「自我选中谁，谁就得到它」（恩典），也可以读成「谁选择自我，谁就得到它」（人自己的选择）。白话和英文都取前一种。",
+       "en": "This can be read as “whomever the self chooses wins it” (grace), or “whoever chooses the self wins it” (one’s own choice). The plain Chinese and the English both take the first."
+      }
+     ]
+    },
+    {
+     "h": "a0cfebc1",
+     "en": "Not one who has not stopped doing wrong, not one who is not calm, not one who is not collected, nor one whose mind is not at peace, can reach him through insight."
+    },
+    {
+     "h": "9b64d08e",
+     "en": "He for whom the priesthood and the warriors are both just rice, and death is the sauce poured over it: who truly knows where he is?”",
+     "cmp": [
+      {
+       "w": "brahma ca kṣatraṃ ca",
+       "note": "这里的 brahma 指婆罗门阶层，不是「梵」。整句是个吞食一切的画面：社会最高的两个阶层只是他的一碗饭，死亡只是饭上的汤汁。",
+       "en": "Brahma here means the priestly class, not Brahman. The whole verse is an image of something that devours everything: the two highest classes of society are just his bowl of rice, and death only the sauce on it."
+      }
+     ]
+    },
+    {
+     "h": "5d3a910f",
+     "en": "Two who drink truth in the world of good deeds, who have entered the cave, the highest place beyond: those who know Brahman call them shadow and light, and so do those who keep the five fires and those who have lit the Nachiketa fire three times.",
+     "cmp": [
+      {
+       "w": "ṛta / dvau",
+       "note": "ṛta 是宇宙的秩序、正道，也是「真」，比白话「真理」更偏「事物该有的样子」。「两个」是谁原文没说，注释说是个体的自我和至高的自我；白话补了「（自我）」。",
+       "en": "Ṛta is the order of the cosmos, rightness, and also “truth,” closer to “the way things should be” than the plain Chinese 真理 (zhēnlǐ, “truth”). The original doesn’t say who the “two” are; the commentators say the individual self and the supreme self, and the plain Chinese adds （自我） (“selves”)."
+      }
+     ]
+    },
+    {
+     "h": "e45821e2",
+     "en": "May we master the Nachiketa fire, the bridge for those who sacrifice, and that which is the imperishable, highest Brahman, the fearless far shore for those who long to cross.",
+     "cmp": [
+      {
+       "w": "setu / akṣaraṃ brahma",
+       "note": "原文有两样东西：给祭祀者的「桥」（那支凯多火），和给想渡过去的人的「彼岸」（梵）。白话读起来像是同一个「那个」，英文把两者分开。",
+       "en": "The original has two things: the “bridge” for those who sacrifice (the Nachiketa fire), and the “far shore” for those who wish to cross (Brahman). The plain Chinese reads as if they were one “that”; the English keeps them apart."
+      }
+     ]
+    },
+    {
+     "h": "20439e45",
+     "en": "Know the self as the lord of the chariot, and the body as the chariot. Know buddhi (the deciding intellect) as the charioteer, and the mind as the reins.",
+     "cmp": [
+      {
+       "w": "rathin / sārathi",
+       "note": "rathin 是车的主人、坐车的人，不是赶车的；赶车的是 sārathi。白话「坐车的人」、英文 lord of the chariot 都把两者分开了。buddhi 和 manas 的分工（判断和缰绳）跟数论的分法接近。",
+       "en": "Rathin is the owner of the chariot, the one who rides in it, not the driver; the driver is the sārathi. The plain Chinese 坐车的人 (“the one riding in the chariot”) and the English “lord of the chariot” both keep them apart. The division of labor between buddhi and manas (judging and reins) is close to Sāṃkhya’s."
+      }
+     ]
+    },
+    {
+     "h": "06a57a22",
+     "en": "The senses, they say, are the horses, and the objects are the ground they run over. The self joined with the senses and the mind, the wise say, is the one who experiences."
+    },
+    {
+     "h": "2c01d524",
+     "en": "But one who lacks understanding, whose mind is always unharnessed, his senses are out of control, like a charioteer’s unruly horses.",
+     "cmp": [
+      {
+       "w": "ayukta / yukta",
+       "note": "yukta 是「套上轭的」，和 yoga 同一个词根。英文 harnessed / unharnessed 保留了套马的画面；白话「受约束」「不受约束」只剩意思。",
+       "en": "Yukta means “yoked,” from the same root as yoga. The English “harnessed / unharnessed” keeps the picture of horses in harness; the plain Chinese 受约束 / 不受约束 (“restrained / unrestrained”) keeps only the meaning."
+      }
+     ]
+    },
+    {
+     "h": "b99e6b49",
+     "en": "But one who has understanding, whose mind is always harnessed, his senses are under control, like a charioteer’s good horses."
+    },
+    {
+     "h": "2a1771ba",
+     "en": "One who lacks understanding, whose mind is scattered, who is always impure, does not reach that place, and goes on into saṃsāra (the round of rebirth)."
+    },
+    {
+     "h": "910cc1b0",
+     "en": "But one who has understanding, whose mind is collected, who is always pure, reaches that place from which he is not born again."
+    },
+    {
+     "h": "1bbef21d",
+     "en": "A man whose charioteer is understanding, who holds the reins of the mind, reaches the end of the road: that highest step of Vishnu.",
+     "cmp": [
+      {
+       "w": "viṣṇoḥ paramaṃ padam",
+       "note": "出自《梨俱吠陀》：毗湿奴跨了三步，第三步落在最高的天上。pada 是「脚步、足迹」，也是「地方」。白话「至高之处」只取了「地方」，英文 highest step 保留了「脚步」。",
+       "en": "From the Rig Veda: Vishnu took three strides, and the third landed in the highest heaven. Pada means “step, footprint” and also “place.” The plain Chinese 至高之处 (“the highest place”) takes only “place”; the English “highest step” keeps the stride."
+      }
+     ]
+    },
+    {
+     "h": "557ff0cd",
+     "en": "Higher than the senses are their objects; higher than the objects is the mind; higher than the mind is buddhi; higher than buddhi is the great self.",
+     "cmp": [
+      {
+       "w": "mahān ātmā",
+       "note": "这一串「感官、对象、心、觉、伟大的自我、未显现者、原人」（连同下一颂），跟后来数论的体系很像：「伟大者」对应数论的 mahat，「未显现者」对应原质。但这里的原人只有一个，是一切的终点。",
+       "en": "This sequence (with the next verse), senses, objects, mind, buddhi, the great self, the unmanifest, the Person, closely resembles later Sāṃkhya: “the great” corresponds to Sāṃkhya’s mahat, “the unmanifest” to prakṛti. But here there is only one Person, the end point of everything."
+      }
+     ]
+    },
+    {
+     "h": "0432170e",
+     "en": "Higher than the great is the unmanifest; higher than the unmanifest is the Person (puruṣa). Higher than the Person there is nothing at all: that is the end, that is the highest goal.",
+     "cmp": [
+      {
+       "w": "puruṣa / kāṣṭhā",
+       "note": "白话把这里的 puruṣa 也译作「原人」，跟数论同一个词；英文写作 the Person，以区别数论的多个 puruṣa。kāṣṭhā 原是赛车场的终点标柱，接着上面的车马比喻。",
+       "en": "The plain Chinese also renders this puruṣa as 原人 (yuánrén), the same word used for Sāṃkhya; the English writes “the Person” to distinguish it from Sāṃkhya’s many puruṣas. Kāṣṭhā was originally the post at the end of a racecourse, continuing the chariot image."
+      }
+     ]
+    },
+    {
+     "h": "ffe103e9",
+     "en": "This self, hidden in all beings, does not shine forth; but it is seen by those who see the subtle, with a keen and subtle buddhi."
+    },
+    {
+     "h": "51ef8ad4",
+     "en": "A wise man should rein in speech and mind; he should rein them in within the knowing self; he should rein in the knowing within the great self; he should rein that in within the peaceful self.",
+     "cmp": [
+      {
+       "w": "yacchet",
+       "note": "yam 是「勒住、收住」，正是拉缰绳的动作，接着前面的车马比喻。英文 rein in 保留了这个画面；白话「收住」意思对，画面淡了。",
+       "en": "Yam means “to hold back, to rein in,” the very action of pulling on the reins, continuing the chariot image. The English “rein in” keeps the picture; the plain Chinese 收住 (shōuzhù, “hold back”) has the meaning but less of the image."
+      }
+     ]
+    },
+    {
+     "h": "b9559512",
+     "en": "Get up! Wake up! Seek out the best teachers and learn! A sharpened razor’s edge is hard to cross; that is how hard the path is, the poets say.",
+     "cmp": [
+      {
+       "w": "varān",
+       "note": "varān 可以读成「优秀的人（老师）」，也可以读成「愿望、恩赐」：你得到了恩赐，就去领会吧。白话和英文都取「老师」。",
+       "en": "Varān can be read as “the excellent ones (teachers)” or as “the boons”: having won your boons, understand them. The plain Chinese and the English both take “teachers.”"
+      }
+     ]
+    },
+    {
+     "h": "41d04a98",
+     "en": "Without sound, without touch, without form, unfading, without taste, constant, without smell, without beginning, without end, beyond the great, fixed: one who discerns that is freed from the mouth of death."
+    },
+    {
+     "h": "ba26697d",
+     "en": "Having told and heard this ancient story of Nachiketas, told by Death, a wise man is honored in the world of Brahman."
+    },
+    {
+     "h": "a7fb1d9d",
+     "en": "Whoever, made pure, has this highest secret recited in a gathering of brahmins or at the rites for the ancestors, it leads him to the endless. It leads him to the endless.",
+     "cmp": [
+      {
+       "w": "(repetition)",
+       "note": "最后一句重复两次，是古印度经文一章结束的标志。白话和英文都照样重复。",
+       "en": "Repeating the last sentence twice is the old Indian way of marking the end of a section. The plain Chinese and the English both repeat it too."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · The Katha Upanishad, Part Two (Sections 4–6)",
+   "verses": [
+    {
+     "h": "50fb9093",
+     "en": "The Self-existent bored the openings of the senses facing outward; so one looks outward, not at the self within. A certain wise man, seeking immortality, turned his eyes back and saw the self within.",
+     "cmp": [
+      {
+       "w": "vyatṛṇat",
+       "note": "vyatṛṇat 可以读成「凿穿」，也可以读成「伤害、惩罚」（商羯罗取后者：造物者让感官往外开，等于害了它们）。白话「凿成」、英文 bored 都取前者。",
+       "en": "Vyatṛṇat can be read as “bored through” or as “injured, punished” (Shankara takes the second: the Creator harmed the senses by opening them outward). The plain Chinese 凿成 (“chiseled”) and the English “bored” both take the first."
+      }
+     ]
+    },
+    {
+     "h": "e2ef2627",
+     "en": "The childish run after outward desires; they walk into the wide-spread noose of death. But the wise, knowing immortality, do not look for the lasting here among things that do not last."
+    },
+    {
+     "h": "c9b75205",
+     "en": "That by which one knows form, taste, smell, sounds, touches and the pleasures of sex, by this alone one knows. What is left over here? This, truly, is that.",
+     "cmp": [
+      {
+       "w": "etad vai tat",
+       "note": "「这就是那个」：从这里起，这句话在许多颂的结尾反复出现，像副歌。「那个」就是那支凯多问的、死后还在不在的那个。白话、英文都照字面译。",
+       "en": "“This, truly, is that”: from here on the phrase recurs at the end of many verses, like a refrain. “That” is what Nachiketas asked about, whether something remains after death. The plain Chinese and the English both translate it literally."
+      }
+     ]
+    },
+    {
+     "h": "1e3538a5",
+     "en": "That by which one sees both dreaming and waking: knowing the self as great and all-pervading, the wise man does not grieve."
+    },
+    {
+     "h": "c7f91be2",
+     "en": "One who knows this honey-eater from close by, the living self, lord of what was and what will be, no longer shrinks from anything. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "madhvada",
+       "note": "「吃蜜的」：尝遍各种经验果实的那个自我。白话在括号里解释了，英文照字面写 honey-eater。",
+       "en": "“Honey-eater”: the self that tastes the fruits of every experience. The plain Chinese explains it in brackets; the English keeps the literal “honey-eater.”"
+      }
+     ]
+    },
+    {
+     "h": "876e4278",
+     "en": "He who was born of old from heat, who was born before the waters, who, having entered the cave, stays there, who looked out through beings: this, truly, is that.",
+     "cmp": [
+      {
+       "w": "tapas",
+       "note": "tapas 本义是「热」，后来指苦行产生的那种内在的热力。吠陀神话里，宇宙就是从这种热里生出来的。白话「苦行」只取了引申义，英文 heat 取本义。",
+       "en": "Tapas originally means “heat,” and later the inner heat produced by austerity. In Vedic myth, the universe is born from this heat. The plain Chinese 苦行 (kǔxíng, “austerity”) takes only the extended sense; the English “heat” takes the original one."
+      }
+     ]
+    },
+    {
+     "h": "77da1188",
+     "en": "Aditi, made of the gods, who comes into being with the breath of life, who, having entered the cave, stays there, who was born through beings: this, truly, is that.",
+     "cmp": [
+      {
+       "w": "aditim ... tiṣṭhantīm",
+       "note": "这一颂的阿底提和「住在那里」都是宾格，句子没有动词，语法上不完整，可能要接着上一颂的「看见」来读。Aditi 字面是「无限」，是诸神之母；商羯罗把它解作「吃（ad）一切的」。意思不完全确定。",
+       "en": "Aditi and “staying there” are both in the accusative and the sentence has no verb, so it is grammatically incomplete; it may have to be read with “looked out” from the previous verse. Aditi literally means “boundless” and is the mother of the gods; Shankara explains the name as “she who eats (ad) everything.” The meaning is not entirely certain."
+      }
+     ]
+    },
+    {
+     "h": "30cc1d5f",
+     "en": "Jatavedas, the fire, hidden in the two fire-sticks like an embryo well guarded by pregnant women, is to be praised day after day by wakeful people bringing offerings: Agni. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "jātavedas / araṇi",
+       "note": "Jātavedas 是火神的称号，字面是「知道一切生者的」。araṇi 是钻木取火用的两块木头，火「藏」在木头里，一钻就出来。",
+       "en": "Jātavedas is a title of the fire god, literally “knower of all that is born.” Araṇi are the two sticks rubbed together to make fire; the fire is “hidden” in the wood and comes out when they are drilled."
+      }
+     ]
+    },
+    {
+     "h": "7ad10602",
+     "en": "That from which the sun rises and into which it sets: in that all the gods are fixed, and no one ever goes beyond it. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "arpitāḥ",
+       "note": "arpita 是「插在、固定在」，像车辐插在车毂上。白话「安放在」、英文 fixed 都少了这个画面。",
+       "en": "Arpita means “fixed into,” like spokes set into the hub of a wheel. The plain Chinese 安放在 (“placed on”) and the English “fixed” both lose this picture."
+      }
+     ]
+    },
+    {
+     "h": "e4f92c4d",
+     "en": "What is here is there; what is there is here as well. From death to death goes one who sees as if there were difference here.",
+     "cmp": [
+      {
+       "w": "nāneva",
+       "note": "nānā iva「好像有差别」：iva「好像」很要紧，意思是差别只是看起来有。英文 as if 保留了；白话「看到差别」把「好像」丢了。",
+       "en": "Nānā iva, “as if there were difference”: the iva, “as if,” matters, because it means the difference only appears to be there. The English “as if” keeps it; the plain Chinese 看到差别 (“sees difference”) drops it."
+      }
+     ]
+    },
+    {
+     "h": "a7b3c2ea",
+     "en": "By the mind alone is this to be reached: there is no difference here at all. From death to death goes one who sees as if there were difference here."
+    },
+    {
+     "h": "cdeb4544",
+     "en": "A Person the size of a thumb dwells in the middle of the body, lord of what was and what will be; one no longer shrinks from him. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "madhya ātmani",
+       "note": "这里的 ātman 是「身体」，不是「自我」。同一个词既指身体，也指自我，还是反身代词「自己」。白话、英文都译成「身体」。",
+       "en": "Here ātman means “body,” not “self.” The same word can mean the body, the self, and the reflexive pronoun “oneself.” The plain Chinese and the English both translate it as “body.”"
+      }
+     ]
+    },
+    {
+     "h": "304b4704",
+     "en": "The Person the size of a thumb is like a flame without smoke, lord of what was and what will be. He is the same today, and the same tomorrow. This, truly, is that."
+    },
+    {
+     "h": "2f892f2e",
+     "en": "As rain fallen on a high crag runs off down the mountainsides in all directions, so one who sees things as separate runs after them in all directions.",
+     "cmp": [
+      {
+       "w": "dharmān",
+       "note": "这里 dharma 是复数，指「种种事物、现象」，跟佛教说的「诸法」一样，不是「法则」或「责任」。白话「种种事物」、英文 things 都对。",
+       "en": "Dharma here is plural and means “things, phenomena,” as in the Buddhist “all dharmas,” not “law” or “duty.” The plain Chinese 种种事物 (“all kinds of things”) and the English “things” both fit."
+      }
+     ]
+    },
+    {
+     "h": "e140a09b",
+     "en": "As pure water poured into pure water becomes just the same, so, Gautama, becomes the self of a sage who understands.",
+     "cmp": [
+      {
+       "w": "gautama",
+       "note": "这里的乔答摩是死神对那支凯多的称呼（他的族姓），不是佛陀。中文读者看到「乔答摩」很容易想到佛陀。",
+       "en": "Gautama here is Death addressing Nachiketas by his clan name, not the Buddha. Chinese readers seeing 乔答摩 (Qiáodámó, “Gautama”) easily think of the Buddha."
+      }
+     ]
+    },
+    {
+     "h": "f0ca53a3",
+     "en": "The unborn one, whose thought is not crooked, has a city with eleven gates. One who looks after it does not grieve; freed, he is truly freed. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "ekādaśadvāra",
+       "note": "「十一道门的城」就是身体，十一门指身体的孔窍（头上七孔、肚脐、下身两孔，加头顶一处）。原文没有解释，白话和英文也没有展开。vimuktaś ca vimucyate「得解放了，就真正得解放」，注释说是活着时解脱，死后彻底解脱。",
+       "en": "“The city with eleven gates” is the body, and the eleven gates are its openings (seven in the head, the navel, two below, and one at the crown). The original doesn’t explain this, and neither the plain Chinese nor the English spells it out. Vimuktaś ca vimucyate, “freed, he is truly freed,” is explained by the commentators as freed while alive and completely freed at death."
+      }
+     ]
+    },
+    {
+     "h": "5409c7fa",
+     "en": "He is the gander dwelling in the bright sky, the Vasu (a god of the bright realm) dwelling in the midair, the priest dwelling at the altar, the guest dwelling in the house. He dwells in men, in the excellent, in truth, in the sky. He is born of the waters, born of cows, born of truth, born of the mountains: he is truth, the great.",
+     "cmp": [
+      {
+       "w": "haṃsa",
+       "note": "haṃsa 是一种雁（斑头雁），中文和英文传统上都译成「天鹅」swan。在这里它是太阳的象征。这一颂原是《梨俱吠陀》4.40.5 的太阳颂。",
+       "en": "A haṃsa is a kind of goose (the bar-headed goose), traditionally rendered as “swan” in both Chinese and English (天鹅, tiān’é). Here it is a symbol of the sun. The verse comes from a sun hymn in Rig Veda 4.40.5."
+      }
+     ]
+    },
+    {
+     "h": "8cba2dee",
+     "en": "He leads the up-breath upward and throws the down-breath downward. All the gods worship the dwarf seated in the middle.",
+     "cmp": [
+      {
+       "w": "prāṇa / apāna / vāmana",
+       "note": "prāṇa 和 apāna 一上一下，英文 up-breath / down-breath 照方向译，白话「向上的气、向下的气」也一样。vāmana「矮人」后来是毗湿奴化身之一的名字，这里指心里那个拇指大的原人。",
+       "en": "Prāṇa and apāna go up and down; the English “up-breath / down-breath” follows the direction, as does the plain Chinese 向上的气、向下的气 (“the upward breath, the downward breath”). Vāmana, “dwarf,” later becomes the name of one of Vishnu’s incarnations; here it is the thumb-sized Person in the heart."
+      }
+     ]
+    },
+    {
+     "h": "68f782d8",
+     "en": "When this embodied one, who dwells in the body, falls away and is freed from the body, what is left over here? This, truly, is that."
+    },
+    {
+     "h": "218a4aaf",
+     "en": "No mortal lives by the up-breath or by the down-breath. People live by something else, on which these two rest."
+    },
+    {
+     "h": "6f34d176",
+     "en": "Well then, Gautama, I will tell you this secret, the eternal Brahman, and also what becomes of the self after it meets death."
+    },
+    {
+     "h": "aa0eae7c",
+     "en": "Some embodied ones enter a womb to take on a body; others pass into a thing that does not move, according to their deeds, according to what they have learned."
+    },
+    {
+     "h": "f258c784",
+     "en": "That Person who stays awake in those who sleep, shaping one desire after another: that is the bright, that is Brahman, that is called the immortal. All worlds rest on it, and no one ever goes beyond it. This, truly, is that."
+    },
+    {
+     "h": "7048602f",
+     "en": "As the one fire, having entered the world, takes the shape of each shape it meets, so the one inner self of all beings takes the shape of each shape, and is outside as well."
+    },
+    {
+     "h": "028b9c6f",
+     "en": "As the one wind, having entered the world, takes the shape of each shape it meets, so the one inner self of all beings takes the shape of each shape, and is outside as well."
+    },
+    {
+     "h": "afea3c93",
+     "en": "As the sun, the eye of the whole world, is not stained by the faults of the eye or of what lies outside it, so the one inner self of all beings, being outside, is not stained by the suffering of the world."
+    },
+    {
+     "h": "844a2ce4",
+     "en": "The one controller, the inner self of all beings, who makes the one form many: the wise who see him dwelling within themselves have lasting happiness, and no one else."
+    },
+    {
+     "h": "7a0d804d",
+     "en": "The constant among the inconstant, the conscious among the conscious, the one among the many, who grants their desires: the wise who see him dwelling within themselves have lasting peace, and no one else."
+    },
+    {
+     "h": "530381f1",
+     "en": "“This is that,” they think: the highest happiness, which cannot be pointed out. How then can I know it? Does it shine, or does it shine out?",
+     "cmp": [
+      {
+       "w": "bhāti / vibhāti",
+       "note": "梵文只是同一个动词的两种形式：「发光」和「（向四方）发光」。白话译成「自己发光，还是被照亮」，是解释；英文照字面 shine / shine out，问句显得含糊，原文也是如此。",
+       "en": "The Sanskrit just has two forms of the same verb: “shine” and “shine out (in all directions).” The plain Chinese renders it 自己发光，还是被照亮 (“does it shine by itself, or is it lit up?”), which is an interpretation; the English keeps the literal “shine / shine out,” and the question stays vague, as in the original."
+      }
+     ]
+    },
+    {
+     "h": "e3622e51",
+     "en": "There the sun does not shine, nor the moon and stars; these lightnings do not shine, let alone this fire. Everything shines only after it, as it shines; by its light all this shines.",
+     "cmp": [
+      {
+       "w": "na tatra sūryo bhāti",
+       "note": "这一颂也见于《蒙查羯奥义书》2.2.10 和《白骡奥义书》6.14，《薄伽梵歌》15.6 有类似的句子。",
+       "en": "This verse also appears in Mundaka Upanishad 2.2.10 and Shvetashvatara Upanishad 6.14, and Bhagavad Gita 15.6 has a similar line."
+      }
+     ]
+    },
+    {
+     "h": "a90b0974",
+     "en": "With its roots above and its branches below, this is the eternal fig tree. That is the bright, that is Brahman, that is called the immortal. All worlds rest on it, and no one ever goes beyond it. This, truly, is that.",
+     "cmp": [
+      {
+       "w": "aśvattha",
+       "note": "aśvattha 是菩提树（Ficus religiosa），佛陀就是在这种树下成道的。白话音译「阿湿婆陀树」，英文 fig tree，中文读者可能不知道它就是菩提树。《薄伽梵歌》15.1 也用这棵倒长的树作比喻。",
+       "en": "The aśvattha is the sacred fig (Ficus religiosa), the same kind of tree under which the Buddha awakened. The plain Chinese transliterates it 阿湿婆陀树 (āshīpótuó shù), and Chinese readers may not realize it is the 菩提树 (pútí shù, “bodhi tree”). Bhagavad Gita 15.1 uses the same upside-down tree as an image."
+      }
+     ]
+    },
+    {
+     "h": "15672bf3",
+     "en": "This whole moving world, whatever there is, has come forth from breath and trembles in it. It is a great terror, a thunderbolt raised to strike. Those who know it become immortal.",
+     "cmp": [
+      {
+       "w": "vajra",
+       "note": "vajra 是因陀罗的雷电武器。白话「雷杵」，中文读者会想到佛教的金刚杵，那是同一个词后来的用法。",
+       "en": "The vajra is Indra’s thunderbolt weapon. The plain Chinese says 雷杵 (léichǔ, “thunder-club”), and Chinese readers may think of the Buddhist 金刚杵 (jīngāng chǔ, “diamond scepter”), which is a later use of the same word."
+      }
+     ]
+    },
+    {
+     "h": "243c18e3",
+     "en": "From fear of it fire burns; from fear of it the sun gives heat; from fear of it Indra (king of the gods) and Wind, and Death as the fifth, run their course.",
+     "cmp": [
+      {
+       "w": "indra",
+       "note": "因陀罗是吠陀诸神之王，手持雷电。白话注成「雷神」，只说了他的一面。",
+       "en": "Indra is the king of the Vedic gods, who wields the thunderbolt. The plain Chinese glosses him as 雷神 (léishén, “thunder god”), which captures only one side of him."
+      }
+     ]
+    },
+    {
+     "h": "5a4394a3",
+     "en": "If one is able to understand it here, before the body falls apart, then one is freed; otherwise one becomes fit for embodiment in the created worlds.",
+     "cmp": [
+      {
+       "w": "iha ced aśakad boddhum",
+       "note": "原文是半句话：「如果在这里能明白……那么在被造的世界里就要获得身体」，前后接不上。白话补了「（那就好）；不然」，英文补了 then one is freed; otherwise，都是注释的读法。也有人读成「如果在这里没能明白」。",
+       "en": "The original is half a sentence: “If one is able to understand it here... then one becomes fit for embodiment in the created worlds,” and the two halves don’t join up. The plain Chinese adds （那就好）；不然 (“then all is well; otherwise”), and the English adds “then one is freed; otherwise,” both following the commentators. Some read it as “if one is not able to understand it here.”"
+      }
+     ]
+    },
+    {
+     "h": "224f4dd2",
+     "en": "As in a mirror, so in the self; as in a dream, so in the world of the ancestors; as one half-sees in water, so in the world of the Gandharvas (heavenly musicians); as in shadow and light, so in the world of Brahman."
+    },
+    {
+     "h": "69538ed1",
+     "en": "Knowing that the senses are separate, that they arise separately, and that they rise and set, the wise man does not grieve."
+    },
+    {
+     "h": "61289689",
+     "en": "Higher than the senses is the mind; higher than the mind is sattva (here, the intellect); above sattva is the great self; higher than the great is the unmanifest.",
+     "cmp": [
+      {
+       "w": "sattva",
+       "note": "这里的 sattva 就是第 3.10 颂的觉（buddhi），不是数论三德里的那个萨埵。白话和英文都在括号里说明了。",
+       "en": "Sattva here is the buddhi of verse 3.10, not the sattva among Sāṃkhya’s three guṇas. The plain Chinese and the English both explain this in brackets."
+      }
+     ]
+    },
+    {
+     "h": "e110a82d",
+     "en": "But higher than the unmanifest is the Person, all-pervading and without any mark. Knowing him, a creature is freed and goes to immortality."
+    },
+    {
+     "h": "a9ed3c38",
+     "en": "His form does not stand within sight; no one sees him with the eye. He is grasped by the heart, by insight, by the mind. Those who know this become immortal."
+    },
+    {
+     "h": "0ce74191",
+     "en": "When the five knowing senses are still, together with the mind, and buddhi does not stir, that, they say, is the highest state."
+    },
+    {
+     "h": "35f53192",
+     "en": "This they consider yoga: the steady holding of the senses. Then one becomes free of distraction, for yoga comes and goes.",
+     "cmp": [
+      {
+       "w": "yoga / prabhavāpyayau",
+       "note": "这是古书里最早给「瑜伽」下的定义之一：牢牢把住感官，比《瑜伽经》的「止息心的波动」更早。prabhavāpyayau「生起和消失」可以读成「瑜伽会来也会走（所以要警醒）」，也可以读成「瑜伽是（一切的）生起和消没」。白话和英文都取前者。",
+       "en": "This is one of the earliest definitions of yoga in the old texts: the steady holding of the senses, older than the Yoga Sūtras’ “stilling of the movements of the mind.” Prabhavāpyayau, “arising and passing away,” can be read as “yoga comes and goes (so stay alert)” or “yoga is the arising and dissolving (of everything).” The plain Chinese and the English both take the first."
+      }
+     ]
+    },
+    {
+     "h": "35cfd32a",
+     "en": "It cannot be reached by speech, nor by mind, nor by sight. How can it be grasped, except from one who says, “It is”?",
+     "cmp": [
+      {
+       "w": "astīti bruvato 'nyatra",
+       "note": "可以读成「除了从说『它存在』的人那里」（靠老师），也可以读成「除了说『它存在』之外」（只能这样肯定它）。白话和英文都取前者。",
+       "en": "This can be read as “except from one who says ‘It is’” (relying on a teacher) or “other than by saying ‘It is’” (that is the only way to affirm it). The plain Chinese and the English both take the first."
+      }
+     ]
+    },
+    {
+     "h": "ebb1e6ee",
+     "en": "It should be grasped simply as “It is,” and as the true nature of both. For one who has grasped it as “It is,” its true nature becomes clear.",
+     "cmp": [
+      {
+       "w": "ubhayoḥ",
+       "note": "「两者的」原文没说是哪两者，意思不明。注释说是「有条件的和无条件的」两面。白话和英文都照字面。",
+       "en": "“Of both”: the original doesn’t say which two, and the meaning is unclear. The commentators say the conditioned and the unconditioned aspects. The plain Chinese and the English both translate literally."
+      }
+     ]
+    },
+    {
+     "h": "0abf5506",
+     "en": "When all the desires lodged in one’s heart are let go, then a mortal becomes immortal; he reaches Brahman here."
+    },
+    {
+     "h": "efc8398d",
+     "en": "When all the knots of the heart are cut here, then a mortal becomes immortal. That is the whole of the teaching.",
+     "cmp": [
+      {
+       "w": "prabhidyante",
+       "note": "prabhid 是「劈开、斩断」，比白话「解开」更猛；英文 cut 接近原文。",
+       "en": "Prabhid means “to split, cut apart,” stronger than the plain Chinese 解开 (jiěkāi, “untie”); the English “cut” is closer to the original."
+      }
+     ]
+    },
+    {
+     "h": "58611445",
+     "en": "The heart has a hundred and one channels; one of them goes out through the crown of the head. Going up by it, one reaches immortality; the others go off in all directions at the time of departure.",
+     "cmp": [
+      {
+       "w": "nāḍī",
+       "note": "nāḍī 是「管、脉道」，后来成为瑜伽和密教的气脉说。白话「脉」，中文读者会想到中医的经脉，两者不是一回事。",
+       "en": "Nāḍī means “tube, channel,” and later became the basis of yogic and Tantric teaching on subtle channels. The plain Chinese says 脉 (mài, “vessel, pulse”), which Chinese readers will associate with the meridians of Chinese medicine, a different system."
+      }
+     ]
+    },
+    {
+     "h": "913a6de7",
+     "en": "The Person the size of a thumb, the inner self, always dwells in the hearts of people. One should draw him out of one’s own body with steadiness, as a stalk is drawn out of muñja grass. One should know him as the bright, the immortal; one should know him as the bright, the immortal."
+    },
+    {
+     "h": "e8524e43",
+     "en": "Then Nachiketas, having received this knowledge told by Death, and the whole method of yoga, reached Brahman and became free of passion and free of death. So will anyone else who knows the inner self in this way.",
+     "cmp": [
+      {
+       "w": "viraja",
+       "note": "viraja 字面是「离了尘垢」，rajas 是「尘、激情」，也就是数论三德里的罗阇。白话「离开了污垢」取本义，英文 free of passion 取引申义。",
+       "en": "Viraja literally means “free of dust”; rajas means “dust, passion,” the same word as the guṇa rajas in Sāṃkhya. The plain Chinese 离开了污垢 (“free of dirt”) takes the literal sense; the English “free of passion” takes the extended one."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -9,13 +9,17 @@
  "source": {
   "orig": {
    "name": "CBETA T20n1113B（不空译悉昙本）",
+   "en": "CBETA T20n1113B",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   },
   "old": {
    "name": "CBETA T20n1060",
+   "en": "CBETA T20n1060",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

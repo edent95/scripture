@@ -9,13 +9,17 @@
  "source": {
   "orig": {
    "name": "Dhruva 校本（GOS 38，1930），本站据 OCR 校订",
+   "en": "Dhruva edition (GOS 38, 1930), corrected by this site from OCR",
    "url": "https://jainqq.org/",
-   "license": "公有领域"
+   "license": "公有领域",
+   "licenseEn": "public domain"
   },
   "old": {
    "name": "CBETA T32n1630",
+   "en": "CBETA T32n1630",
    "url": "https://cbetaonline.dila.edu.tw/",
-   "license": "CBETA 非商业使用条款"
+   "license": "CBETA 非商业使用条款",
+   "licenseEn": "CBETA non-commercial terms"
   }
  },
  "chapters": [

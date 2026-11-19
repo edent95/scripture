@@ -1,0 +1,330 @@
+{
+ "slug": "thirty-verses",
+ "title": "Thirty Verses on Consciousness Only",
+ "summary": "Vasubandhu in thirty verses: the “self” and the “world” are what consciousness itself projects, from the store consciousness to the final turning around.",
+ "compare": [
+  "这部论最关键的词是 vijñapti。中文古译和白话都写「识」，跟 vijñāna（识）用同一个字；英文传统上也常把 vijñaptimātra 译成 consciousness only（唯识）。但梵文这两个词不一样：vijñāna 是能认知的那个心，vijñapti 字面是「使人知道」，指东西在心里显现出来的样子，也就是「表象」。本站英文把 vijñāna 一律译成 consciousness，把 vijñapti 一律译成 representation，所以 vijñaptimātra 写成 nothing but representation（只是表象），书名仍沿用通行的 Consciousness Only。中文读者在「唯识」两个字里看不到这层区别，英文读者能看到。第 28 颂梵文换成 vijñānamātra（只是识），英文也跟着换成 consciousness only。",
+  "第二个词是 pariṇāma。玄奘译「能变、转变」，白话写「变现」，英文写 transformation。「变现」带着「变出来给人看」的意思，比梵文多一点；梵文 pariṇāma 本义只是「变成另一个样子、成熟」，英文 transformation 比较贴近。论里说识有三种 transformation：ālayavijñāna（store consciousness，仓库识、阿赖耶识）、manas（末那，执着「我」的那个思量）、以及对六种对象的觉知。",
+  "第三个现象是玄奘的改动。玄奘本的三十颂和梵本大体对得上，但有几处按《成唯识论》的体系调整过：他把悔、眠、寻、伺另立为「不定」，梵本只说它们「两两各有两种」，仍放在随烦恼里；第 17 颂他写「分别、所分别，由此彼皆无」，两边都否定，梵本只说「被分别的东西」不存在。英文照梵本走，这些地方在各段的三语对照里标出。"
+ ],
+ "compareEn": [
+  "The key word in this treatise is vijñapti. The classical Chinese and the plain Chinese both write 识 (shí, “consciousness”), the same character used for vijñāna; English tradition also often renders vijñaptimātra as “consciousness only.” But in Sanskrit these are two different words: vijñāna is the mind that knows, while vijñapti literally means “a making-known,” the way something appears in the mind, that is, a representation. This site’s English always renders vijñāna as “consciousness” and vijñapti as “representation,” so vijñaptimātra becomes “nothing but representation,” while the book title keeps the familiar “Consciousness Only.” Chinese readers cannot see this distinction inside the two characters 唯识 (wéishí, “only consciousness”); English readers can. In verse 28 the Sanskrit switches to vijñānamātra, “consciousness only,” and the English switches with it.",
+  "The second word is pariṇāma. Xuanzang renders it 能变、转变 (néngbiàn, zhuǎnbiàn, “that which transforms, transformation”), and the plain Chinese writes 变现 (biànxiàn, “transform and manifest”). 变现 carries a sense of “conjuring something up to be seen,” a little more than the Sanskrit; pariṇāma simply means “turning into another state, ripening,” and the English “transformation” stays closer to it. The treatise says consciousness has three transformations: the ālayavijñāna (store consciousness), manas (the thinking mind that clings to “I”), and the awareness of the six kinds of object.",
+  "The third point is Xuanzang’s adjustments. His thirty verses largely match the Sanskrit, but in a few places he brings them into line with the system of his own commentary, the Cheng weishi lun: he sets regret, sleep, initial thought and sustained thought apart as a separate class, 不定 (búdìng, “indeterminate”), while the Sanskrit simply says the two pairs are “each twofold” and leaves them among the secondary afflictions; and in verse 17 he writes 分别、所分别，由此彼皆无 (“the constructing and the constructed, therefore neither exists”), negating both sides, while the Sanskrit says only that what is constructed does not exist. The English follows the Sanskrit, and these places are marked in the comparison notes under each verse."
+ ],
+ "chapters": [
+  {
+   "title": "Thirty Verses on Consciousness Only",
+   "verses": [
+    {
+     "h": "069b13ce",
+     "en": "Here begin the Thirty Verses on Nothing but Representation. This is the work of the teacher Vasubandhu (an Indian Buddhist master of about the fifth century).",
+     "cmp": [
+      {
+       "w": "triṃśikāvijñaptikārikāḥ",
+       "note": "书名字面是「表象三十颂」。中文通称《唯识三十颂》，英文书名也沿用通行的 Consciousness Only，但正文里 vijñapti 一律译 representation（表象），跟 vijñāna（consciousness，识）分开。",
+       "en": "The title literally means “Thirty Verses on Representation.” Chinese calls it 唯识三十颂 (Wéishí sānshí sòng, “Thirty Verses on Consciousness Only”), and the English book title keeps the familiar “Consciousness Only,” but in the text vijñapti is always rendered “representation,” kept apart from vijñāna, “consciousness.”"
+      }
+     ]
+    },
+    {
+     "h": "a0a38d9a",
+     "en": "All the many ways people speak of a “self” and of “things” (dharmas, the elements that make up the world) are only figures of speech. They rest on the transformation (pariṇāma) of consciousness, and this transformation is of three kinds.",
+     "cmp": [
+      {
+       "w": "upacāra",
+       "note": "「借用的说法、比喻性的用法」。英文 figures of speech、白话「借来的叫法」都对；玄奘译「假说」，读者容易理解成「虚假的说法」，梵文的重点是「不是本义」，不是「假」。",
+       "en": "“A borrowed or figurative usage.” The English “figures of speech” and the plain Chinese 借来的叫法 (jièlái de jiàofǎ, “borrowed names”) both fit. Xuanzang’s 假说 (jiǎshuō) is easily read as “false talk,” but the Sanskrit stresses “not the literal sense,” not “false.”"
+      },
+      {
+       "w": "pariṇāma",
+       "note": "本义是「变成另一个样子、成熟」。英文 transformation 贴近原义；白话「变现」多了「变出来给人看」的意思，玄奘「能变」则强调变的主体。",
+       "en": "The basic meaning is “turning into another state, ripening.” The English “transformation” stays close to it; the plain Chinese 变现 (biànxiàn, “transform and manifest”) adds a sense of conjuring something up to be seen, and Xuanzang’s 能变 (néngbiàn, “that which transforms”) puts the stress on the transformer."
+      }
+     ]
+    },
+    {
+     "h": "c872e8b5",
+     "en": "These three are: ripening, the one called “thinking,” and the representation of objects. Of these, the consciousness called ālaya (“storehouse, dwelling”), the store consciousness (ālayavijñāna), is the ripening; it holds all the seeds.",
+     "cmp": [
+      {
+       "w": "ālayavijñāna",
+       "note": "ālaya 是「仓库、住处」。英文 store consciousness 把这个意象译出来了；中文用音译「阿赖耶识」，意象只留在注里。",
+       "en": "Ālaya means “storehouse, dwelling.” The English “store consciousness” translates that image; Chinese uses the transcription 阿赖耶识 (ālàiyē shí), and the image survives only in notes."
+      },
+      {
+       "w": "vipāka",
+       "note": "「成熟、果报」：过去的业成熟后结出的结果。英文 ripening 保留了「果子成熟」的比喻；玄奘「异熟」强调「隔了一段时间、性质不同地成熟」。",
+       "en": "“Ripening, result”: what comes when past karma ripens. The English “ripening” keeps the image of fruit; Xuanzang’s 异熟 (yìshú, “ripening differently”) stresses that it ripens later and in a different form from its cause."
+      }
+     ]
+    },
+    {
+     "h": "695f77ba",
+     "en": "What it takes hold of (the body and the seeds), the place it holds as its world, and the way it represents them are all beyond awareness. It is always accompanied by contact, attention, feeling, perception and intention.",
+     "cmp": [
+      {
+       "w": "asaṃviditaka",
+       "note": "「觉察不到的」。玄奘译「不可知」，听起来像「原则上不能知道」；梵文只是说平常意识觉察不到它。",
+       "en": "“Not noticed.” Xuanzang’s 不可知 (bù kězhī, “unknowable”) sounds like “impossible in principle to know”; the Sanskrit just says ordinary awareness does not notice it."
+      },
+      {
+       "w": "sparśa · manaskāra · vit · sañjñā · cetanā",
+       "note": "五个遍行心所。英文 contact, attention, feeling, perception, intention 都是日常词，比中文「触、作意、受、想、思」容易懂，但范围比梵文专门术语宽。",
+       "en": "The five ever-present mental factors. The English contact, attention, feeling, perception and intention are everyday words, easier than the Chinese 触、作意、受、想、思 (chù, zuòyì, shòu, xiǎng, sī), but broader than the Sanskrit technical terms."
+      }
+     ]
+    },
+    {
+     "h": "457c0b39",
+     "en": "Its feeling is neutral, neither painful nor pleasant. It is unobstructed and morally undetermined (it does not block liberation, and it is neither good nor bad). So too are contact and the rest. It runs on like a rushing stream.",
+     "cmp": [
+      {
+       "w": "anivṛtāvyākṛta",
+       "note": "「无覆无记」：不遮蔽（解脱），也不被判定为善或恶。英文 unobstructed and morally undetermined 是拆开直译，再在括号里解释；中文四字术语一般读者看不懂，白话也要加括号。",
+       "en": "无覆无记 (wúfù wújì, “unveiled, unrecorded”): it does not veil liberation and is not classed as good or bad. The English renders it piece by piece and explains in brackets; the four-character Chinese term is opaque to most readers, so the plain Chinese adds brackets too."
+      }
+     ]
+    },
+    {
+     "h": "d6bf7e1c",
+     "en": "It stops when one becomes an arhat (a saint who has ended all afflictions). Resting on it and taking it as its object runs the consciousness called manas (“mind”), whose very nature is thinking.",
+     "cmp": [
+      {
+       "w": "manas",
+       "note": "manas 一般就是「意、心」。英文保留 manas 原词，中文音译「末那」；如果译成 mind，会和第六识「意识」混在一起。",
+       "en": "Manas ordinarily just means “mind.” The English keeps the Sanskrit word and Chinese transcribes it as 末那 (mònà); translating it as “mind” would blur it with the sixth consciousness, the mind consciousness."
+      }
+     ]
+    },
+    {
+     "h": "ce632e25",
+     "en": "It is always accompanied by four afflictions, which are obstructed but morally undetermined. They are called: self-view, self-delusion, self-conceit and self-love.",
+     "cmp": [
+      {
+       "w": "ātmadṛṣṭi",
+       "note": "梵文四个都以 ātma-（我）开头，英文用 self- 开头照样排出；玄奘的次序是「我痴、我见、我慢、我爱」，把痴放到最前，和梵本次序不同。",
+       "en": "In Sanskrit all four begin with ātma-, “self,” and the English lines them up with “self-” in the same way. Xuanzang’s order is 我痴、我见、我慢、我爱 (self-delusion, self-view, self-conceit, self-love), putting delusion first, unlike the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "4d9d09d7",
+     "en": "It belongs to whatever realm one is born in, and it comes with contact and the other factors of that same realm. The arhat does not have it; nor does one in the attainment of cessation (a deep meditation in which all mental activity stops); nor does one on the path beyond the world."
+    },
+    {
+     "h": "ccd3afc9",
+     "en": "That is the second transformation. The third is the perception of the six kinds of object (sights, sounds, smells, tastes, touches and mental objects); it can be wholesome, unwholesome, or neither."
+    },
+    {
+     "h": "caa88cb5",
+     "en": "It is joined with mental factors that are ever-present, that are specific, and that are wholesome; likewise with the afflictions and the secondary afflictions; and with all three kinds of feeling.",
+     "cmp": [
+      {
+       "w": "upakleśa",
+       "note": "梵本这里只列遍行、别境、善、烦恼、随烦恼五类；玄奘多列一类「不定」。英文照梵本。",
+       "en": "The Sanskrit lists only five classes here: ever-present, specific, wholesome, afflictions and secondary afflictions. Xuanzang adds a sixth, 不定 (búdìng, “indeterminate”). The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "e72b67af",
+     "en": "The first group is contact and the rest. Desire, conviction and memory, together with concentration and understanding, are the specific ones. Then faith, self-respect and regard for others,",
+     "cmp": [
+      {
+       "w": "hrī · apatrapā",
+       "note": "「惭、愧」：hrī 是对自己的羞耻心，apatrapā 是顾忌别人看法的羞耻心。英文 self-respect and regard for others 是意译，用来分出两者；中文「惭愧」现在常当成一个词。",
+       "en": "Hrī is shame before oneself; apatrapā is shame with regard to others. The English “self-respect and regard for others” paraphrases to keep the two apart; in modern Chinese, 惭愧 (cánkuì) is usually heard as a single word, “ashamed.”"
+      }
+     ]
+    },
+    {
+     "h": "6392789b",
+     "en": "the three beginning with non-greed (non-greed, non-hatred, non-delusion), effort, ease (a light, pliant body and mind), along with heedfulness, and harmlessness: these are the wholesome ones. The afflictions are greed, aversion and delusion,",
+     "cmp": [
+      {
+       "w": "praśrabdhiḥ sāpramādikā",
+       "note": "梵本善心所列到这里是十种；玄奘多了一个「行舍」，凑成《成唯识论》的十一善。英文照梵本，没有「舍」。",
+       "en": "The Sanskrit lists ten wholesome factors up to here; Xuanzang adds 行舍 (xíngshě, “equanimity”), making the eleven wholesome factors of his commentary. The English follows the Sanskrit and has no equanimity."
+      }
+     ]
+    },
+    {
+     "h": "7e45fa87",
+     "en": "conceit, wrong view and doubt. Then anger, resentment, concealment, spite, envy, stinginess, together with deceit,"
+    },
+    {
+     "h": "66d097b0",
+     "en": "guile, vanity, cruelty, shamelessness, disregard for others, dullness, restlessness, lack of faith, laziness, carelessness, lapses of memory,"
+    },
+    {
+     "h": "76a47dec",
+     "en": "distraction, lack of clear knowing, and also regret, drowsiness, initial thought and sustained thought: these are the secondary afflictions. The last two pairs are each of two kinds (they can be defiled or not).",
+     "cmp": [
+      {
+       "w": "upakleśā dvaye dvidhā",
+       "note": "梵本把悔、眠、寻、伺也放在随烦恼里，只说这两对「各有两种」。玄奘另立「不定」一类：「不定谓悔、眠，寻、伺二各二」。英文照梵本。",
+       "en": "The Sanskrit keeps regret, drowsiness, initial thought and sustained thought among the secondary afflictions and only says these two pairs are “each twofold.” Xuanzang makes them a separate class: 不定谓悔、眠，寻、伺二各二 (“the indeterminate are regret and sleep; initial and sustained thought, each twofold”). The English follows the Sanskrit."
+      },
+      {
+       "w": "vitarka · vicāra",
+       "note": "「寻、伺」：粗略地想、细细地想。英文 initial thought / sustained thought 是常见的拆法；中文单字「寻、伺」不加解释很难懂。",
+       "en": "Vitarka and vicāra: rough thinking and fine thinking. “Initial thought” and “sustained thought” are a common way to split them in English; the single Chinese characters 寻 (xún, “seek”) and 伺 (sì, “watch”) are hard to follow without explanation."
+      }
+     ]
+    },
+    {
+     "h": "20ef90b3",
+     "en": "In the root consciousness, the five consciousnesses (of eye, ear, nose, tongue and body) arise as their conditions allow, sometimes together and sometimes not, like waves on water."
+    },
+    {
+     "h": "d839cd0f",
+     "en": "Mind consciousness arises at all times, except in the state without perception (rebirth among the gods who have no perception), in the two attainments (without perception and of cessation), and in mindless sleep and fainting."
+    },
+    {
+     "h": "37a10444",
+     "en": "This transformation of consciousness is construction (vikalpa, the mind building up pictures). What is constructed by it does not, for that reason, exist. Therefore all this is nothing but representation (vijñaptimātra).",
+     "cmp": [
+      {
+       "w": "yad vikalpyate tena tan nāsti",
+       "note": "梵本只说「被分别出来的东西」不存在。玄奘译「分别、所分别，由此彼皆无」，把能分别的一方也否定了，这是按《成唯识论》的读法。英文和白话照梵本。",
+       "en": "The Sanskrit says only that “what is constructed” does not exist. Xuanzang writes 分别、所分别，由此彼皆无 (“the constructing and the constructed: therefore neither exists”), negating the constructing side too, which follows the reading of his own commentary. The English and the plain Chinese follow the Sanskrit."
+      },
+      {
+       "w": "vijñaptimātraka",
+       "note": "「只是表象」。白话和玄奘都写「唯识」，跟 vijñāna 的「识」同一个字；英文写 nothing but representation，把 vijñapti（显现在心里的样子）和 vijñāna（认知的心）分开。",
+       "en": "“Nothing but representation.” Both the plain Chinese and Xuanzang write 唯识 (wéishí, “only consciousness”), using the same character as for vijñāna; the English writes “nothing but representation,” keeping vijñapti (the way something appears in the mind) apart from vijñāna (the mind that knows)."
+      }
+     ]
+    },
+    {
+     "h": "aa1109a8",
+     "en": "For consciousness, which holds all the seeds, transforms in this way and that through their influence on one another, and from this, this or that construction is born."
+    },
+    {
+     "h": "f1a6987c",
+     "en": "The imprints (vāsanā, traces left like a scent in cloth) of karma, together with the imprints of the twofold grasping (of a grasping mind and a grasped object), produce a new ripening when the previous ripening is used up.",
+     "cmp": [
+      {
+       "w": "vāsanā",
+       "note": "本义是「熏染、留香」，像香气熏进衣服。英文 imprints 保留了「留下痕迹」的意思，括号补出熏香的意象；中文「习气」偏「习惯」，熏香的画面要靠玄奘的「熏习」才看得到。",
+       "en": "The basic meaning is “perfuming,” like a scent soaking into cloth. The English “imprints” keeps the idea of a trace left behind, and the brackets add the image of scent; the Chinese 习气 (xíqì, “habit-energy”) leans toward “habit,” and the scent image shows up only in Xuanzang’s 熏习 (xūnxí, “perfuming”)."
+      }
+     ]
+    },
+    {
+     "h": "69ca033d",
+     "en": "Whatever thing is constructed by whatever construction, that is the imagined nature (parikalpita); it does not exist."
+    },
+    {
+     "h": "b55b29c4",
+     "en": "The dependent nature (paratantra, “depending on something else”) is construction itself, born from conditions. The perfected nature (pariniṣpanna) is the dependent’s being forever free of the first.",
+     "cmp": [
+      {
+       "w": "niṣpanna",
+       "note": "梵文颂里只写 niṣpanna「完成的」，是 pariniṣpanna 的简写。英文 perfected、玄奘「圆成实」都是按全称译。",
+       "en": "The verse itself has only niṣpanna, “completed,” a short form of pariniṣpanna. The English “perfected” and Xuanzang’s 圆成实 (yuánchéngshí, “perfectly accomplished and real”) both translate the full term."
+      }
+     ]
+    },
+    {
+     "h": "2c7cfdc9",
+     "en": "That is exactly why it is neither different from the dependent nor the same as it. It should be spoken of the way impermanence and the like are (in relation to impermanent things). Unless this is seen, that is not seen."
+    },
+    {
+     "h": "8cdcfc1e",
+     "en": "With the threefold absence of own-nature of the three natures in mind, (the Buddha) taught that all things lack own-nature.",
+     "cmp": [
+      {
+       "w": "sandhāya",
+       "note": "「心里想着、有所指地」。英文 with … in mind 照字面；玄奘译「密意说」，带了「秘密的用意」的意思，比梵文更神秘。",
+       "en": "“Having in mind, with reference to.” The English “with … in mind” is literal; Xuanzang’s 密意说 (mìyì shuō, “spoke with a hidden intention”) makes it sound more secret than the Sanskrit does."
+      },
+      {
+       "w": "niḥsvabhāvatā",
+       "note": "「没有自性」：没有独立、不变的本质。英文 lack own-nature 和心经英译的 own-nature 用同一个词；中文「无性」容易被读成「没有性质」。",
+       "en": "“Absence of own-nature”: having no independent, unchanging essence. The English “lack own-nature” uses the same term as the site’s Heart Sutra; the Chinese 无性 (wúxìng, “no nature”) is easily read as “having no qualities.”"
+      }
+     ]
+    },
+    {
+     "h": "86b94d05",
+     "en": "The first lacks own-nature by its very defining mark. The next, again, does not exist by itself: that is another absence of own-nature.",
+     "cmp": [
+      {
+       "w": "aparā niḥsvabhāvatā",
+       "note": "梵本这一颂只明说两种无性，第三种（胜义无性）在下一颂讲。玄奘把三种都塞进这一颂：「初即相无性，次无自然性，后由远离前」。也有注家把 aparā 读成引出第三种。英文和白话照字面译。",
+       "en": "This Sanskrit verse spells out only two of the three absences; the third (absence of own-nature in the ultimate sense) comes in the next verse. Xuanzang fits all three into this one: 初即相无性，次无自然性，后由远离前 (“the first lacks nature in its mark, the next lacks self-arising, the last by being free of the former”). Some commentators read aparā as introducing the third. The English and the plain Chinese translate literally."
+      }
+     ]
+    },
+    {
+     "h": "723983b4",
+     "en": "And it is the ultimate truth of all things, so it is also suchness (tathatā, “being just as it is”), because it is so at every time. It is itself the state of nothing but representation."
+    },
+    {
+     "h": "281e0e94",
+     "en": "As long as consciousness does not rest in nothing but representation, the latent tendency (anuśaya, a habit buried like a seed) toward the twofold grasping will not turn back.",
+     "cmp": [
+      {
+       "w": "anuśaya",
+       "note": "「潜伏的倾向」。英文 latent tendency 照义译；玄奘「随眠」是「跟着、睡着」，画面是一直跟着人、在睡着的烦恼。",
+       "en": "“Latent tendency.” The English translates the sense; Xuanzang’s 随眠 (suímián, “following and sleeping”) gives the picture of an affliction that follows you around while lying asleep."
+      },
+      {
+       "w": "nāvatiṣṭhati",
+       "note": "「没有安住」。玄奘译「乃至未起识，求住唯识性」，多了「求住」，变成「还在求着安住」。",
+       "en": "“Does not rest.” Xuanzang writes 乃至未起识，求住唯识性 (“until consciousness arises that seeks to rest in consciousness-only”), adding “seeks to,” so it becomes “still striving to rest.”"
+      }
+     ]
+    },
+    {
+     "h": "eaf3eac0",
+     "en": "Even thinking “this is nothing but representation,” as long as you take hold of something and set some object up in front of you, you are not resting in just that."
+    },
+    {
+     "h": "9eece2a0",
+     "en": "When consciousness no longer takes hold of any object at all, then it rests in consciousness only: with nothing to be grasped, there is no grasping of it.",
+     "cmp": [
+      {
+       "w": "vijñānamātratve",
+       "note": "这里梵文换成 vijñāna-mātra「只是识」，不是前面的 vijñapti-mātra「只是表象」。英文跟着换成 consciousness only；中文两处都是「唯识」，看不出换了词。玄奘这里还把主语写成「智」，梵文是「识」。",
+       "en": "Here the Sanskrit switches to vijñāna-mātra, “consciousness only,” instead of the earlier vijñapti-mātra, “nothing but representation.” The English switches to “consciousness only” as well; in Chinese both are 唯识 (wéishí), so the change is invisible. Xuanzang also makes the subject 智 (zhì, “wisdom”), while the Sanskrit has “consciousness.”"
+      }
+     ]
+    },
+    {
+     "h": "4d1c0f32",
+     "en": "This is no-mind, this is not taking hold; it is knowledge beyond the world. Through the removal of the two kinds of heaviness (dauṣṭhulya, deep-set burdens), the basis (of body and mind) turns around.",
+     "cmp": [
+      {
+       "w": "acitta",
+       "note": "「无心」：没有分别造作的心。玄奘译「不思议」，意思变成「不可思议」，跟梵文不同。",
+       "en": "“No-mind”: no mind that constructs and discriminates. Xuanzang writes 不思议 (bù sīyì, “inconceivable”), which changes the meaning."
+      },
+      {
+       "w": "āśrayasya parāvṛtti",
+       "note": "「所依的转变」：整个身心的根基翻转过来。英文 the basis turns around 照字面；玄奘「转依」是两个字的术语。",
+       "en": "“The turning around of the basis”: the whole foundation of body and mind flips over. The English is literal; Xuanzang’s 转依 (zhuǎnyī, “turning of the basis”) is a two-character technical term."
+      }
+     ]
+    },
+    {
+     "h": "a6d737e3",
+     "en": "That itself is the realm without outflows (where no affliction leaks out), inconceivable, good, constant and blissful. It is the body of liberation; it is what is called the Dharma(-body) of the great sage (the Buddha).",
+     "cmp": [
+      {
+       "w": "anāsrava",
+       "note": "āsrava 是「漏出、流出」，指烦恼像漏水一样流出来。英文 without outflows 保留了漏的画面；中文「无漏」也是，但现代读者多半以为是「没有遗漏」。",
+       "en": "Āsrava means “outflow, leak”: afflictions seeping out like water. The English “without outflows” keeps the image, and so does the Chinese 无漏 (wúlòu, “without leaking”), though modern Chinese readers usually take it as “without omissions.”"
+      }
+     ]
+    },
+    {
+     "h": "29aac6de",
+     "en": "Here end the Thirty Verses on Nothing but Representation. This is the work of the teacher Vasubandhu."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,419 @@
+{
+ "slug": "gateway-to-logic",
+ "title": "A Gateway to Logic",
+ "summary": "A handbook of debate: how to state a thesis, give a reason and an example, which arguments only look valid, and the two ways of knowing, perception and inference.",
+ "compare": [
+  "先说书名。梵文 Nyāyapraveśa 是「进入 nyāya 的门」，nyāya 本义是「方法、规则、正路」，后来专指辩论和推理的学问。英文 logic 是西方哲学的词，偏重形式推理，而这部书讲的其实是「怎么在辩论里立论、怎么驳人」，比 logic 更实用；玄奘译「入正理」，中文传统又统称这门学问为「因明」（hetuvidyā，关于「理由」的学问）。三种叫法各自偏一边，英文书名用 logic 只是方便读者认出题材。",
+  "第二个差别是术语。玄奘为这部书造了一整套中文术语：宗、因、喻、同品、异品、现量、比量、能立、能破，每个都是一两个字，精炼但不解释就看不懂。英文没有现成的对应词，本站用日常英文意译：pakṣa 译 thesis（主张），hetu 译 reason（理由），dṛṣṭānta 译 example（例子），sapakṣa / vipakṣa 译 similar case / dissimilar case，pratyakṣa / anumāna 译 perception / inference，pramāṇa 译 means of knowing（量）。好处是一读就懂，代价是看不出它们是一套专门术语。",
+  "第三个现象是例句。整部书反复用同一个论证：「声音是无常的，因为它是造出来的，就像瓶子」。这在古印度是真实的争论：弥曼差派主张吠陀的声音是永恒的，佛教主张一切造出来的都会坏。英文、中文都照原样保留这个例子，没有换成现代读者熟悉的例子；读的时候记住它背后是一场宗教争论，就不会觉得这些例句莫名其妙。另外，玄奘本有几处比梵本多（例如多了「怀兔非月」一例），这些在各段的对照注里标出。"
+ ],
+ "compareEn": [
+  "First, the title. Sanskrit Nyāyapraveśa means “the entrance into nyāya”; nyāya originally means “method, rule, the right way,” and later came to mean the discipline of debate and reasoning. The English “logic” is a word from Western philosophy that leans toward formal reasoning, while this book is really about how to state a case in a debate and how to refute one, which is more practical than “logic.” Xuanzang renders the title 入正理 (rù zhènglǐ, “entering right reasoning”), and Chinese tradition calls the whole discipline 因明 (yīnmíng, from hetuvidyā, “the science of reasons”). Each of the three names leans one way; the English title uses “logic” only so readers recognize the subject.",
+  "The second difference is the terminology. Xuanzang coined a whole set of Chinese terms for this book: 宗、因、喻、同品、异品、现量、比量、能立、能破 (zōng, yīn, yù, tóngpǐn, yìpǐn, xiànliàng, bǐliàng, nénglì, néngpò: thesis, reason, example, similar class, dissimilar class, perception, inference, proof, refutation). Each is one or two characters, compact but opaque without explanation. English has no ready equivalents, so the site renders them in everyday English: pakṣa as “thesis,” hetu as “reason,” dṛṣṭānta as “example,” sapakṣa and vipakṣa as “similar case” and “dissimilar case,” pratyakṣa and anumāna as “perception” and “inference,” and pramāṇa as “means of knowing.” The gain is that they are understood at once; the cost is that you cannot see they form a technical system.",
+  "The third point is the examples. The whole book keeps using the same argument: “Sound is impermanent, because it is produced, like a pot.” In ancient India this was a live dispute: the Mimamsa school held that the sounds of the Veda are eternal, while Buddhists held that everything produced must perish. Both the English and the Chinese keep the example as it is rather than swapping in something more familiar; if you remember there is a religious argument behind it, the examples stop looking strange. Xuanzang’s version also has a few things the Sanskrit lacks (such as the extra example of “the hare-bearer is not the moon”), and these are marked in the notes under each passage."
+ ],
+ "chapters": [
+  {
+   "title": "A Gateway to Logic",
+   "verses": [
+    {
+     "h": "fcb54e1f",
+     "en": "Proof and refutation, together with their false look-alikes, are for making others understand. Perception and inference, together with their false look-alikes, are for understanding oneself. That is the whole of this treatise in brief.",
+     "cmp": [
+      {
+       "w": "sābhāsa",
+       "note": "「连同它们的似相（看起来像、其实不是）」。英文 false look-alikes、白话「似是而非的样子」都是意译；玄奘只用一个「似」字。",
+       "en": "“Together with their semblances,” things that look like the real one but are not. The English “false look-alikes” and the plain Chinese 似是而非的样子 (sì shì ér fēi de yàngzi, “seeming right but wrong”) both paraphrase; Xuanzang uses the single character 似 (sì, “seeming”)."
+      },
+      {
+       "w": "sādhana · dūṣaṇa",
+       "note": "「证明」和「驳斥」。英文 proof / refutation 是日常词；玄奘译「能立、能破」，字面「能建立的、能破除的」。",
+       "en": "“Proving” and “refuting.” The English “proof” and “refutation” are everyday words; Xuanzang renders them 能立、能破 (nénglì, néngpò), literally “what can establish, what can break down.”"
+      }
+     ]
+    },
+    {
+     "h": "442103dc",
+     "en": "Of these, the statements of the thesis and the rest are the proof. For by stating a thesis, a reason and an example, a point the questioners did not yet understand is made clear to them.",
+     "cmp": [
+      {
+       "w": "pakṣa · hetu · dṛṣṭānta",
+       "note": "论证的三个部分。英文 thesis, reason, example 是日常词意译；玄奘的「宗、因、喻」三个单字成了中文的专门术语，白话要加括号解释。",
+       "en": "The three parts of an argument. The English “thesis, reason, example” paraphrases in everyday words; Xuanzang’s three single characters 宗、因、喻 (zōng, yīn, yù) became Chinese technical terms, and the plain Chinese needs brackets to explain them."
+      }
+     ]
+    },
+    {
+     "h": "afd07ebd",
+     "en": "Of these, the thesis is a subject that both sides accept, qualified by a property that both sides accept, which the speaker himself wants to prove. To complete the definition, add: it must not contradict perception and the like. For example: “Sound is permanent,” or “Sound is impermanent.”",
+     "cmp": [
+      {
+       "w": "nityaḥ śabdo 'nityo vā",
+       "note": "梵本举了正反两个例子：「声是常」或「声是无常」；玄奘只举「声是无常」。英文照梵本两个都译。",
+       "en": "The Sanskrit gives two examples, for and against: “sound is permanent” or “sound is impermanent”; Xuanzang gives only “sound is impermanent.” The English follows the Sanskrit and translates both."
+      },
+      {
+       "w": "pratyakṣādyaviruddha",
+       "note": "「不与现量等相违」。梵本说这是「补上的一句」；玄奘本这里没有这句，放到后面似宗里讲。",
+       "en": "“Not contradicting perception and the like.” The Sanskrit calls this “the rest of the sentence” to be supplied; Xuanzang leaves it out here and deals with it later, under false theses."
+      }
+     ]
+    },
+    {
+     "h": "416b946d",
+     "en": "The reason has three marks. And what are the three marks? It is a property of the subject of the thesis; it is present in the similar cases; and it is absent from the dissimilar cases.",
+     "cmp": [
+      {
+       "w": "pakṣadharmatvaṃ sapakṣe sattvaṃ vipakṣe cāsattvam",
+       "note": "梵本三相很简短：「是宗法」「同品中有」「异品中无」。玄奘加了「遍」「定」「遍」：「遍是宗法性、同品定有性、异品遍无性」，把量词说得更严格。英文照梵本。",
+       "en": "The Sanskrit states the three marks briefly: “a property of the subject,” “present in similar cases,” “absent in dissimilar cases.” Xuanzang adds quantifiers: 遍是宗法性、同品定有性、异品遍无性 (“wholly a property of the subject, definitely present in the similar class, wholly absent in the dissimilar class”), making them stricter. The English follows the Sanskrit."
+      }
+     ]
+    },
+    {
+     "h": "e57a8358",
+     "en": "Then what is a similar case, and what is a dissimilar case? A similar case is a thing that shares, in a general way, the property to be proved. For example, when the point to prove is that sound is impermanent, a pot or the like, being impermanent, is a similar case. A dissimilar case is one where the property to be proved is absent: “Whatever is permanent is seen to be unproduced, like space.”",
+     "cmp": [
+      {
+       "w": "sapakṣa · vipakṣa",
+       "note": "字面「同一边的、另一边的」。英文 similar case / dissimilar case；玄奘「同品、异品」的「品」是「类」的意思。",
+       "en": "Literally “on the same side” and “on the other side.” The English says “similar case” and “dissimilar case”; in Xuanzang’s 同品、异品 (tóngpǐn, yìpǐn), 品 means “class.”"
+      }
+     ]
+    },
+    {
+     "h": "7519540d",
+     "en": "Here, being produced, or arising immediately after an effort, is present only in similar cases and never in dissimilar cases. So it is a reason for impermanence and the like.",
+     "cmp": [
+      {
+       "w": "prayatnānantarīyakatva",
+       "note": "「紧接在努力之后（才发出的）」，指声音是人用力说出来的。英文 arising immediately after an effort 照字面；玄奘「勤勇无间所发性」也是逐字对译。",
+       "en": "“Coming right after an effort,” meaning a sound is produced by someone’s exertion. The English is literal, and so is Xuanzang’s word-for-word 勤勇无间所发性 (qínyǒng wújiàn suǒ fā xìng, “the nature of being produced without gap after effort”)."
+      },
+      {
+       "w": "sapakṣa evāsti",
+       "note": "梵本这里不再提「是宗法」；玄奘把三相全部重说一遍（「遍是宗法性，同品定有性，异品遍无性」）。",
+       "en": "The Sanskrit does not repeat “a property of the subject” here; Xuanzang restates all three marks in full."
+      }
+     ]
+    },
+    {
+     "h": "81381b20",
+     "en": "The example is of two kinds: by similarity and by difference. First, by similarity: this is where the reason is shown to be present only in similar cases. For example: “Whatever is produced is seen to be impermanent, like a pot and the like.”"
+    },
+    {
+     "h": "2399d6d6",
+     "en": "And by difference: this is where it is said that where the property to be proved is absent, the reason is absent too. For example: “Whatever is permanent is seen to be unproduced, like space.” Here the word “permanent” only expresses the absence of impermanence, and the word “unproduced” only expresses the absence of being produced; just as the absence of something existent is called “absence” (there is no separate thing called “absence”).",
+     "cmp": [
+      {
+       "w": "bhāvābhāvo 'bhāva",
+       "note": "意思是：「常」只是「无常」的不存在，并不是另外一样正面的东西。英文和白话都在括号里补了说明；玄奘「如有非有，说名非有」照字面，比较难懂。",
+       "en": "The point: “permanent” is merely the absence of impermanence, not some further positive thing. The English and the plain Chinese both add an explanation in brackets; Xuanzang’s literal 如有非有，说名非有 (“as the non-being of being is called non-being”) is harder to follow."
+      }
+     ]
+    },
+    {
+     "h": "0d8c43d6",
+     "en": "The thesis and the rest have been explained. Stating them when convincing others is the proof. For example: “Sound is impermanent” is the statement of the thesis. “Because it is produced” is the statement of the property of the subject (the reason). “Whatever is produced is seen to be impermanent, like a pot and the like” is the statement of agreement with the similar cases. “Whatever is permanent is seen to be unproduced, like space” is the statement of exclusion. These alone are called the three members (of an argument).",
+     "cmp": [
+      {
+       "w": "trayo 'vayavāḥ",
+       "note": "「三个组成部分」：宗、因、喻（喻分同、异两句）。陈那以前的印度论式有五支，这里只要三支。英文 three members 照字面；玄奘写「唯此三分，说名能立」，把「三支就是能立」直接说出。",
+       "en": "“Three members”: thesis, reason and example (the example in two sentences, similar and dissimilar). Indian argument forms before Dignaga had five members; here three are enough. The English is literal; Xuanzang writes 唯此三分，说名能立 (“these three parts alone are called the proof”), stating the link to proof directly."
+      }
+     ]
+    },
+    {
+     "h": "33fc99c3",
+     "en": "Even if the speaker wants to prove it, a thesis that contradicts perception and the like is a false thesis. These are: contradicting perception (1), contradicting inference (2), contradicting scripture (3), contradicting common knowledge (4), contradicting one’s own words (5), an unaccepted predicate (6), an unaccepted subject (7), both unaccepted (8), and an already accepted connection (9).",
+     "cmp": [
+      {
+       "w": "āgamaviruddha",
+       "note": "「与（自己学派的）经典相违」。梵文 āgama 只是「传承下来的教典」；玄奘译「自教相违」，把「自己的」说得更明白，英文 scripture 则没有点出是自己学派的。",
+       "en": "“Contradicting scripture,” meaning one’s own school’s texts. Sanskrit āgama just means “handed-down teaching”; Xuanzang’s 自教相违 (zìjiào xiāngwéi, “contradicting one’s own teaching”) makes “one’s own” explicit, while the English “scripture” does not."
+      }
+     ]
+    },
+    {
+     "h": "27471e66",
+     "en": "Of these, contradicting perception is, for example: “Sound is not heard.” Contradicting inference: “A pot is permanent.” Contradicting scripture: a Vaisheshika (a school that holds sound to be impermanent) arguing “Sound is permanent.” Contradicting common knowledge: “A human skull is pure, because it is part of a living being, like a conch shell or an oyster shell.” Contradicting one’s own words: “My mother is barren.”",
+     "cmp": [
+      {
+       "w": "lokaviruddha",
+       "note": "梵本「与世间相违」只举了人头骨一例；玄奘多了一例「怀兔非月，有故」（月亮里有兔，说「怀兔的不是月亮」就违背常识）。英文照梵本。",
+       "en": "For “contradicting common knowledge” the Sanskrit gives only the skull example; Xuanzang adds another, 怀兔非月，有故 (“the hare-bearer is not the moon, because it exists”: in Indian lore the moon carries a hare, so denying it goes against common belief). The English follows the Sanskrit."
+      },
+      {
+       "w": "vandhyā",
+       "note": "「不能生育的女人」。玄奘译「石女」，是中文旧说法，现代读者不一定懂；英文 barren 意思直接。",
+       "en": "“A woman who cannot bear children.” Xuanzang writes 石女 (shínǚ, “stone woman”), an old Chinese expression modern readers may not know; the English “barren” is direct."
+      }
+     ]
+    },
+    {
+     "h": "2a4c6448",
+     "en": "An unaccepted predicate is, for example, a Buddhist telling a Samkhya (a school that denies real destruction) that “Sound is perishable.” An unaccepted subject: a Samkhya telling a Buddhist (who accepts no self) that “The self is conscious.” Both unaccepted: a Vaisheshika telling a Buddhist that “The self is the inherent cause of pleasure and the like.” An already accepted connection: “Sound is heard.”",
+     "cmp": [
+      {
+       "w": "sukhādisamavāyikāraṇam",
+       "note": "「快乐等的内在因」：samavāyi-kāraṇa 是胜论派术语，指「性质依附其上的那个实体」。玄奘译「和合因缘」，白话译「内在因」，英文 inherent cause；三者都只能近似。",
+       "en": "“The inherent cause of pleasure and the like”: samavāyi-kāraṇa is a Vaisheshika term for the substance in which qualities inhere. Xuanzang renders it 和合因缘 (héhé yīnyuán, “cause of combination”), the plain Chinese 内在因 (nèizài yīn, “inner cause”), the English “inherent cause”; all three are only approximations."
+      }
+     ]
+    },
+    {
+     "h": "ebcb1712",
+     "en": "Statements like these are faults of the thesis because they reject the very nature of a property, because they cannot possibly convey anything, or because they make the proof pointless. The false theses have been explained."
+    },
+    {
+     "h": "3fd02652",
+     "en": "The unestablished, the inconclusive and the contradictory: these are false reasons.",
+     "cmp": [
+      {
+       "w": "hetvābhāsa",
+       "note": "「看起来像理由、其实不是」。英文 false reasons；玄奘「似因」。玄奘开头还多了承上启下的一句「已说似宗，当说似因」，梵本没有。",
+       "en": "“What looks like a reason but is not.” The English says “false reasons,” Xuanzang 似因 (sìyīn, “seeming reasons”). Xuanzang also opens with a linking sentence, 已说似宗，当说似因 (“false theses have been explained; now false reasons”), which the Sanskrit lacks."
+      }
+     ]
+    },
+    {
+     "h": "d8729615",
+     "en": "Of these, the unestablished is of four kinds: unestablished for both sides (1), unestablished for one side (2), unestablished because doubtful (3), and unestablished in its basis (4)."
+    },
+    {
+     "h": "ffc3f579",
+     "en": "Of these, when the point to prove is that sound is impermanent, “because it is visible” is unestablished for both sides. “Because it is produced,” said to someone who holds that sound is only made manifest, is unestablished for one side. A mass of elements that one is not sure is vapor or the like, put forward to prove that there is fire, is unestablished because doubtful. “Space is a substance, because it is the basis of qualities,” said to someone who holds that space does not exist, is unestablished in its basis.",
+     "cmp": [
+      {
+       "w": "śabdābhivyaktivādin",
+       "note": "「主张声音只是被显现出来的人」：他们认为声音本来就在，人说话只是让它显露，所以不承认声音是「造出来的」。英文、白话都在句中点明这一立场。",
+       "en": "“One who holds that sound is only made manifest”: such people think sound is always there and speaking merely reveals it, so they deny that sound is “produced.” The English and the plain Chinese both state this position in the sentence."
+      }
+     ]
+    },
+    {
+     "h": "1ff79b38",
+     "en": "The inconclusive is of six kinds: too general (1), too specific (2), present in part of the similar cases and in all the dissimilar cases (3), present in part of the dissimilar cases and in all the similar cases (4), present in part of both (5), and a reason opposed by an equally valid one (6).",
+     "cmp": [
+      {
+       "w": "sādhāraṇa · asādhāraṇa",
+       "note": "字面「共有的」「不共有的」。英文 too general / too specific 是意译，直接说出毛病在哪；玄奘「共、不共」照字面。",
+       "en": "Literally “shared” and “unshared.” The English “too general / too specific” paraphrases to say exactly what is wrong; Xuanzang’s 共、不共 (gòng, bùgòng, “common, uncommon”) is literal."
+      },
+      {
+       "w": "viruddhāvyabhicārī",
+       "note": "字面「不偏离相反（论证）的」：两个相反的论证各自都成立。英文 opposed by an equally valid one 是意译；玄奘「相违决定」字面难懂。",
+       "en": "Literally “not deviating from its opposite”: two opposite arguments are each valid on their own. The English “opposed by an equally valid one” paraphrases; Xuanzang’s 相违决定 (xiāngwéi juédìng, “contradictory yet decisive”) is hard to read literally."
+      }
+     ]
+    },
+    {
+     "h": "21b2288b",
+     "en": "Of these, too general is: “Sound is permanent, because it can be known.” This reason is shared by both sides, the permanent and the impermanent, so it is inconclusive: is sound impermanent because it can be known, like a pot, or permanent because it can be known, like space?"
+    },
+    {
+     "h": "7ef40e5b",
+     "en": "Too specific is: “(Sound is) permanent, because it is heard.” This reason is excluded from both sides, the permanent and the impermanent, and there is nothing else apart from the permanent and the impermanent, so it leads to doubt: what sort of thing does this “being heard” belong to?"
+    },
+    {
+     "h": "115baae3",
+     "en": "Present in part of the similar cases and in all the dissimilar cases is, for example: “Sound does not arise immediately after an effort, because it is impermanent.” The thesis is “does not arise immediately after an effort”; its similar cases are lightning, space and the like. Impermanence is found in some of them, lightning and the like, but not in space and the like. For the same thesis, the dissimilar cases are pots and the like, and impermanence is found in all of them. So this reason too is inconclusive, since it resembles both lightning and a pot: is sound produced by effort because it is impermanent, like a pot, or not produced by effort because it is impermanent, like lightning?"
+    },
+    {
+     "h": "b8671083",
+     "en": "Present in part of the dissimilar cases and in all the similar cases is, for example: “Sound arises immediately after an effort, because it is impermanent.” The thesis is “arises immediately after an effort”; its similar cases are pots and the like, and impermanence is found in all of them. For the same thesis, the dissimilar cases are lightning, space and the like; impermanence is found in some of them, lightning and the like, but not in space and the like. So this reason too, as before, is inconclusive, since it resembles both lightning and a pot."
+    },
+    {
+     "h": "27c52517",
+     "en": "Present in part of both is, for example: “Sound is permanent, because it has no physical form.” The thesis is “permanent”; its similar cases are space, atoms and the like. Having no physical form is found in some of them, space and the like, but not in atoms. For the same thesis, the dissimilar cases are pots, pleasure and the like; having no physical form is found in some of them, pleasure and the like, but not in pots and the like. So this reason too is inconclusive, since it resembles both pleasure and space.",
+     "cmp": [
+      {
+       "w": "amūrta",
+       "note": "「没有固定形体的」：不占空间、不会互相阻碍。英文 has no physical form；玄奘译「无质碍」，强调「不阻碍」。白话「没有形体」较接近梵文。",
+       "en": "“Without solid shape”: not taking up space, not blocking anything. The English says “has no physical form”; Xuanzang’s 无质碍 (wú zhì’ài, “without material obstruction”) stresses not blocking. The plain Chinese 没有形体 (méiyǒu xíngtǐ, “no bodily shape”) is closer to the Sanskrit."
+      },
+      {
+       "w": "paramāṇu",
+       "note": "胜论派认为极微（最小的物质微粒）是常住的，而且有形体，所以在这里是「常住却有形体」的例子。英文 atoms 要靠上下文才看得出这是古印度的说法。",
+       "en": "The Vaisheshika school held atoms (the smallest particles of matter) to be permanent and to have physical form, so here they are the example of “permanent but with form.” With the English “atoms” you need the context to see this is an ancient Indian view, not modern physics."
+      }
+     ]
+    },
+    {
+     "h": "10cd7353",
+     "en": "A reason opposed by an equally valid one is, for example: “Sound is impermanent, because it is produced, like a pot,” and “Sound is permanent, because it is heard, like soundness (the universal ‘sound’ itself).” Both lead to doubt, so the two together count as one inconclusive reason.",
+     "cmp": [
+      {
+       "w": "śabdatva",
+       "note": "「声音性」：所有声音共有的那个共相。胜论派认为共相是常住的。英文 soundness 字面对应，但英文里这个词平常是「健全」的意思，所以括号里补了解释。",
+       "en": "“Sound-ness”: the universal shared by all sounds, which the Vaisheshika held to be permanent. The English “soundness” matches literally, but in everyday English it means “being in good condition,” so the brackets explain it."
+      }
+     ]
+    },
+    {
+     "h": "e19222a6",
+     "en": "The contradictory is of four kinds: one that proves the opposite of the property itself (1), one that proves the opposite of an implied sense of the property (2), one that proves the opposite of the subject itself (3), and one that proves the opposite of an implied sense of the subject (4)."
+    },
+    {
+     "h": "2a3ed296",
+     "en": "Of these, one that proves the opposite of the property itself is, for example: “Sound is permanent, because it is produced,” or “because it arises immediately after an effort.” This reason is contradictory because it is present only in dissimilar cases."
+    },
+    {
+     "h": "91b093a5",
+     "en": "One that proves the opposite of an implied sense of the property is, for example: “The eyes and other senses serve something else, because they are composite, like the parts of beds, seats and the like.” Just as this reason proves that the eyes and the rest serve something else, it also proves that this something else, the self, is composite; for it holds in both directions.",
+     "cmp": [
+      {
+       "w": "parārthāś cakṣurādayaḥ",
+       "note": "这是数论派证明「我」（神我）存在的论证：感官是为别的东西服务的，那个「别的」就是我。白话和英文都直接点出「别的东西就是我」；玄奘本的说法比较绕，提的是「卧具」为「积聚他」所用。",
+       "en": "This is the Samkhya argument for the existence of the self (purusha): the senses serve something else, and that something else is the self. The plain Chinese and the English both say outright that “something else” is the self; Xuanzang’s wording is more roundabout, speaking of bedding used by “another that is composite.”"
+      }
+     ]
+    },
+    {
+     "h": "9ce86422",
+     "en": "One that proves the opposite of the subject itself is, for example: “Existence is not a substance, not an action and not a quality, because it rests on a single substance and is present in qualities and actions, like the particular universals.” Just as this reason proves that existence is not a substance and so on, it also proves that existence is non-existence; for it holds in both directions.",
+     "cmp": [
+      {
+       "w": "sāmānyaviśeṣa",
+       "note": "胜论派的术语，指「既是共相、又能区别」的东西，例如「牛性」。玄奘译「同异性」，白话加注「特殊的共相」，英文 particular universals；都很难一眼看懂。",
+       "en": "A Vaisheshika term for something that is both a universal and a distinguisher, such as “cow-ness.” Xuanzang writes 同异性 (tóngyìxìng, “same-different-ness”), the plain Chinese glosses it as “special universals,” and the English says “particular universals”; none is clear at a glance."
+      }
+     ]
+    },
+    {
+     "h": "e9ee7bfc",
+     "en": "One that proves the opposite of an implied sense of the subject is, for example: the same reason, in the same thesis. The subject has an implied sense, namely “being what causes the idea ‘it exists’”; the reason also proves the opposite, “being what causes the idea ‘it does not exist’,” for it holds in both directions."
+    },
+    {
+     "h": "6c2488cd",
+     "en": "The false example is of two kinds: by similarity and by difference. First, the false example by similarity is of five kinds: the proving property is not established (1), the property to be proved is not established (2), neither is established (3), no connection is stated (4), and the connection is reversed (5)."
+    },
+    {
+     "h": "62ae359c",
+     "en": "Of these, the proving property not established is, for example: “Sound is permanent, because it has no physical form, like an atom. Whatever has no physical form is seen to be permanent, like an atom.” For in an atom the property to be proved, permanence, is present, but the proving property, having no physical form, is not, because atoms have physical form."
+    },
+    {
+     "h": "6f9a51b7",
+     "en": "The property to be proved not established is, for example: “Sound is permanent, because it has no physical form, like a thought. Whatever has no physical form is seen to be permanent, like a thought.” For in a thought the proving property, having no physical form, is present, but the property to be proved, permanence, is not, because thoughts are impermanent.",
+     "cmp": [
+      {
+       "w": "buddhi",
+       "note": "「觉知、心的认识」。英文 a thought 比较日常；白话写「觉知」并注明 buddhi，玄奘写「觉」。",
+       "en": "“Awareness, a cognition.” The English “a thought” is the everyday word; the plain Chinese writes 觉知 (juézhī, “awareness”) with buddhi in brackets, and Xuanzang 觉 (jué)."
+      }
+     ]
+    },
+    {
+     "h": "549ed71f",
+     "en": "Neither established is of two kinds: where (the example) exists and where it does not. Of these, “like a pot” is neither established with an existing example, since a pot is both impermanent and has physical form. “Like space” is neither established with a non-existent example, said to someone who holds that space does not exist."
+    },
+    {
+     "h": "384e0bdd",
+     "en": "No connection is where the proving property and the property to be proved are shown together without stating the connection between them, for example: “In a pot we see both being produced and impermanence.” A reversed connection is, for example, saying “Whatever is impermanent is seen to be produced” when one should say “Whatever is produced is seen to be impermanent.”"
+    },
+    {
+     "h": "53968410",
+     "en": "The false example by difference is also of five kinds: the property to be proved is not excluded (1), the proving property is not excluded (2), neither is excluded (3), no exclusion is stated (4), and the exclusion is reversed (5)."
+    },
+    {
+     "h": "e4ee6ef2",
+     "en": "Of these, the property to be proved not excluded is, for example: “Sound is permanent, because it has no physical form, like an atom. Whatever is impermanent is seen to have physical form, like an atom.” For in an atom the proving property, having no physical form, is excluded, because atoms have physical form; but the property to be proved, permanence, is not excluded, because atoms are permanent."
+    },
+    {
+     "h": "6ba7bed3",
+     "en": "The proving property not excluded is, for example: “like an action.” In an action the property to be proved, permanence, is excluded, because actions are impermanent; but the proving property, having no physical form, is not excluded, because actions have no physical form."
+    },
+    {
+     "h": "ff22e138",
+     "en": "Neither excluded is: “like space,” said to someone who holds that space exists. In it neither permanence nor having no physical form is excluded, because space is both permanent and without physical form."
+    },
+    {
+     "h": "10553ea5",
+     "en": "No exclusion is where the presence of the opposites (in a dissimilar case) is pointed out without stating that the property to be proved and the proving property are both absent, for example: “In a pot we see physical form and impermanence.” A reversed exclusion is, for example, saying “Whatever has physical form is seen to be impermanent” when one should say “Whatever is impermanent is seen to have physical form.”"
+    },
+    {
+     "h": "64a0c9e1",
+     "en": "The statements of these false theses, false reasons and false examples are false proofs."
+    },
+    {
+     "h": "74228fc9",
+     "en": "But for understanding oneself, there are only two means of knowing: perception and inference.",
+     "cmp": [
+      {
+       "w": "pramāṇa",
+       "note": "「量」：得到可靠认识的途径，字面是「量度的工具」。英文 means of knowing 是意译；玄奘「量」保留了「量度」的字面。",
+       "en": "A way of gaining reliable knowledge, literally “a measuring tool.” The English “means of knowing” paraphrases; Xuanzang’s 量 (liàng, “measure”) keeps the literal sense of measuring."
+      }
+     ]
+    },
+    {
+     "h": "a66eb790",
+     "en": "Of these, perception is knowledge free of conceptual construction: knowledge of an object such as a visible form that has no constructions of name, kind and so on. It is called perception (pratyakṣa) because it occurs with respect to each sense (akṣa).",
+     "cmp": [
+      {
+       "w": "pratyakṣa",
+       "note": "字面「对着感官（akṣa）」。梵文用词源来解释这个词；英文 perception 看不出这个词源，所以括号里给出 akṣa。玄奘「现现别转，故名现量」用「现」字对应。",
+       "en": "Literally “facing the senses (akṣa).” The Sanskrit explains the word by its etymology; the English “perception” cannot show this, so akṣa is given in brackets. Xuanzang matches it with 现 (xiàn, “present, appearing”): 现现别转，故名现量 (“it turns toward each present sense, so it is called perception”)."
+      }
+     ]
+    },
+    {
+     "h": "98348d93",
+     "en": "Inference is seeing an object from a mark. The mark has three features, as explained above. From it arises knowledge of the object to be inferred, such as “There is fire here” or “Sound is impermanent”: that is inference.",
+     "cmp": [
+      {
+       "w": "liṅga",
+       "note": "「标志、记号」，如烟是火的标志。英文 mark；玄奘译「相」，和前面「因有三相」的「相」同字，白话写「标志」。",
+       "en": "“Sign, mark,” as smoke is the mark of fire. The English says “mark”; Xuanzang writes 相 (xiàng), the same character as in “the reason has three marks,” and the plain Chinese 标志 (biāozhì, “sign”)."
+      }
+     ]
+    },
+    {
+     "h": "bd317b6e",
+     "en": "In both cases, that knowledge itself is the result, because its very nature is understanding. It is called a means of knowing because it appears as if it carried out an action.",
+     "cmp": [
+      {
+       "w": "savyāpāravat",
+       "note": "「好像带着作用」。这里是说：认知本身就是结果，并没有另外一个「量」的动作；只是看起来像在做事，才叫它「量」。英文 as if 保留了这个「好像」。",
+       "en": "“As if having an activity.” The point: the knowledge is itself the result, and there is no separate act of measuring; it only looks as if it is doing something, and that is why it is called a means of knowing. The English “as if” keeps the “seems.”"
+      }
+     ]
+    },
+    {
+     "h": "dc1f55f0",
+     "en": "Knowledge with conceptual construction, aimed at something other (than the object itself), is false perception. The knowledge that arises when one constructs “a pot” or “a cloth” is false perception, because it does not take the object’s own unique character as its object.",
+     "cmp": [
+      {
+       "w": "svalakṣaṇa",
+       "note": "「自相」：对象独一无二、当下的那个样子，不是名字和种类。英文 own unique character 是意译；白话加括号解释。",
+       "en": "“Own-mark”: the object’s unique, here-and-now character, not its name or kind. The English “own unique character” paraphrases; the plain Chinese explains it in brackets."
+      }
+     ]
+    },
+    {
+     "h": "badc06e4",
+     "en": "Knowledge preceded by a false reason is false inference. False reasons, as explained above, are of many kinds. So the knowledge about an object to be inferred that someone untrained comes to have is false inference."
+    },
+    {
+     "h": "365e1e50",
+     "en": "Pointing out the faults of a proof is refutation. A fault of the proof is incompleteness. A fault of the thesis is contradicting perception and the like. A fault of the reason is being unestablished, inconclusive or contradictory. A fault of the example is the proving property not being established, and so on. Bringing these out and making the questioners understand is refutation."
+    },
+    {
+     "h": "bc6e8e3c",
+     "en": "Pointing out faults a proof does not have is false refutation: saying a complete proof is incomplete; saying a sound thesis has a thesis fault; saying an established reason is unestablished; saying a conclusive reason is inconclusive; saying a non-contradictory reason is contradictory; saying a sound example has the faults of an unsound one. These are false refutations, for they do not refute the other’s position, since it has no fault. And there we stop."
+    },
+    {
+     "h": "8353946f",
+     "en": "Only the meaning of the terms has been set out here at the beginning, just to point the direction. What is sound reasoning in all this and what is not has been carefully examined elsewhere. Here ends the Gateway to Logic.",
+     "cmp": [
+      {
+       "w": "nyāyapraveśakasūtra",
+       "note": "梵本结尾称它为「入正理经」（sūtra）。英文按本站书名写 Gateway to Logic；玄奘本结尾没有这句题记。",
+       "en": "The Sanskrit closes by calling it the “Nyāyapraveśaka Sutra.” The English uses the site’s title, Gateway to Logic; Xuanzang’s version has no closing title line."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
