@@ -895,7 +895,7 @@ function logic(P, A) {
   };
 }
 
-/** 佛所行赞:城门(古印度的牌坊门)外一条路,通向远处的菩提树;树上的光一圈圈散开 —— 出城,走向觉悟 */
+/** 佛所行赞:城门(桑奇式陀兰那:象柱头、三道横梁、梁头黄金涡卷、顶上法轮)外一条路,通向远处的菩提树;树上的光一圈圈散开 —— 出城,走向觉悟 */
 function buddhacarita(P, A) {
   // 菩提叶:心形,长尾尖
   const leaf = (L) =>
@@ -919,17 +919,58 @@ function buddhacarita(P, A) {
       return `M${f(-hw)} ${f(y)}H${f(hw)}`;
     })
     .join('')}" stroke="${P.faint}" stroke-width="0.4"/>`;
-  // 牌坊门:两根柱、三道弯梁,梁头卷成螺旋
-  const post = (x) => `<rect x="${x - 6}" y="-126" width="12" height="${f(170 + 126)}" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.7"/><path d="${range(26)
-    .map((i) => `M${x - 6} ${f(-92 + i * 10)}H${x + 6}`)
+  // 桑奇式陀兰那(torana):两根方柱,柱头是背靠背的一对象;柱头上托三道横梁,梁中间微微拱起,
+  // 两端伸出柱外卷成黄金涡卷;梁与梁之间是方墩和小立柱,顶上正中一只法轮、两旁三宝标
+  const C = 66; // 柱中心
+  const ink = (w) => `fill="${P.paper}" stroke="${P.ink}" stroke-width="${w}"`;
+  const post = (x) => `<rect x="${x - 7}" y="-71" width="14" height="241" ${ink(0.7)}/><path d="M${x - 4.5} -67V170M${x + 4.5} -67V170${range(6)
+    .map((i) => `M${x - 4.5} ${-30 + i * 40}H${x + 4.5}`)
     .join('')}" stroke="${P.faint}" stroke-width="0.35"/>`;
-  const beam = (y, hw, sag) => {
-    const top = `M${-hw} ${f(y)}Q0 ${f(y + sag)} ${hw} ${f(y)}`;
-    const vol = (s) => `<circle cx="${s * hw}" cy="${f(y + 4)}" r="5" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.6"/><circle cx="${s * hw}" cy="${f(y + 4)}" r="${f(5 / PHI)}" stroke="${P.foil}" stroke-width="0.5"/>`;
-    return `<path d="${top}L${hw} ${f(y + 8)}Q0 ${f(y + 8 + sag)} ${-hw} ${f(y + 8)}Z" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.65"/><path d="M${-hw + 6} ${f(y + 4)}Q0 ${f(y + 4 + sag)} ${hw - 6} ${f(y + 4)}" stroke="${P.faint}" stroke-width="0.35"/>${vol(-1)}${vol(1)}`;
+  // 一只象,朝右,脚底中点在 (0,0)
+  const elephant = `<path d="M-8 0V-5C-9.5 -7 -9.5 -12 -5 -13.5C-1 -14.8 4 -14.5 6.5 -13C9 -15 12.5 -14 13 -10.5C13.4 -7.5 12.6 -5.5 12.8 -3C13 -1.2 14 -0.6 15 -1.2C13.6 -0.2 11.6 -0.8 11.4 -3.4C11.2 -5 10.8 -6 9.6 -6.6L8 -6V0H5.5V-4.2Q0 -5.4 -5 -4.2V0Z" ${ink(0.55)}/><path d="M6.5 -12.5C4 -11.5 4 -7.5 6.8 -6.6C8.4 -8 8.6 -11 6.5 -12.5Z" ${ink(0.45)}/><path d="M-9 -10Q-10.6 -8 -10 -5" stroke="${P.ink}" stroke-width="0.45"/><path d="M-1.5 -14.2Q-2.4 -9 -1.5 -4.8M1.5 -14.4Q0.8 -9 1.5 -5" stroke="${P.faint}" stroke-width="0.35"/><circle cx="10.6" cy="-11" r="0.55" fill="${P.ink}" stroke="none"/><path d="M11.6 -6.4L14 -5.6" stroke="${P.foil}" stroke-width="0.55"/>`;
+  const capital = (x) => `<path d="M${x - 7} -71L${x - 10} -77H${x + 10}L${x + 7} -71Z" ${ink(0.55)}/><path d="M${x - 3.5} -71.5L${x - 5} -76.5M${x} -71.5V-76.5M${x + 3.5} -71.5L${x + 5} -76.5" stroke="${P.faint}" stroke-width="0.35"/><rect x="${x - 20}" y="-80" width="40" height="3" ${ink(0.55)}/><g transform="translate(${x + 8} -80)">${elephant}</g><g transform="translate(${x - 8} -80) scale(-1 1)">${elephant}</g>`;
+  // 黄金涡卷:中心 (cx,cy),外半径 R,转一圈半半径缩 φ^6;s=1 右端顺时针卷进去
+  const volute = (cx, cy, R, s) => {
+    const b = Math.log(PHI) / (Math.PI / 2);
+    const pts = range(55).map((i) => {
+      const t = (i / 54) * 3 * Math.PI;
+      const r = R * Math.exp(-b * t);
+      return `${f(cx + s * r * Math.sin(t))} ${f(cy - r * Math.cos(t))}`;
+    });
+    return `<circle cx="${f(cx)}" cy="${f(cy)}" r="${f(R)}" ${ink(0.6)}/><path d="M${pts.join('L')}" stroke="${P.foil}" stroke-width="0.6"/>`;
   };
-  const struts = `<path d="${[-46, -16, 16, 46].map((x) => `M${x} -126V-116M${x} -110V-100`).join('')}" stroke="${P.ink}" stroke-width="0.55"/>`;
-  const gate = post(-80) + post(80) + struts + beam(-136, 90, 6) + beam(-118, 92, 5) + beam(-100, 88, 4);
+  // 一道横梁:顶 y,半长 L(到涡卷中心),中间拱起 2
+  const beam = (y, L, R) => {
+    const h = 9;
+    const body = `<path d="M${-L} ${y}Q0 ${y - 4} ${L} ${y}V${y + h}Q0 ${y + h - 4} ${-L} ${y + h}Z" ${ink(0.65)}/>`;
+    const panel = `<path d="M${-L + R + 2} ${y + 2.2}Q0 ${y - 1.8} ${L - R - 2} ${y + 2.2}M${-L + R + 2} ${y + h - 2.2}Q0 ${y + h - 6.2} ${L - R - 2} ${y + h - 2.2}${[-C, -22, 22, C]
+      .map((x) => {
+        const yy = y - 2 * (1 - (x / L) ** 2);
+        return `M${x} ${f(yy + 2.2)}V${f(yy + h - 2.2)}`;
+      })
+      .join('')}" stroke="${P.faint}" stroke-width="0.35"/>`;
+    return body + panel + volute(-L, y + h / 2, R, -1) + volute(L, y + h / 2, R, 1);
+  };
+  // 梁与梁之间:柱位上的方墩 + 中间五根小立柱
+  const tier = (y0, y1) => {
+    const mid = (x) => y0 - 2 * (1 - (x / 90) ** 2);
+    const blocks = [-C, C].map((x) => `<rect x="${x - 6}" y="${f(y1)}" width="12" height="${f(mid(x) - y1 + 0.5)}" ${ink(0.55)}/>`).join('');
+    const balusters = [-40, -20, 0, 20, 40]
+      .map((x) => `<rect x="${x - 1.6}" y="${f(y1)}" width="3.2" height="${f(mid(x) - y1 + 0.5)}" ${ink(0.45)}/>`)
+      .join('');
+    return blocks + balusters;
+  };
+  // 顶饰:正中法轮(八辐),两旁三宝标(triratna)
+  const wy = -151;
+  const wheelTop = `<path d="M-3 -141L-4.5 ${wy + 7}H4.5L3 -141Z" ${ink(0.5)}/><g transform="translate(0 ${wy})"><g>${spin(40, 1, A)}<circle r="8" ${ink(0.65)}/><circle r="${f(8 / PHI)}" stroke="${P.faint}" stroke-width="0.35"/><path d="${range(8)
+    .map((i) => {
+      const a = (i / 8) * Math.PI * 2;
+      return `M${f(1.6 * Math.sin(a))} ${f(-1.6 * Math.cos(a))}L${f(7.2 * Math.sin(a))} ${f(-7.2 * Math.cos(a))}`;
+    })
+    .join('')}" stroke="${P.ink}" stroke-width="0.45"/><circle r="1.6" fill="${P.foil}" stroke="none"/></g></g>`;
+  const triratna = (x) => `<g transform="translate(${x} -141)"><path d="M-1.6 0V-3.5H1.6V0" ${ink(0.45)}/><circle cy="-6" r="2.6" ${ink(0.5)}/><path d="M-2.4 -8C-6 -9 -6.2 -13.5 -3.6 -13.8M2.4 -8C6 -9 6.2 -13.5 3.6 -13.8M0 -8.6V-13.6" stroke="${P.ink}" stroke-width="0.55"/><circle cy="-6" r="0.9" fill="${P.foil}" stroke="none"/></g>`;
+  const gate = post(-C) + post(C) + capital(-C) + capital(C) + tier(-106, -114) + tier(-123, -131)
+    + beam(-106, 90, 7.2) + beam(-123, 87, 6.8) + beam(-140, 82, 6.4) + wheelTop + triratna(-42) + triratna(42);
   const halo = A ? ripple(P, 0, cy, 30, 120, 6, 3) : [1, 2].map((k) => `<circle cx="0" cy="${f(cy)}" r="${f(30 * PHI ** (k * 0.7))}" stroke="${P.foil}" stroke-width="0.45" opacity="${f(0.7 / k)}"/>`).join('');
   return {
     frame: { seeds: false },
