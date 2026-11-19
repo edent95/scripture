@@ -9,10 +9,20 @@ process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
 const { build, chapterPath } = await import('../scripts/build.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
+const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
-test('梵文书架九部全部通过校验', () => {
+test('梵文、巴利文书架二十四部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 9);
+  assert.equal(books.length, 24);
+});
+
+test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {
+  assert.equal(iastToDeva('yogaś cittavṛttinirodhaḥ || 1.2 ||'), 'योगश् चित्तवृत्तिनिरोधः ॥ १.२ ॥');
+  assert.equal(iastToDeva('mad-arthe tyakta-jīvitāḥ |'), 'मदर्थे त्यक्तजीविताः ।');
+  assert.equal(iastToDeva('sabbe sattā bhavantu sukhitattā'), 'सब्बे सत्ता भवन्तु सुखितत्ता');
+  assert.equal(iastToDeva('dhammacakkaṃ'), 'धम्मचक्कं');
+  assert.equal(iastToDeva('kāyo’ti', { pali: true }), 'कायो’ति');
+  assert.equal(iastToDeva("so 'ham"), 'सो ऽहम्');
 });
 
 test('缺梵文罗马转写的段落会被拒绝', () => {
@@ -120,6 +130,14 @@ test('每页页脚写明 CC BY 4.0 授权并链到协议，仓库有 LICENSE', (
     const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
     assert.ok(html.includes('href="https://creativecommons.org/licenses/by/4.0/" rel="license"'), `${p} 页脚缺授权链接`);
     assert.ok(html.includes('"license":"https://creativecommons.org/licenses/by/4.0/"'), `${p} 结构化数据缺 license`);
+  }
+});
+
+test('每部书的花纹章与首屏插画文件都生成了', () => {
+  const paths = build();
+  for (const p of paths) {
+    const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+    for (const [, src] of html.matchAll(/(?:src|srcset)="(\/(?:emblems|scenes)\/[^"]+)"/g)) assert.ok(existsSync(join(OUT, src)), `${p} 的图 ${src} 不存在`);
   }
 });
 

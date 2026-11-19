@@ -5,6 +5,7 @@ import { join } from 'node:path';
 
 export const TRADITIONS = {
   buddhism: { zh: '佛经', en: 'Buddhist sūtras' },
+  theravada: { zh: '巴利文经典', en: 'Pali Canon' },
   hinduism: { zh: '印度经典', en: 'Hindu classics' },
 };
 
@@ -19,13 +20,14 @@ function needText(value, where) {
 }
 
 /**
- * 一部书：{ slug, tradition, title, sanskrit, oldTranslator?, summary, chapters[] }
+ * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
  * 一段：{ zh 白话直译, sa: { text 天城体, tr 罗马转写 }, old?: { who, text, plain, notes[{ w, note }] } }
  */
 export function validateBook(book, file) {
   need(SLUG.test(book.slug ?? ''), file, `slug 不合法: ${book.slug}`);
   need(file.endsWith(`${book.slug}.json`), file, '文件名必须等于 slug');
   need(TRADITIONS[book.tradition], file, `未知 tradition: ${book.tradition}`);
+  need(book.origLang === undefined || ['sa', 'pi'].includes(book.origLang), file, `origLang 只能是 sa 或 pi: ${book.origLang}`);
   needText(book.title, `${file} title`);
   needText(book.sanskrit, `${file} sanskrit`);
   needText(book.summary, `${file} summary`);

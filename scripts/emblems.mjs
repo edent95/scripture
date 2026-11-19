@@ -18,6 +18,21 @@ export const EMBLEMS = {
   'lankavatara-sutra': ['maurer:5,61', 'hypo:8,3,2', 6],
   'bhagavad-gita': ['epi:9,2,6', 'hypo:7,3,2', 6],
   'yoga-sutras': ['hypo:7,4,5', 'epi:6,1,2', 7],
+  'great-compassion-mantra': ['maurer:11,71', 'hypo:11,4,3', 6], // 千手:十一面
+  'medicine-buddha': ['epi:12,1,3', 'hypo:12,5,4', 6], // 十二大愿
+  bhadracari: ['rose:10,3', 'epi:5,2,2', 6],
+  'middle-way-verses': ['maurer:2,39', 'hypo:9,2,3', 7],
+  'thirty-verses': ['hypo:15,4,6', 'epi:5,1,2', 6],
+  'twenty-verses': ['hypo:10,3,4', 'epi:5,2,1.4', 6],
+  'gateway-to-logic': ['rose:3,1', 'hypo:6,1,2', 7],
+  buddhacarita: ['epi:14,3,6', 'hypo:7,2,3', 6],
+  'metta-sutta': ['rose:5,1', 'epi:10,3,3', 6],
+  'mangala-sutta': ['rose:9,2', 'hypo:9,2,2', 6],
+  dhammacakka: ['hypo:8,1,4', 'epi:8,3,2', 6], // 法轮八辐
+  satipatthana: ['rose:4,1', 'hypo:8,3,3', 7], // 四念处
+  dhammapada: ['maurer:13,73', 'hypo:13,6,4', 6],
+  'samkhya-karika': ['hypo:5,2,3', 'epi:5,1,1.6', 7],
+  upanishads: ['epi:3,1,2', 'hypo:9,4,4', 6], // 唵的三个音
 };
 
 const specOf = (key) => {
