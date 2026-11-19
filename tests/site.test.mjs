@@ -123,6 +123,25 @@ test('首页不放使用说明；每页有浅深色切换；书卡与章节页�
   }
 });
 
+test('首页有「继续读」按钮位和「在读」「读完了」两个书架（构建时藏着，由 app.js 按本机进度填）；小屏不让页头撑破', () => {
+  build();
+  for (const [file, reading, done] of [['index.html', '在读', '读完了'], ['en/index.html', 'Reading', 'Finished']]) {
+    const html = readFileSync(join(OUT, file), 'utf8');
+    assert.equal(html.split('data-resume hidden').length - 1, 1, `${file} 缺继续读按钮位`);
+    const at = (key) => html.indexOf(`data-shelf="${key}" hidden`);
+    assert.ok(at('reading') > 0 && at('done') > at('reading'), `${file} 缺书架`);
+    // 在读在所有书卡前面，读完了在所有书卡后面
+    assert.ok(at('reading') < html.indexOf('data-book="') && at('done') > html.lastIndexOf('data-book="'), `${file} 书架位置不对`);
+    assert.ok(html.includes(`<h2>${reading}<span>`) && html.includes(`<h2>${done}</h2>`), `${file} 书架标题不对`);
+  }
+  const js = readFileSync(join(OUT, 'app.js'), 'utf8');
+  assert.ok(js.includes("'scripture.last.v1'") && js.includes('--header-h'));
+  const css = readFileSync(join(OUT, 'styles.css'), 'utf8');
+  assert.ok(css.includes('top: var(--header-h, 64px)'), '栏目开关要跟着页头实际高度贴');
+  assert.match(css, /@media \(max-width: 480px\) \{[^}]*\}\s*\.home-link \{ display: none; \}/, '小屏要收掉页头的 Eden 链接');
+  assert.ok(css.includes('.book-list { grid-template-columns: minmax(0, 1fr); }'), '手机上书卡不能被内容撑得比屏幕宽');
+});
+
 test('每页页脚写明 CC BY 4.0 授权并链到协议，仓库有 LICENSE', () => {
   const paths = build();
   assert.ok(existsSync(new URL('../LICENSE', import.meta.url)), '缺 LICENSE');
