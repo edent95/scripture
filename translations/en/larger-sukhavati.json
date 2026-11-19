@@ -1,0 +1,682 @@
+{
+ "slug": "larger-sukhavati",
+ "title": "The Larger Array of the Land of Bliss (The Larger Sukhavati Sutra)",
+ "summary": "How the monk Dharmakara made his great vows, became the Buddha Amitabha, and built the Land of Bliss: the origin story of Pure Land faith.",
+ "compare": [
+  "中文读者最熟悉的是康僧铠本的「四十八愿」，这个梵本却只有四十七愿，数目、次序和内容都有出入。净土宗最看重的「十念往生」，在康僧铠本是第十八愿，在梵本排第十九。更要紧的是「十念」本身：梵文 daśabhiś cittotpādaparivartaiḥ 是「哪怕只发起十次心念」，说的是心的转动；后来中国净土宗把它解作口称十声「南无阿弥陀佛」，那是后人的理解，经文本身没有说要出声念名号。每一愿结尾的 mā tāvad aham … abhisaṃbudhyeyam，是「那就愿我不证无上正等正觉」，用自己的成佛作担保；康僧铠的「不取正觉」四个字简短有力，英文 then may I not awaken 保留了这层誓言的分量。英文照梵本给每一愿编号，方便和中文版对照。",
+  "第二个差别在名字。梵本同时用 Amitābha（无量光）和 Amitāyus（无量寿）两个名字，而且经文分别解释了为什么叫「光」、为什么叫「寿」。中文「阿弥陀」只音译了两者共同的前半 amita（无量），一个名字把两层意思都包了进去；英文只能二者并列，第一次出现时各加括号说明。同样，梵本给阿弥陀的光列了二十个左右的名称，康僧铠本整理成著名的「十二光」；世界名 Sukhāvatī 是「具有安乐的地方」，中文后来通用鸠摩罗什的「极乐」，英文照本站《阿弥陀经》英译写作 Sukhavati, the Land of Bliss。",
+  "第三，康僧铠本和梵本的整体结构不完全一样。康僧铠本下卷有很长一段劝诫世人的「三毒五恶」，梵本完全没有；康僧铠本把往生者分成「上辈、中辈、下辈」，加入了「出家作沙门」「起立塔像」等细节，梵本只说常常观想、少观想、乃至十念一念三种情形。另一方面，梵本开头多了一段礼敬偈，中间的佛名表也比康僧铠本长（约八十位对五十三位）。英文照梵本直译，所以英文读者读到的是这部经较早的梵文面貌，而不是东亚净土宗所依据的那个版本。"
+ ],
+ "compareEn": [
+  "Chinese readers know Kang Sengkai’s “forty-eight vows,” but this Sanskrit text has only forty-seven, and their number, order and content differ in places. The vow Pure Land Buddhism values most, rebirth through “ten thoughts,” is the eighteenth in Kang Sengkai and the nineteenth in the Sanskrit. More important is what “ten thoughts” means: the Sanskrit daśabhiś cittotpādaparivartaiḥ is “even if they have turned their minds to it only ten times,” turnings of the mind. Chinese Pure Land later read 十念 (shí niàn) as reciting “Namo Amitabha” aloud ten times; that is a later interpretation, and the sutra itself says nothing about saying the name aloud. Each vow ends with mā tāvad aham … abhisaṃbudhyeyam, “then may I not awaken to unsurpassed, perfect awakening,” staking his own awakening on the promise; Kang Sengkai’s four characters 不取正觉 (bù qǔ zhèngjué, “I will not take perfect awakening”) are short and forceful, and the English “then may I not awaken” keeps the weight of an oath. The English numbers each vow as the Sanskrit does, so they can be matched with the Chinese version.",
+  "The second difference is in the names. The Sanskrit uses two names, Amitābha (“Boundless Light”) and Amitāyus (“Boundless Life”), and explains separately why he is called “Light” and why he is called “Life.” The Chinese 阿弥陀 (Āmítuó) transliterates only their shared first part, amita (“boundless”), so one name holds both meanings; English has to give the two side by side, each glossed in brackets on first mention. Likewise, the Sanskrit lists about twenty names for Amitabha’s light, which Kang Sengkai arranges into the famous “twelve lights”; and the world’s name Sukhāvatī, “the place possessing happiness,” is known in Chinese by Kumarajiva’s 极乐 (jílè, “utmost bliss”). The English follows the site’s English Amitabha Sutra: “Sukhavati, the Land of Bliss.”",
+  "Third, the overall structure of Kang Sengkai’s version and the Sanskrit is not the same. Kang Sengkai’s second scroll has a long exhortation on the “three poisons and five evils” that the Sanskrit lacks entirely; he divides those reborn into “upper, middle and lower grades” and adds details such as “leaving home to become a monk” and “building stupas and images,” while the Sanskrit speaks only of those who often bring the Buddha to mind, those who do so less, and those who recollect him ten times or even once. On the other hand, the Sanskrit opens with a verse of homage, and its list of past buddhas is longer than Kang Sengkai’s (about eighty against fifty-three). The English translates the Sanskrit directly, so English readers meet this sutra in its Sanskrit form, not in the version East Asian Pure Land Buddhism was built on."
+ ],
+ "chapters": [
+  {
+   "title": "The Larger Array of the Land of Bliss (The Larger Sukhavati Sutra)",
+   "verses": [
+    {
+     "h": "9e1f7d49",
+     "en": "Om! Homage to all the buddhas, bodhisattvas, noble disciples and solitary buddhas, past, future and present, who dwell in the endless, boundless worlds of the ten directions. Homage to Amitabha (“Boundless Light”). Homage to Amitayus (“Boundless Life”). Homage to the one whose very self is a mine of good qualities beyond thought. Homage to you, Amitabha, the Victor, the sage! Through your compassion I go to Sukhavati, the Land of Bliss: Sukhavati, with its groves bright with gold, delightful, adorned with the sons of the Sugata, the refuge of that wise one whose fame has spread far, heaped with the jewels of many good qualities; to that land I go.",
+     "cmp": [
+      {
+       "w": "amitābha / amitāyus",
+       "note": "梵本同时用两个名字：Amitābha「无量光」和 Amitāyus「无量寿」。中文「阿弥陀」是两者共同的前半 amita（无量）的音译，所以一个名字包含了两种意思；英文只能二选一或并列。这段开头的礼敬偈是梵本抄写时加的，康僧铠本没有。",
+       "en": "The Sanskrit uses two names side by side: Amitābha, “Boundless Light,” and Amitāyus, “Boundless Life.” The Chinese 阿弥陀 (Āmítuó) transliterates only their shared first part, amita (“boundless”), so one Chinese name holds both meanings; English has to choose one or give both. This opening verse of homage was added by the Sanskrit copyists and is not in Kang Sengkai’s translation."
+      }
+     ]
+    },
+    {
+     "h": "5b7d5025",
+     "en": "This is what I heard. Once the Blessed One was staying at Rajagriha, on Vulture Peak, together with a great community of monks, thirty-two thousand monks, all of them arhats. Their outflows were spent and they were free of afflictions; they had lived the life; their minds were well freed through right understanding; the thousands of fetters binding them to existence were worn away; they had reached their own goal; they had conquered; they had reached calm in the highest self-control; their minds were well freed and their wisdom well freed; they were great elephants; they had the six higher knowledges and were masters of themselves; they meditated on the eight liberations; they had attained the powers; they were known for their higher knowledges; they were elders and great disciples."
+    },
+    {
+     "h": "59ee7a9f",
+     "en": "They were: Ajnata Kaundinya, Ashvajit, Bashpa, Mahanaman, Bhadrajit, Yashodeva, Vimala, Subahu, Purna Maitrayaniputra, Gavampati, Uruvilva Kashyapa, Nadi Kashyapa, Bhadra Kashyapa, Kumara Kashyapa, Mahakashyapa, Shariputra, Mahamaudgalyayana, Mahakapphina, Mahachunda, Aniruddha, Radha, Nandika, Kimpila, Subhuti, Revata, Khadiravanika, Vakkula, Svagata, Amogharaja, Parayanika, Pantha, Chulapantha, Nanda, Rahula, and the venerable Ananda."
+    },
+    {
+     "h": "9056cbce",
+     "en": "These were there, and other elders and great disciples known for their higher knowledges, all except one person who was still a learner on the path with more to do, namely the venerable Ananda; and many bodhisattvas, great beings, with Maitreya at their head. Then the venerable Ananda rose from his seat, put his upper robe over one shoulder, set his right knee on the ground, raised his joined palms toward the Blessed One, and said to the Blessed One: “Blessed One, your faculties are so serene, the color of your skin so pure, the color of your face so clear and shining with a golden glow, like an autumn cloud, pale, pure, clear and shining with a golden glow. Just so are the Blessed One’s faculties serene, the color of his face pure, the color of his skin clear, shining with a golden glow."
+    },
+    {
+     "h": "4c2179cb",
+     "en": "Blessed One, it is like an ornament of Jambu-river gold that a skilled goldsmith or goldsmith’s apprentice has put into the furnace, finished well and laid on a pale woolen cloth: it becomes extremely pure, clear and shining with a golden glow. Just so are the Blessed One’s faculties serene, the color of his face pure, the color of his skin clear, shining with a golden glow. Blessed One, I do not recall ever before seeing the Tathagata’s faculties so serene, the color of his face so pure, the color of his skin so clear and shining with a golden glow. Blessed One, this thought comes to me: surely today the Tathagata is dwelling in the dwelling of a buddha; surely today the Tathagata is dwelling in the dwelling of a Victor, the dwelling of all-knowing, the dwelling of a great elephant;"
+    },
+    {
+     "h": "2595c6f3",
+     "en": "he is seeing the Tathagatas, the arhats, the perfectly awakened ones of the past, the future and the present.” When this was said, the Blessed One said to the venerable Ananda: “Good, good, Ananda! Did the gods tell you this, or the buddhas, the blessed ones? Or do you know it through your own present power of examination?” When this was said, the venerable Ananda said to the Blessed One: “Blessed One, the gods did not tell me this, nor did the buddhas, the blessed ones. Blessed One, it is through my own inner power of examination that I think: today the Tathagata is dwelling in the dwelling of a buddha; he is dwelling in the dwelling of a Victor, the dwelling of all-knowing, the dwelling of a great elephant; he is seeing all the buddhas, the blessed ones, past, future and present.”"
+    },
+    {
+     "h": "2376b746",
+     "en": "When this was said, the Blessed One said to the venerable Ananda: “Good, good, Ananda! Your insight is noble, your examination fine, your eloquence excellent, Ananda, since you have set out for the good of many, for the happiness of many, out of compassion for the world, for the benefit of a great multitude, for the good and happiness of gods and humans, in thinking that you should ask the Tathagata about this. It is so, Ananda: the Tathagata turns his knowledge and vision to measureless, countless Tathagatas, arhats, perfectly awakened ones, and the Tathagata’s knowledge is not blocked. Why? Because, Ananda, the Tathagata’s knowledge and vision of causes is unobstructed."
+    },
+    {
+     "h": "59d71b83",
+     "en": "Ananda, if he wished, the Tathagata could live on a single meal of alms for an eon, or a hundred eons, or a thousand eons, or a hundred thousand eons, up to a hundred thousand kotis of nayutas of eons, or even longer, and the Tathagata’s faculties would not decline, the color of his face would not change, and the color of his skin would not be dimmed. Why? Because, Ananda, the Tathagata has reached perfection at the door of samadhi. Ananda, the appearance in the world of perfectly awakened ones is very rare. Just as the appearance of udumbara flowers in the world is very rare, so the appearance of Tathagatas, who want what is good for beings, wish them well, are compassionate and have set out in great compassion, is very rare.",
+     "cmp": [
+      {
+       "w": "koṭī / nayuta",
+       "note": "俱胝（koṭi）一般指一千万，那由他（nayuta）是更大的数，各书说法不一。英文保留音译 kotis、nayutas，白话也保留并加注，两边都只能传达「大到数不清」，没有精确的对应。",
+       "en": "A koti usually means ten million, and a nayuta is a still larger number, defined differently in different texts. The English keeps the transliterations “kotis” and “nayutas,” and the plain Chinese keeps 俱胝 (jùzhī) and 那由他 (nàyóutā) with a note; neither can do more than convey “too large to count.”"
+      }
+     ]
+    },
+    {
+     "h": "6e685d14",
+     "en": "And yet, noble Ananda, it is the Tathagata’s own power that makes you think of asking the Tathagata about this, so that beings who will be teachers of the whole world may appear in the world, and for the good of the bodhisattvas, the great beings. So listen, Ananda, and pay close and careful attention; I will tell you.” “Yes, Blessed One,” the venerable Ananda answered the Blessed One. The Blessed One said to him: “Long ago, Ananda, in the past, countless eons ago, more than countless, vast, measureless and beyond thought, at that time a Tathagata, an arhat, a perfectly awakened one named Dipamkara (“Lamp-Lighter”) appeared in the world. Ananda, before Dipamkara, further back still, there was a Tathagata named Pratapavat. Before him, further back still, there was a Tathagata named Prabhakara."
+    },
+    {
+     "h": "0d0faf2e",
+     "en": "Before him, further back still, there was a Tathagata named Chandanagandha. Before him, further back still, there was a Tathagata named Sumerukalpa."
+    },
+    {
+     "h": "31ff3243",
+     "en": "In the same way there were Tathagatas named Chandranana, Vimalanana, Anupalipta, Vimalaprabha, Nagabhibhu, Suryanana, Girirajaghosha, Sumerukuta, Suvarnaprabhasa, Jyotishprabha, Vaiduryanirbhasa, Brahmaghosha, Chandrabhibhu, Suryaghosha, Muktakusumapratimanditaprabha, Shrikuta, Sagaravarabuddhivikriditabhijna, Varaprabha, Mahagandharajanirbhasa, Vyapagatakhilamalapratigha, Shurakuta, Ratnajaha, Mahagunadharabuddhipraptabhijna, Chandrasuryajihmikarana, Uttaptavaiduryanirbhasa, Chittadharabuddhisamkusumitabhyudgata, Pushpavativanarajasamkusumitabhijna, Pushpakara, Udakachandropama, Avidyandhakaravidhvamsanakara, Lokendra, Muktacchatrapravadasadrisha, Tishya, Dharmamativinanditaraja, Simhasagarakutavinanditaraja, Sagarameruchandra, Brahmasvaranadabhinandin, Kusumasambhava, Praptasena, Chandrabhanu, Merukuta, Chandraprabha, Vimalanetra, Girirajaghosheshvara, Kusumaprabha, Kusumavrishtyabhiprakirna, Ratnacchatra, Padmavithyupashobhita, Tagaragandha, Ratnanirbhasa, Nirmita, Mahavyuha, Vyapagatakhiladosha, Brahmaghosha, Saptaratnabhivrishta, Mahagunadhara, Tamalapatrachandanakardama, Kusumabhijna, Ajnanavidhvamsana, Kesharin, Muktacchatra, Suvarnagarbha, Vaiduryagarbha, Mahaketu, Dharmaketu, Ratnashri, Narendra, Lokendra, Karunika, Lokasundara, Brahmaketu, Dharmamati, Simha, and Simhamati. Ananda, before Simhamati, further back still, a Tathagata, an arhat, a perfectly awakened one named Lokeshvararaja (“King Lord of the World”) appeared in the world, perfect in knowledge and conduct, the Sugata, knower of the world, unsurpassed, tamer of those who can be tamed, teacher of gods and humans, a buddha, a blessed one.",
+     "cmp": [
+      {
+       "w": "pareṇa parataraṃ",
+       "note": "梵本这段佛名表连同前面五位约有八十位，每位都说「在他之前更早」，一路往过去数，最后才到世自在王佛。康僧铠本只列了五十三佛，名字和顺序也有出入。英文照梵本全部音译，不逐一意译。",
+       "en": "This list in the Sanskrit, with the five before it, has about eighty buddhas, each introduced as “before him, further back still,” counting back into the past until it reaches Lokeshvararaja. Kang Sengkai lists only fifty-three, with differences in the names and their order. The English transliterates every name in the Sanskrit list without translating each one."
+      }
+     ]
+    },
+    {
+     "h": "deb449fe",
+     "en": "Now, Ananda, in the teaching of that Tathagata Lokeshvararaja, the arhat, the perfectly awakened one, there was a monk named Dharmakara (“Mine of the Dharma”), who had exceptional memory, understanding and wisdom, exceptional effort, and noble aspirations. Then, Ananda, that monk Dharmakara rose from his seat, put his upper robe over one shoulder, set his right knee on the ground, raised his joined palms toward that Blessed One, the Tathagata Lokeshvararaja, bowed to the Blessed One, and then and there, face to face, praised him with these verses: “Boundless light, wisdom endless and beyond compare: no other light shines here at all. The glory of sun and jewel, the light of the moon, do not burn or shine in any world beside you. (1) Your form, essence of beings, is endless too; and so is a buddha’s voice, a sound without end.",
+     "cmp": [
+      {
+       "w": "dharmākara",
+       "note": "「法的宝藏、法的矿藏」。中文译「法藏比丘」，就是后来成佛的阿弥陀佛。英文保留音译并在括号给出意思。",
+       "en": "“Mine, treasury of the Dharma.” The Chinese 法藏比丘 (Fǎzàng bǐqiū, “the monk Dharma-Treasury”) is the monk who later becomes the Buddha Amitabha. The English keeps the Sanskrit name and gives its meaning in brackets."
+      }
+     ]
+    },
+    {
+     "h": "07624668",
+     "en": "In morality, too, in concentration, wisdom and effort, there is no one else in this world like you. (2) Deep, vast and subtle is the Dharma you have reached; the excellent Buddha is beyond thought, like the ocean. So the Teacher has no pride; he has shed hardness and fault and crossed to the far shore. (3) Just as the excellent Buddha of endless splendor, king of the lords of men, shines in every direction, so may I become a buddha, a master of the Dharma, and free people from old age and death. (4) Giving, self-control, morality, patience, effort, meditation and samadhi, and the highest and best: with these I take my vow; I will become a buddha, the protector of all beings. (5) Many hundreds of thousands of kotis of buddhas, endless as the sands of the Ganges: all those lords I will worship, seeking the auspicious, excellent awakening beyond compare."
+    },
+    {
+     "h": "3d6df6b3",
+     "en": "(6) In worlds as many as the grains of the Ganges, and in the endless fields beyond them, everywhere there I will send out my light; I will set to work with effort like that. (7) May my field be noble, the highest and best, the finest essence here in this conditioned world, with a happiness beyond compare, the happiness of the world of nirvana; and I will purify it by the absence of beings. (8) Beings who come there from the ten directions will quickly grow in happiness. Let the Buddha be my witness here: I raise a resolve with the power of effort that does not fail. (9) May the knowers of the world in the ten directions, with unobstructed knowledge, always know my mind. Even if I had to live always in the Avici hell, I would never turn back from the power of my vow.",
+     "cmp": [
+      {
+       "w": "asattvatayā viśodhayiṣye",
+       "note": "字面是「以无众生性来清净它」。白话补成「没有［恶道的］众生」，是一种解释；也可能是指「不执着有众生」的空性观。原文意思不确定，英文照字面译，不加补充。",
+       "en": "Literally “I will purify it through the absence of beings.” The plain Chinese supplies “without beings [of the bad destinies],” which is one interpretation; it may instead mean the emptiness view of not holding to the idea of beings. The meaning is uncertain, so the English translates literally without adding anything."
+      }
+     ]
+    },
+    {
+     "h": "b4a57a90",
+     "en": "(10)” Then, Ananda, when that monk Dharmakara had praised that Blessed One, the Tathagata Lokeshvararaja, face to face with these verses, he said: “Blessed One, I want to awaken to unsurpassed, perfect awakening. Again and again I raise my mind toward unsurpassed, perfect awakening and dedicate it. May the Blessed One kindly teach me the Dharma in such a way that I may quickly awaken to unsurpassed, perfect awakening and become a Tathagata in the world equal to the unequaled. And may the Blessed One describe to me the ways by which I may take up the perfection of the splendid array of good qualities of a buddha-field.” When this was said, Ananda, that Blessed One, the Tathagata Lokeshvararaja, said to that monk: “Well then, monk, take up the perfection of the splendid array and adornment of good qualities of a buddha-field yourself.”"
+    },
+    {
+     "h": "44c73e34",
+     "en": "He said: “Blessed One, I am not able to. But may the Blessed One himself describe the perfection of the splendid array and adornment of good qualities of the buddha-fields of other Tathagatas, so that, having heard it, we may fulfill it in every respect.” Then, Ananda, that Tathagata Lokeshvararaja, the arhat, the perfectly awakened one, knowing the monk’s intention, for a full koti of years explained and showed the perfection of the splendid array and adornment of good qualities of the buddha-fields of eighty-one hundred thousand kotis of nayutas of buddhas, with their features, in outline and in detail. He wanted what was good for beings, wished them well, was compassionate; out of compassion, so that the guidance of the buddhas would not be cut off, he raised great compassion for beings. The lifespan of that Blessed One was a full forty-two eons."
+    },
+    {
+     "h": "dca414e3",
+     "en": "Then, Ananda, that monk Dharmakara took up all the perfections of the splendid arrays and adornments of good qualities of the buddha-fields of those eighty-one hundred thousand kotis of nayutas of buddhas into a single buddha-field. He bowed his head to the feet of the Blessed One, the Tathagata Lokeshvara, walked around him keeping him on his right, and left the presence of that Blessed One. Then, for five more eons, he took up a perfection of the splendid array and adornment of good qualities of a buddha-field nobler and finer still, never before practiced in any world in the ten directions; and he made a noble vow."
+    },
+    {
+     "h": "974571ac",
+     "en": "So, Ananda, having taken up a perfection of a buddha-field that went beyond the perfections of those eighty-one hundred thousand kotis of nayutas of buddha-fields that the Blessed One, the Tathagata Lokeshvararaja, had described, nobler, finer and more measureless, he went to that Tathagata, bowed his head to that Blessed One’s feet and said: “Blessed One, I have taken up the perfection of the splendid array and adornment of good qualities of a buddha-field.” When this was said, Ananda, the Tathagata Lokeshvararaja said to that monk: “Then speak, monk. The Tathagata rejoices. Now is the time, monk: delight the assembly, give rise to joy, roar the lion’s roar, so that bodhisattvas, great beings, hearing it, may take up such vows for the perfection of a buddha-field, now and in the future.”"
+    },
+    {
+     "h": "87484fb3",
+     "en": "Then, Ananda, at that moment the monk Dharmakara said to that Blessed One: “Then may the Blessed One hear my special vows, as to how, when I have awakened to unsurpassed, perfect awakening, that buddha-field will be endowed with splendid arrays and adornments of good qualities beyond thought. (1) Blessed One, if in that buddha-field of mine there were hells, animal births, the realm of hungry ghosts, or the asura kind of body, then may I not awaken to unsurpassed, perfect awakening. (2) Blessed One, if beings reborn in that buddha-field of mine were afterward to pass away from there and fall into the hells, animal births, the realm of hungry ghosts or the asura kind of body, then may I not awaken to unsurpassed, perfect awakening.",
+     "cmp": [
+      {
+       "w": "mā tāvad aham anuttarāṃ samyaksaṃbodhim abhisaṃbudhyeyam",
+       "note": "每一愿结尾都是这句：「那就愿我不证无上正等正觉」。梵文是祈愿语气，等于用自己的成佛作担保。康僧铠译「不取正觉」，简洁有力，成了净土宗反复诵念的句子；英文 then may I not awaken 保留了「以此为誓」的语气。",
+       "en": "Every vow ends with this line: “then may I not awaken to unsurpassed, perfect awakening.” The Sanskrit is in the optative, staking his own awakening on the promise. Kang Sengkai’s 不取正觉 (bù qǔ zhèngjué, “I will not take perfect awakening”) is short and forceful and became a line Pure Land Buddhists recite again and again; the English “then may I not awaken” keeps the sense of a solemn oath."
+      }
+     ]
+    },
+    {
+     "h": "4b5ecc78",
+     "en": "(3) Blessed One, if the beings reborn in that buddha-field were not all of one color, namely the color of gold, then may I not awaken to unsurpassed, perfect awakening. (4) Blessed One, if in that buddha-field any difference between gods and humans were to be found, other than in counting and reckoning them as ‘gods’ and ‘humans’ by mere name, convention and everyday usage, then may I not awaken to unsurpassed, perfect awakening. (5) Blessed One, if the beings reborn in that buddha-field had not all reached the highest perfection of mastery of supernormal powers, so as to cross even hundreds of thousands of kotis of nayutas of buddha-fields in the space of a single moment of thought, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "fe56bd68",
+     "en": "(6) Blessed One, if the beings reborn in that buddha-field could not all remember their former lives, even as far as remembering hundreds of thousands of kotis of nayutas of eons, then may I not awaken to unsurpassed, perfect awakening. (7) Blessed One, if the beings reborn in that buddha-field did not all gain the divine eye, so as to see even hundreds of thousands of kotis of nayutas of worlds, then may I not awaken to unsurpassed, perfect awakening. (8) Blessed One, if the beings reborn in that buddha-field did not all gain the divine ear, so as to hear the true Dharma at once even from hundreds of thousands of kotis of nayutas of buddha-fields, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "0ce09682",
+     "en": "(9) Blessed One, if the beings reborn in that buddha-field were not all skilled in knowing the minds of others, so as to know fully the thoughts and conduct of the beings in even hundreds of thousands of kotis of nayutas of buddha-fields, then may I not awaken to unsurpassed, perfect awakening. (10) Blessed One, if the beings reborn in that buddha-field were to have any notion of possession, even about their own bodies, then may I not awaken to unsurpassed, perfect awakening. (11) Blessed One, if the beings reborn in that buddha-field were not all certain, that is, certain in rightness until the great final nirvana, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "52c6d2a9",
+     "en": "(12) Blessed One, if, after I have awakened to unsurpassed, perfect awakening, any being in that buddha-field could arrive at the number of the disciples, even if all the beings in the great galaxy of a billion worlds became solitary buddhas and counted for hundreds of thousands of kotis of nayutas of eons, then may I not awaken to unsurpassed, perfect awakening. (13) Blessed One, if, after I have awakened to unsurpassed, perfect awakening, my light in that buddha-field were limited, even to the measure of hundreds of thousands of kotis of nayutas of buddha-fields, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "c8f9da00",
+     "en": "(14) Blessed One, if, after I have awakened to unsurpassed, perfect awakening and reached awakening, the lifespan of the beings in that buddha-field were limited, except by the power of their own vows, then may I not awaken to unsurpassed, perfect awakening. (15) Blessed One, if, after I have reached awakening, my own lifespan could be brought to an end, even if counted in hundreds of thousands of kotis of nayutas of eons, then may I not awaken to unsurpassed, perfect awakening. (16) Blessed One, if, after I have reached awakening, even the name of the unwholesome existed among the beings in that buddha-field, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "758d5722",
+     "en": "(17) Blessed One, if, after I have reached awakening, the measureless, countless buddhas, the blessed ones, in measureless buddha-fields were not to proclaim my name, speak my praise, raise and spread my glory, then may I not awaken to unsurpassed, perfect awakening. (18) Blessed One, if, after I have reached awakening, there are beings in other worlds who raise their minds toward unsurpassed, perfect awakening, hear my name and remember me with minds full of faith, and if, when the time of their death comes, I do not stand before them, surrounded and honored by a community of monks, so that their minds are not distracted, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "d90871c0",
+     "en": "(19) Blessed One, if, after I have reached awakening, beings in measureless, countless buddha-fields hear my name, direct their minds to that buddha-field and dedicate their roots of goodness to being reborn there, and yet are not reborn in that buddha-field, even if they have turned their minds to it only ten times, then may I not awaken to unsurpassed, perfect awakening; except for beings who have committed the worst crimes and those obstructed by the obstruction of rejecting the true Dharma. (20) Blessed One, if, after I have reached awakening, the bodhisattvas reborn in that buddha-field did not all have the thirty-two marks of a great person, then may I not awaken to unsurpassed, perfect awakening.",
+     "cmp": [
+      {
+       "w": "antaśo daśabhiś cittotpādaparivartaiḥ",
+       "note": "这一条就是净土宗最看重的「十念往生」，在康僧铠本是第十八愿（「乃至十念，若不生者，不取正觉，唯除五逆、诽谤正法」），在这个梵本里排在第十九。梵文说的是「哪怕只发起十次心念」，是「心」的转动，不是口念佛号；后来中国净土宗把「十念」解作称念十声「南无阿弥陀佛」，是后人的理解。",
+       "en": "This is the vow Pure Land Buddhism values most, rebirth through “ten thoughts.” In Kang Sengkai’s version it is the eighteenth vow (乃至十念，若不生者，不取正觉，唯除五逆、诽谤正法, “even with ten thoughts, if they are not reborn, I will not take perfect awakening, except those who commit the five worst crimes or slander the true Dharma”); in this Sanskrit text it is the nineteenth. The Sanskrit says “even if they have turned their minds to it only ten times,” turnings of the mind, not recitations aloud. Chinese Pure Land later understood 十念 as reciting “Namo Amitabha” ten times, a later interpretation."
+      }
+     ]
+    },
+    {
+     "h": "a6e84f92",
+     "en": "(21) Blessed One, if, after I have reached awakening, the beings reborn in that buddha-field were not all bound to unsurpassed, perfect awakening after only one more birth, then may I not awaken to unsurpassed, perfect awakening; except for the special vows of those bodhisattvas, great beings, who have put on the great armor, armed for the good of the whole world, devoted to the good of the whole world, devoted to bringing the whole world to final peace, wishing to carry out the bodhisattva practice in all worlds, wishing to honor all buddhas, establishing beings as many as the sands of the Ganges in unsurpassed, perfect awakening, turned toward still higher practice and certain in the practice of Samantabhadra."
+    },
+    {
+     "h": "84df42d7",
+     "en": "(22) Blessed One, if, after I have reached awakening, the bodhisattvas reborn in that buddha-field could not all, in the time before a single morning meal, go to other buddha-fields and attend with every comfort on many hundreds of buddhas, many thousands of buddhas, many hundreds of thousands of buddhas, many kotis of buddhas, up to many hundreds of thousands of kotis of nayutas of buddhas, through the power of the Buddha, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "884c2842",
+     "en": "(23) Blessed One, if, after I have reached awakening, the bodhisattvas in that buddha-field wished to plant roots of goodness in whatever form, with gold or silver, or with any of the jewels such as gems, pearls, beryl, conch, crystal, coral, quartz, mother-of-pearl, red pearls and emeralds, or with every kind of flower, perfume, garland, ointment, powder, robe, parasol, flag, banner and lamp, or with every kind of dance, song and music, and if those forms did not appear for them the moment the thought arose, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "cdfd5b37",
+     "en": "(24) Blessed One, if, after I have reached awakening, the beings reborn in that buddha-field could not all give talks on the Dharma that go together with all-knowing, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "9dfaa3cb",
+     "en": "(25) Blessed One, if, after I have reached awakening, the bodhisattvas in that buddha-field were to think, ‘Why don’t we, staying right here in this world, honor, revere, respect and worship the buddhas, the blessed ones, in measureless, countless buddha-fields, with robes, alms food, beds and seats, medicine for the sick and other requisites, with flowers, incense, perfumes, garlands, ointments, powders, robes, parasols, flags and banners, with all kinds of dance, song and music, and with rains of jewels?’ and if those buddhas, the blessed ones, did not accept these out of compassion the moment the thought arose, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "216bc50e",
+     "en": "(26) Blessed One, if, after I have reached awakening, the bodhisattvas reborn in that buddha-field did not all gain the bodily strength of a frame as firm as Narayana’s diamond, then may I not awaken to unsurpassed, perfect awakening. (27) Blessed One, if, after I have reached awakening, any being in that buddha-field could grasp the limits of the colors of its adornment, even to the point of recognizing its many colors with the divine eye, saying, ‘This buddha-field has such a color, such splendor,’ then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "ec2f1d84",
+     "en": "(28) Blessed One, if, after I have reached awakening, a bodhisattva in that buddha-field with even the least roots of goodness could not perceive the tree of awakening, sixteen hundred leagues high and splendid in color, then may I not awaken to unsurpassed, perfect awakening. (29) Blessed One, if, after I have reached awakening, any being in that buddha-field has to recite or study, and they have not all gained the analytical knowledges, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "84d5c629",
+     "en": "(30) Blessed One, if, after I have reached awakening, that buddha-field were not so radiant that measureless, countless, inconceivable, incomparable, immeasurable buddha-fields could be seen in it on every side, like one’s face in a well-polished round mirror, then may I not awaken to unsurpassed, perfect awakening. (31) Blessed One, if, after I have reached awakening, in that buddha-field, from the surface of the ground up to the sky, hundreds of thousands of censers made of every kind of jewel and filled with all kinds of fragrant scents were not always burning every day, with a noble incense that surpasses the realm of gods and humans, as an offering to the Tathagata and the bodhisattvas, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "8f25b0c9",
+     "en": "(32) Blessed One, if, after I have reached awakening, there were not always rains of fragrant flowers of many jewels falling in that buddha-field, and clouds of music with delightful sounds always playing, then may I not awaken to unsurpassed, perfect awakening. (33) Blessed One, if, after I have reached awakening, the beings in measureless, countless, inconceivable, incomparable worlds who are touched by my light were not all endowed with a happiness surpassing that of gods and humans, then may I not awaken to unsurpassed, perfect awakening. (34) Blessed One, if, after I have reached awakening, bodhisattvas in measureless, countless, inconceivable, incomparable, immeasurable buddha-fields on every side, hearing my name, through the root of goodness that comes with that hearing,"
+    },
+    {
+     "h": "5f6ae49e",
+     "en": "did not gain the dharanis once they have passed on from that birth, right up to the seat of awakening, then may I not awaken to unsurpassed, perfect awakening. (35) Blessed One, if, after I have reached awakening, women in measureless, countless, inconceivable, incomparable, immeasurable buddha-fields on every side who hear my name, give rise to faith, raise the mind set on awakening and come to dislike their female state, were, after passing on from that birth, to take on a female state a second time, then may I not awaken to unsurpassed, perfect awakening.",
+     "cmp": [
+      {
+       "w": "strībhāvaṃ ca vijugupsyeran",
+       "note": "这一愿反映了古印度普遍的观念：女身被看作修行的不利条件。梵文说的是那些自己「厌离女身」的女人，来世不再受女身。康僧铠本是第三十五愿「女人往生」，意思相同。英文、白话都照原文译，不加评论；可与《维摩诘经》第六品天女与舍利弗换身的一段对照。",
+       "en": "This vow reflects a view common in ancient India: a woman’s body was seen as a disadvantage for practice. The Sanskrit speaks of women who themselves “come to dislike their female state,” who will not take on a female body again. In Kang Sengkai’s version it is the thirty-fifth vow, with the same meaning. The English and the plain Chinese translate it as it stands without comment; it can be read alongside the scene in chapter 6 of the Vimalakirti Sutra where the goddess swaps bodies with Shariputra."
+      }
+     ]
+    },
+    {
+     "h": "463c12d3",
+     "en": "(36) Blessed One, if, after I have reached awakening, bodhisattvas in measureless, countless, inconceivable, incomparable, immeasurable buddha-fields on every side in the ten directions, who hear my name and bow down with a five-point prostration, were not, as they carry out the bodhisattva practice, honored with homage by the world and its gods, then may I not awaken to unsurpassed, perfect awakening. (37) Blessed One, if, after I have reached awakening, any bodhisattva had to do the work of washing, drying, sewing or dyeing robes, and they did not find themselves clothed, the moment the thought arose, in ever-new, noble, jewel-like robes approved by the Tathagata, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "20afe115",
+     "en": "(38) Blessed One, if, after I have reached awakening, the beings born together in that buddha-field did not gain a happiness like that of a monk who is an arhat, free of fever, who has entered the third meditation, then may I not awaken to unsurpassed, perfect awakening. (39) Blessed One, if, after I have reached awakening, the bodhisattvas reborn in that buddha-field could not perceive, in the trees of many jewels, whatever splendid array and adornment of good qualities of a buddha-field they wished to see, then may I not awaken to unsurpassed, perfect awakening. (40) Blessed One, if, after I have reached awakening, bodhisattvas born in other buddha-fields who hear my name were to arrive at any impairment of their faculties and strengths, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "4b52e560",
+     "en": "(41) Blessed One, if, after I have reached awakening, bodhisattvas living in other buddha-fields who hear my name did not, the moment they hear it, gain the samadhi called Well-Distinguished, standing in which bodhisattvas see measureless, countless, inconceivable, incomparable, immeasurable buddhas, blessed ones, in the space of a single instant, and if that samadhi of theirs were lost along the way, then may I not awaken to unsurpassed, perfect awakening. (42) Blessed One, if, after I have reached awakening, beings who hear my name did not, through the root of goodness that comes with that hearing, gain birth in a noble family right up to the seat of awakening, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "d69a94b0",
+     "en": "(43) Blessed One, if, after I have reached awakening, beings in other buddha-fields who hear my name did not all, through the root of goodness that comes with that hearing, come to joy, gladness and a gathering of roots of goodness in the bodhisattva practice, right up to awakening, then may I not awaken to unsurpassed, perfect awakening. (44) Blessed One, if, after I have reached awakening, bodhisattvas in other worlds did not, the moment they hear my name, gain the samadhi called Going Everywhere, standing in which bodhisattvas honor measureless, countless, inconceivable, immeasurable buddhas, blessed ones, in the space of a single instant, and if that samadhi of theirs were lost along the way before the seat of awakening, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "adcb9e66",
+     "en": "(45) Blessed One, if, after I have reached awakening, the bodhisattvas reborn in that buddha-field did not hear whatever kind of Dharma teaching they wished to hear the moment the thought arose, then may I not awaken to unsurpassed, perfect awakening. (46) Blessed One, if, after I have reached awakening, bodhisattvas in that buddha-field and in other buddha-fields who hear my name did not become irreversible from unsurpassed, perfect awakening the moment they hear the name, then may I not awaken to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "de596b33",
+     "en": "(47) Blessed One, if, after I have reached awakening, bodhisattvas who hear my name did not, the moment they hear the name, gain the first, second and third acceptances, and did not become irreversible from the qualities of a buddha, then may I not awaken to unsurpassed, perfect awakening.” Then, Ananda, when that monk Dharmakara had set out these special vows, at that moment, through the power of the Buddha, he spoke these verses: “If these special, many-sided, excellent vows of mine are not fulfilled when I reach awakening, may I not become a lord of men, the essence of beings, bearer of the ten powers, worthy of offerings beyond compare. (1) If my field is not such that the many who are poor find abundant heavenly treasures, if anyone there is unhappy or suffers the pains of hell, may I not become a jewel among people, a king.",
+     "cmp": [
+      {
+       "w": "praṇidhāna",
+       "note": "梵本到这里一共四十七愿，康僧铠本是著名的四十八愿，两者的数目、次序和内容都有出入（例如「十念往生」在康僧铠本是第十八愿，梵本是第十九愿）。英文照梵本编号，在每一愿前标出（1）（2）……，读者可以和中文版的「第N愿」对照。紧接着的偈颂，在康僧铠本里是「我建超世愿」开头的「重誓偈」。",
+       "en": "The Sanskrit has forty-seven vows in all, while Kang Sengkai’s version has the famous forty-eight; their number, order and content differ in places (the “ten thoughts” vow, for example, is eighteenth in Kang Sengkai and nineteenth here). The English follows the Sanskrit numbering, marking each vow (1), (2) and so on, so readers can match them with the Chinese version’s numbering. The verses that follow correspond to Kang Sengkai’s “verses of the renewed oath,” beginning 我建超世愿 (wǒ jiàn chāoshì yuàn, “I have made vows that surpass the world”)."
+      }
+     ]
+    },
+    {
+     "h": "4014b422",
+     "en": "(2) If, when I have come to the seat of awakening, my name does not quickly go forth in the ten directions, through the wide, many, endless buddha-fields, may I not become a lord of the world who has reached the powers. (3) If I were to delight in the pleasures of the senses, lacking mindfulness, understanding and the right course, while seeking an awakening auspicious beyond compare, may I not become a teacher in the world who has reached the powers. (4) Lord whose light is vast, beyond compare and endless, shine through all the buddha-fields in every direction and between; calm passion, calm all hatred and delusion, and put out the comet-fire in the realm of hell. (5) Bringing forth a lovely, wide eye, shaking off the darkness of all people, removing every unfree state without remainder, opening the roads to heaven, one of endless splendor! (6) In the sky, the light of moon and sun does not burn, nor the light of clusters of gems, nor firelight, nor the light of the gods: the light of the lord of men outshines them all, for in his former practice he practiced purely."
+    },
+    {
+     "h": "1bf18fd6",
+     "en": "(7) Best of men, a treasure for those who suffer: in no direction, nor between, is there one like him. Full of all the hundreds of thousands of good qualities, in the assembly he roars a buddha’s lion roar. (8) Having honored the self-arisen victors of the past, and carried out vows and austerities for measureless kotis of eons, he, the essence of beings, seeks the finest, most excellent mass of knowledge, his power of vows fulfilled. (9) Just as the Blessed One, with unobstructed knowledge and vision, the lord of men, knows the threefold conditioned, so may I too become equal to him, worthy of offerings, wise, the finest leader of people. (10) Lord of men, if this vow of mine is fulfilled when I reach awakening, let this thousandfold world shake, and let the hosts of gods in the sky rain flowers.” (11) The earth shook, flowers rained down, and hundreds of instruments sounded in the sky; heavenly powder of lovely sandalwood was scattered, and a voice said: “You will be a buddha in the world.”"
+    },
+    {
+     "h": "efa02a55",
+     "en": "(12) Such, Ananda, was the perfection of vows with which the monk Dharmakara, the bodhisattva, the great being, was endowed. And, Ananda, few bodhisattvas are endowed with such a perfection of vows. Vows like these appear in the world rarely; rare, but not entirely absent. Then, Ananda, that monk Dharmakara, having set out these special vows before that Blessed One, the Tathagata Lokeshvararaja, before the world with its gods, Maras and Brahmas, before all people with their ascetics and brahmins, gods, humans and asuras, stood firm in carrying out his promise, just as it was."
+    },
+    {
+     "h": "58b086bf",
+     "en": "As he brought about this purity, greatness and nobility of a buddha-field and carried out the bodhisattva practice, for measureless, countless, inconceivable, incomparable, unmeasurable, immeasurable, inexpressible hundreds of thousands of kotis of nayutas of years he never once thought thoughts of desire, ill will or cruelty, never once formed notions of desire, ill will or cruelty, and never once formed notions of forms, sounds, smells, tastes or things touched."
+    },
+    {
+     "h": "0e53f0f5",
+     "en": "He was gentle, charming and kind; easy to live with, patient, easy to support and easy to feed, of few wants and content, solitary, free of malice and delusion, not crooked, not devious, not deceitful, not tricky; mild, sweet and pleasant of speech, always devoted to seeking bright qualities. He never set down the burden; he brought to completion a great vow for the good of all beings. He respected the Buddha, the Dharma, the Sangha, his teachers, preceptors and good friends. He was always armed for the bodhisattva practice. He was upright and gentle, not a hypocrite or a flatterer, full of good qualities, foremost in urging all beings to take up good things. He dwelt in emptiness, signlessness, wishlessness, not-putting-together and non-arising. He was free of pride and guarded his words well."
+    },
+    {
+     "h": "51f6c800",
+     "en": "As he carried out the bodhisattva practice, he gave up any speech that would lead to harm for himself, for others or for both, and devoted himself only to speech that would bring good and happiness to himself, to others and to both. He was clearly aware in this way. When he went into villages, towns, market towns, countryside, kingdoms and capitals, he was never carried away by forms, sounds, smells, tastes, things touched or mental objects. Unobstructed, he carried out the bodhisattva practice. He himself practiced the perfection of giving, and he urged others to it as well. He himself practiced the perfections of morality, patience, effort, meditation and wisdom, and he urged others to them as well. And he gathered roots of goodness such that, wherever he was reborn, there many treasures"
+    },
+    {
+     "h": "959f02ac",
+     "en": "arose from the earth for him, hundreds of thousands of kotis of nayutas of them."
+    },
+    {
+     "h": "29fcbf63",
+     "en": "As he carried out the bodhisattva practice, he established so many measureless, countless hundreds of thousands of kotis of nayutas of beings in unsurpassed, perfect awakening that it is not easy to reach the end of them in words. He honored, revered, respected and worshipped so many measureless, countless buddhas, blessed ones, and supplied them with robes, alms food, beds and seats, medicine for the sick and other requisites, with every comfort and every pleasant dwelling. He established so many beings in the families of merchant bankers, householders, ministers, kshatriyas and wealthy brahmins that it is not easy to reach the end of them in words. In the same way he established them as rulers of Jambudvipa, as wheel-turning kings, world-guardians, Shakras, Suyamas, Samtushitas, Sunirmitas, Vashavartins, kings of the gods and Great Brahmas. He honored, revered, respected and worshipped so many measureless, countless buddhas, blessed ones, and asked them to turn the wheel of the Dharma, that it is not easy to reach the end of them in words."
+    },
+    {
+     "h": "1ab36bb5",
+     "en": "He gathered such goodness that, while he carried out the bodhisattva practice for measureless, countless, inconceivable, incomparable, unmeasurable, immeasurable, inexpressible hundreds of thousands of kotis of nayutas of eons, a sweet sandalwood scent finer than any heavenly scent came from his mouth, and the scent of the blue lotus came from all the pores of his skin. He was the handsomest in all the world, gracious and lovely to look at, endowed with the fullness of the most beautiful complexion. From his body, adorned with the marks and minor signs, from all his pores and from the palms of his hands, there came forth every kind of jeweled ornament, every kind of cloth and robe, every kind of flower, incense, perfume, garland, ointment, parasol, flag and banner, and every kind of music and song."
+    },
+    {
+     "h": "8716cf17",
+     "en": "Every kind of food and drink, things to chew, eat and lick, every taste, and every kind of thing to use and enjoy, came streaming from the palms of his hands. So, Ananda, the monk Dharmakara, while he carried out the practice of awakening in the past, reached the perfection of mastery over all requisites.” When this was said, the venerable Ananda said to the Blessed One: “Blessed One, has that bodhisattva Dharmakara, the great being, awakened to unsurpassed, perfect awakening and passed away into final nirvana? Or has he not yet awakened? Or has he awakened in the present, and is he living, dwelling and carrying on now, and teaching the Dharma?” The Blessed One said: “Ananda, that Tathagata is not past, nor is he future. This Tathagata has awakened to unsurpassed, perfect awakening, and he is living, dwelling and carrying on now, and teaching the Dharma,"
+    },
+    {
+     "h": "ef52d8e6",
+     "en": "in the western direction from here, in the buddha-field a hundred thousand kotis of nayutas of buddha-fields away, in the world Sukhavati: the Tathagata named Amitabha, the arhat, the perfectly awakened one, surrounded and honored by measureless bodhisattvas, possessed of endless disciples and an endless perfection of his buddha-field. And his light is boundless; it is not easy to arrive at its measure or limit, to say: it shines through so many buddha-fields, so many hundreds of buddha-fields, so many thousands of buddha-fields, so many hundreds of thousands of buddha-fields, so many kotis of buddha-fields, so many hundreds of kotis, so many thousands of kotis, so many hundreds of thousands of kotis, so many hundreds of thousands of kotis of nayutas of buddha-fields."
+    },
+    {
+     "h": "86d69884",
+     "en": "But, Ananda, in short: in the eastern direction, hundreds of thousands of kotis of nayutas of buddha-fields as many as the sands of the Ganges are always filled with the light of that Blessed One, the Tathagata Amitabha. So too in the southern, western and northern directions, below, above and in the directions between: in each direction all around, hundreds of thousands of kotis of nayutas of buddha-fields as many as the sands of the Ganges are always filled with that light of the Blessed One, the Tathagata Amitabha; except for those buddhas, the blessed ones, who, by the power of their former vows, shine with a light of a fathom, or of one, two, three, four, five, ten, twenty, thirty or forty leagues, or with a light of a hundred leagues, a thousand leagues, a hundred thousand leagues, up to many hundreds of thousands of kotis of nayutas of leagues, up to filling a world."
+    },
+    {
+     "h": "6838f96c",
+     "en": "Ananda, there is no comparison by which the measure of the light of that Tathagata Amitabha can be grasped. That is why, Ananda, that Tathagata is called Amitabha, Boundless Light; and he is called Boundless Radiance, Boundless Brilliance, Unending Light, Unattached Light, Unobstructed Light, Ever-Shining Light, Light of Heavenly Gems, Light of the Unobstructed King of Rays, Lovely Light, Dear Light, Gladdening Light, Refreshing Light, Light to Look Up To, Light That Holds the Heart, Light Beyond Thought, Light Beyond Compare, Light Surpassing the Kings of Men and Asuras, Light Surpassing and Dimming the Sun and Moon, Light Surpassing and Dimming the World-Guardians, Shakra, Brahma, the Pure Abodes, Maheshvara and all the gods; he is called the one who has gone to the far shore of all lights.",
+     "cmp": [
+      {
+       "w": "amitaprabho, 'mitaprabhāso …",
+       "note": "梵本给阿弥陀佛的光列了二十个左右的名称；康僧铠本整理成著名的「十二光」（无量光、无边光、无碍光、无对光、焰王光、清净光、欢喜光、智慧光、不断光、难思光、无称光、超日月光），数目和名称都不完全对应。英文照梵本逐一意译。",
+       "en": "The Sanskrit gives about twenty names for Amitabha’s light; Kang Sengkai arranges them into the well-known 十二光 (shí’èr guāng, “twelve lights”): boundless, limitless, unobstructed, unrivaled, king of flames, pure, joyful, wisdom, unceasing, hard to conceive, indescribable, and surpassing sun and moon, which do not match one for one in number or name. The English translates each Sanskrit name in turn."
+      }
+     ]
+    },
+    {
+     "h": "0c4904cd",
+     "en": "That light of his is stainless and vast; it brings happiness to the body and lifts up the mind; it brings joy, gladness and happiness to gods, asuras, nagas, yakshas, gandharvas, garudas, mahoragas, kinnaras, humans and non-humans; and to those of good intent in other endless, boundless buddha-fields it brings gladness, with an understanding that is healthy, nimble and discerning. And, Ananda, if in this way the Tathagata were to speak for a full eon about the light of that Tathagata Amitabha, starting from his name and deeds, he could not reach the end of the good qualities of that light, nor would the Tathagata’s confidence be cut off. Why? Because, Ananda, both of these are measureless, countless, beyond thought and without end: the splendor of the good qualities of the light of that Blessed One, and the unsurpassed wisdom and eloquence of the Tathagata."
+    },
+    {
+     "h": "69cd1777",
+     "en": "And, Ananda, that Tathagata Amitabha’s community of disciples is measureless; it is not easy to grasp its number, to say: so many kotis of disciples, so many hundreds of kotis, so many thousands of kotis, so many hundreds of thousands of kotis, so many kankaras, so many bimbaras, so many nayutas, so many ayutas, so many akshobhyas, so many vivahas, so many srotas, so many jayas, so many measureless, countless, incalculable, incomparable, inconceivable numbers.",
+     "cmp": [
+      {
+       "w": "kaṅkara, biṃbara, akṣobhya, vivāha, śrotas, jāya",
+       "note": "这些都是古印度表示极大数目的单位，一级比一级大，各书的定义不一。白话保留音译并加注；英文也只音译，读者只需知道它们表示「大到无法计算」。",
+       "en": "These are ancient Indian names for enormous numbers, each larger than the last, defined differently in different texts. The plain Chinese keeps transliterations with a note; the English also just transliterates them. The reader only needs to know that they mean “too large to count.”"
+      }
+     ]
+    },
+    {
+     "h": "fb6c2ff1",
+     "en": "Ananda, it is like this: the monk Maudgalyayana has mastery of supernormal powers; if he wished, he could count all the stars in the great galaxy of a billion worlds in a single day and night. Suppose there were a hundred thousand kotis of nayutas of people with such powers, and for a hundred thousand kotis of nayutas of years they did nothing else but count the first assembly of disciples of the Tathagata Amitabha. With all their counting they would not have counted even a hundredth part, nor a thousandth, nor a hundred-thousandth, not even the smallest fraction, any fraction one could compare, the tiniest bit."
+    },
+    {
+     "h": "9029c4bb",
+     "en": "Ananda, it is like this: suppose a great ocean were eighty-four thousand leagues deep and immeasurably wide, and someone were to lift out a single drop of water with the tip of a hair split a hundred ways. What do you think, Ananda: which is more, the single drop of water lifted out with the tip of a hair split a hundred ways, or the mass of water left in the great ocean?” He said: “Blessed One, even a thousand leagues of water would be little compared with the great ocean, let alone a single drop lifted out with the tip of a hair split a hundred ways.”"
+    },
+    {
+     "h": "cfa2451f",
+     "en": "The Blessed One said: “That first assembly is like that single drop: that is how much those monks like Maudgalyayana would have counted in a hundred thousand kotis of nayutas of years; and what is left uncounted should be seen to be like the mass of water left in the great ocean. Let alone the second, third and later assemblies of disciples. That is how endless and boundless that Blessed One’s community of disciples is; it can only be numbered as ‘measureless and countless.’"
+    },
+    {
+     "h": "cbe0c9b6",
+     "en": "And, Ananda, the lifespan of that Blessed One, the Tathagata Amitabha, is unlimited; it is not easy to arrive at its measure, to say: so many eons, so many hundreds of eons, so many thousands of eons, so many hundreds of thousands of eons, so many kotis of eons, so many hundreds of kotis of eons, so many thousands of kotis of eons, so many hundreds of thousands of kotis of eons, so many hundreds of thousands of kotis of nayutas of eons. So, Ananda, that Blessed One’s lifespan is unlimited, without end. That is why that Tathagata is called Amitayus, Boundless Life. And, Ananda, according to the way eons are reckoned and counted by convention in this world, it is now ten eons since that Blessed One, the Tathagata Amitayus, arose and awakened to unsurpassed, perfect awakening."
+    },
+    {
+     "h": "8857db02",
+     "en": "Ananda, the world of that Blessed One Amitabha is called Sukhavati. It is rich, prosperous, safe, plentiful in food, delightful, and full of many gods and humans. In that world, Ananda, there are no hells, no animal births, no realm of hungry ghosts, no asura bodies, and no births in unfree states. And the jewels found in the world Sukhavati are not current in our world. Ananda, that world Sukhavati is fanned with many sweet scents, rich in many flowers and fruits, adorned with jewel trees, and visited by flocks of many birds with delightful voices, conjured up by the Tathagata.",
+     "cmp": [
+      {
+       "w": "sukhāvatī",
+       "note": "「具有安乐的（地方）」。康僧铠译「安乐」或「极乐」，鸠摩罗什的《阿弥陀经》用「极乐」，后来成了通称。英文照本站《阿弥陀经》英译的写法：Sukhavati, the Land of Bliss。",
+       "en": "“The (land) possessing happiness.” Kang Sengkai renders it 安乐 (ānlè, “peace and happiness”) or 极乐 (jílè, “utmost bliss”); Kumarajiva’s Amitabha Sutra uses 极乐, which became the standard name. The English follows the site’s English Amitabha Sutra: Sukhavati, the Land of Bliss."
+      }
+     ]
+    },
+    {
+     "h": "5b84fca0",
+     "en": "And, Ananda, those jewel trees are of many colors, of manifold colors, of many hundreds of thousands of colors. There are jewel trees there that are gold in color and made of gold; some are silver in color and made of silver; some are beryl in color and made of beryl; some are crystal in color and made of crystal; some are mother-of-pearl in color and made of mother-of-pearl; some are red pearl in color and made of red pearl; some are emerald in color and made of emerald. Some jewel trees are of two jewels, gold and silver. Some are of three jewels, gold, silver and beryl. Some are of four, gold, silver, beryl and crystal. Some are of five, gold, silver, beryl, crystal and mother-of-pearl. Some are of six, gold, silver, beryl, crystal, mother-of-pearl and red pearl."
+    },
+    {
+     "h": "777d3b73",
+     "en": "Some are of seven jewels: gold, silver, beryl, crystal, mother-of-pearl, red pearl, and, as the seventh, emerald."
+    },
+    {
+     "h": "eba7c8a2",
+     "en": "There, Ananda, the golden trees have roots, trunks, boughs, branches, leaves and flowers of gold, and fruits of silver. The silver trees have roots, trunks, boughs, branches, leaves and flowers of silver, and fruits of beryl. The beryl trees have roots, trunks, boughs, branches, leaves and flowers of beryl, and fruits of crystal. The crystal trees have roots, trunks, boughs, branches, leaves and flowers of crystal, and fruits of mother-of-pearl. The mother-of-pearl trees have roots, trunks, boughs, branches, leaves and flowers of mother-of-pearl, and fruits of red pearl. The red pearl trees have roots, trunks, boughs, branches, leaves and flowers of red pearl, and fruits of emerald. The emerald trees have roots, trunks, boughs, branches, leaves and flowers of emerald, and fruits of gold."
+    },
+    {
+     "h": "5fb3282d",
+     "en": "Some trees, Ananda, have roots of gold, trunks of silver, boughs of beryl, branches of crystal, leaves of mother-of-pearl, flowers of red pearl and fruits of emerald. Some trees, Ananda, have roots of silver, trunks of beryl, boughs of crystal, branches of mother-of-pearl, leaves of red pearl, flowers of emerald and fruits of gold. Some trees, Ananda, have roots of beryl, trunks of crystal, boughs of mother-of-pearl, branches of red pearl, leaves of emerald, flowers of gold and fruits of silver. Some trees, Ananda, have roots of crystal, trunks of mother-of-pearl, boughs of red pearl, branches of emerald, leaves of gold, flowers of silver and fruits of beryl. Some trees, Ananda, have roots of mother-of-pearl, trunks of red pearl, boughs of emerald, branches of gold, leaves of silver, flowers of beryl and fruits of crystal. Some trees, Ananda, have roots of red pearl, trunks of emerald, boughs of gold, branches of silver, leaves of beryl, flowers of crystal and fruits of mother-of-pearl. Some trees, Ananda, have roots of emerald, trunks of gold, boughs of silver, branches of beryl, leaves of crystal, flowers of mother-of-pearl and fruits of red pearl. Some trees, Ananda, have roots, trunks, boughs, branches, leaves, flowers and fruits all of the seven jewels."
+    },
+    {
+     "h": "4132c3ed",
+     "en": "And, Ananda, the roots, trunks, boughs, branches, leaves, flowers and fruits of all those trees are soft, pleasant to the touch and fragrant. When the wind stirs them, a sweet, delightful sound comes from them, one you never tire of and never find harsh to hear. Ananda, that buddha-field is covered everywhere with such trees of the seven jewels, and surrounded on all sides by banana trees of the seven jewels and rows of jeweled palm trees, everywhere hung with golden nets, and everywhere strewn with lotuses of the seven jewels. Some of the lotuses there are half a league across, some a league, some two, three, four or five leagues, some as much as ten leagues across. And from every jeweled lotus come thirty-six thousand kotis of rays of light."
+    },
+    {
+     "h": "440ecbdf",
+     "en": "And from every ray come thirty-six thousand kotis of buddhas, with golden bodies bearing the thirty-two marks of a great person, who go to measureless, countless worlds in the eastern direction and teach the Dharma to beings. So too they go to measureless, countless worlds in the southern, western and northern directions, below, above and in the directions between, in a world without obstruction, and teach the Dharma to beings. And, Ananda, in that buddha-field there are no black mountains at all, nor jewel mountains anywhere; there are no Sumerus, kings of mountains, at all, no Chakravada and Great Chakravada kings of mountains, and no great oceans. All around, that buddha-field is level and delightful, flat as the palm of the hand, its ground heaped with many kinds of jewels."
+    },
+    {
+     "h": "513837a3",
+     "en": "When this was said, the venerable Ananda said to the Blessed One: “But Blessed One, the gods of the Four Great Kings, who live on the slopes of Sumeru, and the gods of the Thirty-Three, who live on the summit of Sumeru: where do they stand?” The Blessed One said: “What do you think, Ananda: the gods here who live above Sumeru, king of mountains, the Yama gods, the Tushita gods, the gods who delight in creating, the gods who wield power over others’ creations, the gods of Brahma’s retinue, the gods who are Brahma’s priests, the Great Brahma gods, up to the Akanishtha gods, where do they stand?” He said: “Blessed One, the ripening of deeds, the shaping of deeds, is beyond thought.” The Blessed One said: “Here, Ananda, you have grasped that the ripening of deeds and the shaping of deeds are beyond thought; but not that the upholding power of the buddhas, the blessed ones, is beyond thought."
+    },
+    {
+     "h": "da96d321",
+     "en": "And for beings who have made merit and planted roots of goodness, there is a splendor of merit beyond thought.” He said: “Blessed One, I have no doubt, uncertainty or hesitation about this. I am asking the Tathagata about this in order to remove the doubt, uncertainty and hesitation of beings in the future.” The Blessed One said: “Good, good, Ananda; that is what you should do. Ananda, in that world Sukhavati many kinds of rivers flow. There are great rivers there a league wide; there are some twenty, thirty, forty, fifty, up to a hundred thousand leagues wide, and twelve leagues deep. All the rivers flow gently, carrying water of many sweet scents, carrying clusters of flowers rolling with many jewels, and sounding with many sweet voices."
+    },
+    {
+     "h": "68351a95",
+     "en": "And, Ananda, a sound comes from them as delightful as from an instrument of a hundred thousand kotis of parts, blended with heavenly song and played by masters. Such is the sound that comes from those great rivers: deep, intelligible, clear, smooth, pleasant to the ear, going to the heart, lovely, sweet and delightful, one you never tire of and never find harsh, worth listening to, pleasant to hear as ‘beyond thought, peaceful, without self,’ as it comes within the range of those beings’ hearing. And, Ananda, both banks of those great rivers are lined with many fragrant trees, from which hang many kinds of branches, leaves and clusters of flowers."
+    },
+    {
+     "h": "524fcd7c",
+     "en": "There, if beings on those riverbanks wish to enjoy heavenly play and delight free of sensual taint, when they go down into the rivers the water stands ankle-deep for those who wish it; for those who wish it, knee-deep, waist-deep, armpit-deep; for those who wish it, the water stands neck-deep; and heavenly delights appear. There, for beings who wish ‘Let the water be cool,’ it becomes cool; for those who wish ‘Let it be warm,’ it becomes warm; for those who wish ‘Let it be both cool and warm,’ the water becomes both cool and warm, just as they like."
+    },
+    {
+     "h": "abb4538e",
+     "en": "And those great rivers flow on full of water scented with heavenly tamala leaves, aloeswood, black aloeswood, tagara and the finest scent of serpent-heart sandalwood. They are covered with heavenly blue lotuses, red lotuses, water lilies, white lotuses, fragrant lotuses and other flowers. Their sandbanks are visited by flocks of birds with delightful voices conjured up by the Tathagata: geese, cranes, ruddy geese, ducks, parrots, mynas, cuckoos, kunalas, kalavinkas, peacocks and others. They are adorned with mineral colors, have good bathing places, are free of mud, and are strewn with golden sand. There, whenever those beings wish, ‘May our wishes be fulfilled like this,’ just such wishes of theirs, in keeping with the Dharma, are fulfilled. And, Ananda, the sound of that water comes forth so delightfully that it makes itself known through that whole buddha-field."
+    },
+    {
+     "h": "cab3ef3d",
+     "en": "There, if beings standing on the riverbanks wish, ‘Let this sound not come within our hearing,’ it does not come within range even of their divine ear. And whatever kind of sound each one wishes to hear, that kind of delightful sound he hears: the sound ‘Buddha,’ the sound ‘Dharma,’ the sound ‘Sangha,’ the sound ‘perfection,’ the sound ‘stage,’ the sound ‘powers,’ the sound ‘confidence,’ the sound ‘qualities unique to a buddha,’ the sound ‘higher knowledges,’ the sound ‘analytical knowledges’; the sound of ‘emptiness, signlessness, wishlessness, not-putting-together, the unborn, non-arising, non-being, cessation’; the sound of ‘peaceful, deeply peaceful, calm’; the sound of ‘great kindness, great compassion, great sympathetic joy, great equanimity’; and the sound of ‘gaining acceptance that things are unborn, and reaching the stage of consecration.’"
+    },
+    {
+     "h": "ede4f073",
+     "en": "Hearing such sounds, they gain a noble joy and gladness, joined with solitude, joined with dispassion, joined with peace, joined with cessation, joined with the Dharma, and joined with the roots of goodness that bring awakening to completion. And, Ananda, in the world Sukhavati there is no sound at all of the unwholesome; no sound at all of the hindrances; no sound at all of bad destinies, miserable states and downfalls; no sound at all of suffering. Ananda, there is not even the sound of feelings that are neither painful nor pleasant there; how much less suffering, or the sound of suffering! That, Ananda, is why that world is called Sukhavati, the Land of Bliss; and that is said in brief, not in detail. An eon would come to an end while the causes of happiness in the world Sukhavati were being told, and still one could not reach the end of those causes of happiness."
+    },
+    {
+     "h": "20744bae",
+     "en": "And, Ananda, the beings who have been reborn or will be reborn in that world Sukhavati are all endowed with such beauty, strength, power, height and girth, sovereignty, store of merit and higher knowledges; with such enjoyment of clothes, ornaments, gardens, palaces and pavilions; with such enjoyment of sounds, scents, tastes and touches; and with all such things to use and enjoy, just like the gods who wield power over others’ creations. And, Ananda, the beings in the world Sukhavati do not eat coarse food taken in mouthfuls. Rather, whatever food they wish for, they perceive as already eaten. Their bodies are satisfied and their limbs refreshed, and nothing more needs to be put into the body."
+    },
+    {
+     "h": "d9e80776",
+     "en": "With their bodies satisfied, whatever scents they wish for, the whole buddha-field is perfumed with just such heavenly scents. There, for anyone who does not wish to smell that scent, not even a notion or a trace of scent arises at all. In the same way, whatever scents, garlands, ointments, powders, robes, parasols, flags, banners and music they wish for, the whole buddha-field is filled with just such things. Whatever robes they wish for, of many colors, of many hundreds of thousands of colors, the whole buddha-field is evenly filled with just such jewel robes, and they find themselves already dressed in them."
+    },
+    {
+     "h": "b7450a10",
+     "en": "Whatever ornaments they wish for, ornaments for the head, the ears, the neck, the hands and the feet, such as crowns, earrings, bracelets, armlets, necklaces, strings of beads, ear-pendants, rings, golden threads, girdles, golden nets and nets of bangles of every jewel, they see the buddha-field filled with just such ornaments, set with many hundreds of thousands of jewels; and they find themselves adorned with the clothes from the ornament trees and with those ornaments. Whatever palace they wish for, of whatever color, sign and shape, of whatever height and girth, adorned with hundreds of thousands of turrets of many jewels, spread with many heavenly cloths, with jeweled couches set with bright cushions, just such a palace appears before them."
+    },
+    {
+     "h": "fb31d557",
+     "en": "In those palaces, produced by the mind, they live surrounded and honored by seven thousand heavenly maidens, playing, delighting and enjoying themselves. And in that world there is no difference between gods and humans, except that by everyday convention they are counted as ‘gods’ or ‘humans.’ Ananda, just as in front of a wheel-turning king a wretched, mutilated man does not shine, does not glow, does not stand out, is not confident and is not radiant, so too, in front of the gods who wield power over others’ creations, Shakra, lord of the gods, does not shine, does not glow, does not stand out, in respect of gardens, palaces, clothes and ornaments, or of sovereignty, supernormal power, miracles or mastery; but not in respect of understanding the Dharma or enjoying the Dharma."
+    },
+    {
+     "h": "65b023a8",
+     "en": "There, Ananda, the humans in the world Sukhavati should be seen as like the gods who wield power over others’ creations. And, Ananda, in that world Sukhavati, when the time of morning comes, winds blow from all four directions, swirling this way and that, which shake, stir, sway and ruffle the jewel trees there, colorful, lovely to look at, of many colors and many hues, scented with many sweet heavenly perfumes;"
+    },
+    {
+     "h": "bf55fc23",
+     "en": "and from them many hundreds of flowers, lovely to look at and delightfully fragrant, fall onto that jeweled ground. With those flowers the buddha-field all around takes on an arranged form seven men deep. Just as a skilled man might spread a carpet of flowers on the ground and lay it out evenly with both hands, bright and lovely to look at, so this buddha-field is covered all around, seven men deep, with those flowers of many scents and colors. And those flowers are soft, pleasant to the touch like kachalindika cloth; to give just a comparison, when a foot is set down they sink just four fingers, and when the foot is lifted they rise just four fingers. And when the time of morning has passed, those flowers vanish without a trace."
+    },
+    {
+     "h": "ed9fcc29",
+     "en": "Then that buddha-field becomes clear, delightful and lovely, untouched by those earlier flowers. Then again"
+    },
+    {
+     "h": "530c059a",
+     "en": "winds blow from all four directions and, as before, scatter fresh flowers. As in the morning, so at midday, in the afternoon, at twilight, and in the first, middle and last watches of the night. And beings touched by those blowing winds, scented with many perfumes, are filled with happiness, like a monk who has entered the attainment of cessation. And, Ananda, in that buddha-field there is not even the name or notion of fire, moon, sun, planets, constellations and stars, or of darkness and gloom. There is not even the notion of night and day at all, except in the usage of the Tathagata. And there is no notion at all of owning a house. And, Ananda, in that world Sukhavati, clouds of heavenly scented water rain down in due season."
+    },
+    {
+     "h": "d22196da",
+     "en": "Heavenly flowers of every color, the heavenly seven jewels, heavenly sandalwood powder, heavenly parasols, flags and banners rain down. Heavenly palaces and heavenly canopies are held up, heavenly jeweled parasols with yak-tail fans are held up in the sky. Heavenly instruments play, and heavenly maidens dance. And, Ananda, the beings who have been born, are being born or will be born in that buddha-field are all certain in rightness until nirvana. Why? Because there is no setting up or notion there of two groups, namely those who are not certain and those certain in wrongness. And for this reason too, Ananda, that world is called Sukhavati; and that is said in brief, not in detail."
+    },
+    {
+     "h": "28cc68f7",
+     "en": "Ananda, an eon would come to an end while the causes of happiness in the world Sukhavati were being told, and still one could not reach the end of those causes of happiness.” Then, at that moment, the Blessed One spoke these verses: “Even if all beings became Sugatas, with pure knowledge, skilled in the ultimate truth, and for a koti of eons or even longer they declared the praises of Sukhavati, (1) those kotis of eons would come to an end, and still there would be no end to the praises of Sukhavati;"
+    },
+    {
+     "h": "f423c685",
+     "en": "the eloquence of those who declare that garland of praises would not run out. (2) If someone were to cut and break up worlds as many as atoms and turn them into dust, and then fill still more worlds than that with jewels and give them away as gifts, (3) all those wide worlds would not be a fraction, nor even a comparison, for the merit that comes here from merely hearing the name of the world Sukhavati. (4) Greater still will be the merit of those who trust these as the words of the Victor; for faith is the root by which the world attains. So, having heard, let them dispel their doubt.” (5) Such, Ananda, are the measureless good qualities and praises of the world Sukhavati."
+    },
+    {
+     "h": "2d3fd396",
+     "en": "And, Ananda, in each of the ten directions, in buddha-fields as many as the sands of the Ganges, buddhas, blessed ones, as many as the sands of the Ganges proclaim the name of that Blessed One, the Tathagata Amitabha, speak his praise, make his fame known and extol his good qualities. Why? Because any beings who hear the name of that Tathagata Amitabha, and having heard it raise even a single thought of faith with deep resolve, all stand firm in irreversibility from unsurpassed, perfect awakening."
+    },
+    {
+     "h": "0acae6aa",
+     "en": "And, Ananda, those beings who will bring that Tathagata to mind again and again in his features, plant many and immeasurable roots of goodness, dedicate their minds to awakening and vow to be reborn in that world: when the time of their death comes, that Tathagata Amitabha, the arhat, the perfectly awakened one, will stand before them, surrounded and honored by many hosts of monks. Then, seeing that Blessed One, their minds full of faith, they are reborn right there in the world Sukhavati. Ananda, any son or daughter of good family who wishes, ‘How might I see that Tathagata Amitabha in this very life?’ should raise the mind toward unsurpassed, perfect awakening, direct the mind to that buddha-field in an unbroken stream of deep resolve, and dedicate roots of goodness to being reborn there.",
+     "cmp": [
+      {
+       "w": "ākārato manasīkariṣyanti",
+       "note": "这几段讲的是三种人怎样往生：常常观想佛的样貌、多种善根的人，佛亲自来迎；不常观想、善根不多的人，有化佛来迎；只忆念十次乃至一念的人，在梦中见佛也能往生。康僧铠本整理成「三辈往生」（上辈、中辈、下辈），内容大体对应，但他加入了「出家作沙门」「起立塔像、饭食沙门」等梵本没有的细节。",
+       "en": "These passages describe how three kinds of people are reborn there: those who often bring the Buddha’s features to mind and plant many roots of goodness are met by the Buddha himself; those who do so less are met by an emanated buddha; those who recollect him ten times or even once see him in a dream and are reborn. Kang Sengkai arranges this as the “three grades of rebirth” (upper, middle, lower), which broadly match, but he adds details the Sanskrit lacks, such as “leaving home to become a monk” and “building stupas and images, feeding monks.”"
+      }
+     ]
+    },
+    {
+     "h": "61595146",
+     "en": "But those who will not bring that Tathagata to mind so much, and will not often plant many and immeasurable roots of goodness, yet will direct their minds to that buddha-field: at the time of their death an emanation of the Buddha will stand before them, just like that Tathagata Amitabha, the arhat, the perfectly awakened one, in color, shape, height and girth, and in the retinue of monks around him. Relying on the faith that comes from seeing the Tathagata, with a concentration in which mindfulness is not lost, they will pass away and be reborn right there in that buddha-field."
+    },
+    {
+     "h": "a2ca6f7b",
+     "en": "And, Ananda, those beings who will recollect that Tathagata with ten arousals of thought, and will feel longing for that buddha-field; who will be content when the profound teachings are being taught, not falling away, not losing heart, not sinking down; who will bring that Tathagata to mind with even a single arousal of thought and feel longing for that buddha-field: they too will see that Tathagata Amitabha in a dream, will be reborn in the world Sukhavati, and will become irreversible from unsurpassed, perfect awakening."
+    },
+    {
+     "h": "d9230297",
+     "en": "It is because they see this reason, Ananda, that those Tathagatas in measureless, countless worlds in the ten directions proclaim the name of that Tathagata Amitabha, sound his praises and raise his glory. And, Ananda, to that buddha-field come bodhisattvas from each of the ten directions, as many as the sands of the Ganges, to that Tathagata Amitabha, to see him, to bow to him, to attend on him and to ask him questions, and to see that host of bodhisattvas and those special perfections of the splendid array and adornment of good qualities of the buddha-field. Then, at that moment, the Blessed One, making this very point clearer still, spoke these verses: “As many as the grains of sand in the river Ganges are the buddha-fields in the east,"
+    },
+    {
+     "h": "d17ae437",
+     "en": "from which bodhisattvas came to bow to the Buddha, to Amitayus, the leader. (1) Taking many handfuls of flowers, of many colors, sweet-smelling and lovely, they scatter them over the highest leader of people, Amitayus, worshipped by humans and gods. (2) So too in the south, west and north, in every direction the buddha-fields are as many, from which bodhisattvas came to bow to the Buddha, to Amitayus, the leader. (3) Taking many handfuls of perfume, of many colors, sweet-smelling and lovely, they scatter them over the highest leader of people, Amitayus, worshipped by humans and gods. (4) Having worshipped him, those many bodhisattvas bow at the feet of Boundless Light, walk around him keeping him on their right, and say: ‘Oh, how wonderfully this buddha-field shines!’ (5) They scatter handfuls of flowers, their minds uplifted, with joy beyond compare, and speak again: ‘Leader, may our field too be like this!’ (6) The handfuls of flowers thrown there then form a parasol a hundred leagues wide, finely adorned and shining, with a bright handle, covering the Buddha’s whole body. (7) Having honored him like this, those bodhisattvas talk together there, delighted: ‘Those beings have truly gained a great gain who have heard the name of the highest of men. (8) We too have gained a great gain before, in coming to this buddha-field."
+    },
+    {
+     "h": "598866c2",
+     "en": "See what this field is like, like a dream, which the Teacher conceived over a thousand eons. (9) See the Buddha, a heap of the finest merit, shining surrounded by bodhisattvas. The light of Amitabha is boundless, and boundless his splendor; boundless his life, and boundless his community.’ (10) Amitayus, the lord, smiles, and thirty-six kotis of nayutas of rays come forth from the disk of his face and shine through a thousand kotis of fields. (11) All those rays come back there and set in the crown of the leader’s head; gods and humans feel joy, knowing that the rays have set. (12) Then the son of the Buddha, of great fame, rises, the one named Avalokiteshvara (“the Lord Who Looks Down”): ‘What is the cause here, Blessed One, what is the reason, that you smile, Lord of the world? (13) Explain it, you who are skilled in the ultimate truth, kind and compassionate, freeing many beings;",
+     "cmp": [
+      {
+       "w": "avalokiteśvara",
+       "note": "观自在（观世音）菩萨在这部经里是阿弥陀佛的两大侍者之一。英文第一次出现时按本站《心经》英译写作 Avalokiteshvara，并在括号说明名字的意思。",
+       "en": "Avalokiteshvara (in Chinese 观自在 Guānzìzài, “Lord Who Sees,” or 观世音 Guānshìyīn, “Hearer of the World’s Cries”) appears in this sutra as one of Amitabha’s two great attendant bodhisattvas. On first mention the English spells the name Avalokiteshvara, following the site’s English Heart Sutra, with its meaning in brackets."
+      }
+     ]
+    },
+    {
+     "h": "0fded2e4",
+     "en": "hearing your supreme and lovely words, beings will be uplifted.’ (14) ‘The bodhisattvas in many worlds who have set out for Sukhavati to see the Buddha, hearing this, will feel vast joy and quickly come to see this field. (15) Coming to this noble field, they will quickly gain the power of supernormal abilities, the divine eye and the divine ear, memory of former lives, and skill in the highest truth.’ (16) Then the Buddha Amitayus declares: ‘This was my vow in the past: that beings, somehow hearing my name, should always come to my field. (17) This lovely vow of mine is fulfilled, and beings come from many worlds; having come quickly into my presence, here they become irreversible, with only one birth to go.’ (18) So if any bodhisattva here wishes, ‘May my field too be like this,"
+    },
+    {
+     "h": "37a27a50",
+     "en": "and may I too free many beings, by my name, my voice and my appearance,’ (19) let him go quickly, quickly, in great haste, to the world Sukhavati."
+    },
+    {
+     "h": "c11b642e",
+     "en": "And having gone, first to Boundless Light, let him worship a thousand kotis of buddhas. (20) Having worshipped many kotis of buddhas and gone to many fields by the power of supernormal ability, having made offerings before the Sugatas, they will come back to Sukhavati before the morning meal.” (21) And, Ananda, the tree of awakening of that Blessed One, the Tathagata Amitayus, the arhat, the perfectly awakened one, is sixteen hundred leagues high, its branches, leaves and foliage spread out over eight hundred leagues, and its roots and trunk five hundred leagues around. It is always in leaf, always in flower, always in fruit; of many colors, of many hundreds of thousands of colors; with many kinds of leaves, flowers and fruits, adorned with many wonderful forms. It is filled with moonlight gems, studded with Shakra’s sapphires, strewn with wish-fulfilling gems, finely studded with the best ocean gems, surpassing anything in heaven. It is hung with golden threads; with necklaces, jeweled strings, diamond strings, bracelet strings, strings of red pearls and strings of blue pearls; decorated with lion creepers, girdles, bunches of jeweled cords and hundreds of jeweled coverings; weighed down with golden nets, pearl nets, nets of every jewel and nets of bangles; adorned with makaras, swastikas, nandyavarta coils and crescent moons; ornamented with little bells, gems, gold and every jewel ornament; and adorned according to the wishes and requests of beings."
+    },
+    {
+     "h": "b4dc7d03",
+     "en": "And, Ananda, the sound that comes from that tree of awakening when the wind stirs it makes itself known in immeasurable worlds. There, Ananda, beings within whose hearing the sound of the tree of awakening comes need expect no disease of the ear until they reach awakening. Measureless, countless, inconceivable, incomparable, immeasurable, inexpressible beings within whose sight the tree of awakening comes need expect no disease of the eye until they reach awakening. And, Ananda, beings who smell the scent of that tree of awakening need never expect any disease of the nose until they reach awakening. Beings who taste the fruits of that tree of awakening need never expect any disease of the tongue until they reach awakening."
+    },
+    {
+     "h": "25bc6f98",
+     "en": "Beings touched by the light of that tree of awakening need never expect any disease of the body until they reach the seat of awakening. And, Ananda, beings who contemplate that tree of awakening in accordance with the Dharma need never expect any distraction of mind from then until they reach awakening. And all those beings, the moment they see that tree of awakening, stand firm in irreversibility from unsurpassed, perfect awakening, and gain the three acceptances: the acceptance that follows sound, the acceptance that conforms to the truth, and the acceptance that things are unborn. This is through the upholding power of the former vows of that very Tathagata Amitayus, because he did his service under the victors of the past, and because his former vows and practice were well completed, well developed, without lack or flaw."
+    },
+    {
+     "h": "a8e8dbbf",
+     "en": "And, Ananda, the bodhisattvas who have been born, are being born or will be born there are all bound to just one more birth, and will awaken right there to unsurpassed, perfect awakening; except, by the power of their vows, those bodhisattvas who have roared the great lion’s roar, who have put on the noble armor, and who are devoted to bringing all beings to final nirvana. And, Ananda, in that buddha-field the disciples shine with a light of a fathom, and the bodhisattvas with a light of a hundred thousand kotis of leagues; except for two bodhisattvas, by whose light that world is always and everywhere filled with constant radiance. Then the venerable Ananda said to the Blessed One: “Blessed One, what are the names of those two good men, those bodhisattvas, great beings?”"
+    },
+    {
+     "h": "8298c0f9",
+     "en": "The Blessed One said: “Ananda, one of the two is the bodhisattva, the great being, Avalokiteshvara, and the second is named Sthamaprapta (“One Who Has Gained Great Strength,” also called Mahasthamaprapta). Ananda, they passed away from this very buddha-field and were reborn there. And, Ananda, the bodhisattvas reborn in that buddha-field all have the thirty-two marks of a great person; their limbs are complete; they are skilled in the meditations and higher knowledges, skilled in the distinctions of wisdom; they are adept, with keen faculties, well-guarded faculties, faculties that understand, faculties neither feeble nor shaky; they have gained acceptance, and their good qualities are endless and boundless. And, Ananda, the bodhisattvas reborn in that buddha-field are never apart from seeing the Buddha and hearing the Dharma, and never fall into bad states, until they reach awakening."
+    },
+    {
+     "h": "46c85a9c",
+     "en": "And from then on none of them will ever fail to remember their former lives; except for those who, by an earlier vow, go into such turbulent eons, while the five corruptions are at work, when buddhas, blessed ones, appear in the world, as I do now. And, Ananda, the bodhisattvas reborn in that buddha-field all go to other worlds before a single morning meal and attend on many hundreds of thousands of kotis of nayutas of buddhas, as many as they wish. Through the Buddha’s power, as soon as they think, ‘Let us worship with such flowers, lamps, incense, perfumes, garlands, ointments, powders, robes, parasols, flags, banners, victory banners, instruments, songs and music,’ the moment the thought arises, just such means of worship appear in their hands."
+    },
+    {
+     "h": "5cc546e5",
+     "en": "Worshipping those buddhas, blessed ones, with those flowers and the rest, up to the music, they gather many, immeasurable, countless roots of goodness. And if they wish, ‘Let handfuls of flowers like this appear in our hands,’ the moment the thought arises, heavenly handfuls of flowers of many colors and many scents appear in their hands. With such handfuls of flowers they scatter, strew and shower those buddhas, blessed ones. And even the smallest handful of flowers they throw becomes a flower parasol ten leagues wide in the sky above; and the first does not fall to the ground before the second is thrown. Some handfuls of flowers, when thrown, become flower parasols twenty leagues wide in the sky above;"
+    },
+    {
+     "h": "1fef4fbc",
+     "en": "some thirty, forty or fifty, some a hundred thousand leagues wide appear in the sky above. There, those who feel great joy and gladness, and gain a great uplifting of the mind, plant many, immeasurable, countless roots of goodness, attend on many hundreds of thousands of kotis of nayutas of buddhas, and within that one morning are back again in the world Sukhavati; through the upholding and embrace of the former vows of that very Tathagata Amitayus, through the full and complete success of his former vows, without lack, well defined and well developed. And, Ananda, the bodhisattvas reborn in that buddha-field all give only talks on the Dharma that go together with all-knowing."
+    },
+    {
+     "h": "c82c33a0",
+     "en": "And in that buddha-field beings have no notion of possession at all. Walking about and wandering through the whole buddha-field, they feel neither delight nor discontent. When they leave, they leave without attachment, not with attachment; they have no such thought at all."
+    },
+    {
+     "h": "702bad07",
+     "en": "And, Ananda, the beings reborn in that world Sukhavati have no notion of ‘stranger,’ no notion of ‘one’s own,’ no notion of ‘mine’; there is no quarrel, no dispute, no opposition, no unequal mind. Their minds are even, kindly, loving, soft, gentle, workable, clear with faith, steady, free of hindrances, unshaken, untroubled; their minds practice the conduct of the perfection of wisdom. They have entered the understanding that is the mind’s support; they are like the ocean in wisdom and like Mount Sumeru in understanding, heaped with many good qualities. They play with the music of the factors of awakening and devote themselves to the music of the Buddha. They purify the eye of flesh and bring forth the divine eye;"
+    },
+    {
+     "h": "580b967e",
+     "en": "they have arrived at the eye of wisdom and gone to the far shore of the eye of the Dharma; they bring the eye of a buddha to completion, teaching it, making it shine and explaining it in detail. They bring forth unobstructed knowledge; they are devoted to the sameness of the three realms; their minds are tamed and calm; they have the realization that no thing is found. They are skilled in explaining origination, possessed of the explanation of the Dharma, skilled in taking up and setting aside, skilled in what is reasonable and unreasonable. They live without interest in worldly talk; they find the essence in talk that goes beyond the world. They are skilled in seeking all things; they dwell in the knowledge that the nature of all things is stilled; their sphere is not-finding; they own nothing, grasp nothing, worry about nothing, are troubled by nothing; they are well freed without grasping; they are without blemish; they do not stay at any limit; they do not stay rooted even in the higher knowledges; their minds are unattached and do not shrink; devoted to the profound teachings, they do not sink."
+    },
+    {
+     "h": "b022ec56",
+     "en": "They have entered and risen through the knowledge of a buddha, hard to understand; they have reached the path to the one destination; they are free of doubt, have crossed beyond uncertainty, have knowledge that depends on no one else, and are without conceit. In knowledge they rise high like Mount Sumeru; in understanding they are unshakable like the ocean; they surpass the light of the moon and sun with their wisdom and their pure, bright, lovely minds; they excel in good qualities that shine like refined gold. They are like the earth, because they bear the good and bad of all beings; like water, because they wash away the stains of all afflictions; like the king of fire, because they burn up the afflictions of conceit about all things; like the wind, because they cling to nothing in the world; like space, because they penetrate all things and own nothing at all."
+    },
+    {
+     "h": "7c2d194d",
+     "en": "They are like the lotus, because nothing in the world stains them; like a great cloud that comes in season, because they thunder the Dharma; like a great rain, because they shower the water of the Dharma; like a bull, because they surpass great crowds; like a great elephant, because their minds are supremely well tamed; like a noble thoroughbred horse, because they are well trained; like the lion, king of beasts, because they are courageous, confident and unafraid; like the banyan, king of trees, because they shelter all beings; like Sumeru, king of mountains, because no opponent can shake them; like the sky, because they cultivate measureless kindness; like the Great Brahma, because they lead the way in mastery of all roots of goodness and good things; like birds, because they store nothing up; like the garuda, king of birds, because they destroy the opponents’ arguments; like the udumbara flower, because their appearance is rare and sought after. Like great elephants they are well collected, undistracted, their faculties straight; they are skilled in judging, rich in patience and gentleness, free of envy because they do not covet the success of others."
+    },
+    {
+     "h": "7fffa134",
+     "en": "They are confident in talks on the Dharma; never satisfied in seeking the Dharma; like beryl in morality; mines of jewels in learning; sweet-voiced with the sound of the great drum of the Dharma. They beat the great drum of the Dharma, blow the great conch of the Dharma, raise the great banner of the Dharma, light the great torch of the Dharma. They see with wisdom; they are unconfused, faultless, their rancor stilled, pure, without the smell of decay, without greed. They delight in sharing, give freely with open hands, delight in giving and sharing both the Dharma and material things, are not stingy in giving, are unentangled, their minds unafraid. They are dispassionate, steadfast, heroic, able to bear the burden, resolute, with a sense of shame, beyond compare, unhindered; they have gained the higher knowledges; they are kind and easy to live with, doers of good, lamps of the world, leaders. They have abandoned delight, passion, attachment and aversion; they are pure, free of sorrow, stainless, rid of the three stains; they play with the higher knowledges; they have the power of their causes and the power of their vows; they are straight and not crooked."
+    },
+    {
+     "h": "9136c787",
+     "en": "They have planted roots of goodness under many hundreds of thousands of kotis of nayutas of buddhas; they have pulled out the dart of pride; they are free of passion, hatred and delusion; pure, pure in conviction, praised by the excellent victors, wise in the ways of the world, risen through refined knowledge, extolled by the victors, uplifted in mind; heroic, firm, unequaled, without rancor, incomparable, dustless, harmonious, noble, bulls among men; with a sense of shame, resolute, mindful, intelligent, understanding, wielding the sword of wisdom, meritorious, radiant, rid of rancor and stain, devoted to the lasting truths. Such, Ananda, in brief, are the bodhisattvas, the great beings, in that buddha-field. But if the Tathagata were to describe them in detail, even with a lifespan lasting hundreds of thousands of kotis of nayutas of eons, he could not reach the end of the good qualities of those good men."
+    },
+    {
+     "h": "1efdba57",
+     "en": "And yet the Tathagata’s confidence would not be cut off. Why? Because, Ananda, both of these are beyond thought and beyond compare: the good qualities of those bodhisattvas, and the unsurpassed wisdom and eloquence of the Tathagata."
+    },
+    {
+     "h": "45e97a38",
+     "en": "And now, Ananda, rise, face west, scatter flowers, join your palms and bow down. That is the direction where that Blessed One, the Tathagata Amitabha, the arhat, the perfectly awakened one, is living, dwelling and carrying on, and teaching the Dharma: dustless and pure, whose name sounds unobstructed through the worlds of the ten directions, whom buddhas, blessed ones, as many as the sands of the Ganges in each direction praise, extol and laud again and again, with unobstructed speech that none can answer.” When this was said, the venerable Ananda said to the Blessed One: “Blessed One, I want to see that Tathagata Amitabha, Boundless Light, Boundless Radiance, Boundless Life, the arhat, the perfectly awakened one, and those bodhisattvas, great beings, who have planted roots of goodness under many hundreds of thousands of kotis of nayutas of buddhas.”"
+    },
+    {
+     "h": "54705eb0",
+     "en": "The moment the venerable Ananda had said this, that Tathagata Amitabha, the arhat, the perfectly awakened one, sent out from the palm of his hand such a light that this buddha-field, a hundred thousand kotis of fields away, was filled with a great radiance. At that time, everywhere in those hundred thousand kotis of buddha-fields, all the black mountains and jewel mountains, Meru and Great Meru, Muchilinda and Great Muchilinda, Chakravada and Great Chakravada, walls and pillars, thickets of trees, gardens and palaces, heavenly and human, were pierced through and outshone by that light of the Tathagata."
+    },
+    {
+     "h": "dec1aa3e",
+     "en": "Just as, when the sun has risen, a man standing a fathom away can see another man, so at that moment the monks, nuns, laymen and laywomen in this buddha-field, and the gods, nagas, yakshas, gandharvas, asuras, garudas, kinnaras and mahoragas, saw that Tathagata Amitabha, the arhat, the perfectly awakened one, risen above all fields like Sumeru, king of mountains, outshining every direction, shining, blazing, glowing and gleaming; and they saw that great host of bodhisattvas and that community of monks; all through the Buddha’s power, because that light was so pure."
+    },
+    {
+     "h": "e73f5229",
+     "en": "Just as, if this great earth were to become one sheet of water, no trees, mountains, islands, grass, bushes, herbs or plants, no rivers, chasms or waterfalls could be made out; there would be only the great earth turned into a single ocean: in the same way, in that buddha-field there was no other sign or mark to be seen except the disciples with a light of a fathom, the bodhisattvas with a light of a hundred thousand kotis of leagues, and that Blessed One, the Tathagata Amitabha, the arhat, the perfectly awakened one, outshining that host of disciples and that host of bodhisattvas, lighting up every direction."
+    },
+    {
+     "h": "17001ed3",
+     "en": "At that time, the bodhisattvas, disciples, gods and humans in that world Sukhavati all saw this world, and the Tathagata Shakyamuni surrounded by a great community of monks, teaching the Dharma. Then the Blessed One said to the bodhisattva, the great being Ajita (Maitreya): “Ajita, do you see the perfection of the splendid array and adornment of good qualities in that buddha-field? Above, in the sky, delightful parks, delightful groves, delightful gardens, delightful rivers and lotus ponds, strewn with blue, red, white and other lotuses and water lilies made of many jewels; and below, from the surface of the ground up to the abode of the Akanishtha gods, the sky strewn with flowers, adorned with garlands of flowers, filled with rows of many pillars, and visited by flocks of many birds conjured up by the Tathagata?”"
+    },
+    {
+     "h": "2ff5082c",
+     "en": "He said: “I see it, Blessed One.” The Blessed One said: “And do you see, Ajita, these other flocks of birds that make all buddha-fields hear with the voice of a buddha, so that these bodhisattvas are never apart from recollecting the Buddha?” He said: “I see them, Blessed One.” The Blessed One said: “Do you see, Ajita, those beings in that buddha-field who have climbed into palaces a hundred thousand leagues across and move freely through the sky?” He said: “I see them, Blessed One.” The Blessed One said: “What do you think, Ajita: is there any difference between the gods who wield power over others’ creations and the humans in the world Sukhavati?” He said: “Blessed One, I do not see a single difference. That is how great the powers of the humans in this world Sukhavati are.”"
+    },
+    {
+     "h": "e8f5ceda",
+     "en": "The Blessed One said: “And do you see, Ajita, some people in that world Sukhavati dwelling in a womb inside great lotuses?” He said: “Blessed One, just as the gods of the Thirty-Three or the Yama gods enter palaces fifty leagues, a hundred leagues or five hundred leagues across and play, delight and enjoy themselves, so, Blessed One, I see some people in this world Sukhavati dwelling in a womb inside great lotuses. And there are beings here, Blessed One, who are born spontaneously, appearing seated cross-legged in lotuses. What is the cause here, Blessed One, what is the reason, that some live in a womb while others are born spontaneously, appearing seated cross-legged in lotuses?”",
+     "cmp": [
+      {
+       "w": "garbhāvāsa / upapāduka",
+       "note": "「住在胎中」与「化生」。这一段是净土经里著名的「胎生与化生」：心怀疑惑的人虽然往生，却在莲花中像住在胎里一样，一段时间见不到佛；信心无疑的人直接化生在莲花上。康僧铠本说胎生者「五百岁中常不见佛」，梵本下文同样以五百年为期。",
+       "en": "“Dwelling in a womb” and “born spontaneously.” This is the well-known passage on “womb birth and spontaneous birth” in the Pure Land sutras: those reborn there with doubts dwell inside the lotus as if in a womb and for a time cannot see the Buddha, while those with undoubting faith are born directly, seated on the lotus. Kang Sengkai says the womb-born “do not see the Buddha for five hundred years,” and the Sanskrit below gives the same five-hundred-year span."
+      }
+     ]
+    },
+    {
+     "h": "de13bfb3",
+     "en": "The Blessed One said: “Ajita, those bodhisattvas living in other buddha-fields who have doubts about being reborn in the world Sukhavati, and plant roots of goodness with that state of mind, dwell in a womb here. But those who are free of doubt and have cut off uncertainty, who plant roots of goodness for rebirth in the world Sukhavati, and who trust, have faith in and are convinced of the unobstructed knowledge of the buddhas, the blessed ones, are born there spontaneously, appearing seated cross-legged in lotuses."
+    },
+    {
+     "h": "4dbaf96f",
+     "en": "Ajita, those bodhisattvas, great beings, living in other buddha-fields, who raise the thought of seeing the Tathagata Amitabha, the arhat, the perfectly awakened one, who have no doubt, who do not question the unobstructed knowledge of a buddha, and who have faith in their own roots of goodness: when they are born spontaneously, appearing seated cross-legged in lotuses, in just a moment their bodies become like those of other beings who were born there long ago. See, Ajita, the weakness of wisdom, the unevenness of wisdom, the loss of wisdom, the smallness of wisdom: for five hundred years they lose the sight of the Buddha, the sight of the bodhisattvas, the sight of the true Dharma, and discussion of the Dharma; they lose the practice of roots of goodness and the success of all roots of goodness; all because of notions and attention that have fallen into doubt."
+    },
+    {
+     "h": "efa2a3eb",
+     "en": "Ajita, it is like this: suppose a consecrated kshatriya king had a prison inlaid all over with gold and beryl, hung with silk ribbons, garlands and clusters of flowers, spread with canopies of many colors, covered with fine cloths, strewn with many pearls and flowers, spacious, perfumed with incense, adorned with towers, mansions, windows, railings and gateways and every kind of jewel, covered with nets of gold, jewels and bangles, four-sided, with four pillars, four doors and four stairways. And suppose the king’s son, for some reason, were thrown into it and bound with fetters made of Jambu-river gold. And a couch were set out for him there, spread with many woolen rugs, spread with cotton and straw mattresses, as soft to the touch as kachalindika cloth, covered with a Kalinga coverlet with an upper sheet, with red pillows at both ends, bright and lovely to look at."
+    },
+    {
+     "h": "f3a6f9fa",
+     "en": "He might sit or lie on it, and plenty of pure, fine food and drink of many kinds might be brought to him there. What do you think, Ajita: would that prince’s enjoyment be rich?” He said: “Rich, Blessed One.” The Blessed One said: “What do you think, Ajita: would he taste it, savor it, or find contentment in it?” He said: “No indeed, Blessed One. Rather, he would long only to get out, because the king, displeased with him, had thrown him into that prison. He would seek out noble princes, ministers, the women of the palace, merchant bankers, householders or local rulers who might free him from that prison. Blessed One, the prince has no delight in that prison, and he is not freed from it until the king shows him favor.”",
+     "cmp": [
+      {
+       "w": "bandhanāgāra",
+       "note": "「牢房」：用一座黄金宝石打造、什么都不缺的牢房，比喻因疑惑而「胎生」的人：舒适，却出不去、见不到佛。康僧铠本也用了这个「转轮王子坐罪、金锁系之」的比喻。英文、白话都照梵文详细译出所有陈设，因为比喻的力量正在于「什么都好，唯独没有自由」。",
+       "en": "“A prison”: a prison built of gold and jewels and lacking nothing is the image for those “born in a womb” because of doubt: comfortable, yet unable to get out or see the Buddha. Kang Sengkai uses the same image of a prince who has offended and is bound with golden chains. The English and the plain Chinese translate every furnishing in the Sanskrit, because the image’s force lies in “everything is fine, except that there is no freedom.”"
+      }
+     ]
+    },
+    {
+     "h": "7e842388",
+     "en": "The Blessed One said: “In the same way, Ajita, those bodhisattvas who have fallen into doubt and plant roots of goodness, who question the knowledge of a buddha, the knowledge equal to the unequaled: though they are reborn here in the world Sukhavati simply through hearing the Buddha’s name and that bit of faith in their minds, they are not born spontaneously, appearing seated cross-legged in lotuses; rather, they dwell in a womb inside the lotuses. Though they there have the sense of gardens and palaces, though there is no excrement or urine, no spittle or snot, and nothing unpleasant occurs to the mind, still for five hundred years they are separated from seeing the Buddha, hearing the Dharma, seeing the bodhisattvas, discussing and settling the Dharma, and all practice of wholesome things. So they take no delight there and find no contentment."
+    },
+    {
+     "h": "b43d4f26",
+     "en": "But when they have worked off their earlier fault, they come out of there afterward. And when they come out, it cannot be made out whether they come out above, below or to the side. See, Ajita: in those five hundred years they could have attended on many hundreds of thousands of kotis of nayutas of buddhas, planted many countless, measureless roots of goodness, and taken up the qualities of a buddha; and they lose all of it through the fault of doubt. See, Ajita, what great harm doubt brings to bodhisattvas."
+    },
+    {
+     "h": "ea92fcb6",
+     "en": "Therefore, Ajita, bodhisattvas should be free of doubt, raise the mind toward awakening, and, in order to gain quickly the ability to bring good and happiness to all beings, dedicate their roots of goodness to rebirth in the world Sukhavati, where the Blessed One, the Tathagata Amitayus, the arhat, the perfectly awakened one, is.” When this was said, the bodhisattva Ajita said to the Blessed One: “Blessed One, how many mature bodhisattvas from this buddha-field, or from the presence of other buddhas, blessed ones, will be reborn in the world Sukhavati?” The Blessed One said: “Ajita, from this buddha-field seventy-two kotis of nayutas of mature bodhisattvas will be reborn in the world Sukhavati, mature and irreversible, with roots of goodness planted under many hundreds of thousands of kotis of buddhas."
+    },
+    {
+     "h": "67b36f94",
+     "en": "Let alone those with smaller roots of goodness. From the presence of the Tathagata Dushprasaha, eighteen kotis of nayutas of bodhisattvas will be reborn in the world Sukhavati. In the eastern direction lives a Tathagata named Ratnakara;"
+    },
+    {
+     "h": "783bf59f",
+     "en": "from his presence ninety kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Jyotishprabha, twenty-two kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Amitaprabha, twenty-five kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Lokapradipa, sixty kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Nagabhibhu, sixty-four kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Virajaprabha, twenty-five kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Simha, eighteen thousand bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Shrikuta, eighty-one kotis of nayutas of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Narendraraja, ten kotis of nayutas of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Balabhijna, twelve thousand bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Pushpadhvaja, twenty-five kotis of bodhisattvas who have attained vigor, setting out together as one, will in a single week put ninety-nine hundred thousand kotis of nayutas of eons behind them and be reborn in the world Sukhavati. From the presence of the Tathagata Jvalanadhipati, twelve kotis of bodhisattvas will be reborn in the world Sukhavati. From the presence of the Tathagata Vaisharadyaprapta, sixty-nine kotis of bodhisattvas will be reborn in the world Sukhavati: to see the Tathagata Amitabha, to bow to him, to attend on him, to ask him questions and to inquire of him."
+    },
+    {
+     "h": "4721edbb",
+     "en": "In this way, Ajita, I could go on for a full koti of nayutas of eons naming those Tathagatas from whom bodhisattvas go to the world Sukhavati to see, bow to and attend on that Tathagata Amitabha, and still I could not reach the end. See, Ajita, what a great gain those beings have gained who will hear the name of the Tathagata Amitabha, the arhat, the perfectly awakened one. Those beings who gain even a single thought of faith in that Tathagata and in this teaching of the Dharma will not be of lowly inclination."
+    },
+    {
+     "h": "cec70e99",
+     "en": "Therefore, Ajita, I tell you, I declare to you, before the world with its gods: to hear this teaching of the Dharma, even if one had to plunge into and cross a great galaxy of a billion worlds full of fire, one should not feel a single moment of regret. Why? Because, Ajita, kotis of bodhisattvas turn back from unsurpassed, perfect awakening through not hearing teachings of the Dharma like this. Therefore one should make a very great effort, with deep resolve, to hear, take up and hold this teaching of the Dharma, to master it, to explain it at length, and to cultivate it."
+    },
+    {
+     "h": "c8d475c0",
+     "en": "Even for a single day and night, even for just the time it takes to milk a cow, one should write it out well, even in the form of a book, and keep it, and regard it as the Teacher; if one wishes to establish measureless beings quickly and irreversibly in unsurpassed, perfect awakening, to see the buddha-field of that Blessed One, the Tathagata Amitabha, and to take up for oneself a special perfection of the splendid array and adornment of good qualities of a buddha-field."
+    },
+    {
+     "h": "f861f3a8",
+     "en": "But, Ajita, those beings will have gained an exceedingly great gain, will have planted roots of goodness, will have served the victors of the past and been upheld by the power of the buddhas, within whose hearing noble teachings of the Dharma like these will come in the future, even when the true Dharma is disappearing: teachings praised by all the buddhas, extolled by all the buddhas, approved by all the buddhas, which quickly bring the great knowledge of all-knowing. Having heard them, they will gain a noble joy and gladness; they will take them up, hold them, recite them, master them and explain them at length to others; they will delight in cultivating them; they will even write them out and worship them; and they will produce so much merit that it is not easy to count. So, Ajita, what had to be done by a Tathagata, I have done."
+    },
+    {
+     "h": "0b005193",
+     "en": "Now you must practice free of doubt. Do not question that unobstructed, unhindered knowledge of a buddha. Do not end up entering the prison of a jeweled lotus provided with everything. For, Ajita, the appearance of a buddha is rare, the teaching of the Dharma is rare, the right moment is rare. Ajita, I have told you how the perfection of former roots of goodness is attained. Now you must apply yourselves and practice. Ajita, I make a great entrusting of this teaching of the Dharma so that it will not be lost. Do not strive for the disappearance of the qualities of a buddha. Do not disturb the Tathagata’s command.”"
+    },
+    {
+     "h": "2ec2d2c7",
+     "en": "Then, at that moment, the Blessed One spoke these verses: “Those who have not made merit will not hear teachings like these; but those heroes who have reached their goal will hear these words. (1) Those who have seen the perfectly awakened one, the lord of the world, the maker of light, and heard the Dharma with reverence, will gain the highest joy. (2) The lowly, the lazy, those with wrong views cannot find faith in the teachings of the buddhas. Those who worshipped the buddhas of the past have trained in the conduct of the lords of the world. (3) Just as a man without eyes in the dark does not know the way, so how could he show it? Just so all the disciples are ignorant of a buddha’s knowledge, let alone other beings. (4) Only a buddha knows the good qualities of a buddha; not gods, nagas, asuras, yakshas or disciples."
+    },
+    {
+     "h": "23eeae89",
+     "en": "What way in is there even for solitary buddhas when the knowledge of a buddha is being made known? (5) If all beings became Sugatas, with pure knowledge and supreme skill, and for kotis of eons or longer they told the good qualities of a single buddha, (6) they would pass into nirvana in the meantime, after telling them for many kotis of eons, and still the measure of a buddha’s knowledge would not be found: such is the knowledge and practice of the victors. (7) So a wise and discerning person who trusts my words is a witness to the whole mass of the victors’ knowledge: a buddha knows, and would speak, the word. (8) Only now and then is a human birth gained, only now and then do buddhas appear;"
+    },
+    {
+     "h": "b490c637",
+     "en": "faith and wisdom are gained only after a very long time; so let those who understand the meaning make an effort. (9) Those who, hearing such a Dharma, gain the highest joy remembering the Sugata, were our friends in times past; they are buddhas who raise the resolve for awakening.” (10) While the Blessed One was speaking this teaching of the Dharma, the Dharma-eye, dustless and stainless, became pure regarding things in twelve kotis of nayutas of beings; twenty-four kotis reached the fruit of non-returning; the minds of eight hundred monks were freed from the outflows, no longer grasping; and twenty-five kotis of bodhisattvas gained the acceptance that things are unborn."
+    },
+    {
+     "h": "382eb371",
+     "en": "And in forty hundred thousand kotis of nayutas of gods and humans, minds that had never arisen before were raised toward unsurpassed, perfect awakening, and they planted roots of goodness for rebirth in Sukhavati, wishing to see the Blessed One Amitabha. All of them, having been born there, will in due course be reborn in other worlds as Tathagatas, all named Manjusvara (“Sweet Voice”). And eighty kotis of nayutas who had gained acceptance from the Tathagata Dipamkara and were irreversible from unsurpassed, perfect awakening, who had been brought to maturity by that very Tathagata Amitayus while he was carrying out his former bodhisattva practice, will be reborn in the world Sukhavati and fulfill the practice of their former vows. And at that moment this great galaxy of a billion worlds shook in six ways;"
+    },
+    {
+     "h": "ff8e0730",
+     "en": "various miracles appeared; the ground was strewn knee-deep with mandarava flowers; heavenly and human instruments played; and the sound of rejoicing was heard up to the abode of the Akanishtha gods. This is what the Blessed One said. Delighted, the bodhisattva, the great being Ajita, the venerable Ananda, that whole assembly, and the world with its gods, humans, asuras and gandharvas rejoiced at what the Blessed One had said. The proclaiming of the good qualities of the Blessed One Amitabha; the bodhisattvas’ entry into the stage of no turning back. Here ends the chapter on Amitabha’s array of Sukhavati."
+    }
+   ]
+  }
+ ]
+}
