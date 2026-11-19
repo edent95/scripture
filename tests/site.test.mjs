@@ -113,6 +113,16 @@ test('首页不放使用说明；每页有浅深色切换；书卡与章节页�
   }
 });
 
+test('每页页脚写明 CC BY 4.0 授权并链到协议，仓库有 LICENSE', () => {
+  const paths = build();
+  assert.ok(existsSync(new URL('../LICENSE', import.meta.url)), '缺 LICENSE');
+  for (const p of paths) {
+    const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+    assert.ok(html.includes('href="https://creativecommons.org/licenses/by/4.0/" rel="license"'), `${p} 页脚缺授权链接`);
+    assert.ok(html.includes('"license":"https://creativecommons.org/licenses/by/4.0/"'), `${p} 结构化数据缺 license`);
+  }
+});
+
 test('本地服务：页面 200、缺斜杠 301、未知路径 404', async () => {
   build();
   const server = await startServer(0);
