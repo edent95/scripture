@@ -66,6 +66,9 @@ const T = {
     cmpLabel: (n) => `三语对照 ${n}`,
     toDark: '换成深色',
     toLight: '换成浅色',
+    shelfReading: '在读',
+    shelfReadingSub: '点一下，回到上次读到的那一段',
+    shelfDone: '读完了',
   },
   en: {
     htmlLang: 'en',
@@ -88,6 +91,9 @@ const T = {
     cmpLabel: (n) => `Three languages ${n}`,
     toDark: 'Switch to dark theme',
     toLight: 'Switch to light theme',
+    shelfReading: 'Reading',
+    shelfReadingSub: 'One tap takes you back to the passage you stopped at',
+    shelfDone: 'Finished',
   },
 };
 
@@ -198,7 +204,7 @@ ${hreflang}<meta property="og:type" content="article">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
 <body data-lang="${lang}"${bodyData}>
 <header class="site-header">
-  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span>${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
+  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span class="brand-name">${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
   <div class="header-actions">
     ${langToggle(lang, alt)}
     <button class="theme-toggle" type="button" data-to-dark="${esc(t.toDark)}" data-to-light="${esc(t.toLight)}" aria-label="${esc(t.toDark)}" title="${esc(t.toDark)}"><span class="icon-moon" aria-hidden="true"></span><span class="icon-sun" aria-hidden="true"></span></button>
@@ -239,6 +245,16 @@ function bookCard(b, lang) {
     </a></li>`;
 }
 
+// 首页的两个书架：「在读」在最上面，「读完了」在最下面。构建时是空的、藏着；src/app.js 按本机的阅读进度把书卡搬进来，
+// 没读过的留在原来按传统分的组里。编号（01、02…）也由 app.js 按实际显示的组重排。
+function shelf(key, label, sub = '') {
+  return `<section class="tradition shelf" data-shelf="${key}" hidden>
+  <p class="kicker"></p>
+  <h2>${esc(label)}${sub ? `<span>${esc(sub)}</span>` : ''}</h2>
+  <ul class="book-list"></ul>
+</section>`;
+}
+
 function homePage(books, lang) {
   const t = T[lang];
   const shown = lang === 'en' ? books.filter(hasEn) : books;
@@ -256,9 +272,11 @@ function homePage(books, lang) {
 <section class="hero hero--art">
   <div class="hero-copy">
     ${intro}
+    <a class="resume" data-resume hidden></a>
   </div>
   ${emblemPicture('lotus', 'hero-emblem hero-scene', { kind: 'scenes' })}
 </section>
+${shelf('reading', t.shelfReading, t.shelfReadingSub)}
 ${groups
   .map(
     ([label, list], gi) => `
@@ -292,7 +310,8 @@ ${groups
   </ul>
 </section>`
       : ''
-  }`;
+  }
+${shelf('done', t.shelfDone)}`;
   return layout({
     lang,
     path: homePath(lang),
