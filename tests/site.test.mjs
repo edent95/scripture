@@ -153,3 +153,24 @@ test('本地服务：页面 200、缺斜杠 301、未知路径 404', async () =>
     server.close();
   }
 });
+
+test('SEO：每个经文页的 description 各不相同、不是直接截经文，英文标题带通行名', async () => {
+  const { chapterDescription, enSearchName } = await import('../scripts/build.mjs');
+  const seen = new Set();
+  for (const b of loadBooks()) {
+    for (let i = 0; i < b.chapters.length; i++) {
+      for (const lang of b.en ? ['zh', 'en'] : ['zh']) {
+        const d = chapterDescription(b, i, lang);
+        assert.ok(!seen.has(d), `重复的 description：${d}`);
+        seen.add(d);
+        const first = lang === 'en' ? b.chapters[i].verses[0].en.text : b.chapters[i].verses[0].zh;
+        assert.ok(!d.startsWith(first.slice(0, 10)), `${b.slug} ${i} ${lang} 还是直接截经文`);
+        assert.ok(d.length <= (lang === 'en' ? 160 : 140));
+      }
+    }
+  }
+  const heart = loadBooks().find((b) => b.slug === 'heart-sutra');
+  assert.equal(enSearchName(heart), 'Heart Sutra');
+  const html = readFileSync(join(OUT, 'en', 'heart-sutra', 'index.html'), 'utf8');
+  assert.match(html, /<title>Heart Sutra \(/);
+});

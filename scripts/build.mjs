@@ -110,6 +110,26 @@ const orig = (b, lang) => ORIG[origCode(b)][lang];
 const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi']);
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
+// 英文版 <title> 与 description 用的「大家搜的名字」。页面上的书名照旧用直译名（The Heart of the Perfection of Wisdom），
+// 但英文用户搜的是 Heart Sutra、Bhagavad Gita，标题里没有这个词就几乎排不上。书名里已经带通行名的不用写。
+const EN_SEARCH_NAME = {
+  'heart-sutra': 'Heart Sutra',
+  'diamond-sutra': 'Diamond Sutra',
+  'bhagavad-gita': 'Bhagavad Gita',
+  'metta-sutta': 'Metta Sutta',
+  'mangala-sutta': 'Mangala Sutta',
+  satipatthana: 'Mahasatipatthana Sutta',
+  dhammacakka: 'Dhammacakkappavattana Sutta',
+  'middle-way-verses': 'Mulamadhyamakakarika',
+  buddhacarita: 'Buddhacarita',
+  bhadracari: 'King of Prayers (Bhadracari)',
+  'samkhya-karika': 'Samkhya Karika',
+  'thirty-verses': 'Trimshika (Thirty Verses)',
+  'twenty-verses': 'Vimshatika (Twenty Verses)',
+  'gateway-to-logic': 'Nyayapravesha',
+  upanishads: 'Isha, Mandukya and Katha Upanishads',
+};
+export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
 const saName = (b, lang) => (lang === 'en' ? b.sanskrit.replace('(小本)', ' (shorter)').replace('(大本)', ' (longer)') : b.sanskrit);
 const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
@@ -329,7 +349,7 @@ function bookIndexPage(b, lang) {
     exact: hasEn(b),
     title:
       lang === 'en'
-        ? `${b.en.title} (${saName(b, lang)}): ${orig(b, 'en')}, plain English and Chinese side by side`
+        ? `${enSearchName(b)} (${saName(b, lang)}): ${orig(b, 'en')} with plain English translation`
         : `${b.title} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
     description:
       lang === 'en'
@@ -425,6 +445,25 @@ function sourceNote(b, lang) {
   return `\n<p class="meta source-note">${parts.join('；')}。本站白话与注释以 CC BY 4.0 授权，底本按各自来源的授权使用。</p>`;
 }
 
+// 搜索结果里那两行：先说这一页给你什么（原文、白话、哪位古译、几段），再补一句内容（单章书用简介，多章书用这一章的开头）。
+// 以前直接截第一段经文，「嗡！礼敬……」看不出这页是干什么的。
+export function chapterDescription(b, i, lang) {
+  const ch = b.chapters[i];
+  const single = b.chapters.length === 1;
+  const n = ch.verses.length;
+  if (lang === 'en') {
+    const name = single ? enSearchName(b) : `${enSearchName(b)}, ${ch.en.split(' · ')[0]}`;
+    const lead = `${name} in ${orig(b, 'en')} and plain English, passage by passage.`;
+    const tail = single ? b.en.summary : `Opens: “${ch.verses[0].en.text}”`;
+    return clip(`${lead} ${tail}`, 160);
+  }
+  const name = single ? `《${b.title}》` : `《${b.title}》${ch.title}：`;
+  const old = b.oldTranslator ? `，对照${b.oldTranslator}译本` : '';
+  const lead = `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附天城体与罗马转写。`;
+  const tail = single ? b.summary : `开头：${ch.verses[0].zh}`;
+  return clip(lead + tail, 140);
+}
+
 function chapterPage(b, i, lang) {
   const t = T[lang];
   const ch = b.chapters[i];
@@ -471,9 +510,9 @@ function chapterPage(b, i, lang) {
     bodyData: ` data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"`,
     title:
       lang === 'en'
-        ? `${heading}: ${orig(b, 'en')} with plain English translation`
+        ? `${single ? `${enSearchName(b)} (${saName(b, lang)})` : `${enSearchName(b)} ${ch.en}`}: ${orig(b, 'en')} with plain English translation`
         : `${heading} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)}`,
-    description: clip(lang === 'en' ? ch.verses[0].en.text : ch.verses[0].zh, lang === 'en' ? 160 : 140),
+    description: chapterDescription(b, i, lang),
     body,
     jsonLd: {
       '@context': 'https://schema.org',
