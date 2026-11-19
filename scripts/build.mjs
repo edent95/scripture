@@ -12,6 +12,7 @@ const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
 const SITE = (process.env.SITE_URL ?? 'https://scripture.eden-tan.com').replace(/\/$/, '');
 const HOST = new URL(SITE).host;
 const MAIN_SITE = 'https://eden-tan.com';
+const LICENSE_URL = 'https://creativecommons.org/licenses/by/4.0/';
 
 // 还没有英译的书：英文首页上的书名与一句简介
 const EN_PENDING = {
@@ -29,7 +30,7 @@ const T = {
     siteSub: '',
     home: '首页',
     sitemap: '网站地图',
-    footer: '梵文原文与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀）都是公有领域；白话直译、英译、古译今译与注释是本站整理，转载请注明出处。',
+    footer: '梵文原文与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
     notFound: '找不到这一页',
     backHome: '回到首页',
     cols: '显示哪几栏',
@@ -51,7 +52,7 @@ const T = {
     siteSub: '',
     home: 'Home',
     sitemap: 'Sitemap',
-    footer: 'The Sanskrit texts and the classical Chinese translations (Xuanzang, Kumarajiva, Kang Sengkai, Shikshananda) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work; please credit when quoting.',
+    footer: 'The Sanskrit texts and the classical Chinese translations (Xuanzang, Kumarajiva, Kang Sengkai, Shikshananda) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
     notFound: 'Page not found',
     backHome: 'Back to home',
     cols: 'Columns to show',
@@ -159,7 +160,7 @@ ${body}
 </main>
 <footer class="site-footer">
   <p>${esc(t.footer)}</p>
-  <p><a href="${MAIN_SITE}/">Eden Tan</a> · <a href="/sitemap.xml">${t.sitemap}</a></p>
+  <p><a href="${MAIN_SITE}/">Eden Tan</a> · <a href="/sitemap.xml">${t.sitemap}</a> · <a href="${LICENSE_URL}" rel="license">CC BY 4.0</a></p>
 </footer>
 <script src="/app.js" defer></script>
 </body>
@@ -263,6 +264,7 @@ ${groups
       url: SITE + homePath(lang),
       inLanguage: langs(lang),
       author: { '@type': 'Person', name: 'Eden Tan', url: MAIN_SITE + '/' },
+      license: LICENSE_URL,
     },
   });
 }
@@ -314,6 +316,7 @@ function bookIndexPage(b, lang) {
           alternateName: saName(b, lang),
           url: SITE + bookPath(b, lang),
           inLanguage: langs(lang),
+          license: LICENSE_URL,
           hasPart: b.chapters.map((ch, i) => ({ '@type': 'Chapter', name: chTitle(ch, lang), url: SITE + chapterPath(b, i, lang) })),
         },
         breadcrumbLd([[t.siteName, homePath(lang)], [title(b, lang), bookPath(b, lang)]]),
@@ -438,6 +441,7 @@ function chapterPage(b, i, lang) {
           alternateName: saName(b, lang),
           url: SITE + chapterPath(b, i, lang),
           inLanguage: langs(lang),
+          license: LICENSE_URL,
           ...(single ? {} : { isPartOf: { '@type': 'Book', name: title(b, lang), url: SITE + bookPath(b, lang) } }),
         },
         breadcrumbLd(crumbs),
@@ -494,7 +498,7 @@ export function build() {
   const en = books.filter(hasEn);
   write(
     'llms.txt',
-    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n\n${books
+    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit texts and classical Chinese translations are public domain.\n\n${books
       .map(
         (b) =>
           `## ${b.title} (${b.sanskrit})${hasEn(b) ? ` — ${b.en.title}` : ''}\n\n${b.summary}\n\n${hasEn(b) ? `${b.en.summary}\n\n` : ''}${b.chapters.map((ch, i) => `- [${ch.title}](${SITE}${chapterPath(b, i)})`).join('\n')}`,

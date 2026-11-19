@@ -1,0 +1,32 @@
+scripture.eden-tan.com — License / 授权
+
+1. Public domain / 公有领域
+   The Sanskrit source texts (Devanagari and romanization) and the classical
+   Chinese translations (Xuanzang, Kumarajiva, Kang Sengkai, Shikshananda, etc.)
+   are in the public domain. No rights are claimed over them.
+   梵文原文（天城体与罗马转写）与古代汉译（玄奘、鸠摩罗什、康僧铠、实叉难陀等）属公有领域，本站不主张任何权利。
+
+2. This site's own content / 本站自己的内容 — CC BY 4.0
+   Copyright (c) 2026 Eden Tan (https://eden-tan.com)
+   The plain-Chinese translations from the Sanskrit (content/*.json "zh"),
+   the English translations (translations/en/), the modern renderings of the
+   classical translations, all notes and comparison notes, and the page text
+   are licensed under the Creative Commons Attribution 4.0 International License.
+   从梵文直译的白话、英译、古译今译、各类注释与三语对照、网页文字，
+   以「知识共享 署名 4.0 国际」(CC BY 4.0) 授权。
+
+   You are free to share and adapt this material for any purpose, including
+   commercially, as long as you give appropriate credit:
+   可以自由转载、改编，包括商用，只要注明出处：
+
+       Eden Tan · https://scripture.eden-tan.com
+
+   Full legal text / 全文: https://creativecommons.org/licenses/by/4.0/legalcode
+
+3. Code / 代码
+   The build scripts and site code (scripts/, src/, tests/) are released under
+   the same terms; reuse them freely with credit.
+   构建脚本与网站代码（scripts/、src/、tests/）同样可以注明出处后自由使用。
+
+First published / 首次发布: 2026-11-17, https://scripture.eden-tan.com
+(git history and GitHub Pages deployments record the dates of each change.)
