@@ -67,7 +67,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 :focus-visible { outline: 2px solid var(--action-soft); outline-offset: 3px; border-radius: 6px; }
 
 /* 标签声线:JetBrains Mono */
-.kicker, .meta, .num, .who, .crumbs, .col-toggle button, .book-list small, .chapter-list span {
+.kicker, .meta, .num, .who, .crumbs, .col-toggle button, .book-list small, .chapter-list span, .feed-no, .feed-kicker {
   font-family: var(--mono);
   letter-spacing: 0.06em;
 }
@@ -154,11 +154,11 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .tradition h2 { margin: 0 0 28px; font-size: clamp(1.8rem, 3.4vw, 2.8rem); font-weight: 800; line-height: 1.05; letter-spacing: -0.01em; }
 .tradition h2 span { display: block; margin-top: 8px; color: var(--muted); font-size: 1rem; font-weight: 400; letter-spacing: 0; }
 
-/* 卡片用来分组:桌面两栏,手机一栏 */
-.book-list, .chapter-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-.book-list > li, .chapter-list > li { min-width: 0; }
+/* 章节目录:卡片 */
+.chapter-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+.chapter-list > li { min-width: 0; }
 .chapter-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
-.book-list a, .chapter-list a {
+.chapter-list a {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -170,23 +170,9 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   transition: border-color 0.2s, transform 0.2s;
 }
 .chapter-list a { flex-direction: row; align-items: baseline; justify-content: space-between; gap: 12px; padding: 20px 24px; border-radius: var(--radius-sm); }
-.book-list a:hover, .chapter-list a:hover { border-color: var(--line); text-decoration: none; transform: translateY(-2px); }
-.book-list strong { display: block; font-size: clamp(1.4rem, 2.2vw, 1.8rem); font-weight: 800; line-height: 1.15; }
+.chapter-list a:hover { border-color: var(--line); text-decoration: none; transform: translateY(-2px); }
 .chapter-list strong { min-width: 0; font-size: 1.05rem; font-weight: 700; line-height: 1.4; overflow-wrap: anywhere; }
-.book-list .sa-name { display: block; margin-top: 6px; color: var(--muted); font-size: 0.95rem; overflow-wrap: anywhere; }
 .chapter-list span { flex: none; color: var(--muted); font-size: 0.78rem; }
-.book-list p { flex: 1; margin: 16px 0 20px; color: var(--muted); font-size: 0.98rem; }
-.book-list small { color: var(--muted); font-size: 0.75rem; text-transform: uppercase; }
-.book-list small::before {
-  content: '';
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  margin-right: 10px;
-  border-radius: 50%;
-  background: var(--primary);
-  vertical-align: 1px;
-}
 
 /* 三栏开关:主品牌色表示「正在显示」 */
 .col-toggle {
@@ -311,7 +297,6 @@ body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa
 
 @media (max-width: 760px) {
   body { font-size: 16px; }
-  .book-list { grid-template-columns: minmax(0, 1fr); }
   .verse { padding: 28px 0; }
   .num { position: static; display: inline-grid; margin-bottom: 12px; }
   .col.zh { font-size: 1.06rem; }
@@ -321,7 +306,7 @@ body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
-  .book-list a:hover, .chapter-list a:hover { transform: none; }
+  .chapter-list a:hover { transform: none; }
 }
 
 /* 插画(scripts/scenes.mjs 主题插画、scripts/emblems.mjs 曼陀罗花纹章,都用公式生成):
@@ -343,29 +328,12 @@ main { overflow-x: clip; }
 .hero--book > .hero-emblem { width: min(100%, 420px); }
 /* 章节页(读经的页)插画小一些,别把经文推远 */
 .hero.compact > .hero-emblem { width: min(100%, 300px); }
-.book-list a { position: relative; }
-.card-emblem {
-  position: absolute;
-  top: clamp(12px, 1.6vw, 20px);
-  right: clamp(12px, 1.6vw, 20px);
-  width: clamp(64px, 7vw, 96px);
-  opacity: 0.9;
-  pointer-events: none;
-}
-.card-emblem img { display: block; width: 100%; height: auto; }
-.book-list strong, .book-list .sa-name { padding-right: clamp(72px, 8vw, 108px); }
-.book-list a:hover .card-emblem img { transform: rotate(30deg); }
-.card-emblem img { transition: transform 1.2s cubic-bezier(0.2, 0.7, 0.2, 1); }
-
 @media (max-width: 860px) {
   .hero--art { grid-template-columns: 1fr; }
   .hero--art > .hero-emblem { justify-self: center; width: min(88vw, 440px); order: 2; }
   /* 经书页在手机上:插画放在标题下面,小一些 */
   .hero--book > .hero-emblem { width: min(72vw, 320px); }
   .hero.compact > .hero-emblem { width: min(52vw, 200px); }
-}
-@media (prefers-reduced-motion: reduce) {
-  .book-list a:hover .card-emblem img { transform: none; }
 }
 
 /* 浅色 / 深色切换:和语言胶囊同高,只有图标;当前是浅色就显示月亮(点了变深),反之显示太阳 */
@@ -422,12 +390,10 @@ main { overflow-x: clip; }
   font-weight: 600;
   white-space: nowrap;
 }
-.book-list .progress { margin-top: 12px; }
+.book-list .progress { margin-top: 10px; }
 .progress::before { content: ''; width: 6px; height: 6px; border-radius: 50%; border: 1.5px solid var(--primary); }
 [data-progress='done'] .progress { background: var(--primary); color: var(--primary-text); }
 [data-progress='done'] .progress::before { content: '✓'; width: auto; height: auto; border: 0; font-size: 0.7rem; line-height: 1; }
-.book-list a[data-progress='done'] { border-color: var(--primary); }
-.book-list a[data-progress='partial'] { border-color: var(--line); border-style: dashed; }
 .chapter-list a[data-progress] { flex-wrap: wrap; }
 .chapter-list a[data-progress='done'] strong { color: var(--muted); }
 .chapter-list .progress { order: 3; flex-basis: auto; }
@@ -472,4 +438,147 @@ main { overflow-x: clip; }
   body[data-lang='en'] .brand-name { font-size: 0.82rem; }
   .lang-option { padding: 0 8px; }
   .col-toggle button { padding: 0 14px; }
+}
+
+/* ── 首页封面墙(xhs-cover-feed):手机两列、≥1000px 三列的瀑布流。
+   没有 JS 时是整齐的网格;src/app.js 把书卡按 第 i 本 → 第 i % N 列 分进 N 个 .feed-col(从左到右读,和小红书一样),
+   封面比例轮换造出错落。封面是「图片」可以有色块;封面下面的字不要卡片框、不要阴影,自由排。 */
+.book-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(30px, 4vw, 52px) clamp(14px, 3vw, 36px);
+  align-items: start;
+}
+@media (min-width: 1000px) {
+  .book-list { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+.book-list.feed { grid-template-columns: repeat(var(--feed-cols, 2), minmax(0, 1fr)); }
+.feed-col { list-style: none; padding: 0; margin: 0; min-width: 0; display: flex; flex-direction: column; gap: clamp(30px, 4vw, 52px); }
+.book-list li { min-width: 0; }
+.feed-item { display: flex; flex-direction: column; align-items: flex-start; color: var(--ink); }
+.feed-item:hover { text-decoration: none; }
+.book-list .sa-name { display: block; margin-top: 12px; color: var(--muted); font-size: 0.8rem; font-style: italic; overflow-wrap: anywhere; }
+.book-list p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+  margin: 4px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+.book-list small { margin-top: 8px; color: var(--muted); font-size: 0.66rem; line-height: 1.5; text-transform: uppercase; }
+
+.feed-art {
+  position: relative;
+  isolation: isolate;
+  container-type: inline-size;
+  overflow: hidden;
+  width: 100%;
+  border-radius: 14px;
+  background: var(--cover-bg);
+  color: var(--cover-ink);
+  --cover-line: color-mix(in srgb, var(--cover-ink) 11%, transparent);
+  transition: transform 0.3s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.feed-item:hover .feed-art { transform: translateY(-3px); }
+/* 钞票双线内框 */
+.feed-art::after {
+  content: '';
+  position: absolute;
+  inset: 3.6cqi;
+  z-index: 2;
+  border: 1px solid color-mix(in srgb, var(--cover-foil) 60%, transparent);
+  border-radius: 8px;
+  outline: 1px solid color-mix(in srgb, var(--cover-foil) 30%, transparent);
+  outline-offset: -1.2cqi;
+  pointer-events: none;
+}
+.feed-art::before { content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+/* 五种凹版底纹 */
+.feed-art[data-pattern='0']::before {
+  background: repeating-radial-gradient(circle at 68% 70%, var(--cover-line) 0 1px, transparent 1px 2.6cqi);
+  -webkit-mask: radial-gradient(circle at 68% 70%, #000 0, transparent 62%);
+  mask: radial-gradient(circle at 68% 70%, #000 0, transparent 62%);
+}
+.feed-art[data-pattern='1']::before { background: repeating-conic-gradient(from 0deg at 100% 100%, var(--cover-line) 0 0.5deg, transparent 0.5deg 4deg); }
+.feed-art[data-pattern='2']::before {
+  background: repeating-linear-gradient(135deg, var(--cover-line) 0 1px, transparent 1px 2.2cqi);
+  -webkit-mask: linear-gradient(to bottom, transparent 28%, #000 90%);
+  mask: linear-gradient(to bottom, transparent 28%, #000 90%);
+}
+.feed-art[data-pattern='3']::before {
+  background: radial-gradient(circle, var(--cover-line) 0 0.5cqi, transparent 0.55cqi) 0 0 / 3.4cqi 3.4cqi;
+  -webkit-mask: radial-gradient(circle at 100% 100%, #000 0, transparent 70%);
+  mask: radial-gradient(circle at 100% 100%, #000 0, transparent 70%);
+}
+.feed-art[data-pattern='4']::before {
+  background: linear-gradient(var(--cover-line) 1px, transparent 1px) 0 0 / 7cqi 7cqi, linear-gradient(90deg, var(--cover-line) 1px, transparent 1px) 0 0 / 7cqi 7cqi;
+}
+
+.feed-scene { position: absolute; display: block; max-width: none; aspect-ratio: 1; height: auto; }
+.feed-copy { position: absolute; inset: 0; z-index: 1; display: flex; flex-direction: column; padding: 9cqi 8.5cqi; }
+.feed-no { position: absolute; top: 7.4cqi; right: 8.5cqi; font-size: max(8px, 4cqi); opacity: 0.6; }
+.feed-kicker { font-size: max(9px, 5.2cqi); font-weight: 700; text-transform: uppercase; opacity: 0.72; padding-right: 22cqi; }
+.feed-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+  overflow: hidden;
+  margin: 3.4cqi 0 0;
+  font-size: var(--title-size, 10.5cqi);
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+:lang(zh-Hans) .feed-title { line-height: 1.14; letter-spacing: 0.02em; }
+.feed-seal {
+  position: absolute;
+  display: none;
+  place-items: center;
+  width: 15cqi;
+  height: 15cqi;
+  border-radius: 50%;
+  background: var(--cover-foil);
+  color: var(--cover-bg);
+  font-size: 7.4cqi;
+  font-weight: 800;
+  line-height: 1;
+  rotate: -12deg;
+  box-shadow: 0 0 0 0.9cqi var(--cover-bg), 0 0 0 calc(0.9cqi + 1px) var(--cover-foil);
+}
+:lang(en) .feed-seal { font-family: var(--mono); font-size: 3.5cqi; letter-spacing: 0.04em; }
+
+/* 版式 0:书名在上,线稿右下出血 */
+.feed-art[data-layout='0'] .feed-scene { right: -16%; bottom: -12%; width: 96%; }
+/* 版式 1:线稿在上,金线 + 传统 + 书名压在底;期号挪左上 */
+.feed-art[data-layout='1'] .feed-scene { top: -9%; left: 8%; width: 84%; }
+.feed-art[data-layout='1'] .feed-no { right: auto; left: 8.5cqi; }
+.feed-art[data-layout='1'] .feed-kicker { margin-top: auto; padding-right: 0; }
+.feed-art[data-layout='1'] .feed-kicker::before { content: ''; display: block; width: 14cqi; height: 1px; margin-bottom: 3cqi; background: var(--cover-foil); }
+.feed-art[data-layout='1'] .feed-copy { background: linear-gradient(to top, var(--cover-bg) 18%, transparent 62%); }
+/* 版式 2:居中海报,线稿淡淡垫底,印章在下 */
+.feed-art[data-layout='2'] .feed-scene { inset: 0; margin: auto; width: 112%; left: -6%; opacity: 0.42; }
+.feed-art[data-layout='2'] .feed-copy { align-items: center; justify-content: center; text-align: center; }
+.feed-art[data-layout='2'] .feed-kicker { padding-right: 0; }
+.feed-art[data-layout='2'] .feed-seal { display: grid; bottom: 9cqi; left: calc(50% - 7.5cqi); }
+/* 版式 3:线稿镜像到左下,书名换衬线,印章在右下 */
+.feed-art[data-layout='3'] .feed-scene { left: -16%; bottom: -12%; width: 96%; scale: -1 1; }
+.feed-art[data-layout='3'] .feed-title { font-family: 'Songti SC', 'Noto Serif SC', 'Source Han Serif SC', Georgia, 'Times New Roman', serif; font-weight: 900; }
+:lang(en) .feed-art[data-layout='3'] .feed-title { font-style: italic; font-weight: 700; }
+.feed-art[data-layout='3'] .feed-seal { display: grid; right: 9cqi; bottom: 9cqi; }
+
+@media (max-width: 480px) {
+  .book-list p { font-size: 0.84rem; }
+  .book-list .sa-name { font-size: 0.74rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .feed-item:hover .feed-art { transform: none; }
 }

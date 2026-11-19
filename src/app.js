@@ -216,7 +216,7 @@
     a.href = href;
     if (multi) badge(a, L.chapters(finished, counts.length), 'partial');
     else badge(a, L.verses(read[0], counts[0]), 'partial');
-    const where = [a.querySelector('strong')?.textContent.trim(), multi ? L.chapter(pos.ch + 1) : '', L.at(pos.v, counts[pos.ch])].filter(Boolean).join(' · ');
+    const where = [a.querySelector('.feed-title')?.textContent.trim(), multi ? L.chapter(pos.ch + 1) : '', L.at(pos.v, counts[pos.ch])].filter(Boolean).join(' · ');
     reading.push({ a, href, where, t: pos.t });
   }
   // 最近读的排最前（稳定排序：没有时间的保持页面顺序）
@@ -267,4 +267,33 @@
       a.href = `${a.pathname}${v > 1 ? `#v${v}` : ''}`;
     }
   }
+})();
+
+// 首页封面墙的瀑布流：手机两列、宽屏三列。第 i 本进第 i % N 列，所以是从左到右一排排读（CSS columns 会变成竖着读）。
+// 要排在上面「搬书架」之后：书卡先归到在读 / 读完了，再各自分列。没有 JS 时 .book-list 是普通网格。
+(() => {
+  const lists = [...document.querySelectorAll('ul.book-list')].map((ul) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'book-list feed';
+    const items = [...ul.children];
+    ul.replaceWith(wrap);
+    return { wrap, items };
+  });
+  if (!lists.length) return;
+  const wide = matchMedia('(min-width: 1000px)');
+  const lay = () => {
+    const n = wide.matches ? 3 : 2;
+    for (const { wrap, items } of lists) {
+      const cols = Array.from({ length: Math.min(n, Math.max(items.length, 1)) }, () => {
+        const col = document.createElement('ul');
+        col.className = 'feed-col';
+        return col;
+      });
+      items.forEach((li, i) => cols[i % cols.length].append(li));
+      wrap.style.setProperty('--feed-cols', n);
+      wrap.replaceChildren(...cols);
+    }
+  };
+  lay();
+  wide.addEventListener?.('change', lay);
 })();

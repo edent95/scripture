@@ -5,7 +5,7 @@ import { cpSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
-import { emblemPicture, writeEmblems } from './emblems.mjs';
+import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
 import { SCENE_NAMES } from './scenes.mjs';
 
 // 书页首屏插画：有专属主题插画（scripts/scenes.mjs）的用插画，还没画的先用这部书的花纹章
@@ -234,14 +234,37 @@ function breadcrumbLd(items) {
 // 阅读进度：卡片 / 章节目录带上书的 slug 和每章段数，src/app.js 按本机记下的进度标「读完」「读到一半」
 const progressAttrs = (b) => `data-book="${b.slug}" data-verses="${b.chapters.map((ch) => ch.verses.length).join(',')}"`;
 
-function bookCard(b, lang) {
+// 首页封面墙(xhs-cover-feed 技能):一本书一张「封面」——纯色墨底 + 传统 + 大字书名 + 这本书自己的主题线稿放大出血,
+// 封面下面不要卡片框,原文书名、一句简介、章段数自由排。墨色 6 种、版式 4 种、底纹 5 种、比例 6 种,周期互质错开,
+// 都按书在全站的顺序 n 取,所以书卡被 app.js 搬到「在读 / 读完了」之后封面不变。
+const FEED_RATIOS = ['3 / 4', '4 / 5', '2 / 3', '4 / 5', '3 / 4', '5 / 6'];
+// 书名字号按长短分档(单位 cqi = 封面宽度的百分比):中文 2–6 个字放得很大,英文长书名缩小,保证 2:3 的封面里放得下
+function titleSize(text, lang) {
+  if (lang === 'zh') return text.length <= 3 ? 23 : text.length <= 4 ? 19.5 : text.length <= 5 ? 16 : 13.5;
+  return text.length <= 16 ? 12.5 : text.length <= 28 ? 10.5 : text.length <= 44 ? 8.8 : 7.2;
+}
+const SEAL = { zh: { sa: '梵', pi: '巴' }, en: { sa: 'SKT', pi: 'PALI' } };
+
+function bookCard(b, lang, n, pending = false) {
   const t = T[lang];
-  return `<li><a href="${bookPath(b, lang)}" ${progressAttrs(b)}>
-      ${emblemPicture(b.slug, 'card-emblem', { still: true })}
-      <strong>${esc(title(b, lang))}</strong>
+  const tone = coverTone(n);
+  const name = pending ? (EN_PENDING[b.slug]?.[0] ?? b.sanskrit) : title(b, lang);
+  const blurb = pending ? (EN_PENDING[b.slug]?.[1] ?? '') : summary(b, lang);
+  const tail = pending ? 'Chinese edition ↗' : esc(compareLabel(b, lang));
+  const style = `aspect-ratio:${FEED_RATIOS[n % FEED_RATIOS.length]};--cover-bg:${tone.bg};--cover-ink:${tone.ink};--cover-foil:${tone.foil};--title-size:${titleSize(name, lang)}cqi`;
+  return `<li><a class="feed-item" href="${bookPath(b, pending ? 'zh' : lang)}"${pending ? ' hreflang="zh-Hans"' : ''} ${progressAttrs(b)}>
+      <div class="feed-art" data-layout="${n % 4}" data-pattern="${n % 5}" style="${style}">
+        <img class="feed-scene" src="/covers/${b.slug}.svg" alt="" width="380" height="380" loading="lazy" decoding="async">
+        <div class="feed-copy">
+          <span class="feed-no" aria-hidden="true">No.${String(n + 1).padStart(2, '0')}</span>
+          <span class="feed-kicker">${esc(TRADITIONS[b.tradition][lang])}</span>
+          <h3 class="feed-title">${esc(name)}</h3>
+          <span class="feed-seal" aria-hidden="true">${SEAL[lang][origCode(b)]}</span>
+        </div>
+      </div>
       <span class="sa-name" lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span>
-      <p>${esc(summary(b, lang))}</p>
-      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</small>
+      <p>${esc(blurb)}</p>
+      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${tail}</small>
     </a></li>`;
 }
 
@@ -284,7 +307,7 @@ ${groups
   <p class="kicker">${String(gi + 1).padStart(2, '0')}</p>
   <h2>${esc(lang === 'en' ? label.en : label.zh)}</h2>
   <ul class="book-list">
-    ${list.map((b) => bookCard(b, lang)).join('\n    ')}
+    ${list.map((b) => bookCard(b, lang, books.indexOf(b))).join('\n    ')}
   </ul>
 </section>`,
   )
@@ -297,15 +320,7 @@ ${groups
   <p class="meta">English translations of these are in progress. For now each opens the Chinese edition.</p>
   <ul class="book-list">
     ${pending
-      .map(
-        (b) => `<li><a href="${bookPath(b, 'zh')}" hreflang="zh-Hans" ${progressAttrs(b)}>
-      ${emblemPicture(b.slug, 'card-emblem', { still: true })}
-      <strong>${esc(EN_PENDING[b.slug]?.[0] ?? b.sanskrit)}</strong>
-      <span class="sa-name" lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span>
-      <p>${esc(EN_PENDING[b.slug]?.[1] ?? '')}</p>
-      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · Chinese edition ↗</small>
-    </a></li>`,
-      )
+      .map((b) => bookCard(b, lang, books.indexOf(b), true))
       .join('\n    ')}
   </ul>
 </section>`
@@ -563,6 +578,7 @@ export function build() {
   rmSync(OUT, { recursive: true, force: true });
   cpSync(join(ROOT, 'src'), OUT, { recursive: true });
   writeEmblems(OUT);
+  writeCovers(OUT, books.map((b) => b.slug));
 
   const pages = [];
   for (const lang of ['zh', 'en']) {
