@@ -67,7 +67,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 :focus-visible { outline: 2px solid var(--action-soft); outline-offset: 3px; border-radius: 6px; }
 
 /* 标签声线:JetBrains Mono */
-.kicker, .meta, .num, .who, .crumbs, .col-toggle button, .book-list small, .chapter-list span, .feed-no, .feed-kicker {
+.kicker, .meta, .num, .who, .crumbs, .col-toggle button, .banner-kicker, .banner-meta, .read-count, .next-kicker, .col.sa::before, .book-list small, .chapter-list span, .feed-no, .feed-kicker {
   font-family: var(--mono);
   letter-spacing: 0.06em;
 }
@@ -154,24 +154,23 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .tradition h2 { margin: 0 0 28px; font-size: clamp(1.8rem, 3.4vw, 2.8rem); font-weight: 800; line-height: 1.05; letter-spacing: -0.01em; }
 .tradition h2 span { display: block; margin-top: 8px; color: var(--muted); font-size: 1rem; font-weight: 400; letter-spacing: 0; }
 
-/* 章节目录:卡片 */
-.chapter-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
-.chapter-list > li { min-width: 0; }
-.chapter-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+/* 章节目录:像书的目录页,一行一章——编号、章名、段数;不用卡片底,行间一条细线 */
+.chapter-list { list-style: none; padding: 0; margin: clamp(28px, 4vw, 56px) 0 0; display: grid; column-gap: clamp(24px, 4vw, 64px); grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
+.chapter-list > li { min-width: 0; border-bottom: 1px solid var(--line); }
 .chapter-list a {
   display: flex;
-  flex-direction: column;
-  height: 100%;
-  padding: clamp(20px, 2.4vw, 32px);
-  background: var(--soft);
-  border: 1px solid transparent;
-  border-radius: var(--radius-md);
+  align-items: baseline;
+  gap: 14px;
+  min-height: 60px;
+  padding: 16px 4px;
   color: var(--ink);
-  transition: border-color 0.2s, transform 0.2s;
+  transition: padding 0.2s;
 }
-.chapter-list a { flex-direction: row; align-items: baseline; justify-content: space-between; gap: 12px; padding: 20px 24px; border-radius: var(--radius-sm); }
-.chapter-list a:hover { border-color: var(--line); text-decoration: none; transform: translateY(-2px); }
-.chapter-list strong { min-width: 0; font-size: 1.05rem; font-weight: 700; line-height: 1.4; overflow-wrap: anywhere; }
+.chapter-list a:hover { text-decoration: none; padding-left: 10px; }
+.chapter-list a:hover strong { color: var(--action); }
+.ch-no { color: var(--muted); font-size: 0.74rem; font-variant-numeric: tabular-nums; }
+.chapter-list .ch-no::after { content: ''; display: inline-block; width: 14px; height: 1px; margin-left: 10px; background: var(--cover-foil, var(--line)); vertical-align: middle; }
+.chapter-list strong { flex: 1; min-width: 0; font-size: 1.05rem; font-weight: 700; line-height: 1.4; overflow-wrap: anywhere; }
 .chapter-list span { flex: none; color: var(--muted); font-size: 0.78rem; }
 
 /* 三栏开关:主品牌色表示「正在显示」 */
@@ -306,7 +305,7 @@ body.hide-zh .col.zh, body.hide-en .col.en, body.hide-old .col.old, body.hide-sa
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; scroll-behavior: auto !important; }
-  .chapter-list a:hover { transform: none; }
+  .chapter-list a:hover { padding-left: 4px; }
 }
 
 /* 插画(scripts/scenes.mjs 主题插画、scripts/emblems.mjs 曼陀罗花纹章,都用公式生成):
@@ -581,4 +580,160 @@ main { overflow-x: clip; }
 }
 @media (prefers-reduced-motion: reduce) {
   .feed-item:hover .feed-art { transform: none; }
+}
+
+/* ── 书里面(目录页、读经页)的设计:首页那张封面横着铺开做首屏,这本书的三种颜色(--cover-bg / --cover-ink / --cover-foil,
+   挂在 .book-page 上)贯穿全页。规矩:金色只画线,不写字(浅底上对比不够);要填色就用「底色 + 墨色」这一对,自己带对比度。
+   横幅和首页封面一样是「图片」,不跟浅深色变;正文照旧跟主题走。 */
+.book-banner {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  container-type: inline-size;
+  margin-top: 16px;
+  border-radius: var(--radius-md);
+  background: var(--cover-bg);
+  color: var(--cover-ink);
+  --cover-line: color-mix(in srgb, var(--cover-ink) 10%, transparent);
+}
+.book-banner::before { content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.book-banner::after {
+  content: '';
+  position: absolute;
+  inset: 12px;
+  z-index: 2;
+  border: 1px solid color-mix(in srgb, var(--cover-foil) 60%, transparent);
+  border-radius: calc(var(--radius-md) - 10px);
+  outline: 1px solid color-mix(in srgb, var(--cover-foil) 30%, transparent);
+  outline-offset: -5px;
+  pointer-events: none;
+}
+.book-banner[data-pattern='0']::before {
+  background: repeating-radial-gradient(circle at 80% 50%, var(--cover-line) 0 1px, transparent 1px 11px);
+  -webkit-mask: radial-gradient(circle at 80% 50%, #000 0, transparent 60%);
+  mask: radial-gradient(circle at 80% 50%, #000 0, transparent 60%);
+}
+.book-banner[data-pattern='1']::before { background: repeating-conic-gradient(from 0deg at 100% 100%, var(--cover-line) 0 0.4deg, transparent 0.4deg 3deg); }
+.book-banner[data-pattern='2']::before {
+  background: repeating-linear-gradient(135deg, var(--cover-line) 0 1px, transparent 1px 9px);
+  -webkit-mask: linear-gradient(to right, transparent 30%, #000 95%);
+  mask: linear-gradient(to right, transparent 30%, #000 95%);
+}
+.book-banner[data-pattern='3']::before {
+  background: radial-gradient(circle, var(--cover-line) 0 1.6px, transparent 1.8px) 0 0 / 14px 14px;
+  -webkit-mask: radial-gradient(circle at 100% 100%, #000 0, transparent 70%);
+  mask: radial-gradient(circle at 100% 100%, #000 0, transparent 70%);
+}
+.book-banner[data-pattern='4']::before {
+  background: linear-gradient(var(--cover-line) 1px, transparent 1px) 0 0 / 28px 28px, linear-gradient(90deg, var(--cover-line) 1px, transparent 1px) 0 0 / 28px 28px;
+}
+.banner-scene { position: absolute; top: 50%; right: -3%; translate: 0 -50%; display: block; width: min(50%, 600px); max-width: none; height: auto; aspect-ratio: 1; }
+.banner-copy { position: relative; z-index: 1; max-width: min(60%, 46rem); padding: clamp(40px, 7cqi, 96px) clamp(32px, 5.5cqi, 80px); }
+.book-banner.compact .banner-copy { padding-top: clamp(32px, 4.6cqi, 64px); padding-bottom: clamp(32px, 4.6cqi, 64px); }
+.book-banner.compact .banner-scene { width: min(38%, 440px); }
+.banner-kicker { margin: 0 0 14px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; opacity: 0.74; }
+.banner-kicker span { font-weight: 400; }
+.book-banner h1 { margin: 0; font-size: clamp(2.3rem, 6.4cqi, 4.8rem); font-weight: 800; line-height: 1.06; letter-spacing: -0.01em; text-wrap: balance; overflow-wrap: anywhere; }
+.book-banner.compact h1 { font-size: clamp(1.9rem, 4.4cqi, 3.4rem); }
+.book-banner h1 span { display: block; margin-top: 14px; font-size: max(0.95rem, 0.3em); font-weight: 500; font-style: italic; letter-spacing: 0; line-height: 1.35; opacity: 0.72; }
+.banner-sub { margin: 22px 0 0; font-size: 1.06rem; line-height: 1.7; opacity: 0.9; }
+.banner-meta { margin: 22px 0 0; font-size: 0.74rem; text-transform: uppercase; opacity: 0.7; }
+.banner-meta::before { content: ''; display: block; width: 44px; height: 1px; margin-bottom: 14px; background: var(--cover-foil); }
+@container (max-width: 700px) {
+  /* 手机:字在上,线稿压在右下角出血;读经页的横幅矮一些,线稿退到字后面,别把经文推远 */
+  .banner-copy { max-width: none; padding: 34px 28px 50cqi; }
+  .banner-scene { top: auto; right: -14%; bottom: -15%; translate: none; width: 78%; }
+  .book-banner.compact .banner-copy { padding: 30px 28px 32px; }
+  .book-banner.compact .banner-scene { right: -22%; bottom: -34%; width: 76%; opacity: 0.34; }
+}
+
+/* 读经页 */
+.verses { counter-reset: none; }
+.num {
+  min-width: 34px;
+  height: 34px;
+  top: 34px;
+  border: 0;
+  background: var(--cover-bg, var(--soft));
+  color: var(--cover-ink, var(--muted));
+  font-weight: 600;
+  box-shadow: 0 0 0 2px var(--paper), 0 0 0 3px color-mix(in srgb, var(--cover-foil, var(--line)) 70%, transparent);
+  transition: scale 0.2s;
+}
+.num:hover { color: var(--cover-ink, var(--ink)); scale: 1.1; }
+.verse:target .num { background: var(--cover-foil, var(--primary)); color: var(--cover-bg, var(--primary-text)); }
+.verse:target { background: linear-gradient(to right, color-mix(in srgb, var(--cover-foil, var(--primary)) 9%, transparent), transparent 70%); }
+/* 古译:左边一道金线,译者名是一枚这本书颜色的小签 */
+.book-page .col.old { border-left: 2px solid var(--cover-foil); border-radius: 4px var(--radius-sm) var(--radius-sm) 4px; }
+.book-page .who { padding: 2px 9px; border-radius: 999px; background: var(--cover-bg); color: var(--cover-ink); letter-spacing: 0.08em; vertical-align: 2px; }
+/* 原文栏:上面一行「梵文 ———」小标,天城体稍大 */
+.col.sa[data-label]::before {
+  content: attr(data-label);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+  color: var(--muted);
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: linear-gradient(var(--cover-foil, var(--line)), var(--cover-foil, var(--line))) right center / calc(100% - 5em) 1px no-repeat;
+  opacity: 0.85;
+}
+.book-page .deva { font-size: 1.16rem; color: color-mix(in srgb, var(--ink) 78%, var(--muted)); }
+/* 第一段的第一个字放大(只中文、英文正文) */
+.verse:first-child .zh-text::first-letter, body[data-lang='en'] .verse:first-child .en-text::first-letter {
+  float: left;
+  margin: 0.08em 0.12em 0 0;
+  font-size: 2.5em;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--ink);
+}
+
+/* 栏目开关右边:读到第几段;底边一条进度线 */
+.col-toggle { align-items: center; }
+.read-count { margin-left: auto; color: var(--muted); font-size: 0.74rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.read-count[hidden] { display: none; }
+.read-bar { position: absolute; left: 0; right: 0; bottom: -1px; height: 2px; background: linear-gradient(var(--cover-foil, var(--primary)), var(--cover-foil, var(--primary))) left / calc(var(--read, 0) * 100%) 100% no-repeat; }
+
+/* 章末:一枚花纹章收尾,然后一张这本书颜色的「下一章」卡 */
+.colophon { display: flex; align-items: center; gap: 20px; max-width: var(--measure); margin-top: clamp(40px, 6vw, 72px); }
+.colophon::before, .colophon::after { content: ''; flex: 1; height: 1px; background: var(--line); }
+.colophon-emblem { display: block; width: 72px; }
+.colophon-emblem img { display: block; width: 100%; height: auto; }
+.pager { flex-direction: column; align-items: stretch; gap: 20px; padding-top: clamp(28px, 4vw, 48px); }
+.pager a.next-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  min-height: 0;
+  padding: clamp(24px, 4vw, 40px) clamp(64px, 9vw, 96px) clamp(24px, 4vw, 40px) clamp(24px, 4vw, 40px);
+  border: 0;
+  border-radius: var(--radius-md);
+  background: var(--cover-bg);
+  color: var(--cover-ink);
+  font-weight: 400;
+  transition: transform 0.25s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.pager a.next-card:hover { background: var(--cover-bg); transform: translateY(-3px); text-decoration: none; }
+.next-card::after { content: '→'; position: absolute; right: clamp(24px, 4vw, 40px); top: 50%; translate: 0 -50%; font-size: 1.8rem; color: var(--cover-foil); transition: translate 0.25s; }
+.next-card:hover::after { translate: 6px -50%; }
+.next-kicker { font-size: 0.74rem; font-weight: 700; text-transform: uppercase; opacity: 0.72; }
+.next-title { font-size: clamp(1.2rem, 3.4vw, 2.1rem); font-weight: 800; line-height: 1.2; overflow-wrap: anywhere; }
+.pager a.prev-link { align-self: flex-start; border: 0; border-radius: 6px; padding: 0 4px; color: var(--muted); font-weight: 500; font-size: 0.92rem; }
+.pager a.prev-link:hover { color: var(--ink); }
+
+@media (max-width: 760px) {
+  .num { position: static; min-width: 30px; height: 30px; }
+}
+@media (max-width: 480px) {
+  .col-toggle { gap: 6px; }
+  .col-toggle button { padding: 0 12px; font-size: 0.76rem; }
+  .read-count { font-size: 0.68rem; letter-spacing: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pager a.next-card:hover, .num:hover { transform: none; scale: 1; }
 }

@@ -6,13 +6,6 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
 import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
-import { SCENE_NAMES } from './scenes.mjs';
-
-// 书页首屏插画：有专属主题插画（scripts/scenes.mjs）的用插画，还没画的先用这部书的花纹章
-const heroArt = (b) =>
-  SCENE_NAMES.includes(b.slug)
-    ? emblemPicture(b.slug, 'hero-emblem hero-scene', { kind: 'scenes' })
-    : emblemPicture(b.slug, 'hero-emblem hero-scene');
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -69,6 +62,11 @@ const T = {
     shelfReading: '在读',
     shelfReadingSub: '点一下，回到上次读到的那一段',
     shelfDone: '读完了',
+    nextCh: '下一章',
+    prevCh: '上一章',
+    endToc: ['这部书读到最后一章了', '回到目录'],
+    endHome: ['这部经读完了', '看看别的经书'],
+    position: '读到第几段',
   },
   en: {
     htmlLang: 'en',
@@ -94,6 +92,11 @@ const T = {
     shelfReading: 'Reading',
     shelfReadingSub: 'One tap takes you back to the passage you stopped at',
     shelfDone: 'Finished',
+    nextCh: 'Next chapter',
+    prevCh: 'Previous',
+    endToc: ['That was the last chapter', 'Back to contents'],
+    endHome: ['You have reached the end', 'Browse the other scriptures'],
+    position: 'Current passage',
   },
 };
 
@@ -353,6 +356,26 @@ ${shelf('done', t.shelfDone)}`;
   });
 }
 
+// 书页的首屏横幅：和首页封面同一张「封面」(同一种墨色、底纹、线稿)，横着铺开。进了书里还认得出是哪一本。
+// 这一页其余的点缀(段号圆章、古译的译者签、梵文栏的金线、阅读进度条、下一章卡)也用这本书的三种颜色，变量挂在 .book-page 上。
+const bookN = (b) => BOOK_ORDER.indexOf(b.slug);
+const toneVars = (b) => {
+  const tone = coverTone(bookN(b));
+  return `--cover-bg:${tone.bg};--cover-ink:${tone.ink};--cover-foil:${tone.foil}`;
+};
+function bookBanner(b, lang, { heading, sub = '', meta, compact = false }) {
+  const n = bookN(b);
+  return `<section class="book-banner${compact ? ' compact' : ''}" data-pattern="${n % 5}">
+  <img class="banner-scene" src="/covers/${b.slug}.svg" alt="" width="380" height="380" decoding="async">
+  <div class="banner-copy">
+    <p class="banner-kicker">${esc(TRADITIONS[b.tradition][lang])}<span aria-hidden="true"> · No.${String(n + 1).padStart(2, '0')}</span></p>
+    <h1>${esc(heading)}<span lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span></h1>
+    ${sub ? `<p class="banner-sub">${esc(sub)}</p>` : ''}
+    <p class="banner-meta">${meta}</p>
+  </div>
+</section>`;
+}
+
 // 一页在另一种语言里的对应路径；书没有英译时，中文页的 EN 指向英文首页。
 const bookAlt = (b) => ({ zh: bookPath(b, 'zh'), en: hasEn(b) ? bookPath(b, 'en') : '/en/' });
 const chapterAlt = (b, i) => ({ zh: chapterPath(b, i, 'zh'), en: hasEn(b) ? chapterPath(b, i, 'en') : '/en/' });
@@ -361,22 +384,17 @@ function bookIndexPage(b, lang) {
   const t = T[lang];
   const tradition = TRADITIONS[b.tradition][lang];
   const body = `
+<div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${esc(tradition)}</nav>
-<section class="hero hero--art hero--book">
-  <div class="hero-copy">
-  <h1>${esc(title(b, lang))}<span lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span></h1>
-  <p>${esc(summary(b, lang))}</p>
-  <p class="meta">${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}</p>
-  </div>
-  ${heroArt(b)}
-</section>
+${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}` })}
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
-      return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
+      return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><span class="ch-no" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
-</ol>${compareSection(b, lang)}${sourceNote(b, lang)}`;
+</ol>${compareSection(b, lang)}${sourceNote(b, lang)}
+</div>`;
   return layout({
     lang,
     path: bookPath(b, lang),
@@ -455,7 +473,7 @@ function verseHtml(v, j, lang, b) {
     </div>`;
   // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文（下挂三语对照）→ 梵文，不放中文栏
   const sa = `
-    <div class="col sa" data-col="sa">
+    <div class="col sa" data-col="sa" data-label="${esc(orig(b, lang))}">
       <p class="deva" lang="${origCode(b)}">${esc(v.sa.text)}</p>
       <p class="iast" lang="${origCode(b)}-Latn">${esc(v.sa.tr)}</p>
     </div>`;
@@ -516,25 +534,28 @@ function chapterPage(b, i, lang) {
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
+  const end = next
+    ? [t.nextCh, chTitle(next, lang), chapterPath(b, i + 1, lang), ' rel="next"']
+    : single
+      ? [t.endHome[0], t.endHome[1], homePath(lang), '']
+      : [t.endToc[0], t.endToc[1], bookPath(b, lang), ''];
   const body = `
+<div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
-<section class="hero compact hero--art hero--book">
-  <div class="hero-copy">
-  <h1>${esc(heading)}<span lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span></h1>
-  ${sub ? `<p>${esc(sub)}</p>` : ''}
-  <p class="meta">${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}</p>
-  </div>
-  ${heroArt(b)}
-</section>
+${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}`, compact: true })}
 <div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
+  <span class="read-count" aria-label="${t.position}" hidden></span>
+  <span class="read-bar" aria-hidden="true"></span>
 </div>
 <ol class="verses">${ch.verses.map((v, j) => verseHtml(v, j, lang, b)).join('')}
 </ol>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang)}
+<div class="colophon" aria-hidden="true">${emblemPicture(b.slug, 'colophon-emblem', { still: true, size: 96 })}</div>
 <nav class="pager">
-  ${prev ? `<a rel="prev" href="${chapterPath(b, i - 1, lang)}">← ${esc(chTitle(prev, lang))}</a>` : '<span></span>'}
-  ${next ? `<a rel="next" href="${chapterPath(b, i + 1, lang)}">${esc(chTitle(next, lang))} →</a>` : '<span></span>'}
-</nav>`;
+  <a class="next-card"${end[3]} href="${end[2]}"><span class="next-kicker">${esc(end[0])}</span><span class="next-title">${esc(end[1])}</span></a>
+  ${prev ? `<a class="prev-link" rel="prev" href="${chapterPath(b, i - 1, lang)}">← ${t.prevCh} · ${esc(chTitle(prev, lang))}</a>` : ''}
+</nav>
+</div>`;
   const crumbs = [[t.siteName, homePath(lang)], [title(b, lang), bookPath(b, lang)]];
   if (!single) crumbs.push([chTitle(ch, lang), chapterPath(b, i, lang)]);
   return layout({
@@ -573,8 +594,11 @@ function write(rel, content) {
   writeFileSync(file, content);
 }
 
+let BOOK_ORDER = [];
+
 export function build() {
   const books = loadBooks();
+  BOOK_ORDER = books.map((b) => b.slug);
   rmSync(OUT, { recursive: true, force: true });
   cpSync(join(ROOT, 'src'), OUT, { recursive: true });
   writeEmblems(OUT);
