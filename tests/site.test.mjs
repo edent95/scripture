@@ -162,6 +162,32 @@ test('首页封面墙：每本书一张封面（线稿文件存在、墨色与�
   assert.ok(js.indexOf("shelve('done'") < js.indexOf("'book-list feed'"), '要先搬书架再分列');
 });
 
+test('书里面的设计：目录页和读经页用这本书在首页的同一张封面做横幅、同一组颜色；读经页有进度位和章末的下一章卡', () => {
+  const books = loadBooks();
+  build();
+  const home = readFileSync(join(OUT, 'index.html'), 'utf8');
+  for (const b of books) {
+    const bg = new RegExp(`data-book="${b.slug}"[^>]*>\\s*<div class="feed-art"[^>]*--cover-bg:(#[0-9a-f]{6})`).exec(home)?.[1];
+    assert.ok(bg, `${b.slug} 首页封面没找到底色`);
+    const pages = b.chapters.map((_, i) => chapterPath(b, i));
+    if (b.chapters.length > 1) pages.push(`/${b.slug}/`);
+    for (const p of pages) {
+      const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+      assert.ok(html.includes(`<div class="book-page" style="--cover-bg:${bg};`), `${p} 颜色和首页封面不一致`);
+      assert.equal(html.split('<h1>').length - 1, 1, `${p} 要有且只有一个 h1`);
+      assert.ok(html.includes(`<img class="banner-scene" src="/covers/${b.slug}.svg"`), `${p} 横幅缺线稿`);
+    }
+    b.chapters.forEach((ch, i) => {
+      const html = readFileSync(join(OUT, chapterPath(b, i), 'index.html'), 'utf8');
+      assert.ok(html.includes('class="read-count"') && html.includes('class="read-bar"'), `${chapterPath(b, i)} 缺阅读进度位`);
+      const next = b.chapters[i + 1] ? chapterPath(b, i + 1) : b.chapters.length > 1 ? `/${b.slug}/` : '/';
+      assert.ok(html.includes(`<a class="next-card"${b.chapters[i + 1] ? ' rel="next"' : ''} href="${next}">`), `${chapterPath(b, i)} 章末的卡没指向 ${next}`);
+    });
+  }
+  const en = readFileSync(join(OUT, 'en', 'heart-sutra', 'index.html'), 'utf8');
+  assert.ok(en.includes('data-label="Sanskrit"') && !/[\u4e00-\u9fff]/.test(en.slice(en.indexOf('<main>'), en.indexOf('class="col-toggle"'))), '英文读经页的横幅里不该有中文');
+});
+
 test('每页页脚写明 CC BY 4.0 授权并链到协议，仓库有 LICENSE', () => {
   const paths = build();
   assert.ok(existsSync(new URL('../LICENSE', import.meta.url)), '缺 LICENSE');

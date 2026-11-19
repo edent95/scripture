@@ -164,6 +164,30 @@
       last[book] = { ch: Number(ch), v: here(), t: Date.now() };
       try { localStorage.setItem(LAST, JSON.stringify(last)); } catch {}
     };
+    // 栏目开关右边写「第几段 / 共几段」，底边的进度线跟着走（经文区滚过了多少）
+    const count = document.querySelector('.read-count');
+    const line = document.querySelector('.read-bar');
+    const list = document.querySelector('.verses');
+    let painting = false;
+    const paint = () => {
+      painting = false;
+      if (!items.length || !list) return;
+      if (count) {
+        count.textContent = `${here()} / ${total}`;
+        count.hidden = false;
+      }
+      const r = list.getBoundingClientRect();
+      const span = r.height - innerHeight * 0.6;
+      line?.style.setProperty('--read', span > 0 ? Math.max(0, Math.min(1, (innerHeight * 0.4 - r.top) / span)).toFixed(4) : '1');
+    };
+    paint();
+    addEventListener('scroll', () => {
+      if (painting) return;
+      painting = true;
+      requestAnimationFrame(paint);
+    }, { passive: true });
+    addEventListener('resize', paint);
+
     // 只是点开看一眼不算：滚动了、带着 #v 段号进来、或停留满 8 秒才记
     let timer = 0;
     addEventListener('scroll', () => {
