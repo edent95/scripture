@@ -6,6 +6,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
 import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
+import { sceneSvg } from './panels.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -41,11 +42,11 @@ const T = {
   zh: {
     htmlLang: 'zh-Hans',
     prefix: '',
-    siteName: '梵文经书白话直译',
+    siteName: '经书白话直译',
     siteSub: '',
     home: '首页',
     sitemap: '网站地图',
-    footer: '梵文、巴利文原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
+    footer: '梵文、巴利文原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；古兰经的阿拉伯文原文取自 Tanzil 项目（tanzil.net，CC BY 3.0），逐字照录、没有改动；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
     notFound: '找不到这一页',
     backHome: '回到首页',
     cols: '显示哪几栏',
@@ -67,15 +68,17 @@ const T = {
     endToc: ['这部书读到最后一章了', '回到目录'],
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
+    introLabel: '这一章在讲什么',
+    storyLabel: '一图看懂',
   },
   en: {
     htmlLang: 'en',
     prefix: '/en',
-    siteName: 'Sanskrit Scriptures, Plainly',
+    siteName: 'Scriptures, Plainly',
     siteSub: '',
     home: 'Home',
     sitemap: 'Sitemap',
-    footer: 'The Sanskrit and Pali texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
+    footer: 'The Sanskrit and Pali texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The Arabic text of the Quran is the Tanzil Project’s (tanzil.net, CC BY 3.0), reproduced verbatim. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
     notFound: 'Page not found',
     backHome: 'Back to home',
     cols: 'Columns to show',
@@ -97,6 +100,8 @@ const T = {
     endToc: ['That was the last chapter', 'Back to contents'],
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
+    introLabel: 'What this chapter says',
+    storyLabel: 'At a glance',
   },
 };
 
@@ -105,18 +110,26 @@ const esc = (s) =>
 const clip = (s, n) => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
 
 export const bookPath = (b, lang = 'zh') => `${T[lang].prefix}/${b.slug}/`;
-export const chapterPath = (b, i, lang = 'zh') => (b.chapters.length === 1 ? bookPath(b, lang) : `${T[lang].prefix}/${b.slug}/${i + 1}/`);
+// 章号：只收了一部分章的书（古兰经先收第 1、78–114 章）每章自己带 no，网址和阅读进度都按它走，以后补上别的章也不会变
+export const chNo = (b, i) => b.chapters[i].no ?? i + 1;
+export const chapterPath = (b, i, lang = 'zh') => (b.chapters.length === 1 ? bookPath(b, lang) : `${T[lang].prefix}/${b.slug}/${chNo(b, i)}/`);
 const homePath = (lang) => `${T[lang].prefix}/`;
 const verseCount = (b) => b.chapters.reduce((n, ch) => n + ch.verses.length, 0);
 const hasEn = (b) => Boolean(b.en);
-// 原文语言：梵文（缺省）或巴利文。书的 origLang 由导入脚本按面板 id 前缀（sa- / pi-）写入。
+// 原文语言：梵文（缺省）、巴利文或阿拉伯文。书的 origLang 由导入脚本按面板 id 前缀（sa- / pi- / ar-）写入。
 const ORIG = {
   sa: { zh: '梵文', en: 'Sanskrit', short: '梵' },
   pi: { zh: '巴利文', en: 'Pali', short: '巴' },
+  ar: { zh: '阿拉伯文', en: 'Arabic', short: '阿' },
 };
+// 原文栏放的是什么：梵文、巴利文是天城体 + 罗马转写；阿拉伯文就是阿拉伯文原文 + 罗马转写
+const scriptNote = (b, lang) =>
+  origCode(b) === 'ar'
+    ? lang === 'en' ? 'the Arabic text and a romanization' : '附阿拉伯文原文与罗马转写'
+    : lang === 'en' ? `the ${orig(b, 'en')} in Devanagari and romanization` : `附${orig(b, 'zh')}天城体与罗马转写`;
 const origCode = (b) => b?.origLang ?? 'sa';
 const orig = (b, lang) => ORIG[origCode(b)][lang];
-const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi']);
+const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi', 'ar']);
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
 // 英文版 <title> 与 description 用的「大家搜的名字」。页面上的书名照旧用直译名（The Heart of the Perfection of Wisdom），
@@ -137,15 +150,19 @@ const EN_SEARCH_NAME = {
   'twenty-verses': 'Vimshatika (Twenty Verses)',
   'gateway-to-logic': 'Nyayapravesha',
   upanishads: 'Isha, Mandukya and Katha Upanishads',
+  quran: 'Quran',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
 const saName = (b, lang) => (lang === 'en' ? b.sanskrit.replace('(小本)', ' (shorter)').replace('(大本)', ' (longer)') : b.sanskrit);
 const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
 const chTitle = (ch, lang) => (lang === 'en' ? ch.en : ch.title);
-function compareLabel(b, lang) {
+// 只有个别章有旧译的书（古兰经只有开端章有王静斋译本）不写全书的 oldTranslator，这一章有就在这一章标
+const chapterTranslator = (b, ch) => b.oldTranslator ?? (origCode(b) === 'ar' ? ch?.verses.find((v) => v.old?.text)?.old.who : undefined);
+function compareLabel(b, lang, ch) {
   if (lang === 'en') return `translated from the ${orig(b, 'en')}`;
-  return b.oldTranslator ? `${b.oldTranslator}译本对照` : `${ORIG[origCode(b)].short}汉对照`;
+  const who = chapterTranslator(b, ch);
+  return who ? `${who}译本对照` : `${ORIG[origCode(b)].short}汉对照`;
 }
 
 // 三语对照总结。多章书放在目录页，单章书放在经文后面。
@@ -201,7 +218,7 @@ ${hreflang}<meta property="og:type" content="article">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&family=Amiri+Quran&display=swap">
 <link rel="stylesheet" href="/styles.css">
 <script>try{var t=localStorage.getItem('scripture.theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
@@ -235,7 +252,8 @@ function breadcrumbLd(items) {
 }
 
 // 阅读进度：卡片 / 章节目录带上书的 slug 和每章段数，src/app.js 按本机记下的进度标「读完」「读到一半」
-const progressAttrs = (b) => `data-book="${b.slug}" data-verses="${b.chapters.map((ch) => ch.verses.length).join(',')}"`;
+const progressAttrs = (b) =>
+  `data-book="${b.slug}" data-verses="${b.chapters.map((ch) => ch.verses.length).join(',')}"${b.chapters[0].no ? ` data-nos="${b.chapters.map((ch) => ch.no).join(',')}"` : ''}`;
 
 // 首页封面墙(xhs-cover-feed 技能):一本书一张「封面」——纯色墨底 + 传统 + 大字书名 + 这本书自己的主题线稿放大出血,
 // 封面下面不要卡片框,原文书名、一句简介、章段数自由排。墨色 6 种、版式 4 种、底纹 5 种、比例 6 种,周期互质错开,
@@ -246,7 +264,7 @@ function titleSize(text, lang) {
   if (lang === 'zh') return text.length <= 3 ? 23 : text.length <= 4 ? 19.5 : text.length <= 5 ? 16 : 13.5;
   return text.length <= 16 ? 12.5 : text.length <= 28 ? 10.5 : text.length <= 44 ? 8.8 : 7.2;
 }
-const SEAL = { zh: { sa: '梵', pi: '巴' }, en: { sa: 'SKT', pi: 'PALI' } };
+const SEAL = { zh: { sa: '梵', pi: '巴', ar: '阿' }, en: { sa: 'SKT', pi: 'PALI', ar: 'ARAB' } };
 
 function bookCard(b, lang, n, pending = false) {
   const t = T[lang];
@@ -292,7 +310,7 @@ function homePage(books, lang) {
     lang === 'en'
       ? `<p class="kicker">Scripture / ${shown.length} classics in English</p>
     <h1>Read the scriptures straight from the original</h1>`
-      : `<p class="kicker">梵文 · 巴利文经典 / ${books.length} 部</p>
+      : `<p class="kicker">梵文 · 巴利文 · 阿拉伯文经典 / ${books.length} 部</p>
     <h1>从原文直接读懂经书</h1>`;
   const body = `
 <section class="hero hero--art">
@@ -336,12 +354,12 @@ ${shelf('done', t.shelfDone)}`;
     alt: { zh: '/', en: '/en/' },
     title:
       lang === 'en'
-        ? `${t.siteName}: Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads and more, from the Sanskrit and Pali`
-        : `${t.siteName}：心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌原文对照`,
+        ? `${t.siteName}: Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads, Quran and more, from the Sanskrit, Pali and Arabic`
+        : `${t.siteName}：心经、金刚经、大悲咒、法句经、薄伽梵歌、古兰经原文对照`,
     description:
       lang === 'en'
-        ? 'The Heart Sutra, Diamond Sutra, Great Compassion Mantra, Medicine Buddha Sutra, Verses on the Middle Way, Dhammapada, Metta Sutta, Bhagavad Gita, Yoga Sutras, Upanishads and more, translated straight from the Sanskrit and Pali into plain English, passage by passage, with notes on where English, Chinese and the original differ.'
-        : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书等 24 部经典：从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
+        ? 'The Heart Sutra, Diamond Sutra, Great Compassion Mantra, Medicine Buddha Sutra, Verses on the Middle Way, Dhammapada, Metta Sutta, Bhagavad Gita, Yoga Sutras, Upanishads, the Quran and more, translated straight from the Sanskrit, Pali and Arabic into plain English, passage by passage, with notes on where English, Chinese and the original differ.'
+        : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书、古兰经（可兰经）等 ' + books.length + ' 部经典：从梵文、巴利文、阿拉伯文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附原文与罗马转写。',
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -390,7 +408,7 @@ ${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `$
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
-      return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><span class="ch-no" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
+      return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${chNo(b, i) - 1}" data-verses="${ch.verses.length}"><span class="ch-no" aria-hidden="true">${String(chNo(b, i)).padStart(2, '0')}</span><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
 </ol>${compareSection(b, lang)}${sourceNote(b, lang)}
@@ -406,8 +424,8 @@ ${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `$
         : `${b.title} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
     description:
       lang === 'en'
-        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with the ${orig(b, 'en')} in Devanagari and romanization.`
-        : `${b.summary} 共 ${b.chapters.length} 章，每段附${orig(b, 'zh')}天城体与罗马转写。`,
+        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with ${scriptNote(b, 'en')}.`
+        : `${b.summary} 共 ${b.chapters.length} 章，每段${scriptNote(b, 'zh')}。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -474,7 +492,7 @@ function verseHtml(v, j, lang, b) {
   // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文（下挂三语对照）→ 梵文，不放中文栏
   const sa = `
     <div class="col sa" data-col="sa" data-label="${esc(orig(b, lang))}">
-      <p class="deva" lang="${origCode(b)}">${esc(v.sa.text)}</p>
+      <p class="deva" lang="${origCode(b)}"${origCode(b) === 'ar' ? ' dir="rtl"' : ''}>${esc(v.sa.text)}</p>
       <p class="iast" lang="${origCode(b)}-Latn">${esc(v.sa.tr)}</p>
     </div>`;
   const cols = lang === 'en' ? [enHtml(v, lang), sa] : [zh, oldHtml(v), sa];
@@ -485,7 +503,7 @@ function verseHtml(v, j, lang, b) {
 }
 
 // 底本署名：原文电子录文与古译电子本各自的来源和授权（只在中文版显示；来源名是中文写的，英文版有了英译再补英文写法）
-function sourceNote(b, lang) {
+function sourceNote(b, lang, ch) {
   if (!b.source) return '';
   if (lang === 'en') {
     const o = b.source.orig;
@@ -494,7 +512,7 @@ function sourceNote(b, lang) {
   }
   const one = (label, src) =>
     src ? `${label}：<a href="${esc(src.url)}" rel="noopener">${esc(src.name)}</a>（${esc(src.license)}）` : '';
-  const parts = [one(`${orig(b, 'zh')}底本`, b.source.orig), one('古译', b.source.old)].filter(Boolean);
+  const parts = [one(`${orig(b, 'zh')}底本`, b.source.orig), ch && !ch.verses.some((v) => v.old) ? '' : one(b.source.old?.label ?? '古译', b.source.old)].filter(Boolean);
   return `\n<p class="meta source-note">${parts.join('；')}。本站白话与注释以 CC BY 4.0 授权，底本按各自来源的授权使用。</p>`;
 }
 
@@ -507,14 +525,28 @@ export function chapterDescription(b, i, lang) {
   if (lang === 'en') {
     const name = single ? enSearchName(b) : `${enSearchName(b)}, ${ch.en.split(' · ')[0]}`;
     const lead = `${name} in ${orig(b, 'en')} and plain English, passage by passage.`;
-    const tail = single ? b.en.summary : `Opens: “${ch.verses[0].en.text}”`;
+    const tail = single ? b.en.summary : (ch.enIntro ?? `Opens: “${ch.verses[0].en.text}”`);
     return clip(`${lead} ${tail}`, 160);
   }
   const name = single ? `《${b.title}》` : `《${b.title}》${ch.title}：`;
   const old = b.oldTranslator ? `，对照${b.oldTranslator}译本` : '';
-  const lead = `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附天城体与罗马转写。`;
-  const tail = single ? b.summary : `开头：${ch.verses[0].zh}`;
+  const lead = `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附${origCode(b) === 'ar' ? '' : '天城体与'}罗马转写。`;
+  const tail = single ? b.summary : (ch.intro ?? `开头：${ch.verses[0].zh}`);
   return clip(lead + tail, 140);
+}
+
+// 「一图看懂」:一章一张大图(scripts/panels.mjs)。这一章的几个重点站在同一条地平线上,一条金色的路从左走到右;
+// 图里不写字,路上每一站的点数对应图下面的第几条说明。宽屏一行排开,手机换成两行的那一张。
+function storyHtml(ch, lang) {
+  if (!ch.points?.length) return '';
+  if (lang === 'en' && !ch.enPoints) return '';
+  const icons = ch.points.map((pt) => pt.icon);
+  const text = (pt, k) => (lang === 'en' ? ch.enPoints[k] : pt.text);
+  return `<section class="story" aria-label="${T[lang].storyLabel}">
+  <p class="kicker">${T[lang].storyLabel}</p>
+  <figure>${sceneSvg(icons, 'wide')}${sceneSvg(icons, 'tall')}
+  <figcaption><ol style="--n:${icons.length}">${ch.points.map((pt, k) => `<li><span class="story-no" aria-hidden="true">${k + 1}</span>${esc(text(pt, k))}</li>`).join('')}</ol></figcaption></figure>
+</section>\n`;
 }
 
 function chapterPage(b, i, lang) {
@@ -525,7 +557,8 @@ function chapterPage(b, i, lang) {
   const next = b.chapters[i + 1];
   const heading = single ? title(b, lang) : `${title(b, lang)} · ${chTitle(ch, lang)}`;
   const hasOld = ch.verses.some((v) => v.old);
-  const oldLabel = b.oldTranslator ? `${b.oldTranslator}古译` : '注';
+  const chWho = chapterTranslator(b, ch);
+  const oldLabel = b.oldTranslator ? `${b.oldTranslator}古译` : chWho ? `${chWho}旧译` : '注';
   const btn = {
     zh: lang === 'zh' ? '<button type="button" data-toggle="zh" aria-pressed="true">白话直译</button>' : '',
     en: lang === 'en' ? '<button type="button" data-toggle="en" aria-pressed="true">English</button>' : '',
@@ -534,6 +567,7 @@ function chapterPage(b, i, lang) {
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
+  const chIntro = lang === 'en' ? ch.enIntro : ch.intro;
   const end = next
     ? [t.nextCh, chTitle(next, lang), chapterPath(b, i + 1, lang), ' rel="next"']
     : single
@@ -542,14 +576,14 @@ function chapterPage(b, i, lang) {
   const body = `
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
-${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}`, compact: true })}
-<div class="col-toggle" role="group" aria-label="${t.cols}">
+${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang, ch))}`, compact: true })}
+${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>
 </div>
 <ol class="verses">${ch.verses.map((v, j) => verseHtml(v, j, lang, b)).join('')}
-</ol>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang)}
+</ol>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang, ch)}
 <div class="colophon" aria-hidden="true">${emblemPicture(b.slug, 'colophon-emblem', { still: true, size: 96 })}</div>
 <nav class="pager">
   <a class="next-card"${end[3]} href="${end[2]}"><span class="next-kicker">${esc(end[0])}</span><span class="next-title">${esc(end[1])}</span></a>
@@ -563,11 +597,11 @@ ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${
     path: chapterPath(b, i, lang),
     alt: chapterAlt(b, i),
     exact: hasEn(b),
-    bodyData: ` data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"`,
+    bodyData: ` data-book="${b.slug}" data-ch="${chNo(b, i) - 1}" data-verses="${ch.verses.length}"`,
     title:
       lang === 'en'
         ? `${single ? `${enSearchName(b)} (${saName(b, lang)})` : `${enSearchName(b)} ${ch.en}`}: ${orig(b, 'en')} with plain English translation`
-        : `${heading} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)}`,
+        : `${heading} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang, ch)}`,
     description: chapterDescription(b, i, lang),
     body,
     jsonLd: {
@@ -640,7 +674,7 @@ export function build() {
   const en = books.filter(hasEn);
   write(
     'llms.txt',
-    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文、巴利文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit and Pali into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit/Pali texts and classical Chinese translations are public domain; the digital source transcriptions keep their own licenses (credited on each book page).\n\n${books
+    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经、印度经典与古兰经从梵文、巴利文、阿拉伯文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附原文与罗马转写；另有从原文直译的英文版（/en/），并逐段标出英文、中文、原文的差别。\n> Buddhist and Hindu classics and the Quran translated directly from Sanskrit, Pali and Arabic into plain Chinese and plain English, passage by passage, with notes on where English, Chinese and the original differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit/Pali texts and classical Chinese translations are public domain; the digital source transcriptions keep their own licenses (credited on each book page). The Arabic Quran text is the Tanzil Project's (https://tanzil.net/, CC BY 3.0), reproduced verbatim.\n\n${books
       .map(
         (b) =>
           `## ${b.title} (${b.sanskrit})${hasEn(b) ? ` — ${b.en.title}` : ''}\n\n${b.summary}\n\n${hasEn(b) ? `${b.en.summary}\n\n` : ''}${b.chapters.map((ch, i) => `- [${ch.title}](${SITE}${chapterPath(b, i)})`).join('\n')}`,

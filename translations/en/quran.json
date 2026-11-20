@@ -1,0 +1,3286 @@
+{
+ "slug": "quran",
+ "title": "The Quran",
+ "summary": "The scripture of Islam, which Muslims hold to be the word of God sent down to the Prophet Muhammad through an angel, in 114 surahs. Here for now are the Opening, recited in every daily prayer, and the last part (surahs 78–114): short early surahs from Mecca on the oneness of God, the final reckoning, and care for the orphan and the poor.",
+ "compare": [
+  "这里先收开端章和最后一卷（第 78–114 章），共 38 章。原文是 Tanzil 项目的 Uthmani 本，逐字照录；罗马转写是本站按读音机械生成的，格尾元音全写出来，不做停顿处的省音，所以和实际念诵时每节末尾的读法会有出入。除了第 1 章，每章开头那句「奉至仁至慈的真主之名」不算在节数里，底本把它和第 1 节写在一起，本站照底本放。",
+  "白话是写给完全没接触过古兰经的人看的：用平常说话的词，把是谁在对谁说写清楚。原文没有、但不补就看不懂的字，一律放在圆括号（）里，括号里的是通行的解释，不是经文本身；每章开头的「这一章在讲什么」也是本站写的导读。英文版贴着字面译，不加括号，所以两版对着看，就知道哪些是原文、哪些是补的。",
+  "最难翻的是几个天天见的词。Allāh 就是阿拉伯文的「那位神」，中文穆斯林译「真主」，多了一个「真」字；英文写 God。rabb 是「主人」又是「养育者」，「主」和 Lord 都只剩前一半。说话的真主时而自称「我们」（表示尊大的复数），时而称「我」，时而被称作「他」，同一章里换来换去；白话和英文都照原文的人称译，没有统一。",
+  "这一卷大多是很短的句子，押着同一个韵脚往下走，常常用一串誓言开头（「以太阳起誓」「以黑夜起誓」），再用一个没有主语的分词出谜（「拔取的」「奔驰的」「夜里来的」），然后才说正题。韵脚和节奏中文、英文都留不住；出谜的地方，英文照字面译；白话把最通行的答案放在括号里，别的说法写在那一节的对照注里。",
+  "讲末日的名字多半是一个阴性分词：「敲击的」「笼罩的」「压倒一切的」「震耳的巨响」。英文可以大写成专名（the Crashing Blow、the Overwhelming），白话只能加「那」字来指。有几个词古兰经自己也说「你怎么知道它是什么」，像「辛吉尼」「伊里云」「太斯尼姆」，两边都只音译。",
+  "中文版的开端章多一栏王静斋 1946 年的译本（《古兰经译解》丙种本）。他按另一种数法编节号，用「安拉」「养主」「还报日」这些词，可以和白话对着看。其余各章没有找到可靠的电子录文，先不放旧译。",
+  "这是一份从阿拉伯文直译的白话读本，帮不懂阿拉伯文的人看懂字面意思，不是经注，也不代表任何教派的解释。凡是历来有不同读法的地方，注里把几种读法都列出来；括号里选的只是最通行的一种。"
+ ],
+ "compareEn": [
+  "For now this holds the Opening and the last part of the Quran (surahs 78–114), 38 surahs in all. The Arabic is the Tanzil Project’s Uthmani text, reproduced verbatim. The romanization is generated mechanically by this site from the vocalized text: it writes out every case ending and does not apply the pausal shortening used in recitation, so the end of each verse will differ from how it is actually recited. Except in surah 1, the opening line “In the name of God, the Most Merciful, the Ever-Merciful” is not counted as a verse; the source text prints it together with verse 1, and this site follows the source.",
+  "The plain Chinese is written for readers who have never met the Quran: everyday words, and who is speaking to whom made explicit. Anything not in the Arabic but needed to follow it is put in round brackets （）; what is inside is the commonly accepted explanation, not the text itself. The \"What this chapter says\" note at the head of each surah is likewise this site’s own introduction. The English stays close to the letter and adds no brackets, so reading the two side by side shows what is text and what is supplied.",
+  "The hardest words are the everyday ones. Allāh is simply Arabic for “the God”; Chinese Muslims say 真主 (Zhēnzhǔ, “the True Lord”), which adds “true,” and the English writes “God.” Rabb is both “master” and “one who raises and looks after”; English “Lord” and Chinese 主 (zhǔ, “lord”) keep only the first half. God as speaker is sometimes “We” (a plural of majesty), sometimes “I,” and sometimes spoken of as “He,” shifting within a single surah; both translations follow the Arabic person each time rather than smoothing it out.",
+  "Most of this part is made of very short lines running on a single rhyme. A surah often opens with a string of oaths (“By the sun,” “By the night”), then poses a riddle with a participle that has no subject (“those that pull out,” “the chargers,” “the night-comer”), and only then states its point. Neither Chinese nor English can keep the rhyme and rhythm. Where the text riddles, the English stays literal; the Chinese puts the most common answer in brackets, and the other readings are given in the note under that verse.",
+  "The names for the Last Day are mostly feminine participles: “the Crashing Blow,” “the Overwhelming,” “the great overwhelming event,” “the deafening Blast.” English can capitalize them into names; Chinese can only point with 那 (nà, “that”). A few words the Quran itself introduces with “what will make you know what it is,” such as Sijjin, Illiyyun and Tasnim; both translations only transliterate them.",
+  "The Chinese edition of the Opening has one more column: the 1946 translation by Wang Jingzhai. He numbers the verses by a different count and writes 安拉 (Ānlā, “Allah”) where the plain Chinese says 真主, so the two can be read side by side. No reliable transcription of his version was found for the other surahs, so they have no older translation for now.",
+  "This is a plain reading aid translated directly from the Arabic, meant to help people who do not read Arabic follow the literal sense. It is not a commentary and does not represent the interpretation of any school. Wherever a passage has long been read in more than one way, the note lists the readings."
+ ],
+ "chapters": [
+  {
+   "title": "Surah 1 · The Opening (al-Fātiḥa)",
+   "no": 1,
+   "intro": "The surah Muslims recite in every daily prayer, seven lines in all: praise of God, then \"You alone we worship,\" then a request to be guided along the straight path.",
+   "points": [
+    "Praise God: He looks after all the worlds and is most merciful",
+    "On the Day of Judgment everything is His to decide",
+    "We worship only Him and ask only Him for help",
+    "We ask Him to lead us on the straight path, not the wrong ones"
+   ],
+   "verses": [
+    {
+     "h": "c57da432",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful.",
+     "cmp": [
+      {
+       "w": "ar-raḥmāni ar-raḥīmi",
+       "note": "两个词出自同一个词根 r-ḥ-m（怜悯，和「子宫」同根）：raḥmān 是程度到顶的形式，raḥīm 是持续不断的形式。白话写「最仁慈、最慈爱」，英文写 Most Merciful、Ever-Merciful，都保不住「两个词其实是一个词」这层。",
+       "en": "Both words come from one root, r-ḥ-m (mercy; the same root as \"womb\"): raḥmān is the form for the utmost degree, raḥīm the form for what is constant. The Chinese writes 最仁慈、最慈爱 (zuì réncí, zuì cí'ài, \"most kind, most loving\") and the English \"Most Merciful, Ever-Merciful\"; neither can show that the two words are really one word twice."
+      },
+      {
+       "w": "Allāh",
+       "note": "阿拉伯文 Allāh 就是「那位神」（al-ilāh 的缩合），说阿拉伯语的基督徒和犹太人也用它称上帝。中文译「真主」（真实的主宰），多了「真」字；英文写 God。",
+       "en": "Arabic Allāh is simply \"the God\" (a contraction of al-ilāh), the word Arabic-speaking Christians and Jews also use. The Chinese 真主 (Zhēnzhǔ, \"the True Lord\") adds \"true\"; the English writes \"God.\""
+      }
+     ]
+    },
+    {
+     "h": "69a4a01f",
+     "en": "All praise belongs to God, Lord of the worlds,",
+     "cmp": [
+      {
+       "w": "rabb",
+       "note": "rabb 是「主人」，又带着「养育、照管」的意思。英文 Lord、白话「主」只剩「主人」这一半；王静斋译「养主」，是想把另一半补回来。",
+       "en": "Rabb is \"master,\" but it also carries \"one who raises and looks after.\" English \"Lord\" and the plain Chinese 主 (zhǔ, \"lord\") keep only the first half; the 1946 Chinese translator Wang Jingzhai wrote 养主 (yǎngzhǔ, \"nurturing lord\") to put the other half back."
+      }
+     ]
+    },
+    {
+     "h": "74cffca9",
+     "en": "the Most Merciful, the Ever-Merciful,"
+    },
+    {
+     "h": "9915708e",
+     "en": "Master of the Day of Judgment.",
+     "cmp": [
+      {
+       "w": "māliki yawmi ad-dīni",
+       "note": "这里有两种都通行的读法：mālik（拥有者、主宰）和 malik（君王）。底本是哈夫斯传本，读 mālik。dīn 在这里是「清算、报应」，同一个词在别处又是「宗教」（如 109:6）。",
+       "en": "Two readings are both in use here: mālik (\"owner, master\") and malik (\"king\"). The base text follows the Hafs transmission, which reads mālik. Dīn here means \"reckoning, requital\"; elsewhere the same word means \"religion\" (as in 109:6)."
+      }
+     ]
+    },
+    {
+     "h": "2ece0610",
+     "en": "You alone we worship, and You alone we ask for help.",
+     "cmp": [
+      {
+       "w": "iyyāka",
+       "note": "阿拉伯文把宾语「你」提到动词前面，意思是「只有你」。前四节还在用第三人称说「他」，到这里忽然转成当面说「你」。",
+       "en": "The Arabic moves the object \"You\" in front of the verb, which gives the sense \"You and no one else.\" The first four verses speak of God as \"He\"; here the speech suddenly turns to address Him directly."
+      }
+     ]
+    },
+    {
+     "h": "34ef97ab",
+     "en": "Guide us along the straight path,"
+    },
+    {
+     "h": "af8125dc",
+     "en": "the path of those You have blessed, not of those who have earned anger, nor of those who have gone astray.",
+     "cmp": [
+      {
+       "w": "al-maghḍūbi ʿalayhim",
+       "note": "原文是被动式「被发怒的人」，没有说是谁发怒；「你施过恩」却明说是「你」。中文和英文都照这个不对称译。",
+       "en": "The Arabic is a passive, \"those against whom there is anger,\" and does not say whose anger; the blessing, by contrast, is explicitly \"You have blessed.\" Both translations keep that asymmetry."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Surah 78 · The Tidings (an-Nabaʾ)",
+   "no": 78,
+   "intro": "The people of Mecca are asking one another whether the dead will really be raised. This surah answers yes. It first lists what God has given (the earth, sleep, rain), then describes the Day of Judgment: Hell for those who did wrong, the Garden for those who feared God.",
+   "points": [
+    "God gave people the earth, sleep, rain and grain",
+    "The Trumpet sounds and everyone rises to be judged",
+    "Those who broke all bounds go to Hell",
+    "Those who feared God go to the Garden"
+   ],
+   "verses": [
+    {
+     "h": "1b1998ed",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. What are they asking one another about?"
+    },
+    {
+     "h": "7b670a4a",
+     "en": "About the great tidings,"
+    },
+    {
+     "h": "08e143ab",
+     "en": "the one they disagree about."
+    },
+    {
+     "h": "987407ac",
+     "en": "No! They will come to know."
+    },
+    {
+     "h": "6e7c9525",
+     "en": "Again, no! They will come to know."
+    },
+    {
+     "h": "bc19bd41",
+     "en": "Did We not make the earth a resting place,",
+     "cmp": [
+      {
+       "w": "najʿal",
+       "note": "说话的是真主，用的是复数「我们」。阿拉伯文里这是表示尊大的自称，不是说有好几位。白话照译「我们」，英文按惯例大写 We。",
+       "en": "The speaker is God, using the plural \"We.\" In Arabic this is a plural of majesty, not a statement that there are several. The Chinese keeps 我们 (wǒmen, \"we\") and the English capitalizes We by convention."
+      }
+     ]
+    },
+    {
+     "h": "72f0a2a2",
+     "en": "and the mountains as pegs?"
+    },
+    {
+     "h": "a3f14c4e",
+     "en": "We created you in pairs,"
+    },
+    {
+     "h": "921294f9",
+     "en": "and made your sleep for rest,"
+    },
+    {
+     "h": "977fbb85",
+     "en": "and made the night a covering,"
+    },
+    {
+     "h": "b66d4f6f",
+     "en": "and made the day for earning a living."
+    },
+    {
+     "h": "ed7dedef",
+     "en": "We built above you seven strong heavens,",
+     "cmp": [
+      {
+       "w": "sabʿan shidādan",
+       "note": "原文只有「七个坚固的」，没有「天」字，听的人自己明白。中文和英文都把「天」补了出来。",
+       "en": "The Arabic says only \"seven strong ones\" and leaves the listener to supply \"heavens.\" Both translations add the word."
+      }
+     ]
+    },
+    {
+     "h": "1bae12e2",
+     "en": "and set there a blazing lamp,"
+    },
+    {
+     "h": "a688da79",
+     "en": "and sent down from the rain-heavy clouds water pouring in torrents,"
+    },
+    {
+     "h": "f1b72bd1",
+     "en": "to bring out with it grain and plants,"
+    },
+    {
+     "h": "29c49f78",
+     "en": "and gardens thick with growth."
+    },
+    {
+     "h": "fc097e68",
+     "en": "The Day of Sorting has its appointed time:"
+    },
+    {
+     "h": "e9de78bc",
+     "en": "the day the Trumpet is blown and you come in crowds,"
+    },
+    {
+     "h": "c92881ad",
+     "en": "and the sky is opened and becomes gateways,"
+    },
+    {
+     "h": "2fc8ef09",
+     "en": "and the mountains are set moving and become a mirage."
+    },
+    {
+     "h": "aff27267",
+     "en": "Hell lies in wait,"
+    },
+    {
+     "h": "3dfe06f8",
+     "en": "a home for those who overstepped all bounds,"
+    },
+    {
+     "h": "6c71f9aa",
+     "en": "where they will stay for ages on end."
+    },
+    {
+     "h": "8414b212",
+     "en": "They will taste there neither coolness nor any drink,"
+    },
+    {
+     "h": "0123d6cf",
+     "en": "only scalding water and foul fluid:"
+    },
+    {
+     "h": "3d33e81c",
+     "en": "a fitting repayment."
+    },
+    {
+     "h": "647edbe7",
+     "en": "They did not expect a reckoning,"
+    },
+    {
+     "h": "1fa477d1",
+     "en": "and flatly called Our signs lies.",
+     "cmp": [
+      {
+       "w": "āyāt",
+       "note": "āya 是「迹象、记号」，天地间的现象叫 āya，古兰经的一节经文也叫 āya。白话译「迹象」，英文 signs，都只取了前一个意思。",
+       "en": "Āya means \"sign, mark.\" A phenomenon in nature is an āya, and a verse of the Quran is also called an āya. The Chinese 迹象 (jìxiàng, \"sign\") and English \"signs\" carry only the first sense."
+      }
+     ]
+    },
+    {
+     "h": "e6c7dd66",
+     "en": "We have counted everything in a record."
+    },
+    {
+     "h": "5e8d2ff6",
+     "en": "\"So taste! We will increase you in nothing but punishment.\""
+    },
+    {
+     "h": "7b82f813",
+     "en": "For the God-fearing there is triumph:"
+    },
+    {
+     "h": "f9b81b9a",
+     "en": "gardens and grapevines,"
+    },
+    {
+     "h": "b52b005d",
+     "en": "and full-breasted maidens of equal age,"
+    },
+    {
+     "h": "1d721a0b",
+     "en": "and a cup filled to the brim."
+    },
+    {
+     "h": "43993043",
+     "en": "There they will hear no idle talk and no lying."
+    },
+    {
+     "h": "d7c841ea",
+     "en": "A reward from your Lord, a gift amply reckoned,"
+    },
+    {
+     "h": "b75acfa8",
+     "en": "Lord of the heavens and the earth and all between them, the Most Merciful; none will have the power to address Him."
+    },
+    {
+     "h": "f0b09475",
+     "en": "On the day when the Spirit and the angels stand in a row, none will speak except one to whom the Most Merciful gives leave, and who says what is right.",
+     "cmp": [
+      {
+       "w": "ar-rūḥ",
+       "note": "rūḥ 是「灵、气息」。这里指谁，原文没说；经注多半说是天使吉卜利勒（加百列），也有说是另一位大天使或人的灵魂。白话把最通行的说法放在括号里，英文只照字面译。",
+       "en": "Rūḥ is \"spirit, breath.\" The text does not say who is meant; most commentators say the angel Gabriel, others a different great angel or human souls. The Chinese puts the most common reading in brackets; the English stays literal."
+      }
+     ]
+    },
+    {
+     "h": "00e223ee",
+     "en": "That is the true Day. So whoever wills, let him take a way back to his Lord."
+    },
+    {
+     "h": "d533c782",
+     "en": "We have warned you of a punishment near at hand, on the day when a person will see what his hands sent ahead, and the disbeliever will say, \"If only I were dust!\""
+    }
+   ]
+  },
+  {
+   "title": "Surah 79 · Those Who Pull Out (an-Nāziʿāt)",
+   "no": 79,
+   "intro": "A string of oaths opens the surah: the rising of the dead will surely happen. Then comes the story of Moses sent to Pharaoh, who refused and was punished; then a reminder that the sky and the earth were harder to make than man, so raising him again is not hard for God. No one knows when the Hour will come.",
+   "points": [
+    "On the day of rising the earth shakes; one shout and everyone is alive",
+    "Pharaoh called himself lord, ignored Moses, and was punished",
+    "God made the sky and the mountains; raising people again is not hard",
+    "Those who lived only for pleasure get the fire; those who held back get the Garden"
+   ],
+   "verses": [
+    {
+     "h": "49236d04",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By those that pull out violently,",
+     "cmp": [
+      {
+       "w": "an-nāziʿāt",
+       "note": "开头五节是五个阴性复数的分词：「拔取的、抽出的、游行的、抢先的、安排的」，都没有说主语是谁。经注多半说是取人灵魂、执行命令的天使，也有说是星辰或战马。白话把最通行的说法（天使）放在括号里，英文只照字面译。",
+       "en": "The first five verses are five feminine plural participles, \"those that pull out, draw out, glide, race ahead, arrange,\" with no subject named. Most commentators take them as angels who take souls and carry out commands; others as stars or war horses. The Chinese puts the most common reading (angels) in brackets; the English stays literal."
+      }
+     ]
+    },
+    {
+     "h": "cd3fa4e6",
+     "en": "by those that draw out gently,"
+    },
+    {
+     "h": "1ab9e217",
+     "en": "by those that glide along,"
+    },
+    {
+     "h": "832bfdc7",
+     "en": "then those that race ahead,"
+    },
+    {
+     "h": "56f3fa22",
+     "en": "then those that arrange affairs:"
+    },
+    {
+     "h": "544a66dd",
+     "en": "on the day when the quaking one quakes,"
+    },
+    {
+     "h": "5f36c5b4",
+     "en": "and the one that follows comes after it,"
+    },
+    {
+     "h": "66066b70",
+     "en": "hearts that day will be pounding,"
+    },
+    {
+     "h": "ec1ff702",
+     "en": "their eyes cast down."
+    },
+    {
+     "h": "1ad84138",
+     "en": "They say, \"Shall we really be returned to our former state?"
+    },
+    {
+     "h": "e9e5e9f6",
+     "en": "Even after we have become crumbling bones?\""
+    },
+    {
+     "h": "f7b9339a",
+     "en": "They say, \"That, then, would be a losing return.\""
+    },
+    {
+     "h": "aa30f387",
+     "en": "It will be only a single shout,"
+    },
+    {
+     "h": "7635c895",
+     "en": "and at once they are on the open plain."
+    },
+    {
+     "h": "eb145374",
+     "en": "Has the story of Moses reached you?",
+     "cmp": [
+      {
+       "w": "Mūsā",
+       "note": "阿拉伯文 Mūsā 就是《圣经》里的摩西。白话按穆斯林通行的音译写「穆萨」，英文写 Moses。",
+       "en": "Arabic Mūsā is the Moses of the Bible. The Chinese uses 穆萨 (Mùsà), the transliteration Chinese Muslims use; the English writes Moses."
+      }
+     ]
+    },
+    {
+     "h": "ca17ae9d",
+     "en": "When his Lord called to him in the sacred valley of Tuwa:"
+    },
+    {
+     "h": "84921e68",
+     "en": "\"Go to Pharaoh; he has overstepped all bounds."
+    },
+    {
+     "h": "ab460d83",
+     "en": "And say, 'Would you be willing to purify yourself,"
+    },
+    {
+     "h": "44b768e2",
+     "en": "and let me guide you to your Lord, so that you fear Him?'\""
+    },
+    {
+     "h": "ca16d169",
+     "en": "So he showed him the great sign,"
+    },
+    {
+     "h": "d8ab035e",
+     "en": "but he denied it and disobeyed."
+    },
+    {
+     "h": "2bea3bac",
+     "en": "Then he turned away, hurrying about,"
+    },
+    {
+     "h": "da7a3eee",
+     "en": "and gathered his people and proclaimed,"
+    },
+    {
+     "h": "ee3b1e26",
+     "en": "saying, \"I am your lord, the most high.\""
+    },
+    {
+     "h": "fb84edfb",
+     "en": "So God seized him with punishment for the life to come and for this one."
+    },
+    {
+     "h": "afaadd2c",
+     "en": "In that there is a lesson for whoever fears."
+    },
+    {
+     "h": "c773bd9d",
+     "en": "Are you harder to create, or the sky? He built it;"
+    },
+    {
+     "h": "156e5c67",
+     "en": "He raised its vault and shaped it evenly,"
+    },
+    {
+     "h": "e7c5063c",
+     "en": "and darkened its night and brought out its morning light;"
+    },
+    {
+     "h": "8ba76880",
+     "en": "and after that He spread out the earth;"
+    },
+    {
+     "h": "193c6491",
+     "en": "He brought out from it its water and its pasture;"
+    },
+    {
+     "h": "2ca6918b",
+     "en": "and the mountains He set firm,"
+    },
+    {
+     "h": "7dd6dcd3",
+     "en": "as provision for you and for your livestock."
+    },
+    {
+     "h": "fe285613",
+     "en": "But when the great overwhelming event comes,"
+    },
+    {
+     "h": "ad219966",
+     "en": "the day when a person will remember what he strove for,"
+    },
+    {
+     "h": "6c2b87ce",
+     "en": "and the Blaze is brought into view for anyone who sees,"
+    },
+    {
+     "h": "f8c65cc9",
+     "en": "then as for the one who overstepped all bounds"
+    },
+    {
+     "h": "d2821970",
+     "en": "and preferred the life of this world,"
+    },
+    {
+     "h": "40c8da1c",
+     "en": "the Blaze will be his home."
+    },
+    {
+     "h": "f5b04f5c",
+     "en": "But as for the one who feared standing before his Lord and held his soul back from its craving,"
+    },
+    {
+     "h": "e3a6ba57",
+     "en": "the Garden will be his home.",
+     "cmp": [
+      {
+       "w": "al-janna",
+       "note": "janna 本义是「园子」，有树荫遮着的园林。白话译「乐园」，加了「乐」字；英文大写 Garden，贴着本义。",
+       "en": "Janna literally means \"garden,\" an orchard under the cover of trees. The Chinese 乐园 (lèyuán, \"garden of joy\") adds \"joy\"; the English keeps the literal \"Garden,\" capitalized."
+      }
+     ]
+    },
+    {
+     "h": "12293007",
+     "en": "They ask you about the Hour: \"When will it arrive?\""
+    },
+    {
+     "h": "fdb4759f",
+     "en": "What have you to do with telling of it?"
+    },
+    {
+     "h": "bf4e6a8d",
+     "en": "Its final term rests with your Lord."
+    },
+    {
+     "h": "6b03fb0c",
+     "en": "You are only a warner for whoever fears it."
+    },
+    {
+     "h": "97cd0fab",
+     "en": "The day they see it, it will be as though they had stayed only an evening or its morning."
+    }
+   ]
+  },
+  {
+   "title": "Surah 80 · He Frowned (ʿAbasa)",
+   "no": 80,
+   "intro": "The Prophet Muhammad was busy trying to persuade the powerful men of Mecca when a blind man came to learn; he frowned and ignored him. This surah says that was wrong: the one who comes sincerely matters more. The second half tells man not to be ungrateful and to look at where his food comes from, then describes the Last Day, when everyone will think only of himself.",
+   "points": [
+    "A blind man came to learn and the Prophet frowned and ignored him",
+    "That was wrong: the Quran is for anyone willing to listen",
+    "Look at your food: the rain and the soil are from God",
+    "On the Last Day each thinks only of himself; some faces shine, some are covered in dust"
+   ],
+   "verses": [
+    {
+     "h": "29b9ce12",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. He frowned and turned away",
+     "cmp": [
+      {
+       "w": "ʿabasa",
+       "note": "原文只说「他」。经注说这是先知穆罕默德：他正在劝麦加的权贵，盲人伊本·乌姆·马克图姆来向他求教，被他冷落。前两节用第三人称说「他」，第三节起转成当面说「你」。",
+       "en": "The Arabic says only \"he.\" The commentaries identify him as the Prophet Muhammad: he was trying to win over the leading men of Mecca when a blind man, Ibn Umm Maktum, came asking to be taught and was brushed aside. The first two verses speak of \"he\"; from the third the address turns to \"you.\""
+      }
+     ]
+    },
+    {
+     "h": "b4ae2609",
+     "en": "because the blind man came to him."
+    },
+    {
+     "h": "44483621",
+     "en": "And what would make you know? Perhaps he would be purified,"
+    },
+    {
+     "h": "1217a027",
+     "en": "or take the reminder to heart, and the reminder would benefit him."
+    },
+    {
+     "h": "d438db66",
+     "en": "As for the one who thinks he needs nothing,"
+    },
+    {
+     "h": "f93c0c21",
+     "en": "to him you give your full attention,"
+    },
+    {
+     "h": "98947589",
+     "en": "though it is not on you if he does not purify himself."
+    },
+    {
+     "h": "8d69b3bb",
+     "en": "But as for the one who came to you hurrying,"
+    },
+    {
+     "h": "6cf06fea",
+     "en": "and in fear,"
+    },
+    {
+     "h": "9c5230c3",
+     "en": "from him you let yourself be distracted."
+    },
+    {
+     "h": "56d17777",
+     "en": "No! This is a reminder,"
+    },
+    {
+     "h": "3a936b9e",
+     "en": "so whoever wills may keep it in mind,"
+    },
+    {
+     "h": "1b7e8baa",
+     "en": "in honored pages,"
+    },
+    {
+     "h": "f4272287",
+     "en": "exalted and kept pure,"
+    },
+    {
+     "h": "afb2cc56",
+     "en": "in the hands of scribes,"
+    },
+    {
+     "h": "834341bb",
+     "en": "noble and faithful."
+    },
+    {
+     "h": "0ccd8fef",
+     "en": "Perish man! How ungrateful he is!",
+     "cmp": [
+      {
+       "w": "qutila al-insān",
+       "note": "字面是「愿人被杀」，是阿拉伯语里咒骂、痛斥的套话，不是真的下令杀人。白话译「真该死」，英文 Perish man。",
+       "en": "Literally \"may man be killed,\" an Arabic formula of cursing and rebuke, not a command to kill. The Chinese says 真该死 (zhēn gāi sǐ, \"really deserves to die\") and the English \"Perish man.\""
+      }
+     ]
+    },
+    {
+     "h": "1d163966",
+     "en": "From what did He create him?"
+    },
+    {
+     "h": "5bb34948",
+     "en": "From a drop of fluid He created him and proportioned him,"
+    },
+    {
+     "h": "5bfd55db",
+     "en": "then He made the way easy for him,"
+    },
+    {
+     "h": "d8c26fe4",
+     "en": "then He caused him to die and laid him in a grave,"
+    },
+    {
+     "h": "25e55793",
+     "en": "then, when He wills, He will raise him again."
+    },
+    {
+     "h": "f0273fc9",
+     "en": "No! He has not yet carried out what He commanded him."
+    },
+    {
+     "h": "7f7d31b7",
+     "en": "So let man look at his food:"
+    },
+    {
+     "h": "6c93663b",
+     "en": "We poured down water in abundance,"
+    },
+    {
+     "h": "5bc7737a",
+     "en": "then split the earth in clefts,"
+    },
+    {
+     "h": "8ede94e3",
+     "en": "and made grain grow in it,"
+    },
+    {
+     "h": "8ca4f7cd",
+     "en": "and grapes and fresh green fodder,"
+    },
+    {
+     "h": "58d25f89",
+     "en": "and olive trees and date palms,"
+    },
+    {
+     "h": "2496373b",
+     "en": "and gardens dense with trees,"
+    },
+    {
+     "h": "66eb9657",
+     "en": "and fruit and pasture,"
+    },
+    {
+     "h": "7dd6dcd3",
+     "en": "as provision for you and for your livestock."
+    },
+    {
+     "h": "a73ffd48",
+     "en": "But when the deafening Blast comes,"
+    },
+    {
+     "h": "d8294ac4",
+     "en": "the day a man will flee from his brother,"
+    },
+    {
+     "h": "7a1f4ced",
+     "en": "and his mother and his father,"
+    },
+    {
+     "h": "de493556",
+     "en": "and his wife and his children:"
+    },
+    {
+     "h": "b3f0bd06",
+     "en": "each of them that day will have enough concern of his own."
+    },
+    {
+     "h": "60ab13af",
+     "en": "Some faces that day will be bright,"
+    },
+    {
+     "h": "695fdadd",
+     "en": "laughing, rejoicing;"
+    },
+    {
+     "h": "398143e9",
+     "en": "and some faces that day will have dust on them,"
+    },
+    {
+     "h": "f88c40f8",
+     "en": "darkness covering them."
+    },
+    {
+     "h": "a51b6e26",
+     "en": "Those are the disbelievers, the wicked."
+    }
+   ]
+  },
+  {
+   "title": "Surah 81 · The Folding Up (at-Takwīr)",
+   "no": 81,
+   "intro": "Twelve \"when\" clauses picture the Last Day: the sun goes out, the stars fall, the baby girl buried alive is asked why she was killed. Then every soul will know what it has done. The second half says the Quran is a word brought by an angel, and Muhammad is not mad.",
+   "points": [
+    "The Last Day: the sun goes out, the stars fall, the mountains move",
+    "Everything each person did is laid open",
+    "By the stars, the night and the dawn: the Quran was brought by an angel",
+    "It is a reminder for anyone who wants to go straight"
+   ],
+   "verses": [
+    {
+     "h": "ab321f1c",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. When the sun is wrapped up,"
+    },
+    {
+     "h": "24a5a6d1",
+     "en": "and when the stars fall, losing their light,"
+    },
+    {
+     "h": "3ef9054b",
+     "en": "and when the mountains are set moving,"
+    },
+    {
+     "h": "24aa7c0f",
+     "en": "and when the she-camels ten months pregnant are left untended,",
+     "cmp": [
+      {
+       "w": "al-ʿishār",
+       "note": "ʿishār 是怀胎满十个月、快要生产的母驼，是当时阿拉伯人最值钱的财产。连它都没人管了，意思是人人自顾不暇。中文和英文都得用一句话解释这一个词。",
+       "en": "ʿIshār are she-camels ten months pregnant and about to give birth, the most valuable property an Arab of the time could own. That even these are abandoned means no one has a thought to spare. Both translations need a whole phrase for the one word."
+      }
+     ]
+    },
+    {
+     "h": "bf237d8d",
+     "en": "and when the wild beasts are herded together,"
+    },
+    {
+     "h": "aa87bf88",
+     "en": "and when the seas are set boiling,"
+    },
+    {
+     "h": "a3bfd6f5",
+     "en": "and when souls are paired,"
+    },
+    {
+     "h": "50b6790e",
+     "en": "and when the baby girl buried alive is asked"
+    },
+    {
+     "h": "efc01622",
+     "en": "for what sin she was killed,"
+    },
+    {
+     "h": "b1575e2f",
+     "en": "and when the pages are spread open,"
+    },
+    {
+     "h": "b8d90aea",
+     "en": "and when the sky is stripped away,"
+    },
+    {
+     "h": "df2228d0",
+     "en": "and when the Blaze is set burning hot,"
+    },
+    {
+     "h": "e0a61a2a",
+     "en": "and when the Garden is brought near,"
+    },
+    {
+     "h": "e0cda85b",
+     "en": "a soul will know what it has brought."
+    },
+    {
+     "h": "d28a940d",
+     "en": "No! I swear by those that retreat,",
+     "cmp": [
+      {
+       "w": "al-khunnas",
+       "note": "这两节原文只有三个形容词：「隐退的、奔行的、躲藏的」，没说是什么。经注多半说是行星或星辰（白天隐去、夜里运行），也有说是羚羊。白话在括号里补了「星星」，英文只照字面译。",
+       "en": "These two verses give only three adjectives, \"retreating, running, hiding,\" and do not say of what. Most commentators say planets or stars (gone by day, moving by night); some say gazelles. The Chinese adds \"stars\" in brackets; the English stays literal."
+      }
+     ]
+    },
+    {
+     "h": "e8610f58",
+     "en": "that run their course and hide away,"
+    },
+    {
+     "h": "e53a504e",
+     "en": "and by the night as it departs,",
+     "cmp": [
+      {
+       "w": "ʿasʿasa",
+       "note": "这个动词有两个相反的意思：夜「来临」，或者夜「退去」。白话和英文取「退去」，好接下一节的清晨；也有译本取「来临」。",
+       "en": "This verb has two opposite senses: the night \"draws in\" or the night \"departs.\" Both translations take \"departs,\" which leads into the dawn of the next verse; some translators take \"draws in.\""
+      }
+     ]
+    },
+    {
+     "h": "9d6581a9",
+     "en": "and by the dawn as it breathes:"
+    },
+    {
+     "h": "ad95f805",
+     "en": "this is truly the word of a noble messenger,",
+     "cmp": [
+      {
+       "w": "rasūlin karīmin",
+       "note": "这位「使者」，经注多半说是把启示带来的天使吉卜利勒（加百列）；第 22 节「你们的同伴」是先知穆罕默德，第 23 节是他见到那位天使。原文都只用代词。",
+       "en": "Most commentators take this \"messenger\" to be the angel Gabriel, who brings the revelation; \"your companion\" in verse 22 is the Prophet Muhammad, and verse 23 is his seeing that angel. The Arabic uses only pronouns throughout."
+      }
+     ]
+    },
+    {
+     "h": "03695730",
+     "en": "possessing strength, secure in rank with the Lord of the Throne,"
+    },
+    {
+     "h": "199fa1fd",
+     "en": "obeyed there, and trustworthy."
+    },
+    {
+     "h": "568104e0",
+     "en": "Your companion is not mad."
+    },
+    {
+     "h": "da8c9282",
+     "en": "He did see him on the clear horizon."
+    },
+    {
+     "h": "c7ac08ac",
+     "en": "And he does not hold back what he knows of the unseen."
+    },
+    {
+     "h": "ef471d00",
+     "en": "Nor is this the word of an outcast satan."
+    },
+    {
+     "h": "04188664",
+     "en": "So where are you going?"
+    },
+    {
+     "h": "028493e5",
+     "en": "This is nothing but a reminder to all the worlds,"
+    },
+    {
+     "h": "9b3f9419",
+     "en": "to whoever among you wills to go straight."
+    },
+    {
+     "h": "417a2bd1",
+     "en": "But you will not will it unless God wills, the Lord of the worlds."
+    }
+   ]
+  },
+  {
+   "title": "Surah 82 · The Splitting (al-Infiṭār)",
+   "no": 82,
+   "intro": "First the Last Day: the sky splits, the graves are turned over. Then a question to man: your Lord has been so generous to you, so what makes you take Him lightly? Angels are recording everything you do, and on the Day of Judgment no one can help anyone else.",
+   "points": [
+    "The Last Day: the sky splits and the graves are turned over",
+    "God made you and was generous to you, yet you take Him lightly",
+    "Angels are recording everything you do",
+    "On Judgment Day no one can help anyone; it is all God's to decide"
+   ],
+   "verses": [
+    {
+     "h": "defd2e6c",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. When the sky is split apart,"
+    },
+    {
+     "h": "5d90754f",
+     "en": "and when the stars are scattered,"
+    },
+    {
+     "h": "d7bfe399",
+     "en": "and when the seas burst forth,"
+    },
+    {
+     "h": "719f88fa",
+     "en": "and when the graves are overturned,"
+    },
+    {
+     "h": "c01fddf7",
+     "en": "a soul will know what it sent ahead and what it left behind."
+    },
+    {
+     "h": "98c98c67",
+     "en": "O man! What has deceived you about your generous Lord,"
+    },
+    {
+     "h": "cb21bd70",
+     "en": "who created you, shaped you and set you in right proportion,"
+    },
+    {
+     "h": "5cd2b3b5",
+     "en": "and put you together in whatever form He willed?"
+    },
+    {
+     "h": "b9fc7851",
+     "en": "No! Rather, you deny the Judgment."
+    },
+    {
+     "h": "687febab",
+     "en": "Yet over you there are watchers,"
+    },
+    {
+     "h": "3badb618",
+     "en": "noble ones who write,"
+    },
+    {
+     "h": "72e5677a",
+     "en": "who know whatever you do."
+    },
+    {
+     "h": "b36fa374",
+     "en": "The righteous will surely be in bliss,"
+    },
+    {
+     "h": "40a89e4f",
+     "en": "and the wicked will surely be in the Blaze;"
+    },
+    {
+     "h": "fea2ef08",
+     "en": "they will burn in it on the Day of Judgment,"
+    },
+    {
+     "h": "6792f063",
+     "en": "and they will never be absent from it."
+    },
+    {
+     "h": "3aa039fd",
+     "en": "What will make you know what the Day of Judgment is?"
+    },
+    {
+     "h": "fadd7aa4",
+     "en": "Again, what will make you know what the Day of Judgment is?"
+    },
+    {
+     "h": "e4205e1b",
+     "en": "The day when no soul can do anything for another soul; and the command that day belongs to God."
+    }
+   ]
+  },
+  {
+   "title": "Surah 83 · The Short-Changers (al-Muṭaffifīn)",
+   "no": 83,
+   "intro": "A rebuke to traders who cheat on weight: full measure when they buy, short measure when they sell. They forget they will be judged. The wicked and the righteous each have their record; today the wicked laugh at the believers, and on that Day it will be the other way round.",
+   "points": [
+    "Full measure when buying, short when selling: woe to such people",
+    "The wicked and the good each have their record",
+    "The good drink sealed wine in the Garden",
+    "Today the wicked laugh at believers; that Day it is the other way round"
+   ],
+   "verses": [
+    {
+     "h": "8583d46d",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Woe to those who give short measure,"
+    },
+    {
+     "h": "c97330e5",
+     "en": "who, when they take a measure from people, demand it in full,"
+    },
+    {
+     "h": "0fc31884",
+     "en": "but when they measure or weigh for them, give less."
+    },
+    {
+     "h": "18294327",
+     "en": "Do such people not think that they will be raised"
+    },
+    {
+     "h": "17b6ca39",
+     "en": "on a mighty day,"
+    },
+    {
+     "h": "317aa0d1",
+     "en": "the day when mankind will stand before the Lord of the worlds?"
+    },
+    {
+     "h": "de1149e7",
+     "en": "No! The record of the wicked is in Sijjin.",
+     "cmp": [
+      {
+       "w": "sijjīn",
+       "note": "sijjīn 只在这里出现，古兰经自己接着解释成「一本写定的册子」。它和 sijn（监狱）同根，所以也有人解作最底层的牢狱。白话音译「辛吉尼」，英文写 Sijjin。",
+       "en": "Sijjīn occurs only here, and the Quran itself goes on to explain it as \"a written record.\" It shares a root with sijn, \"prison,\" so some take it as the lowest dungeon. The Chinese transliterates it 辛吉尼 (Xīnjíní) and the English writes Sijjin."
+      }
+     ]
+    },
+    {
+     "h": "263e82bb",
+     "en": "And what will make you know what Sijjin is?"
+    },
+    {
+     "h": "9578b022",
+     "en": "A written record."
+    },
+    {
+     "h": "b73121c4",
+     "en": "Woe that day to the deniers,"
+    },
+    {
+     "h": "b887ec5a",
+     "en": "who deny the Day of Judgment."
+    },
+    {
+     "h": "ab2bdf4c",
+     "en": "None denies it but every sinful transgressor."
+    },
+    {
+     "h": "96d2faab",
+     "en": "When Our verses are recited to him he says, \"Fables of the ancients.\""
+    },
+    {
+     "h": "de6e63a9",
+     "en": "No! Rather, what they used to earn has rusted over their hearts."
+    },
+    {
+     "h": "0b3791da",
+     "en": "No! That day they will be screened off from their Lord."
+    },
+    {
+     "h": "0d643e2d",
+     "en": "Then they will burn in the Blaze,"
+    },
+    {
+     "h": "c4560e3f",
+     "en": "then it will be said, \"This is what you used to deny.\""
+    },
+    {
+     "h": "5ed19a01",
+     "en": "No! The record of the righteous is in Illiyyun.",
+     "cmp": [
+      {
+       "w": "ʿilliyyūn",
+       "note": "ʿilliyyūn 和 ʿuluww（高）同根，意思是「高处中的高处」，和前面的「辛吉尼」相对。白话音译「伊里云」，英文写 Illiyyun。",
+       "en": "ʿIlliyyūn shares a root with ʿuluww, \"height,\" and means something like \"the highest of heights,\" the counterpart of Sijjin above. The Chinese transliterates it 伊里云 (Yīlǐyún) and the English writes Illiyyun."
+      }
+     ]
+    },
+    {
+     "h": "7b51b955",
+     "en": "And what will make you know what Illiyyun is?"
+    },
+    {
+     "h": "9578b022",
+     "en": "A written record,"
+    },
+    {
+     "h": "60d57d13",
+     "en": "witnessed by those brought near."
+    },
+    {
+     "h": "b36fa374",
+     "en": "The righteous will surely be in bliss,"
+    },
+    {
+     "h": "8d39b45f",
+     "en": "on couches, looking on."
+    },
+    {
+     "h": "e1ecb84f",
+     "en": "You will recognize in their faces the glow of bliss."
+    },
+    {
+     "h": "3dad25ef",
+     "en": "They will be given to drink pure wine, sealed,"
+    },
+    {
+     "h": "875a4787",
+     "en": "its seal is musk; for this let those who strive, strive;"
+    },
+    {
+     "h": "fff4a7c9",
+     "en": "and its mixture is of Tasnim,"
+    },
+    {
+     "h": "333a964a",
+     "en": "a spring from which those brought near drink."
+    },
+    {
+     "h": "80fb264b",
+     "en": "Those who did wrong used to laugh at those who believed,"
+    },
+    {
+     "h": "097575ac",
+     "en": "and when they passed by them, they would wink at one another,"
+    },
+    {
+     "h": "9c2b768c",
+     "en": "and when they went back to their own people, they went back jesting,"
+    },
+    {
+     "h": "dc6f7780",
+     "en": "and when they saw them they said, \"These people have surely gone astray.\""
+    },
+    {
+     "h": "3b509643",
+     "en": "Yet they were not sent to be their keepers."
+    },
+    {
+     "h": "1a3f5940",
+     "en": "So today those who believed laugh at the disbelievers,"
+    },
+    {
+     "h": "8d39b45f",
+     "en": "on couches, looking on."
+    },
+    {
+     "h": "dcef1da4",
+     "en": "Have the disbelievers been repaid for what they used to do?"
+    }
+   ]
+  },
+  {
+   "title": "Surah 84 · The Tearing Apart (al-Inshiqāq)",
+   "no": 84,
+   "intro": "On the Last Day the sky and the earth obey God. Everyone is making his way, step by step, toward his Lord: the one handed his record in his right hand passes easily, and the one handed it behind his back is full of regret.",
+   "points": [
+    "On the Last Day the sky and the earth obey God",
+    "A lifetime of toil is really a walk toward the Lord",
+    "A record in the right hand means ease; one handed behind the back means regret",
+    "Like the moon growing full, people pass through stages: life, death, rising again"
+   ],
+   "verses": [
+    {
+     "h": "5f72438e",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. When the sky is torn apart"
+    },
+    {
+     "h": "51e738f4",
+     "en": "and listens to its Lord, as it must,"
+    },
+    {
+     "h": "f1d63c8a",
+     "en": "and when the earth is stretched out"
+    },
+    {
+     "h": "81d2ce4f",
+     "en": "and casts out what is in it and becomes empty"
+    },
+    {
+     "h": "51e738f4",
+     "en": "and listens to its Lord, as it must:"
+    },
+    {
+     "h": "428d2a6f",
+     "en": "O man! You are toiling toward your Lord, toil upon toil, and you will meet Him."
+    },
+    {
+     "h": "e71b6f85",
+     "en": "As for the one who is given his record in his right hand,"
+    },
+    {
+     "h": "f81b7b1d",
+     "en": "he will have an easy reckoning"
+    },
+    {
+     "h": "eb48ee74",
+     "en": "and go back to his people rejoicing."
+    },
+    {
+     "h": "1884d231",
+     "en": "But as for the one who is given his record behind his back,"
+    },
+    {
+     "h": "c1c3554f",
+     "en": "he will cry out for destruction"
+    },
+    {
+     "h": "277e43d8",
+     "en": "and burn in a blazing fire."
+    },
+    {
+     "h": "86cda742",
+     "en": "He used to live among his people in gladness;"
+    },
+    {
+     "h": "ab25d669",
+     "en": "he thought he would never return."
+    },
+    {
+     "h": "e36d9db2",
+     "en": "Yes indeed! His Lord was always watching him."
+    },
+    {
+     "h": "531ba262",
+     "en": "No! I swear by the glow of sunset,"
+    },
+    {
+     "h": "46532a7d",
+     "en": "and by the night and what it gathers in,"
+    },
+    {
+     "h": "06924560",
+     "en": "and by the moon when it grows full:"
+    },
+    {
+     "h": "11f6255b",
+     "en": "you will surely pass from stage to stage."
+    },
+    {
+     "h": "77cec0ef",
+     "en": "So what is the matter with them, that they do not believe,"
+    },
+    {
+     "h": "a884e74b",
+     "en": "and when the Quran is recited to them, do not bow down?",
+     "cmp": [
+      {
+       "w": "yasjudūna",
+       "note": "sajada 是额头触地的叩拜。原文这一节末尾有一个叩头记号（۩）：按传统，念到或听到这里的人要叩一次头。",
+       "en": "Sajada is prostration with the forehead to the ground. The Arabic text carries a prostration mark (۩) at the end of this verse: by tradition, whoever recites or hears it prostrates once."
+      }
+     ]
+    },
+    {
+     "h": "3d6ac25a",
+     "en": "Rather, those who disbelieve call it a lie,"
+    },
+    {
+     "h": "367ca844",
+     "en": "and God knows best what they keep within."
+    },
+    {
+     "h": "27d2f283",
+     "en": "So give them the \"good news\" of a painful punishment,",
+     "cmp": [
+      {
+       "w": "bashshirhum",
+       "note": "bashshara 专指「报喜」。这里拿报喜的词去报刑罚，是反话。白话和英文都加了引号把这层反讽标出来，原文没有引号。",
+       "en": "Bashshara means specifically \"to bring good news.\" Using it for punishment is irony. Both translations add quotation marks to flag the irony; the Arabic has none."
+      }
+     ]
+    },
+    {
+     "h": "fb08e152",
+     "en": "except those who believe and do good deeds: for them there is a reward that never ends."
+    }
+   ]
+  },
+  {
+   "title": "Surah 85 · The Constellations (al-Burūj)",
+   "no": 85,
+   "intro": "A story from long ago: people dug a trench, lit a fire in it, and burned those who would not give up their faith. Those who persecute believers and do not repent will be punished with fire, and the believers will enter the Garden. God's power is real; even a ruler like Pharaoh did not escape it.",
+   "points": [
+    "An oath by the sky full of constellations",
+    "Long ago people dug a pit of fire and burned those who kept their faith",
+    "Persecutors who do not repent get the fire; believers get the Garden",
+    "Even a power like Pharaoh did not escape"
+   ],
+   "verses": [
+    {
+     "h": "455813c4",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the sky with its constellations,"
+    },
+    {
+     "h": "6f3bc270",
+     "en": "and by the promised Day,"
+    },
+    {
+     "h": "5a9d359c",
+     "en": "and by the witness and what is witnessed:"
+    },
+    {
+     "h": "41470dbb",
+     "en": "perish the people of the trench,",
+     "cmp": [
+      {
+       "w": "aṣḥāb al-ukhdūd",
+       "note": "「坑的主人」是谁，原文没说。经注多半说是古时候挖沟点火、把不肯弃教的信徒烧死的一位国王和他的手下，常指也门纳季兰的事（约公元六世纪）。",
+       "en": "The text does not say who \"the people of the trench\" were. Most commentators say a king of old and his men who dug a ditch, lit a fire in it and burned believers who would not give up their faith, often identified with events at Najran in Yemen around the sixth century."
+      }
+     ]
+    },
+    {
+     "h": "ed45377f",
+     "en": "of the fire fed with fuel,"
+    },
+    {
+     "h": "1c29f903",
+     "en": "when they sat beside it,"
+    },
+    {
+     "h": "3c813579",
+     "en": "witnessing what they did to the believers."
+    },
+    {
+     "h": "33398f2c",
+     "en": "They held nothing against them except that they believed in God, the Almighty, the Praiseworthy,"
+    },
+    {
+     "h": "24887f9d",
+     "en": "to whom belongs the kingdom of the heavens and the earth. And God is witness over all things."
+    },
+    {
+     "h": "0abb21ba",
+     "en": "Those who persecuted the believing men and women and then did not repent will have the punishment of Hell, and the punishment of burning."
+    },
+    {
+     "h": "612c317e",
+     "en": "Those who believe and do good deeds will have gardens with rivers flowing beneath them. That is the great triumph."
+    },
+    {
+     "h": "b08aec05",
+     "en": "Your Lord's grip is truly severe."
+    },
+    {
+     "h": "43a34e8f",
+     "en": "It is He who begins and brings back again,"
+    },
+    {
+     "h": "fb8ec1f8",
+     "en": "and He is the Forgiving, the Loving,"
+    },
+    {
+     "h": "d32d98af",
+     "en": "Lord of the Throne, the Glorious,"
+    },
+    {
+     "h": "9417d8f8",
+     "en": "Doer of whatever He wills."
+    },
+    {
+     "h": "5eb11d32",
+     "en": "Has the story of the armies reached you,"
+    },
+    {
+     "h": "fa94b874",
+     "en": "of Pharaoh and Thamud?"
+    },
+    {
+     "h": "de73634c",
+     "en": "Yet those who disbelieve persist in denial,"
+    },
+    {
+     "h": "4cc7a046",
+     "en": "while God surrounds them from behind."
+    },
+    {
+     "h": "8a643865",
+     "en": "No, this is a glorious Quran,",
+     "cmp": [
+      {
+       "w": "qurʾān",
+       "note": "qurʾān 的本义是「诵读、念出来的东西」，和第 96 章开头的命令「你读」（iqraʾ）同根。中文「古兰」、英文 Quran 都是音译，听不出「念」这层意思。",
+       "en": "Qurʾān literally means \"recitation, something read aloud,\" from the same root as the command \"Read!\" (iqraʾ) that opens Surah 96. Chinese 古兰 (Gǔlán) and English \"Quran\" are both transliterations and lose the sense of \"reciting.\""
+      }
+     ]
+    },
+    {
+     "h": "29c3eb1a",
+     "en": "on a preserved tablet."
+    }
+   ]
+  },
+  {
+   "title": "Surah 86 · The Night-Comer (aṭ-Ṭāriq)",
+   "no": 86,
+   "intro": "An oath by a bright star in the night sky: everyone has an angel watching over him. Man was made from a drop of fluid, so God can certainly bring him to life again. The Quran is serious speech, not a joke.",
+   "points": [
+    "The bright star at night: everyone has an angel watching",
+    "Man was made from a drop of fluid; living again is not hard",
+    "The sky sends rain and the earth grows green: the Quran is serious speech",
+    "On that day every hidden secret is examined"
+   ],
+   "verses": [
+    {
+     "h": "4eb17384",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the sky and the night-comer!",
+     "cmp": [
+      {
+       "w": "aṭ-ṭāriq",
+       "note": "ṭāriq 是「夜里来敲门的人」。古兰经先用这个谜一样的词，再自己问「你怎么知道它是什么」，到第 3 节才揭开：是一颗星。这种「先出谜、再发问、再回答」的句式在这一卷里反复出现。",
+       "en": "Ṭāriq is \"one who comes knocking at night.\" The Quran uses the riddling word first, then asks \"what will make you know what it is,\" and only in verse 3 answers: a star. This pattern of riddle, question, answer recurs throughout this part of the Quran."
+      }
+     ]
+    },
+    {
+     "h": "93a1f72b",
+     "en": "And what will make you know what the night-comer is?"
+    },
+    {
+     "h": "74c5864f",
+     "en": "The star of piercing brightness."
+    },
+    {
+     "h": "ce5890d7",
+     "en": "There is no soul without a watcher over it."
+    },
+    {
+     "h": "965a799a",
+     "en": "So let man look at what he was created from:"
+    },
+    {
+     "h": "d1919443",
+     "en": "he was created from a spurting fluid"
+    },
+    {
+     "h": "17598257",
+     "en": "that comes out from between the backbone and the ribs."
+    },
+    {
+     "h": "dcce7336",
+     "en": "He is surely able to bring him back,"
+    },
+    {
+     "h": "40d07972",
+     "en": "on the day when secrets are put to the test,"
+    },
+    {
+     "h": "f5f2f246",
+     "en": "and he will have no strength and no helper."
+    },
+    {
+     "h": "2652426c",
+     "en": "By the sky that returns its rain,"
+    },
+    {
+     "h": "7a1486e5",
+     "en": "and by the earth that splits open with growth:"
+    },
+    {
+     "h": "64f67cd5",
+     "en": "this is truly a decisive word,"
+    },
+    {
+     "h": "306acd55",
+     "en": "and it is no jest."
+    },
+    {
+     "h": "5d0335ba",
+     "en": "They are plotting a scheme,"
+    },
+    {
+     "h": "40681f66",
+     "en": "and I am plotting a scheme."
+    },
+    {
+     "h": "82f48a4a",
+     "en": "So give the disbelievers respite; leave them be for a while."
+    }
+   ]
+  },
+  {
+   "title": "Surah 87 · The Most High (al-Aʿlā)",
+   "no": 87,
+   "intro": "A call to glorify God, who made everything and showed everything its way. God will make the Prophet remember what is revealed. Reminding people is worth doing: those who fear God will listen, and those who will not are the worst off. People prize this life, though the life to come is better and lasts longer.",
+   "points": [
+    "Glorify the Most High, who made all things and showed them their way",
+    "Green grass turns to dry stubble: this life is short",
+    "Reminding helps: those who fear God will listen",
+    "People prize this life, but the next is better and lasts longer"
+   ],
+   "verses": [
+    {
+     "h": "f7af661e",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Glorify the name of your Lord, the Most High,",
+     "cmp": [
+      {
+       "w": "sabbiḥ",
+       "note": "sabbaḥa 是「宣告某位没有任何缺陷、超乎一切」，比「赞美」（ḥamd，第 1 章第 2 节）更偏向「撇清」。白话「赞颂」和英文 Glorify 都只能译个大概。",
+       "en": "Sabbaḥa is \"to declare someone free of every flaw, above all things,\" leaning more toward \"clearing\" than ḥamd, \"praise\" (1:2). Chinese 赞颂 (zànsòng, \"extol\") and English \"Glorify\" are both approximations."
+      }
+     ]
+    },
+    {
+     "h": "5ce99a83",
+     "en": "who created and shaped,"
+    },
+    {
+     "h": "40abcb96",
+     "en": "who set the measure and guided,"
+    },
+    {
+     "h": "8dca1900",
+     "en": "who brought out the pasture"
+    },
+    {
+     "h": "21344d9f",
+     "en": "and then turned it into dark stubble."
+    },
+    {
+     "h": "b5320641",
+     "en": "We will have you recite, and you will not forget,"
+    },
+    {
+     "h": "d2f5432a",
+     "en": "except what God wills. He knows what is spoken aloud and what is hidden."
+    },
+    {
+     "h": "f4633c87",
+     "en": "We will ease you toward the easy way."
+    },
+    {
+     "h": "a61f0480",
+     "en": "So remind, if the reminder is of use."
+    },
+    {
+     "h": "cd4199c1",
+     "en": "He who fears will take heed,"
+    },
+    {
+     "h": "57f674b8",
+     "en": "but the most wretched will shun it,"
+    },
+    {
+     "h": "1175cd15",
+     "en": "the one who will burn in the greatest Fire,"
+    },
+    {
+     "h": "5feaa3e3",
+     "en": "where he will neither die nor live."
+    },
+    {
+     "h": "3b31eebe",
+     "en": "He has succeeded who purifies himself,"
+    },
+    {
+     "h": "0110a540",
+     "en": "who remembers the name of his Lord and prays."
+    },
+    {
+     "h": "8293a5d2",
+     "en": "Yet you prefer the life of this world,"
+    },
+    {
+     "h": "5439ff75",
+     "en": "though the life to come is better and more lasting."
+    },
+    {
+     "h": "595316fa",
+     "en": "This is truly in the earliest scriptures,"
+    },
+    {
+     "h": "a97471ad",
+     "en": "the scriptures of Abraham and Moses.",
+     "cmp": [
+      {
+       "w": "Ibrāhīm",
+       "note": "Ibrāhīm 就是《圣经》里的亚伯拉罕，Mūsā 是摩西。白话按穆斯林通行的音译写「易卜拉欣」「穆萨」，英文写 Abraham、Moses。",
+       "en": "Ibrāhīm is the Abraham of the Bible and Mūsā is Moses. The Chinese uses 易卜拉欣 (Yìbǔlāxīn) and 穆萨 (Mùsà), the transliterations Chinese Muslims use; the English writes Abraham and Moses."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Surah 88 · The Overwhelming (al-Ghāshiya)",
+   "no": 88,
+   "intro": "The Last Day covers everything like a great cloth. People that day are of two kinds: worn-out faces bound for the fire, and glad faces bound for the Garden. Then people are asked to look at the camel, the sky, the mountains and the earth, and think who made them. The Prophet's job is only to remind; he cannot force anyone.",
+   "points": [
+    "That day some faces are worn out, bound for the fire",
+    "Some faces are glad, at home in a lofty garden",
+    "Look at how the sky, the mountains and the earth were made",
+    "The Prophet only reminds; he cannot force anyone"
+   ],
+   "verses": [
+    {
+     "h": "aa9c8809",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Has the news of the Overwhelming reached you?"
+    },
+    {
+     "h": "bde5038b",
+     "en": "Some faces that day will be downcast,"
+    },
+    {
+     "h": "85afe872",
+     "en": "toiling, worn out,"
+    },
+    {
+     "h": "5b4f139e",
+     "en": "burning in a scorching fire,"
+    },
+    {
+     "h": "3d5b58bd",
+     "en": "given drink from a boiling spring."
+    },
+    {
+     "h": "41c8c6b4",
+     "en": "They will have no food but bitter thorn,"
+    },
+    {
+     "h": "b68c1b5f",
+     "en": "which neither fattens nor satisfies hunger."
+    },
+    {
+     "h": "15afa45d",
+     "en": "Some faces that day will be radiant,"
+    },
+    {
+     "h": "cfbca11d",
+     "en": "well pleased with their striving,"
+    },
+    {
+     "h": "cd45886b",
+     "en": "in a lofty garden,"
+    },
+    {
+     "h": "72b60804",
+     "en": "where they will hear no idle talk."
+    },
+    {
+     "h": "c1e31604",
+     "en": "In it is a flowing spring;"
+    },
+    {
+     "h": "6e154597",
+     "en": "in it are couches raised high,"
+    },
+    {
+     "h": "66f07d08",
+     "en": "and cups set in place,"
+    },
+    {
+     "h": "52272d74",
+     "en": "and cushions lined up,"
+    },
+    {
+     "h": "e8851b1b",
+     "en": "and carpets spread out."
+    },
+    {
+     "h": "8bd55227",
+     "en": "Do they not look at the camels, how they were created,"
+    },
+    {
+     "h": "b7b4cac0",
+     "en": "and at the sky, how it was raised,"
+    },
+    {
+     "h": "a25a34b7",
+     "en": "and at the mountains, how they were set up,"
+    },
+    {
+     "h": "5e9da426",
+     "en": "and at the earth, how it was spread flat?"
+    },
+    {
+     "h": "d3a53b4a",
+     "en": "So remind; you are only one who reminds."
+    },
+    {
+     "h": "46f3a831",
+     "en": "You are not a controller over them."
+    },
+    {
+     "h": "2cb9a0b8",
+     "en": "But whoever turns away and disbelieves,"
+    },
+    {
+     "h": "7ff7c6be",
+     "en": "God will punish him with the greatest punishment."
+    },
+    {
+     "h": "91e9f4ae",
+     "en": "To Us is their return,"
+    },
+    {
+     "h": "33f32b98",
+     "en": "and then it is for Us to call them to account."
+    }
+   ]
+  },
+  {
+   "title": "Surah 89 · The Dawn (al-Fajr)",
+   "no": 89,
+   "intro": "Three mighty peoples who were destroyed come first: ʿAd, Thamud and Pharaoh. Then a human failing: when life is good a person says \"my Lord honors me,\" and when it is tight, \"my Lord despises me\"; the real problem is that you neglect the orphan and the poor and love money. On the Last Day regret comes too late, while the soul at peace is invited into the Garden.",
+   "points": [
+    "An oath by the dawn and the ten nights",
+    "ʿAd, Thamud and Pharaoh were mighty, and were destroyed",
+    "The human failing: loving money and neglecting the orphan and the poor",
+    "The soul at peace is invited into the Garden"
+   ],
+   "verses": [
+    {
+     "h": "bc29cef0",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the dawn,"
+    },
+    {
+     "h": "445c7c69",
+     "en": "and by ten nights,",
+     "cmp": [
+      {
+       "w": "layālin ʿashr",
+       "note": "「十个夜」是哪十夜，原文没说。经注多半说是朝觐月（伊斯兰历十二月）的头十夜，也有说是斋月的最后十夜。",
+       "en": "The text does not say which \"ten nights.\" Most commentators say the first ten nights of the month of pilgrimage (the twelfth month of the Islamic calendar); others, the last ten nights of Ramadan."
+      }
+     ]
+    },
+    {
+     "h": "d1809634",
+     "en": "and by the even and the odd,"
+    },
+    {
+     "h": "1b1b9058",
+     "en": "and by the night as it passes:"
+    },
+    {
+     "h": "defee9dd",
+     "en": "is there not in that an oath for a person of sense?"
+    },
+    {
+     "h": "77b6ba1a",
+     "en": "Have you not seen how your Lord dealt with ʿAd,",
+     "cmp": [
+      {
+       "w": "ʿĀd",
+       "note": "阿德人（ʿĀd）和下面的赛莫德人（Thamūd）都是阿拉伯传说里被毁灭的古代部族，古兰经里常和法老并提，当作不听警告的例子。",
+       "en": "ʿAd, and Thamud below, are ancient peoples of Arabian tradition who were destroyed. The Quran often names them together with Pharaoh as examples of those who ignored the warning."
+      }
+     ]
+    },
+    {
+     "h": "942d43c0",
+     "en": "Iram of the lofty pillars,"
+    },
+    {
+     "h": "ba8433df",
+     "en": "the like of which was never created in the lands,"
+    },
+    {
+     "h": "d167ecf9",
+     "en": "and with Thamud, who carved out the rocks in the valley,"
+    },
+    {
+     "h": "742d193b",
+     "en": "and with Pharaoh of the stakes?"
+    },
+    {
+     "h": "5fbaac26",
+     "en": "They overstepped all bounds in the lands"
+    },
+    {
+     "h": "917b5d7e",
+     "en": "and spread much corruption there,"
+    },
+    {
+     "h": "878ddfa1",
+     "en": "so your Lord poured on them a scourge of punishment."
+    },
+    {
+     "h": "be42c13f",
+     "en": "Your Lord is ever on the watch."
+    },
+    {
+     "h": "4ddf71c5",
+     "en": "As for man, when his Lord tests him by honoring him and favoring him, he says, \"My Lord has honored me.\""
+    },
+    {
+     "h": "0a3259c4",
+     "en": "But when He tests him by tightening his provision, he says, \"My Lord has humiliated me.\""
+    },
+    {
+     "h": "ebb63416",
+     "en": "No! Rather, you do not honor the orphan,"
+    },
+    {
+     "h": "6b04049f",
+     "en": "and you do not urge one another to feed the poor,"
+    },
+    {
+     "h": "5c204a42",
+     "en": "and you devour inheritance greedily,"
+    },
+    {
+     "h": "4ee1e919",
+     "en": "and you love wealth with a boundless love."
+    },
+    {
+     "h": "d9d09620",
+     "en": "No! When the earth is pounded to dust, pounded and pounded,"
+    },
+    {
+     "h": "0710a0a3",
+     "en": "and your Lord comes, and the angels, rank upon rank,"
+    },
+    {
+     "h": "1caf58f5",
+     "en": "and Hell that day is brought near: on that day man will remember, but what good will remembering do him?"
+    },
+    {
+     "h": "30b0c8ee",
+     "en": "He will say, \"If only I had sent something ahead for my life!\""
+    },
+    {
+     "h": "1a90b1a9",
+     "en": "On that day none will punish as He punishes,"
+    },
+    {
+     "h": "537f3321",
+     "en": "and none will bind as He binds."
+    },
+    {
+     "h": "663386a1",
+     "en": "\"O soul at peace!"
+    },
+    {
+     "h": "249f532f",
+     "en": "Return to your Lord, well pleased and well pleasing.",
+     "cmp": [
+      {
+       "w": "rāḍiyatan marḍiyyatan",
+       "note": "两个词同根（r-ḍ-y，满意），一个主动一个被动：「满意的、被满意的」。英文 well pleased and well pleasing 保住了这对回声；白话拆成「你对他满意，他也对你满意」，意思清楚，声音没了。",
+       "en": "The two words share one root (r-ḍ-y, \"to be content\"), one active and one passive: \"content, and found content.\" English \"well pleased and well pleasing\" keeps the echo; the Chinese unpacks it as \"you are satisfied with Him and He with you,\" clear in sense but without the sound."
+      }
+     ]
+    },
+    {
+     "h": "5fdd288d",
+     "en": "Enter among My servants,"
+    },
+    {
+     "h": "8e0615dd",
+     "en": "and enter My Garden.\""
+    }
+   ]
+  },
+  {
+   "title": "Surah 90 · The City (al-Balad)",
+   "no": 90,
+   "intro": "Man is born to hardship. Some think they are great because they have spent money. The truly hard road, the \"steep path\" worth climbing, is this: free a slave, feed an orphan or a poor person in time of famine, and be someone who believes and urges others to patience and compassion.",
+   "points": [
+    "An oath by the city of Mecca: man is born to hardship",
+    "Some spend a little money and think themselves great",
+    "The road worth taking is the steep one",
+    "That is: free a slave, and feed the orphan and the poor in famine"
+   ],
+   "verses": [
+    {
+     "h": "c73aa6c4",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. No! I swear by this city,",
+     "cmp": [
+      {
+       "w": "al-balad",
+       "note": "「这座城」是麦加。原文只说「这座城」，听的人就在城里，不用点名。",
+       "en": "\"This city\" is Mecca. The Arabic says only \"this city\"; its hearers were standing in it and needed no name."
+      }
+     ]
+    },
+    {
+     "h": "287565f4",
+     "en": "and you are a dweller in this city,",
+     "cmp": [
+      {
+       "w": "ḥill",
+       "note": "ḥill 有几种读法：「住在这里的人」，「不受禁令约束的人」，或者「（在这座禁地里）被人当作可以侵犯的人」。白话和英文取第一种。",
+       "en": "Ḥill can be read several ways: \"one who dwells here,\" \"one free of restriction here,\" or \"one whom they treat as fair game (in this sanctuary).\" Both translations take the first."
+      }
+     ]
+    },
+    {
+     "h": "e30549f0",
+     "en": "and by the begetter and what he begot:"
+    },
+    {
+     "h": "ef264db0",
+     "en": "We have created man in hardship."
+    },
+    {
+     "h": "da025af6",
+     "en": "Does he think that no one has power over him?"
+    },
+    {
+     "h": "ed2d8bfb",
+     "en": "He says, \"I have squandered wealth in heaps.\""
+    },
+    {
+     "h": "387e27af",
+     "en": "Does he think that no one has seen him?"
+    },
+    {
+     "h": "34437b99",
+     "en": "Have We not made for him two eyes,"
+    },
+    {
+     "h": "f1edd499",
+     "en": "and a tongue and two lips,"
+    },
+    {
+     "h": "6c02460f",
+     "en": "and shown him the two highways?"
+    },
+    {
+     "h": "b746a2da",
+     "en": "Yet he has not attempted the steep path."
+    },
+    {
+     "h": "7af536af",
+     "en": "And what will make you know what the steep path is?"
+    },
+    {
+     "h": "9c224269",
+     "en": "It is the freeing of a slave,",
+     "cmp": [
+      {
+       "w": "fakku raqabatin",
+       "note": "字面是「解开一条脖子」：脖子代指被套着的奴隶或俘虏。白话和英文都直接译成「放奴隶自由」。",
+       "en": "Literally \"the loosing of a neck\": the neck stands for a slave or captive under the yoke. Both translations say directly \"freeing a slave.\""
+      }
+     ]
+    },
+    {
+     "h": "a824d47c",
+     "en": "or giving food on a day of hunger"
+    },
+    {
+     "h": "587d62cf",
+     "en": "to an orphan near of kin,"
+    },
+    {
+     "h": "95b6a9eb",
+     "en": "or to a poor person down in the dust;"
+    },
+    {
+     "h": "cc475594",
+     "en": "and then being one of those who believe and urge one another to patience and urge one another to compassion."
+    },
+    {
+     "h": "53d57660",
+     "en": "Those are the people of the right hand."
+    },
+    {
+     "h": "8ad5aae7",
+     "en": "But those who disbelieve Our signs, they are the people of the left hand;"
+    },
+    {
+     "h": "2d2d30c7",
+     "en": "over them is a fire closed in."
+    }
+   ]
+  },
+  {
+   "title": "Surah 91 · The Sun (ash-Shams)",
+   "no": 91,
+   "intro": "Oaths by the sun, the moon, the day, the night, the sky, the earth and the human soul lead up to one statement: whoever keeps his soul clean succeeds, and whoever ruins it fails. Thamud, destroyed for killing God's she-camel, is the example.",
+   "points": [
+    "Oaths by the sun, the moon, the day and the night",
+    "Whoever keeps his soul clean succeeds",
+    "Whoever ruins it fails",
+    "Thamud killed God's she-camel and were leveled"
+   ],
+   "verses": [
+    {
+     "h": "058e3574",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the sun and its morning light,"
+    },
+    {
+     "h": "938beb2f",
+     "en": "and by the moon as it follows it,"
+    },
+    {
+     "h": "450c3487",
+     "en": "and by the day as it displays it,"
+    },
+    {
+     "h": "53745fd5",
+     "en": "and by the night as it covers it,"
+    },
+    {
+     "h": "34c208ad",
+     "en": "and by the sky and the One who built it,",
+     "cmp": [
+      {
+       "w": "wamā banāhā",
+       "note": "第 5–7 节的 mā 有两种读法：「建造它的那一位」，或者「它的建造（这件事）」。白话和英文取前一种；取后一种就是「以天和天的建造起誓」。",
+       "en": "The mā in verses 5–7 can be read two ways: \"the One who built it,\" or \"its building\" (the act). Both translations take the first; the second would give \"by the sky and how it was built.\""
+      }
+     ]
+    },
+    {
+     "h": "472f4ec8",
+     "en": "and by the earth and the One who spread it,"
+    },
+    {
+     "h": "b957c205",
+     "en": "and by the soul and the One who shaped it"
+    },
+    {
+     "h": "b628c4dc",
+     "en": "and inspired it to know its wickedness and its piety:"
+    },
+    {
+     "h": "8086e0b0",
+     "en": "he has succeeded who purifies it,"
+    },
+    {
+     "h": "b8587e45",
+     "en": "and he has failed who buries it."
+    },
+    {
+     "h": "a1c6a310",
+     "en": "Thamud denied the truth in their overstepping,"
+    },
+    {
+     "h": "6b70aef0",
+     "en": "when the most wretched of them rose up."
+    },
+    {
+     "h": "986aa326",
+     "en": "The messenger of God said to them, \"The she-camel of God: let her have her drink!\""
+    },
+    {
+     "h": "77ee3213",
+     "en": "But they called him a liar and hamstrung her, so their Lord crushed them for their sin and leveled them,"
+    },
+    {
+     "h": "204a25fb",
+     "en": "and He does not fear its consequence."
+    }
+   ]
+  },
+  {
+   "title": "Surah 92 · The Night (al-Layl)",
+   "no": 92,
+   "intro": "People go different ways. For the one who gives and fears God the road gets easier; for the one who is stingy and thinks he needs no one it gets harder, and in the end his money cannot save him.",
+   "points": [
+    "Night and day, male and female: people go different ways",
+    "For the one who gives and fears God, the road gets easier",
+    "For the stingy and self-satisfied, it gets harder",
+    "In the end money cannot save him; the one who gave for God will be content"
+   ],
+   "verses": [
+    {
+     "h": "e2204406",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the night as it covers,"
+    },
+    {
+     "h": "c8366451",
+     "en": "and by the day as it shines forth,"
+    },
+    {
+     "h": "ac3be05e",
+     "en": "and by the One who created male and female:"
+    },
+    {
+     "h": "abf53d7c",
+     "en": "your strivings are truly diverse."
+    },
+    {
+     "h": "dcfe29ef",
+     "en": "As for the one who gives and is God-fearing"
+    },
+    {
+     "h": "5392101f",
+     "en": "and affirms the best,",
+     "cmp": [
+      {
+       "w": "al-ḥusnā",
+       "note": "ḥusnā 只是「最好的（那个）」，没说是什么。经注有说是最好的回报（乐园），有说是「除真主外没有神」这句话。白话在括号里补了「回报」，英文留着不补。",
+       "en": "Ḥusnā is simply \"the best (one),\" with no noun. Commentators say the best reward (the Garden), or the statement \"there is no god but God.\" The Chinese adds \"reward\" in brackets; the English leaves it open."
+      }
+     ]
+    },
+    {
+     "h": "cfd83b92",
+     "en": "We will ease him toward ease."
+    },
+    {
+     "h": "1dbdebf0",
+     "en": "But as for the one who is miserly and thinks he needs nothing"
+    },
+    {
+     "h": "a82c9f24",
+     "en": "and denies the best,"
+    },
+    {
+     "h": "ebbff4d6",
+     "en": "We will ease him toward hardship,"
+    },
+    {
+     "h": "59be891e",
+     "en": "and his wealth will not help him when he falls."
+    },
+    {
+     "h": "0ae3169f",
+     "en": "Guidance is surely Ours to give,"
+    },
+    {
+     "h": "0d6e690d",
+     "en": "and to Us belong the last life and the first."
+    },
+    {
+     "h": "537e3ff1",
+     "en": "So I have warned you of a raging Fire,"
+    },
+    {
+     "h": "d02e4836",
+     "en": "in which none will burn but the most wretched,"
+    },
+    {
+     "h": "f2007f54",
+     "en": "who denied and turned away."
+    },
+    {
+     "h": "bc908530",
+     "en": "But the most God-fearing will be kept far from it,"
+    },
+    {
+     "h": "179fdcc8",
+     "en": "who gives his wealth to purify himself,"
+    },
+    {
+     "h": "322c1478",
+     "en": "not as repayment for any favor owed to anyone,"
+    },
+    {
+     "h": "f463b87e",
+     "en": "but only seeking the face of his Lord, the Most High.",
+     "cmp": [
+      {
+       "w": "wajhi rabbihi",
+       "note": "字面是「他的主的脸」。「求某人的脸」是阿拉伯语的说法，意思是只求他本身、求他的喜悦。英文照字面留着 face，白话译成「喜悦」。",
+       "en": "Literally \"the face of his Lord.\" \"To seek someone's face\" is an Arabic idiom for seeking the person himself, his approval. The English keeps \"face\" literally; the Chinese renders it as 喜悦 (xǐyuè, \"good pleasure\")."
+      }
+     ]
+    },
+    {
+     "h": "a8ce994e",
+     "en": "And he will surely be satisfied."
+    }
+   ]
+  },
+  {
+   "title": "Surah 93 · The Morning Light (aḍ-Ḍuḥā)",
+   "no": 93,
+   "intro": "The revelations had paused for a while, and some mocked the Prophet: \"Your Lord has dropped you.\" This surah comforts him: your Lord has not left you, and what is coming is better. When you were an orphan, lost and poor, He looked after you, so be kind to the orphan and to anyone who asks for help.",
+   "points": [
+    "God swears by the morning and the night: He has not left you",
+    "When you were an orphan, He gave you shelter",
+    "When you were lost He guided you; when you were poor He provided",
+    "So do not wrong the orphan or turn away those who ask"
+   ],
+   "verses": [
+    {
+     "h": "1b800507",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the morning light,"
+    },
+    {
+     "h": "afe05eee",
+     "en": "and by the night when it grows still:"
+    },
+    {
+     "h": "b2542eb2",
+     "en": "your Lord has not left you, nor does He hate you.",
+     "cmp": [
+      {
+       "w": "mā waddaʿaka",
+       "note": "「你」是先知穆罕默德。传说启示中断了一阵子，有人讥笑说他的主丢下他了，这一章是回应。原文只有「你」，没有点名。",
+       "en": "\"You\" is the Prophet Muhammad. Tradition says the revelations paused for a time and some mocked that his Lord had abandoned him; this surah is the answer. The Arabic says only \"you\" and names no one."
+      }
+     ]
+    },
+    {
+     "h": "09f88fbe",
+     "en": "What comes after will surely be better for you than what came before.",
+     "cmp": [
+      {
+       "w": "al-ākhira",
+       "note": "al-ākhira 和 al-ūlā 字面是「后面的」和「前面的」。在古兰经里通常就是「后世」和「今世」；这里也可以读成「你往后的日子比先前的好」。白话和英文照字面译，两种读法都留着。",
+       "en": "Al-ākhira and al-ūlā are literally \"the later\" and \"the first.\" In the Quran they usually mean the life to come and this life; here they can also be read as \"your later days will be better than your earlier ones.\" Both translations stay literal and keep both readings open."
+      }
+     ]
+    },
+    {
+     "h": "ee901ea6",
+     "en": "Your Lord will surely give to you, and you will be satisfied."
+    },
+    {
+     "h": "bbb94332",
+     "en": "Did He not find you an orphan and give you shelter?"
+    },
+    {
+     "h": "17ba4898",
+     "en": "And find you lost and guide you?"
+    },
+    {
+     "h": "04eabd83",
+     "en": "And find you in need and make you self-sufficient?"
+    },
+    {
+     "h": "b8b0e3b3",
+     "en": "So as for the orphan, do not oppress him;"
+    },
+    {
+     "h": "07986a0f",
+     "en": "and as for the one who asks, do not drive him away;"
+    },
+    {
+     "h": "93eaaf4f",
+     "en": "and as for the favor of your Lord, speak of it."
+    }
+   ]
+  },
+  {
+   "title": "Surah 94 · The Opening of the Breast (ash-Sharḥ)",
+   "no": 94,
+   "intro": "More comfort for the Prophet: God has eased your heart, taken the load off your back and made your name honored. Remember that where there is hardship there is also a way through. When your work is done, turn wholly to your Lord.",
+   "points": [
+    "God lifted the burden from your back",
+    "and made your name honored",
+    "With hardship comes ease",
+    "When your work is done, turn wholly to your Lord"
+   ],
+   "verses": [
+    {
+     "h": "a2196734",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Did We not open up your breast for you,",
+     "cmp": [
+      {
+       "w": "nashraḥ laka ṣadraka",
+       "note": "「敞开胸膛」是阿拉伯语的说法，意思是让心里宽舒、能装得下事。白话和英文都照字面译。",
+       "en": "\"To open the breast\" is an Arabic idiom for giving someone ease of heart and room to bear things. Both translations keep it literal."
+      }
+     ]
+    },
+    {
+     "h": "c264ee59",
+     "en": "and lift from you your burden"
+    },
+    {
+     "h": "3861e68c",
+     "en": "that weighed down your back,"
+    },
+    {
+     "h": "aaaf1dbb",
+     "en": "and raise high your renown?"
+    },
+    {
+     "h": "29c722cf",
+     "en": "So truly, with hardship comes ease.",
+     "cmp": [
+      {
+       "w": "maʿa",
+       "note": "原文用的是 maʿa（和……在一起），不是 baʿda（在……之后）：容易是跟着困难一起来的，不是等困难过完才来。英文 with 保住了这一点，白话写成「跟着来」。",
+       "en": "The Arabic uses maʿa (\"together with\"), not baʿda (\"after\"): ease comes along with hardship, not only once hardship is over. English \"with\" keeps this; the Chinese says \"ease comes along with it.\""
+      }
+     ]
+    },
+    {
+     "h": "b6fb2701",
+     "en": "Truly, with hardship comes ease."
+    },
+    {
+     "h": "efef5e76",
+     "en": "So when you are free, toil on,"
+    },
+    {
+     "h": "4ef65029",
+     "en": "and to your Lord turn your longing."
+    }
+   ]
+  },
+  {
+   "title": "Surah 95 · The Fig (at-Tīn)",
+   "no": 95,
+   "intro": "God made man in the finest form, yet man (if he neither believes nor does good) falls to the lowest place. Only those who believe and do good are the exception.",
+   "points": [
+    "Oaths by the fig, the olive, Mount Sinai and Mecca",
+    "God made man in the finest form",
+    "Without faith and good deeds he falls to the lowest place",
+    "God is the most just of judges"
+   ],
+   "verses": [
+    {
+     "h": "6068f53c",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the fig and the olive,"
+    },
+    {
+     "h": "fb87cf0e",
+     "en": "and by Mount Sinai,"
+    },
+    {
+     "h": "a7fed25f",
+     "en": "and by this secure city:"
+    },
+    {
+     "h": "860152ad",
+     "en": "We created man in the finest form,"
+    },
+    {
+     "h": "15e41d42",
+     "en": "then We reduced him to the lowest of the low,"
+    },
+    {
+     "h": "2d6a3de8",
+     "en": "except those who believe and do good deeds: for them there is a reward that never ends."
+    },
+    {
+     "h": "88847ad3",
+     "en": "So what, after this, can make you deny the Judgment?",
+     "cmp": [
+      {
+       "w": "yukadhdhibuka",
+       "note": "这一句有两种读法：对人说「还有什么能让你否认清算」，或者对先知说「还有谁能在清算这件事上说你撒谎」。白话和英文取前一种。",
+       "en": "This line can be read two ways: to man, \"what can still make you deny the Judgment,\" or to the Prophet, \"who can still call you a liar about the Judgment.\" Both translations take the first."
+      }
+     ]
+    },
+    {
+     "h": "44062ce1",
+     "en": "Is God not the most just of judges?"
+    }
+   ]
+  },
+  {
+   "title": "Surah 96 · The Clinging Clot (al-ʿAlaq)",
+   "no": 96,
+   "intro": "By tradition the first five verses were the earliest revelation Muhammad received: \"Read!\" God made man and taught him to learn with the pen. The second half rebukes a man who tried to stop someone from praying, and tells the Prophet to ignore him and keep bowing down.",
+   "points": [
+    "\"Read!\" — the first revelation",
+    "God taught man by the pen what he did not know",
+    "Once man thinks he needs nothing, he breaks all bounds",
+    "Ignore the one who blocks you; bow down and draw near"
+   ],
+   "verses": [
+    {
+     "h": "5b051253",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Read! In the name of your Lord who created,",
+     "cmp": [
+      {
+       "w": "iqraʾ",
+       "note": "iqraʾ 是「念出声来」，可以是照着字读，也可以是背诵；「古兰」（qurʾān）就是从这个词根来的。按传统说法，这一章的头五节是穆罕默德在希拉山洞里最早得到的启示。英文 Read 偏向看着字读，白话「读」也一样。",
+       "en": "Iqraʾ is \"say aloud,\" whether reading from writing or reciting from memory; the word qurʾān comes from this root. By tradition the first five verses of this surah were the earliest revelation Muhammad received, in the cave of Hira. English \"Read\" and Chinese 读 (dú, \"read\") both lean toward reading from a page."
+      }
+     ]
+    },
+    {
+     "h": "4247f2b7",
+     "en": "created man from a clinging clot.",
+     "cmp": [
+      {
+       "w": "ʿalaq",
+       "note": "ʿalaq 的本义是「挂着、粘附着的东西」，可以指凝结的血块，也指水蛭。白话译「凝结的血」，英文 clinging clot 想把「粘附」和「血块」都留住。",
+       "en": "ʿAlaq literally means \"something that hangs on or clings\"; it can be a clot of congealed blood, and also a leech. The Chinese says 凝结的血 (níngjié de xuè, \"congealed blood\"); the English \"clinging clot\" tries to keep both \"clinging\" and \"clot.\""
+      }
+     ]
+    },
+    {
+     "h": "b07daa63",
+     "en": "Read! And your Lord is the Most Generous,"
+    },
+    {
+     "h": "7be65721",
+     "en": "who taught by the pen,"
+    },
+    {
+     "h": "15808592",
+     "en": "taught man what he did not know."
+    },
+    {
+     "h": "99ba18d8",
+     "en": "No! Man does overstep all bounds"
+    },
+    {
+     "h": "458a9f64",
+     "en": "when he sees himself as needing nothing."
+    },
+    {
+     "h": "321ba380",
+     "en": "Surely to your Lord is the return."
+    },
+    {
+     "h": "ab6f3116",
+     "en": "Have you seen the one who forbids"
+    },
+    {
+     "h": "ebcf6fea",
+     "en": "a servant when he prays?"
+    },
+    {
+     "h": "f73ea536",
+     "en": "Have you considered: what if he is on right guidance,"
+    },
+    {
+     "h": "911eed48",
+     "en": "or urges piety?"
+    },
+    {
+     "h": "7b0275ff",
+     "en": "Have you considered: what if that one denies and turns away?"
+    },
+    {
+     "h": "dc874401",
+     "en": "Does he not know that God sees?"
+    },
+    {
+     "h": "efd37183",
+     "en": "No! If he does not stop, We will seize him by the forelock,"
+    },
+    {
+     "h": "251762b4",
+     "en": "a lying, sinful forelock."
+    },
+    {
+     "h": "7baf2224",
+     "en": "So let him call his gang;"
+    },
+    {
+     "h": "b186abe9",
+     "en": "We will call the guards of Hell.",
+     "cmp": [
+      {
+       "w": "az-zabāniya",
+       "note": "zabāniya 字面是「猛推的人」，只在这里出现。经注说是把人推进火狱的天使。白话和英文都把这层解释译了进去。",
+       "en": "Zabāniya literally means \"those who thrust violently,\" and occurs only here. Commentators say they are the angels who thrust people into Hell. Both translations build that explanation in."
+      }
+     ]
+    },
+    {
+     "h": "a242d1ee",
+     "en": "No! Do not obey him. Bow down, and draw near.",
+     "cmp": [
+      {
+       "w": "wasjud",
+       "note": "原文这一节末尾有叩头记号（۩）：按传统，念到或听到这里的人要叩一次头。",
+       "en": "The Arabic text carries a prostration mark (۩) at the end of this verse: by tradition, whoever recites or hears it prostrates once."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Surah 97 · The Night of Decree (al-Qadr)",
+   "no": 97,
+   "intro": "The Quran began to be sent down on the Night of Decree. That one night is better than a thousand months: the angels come down on it, and it is peace until dawn.",
+   "points": [
+    "The Quran was sent down on the Night of Decree",
+    "That one night is better than a thousand months",
+    "The angels come down with every command",
+    "It is peace until dawn"
+   ],
+   "verses": [
+    {
+     "h": "76432f11",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. We sent it down on the Night of Decree.",
+     "cmp": [
+      {
+       "w": "laylat al-qadr",
+       "note": "qadr 同时有「定夺、分量、能力」几层意思：这一夜是定下事情的夜，也是分量极重的夜。白话取「定夺」，英文取 Decree；也有人译「尊贵之夜」「大能之夜」（Night of Power）。「它」指古兰经，原文只用代词。",
+       "en": "Qadr carries \"decree,\" \"worth\" and \"power\" at once: this is the night on which things are decreed, and a night of great weight. The Chinese takes 定夺 (dìngduó, \"deciding\") and the English \"Decree\"; others say \"Night of Power\" or \"Night of Glory.\" \"It\" is the Quran; the Arabic uses only a pronoun."
+      }
+     ]
+    },
+    {
+     "h": "9d54376e",
+     "en": "And what will make you know what the Night of Decree is?"
+    },
+    {
+     "h": "447dd0ff",
+     "en": "The Night of Decree is better than a thousand months."
+    },
+    {
+     "h": "8aea8552",
+     "en": "On it the angels and the Spirit come down by their Lord's leave, with every command."
+    },
+    {
+     "h": "12633f0d",
+     "en": "Peace it is, until the rising of the dawn."
+    }
+   ]
+  },
+  {
+   "title": "Surah 98 · The Clear Proof (al-Bayyina)",
+   "no": 98,
+   "intro": "The disbelievers among the Jews, the Christians and the idolaters were waiting for clear proof, and now it has come: a messenger reciting scripture. What God asks is simple: worship Him alone, pray, and give to the poor. Those who believe and do good are the best of creatures, and those who disbelieve the worst.",
+   "points": [
+    "The clear proof has come: a messenger reciting scripture",
+    "The command is simple: worship God alone and pray",
+    "Give to help the poor",
+    "Those who believe and do good are the best; those who disbelieve the worst"
+   ],
+   "verses": [
+    {
+     "h": "6a503024",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Those who disbelieved among the People of the Book and the idolaters were not going to leave off until the clear proof came to them:",
+     "cmp": [
+      {
+       "w": "ahl al-kitāb",
+       "note": "「有经的人」（ahl al-kitāb）指先前得到过经书的民族，主要是犹太人和基督徒。mushrikīn 字面是「给真主配上同伴的人」，白话译「拜偶像的人」，英文 idolaters，都比原文窄。",
+       "en": "\"People of the Book\" (ahl al-kitāb) are the communities given scripture earlier, chiefly Jews and Christians. Mushrikīn is literally \"those who give God partners\"; Chinese 拜偶像的人 (bài ǒuxiàng de rén, \"idol-worshippers\") and English \"idolaters\" are both narrower than the Arabic."
+      }
+     ]
+    },
+    {
+     "h": "ff172896",
+     "en": "a messenger from God, reciting purified pages"
+    },
+    {
+     "h": "1bf2d958",
+     "en": "in which are upright writings."
+    },
+    {
+     "h": "d48d6e88",
+     "en": "And those who were given the Book did not split apart until after the clear proof had come to them."
+    },
+    {
+     "h": "9ba3a8e2",
+     "en": "They were commanded only to worship God, devoting religion to Him alone, as people of pure faith, and to keep up the prayer and give the alms. That is the upright religion.",
+     "cmp": [
+      {
+       "w": "az-zakāt",
+       "note": "zakāt 的词根是「洁净、增长」：从财产里按规定拿出一份给穷人，剩下的才算洁净。中文穆斯林叫「天课」，英文这里写 alms（施舍），都听不出「洁净」这层。",
+       "en": "The root of zakāt is \"purity, growth\": a set share of one's wealth is given to the poor, and what remains is thereby made clean. Chinese Muslims call it 天课 (tiānkè, \"heaven's levy\"); the English here says \"alms.\" Neither carries the sense of \"purifying.\""
+      }
+     ]
+    },
+    {
+     "h": "d8b52d25",
+     "en": "Those who disbelieved among the People of the Book and the idolaters will be in the fire of Hell, to remain in it forever. They are the worst of creatures."
+    },
+    {
+     "h": "2b0ebba6",
+     "en": "Those who believe and do good deeds, they are the best of creatures."
+    },
+    {
+     "h": "f9af960f",
+     "en": "Their reward with their Lord is gardens of lasting stay with rivers flowing beneath them, to remain in them forever. God is pleased with them and they are pleased with Him. That is for whoever fears his Lord."
+    }
+   ]
+  },
+  {
+   "title": "Surah 99 · The Earthquake (az-Zalzala)",
+   "no": 99,
+   "intro": "On the Last Day the earth quakes, throws out what is buried in it, and \"tells\" what happened on it. Everyone will see what he did, even a good or bad deed as small as a speck of dust.",
+   "points": [
+    "On the Last Day the earth shakes violently",
+    "The earth throws up what is buried and tells what happened on it",
+    "People come out in groups to see what they did",
+    "Even a good or bad deed as small as dust will be seen"
+   ],
+   "verses": [
+    {
+     "h": "6c7c41eb",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. When the earth is shaken with its quaking,"
+    },
+    {
+     "h": "7d637dc6",
+     "en": "and the earth brings out its burdens,"
+    },
+    {
+     "h": "38670262",
+     "en": "and man says, \"What is the matter with it?\""
+    },
+    {
+     "h": "8622c0ce",
+     "en": "on that day it will tell its news,"
+    },
+    {
+     "h": "fb24239f",
+     "en": "because your Lord has inspired it."
+    },
+    {
+     "h": "b8a04939",
+     "en": "On that day people will come out in scattered groups to be shown their deeds."
+    },
+    {
+     "h": "34c8c083",
+     "en": "Whoever has done an atom's weight of good will see it,",
+     "cmp": [
+      {
+       "w": "dharra",
+       "note": "dharra 是当时人能想到的最小的东西：一只小蚂蚁，或者阳光里飘的一粒尘。英文惯译 atom，是借了后来的词；白话译「一粒灰尘」。",
+       "en": "Dharra was the smallest thing people of the time could think of: a tiny ant, or a speck of dust floating in sunlight. English conventionally says \"atom,\" borrowing a later word; the Chinese says 一粒灰尘 (yí lì huīchén, \"a speck of dust\")."
+      }
+     ]
+    },
+    {
+     "h": "28f22f12",
+     "en": "and whoever has done an atom's weight of evil will see it."
+    }
+   ]
+  },
+  {
+   "title": "Surah 100 · The Chargers (al-ʿĀdiyāt)",
+   "no": 100,
+   "intro": "Opening with war horses at the charge, the surah names two human faults: ingratitude to the Lord and too much love of money. Does man not know that those in the graves will be brought out and what is hidden in hearts laid bare?",
+   "points": [
+    "An oath by the war horses charging at dawn in a cloud of dust",
+    "Man is ungrateful to his Lord and loves money too much",
+    "Those in the graves will all be brought out",
+    "What hearts hide will be laid bare; the Lord knows it all"
+   ],
+   "verses": [
+    {
+     "h": "38eb811b",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By the chargers, panting,",
+     "cmp": [
+      {
+       "w": "al-ʿādiyāt",
+       "note": "头五节又是一串没有主语的阴性分词：「奔驰的、迸火星的、突袭的」。经注多半说是冲锋的战马，也有说是朝觐路上的骆驼。英文 chargers 已经选了战马；白话在括号里写了「战马」。",
+       "en": "The first five verses are again a string of feminine participles with no subject: \"running, striking sparks, raiding.\" Most commentators say war horses at the charge; some say the camels of the pilgrimage. English \"chargers\" has already chosen horses; the Chinese adds \"war horses\" in brackets."
+      }
+     ]
+    },
+    {
+     "h": "42838ee3",
+     "en": "striking sparks with their hooves,"
+    },
+    {
+     "h": "dfa9ff23",
+     "en": "raiding at dawn,"
+    },
+    {
+     "h": "1c2adc14",
+     "en": "raising a cloud of dust,"
+    },
+    {
+     "h": "17941758",
+     "en": "plunging into the midst of the host:"
+    },
+    {
+     "h": "90d50f70",
+     "en": "man is truly ungrateful to his Lord,"
+    },
+    {
+     "h": "1d350419",
+     "en": "and he himself is witness to that,"
+    },
+    {
+     "h": "c62ac8e3",
+     "en": "and he is fierce in his love of wealth.",
+     "cmp": [
+      {
+       "w": "al-khayr",
+       "note": "原文写的是 khayr，字面是「好东西」，在这里指钱财。白话和英文都直接译成「钱财」。",
+       "en": "The Arabic word is khayr, literally \"good things,\" here meaning wealth. Both translations say \"wealth\" directly."
+      }
+     ]
+    },
+    {
+     "h": "553c97e4",
+     "en": "Does he not know that when what is in the graves is turned out,"
+    },
+    {
+     "h": "083b74e5",
+     "en": "and what is in the breasts is brought to light,"
+    },
+    {
+     "h": "bdefed98",
+     "en": "their Lord that day will know all about them?"
+    }
+   ]
+  },
+  {
+   "title": "Surah 101 · The Crashing Blow (al-Qāriʿa)",
+   "no": 101,
+   "intro": "\"The Crashing Blow\" is a name for the Last Day. That day people will be like moths flying everywhere and the mountains like fluffed wool. Those whose good deeds weigh heavy will live well; those whose deeds weigh light will fall into a pit of fire.",
+   "points": [
+    "The Crashing Blow: the Last Day arrives",
+    "People are like scattered moths, mountains like fluffed wool",
+    "Those whose good deeds weigh heavy live well",
+    "Those whose deeds weigh light fall into a pit of fire"
+   ],
+   "verses": [
+    {
+     "h": "ae7989c2",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. The Crashing Blow!",
+     "cmp": [
+      {
+       "w": "al-qāriʿa",
+       "note": "qāriʿa 是「敲击的、撞击的」，一个阴性分词，后来成了末日的一个名字。同样的造法还有「笼罩的」（第 88 章）、「震耳的巨响」（80:33）、「压倒一切的」（79:34）。",
+       "en": "Qāriʿa is \"the one that strikes, that crashes,\" a feminine participle that became a name for the Last Day. Built the same way are \"the Overwhelming\" (Surah 88), \"the deafening Blast\" (80:33) and \"the great overwhelming event\" (79:34)."
+      }
+     ]
+    },
+    {
+     "h": "2b807ebf",
+     "en": "What is the Crashing Blow?"
+    },
+    {
+     "h": "819e64b8",
+     "en": "And what will make you know what the Crashing Blow is?"
+    },
+    {
+     "h": "97ce50d9",
+     "en": "The day when people will be like scattered moths,"
+    },
+    {
+     "h": "e42c0a19",
+     "en": "and the mountains like tufts of carded wool."
+    },
+    {
+     "h": "7df19e2a",
+     "en": "Then as for the one whose scales are heavy,"
+    },
+    {
+     "h": "0dc79c1b",
+     "en": "he will be in a pleasing life;"
+    },
+    {
+     "h": "67ee4ebb",
+     "en": "but as for the one whose scales are light,"
+    },
+    {
+     "h": "d25d5277",
+     "en": "his home will be the Pit.",
+     "cmp": [
+      {
+       "w": "ummuhu hāwiya",
+       "note": "字面是「他的母亲是深渊」。「母亲」在这里是「收容他、他要投奔的地方」；也有人读成咒骂的话「他的母亲没了孩子」，即「他完了」。白话译成「要去的地方」，英文译 home。",
+       "en": "Literally \"his mother is the Pit.\" \"Mother\" here is the place that takes him in, the one he must go to; some read it instead as a curse, \"his mother is bereft,\" meaning \"he is done for.\" The Chinese says \"the place he is headed for\" and the English \"home.\""
+      }
+     ]
+    },
+    {
+     "h": "396724dc",
+     "en": "And what will make you know what it is?"
+    },
+    {
+     "h": "fb2e7340",
+     "en": "A scorching fire."
+    }
+   ]
+  },
+  {
+   "title": "Surah 102 · Rivalry for More (at-Takāthur)",
+   "no": 102,
+   "intro": "You are busy competing over who has more wealth and more people, right up to the grave. One day you will see the fire with your own eyes, and you will be asked what you did with the pleasures you were given.",
+   "points": [
+    "You are busy competing for more wealth and more people",
+    "all the way to the grave",
+    "One day you will see the fire with your own eyes",
+    "and be asked what you did with the pleasures you were given"
+   ],
+   "verses": [
+    {
+     "h": "653e2ceb",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Rivalry for more has distracted you"
+    },
+    {
+     "h": "4eeb31ce",
+     "en": "until you visit the graves.",
+     "cmp": [
+      {
+       "w": "zurtum al-maqābir",
+       "note": "字面是「直到你们探访了坟墓」。用「探访」这个词，是把死说成一次做客：进去了，还要再出来。白话译「进了坟墓」，这层意思没了；英文留着 visit。",
+       "en": "Literally \"until you have visited the graves.\" The word \"visit\" makes death a call paid on someone: you go in, and you will come out again. The Chinese \"entered the graves\" loses this; the English keeps \"visit.\""
+      }
+     ]
+    },
+    {
+     "h": "b353ef4b",
+     "en": "No! You will come to know."
+    },
+    {
+     "h": "dfeba5ae",
+     "en": "Again, no! You will come to know."
+    },
+    {
+     "h": "2576499d",
+     "en": "No! If only you knew with the knowledge of certainty."
+    },
+    {
+     "h": "65ae8c15",
+     "en": "You will surely see the Blaze;"
+    },
+    {
+     "h": "108cb21c",
+     "en": "then you will surely see it with the eye of certainty."
+    },
+    {
+     "h": "ddc42056",
+     "en": "Then on that day you will surely be asked about the pleasures."
+    }
+   ]
+  },
+  {
+   "title": "Surah 103 · Time (al-ʿAṣr)",
+   "no": 103,
+   "intro": "A very short surah: time is passing and everyone is losing, except through four things: faith, good deeds, urging one another to truth, and urging one another to patience.",
+   "points": [
+    "Time passes and everyone is losing",
+    "except those who believe",
+    "do good deeds",
+    "and urge one another to truth and to patience"
+   ],
+   "verses": [
+    {
+     "h": "1656955c",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. By time,",
+     "cmp": [
+      {
+       "w": "al-ʿaṣr",
+       "note": "ʿaṣr 可以是「时光、时代」，也可以专指「下午将尽的那段时间」，下午的礼拜就叫这个名字。白话和英文取「时光」。",
+       "en": "ʿAṣr can be \"time, the age,\" or specifically \"the late afternoon,\" the name also given to the afternoon prayer. Both translations take \"time.\""
+      }
+     ]
+    },
+    {
+     "h": "d4be3743",
+     "en": "man is surely in loss,"
+    },
+    {
+     "h": "faa3c8d4",
+     "en": "except those who believe and do good deeds, and urge one another to truth, and urge one another to patience."
+    }
+   ]
+  },
+  {
+   "title": "Surah 104 · The Slanderer (al-Humaza)",
+   "no": 104,
+   "intro": "A rebuke to the kind of person who cuts others down with his tongue and piles up money to count. He thinks wealth will keep him alive forever; in fact he will be thrown into a fire that crushes everything.",
+   "points": [
+    "Woe to those who mock to the face and slander behind the back",
+    "He piles up money and counts it, thinking it will keep him alive",
+    "He will be thrown into the fire that crushes everything"
+   ],
+   "verses": [
+    {
+     "h": "34210ad0",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Woe to every slanderer and backbiter,"
+    },
+    {
+     "h": "ab779fd9",
+     "en": "who gathers wealth and counts it over,"
+    },
+    {
+     "h": "01944a11",
+     "en": "thinking that his wealth will make him live forever."
+    },
+    {
+     "h": "6d753f55",
+     "en": "No! He will surely be flung into the Crusher."
+    },
+    {
+     "h": "4b0d929f",
+     "en": "And what will make you know what the Crusher is?"
+    },
+    {
+     "h": "337a3386",
+     "en": "The fire of God, kindled,"
+    },
+    {
+     "h": "c24fc465",
+     "en": "which rises over the hearts."
+    },
+    {
+     "h": "9db00a04",
+     "en": "It is closed in over them,"
+    },
+    {
+     "h": "bb949a13",
+     "en": "in towering columns."
+    }
+   ]
+  },
+  {
+   "title": "Surah 105 · The Elephant (al-Fīl)",
+   "no": 105,
+   "intro": "An event every Meccan knew: an army with an elephant marched on Mecca (by tradition in the year Muhammad was born), and God sent flocks of birds that broke it with small stones of clay.",
+   "points": [
+    "An army with an elephant marched on Mecca",
+    "God sent flocks of birds that pelted them with clay stones",
+    "The army was left like chewed-up straw"
+   ],
+   "verses": [
+    {
+     "h": "237a528d",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Have you not seen how your Lord dealt with the people of the elephant?",
+     "cmp": [
+      {
+       "w": "aṣḥāb al-fīl",
+       "note": "「带象的人」，按传统说法是也门的统治者艾卜赖海带着战象来攻打麦加的军队，时间大约在公元 570 年，传说就是穆罕默德出生的那一年。原文没有写这些。",
+       "en": "\"The people of the elephant\" are, by tradition, the army that Abraha, ruler of Yemen, led against Mecca with a war elephant around 570 CE, said to be the year Muhammad was born. None of this is in the text itself."
+      }
+     ]
+    },
+    {
+     "h": "3f857f6e",
+     "en": "Did He not make their scheme go astray?"
+    },
+    {
+     "h": "da8f09d3",
+     "en": "He sent against them birds in flocks,"
+    },
+    {
+     "h": "d35fbad4",
+     "en": "pelting them with stones of baked clay,"
+    },
+    {
+     "h": "f67c04e0",
+     "en": "and He made them like chewed-up straw."
+    }
+   ]
+  },
+  {
+   "title": "Surah 106 · Quraysh (Quraysh)",
+   "no": 106,
+   "intro": "Quraysh, the tribe of Mecca, travel safely on their winter and summer trading journeys thanks to the Lord of the Kaaba. So they should worship Him, who feeds them and keeps them from fear.",
+   "points": [
+    "Quraysh travel safely on their winter and summer trade journeys",
+    "So they should worship the Lord of the Kaaba",
+    "who feeds them and keeps them from fear"
+   ],
+   "verses": [
+    {
+     "h": "2c9e0833",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. For the security of Quraysh,",
+     "cmp": [
+      {
+       "w": "īlāf",
+       "note": "īlāf 是「习惯、相熟」，也指保障商队平安往来的约定。古莱什是掌管麦加和天房的部族，穆罕默德就出身于它。白话译「安安稳稳」，英文只写 security。",
+       "en": "Īlāf is \"being accustomed, at home with,\" and also the pacts that kept the caravans safe. Quraysh was the tribe that held Mecca and its sanctuary, Muhammad's own tribe. The Chinese says \"safe and settled\"; the English says only \"security.\""
+      }
+     ]
+    },
+    {
+     "h": "da0e54ae",
+     "en": "their security in the winter and summer journeys,"
+    },
+    {
+     "h": "9bf63893",
+     "en": "let them worship the Lord of this House,",
+     "cmp": [
+      {
+       "w": "al-bayt",
+       "note": "「这座房子」是麦加的克尔白，中文穆斯林叫「天房」。原文只说「这座房子」。",
+       "en": "\"This House\" is the Kaaba in Mecca, which Chinese Muslims call 天房 (Tiānfáng, \"the Heavenly House\"). The Arabic says only \"this house.\""
+      }
+     ]
+    },
+    {
+     "h": "02d40394",
+     "en": "who has fed them against hunger and made them safe from fear."
+    }
+   ]
+  },
+  {
+   "title": "Surah 107 · Small Kindnesses (al-Māʿūn)",
+   "no": 107,
+   "intro": "What does someone who denies the Judgment look like? He pushes the orphan aside and does nothing for the poor. And there are those whose prayer is only for show and who will not do even a small favor; woe to them too.",
+   "points": [
+    "The one who denies the Judgment pushes the orphan away and ignores the poor",
+    "Some pray only for show, with their minds elsewhere",
+    "and will not even lend a small thing or do a small favor"
+   ],
+   "verses": [
+    {
+     "h": "bb59f939",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Have you seen the one who denies the Judgment?"
+    },
+    {
+     "h": "df9ed13c",
+     "en": "That is the one who pushes the orphan away"
+    },
+    {
+     "h": "7a2b9882",
+     "en": "and does not urge the feeding of the poor."
+    },
+    {
+     "h": "ed3f7932",
+     "en": "So woe to those who pray"
+    },
+    {
+     "h": "46891dab",
+     "en": "but are heedless of their prayer,"
+    },
+    {
+     "h": "cabd9647",
+     "en": "those who make a show"
+    },
+    {
+     "h": "1276c88d",
+     "en": "and withhold even small kindnesses.",
+     "cmp": [
+      {
+       "w": "al-māʿūn",
+       "note": "māʿūn 是邻居之间互相借用的日常小东西：锅、水桶、斧子、一点盐。连这个都不肯借，是小气到了头。白话译「举手之劳的事」，英文 small kindnesses。",
+       "en": "Māʿūn is the everyday things neighbors lend one another: a pot, a bucket, an axe, a pinch of salt. To refuse even that is meanness at its limit. The Chinese says \"something that costs no more than lifting a hand\"; the English, \"small kindnesses.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Surah 108 · Abundance (al-Kawthar)",
+   "no": 108,
+   "intro": "The shortest surah, a comfort to the Prophet: God has given you a great deal. Some mock you for having no son to carry on your line; it is the one who hates you who is really cut off.",
+   "points": [
+    "God has given you a great deal",
+    "So pray to your Lord and sacrifice",
+    "It is the one who hates you who is cut off"
+   ],
+   "verses": [
+    {
+     "h": "765a3b90",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. We have given you abundance.",
+     "cmp": [
+      {
+       "w": "al-kawthar",
+       "note": "kawthar 出自「多」（kathīr）这个词根，意思是「极多、丰盛」。圣训里说它也是乐园里一条河的名字。白话和英文都取本义。",
+       "en": "Kawthar comes from the root of kathīr, \"much,\" and means \"great plenty.\" The hadith also give it as the name of a river in the Garden. Both translations take the root sense."
+      }
+     ]
+    },
+    {
+     "h": "091db5c6",
+     "en": "So pray to your Lord and sacrifice."
+    },
+    {
+     "h": "97f19908",
+     "en": "It is the one who hates you who is cut off.",
+     "cmp": [
+      {
+       "w": "al-abtar",
+       "note": "abtar 字面是「被截断的、断了尾巴的」，用来骂没有儿子传后的人。传说穆罕默德的儿子夭折后，有人这样讥笑他，这一节是把话还回去。",
+       "en": "Abtar is literally \"cut short, dock-tailed,\" a taunt for a man with no son to carry on his line. Tradition says Muhammad was mocked this way after his sons died in infancy; this verse turns the word back on the mocker."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Surah 109 · The Disbelievers (al-Kāfirūn)",
+   "no": 109,
+   "intro": "The Meccans proposed a deal: you worship our gods for a year and we will worship your Lord for a year. This surah is the answer: no. Each keeps to his own religion, and neither forces the other.",
+   "points": [
+    "I worship God alone, not what you worship",
+    "You have your religion and I have mine"
+   ],
+   "verses": [
+    {
+     "h": "1f4bac55",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Say, \"O disbelievers!",
+     "cmp": [
+      {
+       "w": "al-kāfirūn",
+       "note": "kāfir 的词根是「遮盖」：把真相遮起来的人，也指不领恩情的人（80:17 的「不知感恩」就是这个词根）。白话译「不信的人」，英文 disbelievers，都只留了后来的意思。",
+       "en": "The root of kāfir is \"to cover\": one who covers over the truth, and also one who is ungrateful for a favor (the \"ungrateful\" of 80:17 is this root). Chinese 不信的人 (bú xìn de rén, \"those who do not believe\") and English \"disbelievers\" keep only the later sense."
+      }
+     ]
+    },
+    {
+     "h": "8cf2ddd6",
+     "en": "I do not worship what you worship,"
+    },
+    {
+     "h": "2a3512f0",
+     "en": "nor do you worship what I worship;"
+    },
+    {
+     "h": "3ec695e5",
+     "en": "nor will I worship what you have worshipped,"
+    },
+    {
+     "h": "2a3512f0",
+     "en": "nor will you worship what I worship."
+    },
+    {
+     "h": "ad898cba",
+     "en": "You have your religion, and I have mine.\""
+    }
+   ]
+  },
+  {
+   "title": "Surah 110 · Help (an-Naṣr)",
+   "no": 110,
+   "intro": "When God's help and the victory come and people join the faith in crowds, what the Prophet should do is praise his Lord and ask His forgiveness.",
+   "points": [
+    "God's help and the victory have come",
+    "People are entering God's religion in crowds",
+    "Now praise your Lord and ask His forgiveness"
+   ],
+   "verses": [
+    {
+     "h": "bf624560",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. When God's help comes, and the victory,",
+     "cmp": [
+      {
+       "w": "al-fatḥ",
+       "note": "fatḥ 字面是「打开」，引申为攻克、胜利。经注多半说这里指公元 630 年穆斯林进入麦加。",
+       "en": "Fatḥ is literally \"opening,\" and by extension conquest or victory. Most commentators take it here as the Muslims' entry into Mecca in 630 CE."
+      }
+     ]
+    },
+    {
+     "h": "2110753e",
+     "en": "and you see people entering God's religion in crowds,"
+    },
+    {
+     "h": "622d1334",
+     "en": "then glorify your Lord with praise and ask His forgiveness. He is ever ready to accept repentance."
+    }
+   ]
+  },
+  {
+   "title": "Surah 111 · The Palm-Fiber Rope (al-Masad)",
+   "no": 111,
+   "intro": "Abu Lahab was the Prophet's uncle and led the opposition to him, and his wife joined in. This surah says both will be punished, and their wealth will not save them.",
+   "points": [
+    "Abu Lahab led the opposition to the Prophet",
+    "His wealth and all he earned cannot save him",
+    "He and his wife, who joined in, will enter the fire"
+   ],
+   "verses": [
+    {
+     "h": "bf60da0e",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. May the hands of Abu Lahab perish! And perish he did.",
+     "cmp": [
+      {
+       "w": "Abū Lahab",
+       "note": "艾布·赖海卜是穆罕默德的伯父，带头反对他。这是外号，意思是「火焰之父」；第 3 节「有烈焰（lahab）的火」正是拿他的名字做文章，中文和英文都译不出来。同一个动词 tabba 用了两次：前一次是诅咒，后一次可以读成诅咒，也可以读成「他已经毁了」，白话和英文取后一种。",
+       "en": "Abu Lahab was Muhammad's uncle and a leader of the opposition to him. The name is a nickname meaning \"Father of Flame\"; the \"fire of blazing flame (lahab)\" in verse 3 plays on it, which neither translation can reproduce. The verb tabba is used twice: the first is a curse, the second can be a curse or a statement, \"he has perished.\" Both translations take the statement."
+      }
+     ]
+    },
+    {
+     "h": "6c4990d0",
+     "en": "His wealth and what he earned did not help him."
+    },
+    {
+     "h": "95367ad8",
+     "en": "He will burn in a fire of blazing flame,"
+    },
+    {
+     "h": "1318473b",
+     "en": "and his wife too, the carrier of firewood,"
+    },
+    {
+     "h": "4c99eb21",
+     "en": "with a rope of palm fiber around her neck."
+    }
+   ]
+  },
+  {
+   "title": "Surah 112 · Pure Devotion (al-Ikhlāṣ)",
+   "no": 112,
+   "intro": "Four lines that say what God is: He is one; everything depends on Him; He has no child and no parent; nothing can be compared to Him.",
+   "points": [
+    "God is one",
+    "Everything depends on Him",
+    "He has no child and no parent; nothing compares to Him"
+   ],
+   "verses": [
+    {
+     "h": "476c81f2",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Say, \"He is God, One.",
+     "cmp": [
+      {
+       "w": "aḥad",
+       "note": "这里用的是 aḥad，不是平常数数的 wāḥid（一个）：aḥad 是「唯一的、不能再分的、没有第二个的」。白话译「独一」，英文只能写 One。",
+       "en": "The word here is aḥad, not wāḥid, the ordinary \"one\" for counting: aḥad is \"sole, indivisible, without a second.\" The Chinese says 独一 (dúyī, \"the only one\"); the English can only write \"One.\""
+      }
+     ]
+    },
+    {
+     "h": "d043df04",
+     "en": "God, the One all depend on.",
+     "cmp": [
+      {
+       "w": "aṣ-ṣamad",
+       "note": "ṣamad 在古兰经里只出现这一次，意思历来有几种说法：「人人有事都去找的那位」「什么都不缺的」「实心的、没有空隙的」。白话和英文取第一种。",
+       "en": "Ṣamad occurs only this once in the Quran, and its meaning has always been explained in several ways: \"the one everyone turns to in need,\" \"the one who lacks nothing,\" \"solid, without hollow.\" Both translations take the first."
+      }
+     ]
+    },
+    {
+     "h": "0e65364b",
+     "en": "He did not beget, nor was He begotten."
+    },
+    {
+     "h": "2b5762d3",
+     "en": "And there is none comparable to Him.\""
+    }
+   ]
+  },
+  {
+   "title": "Surah 113 · Daybreak (al-Falaq)",
+   "no": 113,
+   "intro": "A prayer for protection: I ask the Lord of daybreak to keep me safe from whatever may harm me: the dark of night, sorcery, and other people's envy.",
+   "points": [
+    "I ask the Lord of daybreak to protect me",
+    "from what comes in the dark of night",
+    "from sorcery and from other people's envy"
+   ],
+   "verses": [
+    {
+     "h": "db0520d3",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Say, \"I seek refuge with the Lord of daybreak",
+     "cmp": [
+      {
+       "w": "al-falaq",
+       "note": "falaq 的词根是「劈开」：黑夜被劈开，天亮了。也有人解作一切被劈开而生出来的东西（种子、泉水）。白话译「破晓」，正好也有一个「破」字。",
+       "en": "The root of falaq is \"to split\": the night is split and day comes. Some take it as everything that is split open to bring something forth, such as a seed or a spring. The Chinese 破晓 (pòxiǎo, \"the breaking of dawn\") happens to keep the \"breaking.\""
+      }
+     ]
+    },
+    {
+     "h": "ce9d8556",
+     "en": "from the evil of what He created,"
+    },
+    {
+     "h": "43aa9cbf",
+     "en": "and from the evil of darkness when it settles,"
+    },
+    {
+     "h": "c57ad1f7",
+     "en": "and from the evil of those women who blow on knots,",
+     "cmp": [
+      {
+       "w": "an-naffāthāt fī al-ʿuqad",
+       "note": "「往绳结上吹气」是当时行巫术的做法：一边打结一边吹气念咒。原文是阴性复数「吹气的」，多半读成行巫术的女人，也有人读成「吹气的灵魂」，不分男女。",
+       "en": "\"Blowing on knots\" was a way of practicing sorcery at the time: tying knots while blowing and muttering spells over them. The Arabic is a feminine plural, \"the blowers,\" usually read as women who practice sorcery; some read it as \"souls that blow,\" of either sex."
+      }
+     ]
+    },
+    {
+     "h": "899b08ce",
+     "en": "and from the evil of an envier when he envies.\""
+    }
+   ]
+  },
+  {
+   "title": "Surah 114 · Mankind (an-Nās)",
+   "no": 114,
+   "intro": "Another prayer for protection: I ask the Lord of mankind to keep me safe from the one who hides and quietly puts bad ideas into people's hearts.",
+   "points": [
+    "I ask the Lord of mankind to protect me: He is King and God",
+    "from the one who hides and whispers bad ideas",
+    "It works its way into hearts, so guard your own"
+   ],
+   "verses": [
+    {
+     "h": "6b13b46f",
+     "en": "In the name of God, the Most Merciful, the Ever-Merciful. Say, \"I seek refuge with the Lord of mankind,"
+    },
+    {
+     "h": "cb054eb7",
+     "en": "the King of mankind,"
+    },
+    {
+     "h": "c8255947",
+     "en": "the God of mankind,"
+    },
+    {
+     "h": "4cf737d3",
+     "en": "from the evil of the whisperer who slips away,",
+     "cmp": [
+      {
+       "w": "al-waswās al-khannās",
+       "note": "waswās 是拟声词，就是耳边窸窸窣窣的低语声。khannās 是「一露头就缩回去的」，和 81:15「隐退的」是同一个词根。白话和英文都译了意思，声音留不住。",
+       "en": "Waswās is onomatopoeic, the rustle of whispering at the ear. Khannās is \"one who shows himself and draws back,\" from the same root as \"those that retreat\" in 81:15. Both translations give the meaning; the sound cannot be kept."
+      }
+     ]
+    },
+    {
+     "h": "3b8ded0f",
+     "en": "who whispers into the hearts of mankind,"
+    },
+    {
+     "h": "f4f9d917",
+     "en": "from among jinn and mankind.\"",
+     "cmp": [
+      {
+       "w": "al-jinna",
+       "note": "jinn 是古兰经里和人、天使并列的一类看不见的生灵，有好有坏。中文穆斯林音译「镇尼」，白话译「精灵」，英文直接写 jinn。",
+       "en": "The jinn are a kind of unseen being that the Quran sets beside humans and angels, some good and some bad. Chinese Muslims transliterate the word 镇尼 (zhènní); the plain Chinese says 精灵 (jīnglíng, \"spirits\"), and the English simply writes \"jinn.\""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

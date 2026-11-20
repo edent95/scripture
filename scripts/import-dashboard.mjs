@@ -1,4 +1,4 @@
-// 从个人面板书库的「梵文」书架导入：<面板>/client/public/books/local/sa-*.json（梵文）与 pi-*.json（巴利文） -> content/<slug>.json
+// 从个人面板书库导入：<面板>/client/public/books/local/sa-*.json（梵文）、pi-*.json（巴利文）、ar-*.json（阿拉伯文） -> content/<slug>.json
 // 面板那边是 prose 格式（p 白话直译 → old 古译对照 → sa 梵文，一段一组），这里转成本站的 verses。
 // 用法：node scripts/import-dashboard.mjs [面板书库目录]
 import { readFileSync, writeFileSync, rmSync, readdirSync } from 'node:fs';
@@ -53,6 +53,14 @@ const BOOKS = [
     { orig: { name: 'GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）', en: 'GRETIL (Chowkhamba 1970; verse 66 from Ruzsa’s edition)', url: GRETIL, license: NC }, old: cbeta('T54n2137') }],
   ['sa-upanishads', 'upanishads', 'hinduism', '三部古印度奥义书，讲「自我」和宇宙根本「梵」的关系：伊莎篇讲舍弃与享用；蛙氏篇用「唵」的三个音讲醒、梦、熟睡和第四种状态；羯陀篇是少年那支凯多向死神追问人死后去哪里。',
     { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', en: 'GRETIL (Īśā: Kāṇva recension; Māṇḍūkya: input by Samuels; Kaṭha: after Olivelle 1998)', url: GRETIL, license: NC } }],
+  // 古兰经分批做：2026-11-21 第一批是开端章 + 第 30 卷（第 78–114 章），章号写在每章的 no 上。
+  // 原文是 Tanzil 的 Uthmani 本（逐字照抄，授权不许改动）；王静斋译本只有维基文库录了第一、二章，别的章没有可靠录文，先不放。
+  ['ar-quran', 'quran', 'islam', '伊斯兰教的经典，也叫可兰经，穆斯林相信是真主通过天使降给先知穆罕默德的话，共 114 章。这里先收每天礼拜都念的开端章，和最后一卷（第 78–114 章）：都是早期在麦加降下的短章，讲真主独一、末日清算、善待孤儿和穷人。',
+    {
+      orig: { name: 'Tanzil Project（Uthmani 本 1.1）', en: 'Tanzil Project (Uthmani text 1.1)', url: 'https://tanzil.net/', license: 'CC BY 3.0，原样转载、不得改动', licenseEn: 'CC BY 3.0, verbatim copies only' },
+      old: { name: '维基文库《古蘭經譯解》（王静斋 1946 年丙种本，只录了前两章）', url: 'https://zh.wikisource.org/wiki/古蘭經譯解', license: '公有领域', label: '旧译' },
+      notice: 'Tanzil Quran Text (Uthmani, Version 1.1). Copyright (C) 2007-2026 Tanzil Project. License: Creative Commons Attribution 3.0. Permission is granted to copy and distribute verbatim copies of this text, but changing it is not allowed. This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes. This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.',
+    }],
 ];
 
 /** 面板 prose 格式 -> 本站的 chapters[]。导入和 check-dashboard-book.mjs 共用。 */
@@ -74,7 +82,7 @@ export function convertChapters(data, id) {
         };
       } else throw new Error(`${id}: 不认识的段落类型 ${b.t}`);
     }
-    return { title: ch.title.trim(), verses };
+    return { title: ch.title.trim(), ...(ch.no ? { no: ch.no } : {}), ...(ch.intro?.trim() ? { intro: ch.intro.trim() } : {}), ...(ch.points?.length ? { points: ch.points } : {}), verses };
   });
 }
 
@@ -99,7 +107,7 @@ BOOKS.forEach(([id, slug, tradition, summary, source], order) => {
     slug,
     order,
     tradition,
-    ...(id.startsWith('pi-') ? { origLang: 'pi' } : {}),
+    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('ar-') ? { origLang: 'ar' } : {}),
     title: meta.title.replace(/^《(.+?)》.*$/, '$1'),
     sanskrit: meta.author.trim(),
     ...(oldTranslator ? { oldTranslator } : {}),
