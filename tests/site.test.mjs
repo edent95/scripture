@@ -48,6 +48,28 @@ test('只收了一部分章的书：章号决定网址，章号必须每章都�
   assert.throws(() => validateBook(book([78, 1]), 'x.json'), /章号/);
 });
 
+test('一图看懂：每个母题都画得出来，没有文字节点、没有坏坐标；古兰经每章都有二到四个重点和一张大图', async () => {
+  const { PANEL_ICONS, sceneSvg } = await import('../scripts/panels.mjs');
+  for (const layout of ['wide', 'tall']) {
+    for (let i = 0; i < PANEL_ICONS.length; i += 3) {
+      const svg = sceneSvg(PANEL_ICONS.slice(i, i + 3), layout);
+      assert.ok(!/NaN|undefined|<text/.test(svg), `${layout} ${PANEL_ICONS.slice(i, i + 3)} 画坏了或带了字`);
+    }
+  }
+  assert.throws(() => sceneSvg(['nope']), /没有这个母题/);
+  build();
+  const quran = loadBooks().find((b) => b.slug === 'quran');
+  quran.chapters.forEach((ch, i) => {
+    assert.ok(ch.points?.length >= 2 && ch.points.length <= 4, `古兰经第 ${ch.no} 章要有二到四个重点`);
+    assert.equal(ch.enPoints?.length, ch.points.length, `古兰经第 ${ch.no} 章英文重点条数不对`);
+    for (const lang of ['zh', 'en']) {
+      const html = readFileSync(join(OUT, chapterPath(quran, i, lang), 'index.html'), 'utf8');
+      assert.equal(html.split('class="scene-art scene-art--wide"').length - 1, 1, `第 ${ch.no} 章 ${lang} 缺大图`);
+      assert.equal(html.split('class="story-no"').length - 1, ch.points.length, `第 ${ch.no} 章 ${lang} 图下说明条数不对`);
+    }
+  });
+});
+
 test('缺梵文罗马转写的段落会被拒绝', () => {
   const bad = {
     slug: 'x',

@@ -6,7 +6,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
 import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
-import { panelSvg } from './panels.mjs';
+import { sceneSvg } from './panels.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -535,16 +535,18 @@ export function chapterDescription(b, i, lang) {
   return clip(lead + tail, 140);
 }
 
-// 「一图看懂」:这一章的三四个重点,每个一格线稿 + 一句话,从左到右连成一条(图形见 scripts/panels.mjs)
+// 「一图看懂」:一章一张大图(scripts/panels.mjs)。这一章的几个重点站在同一条地平线上,一条金色的路从左走到右;
+// 图里不写字,路上每一站的点数对应图下面的第几条说明。宽屏一行排开,手机换成两行的那一张。
 function storyHtml(ch, lang) {
   if (!ch.points?.length) return '';
-  const text = (pt, k) => (lang === 'en' ? ch.enPoints?.[k] : pt.text);
   if (lang === 'en' && !ch.enPoints) return '';
+  const icons = ch.points.map((pt) => pt.icon);
+  const text = (pt, k) => (lang === 'en' ? ch.enPoints[k] : pt.text);
   return `<section class="story" aria-label="${T[lang].storyLabel}">
   <p class="kicker">${T[lang].storyLabel}</p>
-  <ol>${ch.points.map((pt, k) => `<li><figure>${panelSvg(pt.icon)}<figcaption><span class="story-no" aria-hidden="true">${k + 1}</span>${esc(text(pt, k))}</figcaption></figure></li>`).join('')}</ol>
-</section>
-`;
+  <figure>${sceneSvg(icons, 'wide')}${sceneSvg(icons, 'tall')}
+  <figcaption><ol style="--n:${icons.length}">${ch.points.map((pt, k) => `<li><span class="story-no" aria-hidden="true">${k + 1}</span>${esc(text(pt, k))}</li>`).join('')}</ol></figcaption></figure>
+</section>\n`;
 }
 
 function chapterPage(b, i, lang) {
