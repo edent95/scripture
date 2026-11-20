@@ -6,6 +6,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
 import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
+import { panelSvg } from './panels.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -68,6 +69,7 @@ const T = {
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
     introLabel: '这一章在讲什么',
+    storyLabel: '一图看懂',
   },
   en: {
     htmlLang: 'en',
@@ -99,6 +101,7 @@ const T = {
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
     introLabel: 'What this chapter says',
+    storyLabel: 'At a glance',
   },
 };
 
@@ -532,6 +535,18 @@ export function chapterDescription(b, i, lang) {
   return clip(lead + tail, 140);
 }
 
+// 「一图看懂」:这一章的三四个重点,每个一格线稿 + 一句话,从左到右连成一条(图形见 scripts/panels.mjs)
+function storyHtml(ch, lang) {
+  if (!ch.points?.length) return '';
+  const text = (pt, k) => (lang === 'en' ? ch.enPoints?.[k] : pt.text);
+  if (lang === 'en' && !ch.enPoints) return '';
+  return `<section class="story" aria-label="${T[lang].storyLabel}">
+  <p class="kicker">${T[lang].storyLabel}</p>
+  <ol>${ch.points.map((pt, k) => `<li><figure>${panelSvg(pt.icon)}<figcaption><span class="story-no" aria-hidden="true">${k + 1}</span>${esc(text(pt, k))}</figcaption></figure></li>`).join('')}</ol>
+</section>
+`;
+}
+
 function chapterPage(b, i, lang) {
   const t = T[lang];
   const ch = b.chapters[i];
@@ -560,7 +575,7 @@ function chapterPage(b, i, lang) {
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang, ch))}`, compact: true })}
-${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}<div class="col-toggle" role="group" aria-label="${t.cols}">
+${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>

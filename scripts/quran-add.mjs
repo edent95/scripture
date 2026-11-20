@@ -9,6 +9,7 @@
 //   # 78 | 消息 | The Tidings | an-Nabaʾ        章号 | 中文章名 | 英文章名 | 阿拉伯文章名转写
 //   ! 这一章在讲什么（中文导读，两三句）
 //   != the same introduction in English
+//   * 图形 | 中文重点 | English point      「一图看懂」的一格，一章三四行；图形名见 scripts/panels.mjs
 //   1 白话：用平常说话的词；原文没有、不补就看不懂的字放在（圆括号）里
 //   = English translation
 //   ~ 原词 | 三语对照注（中文） | the same note in English     可以没有，可以多条
@@ -67,6 +68,12 @@ function parseDraft(file) {
       return;
     }
     if (!ch) throw new Error(`${at} 还没有章标题`);
+    if (line.startsWith('* ')) {
+      const [icon, text, en] = cut(line.slice(2));
+      if (!icon || !text || !en) throw new Error(`${at} 重点要写成「* 图形 | 中文重点 | 英文重点」`);
+      (ch.points ??= []).push({ icon, text, en });
+      return;
+    }
     if (line.startsWith('!= ')) { ch.introEn = line.slice(3); return; }
     if (line.startsWith('! ')) { ch.intro = line.slice(2); return; }
     const num = /^(\d+) (.+)$/.exec(line);
@@ -119,8 +126,8 @@ for (const file of args) {
       blocks.push(sa);
       enVerses.push({ h: verseKey({ sa }), en: v.en, ...(v.cmp.length ? { cmp: v.cmp } : {}) });
     });
-    upsert(book.chapters, { title: `第 ${ch.no} 章 · ${ch.zh}（${ch.name}）`, no: ch.no, ...(ch.intro ? { intro: ch.intro } : {}), blocks });
-    upsert(en.chapters, { title: `Surah ${ch.no} · ${ch.en} (${ch.name})`, no: ch.no, ...(ch.introEn ? { intro: ch.introEn } : {}), verses: enVerses });
+    upsert(book.chapters, { title: `第 ${ch.no} 章 · ${ch.zh}（${ch.name}）`, no: ch.no, ...(ch.intro ? { intro: ch.intro } : {}), ...(ch.points ? { points: ch.points.map(({ icon, text }) => ({ icon, text })) } : {}), blocks });
+    upsert(en.chapters, { title: `Surah ${ch.no} · ${ch.en} (${ch.name})`, no: ch.no, ...(ch.introEn ? { intro: ch.introEn } : {}), ...(ch.points ? { points: ch.points.map((x) => x.en) } : {}), verses: enVerses });
     console.log(`第 ${ch.no} 章 ${ch.zh}：${ch.verses.length} 节`);
   }
 }
