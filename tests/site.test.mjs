@@ -7,13 +7,14 @@ import { validateBook, loadBooks, mergeEnglish, verseKey } from '../scripts/cont
 
 process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
-const { build, chapterPath } = await import('../scripts/build.mjs');
+const { build, chapterPath, chNo } = await import('../scripts/build.mjs');
+const { arTranslit } = await import('../scripts/ar-translit.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
 const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
-test('梵文、巴利文书架二十四部全部通过校验', () => {
+test('梵文、巴利文、阿拉伯文书架二十五部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 24);
+  assert.equal(books.length, 25);
 });
 
 test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {
@@ -23,6 +24,28 @@ test('罗马转写转天城体：复合词连字符不断开、词间保留半�
   assert.equal(iastToDeva('dhammacakkaṃ'), 'धम्मचक्कं');
   assert.equal(iastToDeva('kāyo’ti', { pali: true }), 'कायो’ति');
   assert.equal(iastToDeva("so 'ham"), 'सो ऽहम्');
+});
+
+test('阿拉伯文罗马转写：冠词同化、连读 alif、安拉、长元音、鼻音尾、同化进下一个字母的辅音', () => {
+  assert.equal(arTranslit('بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ'), 'bismi Allāhi ar-raḥmāni ar-raḥīmi');
+  assert.equal(arTranslit('الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ'), 'al-ḥamdu lillāhi rabbi al-ʿālamīna');
+  assert.equal(arTranslit('وَالْجِبَالَ أَوْتَادًا'), 'wal-jibāla awtādan');
+  assert.equal(arTranslit('لِّلطَّاغِينَ مَآبًا'), 'liṭ-ṭāghīna maʾāban');
+  assert.equal(arTranslit('وَإِذَا النُّجُومُ انكَدَرَتْ'), 'waʾidhā an-nujūmu inkadarat');
+  assert.equal(arTranslit('وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ'), 'walal-ʾākhiratu khayrun laka mina al-ʾūlā');
+  assert.equal(arTranslit('وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ'), 'walā anā ʿābidun mā ʿabadtum');
+  assert.equal(arTranslit('أُولَـٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ ۖ وَاللَّهُ'), 'ulāʾika hum khayru al-bariyyati wallāhu');
+});
+
+test('只收了一部分章的书：章号决定网址，章号必须每章都有且递增', () => {
+  const book = (nos) => ({
+    slug: 'x', tradition: 'islam', origLang: 'ar', title: 'a', sanskrit: 'a', summary: 'a',
+    chapters: nos.map((no) => ({ title: 'a', ...(no ? { no } : {}), verses: [{ zh: 'a', sa: { text: 'ا', tr: 'a' } }] })),
+  });
+  assert.equal(chapterPath(validateBook(book([1, 78]), 'x.json'), 1), '/x/78/');
+  assert.equal(chapterPath(validateBook(book([1, 78]), 'x.json'), 1, 'en'), '/en/x/78/');
+  assert.throws(() => validateBook(book([1, 0]), 'x.json'), /章号/);
+  assert.throws(() => validateBook(book([78, 1]), 'x.json'), /章号/);
 });
 
 test('缺梵文罗马转写的段落会被拒绝', () => {
@@ -118,7 +141,7 @@ test('首页不放使用说明；每页有浅深色切换；书卡与章节页�
     assert.ok(zhHome.includes(`data-book="${b.slug}" data-verses="${b.chapters.map((c) => c.verses.length).join(',')}"`), `首页 ${b.slug} 卡缺进度数据`);
     b.chapters.forEach((ch, i) => {
       const html = readFileSync(join(OUT, chapterPath(b, i), 'index.html'), 'utf8');
-      assert.ok(html.includes(`<body data-lang="zh" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}">`), `${chapterPath(b, i)} 缺进度数据`);
+      assert.ok(html.includes(`<body data-lang="zh" data-book="${b.slug}" data-ch="${chNo(b, i) - 1}" data-verses="${ch.verses.length}">`), `${chapterPath(b, i)} 缺进度数据`);
     });
   }
 });

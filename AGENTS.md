@@ -1,17 +1,25 @@
 # AGENTS.md — scripture.eden-tan.com
 
-梵文经书白话直译站：每段梵文直译成白话，对照古代汉译，附梵文原文。Eden（eden-tan.com）的子域，独立仓库、独立部署（GitHub Pages）。默认用中文回复。
+经书白话直译站（2026-11-21 起站名不再带「梵文」）：每段原文（梵文、巴利文、阿拉伯文）直译成白话，对照古代汉译，附原文。Eden（eden-tan.com）的子域，独立仓库、独立部署（GitHub Pages）。默认用中文回复。
 
 ## 结构
 
-- 内容来自个人面板书库的「梵文」（`sa-*.json`）和「巴利文」（`pi-*.json`）书架，现在 24 部，分三组：佛经（梵文）、巴利文经典、印度经典，书目见 README 和 `scripts/import-dashboard.mjs` 的 `BOOKS` 表。巴利文书的 `origLang` 是 `pi`（导入脚本按 `pi-` 前缀写入），页面上的「梵文」字样都会换成「巴利文」。
+- 内容来自个人面板书库的「梵文」（`sa-*.json`）、「巴利文」（`pi-*.json`）和「阿拉伯文」（`ar-*.json`）书架，现在 25 部，分四组：佛经（梵文）、巴利文经典、印度经典、伊斯兰经典（古兰经），书目见 README 和 `scripts/import-dashboard.mjs` 的 `BOOKS` 表。巴利文书的 `origLang` 是 `pi`（导入脚本按 `pi-` 前缀写入），页面上的「梵文」字样都会换成「巴利文」。阿拉伯文书是 `ar`：原文栏从右到左排、用 Amiri Quran 字体，「天城体」字样不出现。
 - `content/<slug>.json` 是**生成物**：`node scripts/import-dashboard.mjs [面板书库目录]` 从 `personal-dashboard/client/public/books/local/sa-*.json` 转过来（面板那边是 p 白话直译 → old 古译对照 → sa 梵文 的 prose 格式）。改内容去面板那边改，再重新导入；不要手改 content/。新增一部书：
   1. 在面板书库写 `<id>.json`（`sa-` 梵文 / `pi-` 巴利文），原文与古译一律从 GRETIL、SuttaCentral、CBETA 抓取逐字照抄，`sa.tr` 填罗马转写、`sa.text` 留空，跑 `node scripts/iast-to-deva.mjs <文件>` 机械生成天城体（巴利文书每次全部重生成，`’` 当引号不当 avagraha）；
   2. `node scripts/check-dashboard-book.mjs <文件>` 校验；
   3. 在面板 `index.json` 加条目、导入脚本 `BOOKS` 表加一行（面板 id、slug、tradition、白话简介、底本来源 `source`），`EN_PENDING` 加英文书名与简介，`scripts/emblems.mjs` 加一枚花纹章（专属插画 `scripts/scenes.mjs` 可以后补，没有时首屏用花纹章）；
   4. 重新导入。
+- **古兰经分批做**，做法和别的书不一样（原文不手抄、不过 `iast-to-deva`）：
+  1. 从 https://tanzil.net/download/ 下载 Uthmani 和 Simple 两份「Text with aya numbers」（带停顿符），存成同一目录下的 `uthmani.txt`、`simple.txt`。Tanzil 的授权是 CC BY 3.0、**只许原样转载，不许改动经文**，要署名并链到 tanzil.net；所以页面上的阿拉伯文一个字符都不动，连每章第 1 节前面的「奉至仁至慈的真主之名」也照底本和第 1 节放在一起。
+  2. 译稿写成纯文本（格式见 `scripts/quran-add.mjs` 开头），一章一块，每节一行白话、一行英文，要注的再加对照注。白话和英文都从阿拉伯文直译；历来有几种读法的地方照字面译，在注里把几种读法列出来，不替读者选。
+  3. `node scripts/quran-add.mjs <译稿.txt> --tanzil <目录>`：把这批章并进面板书库的 `ar-quran.json`、面板 `index.json` 和本站的 `translations/en/quran.json`（已有的章按章号替换）。罗马转写由 `scripts/ar-translit.mjs` 从 Simple 本机械生成（按读音：冠词同化、格尾元音全写，不做停顿省音），每批都要把转写从头到尾看一遍，遇到转错的词改脚本并补测试。
+  4. `node scripts/import-dashboard.mjs` 重新导入，更新导入脚本 `BOOKS` 表里的简介、README 的章数，`npm run check`。
+  - 已收：第 1 章 + 第 78–114 章（2026-11-21）。每章带章号 `no`，网址是 `/quran/<章号>/`，阅读进度也按章号记，以后补别的章不会变。
+  - 旧译只有开端章有：王静斋 1946 年丙种本，取自维基文库（那里只录了第一、二章）。别的章没有可靠的电子录文，不要拿付费站、扫描件 OCR 或来路不明的文本补；马坚（1978 年去世）等译本还在版权期，不收。
+  - 封面与插画只用几何纹样，不画人物。
 - 一段 = `{ zh 白话直译, old?: { who, text 古译原句, plain 古译今译, notes[{ w, note }] }, sa: { text 天城体, tr 罗马转写 } }`，校验见 `scripts/content.mjs`。
-- **英译**是本站自己的叠加层 `translations/en/<slug>.json`（不经面板，导入脚本不会碰它）：英文从梵文直译，每段带梵文指纹 `h`（`sa.tr` 的 sha1 前 8 位），可选 `cmp[{ w, note }]` 写这一段英文、中文、梵文具体差在哪（只在真有差别时写）；整部书的 `compare` 是三语对照总结（多章书显示在目录页，单章书在经文后面）。面板重新导入后某段梵文变了，指纹对不上，构建会报错，那一段英译要重译。`node scripts/en-skeleton.mjs <slug> [章]` 打印带指纹的底稿。24 部全部已有英译（2026-11-19 补齐）。新加的书没有英译时，会自动出现在英文首页的 Chinese only for now 一组，英文书名和简介写在 build.mjs 的 `EN_PENDING`。巴利文书的英译从巴利文直译，三语对照标题自动写成 Pali。
+- **英译**是本站自己的叠加层 `translations/en/<slug>.json`（不经面板，导入脚本不会碰它）：英文从梵文直译，每段带梵文指纹 `h`（`sa.tr` 的 sha1 前 8 位），可选 `cmp[{ w, note }]` 写这一段英文、中文、梵文具体差在哪（只在真有差别时写）；整部书的 `compare` 是三语对照总结（多章书显示在目录页，单章书在经文后面）。面板重新导入后某段梵文变了，指纹对不上，构建会报错，那一段英译要重译。`node scripts/en-skeleton.mjs <slug> [章]` 打印带指纹的底稿。25 部全部已有英译。新加的书没有英译时，会自动出现在英文首页的 Chinese only for now 一组，英文书名和简介写在 build.mjs 的 `EN_PENDING`。巴利文书的英译从巴利文直译，三语对照标题自动写成 Pali。
 - **中英两版**：中文版在 `/…`，英文版在 `/en/…`，格式见下面「多语言规则」。
 - `scripts/build.mjs` 生成 `dist/`：首页、多章经书的目录页、每章一页（单章经书的章节页就是 `/<slug>/`，多章是 `/<slug>/<n>/`），加 `sitemap.xml`、`robots.txt`、`llms.txt`、`CNAME`、`404.html`。
 - `src/` 原样复制进 `dist/`（样式、三栏开关脚本、图标）。零依赖，不要为小事加 npm 包。
@@ -19,7 +27,7 @@
 
 ## 内容规矩
 
-- 梵文、巴利文原文与古代汉译是公有领域，但**电子录文有各自的授权**：GRETIL / DSBC 多为 CC BY-NC-SA 4.0，CBETA 是非商业使用条款，SuttaCentral 是 CC0。每部书的 `source` 写明底本与授权，页面底部会署名；本站一旦商用，要先换底本或取得授权。**不要收现代人的译本**（如王志成译《薄伽梵歌》，英文的 Conze、Easwaran 等），它们有版权。英译只能是本站从梵文自己直译。
+- 梵文、巴利文原文与古代汉译是公有领域，但**电子录文有各自的授权**：GRETIL / DSBC 多为 CC BY-NC-SA 4.0，CBETA 是非商业使用条款，SuttaCentral 是 CC0，Tanzil（古兰经）是 CC BY 3.0 且不许改动。每部书的 `source` 写明底本与授权，页面底部会署名；本站一旦商用，要先换底本或取得授权。**不要收现代人的译本**（如王志成译《薄伽梵歌》，英文的 Conze、Easwaran 等），它们有版权。英译只能是本站从梵文自己直译。
 - 白话要像跟朋友讲；不加立场，不做护教或批判。
 - **授权**：本站自己的内容（白话直译、英译、古译今译、注释、网页文字）以 CC BY 4.0 授权，写在仓库根 `LICENSE`、每页页脚（`rel="license"` 链接）、JSON-LD 的 `license` 和 `llms.txt`；公有领域的梵文原文与古译不主张权利。改页脚或授权要四处一起改，测试会查页脚链接和 JSON-LD。
 

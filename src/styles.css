@@ -21,6 +21,7 @@
   --sans: 'MiSans VF', 'MiSans', 'MiSans Latin', 'MiSans TC', 'Inter', ui-sans-serif, system-ui, -apple-system, 'PingFang SC', sans-serif;
   --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
   --deva: 'Noto Serif Devanagari', 'Kohinoor Devanagari', serif;
+  --arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', 'Geeza Pro', 'Traditional Arabic', serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
@@ -681,6 +682,8 @@ main { overflow-x: clip; }
   opacity: 0.85;
 }
 .book-page .deva { font-size: 1.16rem; color: color-mix(in srgb, var(--ink) 78%, var(--muted)); }
+/* 阿拉伯文原文:从右到左,字要大、行要松,读音符号才不挤 */
+.deva[lang='ar'], .book-page .deva[lang='ar'] { direction: rtl; text-align: start; font-family: var(--arabic); font-size: 1.7rem; line-height: 2.5; color: var(--ink); overflow-wrap: anywhere; }
 /* 第一段的第一个字放大(只中文、英文正文) */
 .verse:first-child .zh-text::first-letter, body[data-lang='en'] .verse:first-child .en-text::first-letter {
   float: left;
@@ -690,6 +693,9 @@ main { overflow-x: clip; }
   line-height: 1;
   color: var(--ink);
 }
+
+/* 第一段很短时(「奉至仁至慈的真主之名。」),放大的首字不能把下面的对照注挤歪 */
+.verse:first-child .zh-text, body[data-lang='en'] .verse:first-child .en-text { display: flow-root; }
 
 /* 栏目开关右边:读到第几段;底边一条进度线 */
 .col-toggle { align-items: center; }

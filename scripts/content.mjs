@@ -7,6 +7,7 @@ export const TRADITIONS = {
   buddhism: { zh: '佛经', en: 'Buddhist sūtras' },
   theravada: { zh: '巴利文经典', en: 'Pali Canon' },
   hinduism: { zh: '印度经典', en: 'Hindu classics' },
+  islam: { zh: '伊斯兰经典', en: 'Islamic scripture' },
 };
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -20,18 +21,22 @@ function needText(value, where) {
 }
 
 /**
- * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
+ * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文 / ar 阿拉伯文）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
+ * 一章：{ title, no?（章号：只收了一部分章的书用它定网址，如古兰经第 78 章是 /quran/78/；要么每章都写、严格递增，要么都不写）, verses[] }
  * 一段：{ zh 白话直译, sa: { text 天城体, tr 罗马转写 }, old?: { who, text, plain, notes[{ w, note }] } }
  */
 export function validateBook(book, file) {
   need(SLUG.test(book.slug ?? ''), file, `slug 不合法: ${book.slug}`);
   need(file.endsWith(`${book.slug}.json`), file, '文件名必须等于 slug');
   need(TRADITIONS[book.tradition], file, `未知 tradition: ${book.tradition}`);
-  need(book.origLang === undefined || ['sa', 'pi'].includes(book.origLang), file, `origLang 只能是 sa 或 pi: ${book.origLang}`);
+  need(book.origLang === undefined || ['sa', 'pi', 'ar'].includes(book.origLang), file, `origLang 只能是 sa、pi 或 ar: ${book.origLang}`);
   needText(book.title, `${file} title`);
   needText(book.sanskrit, `${file} sanskrit`);
   needText(book.summary, `${file} summary`);
   need(Array.isArray(book.chapters) && book.chapters.length > 0, file, '至少一章');
+  const numbered = book.chapters.filter((ch) => ch.no !== undefined);
+  need(numbered.length === 0 || numbered.length === book.chapters.length, file, '章号 no 要么每章都写，要么都不写');
+  numbered.forEach((ch, i) => need(Number.isInteger(ch.no) && ch.no > (numbered[i - 1]?.no ?? 0), file, `章号 no 必须是递增的正整数: ${ch.no}`));
   book.chapters.forEach((ch, i) => {
     const at = `${file} chapters[${i}]`;
     needText(ch.title, `${at}.title`);

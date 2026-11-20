@@ -33,6 +33,7 @@ export const EMBLEMS = {
   dhammapada: ['maurer:13,73', 'hypo:13,6,4', 6],
   'samkhya-karika': ['hypo:5,2,3', 'epi:5,1,1.6', 7],
   upanishads: ['epi:3,1,2', 'hypo:9,4,4', 6], // 唵的三个音
+  quran: ['hypo:8,3,5', 'epi:8,1,2', 6], // 八角星
 };
 
 const specOf = (key) => {
