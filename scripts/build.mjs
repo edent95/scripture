@@ -67,6 +67,7 @@ const T = {
     endToc: ['这部书读到最后一章了', '回到目录'],
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
+    introLabel: '这一章在讲什么',
   },
   en: {
     htmlLang: 'en',
@@ -97,6 +98,7 @@ const T = {
     endToc: ['That was the last chapter', 'Back to contents'],
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
+    introLabel: 'What this chapter says',
   },
 };
 
@@ -520,13 +522,13 @@ export function chapterDescription(b, i, lang) {
   if (lang === 'en') {
     const name = single ? enSearchName(b) : `${enSearchName(b)}, ${ch.en.split(' · ')[0]}`;
     const lead = `${name} in ${orig(b, 'en')} and plain English, passage by passage.`;
-    const tail = single ? b.en.summary : `Opens: “${ch.verses[0].en.text}”`;
+    const tail = single ? b.en.summary : (ch.enIntro ?? `Opens: “${ch.verses[0].en.text}”`);
     return clip(`${lead} ${tail}`, 160);
   }
   const name = single ? `《${b.title}》` : `《${b.title}》${ch.title}：`;
   const old = b.oldTranslator ? `，对照${b.oldTranslator}译本` : '';
   const lead = `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附${origCode(b) === 'ar' ? '' : '天城体与'}罗马转写。`;
-  const tail = single ? b.summary : `开头：${ch.verses[0].zh}`;
+  const tail = single ? b.summary : (ch.intro ?? `开头：${ch.verses[0].zh}`);
   return clip(lead + tail, 140);
 }
 
@@ -548,6 +550,7 @@ function chapterPage(b, i, lang) {
   };
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
+  const chIntro = lang === 'en' ? ch.enIntro : ch.intro;
   const end = next
     ? [t.nextCh, chTitle(next, lang), chapterPath(b, i + 1, lang), ' rel="next"']
     : single
@@ -557,7 +560,7 @@ function chapterPage(b, i, lang) {
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang, ch))}`, compact: true })}
-<div class="col-toggle" role="group" aria-label="${t.cols}">
+${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}<div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>

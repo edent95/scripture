@@ -23,6 +23,7 @@ function needText(value, where) {
 /**
  * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文 / ar 阿拉伯文）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
  * 一章：{ title, no?（章号：只收了一部分章的书用它定网址，如古兰经第 78 章是 /quran/78/；要么每章都写、严格递增，要么都不写）, verses[] }
+ *   章还可以带 intro（这一章在讲什么，白话导读，显示在经文前面）；英文导读写在英译叠加层那一章的 intro。
  * 一段：{ zh 白话直译, sa: { text 天城体, tr 罗马转写 }, old?: { who, text, plain, notes[{ w, note }] } }
  */
 export function validateBook(book, file) {
@@ -81,6 +82,8 @@ export function mergeEnglish(book, en, file) {
     needText(ech.title, `${at}.title`);
     need(ech.verses?.length === ch.verses.length, at, `段数 ${ech.verses?.length} ≠ 原文 ${ch.verses.length}`);
     ch.en = ech.title;
+    if (ech.intro !== undefined) needText(ech.intro, `${at}.intro`);
+    if (ech.intro) ch.enIntro = ech.intro;
     ch.verses.forEach((v, j) => {
       const ev = ech.verses[j];
       const vat = `${at}.verses[${j}]`;

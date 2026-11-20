@@ -694,6 +694,10 @@ main { overflow-x: clip; }
   color: var(--ink);
 }
 
+/* 章前导读:这一章在讲什么。左边一道这本书的金线,小标另起一行 */
+.ch-intro { margin: 18px 0 6px; padding: 14px 18px; border-left: 2px solid var(--cover-foil, var(--line)); background: color-mix(in srgb, var(--ink) 5%, transparent); border-radius: 0 14px 14px 0; line-height: 1.85; }
+.ch-intro strong { display: block; margin-bottom: 4px; color: var(--muted); font-size: 0.72rem; letter-spacing: 0.08em; }
+
 /* 第一段很短时(「奉至仁至慈的真主之名。」),放大的首字不能把下面的对照注挤歪 */
 .verse:first-child .zh-text, body[data-lang='en'] .verse:first-child .en-text { display: flow-root; }
 

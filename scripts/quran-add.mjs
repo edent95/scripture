@@ -7,7 +7,9 @@
 //
 // 译稿格式（一章一块，节号必须从 1 连续到这一章的最后一节）：
 //   # 78 | 消息 | The Tidings | an-Nabaʾ        章号 | 中文章名 | 英文章名 | 阿拉伯文章名转写
-//   1 白话直译
+//   ! 这一章在讲什么（中文导读，两三句）
+//   != the same introduction in English
+//   1 白话：用平常说话的词；原文没有、不补就看不懂的字放在（圆括号）里
 //   = English translation
 //   ~ 原词 | 三语对照注（中文） | the same note in English     可以没有，可以多条
 //   > 王静斋 | 旧译原句（逐字照抄）                              可以没有
@@ -65,6 +67,8 @@ function parseDraft(file) {
       return;
     }
     if (!ch) throw new Error(`${at} 还没有章标题`);
+    if (line.startsWith('!= ')) { ch.introEn = line.slice(3); return; }
+    if (line.startsWith('! ')) { ch.intro = line.slice(2); return; }
     const num = /^(\d+) (.+)$/.exec(line);
     if (num) {
       if (Number(num[1]) !== ch.verses.length + 1) throw new Error(`${at} 第 ${ch.no} 章的节号应该是 ${ch.verses.length + 1}`);
@@ -115,8 +119,8 @@ for (const file of args) {
       blocks.push(sa);
       enVerses.push({ h: verseKey({ sa }), en: v.en, ...(v.cmp.length ? { cmp: v.cmp } : {}) });
     });
-    upsert(book.chapters, { title: `第 ${ch.no} 章 · ${ch.zh}（${ch.name}）`, no: ch.no, blocks });
-    upsert(en.chapters, { title: `Surah ${ch.no} · ${ch.en} (${ch.name})`, no: ch.no, verses: enVerses });
+    upsert(book.chapters, { title: `第 ${ch.no} 章 · ${ch.zh}（${ch.name}）`, no: ch.no, ...(ch.intro ? { intro: ch.intro } : {}), blocks });
+    upsert(en.chapters, { title: `Surah ${ch.no} · ${ch.en} (${ch.name})`, no: ch.no, ...(ch.introEn ? { intro: ch.introEn } : {}), verses: enVerses });
     console.log(`第 ${ch.no} 章 ${ch.zh}：${ch.verses.length} 节`);
   }
 }
