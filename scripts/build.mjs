@@ -67,6 +67,7 @@ const T = {
     endToc: ['这部书读到最后一章了', '回到目录'],
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
+    coverAlt: (name) => `《${name}》封面插画`,
   },
   en: {
     htmlLang: 'en',
@@ -97,6 +98,7 @@ const T = {
     endToc: ['That was the last chapter', 'Back to contents'],
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
+    coverAlt: (name) => `Cover illustration for ${name}`,
   },
 };
 
@@ -257,7 +259,7 @@ function bookCard(b, lang, n, pending = false) {
   const style = `aspect-ratio:${FEED_RATIOS[n % FEED_RATIOS.length]};--cover-bg:${tone.bg};--cover-ink:${tone.ink};--cover-foil:${tone.foil};--title-size:${titleSize(name, lang)}cqi`;
   return `<li><a class="feed-item" href="${bookPath(b, pending ? 'zh' : lang)}"${pending ? ' hreflang="zh-Hans"' : ''} ${progressAttrs(b)}>
       <div class="feed-art" data-layout="${n % 4}" data-pattern="${n % 5}" style="${style}">
-        <img class="feed-scene" src="/covers/${b.slug}.svg" alt="" width="380" height="380" loading="lazy" decoding="async">
+        <img class="feed-scene" src="/covers/${b.slug}.svg" alt="${esc(t.coverAlt(name))}"width="380" height="380" loading="lazy" decoding="async">
         <div class="feed-copy">
           <span class="feed-no" aria-hidden="true">No.${String(n + 1).padStart(2, '0')}</span>
           <span class="feed-kicker">${esc(TRADITIONS[b.tradition][lang])}</span>
