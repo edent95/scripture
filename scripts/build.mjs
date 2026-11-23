@@ -338,12 +338,12 @@ ${shelf('done', t.shelfDone)}`;
     alt: { zh: '/', en: '/en/' },
     title:
       lang === 'en'
-        ? `${t.siteName}: Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads and more, from the Sanskrit and Pali`
-        : `${t.siteName}：心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌原文对照`,
+        ? `${t.siteName}: Heart Sutra, Dhammapada, Gita`
+        : `${t.siteName}：心经、金刚经、法句经、薄伽梵歌原文对照`,
     description:
       lang === 'en'
-        ? 'The Heart Sutra, Diamond Sutra, Great Compassion Mantra, Medicine Buddha Sutra, Verses on the Middle Way, Dhammapada, Metta Sutta, Bhagavad Gita, Yoga Sutras, Upanishads and more, translated straight from the Sanskrit and Pali into plain English, passage by passage, with notes on where English, Chinese and the original differ.'
-        : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书等 24 部经典：从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
+        ? 'The Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads and more, translated straight from the Sanskrit and Pali into plain English, passage by passage.'
+        : '心经、金刚经、大悲咒、法华经、中论、法句经、薄伽梵歌、奥义书等 24 部经典，从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附原文与罗马转写。',
     body,
     jsonLd: {
       '@context': 'https://schema.org',
