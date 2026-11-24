@@ -14,7 +14,7 @@ const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
 test('梵文、巴利文、阿拉伯文书架二十五部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 25);
+  assert.equal(books.length, 26);
 });
 
 test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {
@@ -291,4 +291,87 @@ test('SEO：每个经文页的 description 各不相同、不是直接截经文�
   assert.equal(enSearchName(heart), 'Heart Sutra');
   const html = readFileSync(join(OUT, 'en', 'heart-sutra', 'index.html'), 'utf8');
   assert.match(html, /<title>Heart Sutra \(/);
+});
+
+// 面板 SEO 审计按中文 1 字 = 2 宽来量 title / description,这里用同一把尺
+const width = (s) => [...s].reduce((n, c) => n + (/[⺀-鿿　-〿＀-￯]/.test(c) ? 2 : 1), 0);
+const jpegSize = (buf) => {
+  // 找 SOF0/SOF2 段：高在 +5、宽在 +7(大端)
+  for (let i = 2; i < buf.length; ) {
+    const marker = buf[i + 1];
+    if (marker === 0xc0 || marker === 0xc2) return [buf.readUInt16BE(i + 7), buf.readUInt16BE(i + 5)];
+    i += 2 + buf.readUInt16BE(i + 2);
+  }
+  return null;
+};
+
+test('SEO：每页都有绝对网址的 og:image(文件在产物里、1200×630)与 summary_large_image', () => {
+  const paths = build();
+  for (const p of [...paths, '/404.html']) {
+    const file = p.endsWith('.html') ? join(OUT, p) : join(OUT, p, 'index.html');
+    const html = readFileSync(file, 'utf8');
+    const img = html.match(/<meta property="og:image" content="([^"]+)">/)?.[1];
+    assert.ok(img, `${p} 缺 og:image`);
+    assert.match(img, /^https:\/\/scripture\.eden-tan\.com\/og-(zh|en)\.jpg$/, `${p} 的 og:image 不是绝对网址`);
+    assert.equal(img.endsWith('og-en.jpg'), p.startsWith('/en/'), `${p} 用错了语言的分享图`);
+    assert.ok(html.includes('<meta property="og:image:width" content="1200">') && html.includes('<meta property="og:image:height" content="630">'), `${p} 缺 og:image 尺寸`);
+    assert.match(html, /<meta property="og:image:alt" content="[^"]+">/, `${p} 缺 og:image:alt`);
+    assert.ok(html.includes('<meta name="twitter:card" content="summary_large_image">'), `${p} 缺 twitter:card`);
+  }
+  for (const lang of ['zh', 'en']) {
+    const buf = readFileSync(join(OUT, `og-${lang}.jpg`));
+    assert.deepEqual(jpegSize(buf), [1200, 630], `og-${lang}.jpg 不是 1200×630`);
+    assert.ok(buf.length < 300 * 1024, `og-${lang}.jpg 太大`);
+  }
+});
+
+test('SEO：首页 title 宽 ≤60、description 宽 ≤160(中文 1 字算 2),站标是装饰图', () => {
+  build();
+  for (const p of ['/', '/en/']) {
+    const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
+    const title = html.match(/<title>([^<]+)<\/title>/)[1].replace(/&amp;/g, '&');
+    const desc = html.match(/<meta name="description" content="([^"]+)">/)[1].replace(/&amp;/g, '&');
+    assert.ok(width(title) <= 60, `${p} title 宽 ${width(title)}：${title}`);
+    assert.ok(width(desc) <= 160, `${p} description 宽 ${width(desc)}：${desc}`);
+    assert.ok(html.includes('class="brand-mark" src="/favicon.svg" alt="" aria-hidden="true"'), `${p} 站标应是 alt="" 的装饰图`);
+    for (const [img] of html.matchAll(/<img\b[^>]*>/g)) assert.match(img, /\balt="/, `${p} 有图片完全没写 alt：${img}`);
+  }
+});
+
+test('导读：每部书有「读之前先知道这几件事」，多章书每章有「这一章在讲什么」，中英两版都显示', () => {
+  build();
+  for (const b of loadBooks()) {
+    assert.ok(b.primer && b.primer.zh.length >= 4 && b.primer.zh.length <= 8, `${b.slug} 要有 4 到 8 条「读之前先知道」`);
+    assert.equal(b.primer.en.length, b.primer.zh.length, `${b.slug} 导读中英条数不一样`);
+    assert.ok(!/[\u4e00-\u9fff]/.test(JSON.stringify(b.primer.en)), `${b.slug} 英文导读里有中文`);
+    const single = b.chapters.length === 1;
+    for (const lang of ['zh', 'en']) {
+      const toc = readFileSync(join(OUT, bookPath(b, lang), 'index.html'), 'utf8');
+      assert.equal(toc.split('id="primer"').length - 1, 1, `${b.slug} ${lang} 目录页（单章书是经文页）要有一块导读`);
+      assert.ok(toc.indexOf('id="primer"') < toc.indexOf(single ? 'class="verses"' : 'class="chapter-list"'), `${b.slug} ${lang} 导读要排在正文前面`);
+    }
+    if (single) continue;
+    const seen = new Set();
+    b.chapters.forEach((ch, i) => {
+      assert.ok(ch.intro && ch.enIntro, `${b.slug} 第 ${i + 1} 章缺中文或英文导读`);
+      assert.ok((ch.intro.match(/[\u4e00-\u9fff]/g) ?? []).length <= 110, `${b.slug} 第 ${i + 1} 章中文导读超过 110 字`);
+      assert.ok(!/[\u4e00-\u9fff]/.test(ch.enIntro), `${b.slug} 第 ${i + 1} 章英文导读里有中文`);
+      assert.ok(!seen.has(ch.intro), `${b.slug} 第 ${i + 1} 章导读和别的章重复`);
+      seen.add(ch.intro);
+      for (const lang of ['zh', 'en']) {
+        const html = readFileSync(join(OUT, chapterPath(b, i, lang), 'index.html'), 'utf8');
+        assert.ok(html.includes('class="ch-intro"'), `${b.slug} 第 ${i + 1} 章 ${lang} 页面没显示导读`);
+        assert.ok(html.includes(`href="${bookPath(b, lang)}#primer"`), `${b.slug} 第 ${i + 1} 章 ${lang} 缺「先看这几件事」的入口`);
+      }
+    });
+  }
+});
+
+test('字体：全站只引 MiSans（转写另用 Inter），样式里没有别的字体家族', () => {
+  build();
+  const html = readFileSync(join(OUT, 'index.html'), 'utf8');
+  assert.ok(html.includes('misans@5.0.0/lib/Normal/MiSansVF.min.css') && html.includes('MiSansDevanagariVF.min.css'), '页面要引 MiSans 和 MiSans Devanagari');
+  assert.ok(!/JetBrains|Noto\+Serif/.test(html), '页面不该再引 JetBrains Mono 或 Noto Serif');
+  const css = readFileSync(new URL('../src/styles.css', import.meta.url), 'utf8');
+  assert.ok(!/JetBrains Mono'|Songti|Noto Serif/.test(css.replace(/\/\*[\s\S]*?\*\//g, '')), '样式里不该有 MiSans 以外的字体家族（转写用的 Inter 除外）');
 });

@@ -53,6 +53,8 @@ const BOOKS = [
     { orig: { name: 'GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）', en: 'GRETIL (Chowkhamba 1970; verse 66 from Ruzsa’s edition)', url: GRETIL, license: NC }, old: cbeta('T54n2137') }],
   ['sa-upanishads', 'upanishads', 'hinduism', '三部古印度奥义书，讲「自我」和宇宙根本「梵」的关系：伊莎篇讲舍弃与享用；蛙氏篇用「唵」的三个音讲醒、梦、熟睡和第四种状态；羯陀篇是少年那支凯多向死神追问人死后去哪里。',
     { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', en: 'GRETIL (Īśā: Kāṇva recension; Māṇḍūkya: input by Samuels; Kaṭha: after Olivelle 1998)', url: GRETIL, license: NC } }],
+  ['lzh-daodejing', 'tao-te-ching', 'chinese', '老子五千字，八十一章：讲「道」是什么，人怎样顺着它过日子、治理国家：不争、处下、少一点干预。',
+    { orig: { name: '维基文库《道德經 (王弼本)》', en: 'Chinese Wikisource, Daodejing (Wang Bi edition)', url: 'https://zh.wikisource.org/wiki/道德經_(王弼本)', license: '公有领域；录文 CC BY-SA 4.0', licenseEn: 'public domain text; transcription CC BY-SA 4.0' } }],
   // 古兰经分批做：2026-11-21 第一批是开端章 + 第 30 卷（第 78–114 章），章号写在每章的 no 上。
   // 原文是 Tanzil 的 Uthmani 本（逐字照抄，授权不许改动）；王静斋译本只有维基文库录了第一、二章，别的章没有可靠录文，先不放。
   ['ar-quran', 'quran', 'islam', '伊斯兰教的经典，也叫可兰经，穆斯林相信是真主通过天使降给先知穆罕默德的话，共 114 章。这里先收每天礼拜都念的开端章，和最后一卷（第 78–114 章）：都是早期在麦加降下的短章，讲真主独一、末日清算、善待孤儿和穷人。',
@@ -107,7 +109,7 @@ BOOKS.forEach(([id, slug, tradition, summary, source], order) => {
     slug,
     order,
     tradition,
-    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('ar-') ? { origLang: 'ar' } : {}),
+    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('ar-') ? { origLang: 'ar' } : id.startsWith('lzh-') ? { origLang: 'lzh' } : {}),
     title: meta.title.replace(/^《(.+?)》.*$/, '$1'),
     sanskrit: meta.author.trim(),
     ...(oldTranslator ? { oldTranslator } : {}),

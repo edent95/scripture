@@ -2,6 +2,142 @@
  "slug": "yoga-sutras",
  "title": "The Yoga Sutras of Patanjali",
  "summary": "Some two hundred short threads of teaching on how to still the movements of the mind, so that pure awareness can rest in its own nature. They cover the states of samadhi, the eight-limbed practice, the powers that come along the way, and final freedom.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是古印度讲瑜伽的经典，原文是梵文，一共一百九十多句短句，分成四品（四章）。传统上说编者是帕坦伽利，成书年代说法不一，一般认为在约两千年前到一千六百年前之间。它是印度六派正统哲学里瑜伽派的根本经典，不是佛经。书里的「瑜伽」主要不是体操，而是让心静下来的一整套方法，讲坐姿的只有两三句。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "没有对话，也没有故事，从头到尾是作者一个人在一条一条地陈述，像一本教科书的要点。书里几乎没有「我」和「你」，主语常常省掉，本站在括号（）里补上。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "这本书借用了数论派（印度另一派哲学）的看法：世界上有两样根本不同的东西。一样是原人，只是在「看」的纯粹意识；另一样是原质，会变出身体、心念和万物，由三德组成。人之所以受苦，是把这两样当成了一回事，把心里的起伏当成了自己。瑜伽要做的，就是让心静下来，看清两者的分别，最后让原人单独安住，这叫独存。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "每一句都极短，原本是给学生背下来、再由老师讲解的提纲，所以单看一句常常不知所云，要连着前后几句读。同一样东西有好几个叫法：「观者」「原人」「纯粹意识」「真我」都指那个只看不动的意识。第三品列出很多特殊能力，比如知道前世、隐身、在空中走，本站照原文译出，不加评论。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "心的波动",
+     "心里一刻不停的起伏：认知、想象、做梦、回忆等等。瑜伽就是让它停下来。"
+    ],
+    [
+     "原人、观者",
+     "只是在「看」、自己不动的纯粹意识，被看作人真正的自我。"
+    ],
+    [
+     "原质",
+     "能变出身体、心念和一切事物的根源，和原人相对。"
+    ],
+    [
+     "三德",
+     "原质的三种成分：明亮（萨埵）、活动、沉重静止。万物都由它们混合而成。"
+    ],
+    [
+     "三昧",
+     "心完全专注在一个对象上、连自己都好像不见了的状态。"
+    ],
+    [
+     "自在天",
+     "一位特殊的原人，从来不受烦恼和业的沾染，可以敬奉他来帮助修行。"
+    ],
+    [
+     "烦恼",
+     "让人受苦的五种心病：无明、「我在」的感觉、贪爱、嗔恨、贪生怕死。"
+    ],
+    [
+     "潜在印记",
+     "经历过的事在心里留下的痕迹，会在以后推动新的念头。"
+    ],
+    [
+     "总制",
+     "专注、冥想、三昧三步合在同一个对象上。"
+    ],
+    [
+     "独存",
+     "原人不再和心混在一起、单独安住在自己本来的样子，是全书的终点。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第一品「三昧品」的第 1 到 16 句：什么是瑜伽，心有哪五种波动，怎样靠练习和放下贪求让它停下来。再读第二品「修习品」的第 29 到 55 句，就是有名的「八支」，最贴近日常。接着回头读第二品前半（人为什么苦）和第三品「神通品」的前 8 句。第一品后半、第三品其余部分和第四品「独存品」最抽象，放到最后。每品先看「这一章在讲什么」。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "This is the classic Indian text on yoga, written in Sanskrit: about two hundred short lines in four books. Tradition names Patanjali as the compiler; its date is disputed, but it is generally placed somewhere between about two thousand and sixteen hundred years ago. It is the founding text of the Yoga school, one of the six orthodox schools of Indian philosophy, and not a Buddhist scripture. Its \"yoga\" is mostly not exercise but a whole method for quieting the mind; posture gets only two or three lines."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "There is no dialogue and no story. From start to finish one author states his points one after another, like the outline of a textbook. There is almost no \"I\" or \"you\", and subjects are often left out."
+  },
+  {
+   "q": "The background you need",
+   "a": "The book borrows the view of the Samkhya school, another Indian philosophy: there are two utterly different things in the world. One is purusha, pure awareness that only watches. The other is nature (prakriti), which turns into body, mind and everything else and is made of three strands. People suffer because they mistake the two for one, taking the mind's ups and downs to be themselves. Yoga stills the mind, sees the difference, and in the end lets awareness rest alone; this is called aloneness."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Each line is extremely short. These were notes for students to memorize and for a teacher to explain, so one line on its own often makes little sense; read it with the lines around it. One thing can have several names: \"the Seer\", \"purusha\", \"the true self\" and \"pure awareness\" all mean the awareness that watches and does not move. Book 3 lists many special powers, such as knowing past lives, becoming invisible and walking in the air; they are translated as written, without comment."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Fluctuations",
+     "The mind's constant movements: knowing, imagining, dreaming, remembering and so on. Yoga is their stilling."
+    ],
+    [
+     "Purusha, the Seer",
+     "Pure awareness that only watches and never moves, seen as a person's true self."
+    ],
+    [
+     "Nature (prakriti)",
+     "The source of body, mind and all things, the opposite of purusha."
+    ],
+    [
+     "The three strands",
+     "The three ingredients of nature: brightness, activity, and heaviness or inertia. Everything is some mix of them."
+    ],
+    [
+     "Samadhi",
+     "The state in which the mind is wholly absorbed in one object, as if it had disappeared itself."
+    ],
+    [
+     "Ishvara",
+     "The Lord: a special purusha never touched by afflictions or karma, to whom one may turn in devotion as an aid to practice."
+    ],
+    [
+     "Afflictions",
+     "The five ills that cause suffering: ignorance, the sense of \"I am\", attraction, aversion, and clinging to life."
+    ],
+    [
+     "Latent impressions",
+     "Traces that experiences leave in the mind, which later push up new thoughts."
+    ],
+    [
+     "Samyama",
+     "Concentration, meditation and samadhi together on a single object."
+    ],
+    [
+     "Aloneness",
+     "Awareness no longer mixed up with the mind, resting alone in its own nature; the goal of the whole book."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Read lines 1 to 16 of Book 1 first: what yoga is, the mind's five kinds of fluctuation, and how practice and letting go of craving still them. Then lines 29 to 55 of Book 2, the well-known \"eight limbs\", the most down-to-earth part. Then go back to the first half of Book 2 (why people suffer) and the first eight lines of Book 3. Leave the rest of Book 1, the rest of Book 3, and Book 4, the most abstract parts, for last."
+  }
+ ],
  "compare": [
   "整部经的钥匙是第二句：yogaś cittavṛttinirodhaḥ。英文常见译法把 nirodha 译成 restraint 或 control，听起来像用力压住；本站英文写 stilling，白话写「止息」，都更接近「让波动自己平下来」。citta 也要小心：中文「心」同时是心脏、感情和思想，英文 mind 偏思考，而瑜伽经里的 citta 是一件属于物质的工具，真正的觉知者在它后面，叫 puruṣa。这一层在两种语言里都要读到后面才看得出来。",
   "第二个大差别在「专注—冥想—三昧」这一组词。梵文 dhāraṇā、dhyāna、samādhi 是一步比一步深的三个阶段，合起来叫 saṃyama。英文 concentration、meditation 都是日常大词，meditation 尤其什么都能装；中文「禅」本身就是 dhyāna 的音译，「三昧」是 samādhi 的音译，带着佛教的联想。本站英文保留 samadhi、samyama 原词，再用 integrated focus 解释；白话用「专注、冥想、三昧、总制」，前两个好懂、后两个要靠注释。",
@@ -19,6 +155,7 @@
  "chapters": [
   {
    "title": "Book 1 · On Samadhi",
+   "intro": "It opens with a definition: yoga is the stilling of the mind's fluctuations, and then the Seer, pure awareness, rests in its own nature. It lists five kinds of fluctuation, stilled by steady practice and letting go of craving, or by devotion to Ishvara and repeating Om. The second half describes ever deeper stages of samadhi.",
    "verses": [
     {
      "h": "e7c938bc",
@@ -202,8 +339,8 @@
      "cmp": [
       {
        "w": "bhavapratyaya",
-       "note": "「以存在状态为因」。白话补成「前世的存在状态」，英文写 the state of being they are born into；原文本身很简略，「前世」是注释家的解释。",
-       "en": "“Caused by the state of being.” The plain Chinese fills this out as 前世的存在状态 (qiánshì de cúnzài zhuàngtài, “the state of being in a previous life”), while the English says “the state of being they are born into”; the original is very brief, and “previous life” is the commentators’ interpretation."
+       "note": "「以存在状态为因」。白话写「是他们的存在状态带来的，生来就有」，英文写 the state of being they are born into；原文本身很简略，注释家多解释成前世修行的结果，白话没有把这层补进去。",
+       "en": "“Caused by the state of being.” The plain Chinese says 是他们的存在状态带来的，生来就有 (“it comes from their state of being; they are born with it”), and the English “the state of being they are born into”; the original is very brief. Commentators usually explain it as the result of practice in a previous life, which the plain Chinese does not add."
       }
      ]
     },
@@ -344,8 +481,8 @@
      "cmp": [
       {
        "w": "samāpatti",
-       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂；英文 merging 直接说出了心和对象合在一起的意思。",
-       "en": "“Falling completely together.” The plain Chinese keeps the old Buddhist rendering 等至 (děngzhì, roughly “arriving at evenness”), which ordinary readers can’t follow; the English “merging” says directly that the mind and its object come together."
+       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂，所以在括号里补了「心和对象合一」；英文 merging 直接说出了心和对象合在一起的意思。",
+       "en": "“Falling completely together.” The plain Chinese keeps the old Buddhist rendering 等至 (děngzhì, roughly “arriving at evenness”), which ordinary readers can’t follow, so it adds 心和对象合一 (“mind and object become one”) in brackets; the English “merging” says directly that the mind and its object come together."
       }
      ]
     },
@@ -359,8 +496,8 @@
      "cmp": [
       {
        "w": "svarūpaśūnyā iva",
-       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话「仿佛失去了自身形态」比直接写「空」更不容易误读。",
-       "en": "“As if emptied of its own form.” The śūnya here is the same word as the 空 (kōng, “emptiness”) of the Heart Sūtra, but the meaning is concrete: the mind forgets itself and only the object remains. The plain Chinese 仿佛失去了自身形态 (fǎngfú shīqùle zìshēn xíngtài, “as though it had lost its own form”) is less open to misreading than simply writing 空."
+       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话写「好像连自己的样子都空掉了」，留着「空」字，但说的是心忘了自己的样子，不是什么都没有。",
+       "en": "“As if emptied of its own form.” The śūnya here is the same word as the 空 (kōng, “emptiness”) of the Heart Sūtra, but the meaning is concrete: the mind forgets itself and only the object remains. The plain Chinese 好像连自己的样子都空掉了 (“as if even its own shape had emptied out”) keeps the word 空 but makes clear it is the mind’s own shape that drops away, not that nothing exists."
       }
      ]
     },
@@ -414,6 +551,7 @@
   },
   {
    "title": "Book 2 · On Practice",
+   "intro": "How to practise. First, why people suffer: five afflictions, rooted in ignorance, which mistakes the Seer for the mind. Then the eight limbs of yoga, with the first five explained in detail: restraints toward others, observances for oneself, posture, breath control, and drawing the senses inward.",
    "verses": [
     {
      "h": "ac208dca",
@@ -472,8 +610,8 @@
      "cmp": [
       {
        "w": "asmitā",
-       "note": "由「我是」（asmi）加抽象词尾而成。白话直接写「我是」，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。",
-       "en": "Formed from “I am” (asmi) plus an abstract-noun ending. The plain Chinese simply writes 我是 (wǒ shì, “I am”), the English “the sense of ‘I am’”; it is not pride, but the identification that mistakes the mind for the true self."
+       "note": "由「我是」（asmi）加抽象词尾而成。白话写成「我在」的感觉，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。",
+       "en": "Formed from “I am” (asmi) plus an abstract-noun ending. The plain Chinese writes 「我在」的感觉 (“wǒ zài” de gǎnjué, “the feeling of ‘I am’”), the English “the sense of ‘I am’”; it is not pride, but the identification that mistakes the mind for the true self."
       }
      ]
     },
@@ -799,6 +937,7 @@
   },
   {
    "title": "Book 3 · On Powers",
+   "intro": "First the last three limbs: concentration, meditation and samadhi, which together on one object are called samyama. Then a long list of special powers samyama on various objects is said to bring, such as knowing past lives, invisibility and walking on air. It warns that these block samadhi; only by not clinging even to them is aloneness reached.",
    "verses": [
     {
      "h": "e8cb452c",
@@ -1143,6 +1282,7 @@
   },
   {
    "title": "Book 4 · On Aloneness",
+   "intro": "On the mind and karma, the force left by past actions: where powers come from, how old habits carry over from life to life, and why the mind cannot see itself. Once one sees the mind is not the self, it turns toward aloneness. The three strands stop changing, and pure awareness rests in its own nature.",
    "verses": [
     {
      "h": "07f47c54",

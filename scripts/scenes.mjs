@@ -1257,6 +1257,23 @@ function quran(P, A) {
   };
 }
 
+/** 道德经:两山之间的谷,一道水从高处流进最低处的静水 —— 上善若水,处众人之所恶;上方一个空的圆是「无」(当其无,有车之用) */
+function daodejing(P, A) {
+  const top = FY - 8;
+  const hill = (s, k) =>
+    `M${f(s * 172)} ${f(GY)}C${f(s * 124)} ${f(GY - 66 * k)} ${f(s * 96)} ${f(top - 30 * k)} ${f(s * 62)} ${f(top - 44 * k)}C${f(s * 44)} ${f(top - 10 * k)} ${f(s * 28)} ${f(GY - 36 * k)} ${f(s * 13)} ${f(GY)}`;
+  const hills = [-1, 1]
+    .map(
+      (s) =>
+        `<path d="${hill(s, 1)}Z" fill="${P.paper}" stroke="none"/><path d="${hill(s, 1)}" stroke="${P.ink}" stroke-width="0.75"/><path d="${hill(s, 0.72)}" stroke="${P.faint}" stroke-width="0.45"/><path d="${hill(s, 0.46)}" stroke="${P.faint}" stroke-width="0.4"/>`,
+    )
+    .join('');
+  const flow = `M0 ${f(top + 26)}C15 ${f(top + 52)} -15 ${f(GY - 50)} 0 ${f(GY - 24)}C9 ${f(GY - 12)} -5 ${f(GY - 6)} 0 ${f(GY)}`;
+  const stream = `<path d="${flow}" stroke="${P.foil}" stroke-width="0.95" stroke-dasharray="5 4">${A ? '<animate attributeName="stroke-dashoffset" values="0;-18" dur="2.6s" repeatCount="indefinite"/>' : ''}</path>`;
+  const empty = `<circle cx="0" cy="${f(top)}" r="${f(RADII[1])}" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.95"/><circle cx="0" cy="${f(top)}" r="${f(RADII[2])}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  return { frame: { seeds: false }, body: water(P, A, { reflect: 20 }) + hills + stream + empty };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1283,6 +1300,7 @@ const SUBJECTS = {
   dhammapada,
   'samkhya-karika': samkhya,
   upanishads,
+  'tao-te-ching': daodejing,
   quran,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);

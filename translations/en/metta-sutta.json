@@ -2,6 +2,102 @@
  "slug": "metta-sutta",
  "title": "The Discourse on Loving-kindness",
  "summary": "Ten verses: what someone seeking peace should be like, and how to give goodwill without limit to every being, as a mother guards her only child.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是一首很短的佛经，只有十首偈颂（有固定字数、方便背诵的短诗）。原文是巴利文，一种古印度语言；斯里兰卡、缅甸、泰国一带的佛教（南传佛教）的经典就是用它记下来的。这首经收在巴利文经典的《经集》里，传统上说是佛陀（约两千五百年前在印度北部讲道的人）所说。南传佛教的出家人和信众到今天还常常念它。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "经里没有交代地点，也没有人提问，从头到尾是一个声音在教人怎么做。按后来注释书的说法，佛是说给一群在林中修行、心里不安的出家人听的，这只是传统的讲法，经文本身没写。前三首说一个想求平静的人该是什么样子；接着是心里发的愿「愿一切众生……」；最后一首说这样做下去的结果。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "第 4、5 首是一长串列举：长的、短的、看得见的、看不见的、已经出生的、正要出生的。列这么多，是要把所有生命一个不漏地都算进去。「愿……」不是在求哪一位神，而是自己心里对别人的祝愿。最后一句「不会再进入母胎」，意思是不会再投生、再来这世上受苦。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在经里出现，先认一下。",
+   "terms": [
+    [
+     "众生",
+     "一切有生命的东西，人、动物，也包括看不见的生命。"
+    ],
+    [
+     "慈心",
+     "像朋友那样希望对方好的心，不求回报，也不想占有。"
+    ],
+    [
+     "无量的心",
+     "没有边界的心：善意不只给亲人朋友，而是给所有方向、所有的生命。"
+    ],
+    [
+     "念",
+     "把心放在一件事上，时时记着，不走神。"
+    ],
+    [
+     "梵住",
+     "直译是「像梵天（天上的大神）那样住」，指心里一直怀着善意的状态。"
+    ],
+    [
+     "见解",
+     "各种固执的看法和主张；「不落入见解」就是不被它们套住。"
+    ],
+    [
+     "戒行",
+     "守戒的行为：不杀生、不偷、不说谎这一类的做人规矩。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this text is",
+   "a": "This is a very short Buddhist discourse of only ten verses. It is in Pali, an ancient Indian language in which the scriptures of the Buddhism of Sri Lanka, Burma and Thailand (Theravada Buddhism) were preserved. It belongs to the Pali collection called the Sutta Nipāta, and tradition attributes it to the Buddha, a teacher in northern India about two and a half thousand years ago. Monks and lay people in that tradition still chant it often."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The discourse names no place and no questioner; one voice simply teaches what to do. A later commentary says the Buddha gave it to a group of uneasy monks living in a forest, but that is tradition, not something the text says. The first three verses describe what a person seeking peace should be like; then come the wishes held in the heart, \"May all beings...\"; the last verse says where this leads."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Verses 4 and 5 are a long list: long and short, seen and unseen, already born and still seeking birth. The list is there to leave no living thing out. \"May...\" is not a prayer to any god; it is one's own good wish for others. The last line, \"never again lie in a womb\", means never being born again into this world of suffering."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These appear in the text.",
+   "terms": [
+    [
+     "Beings",
+     "Everything that lives: people, animals, and unseen beings too."
+    ],
+    [
+     "Loving-kindness (mettā)",
+     "The goodwill of a friend: wishing someone well without wanting anything back or wanting to own them."
+    ],
+    [
+     "Boundless heart",
+     "Goodwill with no border, given not just to family and friends but in every direction, to every living thing."
+    ],
+    [
+     "Mindfulness",
+     "Keeping the mind on one thing and not letting it slip."
+    ],
+    [
+     "Divine way of living",
+     "Literally \"dwelling like Brahmā\", a high god; a state of mind that keeps goodwill toward all."
+    ],
+    [
+     "Views",
+     "Fixed opinions and doctrines; \"not falling into views\" means not being trapped by them."
+    ],
+    [
+     "Virtuous",
+     "Keeping the precepts: not killing, not stealing, not lying and similar rules for living."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部经的核心词是 mettā。它来自 mitta「朋友」，字面是「朋友般的心意」：希望对方好，不带占有，也不要求回报。英文常译 loving-kindness，多了一层 love 的热度；中文「慈」又偏向长辈对晚辈的疼惜，跟后文「像母亲护着独子」很合，却少了「朋友之间」那份平等。本站英文第一次出现时写 loving-kindness，并说明它的意思是 friendly goodwill，白话写「慈心」。",
   "第二个差别在 bhāvaye「培养、使之生长」。巴利文的「修」（bhāvanā）是让心里本来有的东西一点点长大，像种地；英文 meditate 偏「静坐」，中文「修」偏「修炼」。本站英文写 cultivate，白话写「培养」，两边都贴着原文的「生长」意思。",

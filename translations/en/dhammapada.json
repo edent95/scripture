@@ -2,6 +2,142 @@
  "slug": "dhammapada",
  "title": "The Dhammapada",
  "summary": "423 short verses on how the mind brings pain and joy, on heedfulness, hatred and craving. The most memorized text in Theravada Buddhism.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "法句经是一本短诗集，一共 423 首短偈（几句话一首的诗），分成 26 品（品就是章），每一品围着一个题目。它属于南传佛教，就是今天斯里兰卡、缅甸、泰国一带流行的佛教，原文是巴利文，一种古印度语言，南传佛教的经典都用它记下来。传统上说这些偈都是佛陀在不同场合说的；佛陀生活在大约两千五百年前的印度北部，是佛教的创始人。后人把这些偈收集起来，编成了这本书。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "传统上说全书都是佛陀的话，但多数偈没有交代说话人，读起来像一句句格言。偈里出现「我」的时候，一般是佛陀在说自己，比如第 26 品每首结尾的「我称他为婆罗门」。「你」「你们」多半是听他说法的人，常常是出家的弟子（比丘）。第 15 品的「我们」，是过着这种日子的修行人。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "古印度把人分成几个世袭的阶层，最高的是婆罗门，负责祭祀。当时也有很多人离开家，到林中修行、靠乞食过活，叫做沙门；佛陀和他的弟子就是这样过日子的。那时的人普遍相信，人死后会再投生，一世接一世（轮回）；一个人做过的事（业）决定他下一世去好的地方还是苦的地方。书里很多话都建立在这个想法上。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "这本书几乎全是比喻：车轮、影子、漏雨的屋顶、蜜蜂、大象、骏马、洪水、彼岸，先看懂比的是什么，再看说的道理。很多偈成对出现，一首讲坏的一面，下一首把同一句话换成好的一面；也有一连十几首用同一句收尾。少数几首像谜语，字面很吓人（第 21 品「杀了母亲和父亲」），注里有传统的解法。一首偈偶尔被拆成两段，上一段以破折号结尾，要接着下一段读。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "法",
+     "佛陀的教导，也指这些教导说的道理。有时也泛指一切事物。"
+    ],
+    [
+     "放逸、不放逸",
+     "放逸是松懈、放任自己、迷迷糊糊过日子；不放逸是不松懈、时时警醒。"
+    ],
+    [
+     "涅槃",
+     "贪、嗔、痴这些烦恼完全熄灭的境界，书里也叫「不死」「彼岸」。修行的最终目标。"
+    ],
+    [
+     "渴爱",
+     "像口渴一样停不下来的想要、贪求。书里说它是苦的根。"
+    ],
+    [
+     "魔",
+     "魔王 Māra，代表死亡和诱惑，专门把人拉回欲望和生死里。"
+    ],
+    [
+     "轮回",
+     "生了又死、死了又生，一世接一世停不下来。"
+    ],
+    [
+     "比丘",
+     "出家受戒的男修行人，靠乞食过活。"
+    ],
+    [
+     "沙门",
+     "离开家专心修行的人的统称，不限于佛教。"
+    ],
+    [
+     "婆罗门",
+     "古印度的祭司阶层。书里常把这个词借来指真正清净的人，第 26 品专讲这个意思。"
+    ],
+    [
+     "漏",
+     "像漏水一样从心里渗出来的烦恼。「漏尽」就是烦恼都没有了。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 1 品（双品），书里最有名的几首都在这里；接着读第 3 品（心品）、第 2 品（不放逸品）。然后读比喻多、好懂的第 4 品（花品）、第 8 品（千品）、第 15 品（安乐品）、第 17 品（忿怒品）。再读第 11 品（老品）、第 24 品（渴爱品）。第 26 品（婆罗门品）最长、重复最多，放到最后读。每品先看「这一品在讲什么」；括号（）里的字是本站补上去帮你看懂的，不是经文本身。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "The Dhammapada is a collection of 423 short verses, each just a few lines, arranged in 26 chapters, each on one theme. It belongs to Theravada Buddhism, the Buddhism of Sri Lanka, Myanmar and Thailand today, and its original language is Pali, an ancient Indian language in which the Theravada scriptures are kept. Tradition holds that the Buddha spoke these verses on different occasions; he lived in northern India about 2,500 years ago. Later followers gathered them into this book."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "Tradition takes the whole book as the Buddha's words, but most verses name no speaker and read like proverbs. When a verse says \"I\", it is usually the Buddha speaking of himself, as in the refrain of chapter 26, \"Such a one I call a brahmin.\" \"You\" is usually whoever is listening, often the monks (bhikkhus). The \"we\" of chapter 15 are people who live the life it describes."
+  },
+  {
+   "q": "The world behind the verses",
+   "a": "Ancient Indian society was divided into hereditary classes; the highest were the brahmins, the priests. Many people also left home to live in the forest on alms, devoting themselves to spiritual practice; they were called renunciants, and the Buddha and his followers lived this way. It was widely believed that after death a person is born again, life after life, and that what one has done decides whether the next life is good or painful. Much of the book assumes this."
+  },
+  {
+   "q": "What may trip you up",
+   "a": "Almost every verse works through an image: a cartwheel, a shadow, a leaking roof, a bee, an elephant, a horse, a flood, the far shore. Work out what is being compared, then the point. Many verses come in pairs, the bad case and then the same words turned to the good; some chapters end verse after verse with the same line. A few are riddles that sound shocking (\"having killed mother and father\" in chapter 21); the notes give the traditional reading."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Dhamma",
+     "The Buddha's teaching and the truth it points to. Sometimes it simply means things in general."
+    ],
+    [
+     "Heedfulness, heedlessness",
+     "Heedfulness is staying alert and not letting yourself drift; heedlessness is the opposite, slack and careless living."
+    ],
+    [
+     "Nibbāna",
+     "The state in which greed, hatred and delusion have gone out completely. The book also calls it \"the deathless\" and \"the far shore\". It is the final goal."
+    ],
+    [
+     "Craving",
+     "Wanting that never stops, like a thirst. The book treats it as the root of suffering."
+    ],
+    [
+     "Māra",
+     "A figure of death and temptation who tries to pull people back into desire and the round of rebirth."
+    ],
+    [
+     "The round of rebirth",
+     "Being born, dying and being born again, life after life, without end."
+    ],
+    [
+     "Bhikkhu",
+     "A man who has left home and taken the monk's vows, living on alms."
+    ],
+    [
+     "Renunciant",
+     "Anyone who has left home to devote himself to spiritual practice, not only Buddhists."
+    ],
+    [
+     "Brahmin",
+     "A member of the priestly class of ancient India. The book often uses the word for someone truly pure, and chapter 26 is built on this sense."
+    ],
+    [
+     "Taints",
+     "Defilements that seep out of the mind like water from a leaking pot. To be rid of the taints is to be free of them all."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Start with chapter 1, Pairs, which holds the best-known verses; then chapter 3, The Mind, and chapter 2, Heedfulness. Next the vivid, easy chapters: 4, Flowers; 8, The Thousands; 15, Happiness; 17, Anger. Then 11, Old Age, and 24, Craving. Leave chapter 26, The Brahmin, the longest and most repetitive, for last. Read \"What this chapter says\" before each chapter."
+  }
+ ],
  "compare": [
   "书名本身就有两种读法。dhamma-pada 可以是「法的句子」，也可以是「法的道路」。中文「法句经」取了前一种，英文多半不译，直接写 Dhammapada。本站英文保留原名，第 44 偈的注里说明两种读法。全书最常出现的 dhamma 也一样难：有时是佛陀的教法（英文大写 Dhamma），有时是「事物、心理状态」（第 1 偈的 dhammā，英文写 things），有时是「法则」（第 5 偈「这是永远不变的道理」，英文写 law）。白话多用一个「法」字，英文按上下文分开。",
   "第二个关键词是 appamāda，第 2 品整品讲它。中文「不放逸」偏「不放纵」，英文 heedfulness 偏「留神」，巴利文两层都有：不懒散、不漫不经心、时时警醒。古译直接写成「戒」，把一种心的状态变成了守规矩。本站英文统一写 heedfulness / heedless，白话统一写「不放逸 / 放逸」。",
@@ -17,6 +153,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · Pairs (Yamakavagga)",
+   "intro": "The verses here come in pairs, the bad case and then the good. It opens with \"mind goes before all things\": act from a corrupted mind and suffering follows; from a pure mind, happiness. Hatred is never ended by hatred. An untrained mind lets desire in like rain through a bad roof. Reciting much is worth less than living it.",
    "verses": [
     {
      "h": "4590893c",
@@ -184,6 +321,7 @@
   },
   {
    "title": "Chapter 2 · Heedfulness (Appamādavagga)",
+   "intro": "One theme runs through this chapter: heedfulness, staying alert and not drifting. Heedfulness is the path to the deathless; the heedless are as good as dead. The heedful are an island no flood can cover, someone looking down from a mountaintop, a fast horse leaving a weak one behind. Such a bhikkhu is close to nibbāna.",
    "verses": [
     {
      "h": "6da764a0",
@@ -270,6 +408,7 @@
   },
   {
    "title": "Chapter 3 · The Mind (Cittavagga)",
+   "intro": "How to handle the mind. It trembles like a fish thrown on land; the wise straighten it as a fletcher straightens an arrow. The body is fragile as a clay pot and will soon lie like a useless log. A mind set wrong harms you more than an enemy; set right, it helps more than parents.",
    "verses": [
     {
      "h": "2413813d",
@@ -354,6 +493,7 @@
   },
   {
    "title": "Chapter 4 · Flowers (Pupphavagga)",
+   "intro": "Flowers carry this chapter. Pick out the well-spoken teachings as a skilled hand picks flowers. Move through a village like a bee that takes nectar and leaves the flower unharmed. Fine words not acted on are a bright flower with no scent. Virtue's scent travels even against the wind, and a lotus can grow from a rubbish heap.",
    "verses": [
     {
      "h": "cff60f8f",
@@ -451,6 +591,7 @@
   },
   {
    "title": "Chapter 5 · The Fool (Bālavagga)",
+   "intro": "The fool thinks himself wise and, like a spoon in soup, never tastes the teaching. An evil deed seems sweet as honey at first, but it follows him like fire under ash. Craving fame and a top place in the monastery is foolish too: one road leads to gain, the other to nibbāna.",
    "verses": [
     {
      "h": "cc5300ce",
@@ -562,6 +703,7 @@
   },
   {
    "title": "Chapter 6 · The Wise (Paṇḍitavagga)",
+   "intro": "Treat someone who points out your faults as one who shows you treasure, and keep good company. The wise are like rock the wind cannot move, a deep clear lake, unshaken by praise or blame. Few cross to the far shore; most run up and down this bank. The wise leave home and wash their minds clean.",
    "verses": [
     {
      "h": "ea0c7876",
@@ -670,6 +812,7 @@
   },
   {
    "title": "Chapter 7 · The Arahant (Arahantavagga)",
+   "intro": "The arahant has ended the defilements and will not be born again. He leaves home after home like a swan leaving a pond; his path is as hard to trace as a bird's in the sky; he is steady as the earth and a city-gate post. Wherever arahants live is delightful, and they love the forest others avoid.",
    "verses": [
     {
      "h": "165bb816",
@@ -750,6 +893,7 @@
   },
   {
    "title": "Chapter 8 · The Thousands (Sahassavagga)",
+   "intro": "Built on \"a thousand\" and \"a hundred\". One useful line that brings peace beats a thousand empty ones. Conquering yourself beats conquering a million men in battle. A moment's offering to one who has trained himself beats a hundred years of sacrifice. One day lived with virtue, effort and insight beats a hundred years without them.",
    "verses": [
     {
      "h": "7a5fde23",
@@ -826,6 +970,7 @@
   },
   {
    "title": "Chapter 9 · Evil (Pāpavagga)",
+   "intro": "How good and evil add up and come back. Hurry to do good, or the mind drifts toward evil. Small deeds fill you as drops fill a water jar. Harm an innocent person and the evil blows back on you like fine dust thrown into the wind. No sky, sea or cave lets you escape your deeds, or death.",
    "verses": [
     {
      "h": "f3ae7468",
@@ -904,6 +1049,7 @@
   },
   {
    "title": "Chapter 10 · The Rod (Daṇḍavagga)",
+   "intro": "\"The rod\" is the stick that hurts. Everyone fears it and fears death, so do not kill or cause killing. Harming the harmless brings one of ten disasters, listed here. Going naked, smearing on mud or fasting does not make anyone pure; the true holy man is the one who has laid down the rod toward all beings.",
    "verses": [
     {
      "h": "0d62f0ee",
@@ -1017,6 +1163,7 @@
   },
   {
    "title": "Chapter 11 · Old Age (Jarāvagga)",
+   "intro": "The body ages and breaks. The world is burning; why not look for a lamp? The body is a city of bones plastered with flesh and blood; discarded bones look like gourds thrown out in autumn. Two verses, traditionally the Buddha's words on his awakening, say he has found the house-builder, craving, and no house will be built again.",
    "verses": [
     {
      "h": "260ba7d7",
@@ -1094,6 +1241,7 @@
   },
   {
    "title": "Chapter 12 · Oneself (Attavagga)",
+   "intro": "Look after yourself first. Set yourself right before you teach others; you are your own refuge. Your own evil grinds you down as a diamond grinds a gem, and a bad man does to himself just what his enemy would wish. Purity and impurity are each person's own business; no one can make another pure.",
    "verses": [
     {
      "h": "89c2fcf7",
@@ -1167,6 +1315,7 @@
   },
   {
    "title": "Chapter 13 · The World (Lokavagga)",
+   "intro": "See the world as a bubble, a mirage, and the king of death will not find you. It is a painted royal chariot that fools sink into. One who was careless and changes lights up the world like the moon out of cloud. Ruling the whole earth is worth less than stream-entry, the first stage on the path to freedom.",
    "verses": [
     {
      "h": "8fe00d34",
@@ -1241,6 +1390,7 @@
   },
   {
    "title": "Chapter 14 · The Buddha (Buddhavagga)",
+   "intro": "It is hard to be born human, to hear the Dhamma, to meet a Buddha. One verse sums up the teaching of all Buddhas: do no evil, do good, purify your mind. Fleeing to mountains or shrines does not end suffering; refuge in the Buddha, Dhamma and Sangha, and seeing the four noble truths, does.",
    "verses": [
     {
      "h": "c4ca4894",
@@ -1353,6 +1503,7 @@
   },
   {
    "title": "Chapter 15 · Happiness (Sukhavagga)",
+   "intro": "It opens with a run of \"How happily we live\": free of hate among the hateful, free of sickness among the sick, unhurried among the striving, owning nothing. Health is the greatest gain, contentment the greatest wealth, nibbāna the highest happiness. Living with fools is painful, with the wise a joy. \"We\" are those who live this way.",
    "verses": [
     {
      "h": "b4b32c3b",
@@ -1448,6 +1599,7 @@
   },
   {
    "title": "Chapter 16 · The Dear (Piyavagga)",
+   "intro": "How love and grief are tied. \"From what is dear comes grief, from what is dear comes fear\": the line repeats five times, with affection, pleasure, lust and craving in turn. So do not hold anything as dear. At the end, good deeds welcome a person into the next world as relatives welcome someone home from far away.",
    "verses": [
     {
      "h": "78d09ee9",
@@ -1529,6 +1681,7 @@
   },
   {
    "title": "Chapter 17 · Anger (Kodhavagga)",
+   "intro": "How to deal with anger. Whoever checks a sudden flare of anger like a runaway chariot is the true driver; overcome anger with calm, meanness with giving, a liar with truth. Speaking to a man named Atula, the verses note that no one has ever escaped blame. The chapter ends by asking for restraint in body, speech and mind.",
    "verses": [
     {
      "h": "2615ca99",
@@ -1604,6 +1757,7 @@
   },
   {
    "title": "Chapter 18 · Stains (Malavagga)",
+   "intro": "It opens by telling someone near the end of life: you are a withered leaf with no food for the road; build yourself an island, quickly. Then a list of stains: laziness, meanness, bad conduct; the worst is ignorance, not seeing how things are. We winnow out others' faults but hide our own like a cheat hiding a bad die.",
    "verses": [
     {
      "h": "274a6271",
@@ -1756,6 +1910,7 @@
   },
   {
    "title": "Chapter 19 · The Just (Dhammaṭṭhavagga)",
+   "intro": "Verse after verse says what a title really takes. Much talk does not make a wise man, nor white hair an elder, nor a shaved head a renunciant, nor begging a bhikkhu, nor silence a sage. Last, a warning: until the taints are gone, a bhikkhu should not rest content with virtue, learning or meditation.",
    "verses": [
     {
      "h": "020692fc",
@@ -1864,6 +2019,7 @@
   },
   {
    "title": "Chapter 20 · The Path (Maggavagga)",
+   "intro": "The eightfold path is the best of paths, and the Buddha only points the way; you must walk it yourself. Three verses say all conditioned things are impermanent and suffering, and nothing has a fixed self. Cut down the whole forest of desire, not one tree. When death comes, no child or relative can save you.",
    "verses": [
     {
      "h": "2e7a2149",
@@ -1986,6 +2142,7 @@
   },
   {
    "title": "Chapter 21 · Miscellaneous (Pakiṇṇakavagga)",
+   "intro": "A mixed chapter. Give up a small pleasure for a greater one. Two verses say a \"brahmin\" who killed mother, father and two kings goes on untroubled, which the commentary reads as a riddle. Six say Gotama's disciples keep the Buddha, Dhamma, Sangha and body in mind day and night. Good people are seen from afar, like the Himalayas.",
    "verses": [
     {
      "h": "0faa65af",
@@ -2069,6 +2226,7 @@
   },
   {
    "title": "Chapter 22 · Hell (Nirayavagga)",
+   "intro": "What leads to hell: lying, denying what you did, wearing the robe while living badly, going after another man's wife. A spiritual life handled carelessly cuts you, like grass grasped wrongly; guard yourself like a border town. Those who feel shame and fear in the wrong places, and mix up right and wrong, go to a bad rebirth.",
    "verses": [
     {
      "h": "80bb6474",
@@ -2151,6 +2309,7 @@
   },
   {
    "title": "Chapter 23 · The Elephant (Nāgavagga)",
+   "intro": "The elephant is the image for taming oneself. Bear harsh words as a war elephant bears arrows; trained elephants and fine horses are good, a tamed person better. The speaker will hold his mind as a trainer hooks a rutting elephant. With no wise companion, walk alone like an elephant in the forest.",
    "verses": [
     {
      "h": "8234a60b",
@@ -2226,6 +2385,7 @@
   },
   {
    "title": "Chapter 24 · Craving (Taṇhāvagga)",
+   "intro": "Craving, a thirst that never stops, spreads like a creeper; its slaves leap from life to life like monkeys, circle like snared hares, fall into their own stream like spiders into their web. Cut a tree but leave the roots and it grows back. An \"I\" claims victory over all, with no teacher. Gifts to the greedless bear most fruit.",
    "verses": [
     {
      "h": "4a9f516d",
@@ -2410,6 +2570,7 @@
   },
   {
    "title": "Chapter 25 · The Bhikkhu (Bhikkhuvagga)",
+   "intro": "How a bhikkhu should live: restrained in eye, ear, nose, tongue, body, speech and mind; delighting in the Dhamma; not envying what others receive. Bail out the boat and it sails lightly; shed greed and hatred as jasmine drops withered flowers; train yourself as a dealer trains a fine horse.",
    "verses": [
     {
      "h": "bde5ec3e",
@@ -2549,6 +2710,7 @@
   },
   {
    "title": "Chapter 26 · The Brahmin (Brāhmaṇavagga)",
+   "intro": "Brahmins were the priestly class of ancient India. Here the name is taken over: one becomes a brahmin not by birth or matted hair but by a pure heart and life. Dozens of verses end \"Such a one I call a brahmin\", listing his marks: calm, patient, holding to nothing, harming no one. The \"I\" is the Buddha.",
    "verses": [
     {
      "h": "122ff6ce",

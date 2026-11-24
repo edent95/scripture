@@ -2,6 +2,118 @@
  "slug": "mangala-sutta",
  "title": "The Discourse on Blessings",
  "summary": "Asked what the highest blessing is, the Buddha skips omens and rituals and lists ways of living instead, up to a mind that gain and loss cannot shake.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是一首很短的佛经，原文是巴利文，一种古印度语言；斯里兰卡、缅甸、泰国一带的佛教（南传佛教）的经典就是用它记下来的。这首经收在巴利文经典的《经集》里。内容是一问一答：有人问什么是最好的吉祥，佛陀（约两千五百年前在印度北部讲道的人）一条一条地回答。南传佛教的出家人和信众常在祈福的场合念它。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "第 1 段是记经的人在交代场景，开头那句「我是这样听说的」是佛经的固定开头，传统上说是佛的侍者阿难在佛去世后背诵经文时说的。第 2 段是一位天神发问。从第 3 段到最后，全是佛的回答。「世尊」就是佛。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "「吉祥」在当时原本指兆头：早上出门看见什么、听见什么，算好运还是坏运，人们常为这个争论。天神问的就是「什么才是最好的兆头」。佛的回答里一个兆头也没有，全是怎么做人、怎么过日子。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "每段都用「这是最高的吉祥」结尾，重复是为了好记好背。回答大致从近到远排：先是跟谁来往、住在哪里，再是照顾家人、做事、待人，接着是听法、修行，最后是心不再被得失动摇。读的时候可以看看自己走到了哪一段。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在经里出现，先认一下。",
+   "terms": [
+    [
+     "世尊",
+     "对佛的尊称，意思是「世上最受尊敬的人」。"
+    ],
+    [
+     "天神",
+     "比人寿命长、福报大的天上生命，但还不是觉悟的人。"
+    ],
+    [
+     "偈颂",
+     "有固定字数、方便背诵的短诗；天神的问题和佛的回答都是偈颂。"
+    ],
+    [
+     "吉祥",
+     "原本指好兆头，这里被佛换成了「真正带来好结果的做人方式」。"
+    ],
+    [
+     "布施",
+     "把自己的东西给需要的人，钱、食物、时间都算。"
+    ],
+    [
+     "佛法",
+     "佛讲的道理，也指做人修行的正确方法。"
+    ],
+    [
+     "梵行",
+     "清净的生活，主要指出家人不近男女之事的生活。"
+    ],
+    [
+     "涅槃",
+     "贪心、怒气、糊涂全部熄灭的状态，是佛教修行的终点。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this text is",
+   "a": "This is a very short Buddhist discourse in Pali, an ancient Indian language in which the scriptures of the Buddhism of Sri Lanka, Burma and Thailand (Theravada Buddhism) were preserved. It belongs to the Pali collection called the Sutta Nipāta. It is a question and an answer: someone asks what the best blessing is, and the Buddha, a teacher in northern India about two and a half thousand years ago, answers point by point. In that tradition it is often chanted as a blessing."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The first paragraph is the narrator setting the scene. \"This is what I heard\" is the fixed opening of Buddhist discourses; tradition says it was spoken by Ānanda, the Buddha's attendant, when he recited the teachings after the Buddha died. The second paragraph is a deity's question. Everything from the third paragraph on is the Buddha's answer. \"The Blessed One\" is the Buddha."
+  },
+  {
+   "q": "What a blessing meant then",
+   "a": "The word translated \"blessing\" first meant an omen: what you saw or heard when you left the house in the morning, and whether it meant good luck or bad. People argued about this a great deal. The deity is asking, in effect, what the best omen is. The Buddha's answer does not contain a single omen; it is all about how to live."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Every verse ends with \"this is the highest blessing\". The repetition makes it easy to remember. The answers run roughly from near to far: whom you spend time with and where you live, then caring for family, work and other people, then hearing the teaching and practice, and last a mind that gain and loss no longer shake."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These appear in the text.",
+   "terms": [
+    [
+     "The Blessed One",
+     "A title of respect for the Buddha."
+    ],
+    [
+     "Deity",
+     "A being in the heavens who lives longer and more happily than humans, but is not awakened."
+    ],
+    [
+     "Verse",
+     "A short poem with a fixed metre, easy to memorize; both the question and the answers are in verse."
+    ],
+    [
+     "Blessing",
+     "At first a lucky omen; here the Buddha turns it into a way of living that truly brings good."
+    ],
+    [
+     "Giving",
+     "Handing what is yours to someone who needs it: money, food, time."
+    ],
+    [
+     "Dhamma",
+     "The Buddha's teaching, and the right way to live and practice."
+    ],
+    [
+     "Holy life",
+     "A pure life, above all the celibate life of monks and nuns."
+    ],
+    [
+     "Nibbāna",
+     "The going out of greed, hatred and delusion; the end point of Buddhist practice."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部经的关键词是 maṅgala。在佛陀的时代，它指的是「吉兆、好彩头」：出门见到什么、听到什么、碰到什么算吉利，人们为此争论不休。中文「吉祥」和英文 blessing 都把它当成一种「福气」来读，少了原来那层「预兆」的意思。整部经的妙处正在这里：天神问的是「什么是最好的兆头」，佛陀答的却全是怎么做人、怎么过日子。英文第一次出现时写 blessing，并在注里说明它原本是「吉兆」。",
   "第二个差别在中文古译。本站对照的古译出自《法句经·吉祥品》，它和巴利文这部经是同一个主题，但句子并不一一对应：开头问话的是「梵志道士」而不是天神，中间多了「不婬于女色」，第 12 段完全换成了「离贪欲、愚痴、瞋恚」。英文直接从巴利文译，所以这些出入只在注里点出对英文读者重要的几处。",

@@ -2,6 +2,142 @@
  "slug": "larger-sukhavati",
  "title": "The Larger Array of the Land of Bliss (The Larger Sukhavati Sutra)",
  "summary": "How the monk Dharmakara made his great vows, became the Buddha Amitabha, and built the Land of Bliss: the origin story of Pure Land faith.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是大乘佛教的一部经，讲阿弥陀佛和他的极乐世界是怎么来的：很久以前，一位叫法藏的比丘（出家人）发下一连串大愿，经过极长的修行，成了阿弥陀佛，建成了极乐世界。华人熟悉的汉译本叫《佛说无量寿经》，传统上题为三国时康僧铠所译，是净土宗的根本经典之一。它比《阿弥陀经》长得多，常被称为「大经」。本站的白话照梵文翻。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "开头的「我」，传统上说是佛的弟子阿难，转述他听到的经过。经里是佛（经里叫「世尊」，就是释迦牟尼佛）在王舍城外的灵鹫山上说法。前大半是对阿难说，讲法藏的故事和极乐世界；后段改对阿逸多（就是弥勒菩萨）说，讲心存怀疑的人往生后的情形，最后把这部经托付给他。"
+  },
+  {
+   "q": "全经讲了哪几件事",
+   "a": "第一段是法藏比丘的故事：他请世自在王佛讲遍各佛国的样子，自己用五劫的时间思考，然后发下四十七个誓愿。第二段讲他已经成佛，就是阿弥陀，他的光明、寿命、弟子都无量，极乐世界的宝树、河流、花雨、宫殿。第三段讲怎样往生，以及心有怀疑的人会在莲花里「关」五百年。最后是劝人相信、托付这部经。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "法藏的誓愿每一条都用同一个句式：「如果某件事做不到，我就不证无上正等正觉」，意思是「这件事一定要做到，否则我宁可不成佛」。华人熟悉的汉译本是四十八愿，本站照梵文是四十七愿，编号和汉译对不上。描写极乐世界时有大段重复和极大的数字，如「百千俱胝那由他」，只要知道是「多到数不清」就行。"
+  },
+  {
+   "q": "无量光和无量寿是谁",
+   "a": "是同一位佛。梵文 Amitābha 意思是「无量光」，Amitāyus 意思是「无量寿」，汉文都音译成「阿弥陀」。本站的白话两种叫法都用，有时写「阿弥陀（无量光）」，读到任何一种都是指阿弥陀佛，也就是成佛以后的法藏。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现。",
+   "terms": [
+    [
+     "世尊、如来",
+     "都是对佛的称呼。"
+    ],
+    [
+     "极乐",
+     "阿弥陀佛的世界，梵文 Sukhāvatī，意思是「充满安乐的地方」。"
+    ],
+    [
+     "佛国土",
+     "一位佛所在、所教化的世界，也简称佛国。"
+    ],
+    [
+     "无上正等正觉",
+     "最高、最正确、最完整的觉悟，就是成佛。"
+    ],
+    [
+     "往生",
+     "死后生到另一个世界，这里指生到极乐世界。"
+    ],
+    [
+     "不退转",
+     "在求觉悟的路上不会再往回退。"
+    ],
+    [
+     "善根",
+     "做好事种下的、将来会结出好结果的根。"
+    ],
+    [
+     "俱胝、那由他",
+     "古印度的巨大数目单位，用来形容多到数不清。"
+    ],
+    [
+     "由旬",
+     "古印度的长度单位，大约是一天行军的路程。"
+    ],
+    [
+     "劫",
+     "极长的时间单位。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A Mahayana Buddhist sutra telling how the Buddha Amitabha and his Land of Bliss came to be: long ago a monk named Dharmakara made a series of great vows, practised for ages, became the Buddha Amitabha, and brought the Land of Bliss into being. The Chinese version people know is traditionally credited to Kang Sengkai in the third century, and it is a core text of the Pure Land school. It is much longer than the Amitabha Sutra. This site follows the Sanskrit."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The opening \"I\" is, by tradition, Ananda, the Buddha's disciple, retelling what he heard. The Buddha (\"the Blessed One\", Shakyamuni) is teaching on Vulture Peak outside Rajagriha. For most of the sutra he speaks to Ananda, telling Dharmakara's story and describing the Land of Bliss; near the end he turns to Ajita (Maitreya), explains what happens to those reborn there with doubts, and entrusts the sutra to him."
+  },
+  {
+   "q": "What the sutra covers",
+   "a": "First, Dharmakara's story: he asks the Buddha Lokeshvararaja to describe the buddha-fields, thinks it over for five eons, and makes forty-seven vows. Second, he has become a buddha, Amitabha, whose light, life and disciples are boundless; then the jewel trees, rivers, showers of flowers and palaces of Sukhavati. Third, how to be born there, and how those with doubts stay shut in a lotus for five hundred years. Last, a call to faith and the entrusting of the sutra."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Each of Dharmakara's vows uses the same pattern: \"If such-and-such does not happen, may I not awaken to unsurpassed, perfect awakening\", meaning \"this must come true, or I will not become a buddha at all\". The well-known Chinese version has forty-eight vows; the Sanskrit here has forty-seven, so the numbers do not line up. The descriptions repeat a great deal and use huge numbers, like \"a hundred thousand kotis of nayutas\"; read them as \"more than can be counted\"."
+  },
+  {
+   "q": "Who Amitabha and Amitayus are",
+   "a": "They are the same buddha. Amitabha means \"Boundless Light\" and Amitayus \"Boundless Life\"; Chinese renders both by the same sound, Amituo. The text uses both names. Either way, it is the buddha that Dharmakara became."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Blessed One, Tathagata",
+     "Both are titles of a buddha."
+    ],
+    [
+     "Sukhavati",
+     "Amitabha's world, \"the Land of Bliss\"."
+    ],
+    [
+     "Buddha-field",
+     "The world where a buddha lives and teaches."
+    ],
+    [
+     "Unsurpassed, perfect awakening",
+     "The highest, fullest awakening: becoming a buddha."
+    ],
+    [
+     "Reborn there",
+     "To be reborn after death in another world; here, in the Land of Bliss."
+    ],
+    [
+     "Irreversible",
+     "No longer able to slip back on the path to awakening."
+    ],
+    [
+     "Roots of good",
+     "Good deeds planted like roots, which later bear good fruit."
+    ],
+    [
+     "Koti, nayuta",
+     "Huge Indian number units, used to mean \"countless\"."
+    ],
+    [
+     "League",
+     "An Indian measure of distance (yojana), roughly a day's march."
+    ],
+    [
+     "Eon",
+     "An age of immense length."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "中文读者最熟悉的是康僧铠本的「四十八愿」，这个梵本却只有四十七愿，数目、次序和内容都有出入。净土宗最看重的「十念往生」，在康僧铠本是第十八愿，在梵本排第十九。更要紧的是「十念」本身：梵文 daśabhiś cittotpādaparivartaiḥ 是「哪怕只发起十次心念」，说的是心的转动；后来中国净土宗把它解作口称十声「南无阿弥陀佛」，那是后人的理解，经文本身没有说要出声念名号。每一愿结尾的 mā tāvad aham … abhisaṃbudhyeyam，是「那就愿我不证无上正等正觉」，用自己的成佛作担保；康僧铠的「不取正觉」四个字简短有力，英文 then may I not awaken 保留了这层誓言的分量。英文照梵本给每一愿编号，方便和中文版对照。",
   "第二个差别在名字。梵本同时用 Amitābha（无量光）和 Amitāyus（无量寿）两个名字，而且经文分别解释了为什么叫「光」、为什么叫「寿」。中文「阿弥陀」只音译了两者共同的前半 amita（无量），一个名字把两层意思都包了进去；英文只能二者并列，第一次出现时各加括号说明。同样，梵本给阿弥陀的光列了二十个左右的名称，康僧铠本整理成著名的「十二光」；世界名 Sukhāvatī 是「具有安乐的地方」，中文后来通用鸠摩罗什的「极乐」，英文照本站《阿弥陀经》英译写作 Sukhavati, the Land of Bliss。",

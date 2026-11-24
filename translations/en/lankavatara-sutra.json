@@ -2,6 +2,150 @@
  "slug": "lankavatara-sutra",
  "title": "The Lankavatara Sutra",
  "summary": "On Mount Lanka the Buddha teaches the bodhisattva Mahamati that the world we see is the mind showing itself. Early Chan used it to confirm awakening.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "一部大乘佛经。「楞伽」是一个海岛的名字，「入楞伽」就是佛来到楞伽岛说法。一般认为梵文本大约在公元四、五世纪成形，作者不详。中文有三个古译本，本站对照的古译，是唐朝实叉难陀约公元七百年译的七卷本。早期禅宗很看重这部经；传统上说，禅宗初祖菩提达摩曾把四卷本的《楞伽经》传给弟子慧可。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "说法的是佛，经里称他「世尊」「如来」；他说「我」，就是指他自己。几乎所有问题都由大慧菩萨提出，佛开口多半先叫一声「大慧」，所以「你」大多是大慧。只有第一品的主角是楞伽岛的罗刹王罗婆那。散文后面常有「世尊说了偈颂」，意思是下面改用诗句，把刚才的话再说一遍。"
+  },
+  {
+   "q": "罗婆那和楞伽岛",
+   "a": "罗婆那是印度史诗《罗摩衍那》里的十首魔王，统治楞伽岛；在史诗里他是反派，这部经却让他成了真心求法的人。楞伽岛，后人多半认为在今天斯里兰卡一带。在场听法的除了菩萨和出家人，还有夜叉、罗刹这类鬼神。佛也常常拿「外道」，也就是当时印度其他宗教和哲学派别的说法，来和自己的说法对比。"
+  },
+  {
+   "q": "这部经翻来覆去讲的一件事",
+   "a": "我们以为在心外的东西，这部经说其实是自己的心显现出来的。最有名的比喻是大海和波浪：心像大海，外面的境界像风，种种认识像被风吹起的波浪。人不明白这一点，就把看到的东西切成「这个」「那个」，当成真的，抓着不放，烦恼由此而来。这并不是说外面什么都没有：经里同样说，事物「不是有，也不是无」。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "这部经没有一条故事线，大多是一问一答，话题跳得很快，同一个道理在好几品里重讲。常见一连串的否定，像「不是一，不是异，不是两者都是，也不是两者都不是」，意思是哪一种说法都抓不住它。比喻很多：阳焰（热天远处像水的光影）、乾闼婆城（海市蜃楼）、梦、幻术、眼病的人看到的毛团，都是「看得见，却不是真的」。第十品的梵文传抄错误多，有些偈读不通。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "分别",
+     "心把事物切成「这个」「那个」，起了名字，再当成真有的。这部经里它几乎都指要放下的那种心理活动，不是平常说的「区分」。"
+    ],
+    [
+     "自心所现、唯心",
+     "「境界不过是自己的心所显现」。唯心就是「只是心」：看到的一切都是心的显现。"
+    ],
+    [
+     "阿赖耶识（藏识）",
+     "最深的一层心，像仓库一样存着过去经验留下的种子；经里把它比作大海。"
+    ],
+    [
+     "习气",
+     "过去的经验和念头在心里留下的痕迹，像衣服熏过香会留着香味，推动人以后怎样看事物。"
+    ],
+    [
+     "如来藏",
+     "众生本来就有的成佛的本性。这部经说它就是被称为阿赖耶识的那个东西，又说它不同于外道所说的「自我」。"
+    ],
+    [
+     "五法、三自性、八识、两种无我",
+     "佛整理出的四组名目，经里说整个大乘都在其中。五法：名、相、分别、正智、真如。三自性：凭空想出来的（遍计所执）、依条件而起的（依他起）、圆满真实的（圆成实）。八识：眼、耳、鼻、舌、身五识，加上意识、末那、阿赖耶识。两种无我：人没有常存的自我，万物也没有自体。"
+    ],
+    [
+     "不生",
+     "事物从来没有真正「生出来」过。不是说什么都没有，而是说「生」只是分别出来的。"
+    ],
+    [
+     "转依",
+     "心的根基彻底翻转，不再被习气推着走；经里把它当作解脱、涅槃的另一种说法。"
+    ],
+    [
+     "外道",
+     "佛教以外的宗教和哲学派别，如数论、胜论、顺世论。"
+    ],
+    [
+     "声闻、独觉",
+     "声闻是听佛说法而修行的弟子，独觉是自己悟道、不去教人的修行人。经里说他们只求自己解脱，还没走到菩萨和佛的地步。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第一品，它是全经唯一有故事的一品。再读短的第五品（如来是常还是无常）、第七品（化身佛）和第八品（为什么不吃肉），习惯这种问答的说法。然后读第六品，它把五法、三自性、八识讲得最集中；再读最长的第二品和第三品。第四品讲修行的阶位，第九品是咒语，第十品近九百首偈大多是重述，放到最后。每品先看「这一品在讲什么」，括号（）里的字是本站补的，不是经文。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A Mahayana Buddhist sutra. Lanka is the name of an island, and the title means the Buddha's teaching coming to Lanka. The Sanskrit text is generally thought to have taken shape around the 4th or 5th century CE; its author is unknown. It was translated into Chinese three times; the classical version shown on this site is Śikṣānanda's, made around the year 700. Early Chan (Zen) valued it highly; tradition says Bodhidharma handed a copy of it to his student Huike."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The teacher is the Buddha, called \"the Lord\" or \"the Tathagata\"; when he says \"I\" he means himself. Almost every question comes from the bodhisattva Mahamati, and the Buddha usually begins his answer by naming him, so \"you\" is nearly always Mahamati. Only Chapter 1 centers on someone else: Ravana, king of the rakshasas of Lanka. A prose passage is often followed by verses that say the same thing again."
+  },
+  {
+   "q": "Ravana and Lanka",
+   "a": "Ravana is the ten-headed demon king of Lanka in the Indian epic, the Ramayana, where he is the villain. Here he becomes a sincere seeker of the teaching. Lanka is usually identified with the area of present-day Sri Lanka. Besides bodhisattvas and monks, the audience includes yakshas and rakshasas, kinds of spirits. The Buddha often sets his teaching against the views of the tirthikas, the other religious and philosophical schools of India."
+  },
+  {
+   "q": "The one thing the sutra keeps saying",
+   "a": "What we take to be outside the mind, the sutra says, is what one's own mind shows. Its best-known image is the ocean and its waves: the mind is the ocean, the world around us is the wind, and our perceptions are the waves the wind raises. Not seeing this, people cut what they see into \"this\" and \"that\", take it as real and cling to it, and suffering follows. This is not a claim that nothing is out there: the sutra also says things neither exist nor fail to exist."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "There is no storyline after the first chapter, just question and answer, and the topics change fast; the same point comes back in several chapters. Long strings of negations are common (\"not one, not different, not both, not neither\"), meaning no single statement can capture the thing. The images pile up: a mirage, a gandharva city (a city seen in the clouds), a dream, a magic show, the hairs seen by someone with an eye disease. All mean \"seen, but not real\". The Sanskrit of Chapter 10 has many copying errors, and some verses do not parse."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Conceptualizing",
+     "The mind cutting things into \"this\" and \"that\", naming them and taking them as real. In this sutra it is almost always something to let go of, not a neutral ability to tell things apart."
+    ],
+    [
+     "What one's own mind shows, mind-only",
+     "Everything we perceive is the mind's own appearing. \"Mind-only\" means just that: all that is seen is mind showing itself."
+    ],
+    [
+     "Storehouse consciousness",
+     "The deepest layer of mind, which holds the seeds left by past experience like a storehouse. The sutra compares it to the ocean."
+    ],
+    [
+     "Habit-energy",
+     "The traces past experiences and thoughts leave in the mind, like the scent left in cloth, shaping how we see things later."
+    ],
+    [
+     "Tathāgatagarbha",
+     "The potential for buddhahood that every being already has. The sutra says it is what is called the storehouse consciousness, and that it is not the \"self\" of the tirthikas."
+    ],
+    [
+     "Five dharmas, three natures, eight consciousnesses, two kinds of no-self",
+     "Four lists that the sutra says contain the whole Mahayana. Five dharmas: name, appearance, conceptualizing, right knowledge, suchness. Three natures: the imagined, the dependent, the perfected. Eight consciousnesses: the five senses, the mind consciousness, manas, and the storehouse consciousness. Two kinds of no-self: no lasting self in a person, and no self-nature in things."
+    ],
+    [
+     "Non-arising",
+     "Nothing has ever truly come into being. This does not mean nothing exists; it means that \"arising\" is itself a product of conceptualizing."
+    ],
+    [
+     "Turning-around of the basis",
+     "A complete reversal at the root of the mind, so that habit-energy no longer drives it. The sutra treats it as another name for liberation and nirvana."
+    ],
+    [
+     "Tirthikas",
+     "Followers of religious and philosophical schools outside Buddhism, such as Samkhya, Vaisheshika and the Lokayata."
+    ],
+    [
+     "Shravakas, pratyekabuddhas",
+     "Shravakas are disciples who practice by hearing the Buddha teach; pratyekabuddhas awaken on their own and do not teach. The sutra says both seek only their own release and fall short of bodhisattvas and buddhas."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Start with Chapter 1, the only chapter with a story. Then read the short Chapters 5 (is the Tathagata permanent?), 7 (the Buddha's emanations) and 8 (why not to eat meat) to get used to the question-and-answer style. Next comes Chapter 6, the most compact account of the five dharmas, three natures and eight consciousnesses, and then the long Chapters 2 and 3. Chapter 4 is about the stages of practice, Chapter 9 is spells, and Chapter 10, nearly nine hundred verses that mostly restate earlier chapters, comes last. Read \"What this chapter says\" before each chapter."
+  }
+ ],
  "compare": [
   "前半部最难译的是一组「心」的名词。全经的核心句 svacittadṛśya，字面是「自己的心所显现、所被看见的」，实叉难陀简洁地译成「自心现」，白话说「境界不过是自己的心所显现」，英文译 what one's own mind shows，第一次出现时补一句解释。三种语言都要面对同一个难点：这句话说的是「我们以为在心外的东西，其实是心的显现」，不是「物质不存在、只有一个心存在」；中文「唯心」、英文 mind-only 都容易被读成后者。同样，ālayavijñāna 中文意译「藏识」、音译「阿赖耶」，英文用 storehouse consciousness；tathāgatagarbha 中文作「如来藏」，「藏」偏向「宝藏」，梵文 garbha 却是「胎、胎儿」，带着「孕育」的意思，所以英文保留原词、第一次出现时解释为 the Tathagata-womb。这部经最独特的一步，是把两者说成同一个东西（「如来藏名为阿赖耶识」），中英文都照原文保留「被称为」的措辞，不替它下结论。",
   "第二个差别在 vikalpa。它是前十品出现最多的词之一，指心把东西切分成「这个、那个」并加以命名、构想。白话和古译都用「分别」，现代中文读者容易想成中性的「区分、辨别」能力；英文译作 conceptualizing，强调这些概念是心自己造出来的。与此相连的是本经对语言的态度：佛说「从成道到涅槃不说一字」，又说「依义不依文」，用「看指头的人」比喻执着文字（第六品偈颂里才明确出现「月亮」）。古译把这些译得极精炼，成了禅宗常用的话头；英文则逐字直译，读者可以看到原文本来的语气，也能看到哪些「名句」是后来才被压缩成四个字的。",
@@ -17,6 +161,7 @@
  "chapters": [
   {
    "title": "Opening",
+   "intro": "Only the title, The Sutra of the True Dharma's Descent into Lanka, and a line of homage to the Three Jewels (the Buddha, his teaching, his community) and to all buddhas and bodhisattvas. The sutra itself begins with the next chapter.",
    "verses": [
     {
      "h": "89570d65",
@@ -37,6 +182,7 @@
   },
   {
    "title": "Chapter 1 · Ravana's Request (Rāvaṇādhyeṣaṇā)",
+   "intro": "Leaving the sea-dragon's palace, the Buddha is invited into Lanka by Ravana, king of the rakshasas, who sings to a lute. The Buddha conjures countless jeweled peaks and teaches, then everything vanishes. Wondering if it was a dream, Ravana realizes it was all his own mind. He then asks how to let go of dharma and non-dharma.",
    "verses": [
     {
      "h": "6825f36a",
@@ -425,6 +571,7 @@
   },
   {
    "title": "Chapter 2 · Gathering All Dharmas (Sarvadharmasamuccaya)",
+   "intro": "The longest chapter. Mahamati praises the Buddha and asks over a hundred questions; the Buddha answers with 108 paired statements. Then the central image: the storehouse consciousness is an ocean, the world is wind, perceptions are waves. Later topics: the three natures, two kinds of no-self, why the tathāgatagarbha is not a self, nirvana, and one vehicle versus three.",
    "verses": [
     {
      "h": "5a34c88b",
@@ -2339,6 +2486,7 @@
   },
   {
    "title": "Chapter 3 · On Impermanence (Anityatā)",
+   "intro": "Despite its title, most of this chapter is other questions: mind-made bodies, an inner reading of the five worst crimes (\"killing mother and father\"), the Buddha saying he never spoke a word, words versus meaning, and the finger pointing at something. He recounts debating a Lokayata brahmin, and ends by refuting eight tirthika views of impermanence.",
    "verses": [
     {
      "h": "0a787b8f",
@@ -3486,6 +3634,7 @@
   },
   {
    "title": "Chapter 4 · Direct Realization (Abhisamaya)",
+   "intro": "Mahamati asks how practitioners enter the attainment of cessation, where thought stops entirely. From the sixth stage on, the Buddha says, they can; the eighth stage is nirvana for shravakas and pratyekabuddhas, but buddhas hold bodhisattvas back from resting in that bliss so they go on toward buddhahood. The closing verses say the stages have no real order.",
    "verses": [
     {
      "h": "e9b46958",
@@ -3581,6 +3730,7 @@
   },
   {
    "title": "Chapter 5 · Is the Tathagata Permanent or Impermanent? (Tathāgatanityānityatva)",
+   "intro": "Mahamati asks whether the Tathagata is permanent or impermanent. Neither, the Buddha says: calling him permanent makes him like the tirthikas' creator-cause, calling him impermanent makes him a made thing like a pot or cloth. Only the knowledge he realized can be called permanent. Both views come from conceptualizing.",
    "verses": [
     {
      "h": "316cd8fe",
@@ -3634,6 +3784,7 @@
   },
   {
    "title": "Chapter 6 · On Momentariness (Kṣaṇika)",
+   "intro": "First the tathāgatagarbha, also called the storehouse consciousness: an ocean carrying the waves of seven consciousnesses. Then how the five dharmas, three natures, eight consciousnesses and two kinds of no-self fit together, why \"buddhas like Ganges sands\" is only a figure, and three levels of the six perfections. The title comes from the end: not everything perishes in an instant.",
    "verses": [
     {
      "h": "2105a4e7",
@@ -3913,6 +4064,7 @@
   },
   {
    "title": "Chapter 7 · On Transformation (Nairmāṇika)",
+   "intro": "Mahamati asks: the Buddha predicts arhats will become buddhas and says he never spoke a word, yet he was slandered and once came home with an empty bowl. How is he faultless? The predictions, the Buddha says, encourage people toward the Mahayana, and much is done by emanated buddhas; the real Buddha is neither in them nor apart from them.",
    "verses": [
     {
      "h": "9829bd3d",
@@ -3977,6 +4129,7 @@
   },
   {
    "title": "Chapter 8 · On Not Eating Meat (Māṃsabhakṣaṇa)",
+   "intro": "Mahamati asks about the faults of eating meat. The Buddha gives many reasons: every being was once your relative; meat frightens animals and brings scorn on the teaching; killing happens because people buy meat. He never allowed disciples meat, he says; earlier rules allowing meat not killed for them were only steps, and here it is banned outright.",
    "verses": [
     {
      "h": "4603b019",
@@ -4231,6 +4384,7 @@
   },
   {
    "title": "Chapter 9 · Dharanis (Dhāraṇī)",
+   "intro": "The Buddha gives Mahamati several spells (dharanis), which he says all buddhas past, present and future teach, to protect those who preach this sutra. No spirit can harm someone who keeps and recites them; recited 108 times over someone possessed, they drive the demon off. The spells are given in their original sounds, untranslated.",
    "verses": [
     {
      "h": "fc03cf00",
@@ -4275,6 +4429,7 @@
   },
   {
    "title": "Chapter 10 · Verses (Sagāthaka)",
+   "intro": "Nearly nine hundred verses, most restating in verse what the prose chapters taught. Some material is new: a prophecy that after the Buddha's death a monk named Naga will arise in the south, the four world ages and when buddhas appear, attacks on Indian schools such as Samkhya and Vaisheshika, and rules for monks' robes and food.",
    "verses": [
     {
      "h": "6e4a2a92",

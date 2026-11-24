@@ -2,6 +2,142 @@
  "slug": "bhagavad-gita",
  "title": "The Song of the Blessed One",
  "summary": "On the eve of a great battle, Arjuna cannot bring himself to fight his own family. Krishna tells him: do what is yours to do, but let go of clinging to the results.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "印度教最常读的经典之一，用梵文写成，七百颂，分十八章。它不是单独的一本书，而是印度史诗《摩诃婆罗多》里的一段：大战开打前，王子阿周那和替他驾车的黑天在战车上的一场对话。一般认为它大约在公元前二世纪到公元二世纪之间成形；传统上说作者是毗耶娑。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "全书套了两层。外层是老国王持国坐在宫里，听他的御者全胜转述战场上的事；全胜被赐予天眼，看得见远处。里层是阿周那和黑天的对话：第一章主要是阿周那在说，从第二章起几乎都是黑天在讲，阿周那偶尔插话提问。译文里的「世尊」就是黑天。"
+  },
+  {
+   "q": "黑天说的「我」是谁",
+   "a": "黑天表面上是阿周那的表亲和车夫。印度教徒相信他是大神毗湿奴降生为人。前几章他像老师在讲道理；越往后，他说的「我」越清楚地指那位造出、撑住、收回整个世界的神，所以会有「一切都串在我身上」「我是时间」这样的话。读的时候要分清：这个「我」不是普通的人在说自己。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "同一个王族分成两支：持国的儿子们（以难敌为首）和他弟弟般度的五个儿子，阿周那是其中的老三。两边为了王位翻脸，最后在俱卢之野摆开大军。对面站着阿周那的叔祖、老师和堂兄弟。阿周那出身武士种姓（刹帝利），打仗本是他的职责；他下不了手，这本书就从这里开始。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "人名有很多别称：阿周那又叫「贡蒂之子」「大臂者」「克敌者」「婆罗多族的雄牛」「胜财」，黑天又叫「不退者」「婆薮提婆」，都只是同一个人。同一个道理会换着说法讲好几遍；第十、十七、十八章是一长串列举，第十四、十七、十八章总是按「三德」分成三种来比较。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "正法",
+     "该有的秩序和规矩：世界的、家族的、每个人身份上的。反过来叫「非法」。"
+    ],
+    [
+     "职责",
+     "按出身和本性该做的事。阿周那是武士，他的职责就是打这场仗。"
+    ],
+    [
+     "瑜伽",
+     "这里不是体操，是「把心连上、把自己管住」的修行法，又分行动、知识、静坐、虔爱几条路。"
+    ],
+    [
+     "三德（萨埵、罗阇、多摩）",
+     "人和万物身上的三种成分：萨埵是清明，罗阇是激情和躁动，多摩是昏暗和懒散。"
+    ],
+    [
+     "梵",
+     "万物的本源，最根本的那个实在。和造世界的神「梵天」不是同一个。"
+    ],
+    [
+     "真我、自我、有身者",
+     "住在身体里的那个不生不死的「本人」。身体会死，它不会。"
+    ],
+    [
+     "原质、原人",
+     "原质是会变化、生出万物、真正在做事的那一方；原人是住在里面看着、感受着的那一方。"
+    ],
+    [
+     "祭祀",
+     "向神献上供品的仪式；书里也把一切不为自己而做的事比作祭祀。"
+    ],
+    [
+     "虔爱",
+     "全心全意地爱神、信靠神，把一切都献给他。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 1 章看事情怎么开始，再读第 2 章，全书的主要道理都在里面。接着读第 3 章（为什么还是要做事）、第 11 章（黑天显出宇宙之身的场面）、第 12 章（虔爱）。最后读第 18 章的结尾。其余各章可以按顺序慢慢读。每章先看「这一章在讲什么」；括号（）里的字是本站补上去帮你看懂的。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "One of the most widely read Hindu scriptures, composed in Sanskrit: seven hundred verses in eighteen chapters. It is not a separate book but a passage from the Indian epic Mahabharata: a conversation on a war chariot, just before a great battle, between the prince Arjuna and Krishna, who is driving his chariot. It is generally thought to have taken shape between about the second century BCE and the second century CE; tradition names Vyasa as its author."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The book has two layers. On the outside, the old king Dhritarashtra sits in his palace while his charioteer Sanjaya, granted the gift of seeing far away, tells him what is happening on the battlefield. Inside that is the talk between Arjuna and Krishna: Arjuna speaks most of chapter 1, and from chapter 2 on it is almost all Krishna, with Arjuna breaking in to ask questions. \"The Blessed Lord\" is Krishna."
+  },
+  {
+   "q": "Who Krishna's \"I\" is",
+   "a": "On the surface Krishna is Arjuna's cousin and charioteer. Hindus hold that he is the great god Vishnu born as a man. In the early chapters he sounds like a teacher reasoning with a student; as the book goes on, his \"I\" more and more plainly means the God who makes, holds up and takes back the whole world. That is why he can say \"all this is strung on me\" or \"I am time\". This is not an ordinary person talking about himself."
+  },
+  {
+   "q": "What was going on",
+   "a": "One royal family had split in two: the sons of Dhritarashtra, led by Duryodhana, and the five sons of his brother Pandu, of whom Arjuna is the third. They fell out over the throne, and the two armies now face each other on the field of Kurukshetra. On the other side stand Arjuna's great-uncle, his teacher and his cousins. Arjuna was born a warrior, so fighting is his duty. He cannot bring himself to do it, and that is where the book begins."
+  },
+  {
+   "q": "What can trip you up",
+   "a": "People have many names. Arjuna is also \"son of Kunti\", \"mighty-armed one\", \"scorcher of foes\", \"bull of the Bharatas\"; Krishna is also \"Achyuta\" and \"Vasudeva\". They are still the same two people. The same point is often made several times in different words. Chapter 10 is one long list, and chapters 14, 17 and 18 keep sorting things into three kinds by the three qualities."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Dharma",
+     "The right order of things: of the world, of a family, of each person's place in life. Its opposite is adharma."
+    ],
+    [
+     "Duty",
+     "What a person is meant to do by birth and nature. Arjuna is a warrior, so his duty is to fight this war."
+    ],
+    [
+     "Yoga",
+     "Not exercise here, but a discipline of joining the mind and mastering oneself. It has several paths: action, knowledge, meditation and devotion."
+    ],
+    [
+     "The three qualities (sattva, rajas, tamas)",
+     "Three strands in people and in everything: sattva is clarity, rajas is passion and restlessness, tamas is dullness and inertia."
+    ],
+    [
+     "Brahman",
+     "The source of all things, the deepest reality. Not the same as Brahma, the god who makes the world."
+    ],
+    [
+     "The self, the embodied one",
+     "The one living in the body who is never born and never dies. The body dies; it does not."
+    ],
+    [
+     "Nature and the person (prakriti and purusha)",
+     "Nature is what changes, gives rise to everything and does all the doing; the person is the one inside who watches and feels."
+    ],
+    [
+     "Sacrifice",
+     "A ritual of offering to the gods; the book also calls any act done not for oneself a sacrifice."
+    ],
+    [
+     "Devotion",
+     "Loving and trusting God with one's whole heart and giving everything to him."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Read chapter 1 to see how it all begins, then chapter 2, which holds most of the book's main ideas. Then chapter 3 (why one must still act), chapter 11 (Krishna showing his cosmic form) and chapter 12 (devotion). Then the end of chapter 18. The other chapters can be read in order at your own pace. Read \"What this chapter says\" before each one."
+  }
+ ],
  "compare": [
   "整部歌最难翻的是 yoga。白话几乎一律写「瑜伽」，可同一个词在书里至少有四种意思：行动的方法（2.48「一样看待就是 yoga」）、修心与静坐（第六章）、神的本领（9.5 的 yogam aiśvaram）、日常词组里的「获得」（2.45、9.22 的 yoga-kṣema「得与守」）。它的词根 yuj 是「套上轭」，英文用 yoke、yoked 能把这个画面留住，所以 2.38 的 yujyasva 英文是 yoke yourself，白话「投身」就断了。6.23 把 yoga 定义成「与痛苦之结合（saṃyoga）的分离（viyoga）」，三个同根词连着用，英文 unyoking from union 勉强保住，中文只剩意思。",
   "第二组是 dharma 与 karma。dharma 在书里一会儿是「本分」，一会儿是「正当」，一会儿是「这个教法」或「吠陀仪式的规定」；白话借了佛教的「正法」，英文换着用 duty、what is right、teaching，两边都在随语境换词，梵文却始终是同一个字。karma 本来就是「行动」，英文全程只用 action；白话有时写「行动（业）」，把后来「业报」的意思也带了进来。4.37「知识之火把一切行动烧成灰」正是这个词从「做事」滑向「业」的地方。2.47 的 adhikāra，白话「你只有行动的权利」像法律用语，原意是「你管得着的范围」。",
@@ -19,6 +155,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · Arjuna's Despair",
+   "intro": "The two armies stand ready at Kurukshetra, and Sanjaya describes the scene to the old king Dhritarashtra. Arjuna has Krishna drive his chariot between the lines. Seeing elders, teachers and kinsmen on the other side, he trembles, says he would rather be killed than kill his own, and sinks down, dropping his bow.",
    "verses": [
     {
      "h": "4e6acf8d",
@@ -313,6 +450,7 @@
   },
   {
    "title": "Chapter 2 · The Yoga of Sankhya, the Way of Knowing",
+   "intro": "Krishna first scolds Arjuna for losing heart, then reasons with him: the one who lives in the body is never born and never dies; only bodies die. As a warrior, fighting a rightful war is his duty. He should act without caring for results. Finally Krishna describes the person whose wisdom stands firm.",
    "verses": [
     {
      "h": "3d9c3705",
@@ -860,6 +998,7 @@
   },
   {
    "title": "Chapter 3 · The Yoga of Action",
+   "intro": "Arjuna asks: if knowing is better than doing, why push me into this war? Krishna answers that no one can stop acting even for a moment. What matters is acting without clinging, as an offering. Leaders must set an example, and even Krishna keeps working. He ends by naming desire and anger as the enemy within.",
    "verses": [
     {
      "h": "7679d8ef",
@@ -1159,6 +1298,7 @@
   },
   {
    "title": "Chapter 4 · The Yoga of Knowledge and the Renouncing of Action",
+   "intro": "Krishna says he taught this yoga long ago. When Arjuna is puzzled, he reveals that he has been born many times, coming down whenever dharma declines. He then explains how to act while not really acting, lists many kinds of sacrifice, and concludes that knowledge burns away the bonds of action like fire.",
    "verses": [
     {
      "h": "7dbef7ee",
@@ -1484,6 +1624,7 @@
   },
   {
    "title": "Chapter 5 · The Yoga of Renouncing Action",
+   "intro": "Arjuna asks again: is it better to give up action, or to act without clinging? Krishna says both lead to the same end, but the second is easier. The wise act like a lotus leaf that water cannot wet. They see a learned brahmin, a cow, a dog and an outcaste alike, and find peace in Brahman in this life.",
    "verses": [
     {
      "h": "d84fe6a6",
@@ -1708,6 +1849,7 @@
   },
   {
    "title": "Chapter 6 · The Yoga of Meditation",
+   "intro": "Krishna teaches meditation: sit steady somewhere quiet, eat and sleep in moderation, and keep pulling the wandering mind back until it is like a flame out of the wind. Arjuna says the mind is as hard to hold as wind. Practice and letting go, Krishna replies; and no effort is wasted, since one carries on in the next life.",
    "verses": [
     {
      "h": "f02a6f78",
@@ -1999,6 +2141,7 @@
   },
   {
    "title": "Chapter 7 · The Yoga of Knowledge and Realization",
+   "intro": "Krishna explains who he is. The world is made of his two natures: a lower one of earth, water, fire, air and mind, and a higher one that is life itself. All is strung on him like pearls on a thread. Deluded by the three qualities, people miss him. Of four kinds who worship him, the wise are dearest.",
    "verses": [
     {
      "h": "4efa5e11",
@@ -2030,8 +2173,8 @@
       },
       {
        "w": "ahaṃkāra",
-       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我执」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。",
-       "en": "Literally “I-maker”: the mental function that labels every experience “mine.” The plain Chinese 我执 (wǒzhí, “clinging to self”) borrows a Buddhist term and is pejorative; the English “the sense of ‘I’” is more neutral, simply descriptive."
+       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我慢」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。",
+       "en": "Literally “I-maker”: the mental function that labels every experience “mine.” The plain Chinese 我慢 (wǒmàn, “self-conceit”) borrows a Buddhist term and is pejorative; the English “the sense of ‘I’” is more neutral, simply descriptive."
       }
      ]
     },
@@ -2100,8 +2243,8 @@
      "cmp": [
       {
        "w": "guṇa",
-       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译「萨埵、罗阇、多磨」，英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。",
-       "en": "Guṇa originally means “strand”: a rope is twisted from several strands. Sattva (clear, bright), rajas (restless, passionate) and tamas (dark, dull) are the three strands twisted into everything in the world. The plain Chinese transliterates them as 萨埵、罗阇、多磨 (sàduǒ, luóshé, duōmó); the English keeps the original names here, and in the next verse, where they are called 三德 (sān dé, “the three qualities”), writes “the three qualities (gunas).”"
+       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译成萨埵、罗阇、多摩，括号里各配一个词（清明、躁动、昏沉），英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。",
+       "en": "Guṇa originally means “strand”: a rope is twisted from several strands. Sattva (clear, bright), rajas (restless, passionate) and tamas (dark, dull) are the three strands twisted into everything in the world. The plain Chinese transliterates them as 萨埵、罗阇、多摩 (sàduǒ, luóshé, duōmó), each with a one-word gloss in brackets (clear, restless, dull); the English keeps the original names here, and in the next verse, where they are called 三德 (sān dé, “the three qualities”), writes “the three qualities (gunas).”"
       }
      ]
     },
@@ -2230,6 +2373,7 @@
   },
   {
    "title": "Chapter 8 · The Yoga of the Imperishable Brahman",
+   "intro": "Arjuna asks what Brahman, the inner self and other terms mean. Krishna's key point: whatever one thinks of at death is where one goes, and whoever dies thinking of him comes to him and is not reborn. He also tells of worlds arising and dissolving with Brahma's day and night, and the two paths of the dead.",
    "verses": [
     {
      "h": "d31b43bf",
@@ -2403,6 +2547,7 @@
   },
   {
    "title": "Chapter 9 · The Yoga of the Royal Knowledge and the Royal Secret",
+   "intro": "Krishna calls this the royal secret: he pervades the world, sending beings out at the start of an age and taking them back at its end. Those who reach heaven by ritual return when their merit runs out. A leaf or flower offered with love he accepts. Anyone, however low or sinful, who turns wholly to him is saved.",
    "verses": [
     {
      "h": "3d9ae682",
@@ -2619,6 +2764,7 @@
   },
   {
    "title": "Chapter 10 · The Yoga of Divine Manifestations",
+   "intro": "Krishna says neither gods nor sages know his origin, since everything comes from him. Arjuna asks in what things he should think of him. Krishna gives a long list: among mountains he is the Himalaya, among rivers the Ganges, in every heart he is the self. All this, he says, is only a small spark of his splendor.",
    "verses": [
     {
      "h": "fcd6da0c",
@@ -2947,6 +3093,7 @@
   },
   {
    "title": "Chapter 11 · The Vision of the Universal Form",
+   "intro": "Arjuna asks to see Krishna as lord of the universe. Given divine sight, he sees countless mouths and eyes, a light like a thousand suns, and the warriors of both armies rushing into those mouths to be crushed. Krishna says \"I am time\": they are already as good as dead. Terrified, Arjuna begs him to return to his human form.",
    "verses": [
     {
      "h": "10b8f72d",
@@ -3296,6 +3443,7 @@
   },
   {
    "title": "Chapter 12 · The Yoga of Devotion",
+   "intro": "Arjuna asks which is better: worshipping Krishna in his form, or the formless, unseen Brahman. Krishna says both reach him, but the first is far easier. If you cannot, step down: practice, or work for his sake, or let go of the results. He ends by describing, line by line, the devotee who is dear to him.",
    "verses": [
     {
      "h": "3ab47115",
@@ -3442,6 +3590,7 @@
   },
   {
    "title": "Chapter 13 · The Yoga of Telling the Field from the Knower of the Field",
+   "intro": "Krishna calls the body \"the field\" and the one inside who knows it \"the knower of the field\", and says he is the knower in every field. He lists what counts as true knowledge, then explains nature and the person: nature does all the acting, the person feels pleasure and pain. Whoever sees the difference is not born again.",
    "verses": [
     {
      "h": "ce8d4503",
@@ -3682,6 +3831,7 @@
   },
   {
    "title": "Chapter 14 · Telling the Three Qualities Apart",
+   "intro": "Krishna describes the three qualities: clear sattva binds through attachment to happiness and knowledge, restless rajas keeps one busy, dark tamas makes one lazy and confused. Whichever rules at death decides one's rebirth. One who rises above all three treats pleasure and pain, praise and blame alike.",
    "verses": [
     {
      "h": "821c4045",
@@ -3717,8 +3867,8 @@
       },
       {
        "w": "sattva / rajas / tamas",
-       "note": "本站白话直接音译成「萨埵、罗阇、多摩」，不替它们下定义；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。",
-       "en": "The site's plain Chinese simply transliterates them as 萨埵、罗阇、多摩 (Sàduǒ, Luóshé, Duōmó) without defining them. The usual Chinese renderings 善性、激性、惰性 (shànxìng, jīxìng, duòxìng: \"goodness, passion, inertia\") and the usual English \"goodness / passion / darkness\" each catch only one side. sattva literally means \"being, reality,\" extended to brightness and clarity; rajas first meant \"dust, haze,\" extended to restlessness; tamas simply means \"darkness.\" The site's English keeps the Sanskrit words and glosses each with two words the first time."
+       "note": "本站白话音译成萨埵、罗阇、多摩，每章第一次出现时在括号里各配一个词（清明、躁动、昏沉）；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。",
+       "en": "The site's plain Chinese transliterates them as 萨埵、罗阇、多摩 (Sàduǒ, Luóshé, Duōmó), adding a one-word gloss in brackets (clear, restless, dull) the first time they appear in a chapter. The usual Chinese renderings 善性、激性、惰性 (shànxìng, jīxìng, duòxìng: \"goodness, passion, inertia\") and the usual English \"goodness / passion / darkness\" each catch only one side. sattva literally means \"being, reality,\" extended to brightness and clarity; rajas first meant \"dust, haze,\" extended to restlessness; tamas simply means \"darkness.\" The site's English keeps the Sanskrit words and glosses each with two words the first time."
       }
      ]
     },
@@ -3863,6 +4013,7 @@
   },
   {
    "title": "Chapter 15 · The Highest Person",
+   "intro": "Krishna pictures the world of birth and death as a fig tree with roots above and branches below; cut it down with the axe of detachment and reach the place of no return. Every being is an eternal part of him, and the light of sun, moon and fire is his. Above perishable and imperishable, he is the Highest Person.",
    "verses": [
     {
      "h": "974f80f5",
@@ -4030,6 +4181,7 @@
   },
   {
    "title": "Chapter 16 · The Divine and the Demonic Inheritance",
+   "intro": "Krishna sorts people into two kinds. Those born divine are fearless, truthful and harmless. Those born demonic are proud and greedy, deny the world a ruler, and live to pile up wealth and pleasure. Desire, anger and greed are the three gates to hell. Arjuna, he says, is of the first kind. Scripture decides what to do.",
    "verses": [
     {
      "h": "43f48367",
@@ -4194,6 +4346,7 @@
   },
   {
    "title": "Chapter 17 · Three Kinds of Faith",
+   "intro": "Arjuna asks about people who worship with faith but ignore scripture: which quality are they? Krishna says a person is what he believes, then sorts faith, food, sacrifice, austerity and giving into three kinds each. Fresh, wholesome food belongs to sattva; stale, spoiled food to tamas. He ends by explaining the words \"Om tat sat\".",
    "verses": [
     {
      "h": "533558cd",
@@ -4400,6 +4553,7 @@
   },
   {
    "title": "Chapter 18 · Renunciation and Freedom",
+   "intro": "The last chapter sums up: do what must be done, letting go only of clinging and results. Knowledge, action and happiness each come in three kinds, and the four classes each have their own duty. Krishna asks Arjuna to give himself wholly to him. Arjuna says his doubts are gone and he will fight. Sanjaya closes in wonder.",
    "verses": [
     {
      "h": "914d221b",

@@ -2,6 +2,118 @@
  "slug": "twenty-verses",
  "title": "Twenty Verses on Consciousness Only",
  "summary": "Vasubandhu answers the objections to “only consciousness, no outer objects”: dreams, hungry ghosts, hells, atoms, killing and reading other minds.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是印度佛教「唯识」一派的一篇短论，作者是世亲，一般认为他生活在约公元四到五世纪。「唯识」的意思是：我们看到的一切都只是识（心的认知作用）显现出来的样子，心外没有独立存在的对象。这篇专门回答别人对这个看法的反驳。题目叫「二十」，本站的原文分成二十二段。唐朝玄奘有汉译本。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "作者世亲在说话，「我」是他自己。全篇是辩论：写着「（有人反驳：）」的是对方，主张外面的世界真实存在的人；写着「（回答：）」的是世亲。很多段没有标，通常也是世亲在答。「你」是那位反驳的人。"
+  },
+  {
+   "q": "他拿什么来论证",
+   "a": "世亲用的多半是对方也承认的例子。做梦：梦里没有真东西，梦里的时间、地点照样固定，身体也会有真反应。饿鬼：一群饿鬼会一起看见同一条脓河。地狱：地狱里的人都看见狱卒。中间一段拆解「极微」（最小的物质颗粒），说它一旦要拼成东西就自相矛盾。最后讨论杀生和「知道别人的心」。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "这些偈原本配着世亲自己写的散文解说，单读偈颂会觉得跳；括号里补的就是解说里的意思。辩论的前提是当时佛教徒共有的世界观，例如有地狱、饿鬼，人会依业力投生，论里不加解释就拿来用。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这几个词会反复出现。",
+   "terms": [
+    [
+     "识",
+     "心的认知作用，看见、想到东西的那个作用。"
+    ],
+    [
+     "识的显现",
+     "心里浮现出来的表象。世亲说，我们以为是外物的，其实都是它。"
+    ],
+    [
+     "业",
+     "人做的事，以及它留下、将来会结出果报的力量。"
+    ],
+    [
+     "习气",
+     "行为留在心里的痕迹，将来结果报就从这里来。"
+    ],
+    [
+     "种子",
+     "认知生起的根源，存在识里的潜在力量。"
+    ],
+    [
+     "极微",
+     "当时一些学派认为的最小物质颗粒，物体都由它拼成。"
+    ],
+    [
+     "饿鬼",
+     "佛教说的一类众生，因过去的业，总是饥渴受苦。"
+    ],
+    [
+     "无我",
+     "没有一个固定不变的「我」，也没有固定不变的「东西」。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A short treatise of the Indian Buddhist school of \"consciousness only\", by Vasubandhu, generally thought to have lived around the fourth to fifth century. The school holds that everything we see is only how things appear in the mind, with no object standing on its own outside it. This work answers the objections to that view. It is called \"Twenty\", though the original here has twenty-two verses. Xuanzang translated it into Chinese in the Tang dynasty."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The author, Vasubandhu, is speaking; \"I\" is him. The whole text is a debate. Lines marked \"(Objection:)\" are the other side, people who hold that the outer world really exists; lines marked \"(Answer:)\" are Vasubandhu. Most unmarked verses are also his answers. \"You\" is the objector."
+  },
+  {
+   "q": "How he argues",
+   "a": "Vasubandhu mostly uses examples his opponents already accept. Dreams: nothing real is there, yet times and places stay fixed and the body really responds. Hungry ghosts: a whole group sees the same river of pus. Hell: everyone there sees the guards. A middle section takes apart the idea of atoms, showing it falls into contradiction once atoms must join into things. The end discusses killing and knowing other minds."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "These verses were written to go with Vasubandhu's own prose explanation, so on their own they can feel jumpy. The argument also takes for granted the world view Buddhists shared at the time: hells, hungry ghosts, and rebirth according to karma."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Consciousness",
+     "The mind's work of knowing, of seeing and thinking of things."
+    ],
+    [
+     "Representation",
+     "Vijnapti, what appears in the mind. Vasubandhu says what we take for outer things is only this."
+    ],
+    [
+     "Karma",
+     "What a person does, and the force it leaves behind that later bears fruit."
+    ],
+    [
+     "Imprints",
+     "Traces that actions leave in the mind; later results come from them."
+    ],
+    [
+     "Seed",
+     "The source a representation arises from, a potential stored in consciousness."
+    ],
+    [
+     "Atom",
+     "The smallest particle of matter, from which some schools of the time said all things are built."
+    ],
+    [
+     "Hungry ghosts",
+     "A kind of being in Buddhist cosmology, always hungry and thirsty because of past karma."
+    ],
+    [
+     "Selflessness",
+     "There is no fixed, unchanging self, and no fixed, unchanging thing."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部论和《唯识三十颂》出自同一位作者，本站英文的术语两部一致：vijñāna 一律译 consciousness（识），vijñapti 一律译 representation（表象，字面「使人知道」，指东西在心里显现出来的样子），vijñaptimātra 译 nothing but representation，pariṇāma 译 transformation（转变），vāsanā 译 imprints（习气）。中文版两个词都用「识」字，白话在第一颂用「识的显现」来区分；英文直接用两个不同的词，读者更容易看出世亲论证的是「我们见到的只是表象」，而不是「只有心存在」。",
   "第二个要点是 artha。梵文 artha 同时是「对象」「意义」「用处」；论里说「没有外在的 artha」，指的是心外独立存在的对象。英文译成 object，中文玄奘译「境」「义」，白话写「对象」。玄奘本第一句「此中都无少分实义」用了「义」字，现代读者容易读成「没有意义」，其实是「没有真实的对象」。",

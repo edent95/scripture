@@ -1,6 +1,7 @@
 /* 跟随 Eden brand guide(https://eden-tan.com/brand-guide/):
    内容先行;Paper / Soft / Ink / Muted / Line 做底,Mint(浅)/ Orange(深)是主品牌色,
-   Dream Purple 只给链接与行动;MiSans 做正文与标题,JetBrains Mono 做标签;
+   Dream Purple 只给链接与行动;全站只用 MiSans 一家(2026-11-25 用户定):正文、标题、标签都是 MiSans,天城体用 MiSans Devanagari;
+   只有罗马转写用 Inter,因为 MiSans 没有 ṃ ḥ ṛ ṭ ḍ ṇ 这些带点的字母,混着显示会一个词两种字体;
    圆角 18 / 28,按钮至少 44px,流体页边距 20–48px。 */
 :root {
   color-scheme: light;
@@ -18,9 +19,10 @@
   --radius-md: 28px;
   --gutter: clamp(20px, 3vw, 48px);
   --measure: 46rem;
-  --sans: 'MiSans VF', 'MiSans', 'MiSans Latin', 'MiSans TC', 'Inter', ui-sans-serif, system-ui, -apple-system, 'PingFang SC', sans-serif;
-  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
-  --deva: 'Noto Serif Devanagari', 'Kohinoor Devanagari', serif;
+  --sans: 'MiSans VF', 'MiSans', 'Inter', ui-sans-serif, system-ui, -apple-system, 'PingFang SC', sans-serif;
+  --mono: var(--sans); /* 标签也用 MiSans,靠字距和小字号区分;变量名留着,用它的地方很多 */
+  --deva: 'MiSansDevanagari VF', 'MiSansDevanagari', 'Kohinoor Devanagari', 'Noto Sans Devanagari', sans-serif;
+  --latn: 'Inter', 'MiSans VF', ui-sans-serif, system-ui, sans-serif; /* 罗马转写:要带点的字母齐全 */
   --arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', 'Geeza Pro', 'Traditional Arabic', serif;
 }
 @media (prefers-color-scheme: dark) {
@@ -67,7 +69,7 @@ a { color: var(--action); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
 :focus-visible { outline: 2px solid var(--action-soft); outline-offset: 3px; border-radius: 6px; }
 
-/* 标签声线:JetBrains Mono */
+/* 标签声线:MiSans + 字距 */
 .kicker, .meta, .num, .who, .crumbs, .col-toggle button, .banner-kicker, .banner-meta, .read-count, .next-kicker, .col.sa::before, .book-list small, .chapter-list span, .feed-no, .feed-kicker {
   font-family: var(--mono);
   letter-spacing: 0.06em;
@@ -253,6 +255,10 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .notes dd { margin: 2px 0 0; }
 .col.sa { color: var(--muted); }
 .deva { margin: 0; font-family: var(--deva); font-size: 1.1rem; line-height: 1.9; }
+/* 文言原文(道德经等):汉字,用正文同一款 MiSans,字放大一点、字距松一点 */
+.han { margin: 0; font-family: var(--sans); font-size: 1.2rem; line-height: 2; letter-spacing: 0.04em; }
+.book-page .han { color: color-mix(in srgb, var(--ink) 82%, var(--muted)); }
+.iast, .sa-name, h1 > span[lang$='-Latn'] { font-family: var(--latn); }
 .iast { margin: 6px 0 0; font-size: 0.92rem; font-style: italic; overflow-wrap: anywhere; }
 
 /* 英译:和白话同级的正文,左边一条主品牌色细线标出「这是另一种语言」 */
@@ -263,17 +269,69 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 body[data-lang='en'] .col.en { padding-left: 0; border-left: 0; }
 body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
 
-/* 读之前先知道这几件事（目录页，章节列表前面） */
-.primer { max-width: var(--measure); margin: 32px 0 40px; padding: 28px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
-.primer h2 { margin: 6px 0 14px; }
-.primer details { border-top: 1px solid var(--line); }
-.primer summary { min-height: 44px; padding: 12px 0; color: var(--ink); cursor: pointer; font-weight: 700; }
-.primer details p { margin: 0 0 14px; line-height: 1.9; }
-.primer dl { margin: 0 0 16px; }
-.primer dt { margin-top: 10px; color: var(--ink); font-weight: 700; }
-.primer dd { margin: 2px 0 0; color: var(--muted); line-height: 1.8; }
-.primer-link { margin: 8px 0 6px; font-size: 0.92rem; }
-.primer-link a { color: var(--action); font-weight: 600; }
+/* 读之前先知道这几件事(多章书在目录页章节列表前面,单章书在经文前面)。
+   左栏:这本书的花纹章 + 标题 + 几条几分钟;右栏:编号的问答。金线只画框和分隔,不写字。 */
+.primer { position: relative; display: grid; gap: clamp(20px, 3vw, 56px); margin: clamp(28px, 4vw, 56px) 0; padding: clamp(26px, 3.4vw, 48px); background: var(--soft); border-radius: var(--radius-md); }
+.primer::before { content: ''; position: absolute; inset: 8px; border: 1px solid color-mix(in srgb, var(--cover-foil, var(--line)) 42%, transparent); border-radius: calc(var(--radius-md) - 8px); pointer-events: none; }
+.primer-emblem { display: none; }
+.primer-emblem img { display: block; width: 100%; height: auto; }
+/* 读经页右边的留白:宽屏上经文只占左边一栏,右边放这本书的大章,跟着往下读一直停在视线旁边(sticky)。
+   窄于 1200px 没有这块留白,不放;章是装饰,不挡字、不接鼠标。 */
+.read-grid { display: block; }
+.page-emblem { display: none; }
+@media (min-width: 1200px) {
+  .read-grid { display: grid; grid-template-columns: minmax(0, var(--measure)) minmax(0, 1fr); column-gap: clamp(32px, 5vw, 96px); align-items: start; }
+  .page-emblem { display: block; position: sticky; top: 168px; justify-self: center; width: min(100%, 400px); margin-top: 40px; opacity: 0.78; pointer-events: none; }
+  .page-emblem img { display: block; width: 100%; height: auto; }
+}
+/* 分隔小章(mandala-emblem 技能):两节之间一枚 44px 的小章,两边各一条细线。只放在换话题的地方,不放在经文段落之间 */
+.emblem-divider { display: flex; align-items: center; gap: 20px; max-width: var(--measure); margin: clamp(40px, 6vw, 72px) 0 0; }
+.emblem-divider--wide { max-width: none; margin: clamp(36px, 5vw, 64px) 0 clamp(-8px, -1vw, 0px); }
+.emblem-divider::before, .emblem-divider::after { content: ''; flex: 1; height: 1px; background: var(--line); }
+.emblem-divider picture, .emblem-divider img { display: block; width: 44px; height: 44px; }
+.primer .kicker { margin-bottom: 10px; }
+.primer h2 { margin: 0 0 12px; font-size: clamp(1.5rem, 2.4vw, 2.05rem); line-height: 1.25; text-wrap: balance; }
+.primer-meta { margin: 0; color: var(--muted); font-size: 0.82rem; letter-spacing: 0.06em; font-variant-numeric: tabular-nums; }
+.primer-list { list-style: none; margin: 0; padding: 0; min-width: 0; }
+.primer-list > li { border-top: 1px solid var(--line); }
+.primer-list > li:last-child { border-bottom: 1px solid var(--line); }
+.primer summary { display: grid; grid-template-columns: 2.2rem 1fr 14px; align-items: center; gap: 0 12px; min-height: 60px; padding: 14px 0; color: var(--ink); cursor: pointer; list-style: none; }
+.primer summary::-webkit-details-marker { display: none; }
+.primer summary::after { content: ''; width: 14px; height: 14px; background: linear-gradient(var(--muted), var(--muted)) center / 100% 1.5px no-repeat, linear-gradient(var(--muted), var(--muted)) center / 1.5px 100% no-repeat; transition: transform 240ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+.primer details[open] > summary::after { transform: rotate(135deg); }
+.primer summary:hover .primer-q { color: var(--action); }
+.primer summary:focus-visible { outline: 2px solid var(--action); outline-offset: 4px; border-radius: 8px; }
+.primer-no { color: var(--muted); font-size: 0.78rem; letter-spacing: 0.08em; font-variant-numeric: tabular-nums; }
+.primer-q { font-size: 1.08rem; font-weight: 700; line-height: 1.45; }
+.primer-a { padding: 0 0 24px calc(2.2rem + 12px); max-width: 46rem; }
+.primer-a p { margin: 0; line-height: 1.95; }
+.primer details[open] .primer-a { animation: primer-in 280ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+@keyframes primer-in { from { opacity: 0; transform: translateY(-6px); } }
+.primer-terms { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); gap: 10px; margin: 18px 0 0; }
+.primer-terms > div { padding: 14px 16px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius-sm); }
+.primer-terms dt { color: var(--ink); font-weight: 700; line-height: 1.45; }
+.primer-terms dd { margin: 4px 0 0; color: var(--muted); font-size: 0.92rem; line-height: 1.75; }
+@media (min-width: 960px) {
+  .primer { grid-template-columns: minmax(220px, 0.36fr) minmax(0, 1fr); }
+  .primer-head { position: sticky; top: 96px; align-self: start; }
+  /* 左栏标题下面的留白放这本书的大章:会慢慢描线、转动;窄屏没有这块留白,不放 */
+  .primer-emblem { display: block; width: min(100%, 236px); margin-top: 30px; opacity: 0.92; }
+}
+@media (max-width: 560px) {
+  .primer-a { padding-left: 0; }
+  .primer summary { grid-template-columns: 1.9rem 1fr 14px; }
+}
+/* 这一章在讲什么:经文前面的一张导读卡,左边一道这本书的金线;下面是回到「读之前先知道」的入口 */
+.ch-intro { display: grid; gap: 6px 24px; margin: 20px 0 10px; padding: clamp(18px, 2.2vw, 26px) clamp(18px, 2.4vw, 30px); border-left: 2px solid var(--cover-foil, var(--line)); background: var(--soft); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
+.ch-intro-label { margin: 0; color: var(--muted); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; }
+.ch-intro-text { margin: 0; max-width: 52rem; font-size: 1.08rem; line-height: 1.9; }
+.ch-intro-link { display: inline-flex; align-items: center; justify-self: start; min-height: 44px; margin-top: 4px; color: var(--action); font-size: 0.92rem; font-weight: 600; }
+.ch-intro-link span { display: inline-block; margin-left: 4px; transition: transform 200ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+.ch-intro-link:hover span { transform: translateX(3px); }
+@media (prefers-reduced-motion: reduce) {
+  .primer summary::after, .ch-intro-link span { transition: none; }
+  .primer details[open] .primer-a { animation: none; }
+}
 
 /* 三语对照总结 */
 .compare { max-width: var(--measure); margin-top: 56px; padding: 32px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
@@ -583,7 +641,7 @@ main { overflow-x: clip; }
 .feed-art[data-layout='2'] .feed-seal { display: grid; bottom: 9cqi; left: calc(50% - 7.5cqi); }
 /* 版式 3:线稿镜像到左下,书名换衬线,印章在右下 */
 .feed-art[data-layout='3'] .feed-scene { left: -16%; bottom: -12%; width: 96%; scale: -1 1; }
-.feed-art[data-layout='3'] .feed-title { font-family: 'Songti SC', 'Noto Serif SC', 'Source Han Serif SC', Georgia, 'Times New Roman', serif; font-weight: 900; }
+.feed-art[data-layout='3'] .feed-title { font-weight: 700; }
 :lang(en) .feed-art[data-layout='3'] .feed-title { font-style: italic; font-weight: 700; }
 .feed-art[data-layout='3'] .feed-seal { display: grid; right: 9cqi; bottom: 9cqi; }
 
@@ -707,8 +765,6 @@ main { overflow-x: clip; }
 }
 
 /* 章前导读:这一章在讲什么。左边一道这本书的金线,小标另起一行 */
-.ch-intro { margin: 18px 0 6px; padding: 14px 18px; border-left: 2px solid var(--cover-foil, var(--line)); background: color-mix(in srgb, var(--ink) 5%, transparent); border-radius: 0 14px 14px 0; line-height: 1.85; }
-.ch-intro strong { display: block; margin-bottom: 4px; color: var(--muted); font-size: 0.72rem; letter-spacing: 0.08em; }
 
 /* 一图看懂:一章一张大图。宽屏用一行排开的那张,手机用两行的那张;图下面的说明和路上的站一一对应。
    线稿颜色:.pi 墨线、.pf 淡线、.pg 金线,浅深色都读 CSS 变量。 */
