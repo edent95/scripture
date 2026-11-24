@@ -2,6 +2,110 @@
  "slug": "great-compassion-mantra",
  "title": "The Great Compassion Mantra",
  "summary": "The Avalokiteshvara mantra Chinese Buddhists chant most, explained line by line from the Sanskrit: homage to the Three Jewels, a call to the “blue-throated” lord, and a string of blessings.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这不是一部讲道理的经，而是一段咒语，也叫陀罗尼：一串要原音念诵的梵文句子。它出自唐朝伽梵达摩翻译的一部讲千手千眼观音的经，华人寺院早晚课都念。今天大家念的是汉字音译，字面上看不出意思；本站把每一句还原成梵文，再译成白话。"
+  },
+  {
+   "q": "是谁在说话，对谁说",
+   "a": "念咒的人在说话。「我」是念咒的人自己，被呼唤的对象主要是观自在，也就是观音菩萨。前面几句是开场：先礼敬三宝和观自在，说「我要念他的心咒」。中间是一连串呼唤和催促，后面是一长串「向某某，娑婆诃」的祝祷。"
+  },
+  {
+   "q": "为什么有些句子写「意思不明」",
+   "a": "这段咒经过多次抄写和音译，很多音已经走样，有的词找不到对得上的梵文。本站不硬猜，凡是读不出来的地方就照实写「意思不明」，有疑问的加问号。「呼嚧呼嚧」「度卢度卢」这类是催促的呼声，本来就没有字面意思。"
+  },
+  {
+   "q": "观音为什么叫「青颈」",
+   "a": "「青颈」是印度神话里湿婆的称号：传说湿婆吞下毒药救了世界，喉咙变成青色。咒里把这个称号用在观自在身上，还出现了诃利（毗湿奴的名号）、商羯罗（湿婆的名号）、狮子面、持莲花、持轮等称呼。一般认为，这是借印度诸神的形象来呼唤观音。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这几个词在咒里反复出现。",
+   "terms": [
+    [
+     "三宝",
+     "佛、法、僧三样宝贝：觉悟的人、他讲的道理、跟着修行的团体。"
+    ],
+    [
+     "观自在",
+     "观音菩萨的另一个译名，意思是「看着世间、自在无碍的那一位」。"
+    ],
+    [
+     "菩萨",
+     "立志求觉悟、也要帮别人觉悟的修行人。"
+    ],
+    [
+     "青颈",
+     "梵文 Nīlakaṇṭha，喉咙青色的那一位，原是湿婆的称号，这里用来称观音。"
+    ],
+    [
+     "诃利",
+     "梵文 Hari，原是毗湿奴的名号，这里也用来呼唤观音。"
+    ],
+    [
+     "娑婆诃",
+     "祝祷的结尾语，原是把供品投进祭火时的呼声，大意「愿吉祥成就」。"
+    ],
+    [
+     "心咒",
+     "一位菩萨最核心、最精要的咒语。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "This is not a teaching but a mantra, also called a dharani: a run of Sanskrit lines meant to be chanted in their original sound. It comes from a sutra about the thousand-armed Avalokiteshvara, put into Chinese by the monk Bhagavaddharma in the Tang dynasty, and Chinese temples chant it morning and evening. What people chant is a Chinese-character transcription with no visible meaning; this site restores each line to Sanskrit and translates it."
+  },
+  {
+   "q": "Who is speaking, and to whom",
+   "a": "The person chanting is the speaker; \"I\" and \"my\" are the chanter. The one called on is mainly Avalokiteshvara (Guanyin in Chinese). The first lines are an opening: homage to the Three Jewels and to Avalokiteshvara, and \"I will recite his heart-mantra\". Then come calls and cries of urging, and last a long string of \"To so-and-so, svāhā\"."
+  },
+  {
+   "q": "Why some lines say \"meaning unclear\"",
+   "a": "The mantra was copied and transcribed many times, and many syllables drifted until some words no longer match any Sanskrit word. The site does not guess: where a line cannot be read, it says \"meaning unclear\", and doubtful readings carry a question mark. Cries like \"huru, huru\" and \"dhuru, dhuru\" are urging sounds with no literal meaning."
+  },
+  {
+   "q": "Why Avalokiteshvara is called Blue-Throat",
+   "a": "Blue-Throat is a title of Shiva in Indian myth: he swallowed a poison to save the world, and his throat turned blue. The mantra gives this title to Avalokiteshvara, along with Hari (a name of Vishnu), Shankara (a name of Shiva), the lion-faced one, the lotus-holder and the wheel. The usual view is that Avalokiteshvara is being called on through the images of Indian gods."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again in the mantra.",
+   "terms": [
+    [
+     "Three Jewels",
+     "The Buddha, his teaching, and the community that follows it."
+    ],
+    [
+     "Avalokiteshvara",
+     "The bodhisattva known in Chinese as Guanyin; the name is read as \"the Lord who looks down\" on the world."
+    ],
+    [
+     "Bodhisattva",
+     "Someone set on awakening who also works to awaken others."
+    ],
+    [
+     "Blue-Throat",
+     "Nilakantha, \"the one with the blue throat\", first a title of Shiva, used here for Avalokiteshvara."
+    ],
+    [
+     "Hari",
+     "A name of Vishnu, used here as a way of calling on Avalokiteshvara."
+    ],
+    [
+     "svāhā",
+     "The closing cry of a blessing, first said as an offering went into the sacred fire: \"may it be fulfilled\"."
+    ],
+    [
+     "Heart-mantra",
+     "The central, most essential mantra of a bodhisattva."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部咒最大的问题不在翻译，而在原文本身。今天华人念的是唐代伽梵达摩的汉字音译，本站的梵文是不空译本里附的悉昙字本。两者都经过多次抄写，很多音节已经走样：l 写成 r、v 写成 b、词尾掉了、一个词被拆成两三句。所以白话和英文都只能「按最可能的读法」译，凡是找不到对得上的梵文词的地方，中文写「意思不明」，英文写 meaning unclear，两边都不硬译。读者看到英文里的 (meaning unclear) 或问号，不是漏译，是原文真的读不出来。",
   "第二个要点是 nīlakaṇṭha「青颈」。英文直译 Blue-Throat，保留了它在印度神话里的来历：湿婆吞下毒药救了世界，喉咙变青。这部咒把这个湿婆的称号用在观音身上，同时还出现 Hari（毗湿奴的名号）、Śaṅkara（湿婆的名号）、狮子面、持莲花、持轮等称呼。中文音译把这些全变成了没有意思的音，英文直译出来以后，读者会看到观音在这里是借着印度诸神的形象被呼唤的。",

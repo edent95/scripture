@@ -2,6 +2,126 @@
  "slug": "samkhya-karika",
  "title": "The Samkhya Verses",
  "summary": "Ishvarakrishna’s seventy-odd verses: the world splits into prakṛti, matter that becomes everything, and puruṣa, awareness that only watches. Seeing the difference clearly ends suffering.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是印度数论派的教本，原文是梵文，七十多首颂（有固定格律的短诗）。数论是印度最古老的哲学派别之一，「数」指把世界的组成一样一样数清楚。作者自在黑，一般认为生活在约一千六百年前。数论派自己更早的大部头书都失传了，这部是现存最早、讲得最完整的一部。六世纪时真谛把它连同一部注释译成汉文，叫《金七十论》。它不是佛经，后来的瑜伽经和薄伽梵歌都借用了它的一些说法。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "没有对话，也没有故事，是作者一个人在讲道理、下论证，有时先替反对的人提一句「有人说……」，再回答「不对」。第 61 颂的「我认为」就是作者自己。书里常把原质说成「她」、把原人说成「他」，这是比喻，不是说他们是人。最后几颂交代这套学说从迦毗罗一代代传到作者手里。"
+  },
+  {
+   "q": "这部书要回答什么",
+   "a": "第 1 颂就说：人被三种苦打击，吃药、祭祀都不能一劳永逸地除掉苦。唯一的办法是把世界的组成看清楚。数论说，世界有两样根本不同的东西：原质，会一步步变出心、感官和万物；原人，只是旁观的觉知者，自己什么也不做。人受苦，是因为把原质做的事当成了自己做的。看清「这些都不是我」，原人就得到独存，苦也就到头了。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "中间一大段是清单：原质先变出「大」，「大」变出我执，我执变出十一种感官和五种细微元素，细微元素再变出地、水、火、风、空，连同原人一共二十五样。还有十三种机能、五十种「心念的造化」这类数目。读的时候可以边读边画一棵树。书里也有好几个比喻帮助理解：瘸子骑在瞎子肩上、牛奶自己流出来喂小牛、舞女跳完就退场、陶轮停手后还会转一会儿。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "原质",
+     "产生万物的最初本源，没有觉知，却会一步步变出心和世界。也叫「未显现的」或「首要者」。"
+    ],
+    [
+     "原人",
+     "纯粹的觉知者，只看不做，不变也不生别的东西。每个人有一个，所以原人有很多个。"
+    ],
+    [
+     "三种性质",
+     "原质的三种成分：萨埵（明亮、轻盈）、罗阇（躁动）、多磨（暗沉、沉重）。"
+    ],
+    [
+     "显现的、未显现的",
+     "显现的是已经变出来、看得见的种种东西；未显现的是还没变出来时的原质。"
+    ],
+    [
+     "大、觉",
+     "原质最先变出的东西，负责做决断，两个名字指同一样。"
+    ],
+    [
+     "我执",
+     "觉得「有个我」的那种作用，从「大」里生出来。"
+    ],
+    [
+     "细身",
+     "由觉、我执、感官和细微元素组成的一套心理机能，带着人一世一世流转。"
+    ],
+    [
+     "细微元素",
+     "声、触、色、味、香的纯粹本质，再由它们变出地、水、火、风、空。"
+    ],
+    [
+     "独存",
+     "原人脱离原质、独自存在，就是解脱。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "This is a handbook of the Samkhya school of Indian philosophy, written in Sanskrit in seventy-odd verses. Samkhya is one of the oldest Indian schools; its name means \"counting\", listing what the world is made of one item at a time. The author, Ishvarakrishna, is generally thought to have lived about sixteen hundred years ago. The school's own earlier and longer books are lost, so this is the oldest full account that survives. In the sixth century Paramartha translated it, with a commentary, into Chinese. It is not a Buddhist text; the Yoga Sutras and the Bhagavad Gita both borrow some of its ideas."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "There is no dialogue and no story. One author lays out an argument, sometimes raising an objection (\"If you say...\") and answering it (\"No...\"). The \"to my mind\" of verse 61 is the author himself. Prakṛti is often called \"she\" and puruṣa \"he\"; this is a figure of speech, not a claim that they are people. The last verses tell how the teaching came down from the sage Kapila to the author."
+  },
+  {
+   "q": "What the book sets out to answer",
+   "a": "Verse 1 says people are struck by three kinds of suffering, and neither medicine nor ritual removes it for good. The only way is to see clearly what the world is made of. Samkhya says there are two utterly different things: prakṛti, which unfolds step by step into mind, senses and everything else; and puruṣa, a conscious witness that does nothing. We suffer because we take what prakṛti does to be our own doing. Seeing \"none of this is me\" brings puruṣa to aloneness, and suffering ends."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "The middle is a list: prakṛti produces mahat, mahat produces the I-maker, which produces eleven senses and five subtle elements, which produce earth, water, fire, air and space; with puruṣa that makes twenty-five. There are also thirteen instruments, fifty kinds of mental creation and other counts. It helps to sketch a tree as you read. Several images also help: a lame man riding on a blind man's shoulders, milk flowing by itself to feed a calf, a dancer leaving the stage, a potter's wheel that keeps turning after the hand lets go."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Prakṛti",
+     "Primal nature, the source of everything: not conscious, yet it unfolds into mind and world. Also called \"the unmanifest\" or pradhāna, \"the chief\"."
+    ],
+    [
+     "Puruṣa",
+     "The pure conscious witness, which only watches, never changes and produces nothing. Each being has one, so there are many."
+    ],
+    [
+     "The three guṇas",
+     "The strands of nature: sattva (light, bright), rajas (restless, active), tamas (heavy, dark)."
+    ],
+    [
+     "Manifest, unmanifest",
+     "The manifest is everything already unfolded and perceptible; the unmanifest is prakṛti before it unfolds."
+    ],
+    [
+     "Mahat, buddhi",
+     "The first thing prakṛti produces, the intellect that decides; two names for the same thing."
+    ],
+    [
+     "Ahaṃkāra",
+     "The I-maker, the function that makes us feel there is a \"me\"; it comes from mahat."
+    ],
+    [
+     "Subtle body (liṅga)",
+     "The inner set of faculties, from intellect to the subtle elements, that carries a being from birth to birth."
+    ],
+    [
+     "Subtle elements",
+     "The pure essences of sound, touch, form, taste and smell, from which earth, water, fire, air and space come."
+    ],
+    [
+     "Aloneness",
+     "Puruṣa standing apart from prakṛti, on its own: this is release."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部论最难的是两个核心词：prakṛti 和 puruṣa。白话沿用旧译「原质」「原人」，英文保留梵文原词，第一次出现时加括号解释。这样做是因为常见的英文译法都会带进别的东西：nature 让人想到大自然，matter 太像物理学；spirit、soul、self 会让人想到基督教的灵魂或日常的「自我」。puruṣa 字面就是「人、男人」，它在数论里却只是一个不思考、不行动、只是「看」的觉知。英文用复数 puruṣas，读者一眼就看出数论说原人有很多个，跟奥义书「一切众生只有一个自我」正好相反；中文没有复数，只能写「很多个」。从第 59 颂起，论里把原质写成舞女、把原人写成观众，英文也从 it 改成 she / he。",
   "第二个差别在 guṇa。它本义是「一股绳」，三股拧在一起，才成了世界这根绳。英文保留原词，第一次出现时解释为 strands；白话译「性质」，古译「三德」，都看不出这个比喻，古译的「德」还容易被读成道德。三股的名字 sattva、rajas、tamas，英文保留原词，白话音译为「萨埵、罗阇、多磨」，古译却意译为「喜、忧、暗」。",

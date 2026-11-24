@@ -2,6 +2,126 @@
  "slug": "gateway-to-logic",
  "title": "A Gateway to Logic",
  "summary": "A handbook of debate: how to state a thesis, give a reason and an example, which arguments only look valid, and the two ways of knowing, perception and inference.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是印度佛教的一本辩论和推理入门手册，叫「因明」，就是讲道理的学问。传统上说作者是商羯罗主，佛教逻辑学家陈那的弟子，大约生活在一千四五百年前（约公元六世纪）。唐朝玄奘把它译成汉文，书名《因明入正理论》。它教人怎样立论、怎样驳人，又怎样分辨对的认识和错的认识。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "作者在说话，像老师写教科书，没有对话，也没有故事。他先给定义，再一条条举例。书里的「提问的人」「对方」指辩论时听你论证的人。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "古代印度各派常常公开辩论，据说输了的一方有时要改信对方的学说，所以怎样讲理是一门要紧的功夫。书里的例子大多围绕当时的老题目「声音是常住的还是无常的」，也常提到其他学派：胜论派、数论派，它们各有自己承认和不承认的东西。看懂例子，要先知道谁承认什么，括号里已经补上。"
+  },
+  {
+   "q": "一个标准论证长什么样",
+   "a": "书里的标准论证有三句。主张（宗）：「声音是无常的。」理由（因）：「因为它是造出来的。」例子（喻）：「凡是造出来的都是无常的，像瓶子；凡是常住的都不是造出来的，像虚空。」全书大半在讲这三句各会出哪些毛病：假的主张、假的理由、假的例子。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "术语很多，又一层层分类：不成有四种，不定有六种，相违有四种。可以只抓大意：理由要成立，要只跟主张同一边的东西一起出现，不能跟反面的东西一起出现。例子里的「虚空」是当时公认永远不变的东西，「瓶子」是公认会坏的东西，几乎每一段都拿这两样来比。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这几个词贯穿全书。",
+   "terms": [
+    [
+     "宗、因、喻",
+     "论证的三部分：主张、理由、例子。"
+    ],
+    [
+     "能立、能破",
+     "立论证明自己的主张；指出对方论证的毛病把它驳倒。"
+    ],
+    [
+     "同品、异品",
+     "跟主张同一边的东西（如证明「无常」时的瓶子），和反面的东西（如虚空）。"
+    ],
+    [
+     "常住、无常",
+     "永远不变；会生灭变化。全书的例子都围绕这一对。"
+    ],
+    [
+     "现量",
+     "直接感知，不带名称和概念的认识。"
+    ],
+    [
+     "比量",
+     "推理，从一个标志推知看不见的东西，比如看到烟知道有火。"
+    ],
+    [
+     "似宗、似因、似喻",
+     "看起来像、其实不成立的主张、理由、例子。"
+    ],
+    [
+     "不成、不定、相违",
+     "理由的三类毛病：理由本身不成立；推不出确定的结论；反而证明了相反的结论。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "An introductory handbook of debate and reasoning from Indian Buddhism, a field called hetuvidya, \"the science of reasons\". Tradition names its author as Shankarasvamin, a disciple of the Buddhist logician Dignaga, living around the sixth century. Xuanzang put it into Chinese in the Tang dynasty. It teaches how to make an argument, how to refute one, and how to tell sound knowledge from false."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The author speaks, like a teacher writing a textbook. There is no dialogue and no story: he gives a definition, then examples one by one. \"The questioners\" are the people listening to your argument in a debate."
+  },
+  {
+   "q": "The background",
+   "a": "Schools in ancient India often debated in public, and it is said the loser sometimes had to take up the winner's teaching, so how to argue mattered. Most examples turn on an old question of the time, whether sound is permanent or impermanent, and they often name other schools, the Vaisheshika and the Samkhya, each of which accepts some things and rejects others."
+  },
+  {
+   "q": "What a standard argument looks like",
+   "a": "The standard argument has three parts. Thesis: \"Sound is impermanent.\" Reason: \"Because it is produced.\" Example: \"Whatever is produced is impermanent, like a pot; whatever is permanent is not produced, like space.\" Most of the book lists what can go wrong with each part: false theses, false reasons, false examples."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "There are many terms, sorted in layers: four kinds of unestablished reason, six of inconclusive, four of contradictory. The core idea is simple: a reason must hold of the subject, go with things on the thesis's side, and never go with things on the opposite side. \"Space\" was the standard example of something permanent and \"a pot\" of something that breaks; nearly every section compares the two."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These run through the whole book.",
+   "terms": [
+    [
+     "Thesis, reason, example",
+     "The three parts of an argument."
+    ],
+    [
+     "Proof, refutation",
+     "Arguing for your own thesis; showing the faults in the other side's argument."
+    ],
+    [
+     "Similar case, dissimilar case",
+     "Things on the side of the thesis (a pot, when proving impermanence) and things on the opposite side (space)."
+    ],
+    [
+     "Permanent, impermanent",
+     "Never changing; arising and passing away. Nearly every example turns on this pair."
+    ],
+    [
+     "Perception",
+     "Direct knowing through the senses, free of names and concepts."
+    ],
+    [
+     "Inference",
+     "Knowing something unseen from a mark, as fire from smoke."
+    ],
+    [
+     "False thesis, false reason, false example",
+     "A thesis, reason or example that looks right but does not hold."
+    ],
+    [
+     "Unestablished, inconclusive, contradictory",
+     "The three kinds of faulty reason: it does not hold; it leads to no sure conclusion; it proves the opposite."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "先说书名。梵文 Nyāyapraveśa 是「进入 nyāya 的门」，nyāya 本义是「方法、规则、正路」，后来专指辩论和推理的学问。英文 logic 是西方哲学的词，偏重形式推理，而这部书讲的其实是「怎么在辩论里立论、怎么驳人」，比 logic 更实用；玄奘译「入正理」，中文传统又统称这门学问为「因明」（hetuvidyā，关于「理由」的学问）。三种叫法各自偏一边，英文书名用 logic 只是方便读者认出题材。",
   "第二个差别是术语。玄奘为这部书造了一整套中文术语：宗、因、喻、同品、异品、现量、比量、能立、能破，每个都是一两个字，精炼但不解释就看不懂。英文没有现成的对应词，本站用日常英文意译：pakṣa 译 thesis（主张），hetu 译 reason（理由），dṛṣṭānta 译 example（例子），sapakṣa / vipakṣa 译 similar case / dissimilar case，pratyakṣa / anumāna 译 perception / inference，pramāṇa 译 means of knowing（量）。好处是一读就懂，代价是看不出它们是一套专门术语。",

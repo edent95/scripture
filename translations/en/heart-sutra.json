@@ -2,6 +2,118 @@
  "slug": "heart-sutra",
  "title": "The Heart of the Perfection of Wisdom",
  "summary": "About two hundred words on emptiness: none of the five things that make up a person has a fixed nature of its own. Seeing this clearly, the mind is no longer held by fear.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是大乘佛教的一部短经，梵文原本只有两百多字，讲的是「空」：一个人身上的每一样东西，都没有独立不变的本质。它在中国、日本、韩国流传很广，很多佛教徒天天念。华人最熟悉的是唐朝玄奘的汉译本；本站的白话照梵文翻，所以开头多了一句礼敬，结尾多了一句「到此结束」。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "这个短本里没有出现佛。从头到尾是观自在菩萨（就是观音）在说，听的人是舍利弗，佛的大弟子之一，在佛的弟子里以聪明著称。经里一再出现的「舍利弗啊」，就是观自在在叫他的名字。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "中间一大段是一连串的「没有」：没有眼耳鼻舌身心，没有苦，没有智慧，也没有得到。这不是说世界不存在，而是说在「空」的眼光下，这些东西都找不到独立不变的本质，连佛教自己讲的道理（苦、苦的成因等）也一样。看到「一直到」，是省掉了中间一串同类的项目。"
+  },
+  {
+   "q": "结尾那句咒是什么",
+   "a": "最后一句「去了，去了，到彼岸去了……」是梵文咒语的意译。「彼岸」指河的对岸，佛经常用渡河比喻离开痛苦。经文说「智慧的圆满」本身就是这句咒，念它就是在提醒自己那份智慧。很多人念的是音译「揭谛揭谛，波罗揭谛」，说的就是这一句。"
+  },
+  {
+   "q": "常见的词",
+   "a": "全经很短，下面几个词一出现就要认得。",
+   "terms": [
+    [
+     "智慧的圆满",
+     "梵文「般若波罗蜜多」的意思：把智慧修到圆满，看清一切东西的真相。"
+    ],
+    [
+     "菩萨",
+     "立志求觉悟、也要帮所有人觉悟的修行人。观自在就是一位菩萨。"
+    ],
+    [
+     "五蕴",
+     "构成一个人的五类东西：物质（身体）、感受、认知、意志、意识。"
+    ],
+    [
+     "空性",
+     "没有独立不变的本质。东西还在，只是没有一个永远不变、自己成立的「核心」。"
+    ],
+    [
+     "无明",
+     "看不清真相的糊涂，佛教认为这是一切痛苦的源头。"
+    ],
+    [
+     "颠倒",
+     "把事情看反了，例如把会变的当成不变，把没有「我」的当成有「我」。"
+    ],
+    [
+     "涅槃",
+     "烦恼完全熄灭的状态，是佛教修行的终点。"
+    ],
+    [
+     "佛",
+     "完全觉悟的人。经里说过去、现在、未来的佛都靠这份智慧觉悟。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A short Mahayana Buddhist sutra, a little over two hundred words in Sanskrit, about emptiness: nothing that makes up a person has a fixed nature of its own. It is widely known across China, Japan and Korea, and many Buddhists chant it daily. The best-known Chinese version is by the monk Xuanzang of the Tang dynasty; this site follows the Sanskrit, which adds an opening homage and a closing line."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The Buddha does not appear in this short version. The speaker throughout is the bodhisattva Avalokiteshvara (Guanyin in Chinese), and the listener is Shariputra, one of the Buddha's chief disciples, known for his sharp mind. Each \"Shariputra\" in the text is Avalokiteshvara calling him by name."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "The middle is a long run of \"no\": no eye, ear or mind, no suffering, no knowing, no attaining. This does not say the world does not exist. It says that, seen through emptiness, none of these things has a fixed nature of its own, not even the Buddhist teachings themselves. \"And so on, up to\" skips a list of similar items."
+  },
+  {
+   "q": "The mantra at the end",
+   "a": "The last line, \"gone, gone, gone beyond...\", translates a Sanskrit mantra. \"Beyond\" means the far shore of a river; Buddhist texts often picture leaving suffering as crossing a river. The sutra says the Perfection of Wisdom itself is this mantra. Many people chant it in its sound form, \"gate gate paragate\"."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "The text is short, so it helps to know these from the start.",
+   "terms": [
+    [
+     "Perfection of Wisdom",
+     "Prajnaparamita: wisdom brought to completion, seeing how all things really are."
+    ],
+    [
+     "Bodhisattva",
+     "Someone set on awakening who also works to bring everyone else to awakening. Avalokiteshvara is one."
+    ],
+    [
+     "Five heaps",
+     "The five kinds of things that make up a person: physical form, feeling, perception, mental formations, consciousness."
+    ],
+    [
+     "Emptiness",
+     "Having no fixed nature of its own. Things are still there; they just have no unchanging core that stands by itself."
+    ],
+    [
+     "Ignorance",
+     "Not seeing how things really are; Buddhism holds it to be the root of all suffering."
+    ],
+    [
+     "Upside-down views",
+     "Seeing things backward, such as taking what changes to be permanent."
+    ],
+    [
+     "Nirvana",
+     "The state in which all affliction has gone out; the end point of the Buddhist path."
+    ],
+    [
+     "Buddha",
+     "One who is fully awake. The sutra says all buddhas, past, present and future, awaken through this wisdom."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部经最难翻的是同一个词：śūnyatā。英文习惯译成 emptiness，中文译成「空」。两个译法都把一个「没有固定本质」的哲学词，变成了日常里「里面什么都没有」的词：英文读者容易想到空荡荡的房间，中文读者容易想到「什么都不存在」。梵文原意更接近「缺了某样东西」——缺的是 svabhāva（自己独立、不变的本质），东西本身并没有消失。所以本站英文第一次出现时写成 empty of any fixed nature of its own，白话写「没有自己固定不变的本质」，都是在把被省掉的「自性」补回来。",
   "第二个差别在 rūpa。中文古译用「色」，现代中文读者会以为是颜色或美色；英文常见译法 form 又太抽象。梵文 rūpa 指一切看得见、摸得着、有形体的东西，包括身体。本站英文写 physical form，白话写「物质」，两边都比原词窄一点：rūpa 还带着「形状、样子」的意思。",

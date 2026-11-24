@@ -2,6 +2,134 @@
  "slug": "satipatthana",
  "title": "The Great Discourse on Mindfulness",
  "summary": "The fullest teaching on mindfulness: keep watching body, feelings, mind and mental phenomena, see them arise and pass, and stop clinging.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是巴利文佛经《大念处经》，收在巴利文经典的《长部》里。巴利文是一种古印度语言，斯里兰卡、缅甸、泰国一带的佛教（南传佛教）的经典就是用它记下来的。这部经讲「念」，也就是把注意力放在眼前正在发生的事上，是讲这件事最完整的一部经。传统上说是佛陀（约两千五百年前在印度北部讲道的人）所说。一般认为，今天很多人练的内观、正念禅修，都以这部经为主要依据。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "开头一句和最后一句是记经的人在交代。其余全是佛对一群比丘（出家人）说话。经里的「他」「比丘」指照着这样修的人，不是某一个特定的人。「在这里」意思是「在这个教法里」，不是指某个地方。"
+  },
+  {
+   "q": "全经的结构",
+   "a": "佛说有四样东西要看着：身体、感受、心、法（心里出现的种种现象），这就是「四念处」。全经就按这四样分成四大段，一段一章，前面有一章总纲，后面有一章结语。每一大段又列出几种具体的看法，比如观身就有十四种。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "「在身上随观身而住」意思是：看着身体，就只把它当身体看，不加别的想法，一直这样过下去。每讲完一种方法，都重复同一段话：看自己的，也看别人的；看它怎样生起、怎样消失；心里只留着「有身体」这个觉察；什么都不抓住。读几遍就认得了，后面再遇到可以快读。「……（同上）」是原文本身的省略，表示前面的话照样重复。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "比丘",
+     "出家修行的男人。这里是佛说话的对象，也泛指照着修的人。"
+    ],
+    [
+     "念",
+     "把心放在眼前正在发生的事上，记着，不走神。「有念」就是保持这样。"
+    ],
+    [
+     "随观",
+     "一直跟着看，不加评判，只是看清它是什么。"
+    ],
+    [
+     "四念处",
+     "四种安立念的地方：身体、感受、心、法。"
+    ],
+    [
+     "感受",
+     "碰到东西时心里的滋味：舒服、难受，或不苦不乐。"
+    ],
+    [
+     "法",
+     "这部经里多指心里出现的种种现象，如障碍、念头、觉悟的要素。"
+    ],
+    [
+     "执取",
+     "紧抓着不放，当成「我的」。"
+    ],
+    [
+     "圣谛",
+     "「圣者的真理」，共四个：苦、苦的起源、苦的止息、通向止息的路。"
+    ],
+    [
+     "涅槃",
+     "贪心、怒气、糊涂全部熄灭的状态，是修行的终点。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 1 章「序」，只有三段，是全经的提纲。再读第 2 章「观身」的前四段（看着呼吸）和第 5 段（姿势）。接着读第 3 章「观受」和第 4 章「观心」，都很短。第 5 章「观法」最长，可以先读前五段（五种障碍），四圣谛那一大段放到最后。最后读第 6 章「结语」。每章先看「这一章在讲什么」，括号（）里的字是本站补上去帮你看懂的。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this text is",
+   "a": "This is the Pali Buddhist discourse known as the Great Discourse on the Establishings of Mindfulness, found in the Pali collection called the Dīgha Nikāya. Pali is an ancient Indian language in which the scriptures of the Buddhism of Sri Lanka, Burma and Thailand (Theravada Buddhism) were preserved. The discourse is about mindfulness, keeping attention on what is happening right now, and is the fullest teaching on it. Tradition attributes it to the Buddha, a teacher in northern India about two and a half thousand years ago. It is generally seen as a main source for the insight and mindfulness meditation many people practise today."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The first and last lines are the narrator. Everything else is the Buddha speaking to a group of bhikkhus (monks). \"He\" and \"a bhikkhu\" in the text mean anyone who practises this way, not one particular person. \"Here\" means \"in this teaching\", not a place."
+  },
+  {
+   "q": "How the discourse is built",
+   "a": "The Buddha names four things to watch: the body, feelings, the mind, and phenomena (what shows up in the mind). These are the \"four establishings of mindfulness\". The discourse has one chapter for each of the four, with an introduction before them and a conclusion after. Each of the four lists several concrete methods; the body alone has fourteen."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "\"Lives contemplating the body as a body\" means watching the body simply as a body, adding nothing to it, and going on that way. After each method the same paragraph comes back: watch it in oneself and in others; watch how it arises and passes away; keep only the bare awareness that there is a body; cling to nothing. Once you know it, you can read it quickly when it returns. The \"...\" marks are the text's own shorthand for repeating what came before."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Bhikkhu",
+     "A man who has left home to practise; here the Buddha's audience, and anyone who practises this way."
+    ],
+    [
+     "Mindfulness",
+     "Keeping the mind on what is happening now, remembering, not drifting off. \"Mindful\" means staying that way."
+    ],
+    [
+     "Contemplating",
+     "Watching steadily without judging, just seeing clearly what something is."
+    ],
+    [
+     "Four establishings of mindfulness",
+     "The four places to set mindfulness: the body, feelings, the mind, phenomena."
+    ],
+    [
+     "Feeling",
+     "The tone of an experience: pleasant, painful, or neither."
+    ],
+    [
+     "Phenomena",
+     "In this text, mostly the things that show up in the mind, such as hindrances, thoughts and factors of awakening."
+    ],
+    [
+     "Clinging",
+     "Holding on tight to something as \"mine\"."
+    ],
+    [
+     "Noble truths",
+     "Four of them: suffering, its origin, its cessation, and the way to that cessation."
+    ],
+    [
+     "Nibbāna",
+     "The going out of greed, hatred and delusion; the end point of practice."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Read Chapter 1, the Introduction, first: three paragraphs that outline everything. Then the first four paragraphs of Chapter 2 (watching the breath) and paragraph 5 (postures). Then Chapters 3 and 4, both short. Chapter 5 is the longest; read its first five paragraphs (the five hindrances) and leave the long section on the four noble truths for last. Finish with Chapter 6. Read \"What this chapter says\" before each chapter."
+  }
+ ],
  "compare": [
   "这部经的核心词是 sati。它的本义是「记得」，在这里指把注意力一直放在当下发生的事情上、不忘失。英文 mindfulness 是十九世纪末英译者造出来的用法，现在已经通行；中文「念」是古译，但现代读者很容易把它读成「念头」或「念诵」。本站英文用 mindfulness，白话保留「念」，在第一次出现时说明它是「保持觉察」。",
   "第二个难点是第四个念处的 dhamma。巴利文 dhamma 有两种常见意思：一是佛陀的教法，二是「现象、事物、心里的对象」。经里说的「在法上随观法」，用的是第二种：五盖、五蕴、六处、七觉支、四谛这些身心现象。白话沿用「法」字，容易被读成「佛法」；英文在这里写 phenomena，在说到佛陀的教法时才写 Dhamma（大写），两种意思分开。",
@@ -17,6 +145,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · Introduction (Uddesa)",
+   "intro": "In a market town of the Kuru people, the Buddha tells the monks there is a direct path to purity, out of sorrow and pain, to nibbāna: the four establishings of mindfulness. He names the four things to watch: the body, feelings, the mind, and phenomena, meaning what shows up in the mind.",
    "verses": [
     {
      "h": "3152da99",
@@ -68,6 +197,7 @@
   },
   {
    "title": "Chapter 2 · Contemplating the Body (Kāyānupassanā)",
+   "intro": "Fourteen ways of watching the body: noticing long and short breaths, knowing one's posture, doing every action with clear awareness, listing the body's parts from hair to urine, seeing it as earth, water, fire and wind, and comparing it with a corpse decaying in a charnel ground. Each ends with the same refrain.",
    "verses": [
     {
      "h": "99f6cbd9",
@@ -221,6 +351,7 @@
   },
   {
    "title": "Chapter 3 · Contemplating Feelings (Vedanānupassanā)",
+   "intro": "The shortest chapter. One watches feelings, pleasant, painful or neither, and whether each is tied to worldly pleasures or not, simply knowing them as they are. It closes with the same refrain as the body: see them arise and pass away, cling to nothing.",
    "verses": [
     {
      "h": "eec87dae",
@@ -252,6 +383,7 @@
   },
   {
    "title": "Chapter 4 · Contemplating the Mind (Cittānupassanā)",
+   "intro": "One watches what state the mind is in right now: greedy or not, angry or not, deluded or not, contracted or scattered, concentrated or not, freed or not. Each time he simply knows, \"this is how it is now.\"",
    "verses": [
     {
      "h": "1f676ca7",
@@ -294,6 +426,7 @@
   },
   {
    "title": "Chapter 5 · Contemplating Phenomena (Dhammānupassanā)",
+   "intro": "The longest chapter; \"phenomena\" here means what shows up in the mind. One watches in turn the five hindrances, the five parts of body and mind we cling to, the six senses and their objects, the seven factors of awakening, and at length the four noble truths: suffering, its cause, its end, and the way there.",
    "verses": [
     {
      "h": "7a4d3a13",
@@ -750,6 +883,7 @@
   },
   {
    "title": "Chapter 6 · Conclusion (Nigamana)",
+   "intro": "The Buddha says that whoever practises the four establishings of mindfulness this way for seven years can expect one of two results: final liberation in this life, or becoming a non-returner, never reborn into this world of desire. He shortens the time step by step, down to seven days, and repeats his opening words.",
    "verses": [
     {
      "h": "3f8e46e5",
