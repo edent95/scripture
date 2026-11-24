@@ -2,6 +2,134 @@
  "slug": "diamond-sutra",
  "title": "The Diamond Cutter Perfection of Wisdom",
  "summary": "The Buddha and his student Subhuti talk through one question: how should someone set on helping all beings stand, practice, and hold their mind? The answer keeps cutting away every idea one might lean on, even the ideas of \"beings,\" \"merit,\" \"the Buddha,\" and \"the teaching\" itself.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是大乘佛教「智慧的圆满」（般若）一系的一部经，梵文书名的意思是「能切断金刚的智慧」，比喻这份智慧像金刚石一样，能切断一切执着。华人最熟悉的是鸠摩罗什大约一千六百年前（约公元五世纪初）的汉译本，叫《金刚般若波罗蜜经》，在中国流传极广，禅宗尤其重视它。本站的白话照梵文翻。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "开头的「我」，传统上说是佛的弟子阿难，转述他听到的经过。之后整部经是佛（经里叫「世尊」，自称「如来」）和弟子须菩提的一问一答。佛常常反问「须菩提，你怎么想？」，须菩提回答，佛再加以肯定或纠正。佛说「我」时，有时指自己的前世，如被迦利王割肉的那一世。"
+  },
+  {
+   "q": "全经在问什么",
+   "a": "须菩提开头问：立志帮助一切众生觉悟的人（菩萨），心该怎样安放、怎样修行？佛的回答是：要帮助所有众生解脱，但心里不能抓着「有众生被我救了」「我在布施」这类念头；连「佛」「佛法」「觉悟」这些观念也不能抓住。经的后半，须菩提又把同一个问题问了一遍，佛再从另一个角度回答。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "全经反复出现一个句式：「如来所说的某某，其实不是某某，所以才叫做某某。」意思是：这些都只是方便用的名称，背后没有一个固定不变的东西，所以可以用这个名字，但不要把它当真抓住。另一个反复出现的是比较福德：用七宝装满无数世界去供养，比不上为别人讲这部经的一首四句偈。这是经文一再强调的地方，不必逐句计较数字。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现。",
+   "terms": [
+    [
+     "世尊、如来",
+     "都是对佛的称呼。经里佛常自称「如来」。"
+    ],
+    [
+     "菩萨、菩萨乘",
+     "立志求觉悟、也帮一切众生觉悟的人；走这条路就叫踏上菩萨乘。"
+    ],
+    [
+     "众生",
+     "一切有生命、有知觉的存在，包括人和动物。"
+    ],
+    [
+     "自我、众生、命者、人的观念",
+     "把自己或别人当成一个固定不变的实体的四种想法，经里一再说要放下。"
+    ],
+    [
+     "法",
+     "在这部经里多指佛的教法，有时也指一切事物。"
+    ],
+    [
+     "福德之聚",
+     "做好事积下的福报，经里常拿它来比大小。"
+    ],
+    [
+     "无上正等正觉",
+     "最高、最正确、最完整的觉悟，就是成佛。"
+    ],
+    [
+     "三千大千世界",
+     "一尊佛教化范围的整个宇宙，用来形容极大。"
+    ],
+    [
+     "四句偈",
+     "经里的一首四句的诗，代指这部经里哪怕最短的一小段。"
+    ],
+    [
+     "涅槃",
+     "烦恼完全熄灭、彻底解脱的状态。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A Mahayana Buddhist sutra of the Perfection of Wisdom family. Its Sanskrit title means \"the wisdom that cuts like a diamond\": this wisdom cuts through every attachment. The best-known Chinese version is Kumarajiva's, from about the early fifth century. It has been read very widely in China, above all in the Chan (Zen) school. This site follows the Sanskrit."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The opening \"I\" is, by tradition, Ananda, the Buddha's disciple, retelling what he heard. After that the whole sutra is a dialogue between the Buddha (\"the Lord\", who calls himself \"the Tathagata\") and his disciple Subhuti. The Buddha often asks, \"What do you think, Subhuti?\"; Subhuti answers, and the Buddha confirms or corrects him. When the Buddha says \"I\", he sometimes means a past life of his own."
+  },
+  {
+   "q": "What the sutra is asking",
+   "a": "Subhuti asks at the start: how should someone set on bringing all beings to awakening, a bodhisattva, hold the mind and practise? The Buddha's answer: free all beings, but do not hold on to thoughts like \"I have saved beings\" or \"I am giving\"; do not hold on even to the ideas of \"the Buddha\", \"the teaching\" or \"awakening\". In the second half Subhuti asks the same question again, and the Buddha answers from another angle."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "One pattern runs through the whole sutra: \"What the Tathagata calls X, he says is not X; that is why it is called X.\" These are only names used for convenience, with no fixed thing behind them: use the name, but do not grasp it as real. Another refrain compares merit: filling countless worlds with treasure as a gift is less than explaining a single verse of four lines of this sutra to others."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Lord, Tathagata",
+     "Both are titles of the Buddha. In this sutra he often calls himself the Tathagata."
+    ],
+    [
+     "Bodhisattva",
+     "Someone set on awakening who also works to awaken all beings."
+    ],
+    [
+     "Beings",
+     "Everything alive and aware, people and animals alike."
+    ],
+    [
+     "Ideas of a self, a being, a living soul, a person",
+     "Four ways of taking oneself or others as a fixed, unchanging thing; the sutra says again and again to let them go."
+    ],
+    [
+     "dharma",
+     "Here mostly the Buddha's teaching; sometimes any thing at all."
+    ],
+    [
+     "Heap of merit",
+     "The good that comes from good deeds; the sutra keeps comparing how large it is."
+    ],
+    [
+     "Unsurpassed, perfect awakening",
+     "The highest, fullest awakening: becoming a buddha."
+    ],
+    [
+     "Great galaxy of a billion worlds",
+     "The whole universe a buddha teaches in; a way to say \"vast\"."
+    ],
+    [
+     "Verse of four lines",
+     "A single short stanza; standing for even the smallest part of this sutra."
+    ],
+    [
+     "Nirvana",
+     "The state in which all affliction has gone out; complete freedom."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部经最常见的句型是「所谓 A，如来说它不是 A，所以才叫做 A」。梵文里这个句型常常是在拆词：福德之聚 puṇya-skandha 说成 a-skandha「不是聚」，凡夫 pṛthag-jana 说成 a-jana「不是人」，身体 ātma-bhāva 说成 na bhāva「不是存在」，执取 grāha 和 parigraha 只差一个前缀。英文用 heap / no heap、people / no people、take up / grab 尽量保住这种拆法；鸠摩罗什几乎统一写成「即非……是名……」，句子整齐好背，但原来每一处在哪个字上做文章，中文读者就看不出来了。",
   "第二个大差别是 saṃjñā 和 nimitta。梵文 saṃjñā 是「心里生起的观念、认定」，nimitta 是「让人认出东西的记号」，lakṣaṇa 是「身上的特征」，三个词各管一层。鸠摩罗什全都译成「相」：「我相、人相」「不住于相」「三十二相」「离一切诸相」。好处是一个字贯穿全经，坏处是读者容易以为「相」就是外表。本站英文分别写 idea、sign、marks，白话写「观念」「相状」「身相」，把三层拆开。另外梵文的观念清单是「自我、众生、命者、人」，有时还有「养育者」，鸠摩罗什固定成「我、人、众生、寿者」四相，连只列三项的地方也补成四项。",

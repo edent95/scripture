@@ -2,6 +2,142 @@
  "slug": "middle-way-verses",
  "title": "Verses on the Middle Way",
  "summary": "Nagarjuna questions causes, motion, self, time and nirvana one by one and finds nothing with a fixed nature of its own: what arises from conditions is empty, and that is the middle way.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是印度佛教的一部论，作者是龙树，一般认为他生活在约公元二到三世纪。全书二十七品，四百多首短偈，是大乘佛教「中观」一派的奠基之作。它一样一样追问因果、走路、自我、时间、佛、涅槃，看它们能不能独立成立，结论是：凡是依条件而有的，都没有独立不变的本质，这就是空，也就是中道。鸠摩罗什大约一千六百年前（约公元五世纪初）把它连同一部注释译成汉文，叫《中论》。本站的白话照梵文偈颂翻。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "说话的是作者龙树，不是佛。他常常引佛说过的话当依据，「世尊」「牟尼」「导师」都是指佛。书里也有辩论的对方，多是佛教其他学派或别的宗派的人，主张东西有真实的本质。有的地方标了「（对方说：）」，有的没标，读到「你」，多半是龙树在对这位对方说话。"
+  },
+  {
+   "q": "他是怎样论证的",
+   "a": "龙树几乎每一品都用同一套办法：把一件事所有可能的情形列出来，再一一说明每种都讲不通。例如东西的生起，只能是从自己生、从别的东西生、从两者一起生、或没有原因，四种都不成立；两样东西的关系，只能是同一个或不同的，两种都不成立；时间上只能是已经、还没、正在，三种都不成立。他由此说明这些东西没有自性，但并不是说它们完全不存在。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "偈颂很浓缩，常常一句话里连着好几个「不是」。最常见的结论是「讲不通」，意思是照对方的说法推下去会自相矛盾。有些品把前面的论证直接套用，写「照『已走的、没走的、正在走的』那一品去理解」，指的是第 2 品。第 17 品（观业品）前大半、第 24 品开头都是先摆出对方的说法，龙树后面才回应，读的时候要分清。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词几乎每一品都会出现。",
+   "terms": [
+    [
+     "自性",
+     "一样东西独立、不靠别的、自己就有的本质。全书要说明的就是：找不到自性。"
+    ],
+    [
+     "他性",
+     "相对于别的东西而有的本质。龙树说，没有自性，也就谈不上他性。"
+    ],
+    [
+     "缘起",
+     "事物依靠条件才出现。龙树说，缘起就是空。"
+    ],
+    [
+     "空性",
+     "没有自性。不是什么都没有，而是没有独立不变的本质。"
+    ],
+    [
+     "五蕴",
+     "构成一个人的五类东西：身体和物质（色）、感受、认知、意志活动（行）、意识。"
+    ],
+    [
+     "执取",
+     "紧抓不放；也指被当成「我」抓住的五蕴。"
+    ],
+    [
+     "戏论",
+     "概念的铺展和纠缠，把世界切成一个个有固定本质的东西。"
+    ],
+    [
+     "常见、断见",
+     "以为东西永远不变；以为东西会彻底断灭。龙树说两边都不对。"
+    ],
+    [
+     "轮回",
+     "一生接一生、没有起点的生死流转。"
+    ],
+    [
+     "涅槃",
+     "烦恼和生死都熄灭的境地。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 26 品（观十二因缘品），这一品正面讲人怎样一轮轮投生，最好懂。再读第 2 品（观去来品），拿走路做例子，最能看出龙树的论证方法；接着读第 1 品（观因缘品）。然后读第 18 品（讲自我）、第 24 品（讲空和四圣谛，「缘起就是空」就在这里）、第 25 品（讲涅槃）。其余各品可以按顺序读。每品先看「这一章在讲什么」，括号（）里的字是本站补的。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "An Indian Buddhist treatise by Nagarjuna, who is generally thought to have lived around the second to third century. Its twenty-seven chapters, some four hundred and fifty short verses, founded the Middle Way (Madhyamaka) school of Mahayana Buddhism. It tests causes, motion, the self, time, the Buddha and nirvana one by one, and finds that whatever arises from conditions has no fixed nature of its own: that is emptiness, and that is the middle way. Kumarajiva put it into Chinese, with a commentary, in the early fifth century. This site translates the Sanskrit verses."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The speaker is the author, Nagarjuna, not the Buddha. He often cites the Buddha's words as authority; \"the Blessed One\", \"the Sage\" and \"the Teacher\" all mean the Buddha. There is also an objector, mostly from other Buddhist schools or other traditions, who holds that things have a real essence. Some of the objector's lines are marked \"[An objector:]\", some are not. \"You\" usually means Nagarjuna addressing this objector."
+  },
+  {
+   "q": "How he argues",
+   "a": "Almost every chapter uses the same method: list every possible case, then show that each one fails. A thing can arise only from itself, from another, from both, or from no cause, and none works. Two things can only be the same or different, and neither works. In time, something can only be done, not yet done, or being done, and none works. This shows things have no own-nature; it does not say they do not exist at all."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "The verses are very compressed, often with several \"not\"s in one line. The most common verdict, \"does not hold\", means the objector's view, followed through, contradicts itself. Some chapters reuse an earlier argument with a line like \"covered by the analysis of what is being walked, walked and not walked\", which points to chapter 2. Much of chapter 17 and the start of chapter 24 set out the objector's view before Nagarjuna answers."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These appear in nearly every chapter.",
+   "terms": [
+    [
+     "Own-nature",
+     "Svabhava: an essence a thing has by itself, depending on nothing. The book's point is that none can be found."
+    ],
+    [
+     "Other-nature",
+     "An essence a thing would have in relation to something else. Without own-nature, Nagarjuna says, there is none."
+    ],
+    [
+     "Dependent arising",
+     "Things come about only by depending on conditions. Nagarjuna says this is emptiness."
+    ],
+    [
+     "Emptiness",
+     "Lacking own-nature. Not that nothing is there, but that nothing has a fixed nature of its own."
+    ],
+    [
+     "Aggregates",
+     "The five kinds of things that make up a person: physical form, feeling, perception, formations (acts of will), consciousness."
+    ],
+    [
+     "Grasping",
+     "Holding on tight; also the aggregates that are held on to as \"me\"."
+    ],
+    [
+     "Conceptual proliferation",
+     "The spreading and tangling of concepts that cuts the world into things with fixed natures."
+    ],
+    [
+     "Permanence, annihilation",
+     "The view that things last forever; the view that they are wholly cut off. Nagarjuna rejects both."
+    ],
+    [
+     "Samsara",
+     "The beginningless round of one life after another."
+    ],
+    [
+     "Nirvana",
+     "The state where affliction and the round of birth and death have gone out."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Begin with chapter 26, on the twelve links, which describes plainly how beings are reborn and is the easiest. Then chapter 2, on going and coming, which uses walking to show Nagarjuna's method most clearly, followed by chapter 1, on conditions. Then chapter 18 (the self), chapter 24 (emptiness and the noble truths, where \"dependent arising is emptiness\" appears) and chapter 25 (nirvana). The rest can be read in order. Read \"What this chapter says\" before each one."
+  }
+ ],
  "compare": [
   "这部论最关键的一组词是 svabhāva 和 śūnyatā。svabhāva 字面是「自己的存在」，指一样东西独立、不靠别的、不变的本质；英文全书固定译 own-nature，中文译「自性」。śūnyatā 英文译 emptiness，中文译「空」，两个译法都容易被读成「什么都没有」。可龙树要说的是「缺了自性」：东西照样在起作用，只是没有一个独立不变的核心。第 24 品第 18 颂把这层意思讲得最清楚：缘起，就叫做空性。所以英文第一次出现时都把 own-nature 解释出来，之后一律不换词，读者才能看出全书是在反复追问同一个东西。",
   "第二个难点是 prapañca。它的原义是「铺开、扩散」，指心把事物不停展开成名字、概念和分别。罗什译「戏论」，现代中文读者容易读成「玩笑话、空谈」；白话写「概念上的纠缠」；英文全书固定译 conceptual proliferation（概念的增生）。这个词在开头的归敬颂、第 18 品第 5 颂和最后第 25 品第 24 颂首尾出现，是全书「要平息的是什么」的答案，所以三种语言里都值得盯住。",
@@ -17,6 +153,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · Examining Conditions (Pratyayaparīkṣā)",
+   "intro": "Two opening verses honor the Buddha, who taught dependent arising and the calming of conceptual tangles. Then: how does anything arise? Not from itself, not from another, not from both, not without cause. Checking the four kinds of condition one by one, Nagarjuna finds none that truly produces a result.",
    "verses": [
     {
      "h": "02990785",
@@ -166,6 +303,7 @@
   },
   {
    "title": "Chapter 2 · Examining Going and Coming (Gatāgataparīkṣā)",
+   "intro": "Plain walking is put to the test. Is there going on the path already walked, the path not yet walked, or the stretch being walked? Are the goer and the going one thing or two? An opponent breaks in with objections. In the end, going, goer and destination cannot be found standing on their own.",
    "verses": [
     {
      "h": "849cd45a",
@@ -318,6 +456,7 @@
   },
   {
    "title": "Chapter 3 · Examining the Senses (Cakṣurādīndriyaparīkṣā)",
+   "intro": "The six senses are examined, with seeing as the example. The eye cannot see itself, so how could it see anything else? When nothing is being seen there is no seeing, and apart from seeing there is no seer. Seeing, seer and seen all fail; hearing, smelling, tasting, touching and mind follow the same way.",
    "verses": [
     {
      "h": "b80d1c3f",
@@ -392,6 +531,7 @@
   },
   {
    "title": "Chapter 4 · Examining the Aggregates (Skandhaparīkṣā)",
+   "intro": "The five aggregates that make up a person are examined, starting with physical form: it cannot be found apart from its cause, nor its cause apart from it. Feeling, perception and the rest go the same way. Last: when emptiness is argued, any objection ends up in the same position as what it attacks.",
    "verses": [
     {
      "h": "e6aede32",
@@ -466,6 +606,7 @@
   },
   {
    "title": "Chapter 5 · Examining the Elements (Dhātuparīkṣā)",
+   "intro": "The six elements, earth, water, fire, wind, space and consciousness, are examined through space. There is no space before its defining mark, nothing exists without a mark, and mark and marked depend on each other. So space is neither existent nor nonexistent, and the same holds for the other five.",
    "verses": [
     {
      "h": "05d66142",
@@ -529,6 +670,7 @@
   },
   {
    "title": "Chapter 6 · Examining Desire and the Desirer (Rāgaraktaparīkṣā)",
+   "intro": "Which comes first, desire or the one who desires? Does the person come before the desire, or do both arise together? If they are one, they cannot be \"together\"; if they are separate, they never meet. Neither stands on its own, and the same is true of everything.",
    "verses": [
     {
      "h": "2b8c9992",
@@ -588,6 +730,7 @@
   },
   {
    "title": "Chapter 7 · Examining the Conditioned (Saṃskṛtaparīkṣā)",
+   "intro": "Buddhists say conditioned things have three marks: arising, staying and ceasing. Each is questioned: what makes arising arise? An opponent offers a lamp that lights itself; Nagarjuna takes the image apart. All three marks turn out to be like a magic show or a dream.",
    "verses": [
     {
      "h": "e99f5a97",
@@ -790,6 +933,7 @@
   },
   {
    "title": "Chapter 8 · Examining the Deed and the Doer (Karmakārakaparīkṣā)",
+   "intro": "Deed and doer are questioned. A doer who truly exists cannot act, one who does not exist cannot either, and a mix fails too. Yet then good and bad, results and practice would lose their meaning. The answer: doer and deed stand only by depending on each other, and so does grasping and everything else.",
    "verses": [
     {
      "h": "d52bf3bb",
@@ -899,6 +1043,7 @@
   },
   {
    "title": "Chapter 9 · Examining What Comes Before (Pūrvaparīkṣā)",
+   "intro": "Someone claims there is a person who owns seeing, hearing and feeling and exists before them. Nagarjuna asks how such a person could be known without seeing or hearing, and whether the seer and the hearer are one or many. That prior self cannot be found, and ideas of \"is\" and \"is not\" about it fall silent.",
    "verses": [
     {
      "h": "06710ebf",
@@ -1006,6 +1151,7 @@
   },
   {
    "title": "Chapter 10 · Examining Fire and Fuel (Agnīndhanaparīkṣā)",
+   "intro": "Fire and fuel stand for the self and the aggregates it depends on. If fire were fuel, maker and made would be one; if they were separate, there could be fire without fuel. Each depends on the other, so neither comes first. Those who say the self has a substance, the chapter ends, have missed the Buddha's teaching.",
    "verses": [
     {
      "h": "65defbc9",
@@ -1110,6 +1256,7 @@
   },
   {
    "title": "Chapter 11 · Examining the Beginning and the End (Pūrvāparakoṭiparīkṣā)",
+   "intro": "The Buddha said the cycle of rebirth has no first point that can be found. Nagarjuna asks whether birth comes before old age and death, after them, or at the same time; none works. Not only rebirth but cause and effect, feeling and feeler, and everything else lack a first point.",
    "verses": [
     {
      "h": "3c07b8f7",
@@ -1168,6 +1315,7 @@
   },
   {
    "title": "Chapter 12 · Examining Suffering (Duḥkhaparīkṣā)",
+   "intro": "Who makes suffering: oneself, someone else, both, or nothing at all? Each of the four answers is tested and none holds. The chapter ends by saying that outer things, too, cannot come about in any of these four ways.",
    "verses": [
     {
      "h": "48b2385e",
@@ -1232,6 +1380,7 @@
   },
   {
    "title": "Chapter 13 · Examining Formations (Saṃskāraparīkṣā)",
+   "intro": "The Buddha said that conditioned things deceive and are therefore false. An opponent argues that change shows things lack own-nature, so nothing would exist. Nagarjuna answers with milk becoming curds and youth growing old. Emptiness, he warns, is a way out of all views; whoever turns emptiness itself into a view cannot be helped.",
    "verses": [
     {
      "h": "efd35468",
@@ -1321,6 +1470,7 @@
   },
   {
    "title": "Chapter 14 · Examining Contact (Saṃsargaparīkṣā)",
+   "intro": "Do seer, seeing and seen come into contact? To meet, things must first be different, but difference itself exists only by depending on something else. So there is neither sameness nor otherness, and contact cannot be established.",
    "verses": [
     {
      "h": "9ba5b207",
@@ -1386,6 +1536,7 @@
   },
   {
    "title": "Chapter 15 · Examining Own-Nature (Svabhāvaparīkṣā)",
+   "intro": "Own-nature, an essence that depends on nothing, is examined. If it arose from conditions it would be made, and so not own-nature. Without it there is no other-nature, existence or nonexistence. Citing the Buddha's Instruction to Kātyāyana, Nagarjuna says \"it exists\" grasps at permanence and \"it does not exist\" is the view of annihilation.",
    "verses": [
     {
      "h": "fccc9679",
@@ -1475,6 +1626,7 @@
   },
   {
    "title": "Chapter 16 · Examining Bondage and Liberation (Bandhamokṣaparīkṣā)",
+   "intro": "Who wanders through rebirth, who is bound, who is freed? Not the conditioned activities of body and mind, and the person cannot be found among the aggregates. Neither bondage nor liberation holds. Last: clinging to the thought \"I will reach nirvana\" is the greatest clinging of all.",
    "verses": [
     {
      "h": "564f81c2",
@@ -1555,6 +1707,7 @@
   },
   {
    "title": "Chapter 17 · Examining Karma and Its Fruit (Karmaphalaparīkṣā)",
+   "intro": "Karma and its fruit. Most of the chapter sets out other Buddhist schools' views: karma is a seed bearing fruit through a continuum, and a \"non-perishing\" factor, like a promissory note, keeps it from being lost. Nagarjuna answers that karma has no own-nature, so it neither arises nor is lost; doer and fruit are like a dream.",
    "verses": [
     {
      "h": "f2a8e88d",
@@ -1819,6 +1972,7 @@
   },
   {
    "title": "Chapter 18 · Examining the Self (Ātmaparīkṣā)",
+   "intro": "The self is examined. If it were the aggregates it would arise and cease; if it were other than them it would have no marks. Letting go of \"I\" and \"mine\" ends grasping and rebirth. The buddhas taught self, no-self, and neither; reality is not known from others and is free of conceptual spread.",
    "verses": [
     {
      "h": "fd36bdb6",
@@ -1947,6 +2101,7 @@
   },
   {
    "title": "Chapter 19 · Examining Time (Kālaparīkṣā)",
+   "intro": "Time is examined. Present and future depend on the past, yet if they are not in the past, they cannot depend on it; the same reasoning applies to past and future. Time that does not stay cannot be grasped. Time also depends on things, and since things do not hold, neither does time.",
    "verses": [
     {
      "h": "ccb98ecf",
@@ -1983,6 +2138,7 @@
   },
   {
    "title": "Chapter 20 · Examining the Assembly of Conditions (Sāmagrīparīkṣā)",
+   "intro": "Does a result arise from causes and conditions coming together? If it is already in the gathering, what is produced? If it is not, how does it come out? Before or after, touching or not, same or different: every way of linking cause and result fails.",
    "verses": [
     {
      "h": "70241ea8",
@@ -2112,6 +2268,7 @@
   },
   {
    "title": "Chapter 21 · Examining Coming to Be and Passing Away (Saṃbhavavibhavaparīkṣā)",
+   "intro": "Coming to be and passing away are examined. They cannot stand apart or together, and seeing them is a confusion. An opponent says life is a stream of causes and results, so it is neither eternal nor cut off. Nagarjuna replies that a new life cannot follow an old one, whether or not the old one has ended.",
    "verses": [
     {
      "h": "7406b6db",
@@ -2250,6 +2407,7 @@
   },
   {
    "title": "Chapter 22 · Examining the Tathagata (Tathāgataparīkṣā)",
+   "intro": "The Tathagata, the Buddha himself, is examined. He is not the aggregates nor apart from them; searched for in five ways, he is not found. Calling him empty or not empty is only a way of speaking, and asking whether he exists after death is conceptual tangle. The Buddha has no own-nature, and neither does the world.",
    "verses": [
     {
      "h": "70ecccbc",
@@ -2387,6 +2545,7 @@
   },
   {
    "title": "Chapter 23 · Examining the Distortions (Viparyāsaparīkṣā)",
+   "intro": "The afflictions of greed, hatred and delusion are examined. They depend on \"pleasant\", \"unpleasant\" and distorted views, but pleasant and unpleasant depend on each other and are not real. No place is found for distortion to arise, nor anyone caught in it. When distortion ends, ignorance ends.",
    "verses": [
     {
      "h": "7d7bc585",
@@ -2553,6 +2712,7 @@
   },
   {
    "title": "Chapter 24 · Examining the Noble Truths (Āryasatyaparīkṣā)",
+   "intro": "An opponent objects that if all is empty, the four noble truths, practice, and the Buddha, his teaching and community all vanish. Nagarjuna answers that the Buddha taught by two truths, everyday and ultimate; what arises dependently is empty, and that is the middle way. It is belief in own-nature that ruins the four truths.",
    "verses": [
     {
      "h": "2628711c",
@@ -2831,6 +2991,7 @@
   },
   {
    "title": "Chapter 25 · Examining Nirvana (Nirvāṇaparīkṣā)",
+   "intro": "If all is empty, what is let go of to reach nirvana? Nagarjuna answers that the question fails just as badly if things are not empty. Nirvana is not existent, not nonexistent, not both, not neither. Between the cycle of rebirth and nirvana there is not the slightest gap. The Buddha, he ends, never taught anything to anyone.",
    "verses": [
     {
      "h": "81792a26",
@@ -3012,6 +3173,7 @@
   },
   {
    "title": "Chapter 26 · Examining the Twelve Links (Dvādaśāṅgaparīkṣā)",
+   "intro": "Here Nagarjuna speaks plainly of how beings are reborn again and again: not seeing the truth, they act; from this come consciousness, body and mind, senses, contact, feeling, craving, grasping, new birth, old age, death and a mass of suffering. When one link ends, the next does not arise; when ignorance ends, suffering ends.",
    "verses": [
     {
      "h": "e992252c",
@@ -3131,6 +3293,7 @@
   },
   {
    "title": "Chapter 27 · Examining Views (Dṛṣṭiparīkṣā)",
+   "intro": "Views about past and future are examined: did I exist before, will I exist later, is the world finite or endless, eternal or not? The self can be neither the same as the aggregates nor different from them, so these views cannot stand. The last verse honors the Buddha, who taught so all views could be let go.",
    "verses": [
     {
      "h": "37053150",

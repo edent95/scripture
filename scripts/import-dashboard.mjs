@@ -74,7 +74,7 @@ export function convertChapters(data, id) {
         };
       } else throw new Error(`${id}: 不认识的段落类型 ${b.t}`);
     }
-    return { title: ch.title.trim(), verses };
+    return { title: ch.title.trim(), ...(ch.intro?.trim() ? { intro: ch.intro.trim() } : {}), verses };
   });
 }
 

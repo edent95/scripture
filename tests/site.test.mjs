@@ -7,7 +7,7 @@ import { validateBook, loadBooks, mergeEnglish, verseKey } from '../scripts/cont
 
 process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
-const { build, chapterPath } = await import('../scripts/build.mjs');
+const { build, bookPath, chapterPath } = await import('../scripts/build.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
 const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
@@ -282,5 +282,34 @@ test('SEO：首页 title 宽 ≤60、description 宽 ≤160(中文 1 字算 2),�
     assert.ok(width(desc) <= 160, `${p} description 宽 ${width(desc)}：${desc}`);
     assert.ok(html.includes('class="brand-mark" src="/favicon.svg" alt="" aria-hidden="true"'), `${p} 站标应是 alt="" 的装饰图`);
     for (const [img] of html.matchAll(/<img\b[^>]*>/g)) assert.match(img, /\balt="/, `${p} 有图片完全没写 alt：${img}`);
+  }
+});
+
+test('导读：每部书有「读之前先知道这几件事」，多章书每章有「这一章在讲什么」，中英两版都显示', () => {
+  build();
+  for (const b of loadBooks()) {
+    assert.ok(b.primer && b.primer.zh.length >= 4 && b.primer.zh.length <= 8, `${b.slug} 要有 4 到 8 条「读之前先知道」`);
+    assert.equal(b.primer.en.length, b.primer.zh.length, `${b.slug} 导读中英条数不一样`);
+    assert.ok(!/[\u4e00-\u9fff]/.test(JSON.stringify(b.primer.en)), `${b.slug} 英文导读里有中文`);
+    const single = b.chapters.length === 1;
+    for (const lang of ['zh', 'en']) {
+      const toc = readFileSync(join(OUT, bookPath(b, lang), 'index.html'), 'utf8');
+      assert.equal(toc.split('id="primer"').length - 1, 1, `${b.slug} ${lang} 目录页（单章书是经文页）要有一块导读`);
+      assert.ok(toc.indexOf('id="primer"') < toc.indexOf(single ? 'class="verses"' : 'class="chapter-list"'), `${b.slug} ${lang} 导读要排在正文前面`);
+    }
+    if (single) continue;
+    const seen = new Set();
+    b.chapters.forEach((ch, i) => {
+      assert.ok(ch.intro && ch.enIntro, `${b.slug} 第 ${i + 1} 章缺中文或英文导读`);
+      assert.ok((ch.intro.match(/[\u4e00-\u9fff]/g) ?? []).length <= 110, `${b.slug} 第 ${i + 1} 章中文导读超过 110 字`);
+      assert.ok(!/[\u4e00-\u9fff]/.test(ch.enIntro), `${b.slug} 第 ${i + 1} 章英文导读里有中文`);
+      assert.ok(!seen.has(ch.intro), `${b.slug} 第 ${i + 1} 章导读和别的章重复`);
+      seen.add(ch.intro);
+      for (const lang of ['zh', 'en']) {
+        const html = readFileSync(join(OUT, chapterPath(b, i, lang), 'index.html'), 'utf8');
+        assert.ok(html.includes('class="ch-intro"'), `${b.slug} 第 ${i + 1} 章 ${lang} 页面没显示导读`);
+        assert.ok(html.includes(`href="${bookPath(b, lang)}#primer"`), `${b.slug} 第 ${i + 1} 章 ${lang} 缺「先看这几件事」的入口`);
+      }
+    });
   }
 });
