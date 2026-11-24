@@ -269,8 +269,13 @@ body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
    左栏:这本书的花纹章 + 标题 + 几条几分钟;右栏:编号的问答。金线只画框和分隔,不写字。 */
 .primer { position: relative; display: grid; gap: clamp(20px, 3vw, 56px); margin: clamp(28px, 4vw, 56px) 0; padding: clamp(26px, 3.4vw, 48px); background: var(--soft); border-radius: var(--radius-md); }
 .primer::before { content: ''; position: absolute; inset: 8px; border: 1px solid color-mix(in srgb, var(--cover-foil, var(--line)) 42%, transparent); border-radius: calc(var(--radius-md) - 8px); pointer-events: none; }
-.primer-emblem { display: block; width: 72px; margin-bottom: 20px; }
+.primer-emblem { display: none; }
 .primer-emblem img { display: block; width: 100%; height: auto; }
+/* 分隔小章(mandala-emblem 技能):两节之间一枚 44px 的小章,两边各一条细线。只放在换话题的地方,不放在经文段落之间 */
+.emblem-divider { display: flex; align-items: center; gap: 20px; max-width: var(--measure); margin: clamp(40px, 6vw, 72px) 0 0; }
+.emblem-divider--wide { max-width: none; margin: clamp(36px, 5vw, 64px) 0 clamp(-8px, -1vw, 0px); }
+.emblem-divider::before, .emblem-divider::after { content: ''; flex: 1; height: 1px; background: var(--line); }
+.emblem-divider picture, .emblem-divider img { display: block; width: 44px; height: 44px; }
 .primer .kicker { margin-bottom: 10px; }
 .primer h2 { margin: 0 0 12px; font-size: clamp(1.5rem, 2.4vw, 2.05rem); line-height: 1.25; text-wrap: balance; }
 .primer-meta { margin: 0; color: var(--muted); font-size: 0.82rem; letter-spacing: 0.06em; font-variant-numeric: tabular-nums; }
@@ -296,6 +301,8 @@ body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
 @media (min-width: 960px) {
   .primer { grid-template-columns: minmax(220px, 0.36fr) minmax(0, 1fr); }
   .primer-head { position: sticky; top: 96px; align-self: start; }
+  /* 左栏标题下面的留白放这本书的大章:会慢慢描线、转动;窄屏没有这块留白,不放 */
+  .primer-emblem { display: block; width: min(100%, 236px); margin-top: 30px; opacity: 0.92; }
 }
 @media (max-width: 560px) {
   .primer-a { padding-left: 0; }

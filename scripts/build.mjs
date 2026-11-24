@@ -5,7 +5,7 @@ import { cpSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadBooks, TRADITIONS } from './content.mjs';
-import { coverTone, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
+import { DIVIDER_SEEDS, coverTone, dividerMark, emblemPicture, writeCovers, writeEmblems } from './emblems.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = process.env.OUT_DIR ?? join(ROOT, 'dist');
@@ -194,10 +194,10 @@ function primerSection(b, lang, open = 2) {
   return `
 <section class="primer" id="primer">
   <header class="primer-head">
-    ${emblemPicture(b.slug, 'primer-emblem', { still: true, size: 96 })}
     <p class="kicker">${t.primerKicker}</p>
     <h2>${t.primerTitle}</h2>
     <p class="primer-meta">${t.primerMeta(items.length, minutes)}</p>
+    ${emblemPicture(b.slug, 'primer-emblem', { size: 260 }).replace('loading="eager"', 'loading="lazy"')}
   </header>
   <ol class="primer-list">
   ${items
@@ -365,7 +365,7 @@ function homePage(books, lang) {
 ${shelf('reading', t.shelfReading, t.shelfReadingSub)}
 ${groups
   .map(
-    ([label, list], gi) => `
+    ([label, list], gi) => `${gi > 0 && DIVIDER_SEEDS[gi - 1] ? dividerMark(DIVIDER_SEEDS[gi - 1], 'emblem-divider--wide') : ''}
 <section class="tradition">
   <p class="kicker">${String(gi + 1).padStart(2, '0')}</p>
   <h2>${esc(lang === 'en' ? label.en : label.zh)}</h2>
@@ -453,7 +453,7 @@ ${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `$
       return `<li><a href="${chapterPath(b, i, lang)}" data-book="${b.slug}" data-ch="${i}" data-verses="${ch.verses.length}"><span class="ch-no" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span><strong>${esc(chTitle(ch, lang))}</strong><span>${t.verses(ch.verses.length)}</span></a></li>`;
     })
     .join('\n  ')}
-</ol>${compareSection(b, lang)}${sourceNote(b, lang)}
+</ol>${hasEn(b) ? dividerMark(b.slug) : ''}${compareSection(b, lang)}${sourceNote(b, lang)}
 </div>`;
   return layout({
     lang,

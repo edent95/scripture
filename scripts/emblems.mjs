@@ -35,6 +35,9 @@ export const EMBLEMS = {
   upanishads: ['epi:3,1,2', 'hypo:9,4,4', 6], // 唵的三个音
 };
 
+/** 首页分组之间的分隔小章:不属于哪一部书,按这几个名字确定性地派生(每次构建都一样) */
+export const DIVIDER_SEEDS = ['group-1', 'group-2', 'group-3', 'group-4', 'group-5'];
+
 const specOf = (key) => {
   const [p, f, copies] = EMBLEMS[key];
   return { primary: Mandala.parseCurve(p), family: Mandala.parseCurve(f), copies };
@@ -54,6 +57,11 @@ export function writeEmblems(outDir) {
         writeFileSync(join(dir, `${key}-${palette}${animate ? '' : '-still'}.svg`), svg);
       }
     }
+  }
+  // 分隔小章(两节之间,64 格的小图,不动):每部书一枚,和它的大章同一组曲线;首页分组之间的按组序号派生
+  const dividers = { ...Object.fromEntries(Object.keys(EMBLEMS).map((k) => [k, specOf(k)])), ...Object.fromEntries(DIVIDER_SEEDS.map((k) => [k, Mandala.specFromSeed(`scripture/${k}`)])) };
+  for (const [key, spec] of Object.entries(dividers)) {
+    for (const palette of ['light', 'dark']) writeFileSync(join(dir, `${key}-divider-${palette}.svg`), Mandala.dividerSvg(spec, { palette }));
   }
   // 主题插画(scripts/scenes.mjs):首页莲花 + 每部经书一张,和纹章同一套颜色与文件命名
   const sdir = join(outDir, 'scenes');
@@ -97,4 +105,9 @@ export function emblemPicture(key, cls, { still = false, size = 380, kind = 'emb
         `<source srcset="${src('dark', false)}" media="(prefers-color-scheme: dark)">`,
       ];
   return `<picture class="${cls}" aria-hidden="true">${sources.join('')}<img src="${src('light', still)}" alt="" width="${size}" height="${size}" loading="${still ? 'lazy' : 'eager'}" decoding="async"></picture>`;
+}
+
+/** 分隔小章:两条细线中间一枚 44px 的小章,跟系统浅深色走;纯装饰 */
+export function dividerMark(key, cls = '') {
+  return `<div class="emblem-divider${cls ? ` ${cls}` : ''}" aria-hidden="true"><picture><source srcset="/emblems/${key}-divider-dark.svg" media="(prefers-color-scheme: dark)"><img src="/emblems/${key}-divider-light.svg" alt="" width="44" height="44" loading="lazy" decoding="async"></picture></div>`;
 }
