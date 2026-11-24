@@ -313,3 +313,12 @@ test('导读：每部书有「读之前先知道这几件事」，多章书每�
     });
   }
 });
+
+test('字体：全站只引 MiSans（转写另用 Inter），样式里没有别的字体家族', () => {
+  build();
+  const html = readFileSync(join(OUT, 'index.html'), 'utf8');
+  assert.ok(html.includes('misans@5.0.0/lib/Normal/MiSansVF.min.css') && html.includes('MiSansDevanagariVF.min.css'), '页面要引 MiSans 和 MiSans Devanagari');
+  assert.ok(!/JetBrains|Noto\+Serif/.test(html), '页面不该再引 JetBrains Mono 或 Noto Serif');
+  const css = readFileSync(new URL('../src/styles.css', import.meta.url), 'utf8');
+  assert.ok(!/JetBrains Mono'|Songti|Noto Serif/.test(css.replace(/\/\*[\s\S]*?\*\//g, '')), '样式里不该有 MiSans 以外的字体家族（转写用的 Inter 除外）');
+});

@@ -74,6 +74,7 @@ const T = {
     primerKicker: '第一次读',
     primerTitle: '读之前先知道这几件事',
     primerLink: '第一次读？先看这几件事',
+    primerMeta: (n, min) => `${n} 条 · 大约 ${min} 分钟读完`,
     coverAlt: (name) => `《${name}》封面插画`,
     // 分享图(scripts/og-image.mjs 生成):站名、几部常搜的经名、莲花线稿
     ogImage: '/og-zh.jpg',
@@ -112,6 +113,7 @@ const T = {
     primerKicker: 'New to this book',
     primerTitle: 'A few things to know before you read',
     primerLink: 'New to this book? Read these few things first',
+    primerMeta: (n, min) => `${n} notes · about ${min} min`,
     coverAlt: (name) => `Cover illustration for ${name}`,
     ogImage: '/og-en.jpg',
     ogAlt: 'Sanskrit Scriptures, Plainly: Heart Sutra, Bhagavad Gita and Dhammapada in plain English, beside a line drawing of a lotus',
@@ -181,21 +183,30 @@ function compareSection(b, lang) {
 </section>`;
 }
 
-/** 「读之前先知道这几件事」：没背景的人先看的几条问答。多章书放在目录页章节列表前面（头两条展开）；单章书放在经文前面（只展开第一条）。 */
+/** 「读之前先知道这几件事」：没背景的人先看的几条问答。多章书放在目录页章节列表前面（头两条展开）；单章书放在经文前面（只展开第一条）。
+ *  左边是这本书的花纹章、标题和「几条、大约几分钟」，右边是编号的问答；「常见的词」排成一格一格的小卡。 */
 function primerSection(b, lang, open = 2) {
   const items = b.primer?.[lang];
   if (!items) return '';
   const t = T[lang];
+  const text = items.map((it) => it.a + (it.terms ?? []).flat().join('')).join('');
+  const minutes = Math.max(1, Math.ceil(lang === 'en' ? text.split(/\s+/).length / 200 : text.length / 350));
   return `
 <section class="primer" id="primer">
-  <p class="kicker">${t.primerKicker}</p>
-  <h2>${t.primerTitle}</h2>
+  <header class="primer-head">
+    ${emblemPicture(b.slug, 'primer-emblem', { still: true, size: 96 })}
+    <p class="kicker">${t.primerKicker}</p>
+    <h2>${t.primerTitle}</h2>
+    <p class="primer-meta">${t.primerMeta(items.length, minutes)}</p>
+  </header>
+  <ol class="primer-list">
   ${items
     .map(
       (it, n) =>
-        `<details${n < open ? ' open' : ''}><summary>${esc(it.q)}</summary><p>${esc(it.a)}</p>${it.terms ? `<dl>${it.terms.map(([w, note]) => `<dt>${esc(w)}</dt><dd>${esc(note)}</dd>`).join('')}</dl>` : ''}</details>`,
+        `<li><details${n < open ? ' open' : ''}><summary><span class="primer-no" aria-hidden="true">${String(n + 1).padStart(2, '0')}</span><span class="primer-q">${esc(it.q)}</span></summary><div class="primer-a"><p>${esc(it.a)}</p>${it.terms ? `<dl class="primer-terms">${it.terms.map(([w, note]) => `<div><dt>${esc(w)}</dt><dd>${esc(note)}</dd></div>`).join('')}</dl>` : ''}</div></details></li>`,
     )
     .join('\n  ')}
+  </ol>
 </section>`;
 }
 
@@ -245,9 +256,12 @@ ${hreflang}<meta property="og:type" content="article">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@5.0.0/lib/Normal/MiSansVF.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/misans@5.0.0/lib/Devanagari/MiSansDevanagariVF.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap">
 <link rel="stylesheet" href="/styles.css">
 <script>try{var t=localStorage.getItem('scripture.theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
@@ -590,7 +604,7 @@ function chapterPage(b, i, lang) {
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang))}`, compact: true })}
-${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}${b.primer ? (single ? `${primerSection(b, lang, 1)}\n` : `<p class="primer-link"><a href="${bookPath(b, lang)}#primer">${t.primerLink}</a></p>\n`) : ''}<div class="col-toggle" role="group" aria-label="${t.cols}">
+${single ? (b.primer ? `${primerSection(b, lang, 1)}\n` : '') : chIntro || b.primer ? `<aside class="ch-intro">${chIntro ? `<p class="ch-intro-label">${t.introLabel}</p><p class="ch-intro-text">${esc(chIntro)}</p>` : ''}${b.primer ? `<a class="ch-intro-link" href="${bookPath(b, lang)}#primer">${t.primerLink}<span aria-hidden="true"> →</span></a>` : ''}</aside>\n` : ''}<div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>

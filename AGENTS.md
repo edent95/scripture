@@ -2,6 +2,10 @@
 
 梵文经书白话直译站：每段梵文直译成白话，对照古代汉译，附梵文原文。Eden（eden-tan.com）的子域，独立仓库、独立部署（GitHub Pages）。默认用中文回复。
 
+**目的（用户 2026-11-25 定）：让现代人看得懂以前的经书。** 译文、导读、版面，拿不准怎么做时都问这一句；细则在 `docs/baihua-guideline.md`。
+
+**字体只用 MiSans 一家**（用户 2026-11-25 定）：正文、标题、标签都是 MiSans（jsDelivr 的 `misans@5.0.0`，`MiSansVF` 可变字体，字重上限 700），天城体用 MiSans Devanagari。唯一的例外是罗马转写（`.iast`、书名下的原文名）用 Inter：MiSans 没有 ṃ ḥ ṛ ṭ ḍ ṇ 这些带点的字母，用它会一个词里两种字体。不要再引 JetBrains Mono、宋体或别的字体；加新文字（如阿拉伯文）先看 `misans` 包里有没有对应的子集。
+
 ## 结构
 
 - 内容来自个人面板书库的「梵文」（`sa-*.json`）和「巴利文」（`pi-*.json`）书架，现在 24 部，分三组：佛经（梵文）、巴利文经典、印度经典，书目见 README 和 `scripts/import-dashboard.mjs` 的 `BOOKS` 表。巴利文书的 `origLang` 是 `pi`（导入脚本按 `pi-` 前缀写入），页面上的「梵文」字样都会换成「巴利文」。
