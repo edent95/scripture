@@ -2,12 +2,14 @@
 import { createHash } from 'node:crypto';
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { PANEL_ICONS } from './panels.mjs';
 
 export const TRADITIONS = {
   buddhism: { zh: '佛经', en: 'Buddhist sūtras' },
   theravada: { zh: '巴利文经典', en: 'Pali Canon' },
   hinduism: { zh: '印度经典', en: 'Hindu classics' },
   chinese: { zh: '中国经典', en: 'Chinese classics' },
+  islam: { zh: '伊斯兰经典', en: 'Islamic scripture' },
 };
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -21,23 +23,32 @@ function needText(value, where) {
 }
 
 /**
- * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文 / lzh 文言：原文是汉字，sa.tr 可以为空，指纹改用 sa.text）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
+ * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文 / ar 阿拉伯文 / lzh 文言：原文是汉字，sa.tr 可以为空，指纹改用 sa.text）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
+ * 一章：{ title, no?（章号：只收了一部分章的书用它定网址，如古兰经第 78 章是 /quran/78/；要么每章都写、严格递增，要么都不写）, verses[] }
  *   章还可以带 intro（这一章在讲什么，白话导读，显示在经文前面）；英文导读写在英译叠加层那一章的 intro。
+ *   章还可以带 points（「一图看懂」：三四个重点，每个 { icon 图形名（scripts/panels.mjs）, text 一句话 }）；英文的那几句写在英译叠加层那一章的 points（字符串数组，条数要一样）。
  * 一段：{ zh 白话直译, sa: { text 天城体, tr 罗马转写 }, old?: { who, text, plain, notes[{ w, note }] } }
  */
 export function validateBook(book, file) {
   need(SLUG.test(book.slug ?? ''), file, `slug 不合法: ${book.slug}`);
   need(file.endsWith(`${book.slug}.json`), file, '文件名必须等于 slug');
   need(TRADITIONS[book.tradition], file, `未知 tradition: ${book.tradition}`);
-  need(book.origLang === undefined || ['sa', 'pi', 'lzh'].includes(book.origLang), file, `origLang 只能是 sa、pi 或 lzh: ${book.origLang}`);
+  need(book.origLang === undefined || ['sa', 'pi', 'ar', 'lzh'].includes(book.origLang), file, `origLang 只能是 sa、pi、ar 或 lzh: ${book.origLang}`);
   needText(book.title, `${file} title`);
   needText(book.sanskrit, `${file} sanskrit`);
   needText(book.summary, `${file} summary`);
   need(Array.isArray(book.chapters) && book.chapters.length > 0, file, '至少一章');
+  const numbered = book.chapters.filter((ch) => ch.no !== undefined);
+  need(numbered.length === 0 || numbered.length === book.chapters.length, file, '章号 no 要么每章都写，要么都不写');
+  numbered.forEach((ch, i) => need(Number.isInteger(ch.no) && ch.no > (numbered[i - 1]?.no ?? 0), file, `章号 no 必须是递增的正整数: ${ch.no}`));
   book.chapters.forEach((ch, i) => {
     const at = `${file} chapters[${i}]`;
     needText(ch.title, `${at}.title`);
     need(Array.isArray(ch.verses) && ch.verses.length > 0, at, '至少一段');
+    for (const pt of ch.points ?? []) {
+      need(PANEL_ICONS.includes(pt.icon), at, `points 里没有这个图形: ${pt.icon}`);
+      needText(pt.text, `${at}.points.text`);
+    }
     ch.verses.forEach((v, j) => {
       const vat = `${at}.verses[${j}]`;
       needText(v.zh, `${vat}.zh`);
@@ -94,6 +105,10 @@ export function mergeEnglish(book, en, file) {
     ch.en = ech.title;
     if (ech.intro !== undefined) needText(ech.intro, `${at}.intro`);
     if (ech.intro) ch.enIntro = ech.intro;
+    if (ech.points !== undefined) {
+      need(ech.points.length === (ch.points?.length ?? 0) && ech.points.every(isText), at, `points 条数要和中文一样（${ch.points?.length ?? 0} 条）`);
+      ch.enPoints = ech.points;
+    }
     ch.verses.forEach((v, j) => {
       const ev = ech.verses[j];
       const vat = `${at}.verses[${j}]`;

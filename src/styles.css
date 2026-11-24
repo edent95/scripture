@@ -23,6 +23,7 @@
   --mono: var(--sans); /* 标签也用 MiSans,靠字距和小字号区分;变量名留着,用它的地方很多 */
   --deva: 'MiSansDevanagari VF', 'MiSansDevanagari', 'Kohinoor Devanagari', 'Noto Sans Devanagari', sans-serif;
   --latn: 'Inter', 'MiSans VF', ui-sans-serif, system-ui, sans-serif; /* 罗马转写:要带点的字母齐全 */
+  --arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', 'Geeza Pro', 'Traditional Arabic', serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
@@ -751,6 +752,8 @@ main { overflow-x: clip; }
   opacity: 0.85;
 }
 .book-page .deva { font-size: 1.16rem; color: color-mix(in srgb, var(--ink) 78%, var(--muted)); }
+/* 阿拉伯文原文:从右到左,字要大、行要松,读音符号才不挤 */
+.deva[lang='ar'], .book-page .deva[lang='ar'] { direction: rtl; text-align: start; font-family: var(--arabic); font-size: 1.7rem; line-height: 2.5; color: var(--ink); overflow-wrap: anywhere; }
 /* 第一段的第一个字放大(只中文、英文正文) */
 .verse:first-child .zh-text::first-letter, body[data-lang='en'] .verse:first-child .en-text::first-letter {
   float: left;
@@ -760,6 +763,35 @@ main { overflow-x: clip; }
   line-height: 1;
   color: var(--ink);
 }
+
+/* 章前导读:这一章在讲什么。左边一道这本书的金线,小标另起一行 */
+
+/* 一图看懂:一章一张大图。宽屏用一行排开的那张,手机用两行的那张;图下面的说明和路上的站一一对应。
+   线稿颜色:.pi 墨线、.pf 淡线、.pg 金线,浅深色都读 CSS 变量。 */
+:root { --panel-gold: #a87624; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme='light']) { --panel-gold: #e2b76d; } }
+:root[data-theme='dark'] { --panel-gold: #e2b76d; }
+.story { margin: 22px 0 10px; }
+.story figure { margin: 10px 0 0; }
+.scene-art { display: block; width: 100%; height: auto; border-radius: var(--radius-sm); background: color-mix(in srgb, var(--ink) 4%, var(--paper)); fill: none; stroke-linecap: round; stroke-linejoin: round; }
+.scene-art--wide { display: none; }
+@media (min-width: 720px) { .scene-art--wide { display: block; } .scene-art--tall { display: none; } }
+.scene-art .pi { stroke: color-mix(in srgb, var(--ink) 74%, transparent); stroke-width: 0.85; }
+.scene-art .pf { stroke: color-mix(in srgb, var(--ink) 24%, transparent); color: color-mix(in srgb, var(--ink) 30%, transparent); stroke-width: 0.5; }
+.scene-art .pg { stroke: var(--panel-gold); color: var(--panel-gold); stroke-width: 1.05; }
+.scene-art .pa-road { stroke-width: 1.5; opacity: 0.85; }
+.story figcaption ol { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 8px; }
+@media (min-width: 720px) { .story figcaption ol { grid-template-columns: repeat(var(--n), minmax(0, 1fr)); gap: 14px; } }
+.story figcaption li { display: flex; gap: 8px; font-size: 0.94rem; line-height: 1.6; min-width: 0; }
+.story-no { flex: none; width: 1.5em; height: 1.5em; margin-top: 0.08em; border-radius: 50%; display: grid; place-items: center; background: var(--cover-bg, var(--soft)); color: var(--cover-ink, var(--ink)); font-family: var(--mono); font-size: 0.72rem; font-weight: 700; }
+.scene-art .pa-pulse { animation: panel-pulse 4.5s ease-in-out infinite; }
+.scene-art .pa-rise { animation: panel-rise 6s ease-in-out infinite; }
+@keyframes panel-pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+@keyframes panel-rise { 0%, 100% { transform: translateY(2.5px); opacity: 0.65; } 50% { transform: translateY(-2px); opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .scene-art [class*='pa-'] { animation: none; } }
+
+/* 第一段很短时(「奉至仁至慈的真主之名。」),放大的首字不能把下面的对照注挤歪 */
+.verse:first-child .zh-text, body[data-lang='en'] .verse:first-child .en-text { display: flow-root; }
 
 /* 栏目开关右边:读到第几段;底边一条进度线 */
 .col-toggle { align-items: center; }

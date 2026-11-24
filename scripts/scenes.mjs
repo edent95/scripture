@@ -1236,6 +1236,27 @@ function upanishads(P, A) {
   };
 }
 
+/** 古兰经:八角星(两个正方形叠成)一层层向外展开的几何花窗,内外两层朝相反方向慢慢转 —— 不画人、不画物,只有几何 */
+function quran(P, A) {
+  const pt = (r, deg) => [r * Math.cos((deg * Math.PI) / 180), r * Math.sin((deg * Math.PI) / 180)];
+  const ring = (r, n, rot, step = 1) => `M${range(n).map((i) => pt(r, rot + (360 * step * i) / n).map(f).join(' ')).join('L')}Z`;
+  const khatam = (r, rot = 0) => ring(r, 4, rot) + ring(r, 4, rot + 45);
+  const at = (r, deg, body) => `<g transform="translate(${pt(r, deg).map(f).join(' ')})">${body}</g>`;
+  const core = `<path d="${khatam(RADII[1])}" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.85"/><path d="${khatam(RADII[0], 22.5)}" stroke="${P.foil}" stroke-width="0.5"/><circle r="3" stroke="${P.foil}" stroke-width="0.6"/>`;
+  // {8/3} 星:八个顶点每隔两个连一条线,一笔画成
+  const star = `<g>${spin(260, 1, A)}<path d="${ring(RADII[3], 8, 22.5, 3)}" stroke="${P.ink}" stroke-width="0.65"/><path d="${ring(RADII[2], 8, 0, 3)}" stroke="${P.faint}" stroke-width="0.45"/></g>`;
+  const outer = `<g>${spin(380, -1, A)}<path d="${khatam(RADII[4])}" stroke="${P.ink}" stroke-width="0.55"/><path d="${ring(RADII[4], 8, 22.5)}" stroke="${P.faint}" stroke-width="0.4"/>${range(8)
+    .map((i) => at(RADII[4], 22.5 + 45 * i, `<path d="${khatam(4.6)}" stroke="${P.foil}" stroke-width="0.5"/>`))
+    .join('')}</g>`;
+  const beads = range(16)
+    .map((i) => at(76, (360 * i) / 16, `<path d="${ring(2.6, 4, 45)}" stroke="${P.ink}" stroke-width="0.45"/>`))
+    .join('');
+  return {
+    frame: { seeds: false, spiral: false },
+    body: `<g transform="translate(0 ${f(FY)})">${outer}${star}${beads}${core}</g>`,
+  };
+}
+
 /** 道德经:两山之间的谷,一道水从高处流进最低处的静水 —— 上善若水,处众人之所恶;上方一个空的圆是「无」(当其无,有车之用) */
 function daodejing(P, A) {
   const top = FY - 8;
@@ -1280,6 +1301,7 @@ const SUBJECTS = {
   'samkhya-karika': samkhya,
   upanishads,
   'tao-te-ching': daodejing,
+  quran,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 

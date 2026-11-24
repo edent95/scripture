@@ -210,10 +210,12 @@
     b.textContent = text;
   };
   // 这本书该回到哪：有记录用记录；只有旧的进度数据（没记过停在哪）就取读到一半的那一章，没有就取读完的章后面那一章的开头
-  const position = (slug, counts, read) => {
+  const position = (slug, counts, read, nos) => {
     const p = last[slug];
-    if (p && Number.isInteger(p.ch) && p.ch >= 0 && p.ch < counts.length) {
-      return { ch: p.ch, v: Math.max(1, Math.min(Number(p.v) || 1, counts[p.ch])), t: Number(p.t) || 0 };
+    // 记下的是章号 - 1；只收了一部分章的书（data-nos）要换回它在这本书里排第几
+    const at0 = p && Number.isInteger(p.ch) ? (nos ? nos.indexOf(p.ch + 1) : p.ch) : -1;
+    if (at0 >= 0 && at0 < counts.length) {
+      return { ch: at0, v: Math.max(1, Math.min(Number(p.v) || 1, counts[at0])), t: Number(p.t) || 0 };
     }
     let at = -1;
     read.forEach((r, i) => { if (r > 0 && r < counts[i]) at = i; });
@@ -225,7 +227,9 @@
   const finishedCards = [];
   for (const a of document.querySelectorAll('.book-list a[data-book]')) {
     const counts = a.dataset.verses.split(',').map(Number);
-    const read = counts.map((n, i) => Math.min(seen(a.dataset.book, i), n));
+    const nos = a.dataset.nos ? a.dataset.nos.split(',').map(Number) : null;
+    const no = (i) => (nos ? nos[i] : i + 1);
+    const read = counts.map((n, i) => Math.min(seen(a.dataset.book, no(i) - 1), n));
     if (!read.some(Boolean)) continue;
     const finished = read.filter((r, i) => r >= counts[i]).length;
     if (finished === counts.length) {
@@ -233,14 +237,14 @@
       finishedCards.push(a);
       continue;
     }
-    const pos = position(a.dataset.book, counts, read);
+    const pos = position(a.dataset.book, counts, read, nos);
     const multi = counts.length > 1;
     // 没读完的书，点书卡直接回到上次那一段
-    const href = `${a.getAttribute('href')}${multi ? `${pos.ch + 1}/` : ''}${pos.v > 1 ? `#v${pos.v}` : ''}`;
+    const href = `${a.getAttribute('href')}${multi ? `${no(pos.ch)}/` : ''}${pos.v > 1 ? `#v${pos.v}` : ''}`;
     a.href = href;
     if (multi) badge(a, L.chapters(finished, counts.length), 'partial');
     else badge(a, L.verses(read[0], counts[0]), 'partial');
-    const where = [a.querySelector('.feed-title')?.textContent.trim(), multi ? L.chapter(pos.ch + 1) : '', L.at(pos.v, counts[pos.ch])].filter(Boolean).join(' · ');
+    const where = [a.querySelector('.feed-title')?.textContent.trim(), multi ? L.chapter(no(pos.ch)) : '', L.at(pos.v, counts[pos.ch])].filter(Boolean).join(' · ');
     reading.push({ a, href, where, t: pos.t });
   }
   // 最近读的排最前（稳定排序：没有时间的保持页面顺序）

@@ -34,6 +34,7 @@ export const EMBLEMS = {
   'samkhya-karika': ['hypo:5,2,3', 'epi:5,1,1.6', 7],
   upanishads: ['epi:3,1,2', 'hypo:9,4,4', 6], // 唵的三个音
   'tao-te-ching': ['hypo:9,4,5', 'epi:6,1,1.6', 6], // 九九八十一章
+  quran: ['hypo:8,3,5', 'epi:8,1,2', 6], // 八角星
 };
 
 /** 首页分组之间的分隔小章:不属于哪一部书,按这几个名字确定性地派生(每次构建都一样) */
