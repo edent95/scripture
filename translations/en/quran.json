@@ -1874,7 +1874,14 @@
     },
     {
      "h": "742d193b",
-     "en": "and with Pharaoh of the stakes?"
+     "en": "and with Pharaoh of the stakes?",
+     "cmp": [
+      {
+       "w": "dhī al-awtād",
+       "note": "字面是「有木桩的」。指什么历来说法不一：有说是他钉人行刑用的木桩，有说是大军营地的帐篷桩，也有说指坚固的建筑。白话照字面写「木桩」，不替读者选一种。",
+       "en": "Literally \"the one of the stakes.\" What it refers to has long been debated: stakes used to torture people, the tent pegs of a great army, or massive buildings. Both translations keep the literal \"stakes\" without choosing among them."
+      }
+     ]
     },
     {
      "h": "5fbaac26",
@@ -2865,7 +2872,7 @@
   {
    "title": "Surah 102 · Rivalry for More (at-Takāthur)",
    "no": 102,
-   "intro": "You are busy competing over who has more wealth and more people, right up to the grave. One day you will see the fire with your own eyes, and you will be asked what you did with the pleasures you were given.",
+   "intro": "You are busy competing over who has more wealth and more people, right up to the grave. One day you will see the fire with your own eyes, and you will be asked about the pleasures you enjoyed.",
    "points": [
     "You are busy competing for more wealth and more people",
     "all the way to the grave",
@@ -3194,7 +3201,14 @@
     },
     {
      "h": "2a3512f0",
-     "en": "nor will you worship what I worship."
+     "en": "nor do you worship what I worship.",
+     "cmp": [
+      {
+       "w": "wa-lā antum ʿābidūna mā aʿbud",
+       "note": "这一节和第 3 节的阿拉伯文一字不差。有的注家把第 3 节读成说现在、这一节读成说将来；原文本身没有区别，所以白话和英文两节写成一样。",
+       "en": "This verse is word for word the same as verse 3 in Arabic. Some commentators read verse 3 as the present and this one as the future; the wording itself makes no difference, so both translations repeat the same sentence."
+      }
+     ]
     },
     {
      "h": "ad898cba",
@@ -3264,7 +3278,14 @@
     },
     {
      "h": "1318473b",
-     "en": "and his wife too, the carrier of firewood,"
+     "en": "and his wife too, the carrier of firewood,",
+     "cmp": [
+      {
+       "w": "ḥammālata al-ḥaṭab",
+       "note": "字面是「背柴火的女人」。传统上有几种读法：比喻她到处搬弄是非；说她把带刺的柴放在先知走的路上；或者指她将来在火狱里背柴。白话和英文都照字面。",
+       "en": "Literally \"the carrier of firewood.\" Traditional readings differ: a figure for spreading slander, a reference to her strewing thorny wood on the Prophet's path, or a picture of her carrying fuel in the Fire. Both translations keep the literal wording."
+      }
+     ]
     },
     {
      "h": "4c99eb21",
