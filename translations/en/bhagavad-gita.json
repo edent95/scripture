@@ -9,7 +9,7 @@
   },
   {
    "q": "是谁在说话",
-   "a": "全书套了两层。外层是老国王持国坐在宫里，听他的御者全胜（有几章译作桑遮耶）转述战场上的事；全胜被赐予天眼，看得见远处。里层是阿周那和黑天的对话：第一章主要是阿周那在说，从第二章起几乎都是黑天在讲，阿周那偶尔插话提问。译文里的「世尊」就是黑天。"
+   "a": "全书套了两层。外层是老国王持国坐在宫里，听他的御者全胜转述战场上的事；全胜被赐予天眼，看得见远处。里层是阿周那和黑天的对话：第一章主要是阿周那在说，从第二章起几乎都是黑天在讲，阿周那偶尔插话提问。译文里的「世尊」就是黑天。"
   },
   {
    "q": "黑天说的「我」是谁",
@@ -2173,8 +2173,8 @@
       },
       {
        "w": "ahaṃkāra",
-       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我执」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。",
-       "en": "Literally “I-maker”: the mental function that labels every experience “mine.” The plain Chinese 我执 (wǒzhí, “clinging to self”) borrows a Buddhist term and is pejorative; the English “the sense of ‘I’” is more neutral, simply descriptive."
+       "note": "字面「我-制造者」：把一切经验都贴上「我的」标签的那个心理功能。白话「我慢」借了佛教词，带贬义；英文 the sense of “I” 中性一些，只是在描述。",
+       "en": "Literally “I-maker”: the mental function that labels every experience “mine.” The plain Chinese 我慢 (wǒmàn, “self-conceit”) borrows a Buddhist term and is pejorative; the English “the sense of ‘I’” is more neutral, simply descriptive."
       }
      ]
     },
@@ -2243,8 +2243,8 @@
      "cmp": [
       {
        "w": "guṇa",
-       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译「萨埵、罗阇、多磨」，英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。",
-       "en": "Guṇa originally means “strand”: a rope is twisted from several strands. Sattva (clear, bright), rajas (restless, passionate) and tamas (dark, dull) are the three strands twisted into everything in the world. The plain Chinese transliterates them as 萨埵、罗阇、多磨 (sàduǒ, luóshé, duōmó); the English keeps the original names here, and in the next verse, where they are called 三德 (sān dé, “the three qualities”), writes “the three qualities (gunas).”"
+       "note": "guṇa 本义是「股」：一根绳子由几股拧成。sattva（清澈、明亮）、rajas（躁动、激情）、tamas（昏暗、迟钝）三股拧成世间万物。白话音译成萨埵、罗阇、多摩，括号里各配一个词（清明、躁动、昏沉），英文这里保留原名；下一节称它们为「三德」，英文写 the three qualities (gunas)。",
+       "en": "Guṇa originally means “strand”: a rope is twisted from several strands. Sattva (clear, bright), rajas (restless, passionate) and tamas (dark, dull) are the three strands twisted into everything in the world. The plain Chinese transliterates them as 萨埵、罗阇、多摩 (sàduǒ, luóshé, duōmó), each with a one-word gloss in brackets (clear, restless, dull); the English keeps the original names here, and in the next verse, where they are called 三德 (sān dé, “the three qualities”), writes “the three qualities (gunas).”"
       }
      ]
     },
@@ -3867,8 +3867,8 @@
       },
       {
        "w": "sattva / rajas / tamas",
-       "note": "本站白话直接音译成「萨埵、罗阇、多摩」，不替它们下定义；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。",
-       "en": "The site's plain Chinese simply transliterates them as 萨埵、罗阇、多摩 (Sàduǒ, Luóshé, Duōmó) without defining them. The usual Chinese renderings 善性、激性、惰性 (shànxìng, jīxìng, duòxìng: \"goodness, passion, inertia\") and the usual English \"goodness / passion / darkness\" each catch only one side. sattva literally means \"being, reality,\" extended to brightness and clarity; rajas first meant \"dust, haze,\" extended to restlessness; tamas simply means \"darkness.\" The site's English keeps the Sanskrit words and glosses each with two words the first time."
+       "note": "本站白话音译成萨埵、罗阇、多摩，每章第一次出现时在括号里各配一个词（清明、躁动、昏沉）；常见的中文意译「善性、激性、惰性」，英文常见 goodness / passion / darkness，都只抓住一面。sattva 字面是「存在、真实」，引申为明亮清澈；rajas 原指「尘土、雾气」，引申为躁动；tamas 就是「黑暗」。本站英文保留原词，第一次各配两个词说明。",
+       "en": "The site's plain Chinese transliterates them as 萨埵、罗阇、多摩 (Sàduǒ, Luóshé, Duōmó), adding a one-word gloss in brackets (clear, restless, dull) the first time they appear in a chapter. The usual Chinese renderings 善性、激性、惰性 (shànxìng, jīxìng, duòxìng: \"goodness, passion, inertia\") and the usual English \"goodness / passion / darkness\" each catch only one side. sattva literally means \"being, reality,\" extended to brightness and clarity; rajas first meant \"dust, haze,\" extended to restlessness; tamas simply means \"darkness.\" The site's English keeps the Sanskrit words and glosses each with two words the first time."
       }
      ]
     },
