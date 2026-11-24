@@ -609,8 +609,11 @@ ${single ? (b.primer ? `${primerSection(b, lang, 1)}\n` : '') : chIntro || b.pri
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>
 </div>
+<div class="read-grid">
 <ol class="verses">${ch.verses.map((v, j) => verseHtml(v, j, lang, b)).join('')}
-</ol>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang)}
+</ol>
+${emblemPicture(b.slug, 'page-emblem', { size: 420 }).replace('loading="eager"', 'loading="lazy"')}
+</div>${single ? compareSection(b, lang) : ''}${sourceNote(b, lang)}
 <div class="colophon" aria-hidden="true">${emblemPicture(b.slug, 'colophon-emblem', { still: true, size: 96 })}</div>
 <nav class="pager">
   <a class="next-card"${end[3]} href="${end[2]}"><span class="next-kicker">${esc(end[0])}</span><span class="next-title">${esc(end[1])}</span></a>

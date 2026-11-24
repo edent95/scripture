@@ -271,6 +271,15 @@ body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
 .primer::before { content: ''; position: absolute; inset: 8px; border: 1px solid color-mix(in srgb, var(--cover-foil, var(--line)) 42%, transparent); border-radius: calc(var(--radius-md) - 8px); pointer-events: none; }
 .primer-emblem { display: none; }
 .primer-emblem img { display: block; width: 100%; height: auto; }
+/* 读经页右边的留白:宽屏上经文只占左边一栏,右边放这本书的大章,跟着往下读一直停在视线旁边(sticky)。
+   窄于 1200px 没有这块留白,不放;章是装饰,不挡字、不接鼠标。 */
+.read-grid { display: block; }
+.page-emblem { display: none; }
+@media (min-width: 1200px) {
+  .read-grid { display: grid; grid-template-columns: minmax(0, var(--measure)) minmax(0, 1fr); column-gap: clamp(32px, 5vw, 96px); align-items: start; }
+  .page-emblem { display: block; position: sticky; top: 168px; justify-self: center; width: min(100%, 400px); margin-top: 40px; opacity: 0.78; pointer-events: none; }
+  .page-emblem img { display: block; width: 100%; height: auto; }
+}
 /* 分隔小章(mandala-emblem 技能):两节之间一枚 44px 的小章,两边各一条细线。只放在换话题的地方,不放在经文段落之间 */
 .emblem-divider { display: flex; align-items: center; gap: 20px; max-width: var(--measure); margin: clamp(40px, 6vw, 72px) 0 0; }
 .emblem-divider--wide { max-width: none; margin: clamp(36px, 5vw, 64px) 0 clamp(-8px, -1vw, 0px); }
