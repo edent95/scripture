@@ -263,6 +263,18 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 body[data-lang='en'] .col.en { padding-left: 0; border-left: 0; }
 body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
 
+/* 读之前先知道这几件事（目录页，章节列表前面） */
+.primer { max-width: var(--measure); margin: 32px 0 40px; padding: 28px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
+.primer h2 { margin: 6px 0 14px; }
+.primer details { border-top: 1px solid var(--line); }
+.primer summary { min-height: 44px; padding: 12px 0; color: var(--ink); cursor: pointer; font-weight: 700; }
+.primer details p { margin: 0 0 14px; line-height: 1.9; }
+.primer dl { margin: 0 0 16px; }
+.primer dt { margin-top: 10px; color: var(--ink); font-weight: 700; }
+.primer dd { margin: 2px 0 0; color: var(--muted); line-height: 1.8; }
+.primer-link { margin: 8px 0 6px; font-size: 0.92rem; }
+.primer-link a { color: var(--action); font-weight: 600; }
+
 /* 三语对照总结 */
 .compare { max-width: var(--measure); margin-top: 56px; padding: 32px clamp(20px, 3vw, 36px); background: var(--soft); border-radius: var(--radius-md); }
 .compare h2 { margin: 6px 0 16px; }

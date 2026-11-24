@@ -69,6 +69,9 @@ const T = {
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
     introLabel: '这一章在讲什么',
+    primerKicker: '第一次读',
+    primerTitle: '读之前先知道这几件事',
+    primerLink: '第一次读？先看这几件事',
     storyLabel: '一图看懂',
     coverAlt: (name) => `《${name}》封面插画`,
   },
@@ -102,6 +105,9 @@ const T = {
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
     introLabel: 'What this chapter says',
+    primerKicker: 'New to this book',
+    primerTitle: 'A few things to know before you read',
+    primerLink: 'New to this book? Read these few things first',
     storyLabel: 'At a glance',
     coverAlt: (name) => `Cover illustration for ${name}`,
   },
@@ -179,6 +185,24 @@ function compareSection(b, lang) {
   <h2>${esc(t.compareTitle(orig(b, lang)))}</h2>
   ${paras.map((p) => `<p${pLang}>${esc(p)}</p>`).join('\n  ')}
   <p class="meta">${esc(t.compareHint)}</p>
+</section>`;
+}
+
+/** 「读之前先知道这几件事」：没背景的人先看的几条问答，放在目录页章节列表前面；头两条默认展开。 */
+function primerSection(b, lang) {
+  const items = b.primer?.[lang];
+  if (!items) return '';
+  const t = T[lang];
+  return `
+<section class="primer" id="primer">
+  <p class="kicker">${t.primerKicker}</p>
+  <h2>${t.primerTitle}</h2>
+  ${items
+    .map(
+      (it, n) =>
+        `<details${n < 2 ? ' open' : ''}><summary>${esc(it.q)}</summary><p>${esc(it.a)}</p>${it.terms ? `<dl>${it.terms.map(([w, note]) => `<dt>${esc(w)}</dt><dd>${esc(note)}</dd>`).join('')}</dl>` : ''}</details>`,
+    )
+    .join('\n  ')}
 </section>`;
 }
 
@@ -406,7 +430,7 @@ function bookIndexPage(b, lang) {
   const body = `
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${esc(tradition)}</nav>
-${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}` })}
+${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `${t.chapters(b.chapters.length)} · ${t.verses(verseCount(b))} · ${esc(compareLabel(b, lang))}` })}${primerSection(b, lang)}
 <ol class="chapter-list">
   ${b.chapters
     .map((ch, i) => {
@@ -579,7 +603,7 @@ function chapterPage(b, i, lang) {
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang, ch))}`, compact: true })}
-${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
+${chIntro ? `<p class="ch-intro"><strong>${t.introLabel}</strong>${esc(chIntro)}</p>\n` : ''}${b.primer ? `<p class="primer-link"><a href="${bookPath(b, lang)}#primer">${t.primerLink}</a></p>\n` : ''}${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
   ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>

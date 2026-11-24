@@ -71,6 +71,7 @@ export const verseKey = (v) => createHash('sha1').update(v.sa.tr.normalize('NFC'
 /**
  * 英译叠加层 translations/en/<slug>.json（本站自己从梵文直译，不经面板导入，导入脚本不会碰它）：
  * { slug, title, summary, compare: [三语对照总结，中文段落], compareEn?: [同一份总结的英文],
+ *   primer?: [{ q 小标题, a 白话解释, terms?: [[词, 解释]] }]（读之前先知道的几件事，中文）, primerEn?: 同一份的英文,
  *   chapters: [{ title, verses: [{ h 梵文指纹, en, cmp?: [{ w, note 中文, en? 英文版的同一条注 }] }] }] }
  * 章数、段数、每段指纹都必须和 content/<slug>.json 一致。
  */
@@ -82,6 +83,18 @@ export function mergeEnglish(book, en, file) {
   need(en.chapters?.length === book.chapters.length, file, `章数 ${en.chapters?.length} ≠ 原文 ${book.chapters.length}`);
   need(en.compareEn === undefined || (Array.isArray(en.compareEn) && en.compareEn.every(isText)), file, 'compareEn 必须是英文段落数组');
   book.en = { title: en.title, summary: en.summary, compare: en.compare, ...(en.compareEn?.length ? { compareEn: en.compareEn } : {}) };
+  // 「读之前先知道这几件事」：给完全没背景的人看的几条问答，显示在目录页章节列表前面。中文 primer、英文 primerEn，条数要一样。
+  for (const key of ['primer', 'primerEn']) {
+    if (en[key] === undefined) continue;
+    need(Array.isArray(en[key]) && en[key].length > 0, file, `${key} 至少一条`);
+    en[key].forEach((it, n) => {
+      needText(it.q, `${file} ${key}[${n}].q`);
+      needText(it.a, `${file} ${key}[${n}].a`);
+      need(it.terms === undefined || (Array.isArray(it.terms) && it.terms.every((x) => Array.isArray(x) && x.length === 2 && x.every(isText))), `${file} ${key}[${n}]`, 'terms 要写成 [[词, 解释], ...]');
+    });
+  }
+  need((en.primer?.length ?? 0) === (en.primerEn?.length ?? 0), file, 'primer 和 primerEn 条数要一样');
+  if (en.primer) book.primer = { zh: en.primer, en: en.primerEn };
   book.chapters.forEach((ch, i) => {
     const ech = en.chapters[i];
     const at = `${file} chapters[${i}]`;

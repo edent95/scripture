@@ -2,6 +2,134 @@
  "slug": "quran",
  "title": "The Quran",
  "summary": "The scripture of Islam, which Muslims hold to be the word of God sent down to the Prophet Muhammad through an angel, in 114 surahs. Here for now are the Opening, recited in every daily prayer, and the last part (surahs 78–114): short early surahs from Mecca on the oneness of God, the final reckoning, and care for the orphan and the poor.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "穆斯林相信，这本书是真主的话。「真主」就是阿拉伯文的安拉，意思是「那位唯一的神」。大约一千四百年前，在阿拉伯半岛的麦加城，有个叫穆罕默德的人说，天使把真主的话一段一段传给他，前后传了二十多年。他念给大家听，后人记下来，编成了这本书。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "几乎每一句都是真主在说。他有时自称「我」，有时自称「我们」（这是表示尊贵的说法，不是说有好几个神），有时又用「他」来说自己，同一章里会换来换去。只有第 1 章反过来：那是人对真主说的祷词。"
+  },
+  {
+   "q": "「你」「你们」「他们」是谁",
+   "a": "「你」多半是穆罕默德：真主在对他说话，安慰他，吩咐他。有时「你」也指每一个听的人。「你们」「他们」多半是当时的麦加人，尤其是不信他的那些人。看到「你说：……」，意思是真主教穆罕默德这样对别人说，引号里就是要他说的话。"
+  },
+  {
+   "q": "为什么很多章一开头就发誓",
+   "a": "当时的阿拉伯人说要紧的话，习惯先指着一样东西发誓，意思是「听好，下面这句是认真的」。这里发誓的是真主，指的是太阳、黑夜、星星这些人人看得见的东西。誓言本身不是重点，誓言后面那一句才是正题。"
+  },
+  {
+   "q": "每章开头那一句是什么",
+   "a": "「奉最仁慈、最慈爱的真主的名」是固定的开场白，意思是「以真主的名义开始」。差不多每一章都用它开头，穆斯林做事之前也常念这一句。"
+  },
+  {
+   "q": "当时发生了什么事",
+   "a": "那时候麦加人拜很多神像。穆罕默德告诉他们：神只有一个；人死后会复活，要为自己做过的事受审判；要善待孤儿和穷人。城里有钱有势的人大多不信，笑他，为难他。这一卷里很多话，都是冲着这场争论说的。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "真主、主",
+     "同一位。「主」是主人，也是养育万物的那一位。"
+    ],
+    [
+     "使者、先知",
+     "替真主传话的人。这里多半指穆罕默德；穆萨（摩西）也是一位。"
+    ],
+    [
+     "天使",
+     "真主造的、替他办事的，人看不见：传话、记录每个人做的事、在人死时取走灵魂。"
+    ],
+    [
+     "末日、复活日、审判日",
+     "同一天的几个叫法：世界结束，死人都活过来，每个人做过的事被摆出来算账。"
+    ],
+    [
+     "乐园、火狱",
+     "算完账以后的两个去处：做好事的人进乐园，作恶又不悔改的人进火狱。"
+    ],
+    [
+     "信的人、不信的人",
+     "「信」是指相信只有一位真主、相信有审判。不信的人，这里多半指当时反对穆罕默德的麦加人。"
+    ],
+    [
+     "天房",
+     "麦加城中心一座方形的石屋，当时里面摆着神像；穆斯林礼拜时朝着它的方向。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 1 章，再读第 112、113、114 章，每章只有几句。接着读第 93、94、103、107 章。习惯了这种说话方式，再读长一点的第 78–92 章。每章先看「这一章在讲什么」，再读正文；括号（）里的字是本站补上去帮你看懂的，不是经文本身。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "Muslims hold that this book is the word of God. \"Allah\" is simply the Arabic for \"the one God\". About fourteen hundred years ago, in the Arabian town of Mecca, a man named Muhammad said that an angel was bringing him God's words, a passage at a time, over some twenty years. He recited them to the people around him; they were written down and later gathered into this book."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "Almost every line is God speaking. He calls Himself \"I\", or \"We\" (a way of speaking with majesty, not a claim that there are several gods), or speaks of Himself as \"He\", and one surah may switch among all three. Only surah 1 runs the other way: it is a prayer that people say to God."
+  },
+  {
+   "q": "Who \"you\" and \"they\" are",
+   "a": "\"You\" is usually Muhammad: God is talking to him, comforting him, telling him what to do. Sometimes \"you\" means anyone who is listening. \"They\" and the plural \"you\" are mostly the people of Mecca at the time, above all those who rejected him. \"Say: ...\" means God is telling Muhammad to say this to others; what follows is what he is to say."
+  },
+  {
+   "q": "Why so many surahs open with an oath",
+   "a": "Arabs of that time would swear by something before saying a thing that mattered, as if to say \"listen, I mean this\". Here it is God who swears, by things everyone can see: the sun, the night, the stars. The oath is not the point. The point is the sentence that comes after it."
+  },
+  {
+   "q": "The line at the head of each surah",
+   "a": "\"In the name of God, the Most Merciful, the Most Compassionate\" is a fixed opening, meaning \"this begins in God's name\". Nearly every surah starts with it, and Muslims often say it before they begin something."
+  },
+  {
+   "q": "What was going on at the time",
+   "a": "The people of Mecca worshipped many idols. Muhammad told them that there is one God, that the dead will be raised and judged for what they did, and that orphans and the poor must be cared for. Most of the rich and powerful in the town did not believe him; they mocked him and made life hard for him. Much of this last part of the book speaks into that quarrel."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "God, the Lord",
+     "The same one. \"Lord\" means master, and also the one who brings all things up and looks after them."
+    ],
+    [
+     "Messenger, prophet",
+     "Someone who carries God's words to people. Here usually Muhammad; Moses is another."
+    ],
+    [
+     "Angels",
+     "Beings made by God to do His work, unseen by people: they carry His words, write down what each person does, and take the soul at death."
+    ],
+    [
+     "The Last Day, the Day of Resurrection, the Day of Judgment",
+     "Names for one day: the world ends, the dead are raised, and what each person did is brought out and weighed."
+    ],
+    [
+     "The Garden, the Fire",
+     "The two places people go after that reckoning: those who did good to the Garden, those who did wrong and never turned back to the Fire."
+    ],
+    [
+     "Believers, disbelievers",
+     "\"Believing\" means believing in the one God and in the judgment. The disbelievers here are mostly the Meccans who opposed Muhammad."
+    ],
+    [
+     "The House",
+     "The Kaaba, a cube-shaped stone building at the center of Mecca. It held idols then; Muslims face toward it when they pray."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Read surah 1 first, then 112, 113 and 114, each only a few lines. Then 93, 94, 103 and 107. Once the way of speaking feels familiar, go on to the longer ones, 78 to 92. Read \"What this chapter says\" before each surah."
+  }
+ ],
  "compare": [
   "这里先收开端章和最后一卷（第 78–114 章），共 38 章。原文是 Tanzil 项目的 Uthmani 本，逐字照录；罗马转写是本站按读音机械生成的，格尾元音全写出来，不做停顿处的省音，所以和实际念诵时每节末尾的读法会有出入。除了第 1 章，每章开头那句「奉至仁至慈的真主之名」不算在节数里，底本把它和第 1 节写在一起，本站照底本放。",
   "白话是写给完全没接触过古兰经的人看的：用平常说话的词，把是谁在对谁说写清楚。原文没有、但不补就看不懂的字，一律放在圆括号（）里，括号里的是通行的解释，不是经文本身；每章开头的「这一章在讲什么」也是本站写的导读。英文版贴着字面译，不加括号，所以两版对着看，就知道哪些是原文、哪些是补的。",
@@ -24,7 +152,7 @@
   {
    "title": "Surah 1 · The Opening (al-Fātiḥa)",
    "no": 1,
-   "intro": "The surah Muslims recite in every daily prayer, seven lines in all: praise of God, then \"You alone we worship,\" then a request to be guided along the straight path.",
+   "intro": "The surah Muslims recite in every daily prayer, seven lines in all: praise of God, then \"You alone we worship,\" then a request to be guided along the straight path. This surah is people speaking to God; in the surahs after it, it is almost always God who speaks.",
    "points": [
     "Praise God: He looks after all the worlds and is most merciful",
     "On the Day of Judgment everything is His to decide",
@@ -1466,7 +1594,7 @@
   {
    "title": "Surah 87 · The Most High (al-Aʿlā)",
    "no": 87,
-   "intro": "A call to glorify God, who made everything and showed everything its way. God will make the Prophet remember what is revealed. Reminding people is worth doing: those who fear God will listen, and those who will not are the worst off. People prize this life, though the life to come is better and lasts longer.",
+   "intro": "A call to glorify God, who made everything and showed everything its way. God will make the Prophet remember what is revealed. Reminding people is worth doing: those who fear God will listen, and those who will not are the worst off. People prize this life, though the life to come is better and lasts longer. \"You\" here is the Prophet Muhammad, and \"We\" is God speaking of Himself.",
    "points": [
     "Glorify the Most High, who made all things and showed them their way",
     "Green grass turns to dry stubble: this life is short",
@@ -2216,7 +2344,7 @@
   {
    "title": "Surah 94 · The Opening of the Breast (ash-Sharḥ)",
    "no": 94,
-   "intro": "More comfort for the Prophet: God has eased your heart, taken the load off your back and made your name honored. Remember that where there is hardship there is also a way through. When your work is done, turn wholly to your Lord.",
+   "intro": "More comfort for the Prophet: God has eased your heart, taken the load off your back and made your name honored. Remember that where there is hardship there is also a way through. When your work is done, turn wholly to your Lord. \"We\" is God speaking of Himself, and \"you\" is the Prophet.",
    "points": [
     "God lifted the burden from your back",
     "and made your name honored",
@@ -2327,7 +2455,7 @@
   {
    "title": "Surah 96 · The Clinging Clot (al-ʿAlaq)",
    "no": 96,
-   "intro": "By tradition the first five verses were the earliest revelation Muhammad received: \"Read!\" God made man and taught him to learn with the pen. The second half rebukes a man who tried to stop someone from praying, and tells the Prophet to ignore him and keep bowing down.",
+   "intro": "By tradition the first five verses were the earliest revelation Muhammad received: \"Read!\" God made man and taught him to learn with the pen. The second half rebukes a man who tried to stop someone from praying, and tells the Prophet to ignore him and keep bowing down. \"You\" is Muhammad; the speaker is God, through the angel.",
    "points": [
     "\"Read!\" — the first revelation",
     "God taught man by the pen what he did not know",
@@ -2444,7 +2572,7 @@
   {
    "title": "Surah 97 · The Night of Decree (al-Qadr)",
    "no": 97,
-   "intro": "The Quran began to be sent down on the Night of Decree. That one night is better than a thousand months: the angels come down on it, and it is peace until dawn.",
+   "intro": "The Quran began to be sent down on the Night of Decree. That one night is better than a thousand months: the angels come down on it, and it is peace until dawn. \"We\" is God speaking of Himself.",
    "points": [
     "The Quran was sent down on the Night of Decree",
     "That one night is better than a thousand months",
@@ -2869,7 +2997,7 @@
   {
    "title": "Surah 105 · The Elephant (al-Fīl)",
    "no": 105,
-   "intro": "An event every Meccan knew: an army with an elephant marched on Mecca (by tradition in the year Muhammad was born), and God sent flocks of birds that broke it with small stones of clay.",
+   "intro": "An event every Meccan knew: an army with an elephant marched on Mecca (by tradition in the year Muhammad was born), and God sent flocks of birds that broke it with small stones of clay. \"You\" is the Prophet, and also anyone who is listening.",
    "points": [
     "An army with an elephant marched on Mecca",
     "God sent flocks of birds that pelted them with clay stones",
@@ -2997,7 +3125,7 @@
   {
    "title": "Surah 108 · Abundance (al-Kawthar)",
    "no": 108,
-   "intro": "The shortest surah, a comfort to the Prophet: God has given you a great deal. Some mock you for having no son to carry on your line; it is the one who hates you who is really cut off.",
+   "intro": "The shortest surah, a comfort to the Prophet: God has given you a great deal. Some mock you for having no son to carry on your line; it is the one who hates you who is really cut off. \"We\" is God speaking of Himself, and \"you\" is the Prophet.",
    "points": [
     "God has given you a great deal",
     "So pray to your Lord and sacrifice",
@@ -3035,7 +3163,7 @@
   {
    "title": "Surah 109 · The Disbelievers (al-Kāfirūn)",
    "no": 109,
-   "intro": "The Meccans proposed a deal: you worship our gods for a year and we will worship your Lord for a year. This surah is the answer: no. Each keeps to his own religion, and neither forces the other.",
+   "intro": "The Meccans proposed a deal: you worship our gods for a year and we will worship your Lord for a year. This surah is the answer: no. Each keeps to his own religion, and neither forces the other. The opening \"Say\" is God telling the Prophet to give them this answer.",
    "points": [
     "I worship God alone, not what you worship",
     "You have your religion and I have mine"
@@ -3147,7 +3275,7 @@
   {
    "title": "Surah 112 · Pure Devotion (al-Ikhlāṣ)",
    "no": 112,
-   "intro": "Four lines that say what God is: He is one; everything depends on Him; He has no child and no parent; nothing can be compared to Him.",
+   "intro": "Four lines that say what God is: He is one; everything depends on Him; He has no child and no parent; nothing can be compared to Him. The opening \"Say\" is God telling the Prophet to say this to others.",
    "points": [
     "God is one",
     "Everything depends on Him",
@@ -3189,7 +3317,7 @@
   {
    "title": "Surah 113 · Daybreak (al-Falaq)",
    "no": 113,
-   "intro": "A prayer for protection: I ask the Lord of daybreak to keep me safe from whatever may harm me: the dark of night, sorcery, and other people's envy.",
+   "intro": "A prayer for protection: I ask the Lord of daybreak to keep me safe from whatever may harm me: the dark of night, sorcery, and other people's envy. The opening \"Say\" is God teaching the Prophet, and everyone who recites it, to pray this way.",
    "points": [
     "I ask the Lord of daybreak to protect me",
     "from what comes in the dark of night",
@@ -3235,7 +3363,7 @@
   {
    "title": "Surah 114 · Mankind (an-Nās)",
    "no": 114,
-   "intro": "Another prayer for protection: I ask the Lord of mankind to keep me safe from the one who hides and quietly puts bad ideas into people's hearts.",
+   "intro": "Another prayer for protection: I ask the Lord of mankind to keep me safe from the one who hides and quietly puts bad ideas into people's hearts. The opening \"Say\" is God teaching the Prophet, and everyone who recites it, to pray this way.",
    "points": [
     "I ask the Lord of mankind to protect me: He is King and God",
     "from the one who hides and whispers bad ideas",

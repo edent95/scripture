@@ -7,7 +7,7 @@ import { validateBook, loadBooks, mergeEnglish, verseKey } from '../scripts/cont
 
 process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
-const { build, chapterPath, chNo } = await import('../scripts/build.mjs');
+const { build, bookPath, chapterPath, chNo } = await import('../scripts/build.mjs');
 const { arTranslit } = await import('../scripts/ar-translit.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
 const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
@@ -59,6 +59,13 @@ test('一图看懂：每个母题都画得出来，没有文字节点、没有�
   assert.throws(() => sceneSvg(['nope']), /没有这个母题/);
   build();
   const quran = loadBooks().find((b) => b.slug === 'quran');
+  // 没背景的人先看的几条：中英条数一样，目录页放在章节列表前面
+  assert.ok(quran.primer.zh.length >= 5 && quran.primer.zh.length === quran.primer.en.length, '古兰经要有「读之前先知道这几件事」，中英条数一样');
+  for (const lang of ['zh', 'en']) {
+    const toc = readFileSync(join(OUT, bookPath(quran, lang), 'index.html'), 'utf8');
+    assert.ok(toc.includes('id="primer"') && toc.indexOf('id="primer"') < toc.indexOf('class="chapter-list"'), `古兰经 ${lang} 目录页的导读要在章节列表前面`);
+    assert.equal(toc.split('<details').length - 1 >= quran.primer[lang].length, true, `古兰经 ${lang} 目录页导读条数不对`);
+  }
   quran.chapters.forEach((ch, i) => {
     assert.ok(ch.points?.length >= 2 && ch.points.length <= 4, `古兰经第 ${ch.no} 章要有二到四个重点`);
     assert.equal(ch.enPoints?.length, ch.points.length, `古兰经第 ${ch.no} 章英文重点条数不对`);
@@ -66,6 +73,7 @@ test('一图看懂：每个母题都画得出来，没有文字节点、没有�
       const html = readFileSync(join(OUT, chapterPath(quran, i, lang), 'index.html'), 'utf8');
       assert.equal(html.split('class="scene-art scene-art--wide"').length - 1, 1, `第 ${ch.no} 章 ${lang} 缺大图`);
       assert.equal(html.split('class="story-no"').length - 1, ch.points.length, `第 ${ch.no} 章 ${lang} 图下说明条数不对`);
+      assert.ok(html.includes(`href="${bookPath(quran, lang)}#primer"`), `第 ${ch.no} 章 ${lang} 缺「先看这几件事」的入口`);
     }
   });
 });
