@@ -49,7 +49,7 @@
     ],
     [
      "烦恼",
-     "让人受苦的五种心病：无明、「我是」感、贪爱、嗔恨、贪生怕死。"
+     "让人受苦的五种心病：无明、「我在」的感觉、贪爱、嗔恨、贪生怕死。"
     ],
     [
      "潜在印记",
@@ -339,8 +339,8 @@
      "cmp": [
       {
        "w": "bhavapratyaya",
-       "note": "「以存在状态为因」。白话补成「前世的存在状态」，英文写 the state of being they are born into；原文本身很简略，「前世」是注释家的解释。",
-       "en": "“Caused by the state of being.” The plain Chinese fills this out as 前世的存在状态 (qiánshì de cúnzài zhuàngtài, “the state of being in a previous life”), while the English says “the state of being they are born into”; the original is very brief, and “previous life” is the commentators’ interpretation."
+       "note": "「以存在状态为因」。白话写「是他们的存在状态带来的，生来就有」，英文写 the state of being they are born into；原文本身很简略，注释家多解释成前世修行的结果，白话没有把这层补进去。",
+       "en": "“Caused by the state of being.” The plain Chinese says 是他们的存在状态带来的，生来就有 (“it comes from their state of being; they are born with it”), and the English “the state of being they are born into”; the original is very brief. Commentators usually explain it as the result of practice in a previous life, which the plain Chinese does not add."
       }
      ]
     },
@@ -481,8 +481,8 @@
      "cmp": [
       {
        "w": "samāpatti",
-       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂；英文 merging 直接说出了心和对象合在一起的意思。",
-       "en": "“Falling completely together.” The plain Chinese keeps the old Buddhist rendering 等至 (děngzhì, roughly “arriving at evenness”), which ordinary readers can’t follow; the English “merging” says directly that the mind and its object come together."
+       "note": "「完全落到一起」。白话沿用佛教旧译「等至」，一般读者看不懂，所以在括号里补了「心和对象合一」；英文 merging 直接说出了心和对象合在一起的意思。",
+       "en": "“Falling completely together.” The plain Chinese keeps the old Buddhist rendering 等至 (děngzhì, roughly “arriving at evenness”), which ordinary readers can’t follow, so it adds 心和对象合一 (“mind and object become one”) in brackets; the English “merging” says directly that the mind and its object come together."
       }
      ]
     },
@@ -496,8 +496,8 @@
      "cmp": [
       {
        "w": "svarūpaśūnyā iva",
-       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话「仿佛失去了自身形态」比直接写「空」更不容易误读。",
-       "en": "“As if emptied of its own form.” The śūnya here is the same word as the 空 (kōng, “emptiness”) of the Heart Sūtra, but the meaning is concrete: the mind forgets itself and only the object remains. The plain Chinese 仿佛失去了自身形态 (fǎngfú shīqùle zìshēn xíngtài, “as though it had lost its own form”) is less open to misreading than simply writing 空."
+       "note": "「好像空掉了自身的形态」。这里的 śūnya 和《心经》的「空」是同一个词，但意思很具体：心忘了自己，只剩对象。白话写「好像连自己的样子都空掉了」，留着「空」字，但说的是心忘了自己的样子，不是什么都没有。",
+       "en": "“As if emptied of its own form.” The śūnya here is the same word as the 空 (kōng, “emptiness”) of the Heart Sūtra, but the meaning is concrete: the mind forgets itself and only the object remains. The plain Chinese 好像连自己的样子都空掉了 (“as if even its own shape had emptied out”) keeps the word 空 but makes clear it is the mind’s own shape that drops away, not that nothing exists."
       }
      ]
     },
@@ -610,8 +610,8 @@
      "cmp": [
       {
        "w": "asmitā",
-       "note": "由「我是」（asmi）加抽象词尾而成。白话直接写「我是」，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。",
-       "en": "Formed from “I am” (asmi) plus an abstract-noun ending. The plain Chinese simply writes 我是 (wǒ shì, “I am”), the English “the sense of ‘I am’”; it is not pride, but the identification that mistakes the mind for the true self."
+       "note": "由「我是」（asmi）加抽象词尾而成。白话写成「我在」的感觉，英文写 the sense of \"I am\"；它不是骄傲，而是把心误当成真我的那种认同感。",
+       "en": "Formed from “I am” (asmi) plus an abstract-noun ending. The plain Chinese writes 「我在」的感觉 (“wǒ zài” de gǎnjué, “the feeling of ‘I am’”), the English “the sense of ‘I am’”; it is not pride, but the identification that mistakes the mind for the true self."
       }
      ]
     },
