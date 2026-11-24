@@ -1,6 +1,6 @@
 # AGENTS.md — scripture.eden-tan.com
 
-梵文经书白话直译站：每段梵文直译成白话，对照古代汉译，附梵文原文。Eden（eden-tan.com）的子域，独立仓库、独立部署（GitHub Pages）。默认用中文回复。
+经书白话直译站（2026-11-25 起站名不带「梵文」）：每段原文（梵文、巴利文、文言）直译成白话，对照古代汉译，附原文。Eden（eden-tan.com）的子域，独立仓库、独立部署（GitHub Pages）。默认用中文回复。
 
 **目的（用户 2026-11-25 定）：让现代人看得懂以前的经书。** 译文、导读、版面，拿不准怎么做时都问这一句；细则在 `docs/baihua-guideline.md`。
 
@@ -14,6 +14,7 @@
   2. `node scripts/check-dashboard-book.mjs <文件>` 校验；
   3. 在面板 `index.json` 加条目、导入脚本 `BOOKS` 表加一行（面板 id、slug、tradition、白话简介、底本来源 `source`），`EN_PENDING` 加英文书名与简介，`scripts/emblems.mjs` 加一枚花纹章（专属插画 `scripts/scenes.mjs` 可以后补，没有时首屏用花纹章）；
   4. 重新导入。
+- **文言的书**（`lzh-*.json`，第一部是道德经，2026-11-25）：原文就是汉字，`sa.text` 放文言原文（带标点，从维基文库等公有领域录文逐字取，繁体转简体用 OpenCC，转完要看一遍异体字），`sa.tr` 留空，页面上不显示转写那一行，也不出现「天城体」字样；英译的指纹改用 `sa.text`。分组是 `chinese`（中国经典）。不加拼音（用户定：多音字容易标错，中文读者用不着）。书的原文书名（面板 `index.json` 的 `author`）写拼音（`Dàodéjīng`），因为它会出现在英文版封面上，英文版封面不许有汉字。每部书必须在 `scripts/scenes.mjs` 的 `SUBJECTS` 有一张线稿（封面墙要用，没有会构建失败）和 `scripts/emblems.mjs` 的一枚章。历来有两种断句或读法的句子，正文取通行的一种，另一种写进那一段的「三语对照」。
 - 一段 = `{ zh 白话直译, old?: { who, text 古译原句, plain 古译今译, notes[{ w, note }] }, sa: { text 天城体, tr 罗马转写 } }`，校验见 `scripts/content.mjs`。
 - **英译**是本站自己的叠加层 `translations/en/<slug>.json`（不经面板，导入脚本不会碰它）：英文从梵文直译，每段带梵文指纹 `h`（`sa.tr` 的 sha1 前 8 位），可选 `cmp[{ w, note }]` 写这一段英文、中文、梵文具体差在哪（只在真有差别时写）；整部书的 `compare` 是三语对照总结（多章书显示在目录页，单章书在经文后面）。面板重新导入后某段梵文变了，指纹对不上，构建会报错，那一段英译要重译。`node scripts/en-skeleton.mjs <slug> [章]` 打印带指纹的底稿。24 部全部已有英译（2026-11-19 补齐）。新加的书没有英译时，会自动出现在英文首页的 Chinese only for now 一组，英文书名和简介写在 build.mjs 的 `EN_PENDING`。巴利文书的英译从巴利文直译，三语对照标题自动写成 Pali。
 - **中英两版**：中文版在 `/…`，英文版在 `/en/…`，格式见下面「多语言规则」。

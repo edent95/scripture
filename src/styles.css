@@ -254,6 +254,9 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .notes dd { margin: 2px 0 0; }
 .col.sa { color: var(--muted); }
 .deva { margin: 0; font-family: var(--deva); font-size: 1.1rem; line-height: 1.9; }
+/* 文言原文(道德经等):汉字,用正文同一款 MiSans,字放大一点、字距松一点 */
+.han { margin: 0; font-family: var(--sans); font-size: 1.2rem; line-height: 2; letter-spacing: 0.04em; }
+.book-page .han { color: color-mix(in srgb, var(--ink) 82%, var(--muted)); }
 .iast, .sa-name, h1 > span[lang$='-Latn'] { font-family: var(--latn); }
 .iast { margin: 6px 0 0; font-size: 0.92rem; font-style: italic; overflow-wrap: anywhere; }
 

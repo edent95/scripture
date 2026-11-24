@@ -1,0 +1,2059 @@
+{
+ "slug": "tao-te-ching",
+ "title": "Tao Te Ching",
+ "summary": "Laozi's five thousand characters in eighty-one short chapters: what the Way is, and how to live and govern by following it, without striving, from the low place, interfering less.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "《道德经》也叫《老子》，大约五千字，分八十一章；前三十七章常叫「道经」，后四十四章叫「德经」。传统上说作者是春秋时期的老子，做过周朝管藏书的官；一般认为这本书在战国时期（约公元前四到三世纪）定型。它是道家最根本的一本书，后来道教也把它当作经典。本站用的是三国时王弼作注的本子，也就是今天最通行的一系；原文取自维基文库的录文，个别字句和市面上常见的本子不同，差别写在那一段的「三语对照」里。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "全书没有故事，没有人名，也没有对话，是一个人在直接讲道理。文中的「我」「吾」就是说话的人自己。「圣人」是他心目中理想的人，多半也是理想的统治者，不是指某一位具体的人。很多话是说给当时治国的人听的，所以常提到「侯王」「人主」「民」。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "春秋战国的几百年里，各国互相打仗，各家都在出主意：怎么治国，怎么做人。有人主张讲仁义、守礼法，有人主张富国强兵。这本书的回答是反着来的：少管一点，少要一点，不争。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "第一，它喜欢说反话：「柔弱胜刚强」「大巧若拙」。这不是玩文字，是在说事情走到头会翻过来。第二，它写得很省，一句话常常没有主语，同一句历来有好几种读法；本站正文取最通行的一种，别的读法写在那一段下面的「三语对照」里。第三，有些词和今天的意思不一样，比如「无为」不是什么都不做，「自然」不是指大自然，见下面「常见的词」。第四，各章之间没有先后顺序，可以跳着读。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "道",
+     "万物的来处，也是万物运行的那条路。书里说它看不见、说不出，只能勉强叫它「道」。"
+    ],
+    [
+     "德",
+     "道落在每样东西、每个人身上的那一份。不是今天说的「道德」。"
+    ],
+    [
+     "无为",
+     "不硬来，不多干预，顺着事情本来的样子去做。不是什么都不做。"
+    ],
+    [
+     "自然",
+     "自己本来如此。不是指山水草木那个大自然。"
+    ],
+    [
+     "圣人",
+     "书里理想的人，多半指理想的统治者。"
+    ],
+    [
+     "朴",
+     "没雕过的原木，比喻没被加工过的本来样子。"
+    ],
+    [
+     "无、有",
+     "「无」是还没有形状和名字的状态，「有」是有了形状和名字以后。书里说有生于无。"
+    ],
+    [
+     "柔弱",
+     "软的、低的、让着的一方。书里认为它胜过刚强。"
+    ],
+    [
+     "玄",
+     "幽深，看不透。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读几章好懂的：第 8 章（上善若水）、第 33 章（知人者智）、第 64 章（千里之行）、第 76 章（柔弱）、第 81 章。再读讲「道」本身的第 1、25、42 章。想看它怎么谈治国，读第 17、57、60、80 章。每章先看「这一章在讲什么」，再读正文；括号（）里的字是本站补上去帮你看懂的，不是原文。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "The Tao Te Ching, also called the Laozi, runs to about five thousand characters in eighty-one chapters; the first thirty-seven are often called the Book of the Way and the last forty-four the Book of Virtue. Tradition names its author as Laozi, an archivist at the Zhou court in the Spring and Autumn period; scholars generally think the book took its settled form in the Warring States period, around the fourth to third century BCE. It is the founding text of Daoist thought, and the later Daoist religion took it as scripture. This site uses the text that Wang Bi annotated in the third century CE, the line of transmission most widely read today. The original is taken from the Chinese Wikisource transcription; a few readings differ from the editions commonly on sale, and the differences are noted under the passage."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "There is no story, no named person and no dialogue: one voice sets out its thinking directly. The \"I\" in the text is that speaker. \"The sage\" is the speaker's ideal person, most often an ideal ruler, not any particular individual. Much of it is addressed to those who governed at the time, which is why it keeps mentioning lords, kings and the people."
+  },
+  {
+   "q": "What was going on at the time",
+   "a": "For several centuries the states of ancient China fought one another, and every school offered advice on how to govern and how to live. Some urged benevolence and ritual, others wealth and armies. This book answers from the opposite side: manage less, want less, do not contend."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "First, it likes to turn things upside down: \"the soft overcomes the hard,\" \"great skill looks clumsy.\" This is not wordplay; it is saying that things pushed to their limit turn into their opposite. Second, it is extremely compressed. Sentences often have no subject, and the same line has been read in several ways for two thousand years; this site follows the most common reading and puts the others in the \"Three languages\" note under the passage. Third, some words do not mean what they seem to mean: \"non-action\" is not doing nothing, and \"so of itself\" is not nature in the sense of the outdoors. See the word list below. Fourth, the chapters are in no particular order, so you can read them in any sequence."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "The Way (Dao)",
+     "Where all things come from, and the path along which they move. The book says it cannot be seen or named; \"the Way\" is only a makeshift name."
+    ],
+    [
+     "Virtue (De)",
+     "The share of the Way that each thing and each person has. Not morality in today's sense."
+    ],
+    [
+     "Non-action",
+     "Not forcing, not interfering more than needed, acting in line with how things already go. Not doing nothing."
+    ],
+    [
+     "So of itself",
+     "Being the way it is on its own. Not nature in the sense of mountains and trees."
+    ],
+    [
+     "The sage",
+     "The book's ideal person, most often an ideal ruler."
+    ],
+    [
+     "The uncarved block",
+     "A piece of wood not yet carved: an image for what has not been worked on or dressed up."
+    ],
+    [
+     "Non-being, being",
+     "Non-being is the state before shape and name; being is what comes once there is shape and name. The book says being is born from non-being."
+    ],
+    [
+     "The soft and weak",
+     "The side that is supple, low and yielding. The book holds that it overcomes the hard and strong."
+    ],
+    [
+     "Dark, mysterious",
+     "Deep beyond seeing through."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Begin with a few chapters that are easy to follow: 8 (the highest good is like water), 33 (knowing others, knowing yourself), 64 (a journey of a thousand miles), 76 (the soft and the hard) and 81. Then read 1, 25 and 42, which speak about the Way itself. For how it thinks about governing, read 17, 57, 60 and 80. Read \"What this chapter says\" before each chapter."
+  }
+ ],
+ "compare": [
+  "这部书的原文和白话都是中文，但隔了两千多年，很多字今天还在用，意思已经变了。最要紧的是书名里的两个字。「道」本义是路，书里用它指万物的来处和运行的方式；英文多译 the Way，也有人干脆音译 Dao 或 Tao。「德」不是今天的「道德」，而是道落在每样东西身上的那一份，带着「得」的意思；英文译 virtue，取的是它「内在的力量」这层旧义，和中文一样容易被读成品德。",
+  "「无为」字面是「没有作为」，英文直译 non-action，两边都容易被读成「什么都不做」。书里的意思是不硬来、不多加干预，所以有「无为而无不为」这样的话。「自然」字面是「自己这样」，英文本站写 so of itself；今天中文的「自然」多指大自然，英文 nature 也是，这层意思原文里没有。",
+  "原文极省，常常没有主语，也不说明「所以」前后是什么关系；一个字既可以当名词又可以当动词。英文不补主语就不成句，所以英文版里的 it、one、he 多半是原文没有的；白话把补上去的字放进圆括号，英文为了贴着字面没有加括号，两版对着看就知道哪些是补的。",
+  "原文大量押韵、对仗，四字一句、两两相对，读起来像歌。白话和英文都保不住这些，只能把意思说清楚；想感受原来的节奏，可以念一念每段下面的文言原文。"
+ ],
+ "compareEn": [
+  "The original and the plain Chinese are both Chinese, but more than two thousand years apart: many characters are still in use and no longer mean what they meant. The two that matter most are in the title. 道 (dào) first means a road; the book uses it for where all things come from and how they move. English mostly says \"the Way,\" and some simply write Dao or Tao. 德 (dé) is not today's \"morality\" but the share of the Way that each thing has, with an echo of 得 (dé, \"to obtain\"); English \"virtue\" draws on its old sense of an inner power, and is just as easily misread as moral goodness.",
+  "无为 (wúwéi) is literally \"without doing,\" and the English \"non-action\" follows it; both are easily taken to mean doing nothing. The book means not forcing and not interfering more than needed, which is how it can say \"by non-action nothing is left undone.\" 自然 (zìrán) is literally \"self-so,\" and this site writes \"so of itself\"; in modern Chinese the word usually means the natural world, as \"nature\" does in English, a sense the original does not have.",
+  "The original is extremely spare. It often has no subject and does not say how the clauses on either side of \"therefore\" are connected; one character can be a noun or a verb. English cannot form a sentence without a subject, so the \"it,\" \"one\" and \"he\" of the English are mostly not in the original. The plain Chinese puts what it adds in round brackets; the English stays close to the wording and adds none, so reading the two side by side shows what has been supplied.",
+  "Much of the original rhymes and runs in matched pairs of four-character lines, closer to song than to prose. Neither the plain Chinese nor the English can keep that; they can only make the meaning clear. To hear the rhythm, read aloud the Classical Chinese under each passage."
+ ],
+ "chapters": [
+  {
+   "title": "Chapter 1 · The Way that can be told",
+   "intro": "The opening chapter says the true Way cannot be put into words: whatever can be spoken is not it. Then it says how to look at it: free of desire, you see its hidden wonder; full of desire, you see only its outer edges.",
+   "verses": [
+    {
+     "h": "6a4dcb3f",
+     "en": "The Way that can be told is not the constant Way; the name that can be named is not the constant name;"
+    },
+    {
+     "h": "f938ca32",
+     "en": "the nameless is the beginning of heaven and earth; the named is the mother of the ten thousand things.",
+     "cmp": [
+      {
+       "w": "无名，天地之始",
+       "note": "白话按王弼本读作「无名」「有名」。另一种通行断句是「无，名天地之始；有，名万物之母」，意思变成：「无」是天地开端的名称，「有」是万物之母的名称。",
+       "en": "This follows Wang Bi in reading 无名 (wu ming, 'the nameless') and 有名 (you ming, 'the named'). Another common punctuation is 无，名天地之始 (wu, ming tiandi zhi shi): 'non-being names the beginning of heaven and earth; being names the mother of all things.'"
+      }
+     ]
+    },
+    {
+     "h": "d899fdb4",
+     "en": "Therefore, constantly without desire, one sees its subtlety; constantly with desire, one sees its boundaries;",
+     "cmp": [
+      {
+       "w": "常无欲，以观其妙",
+       "note": "白话按王弼本断在「无欲」之后，读作「常常不带欲望」。另一种通行断句是「常无，欲以观其妙；常有，欲以观其徼」，意思是：从「常无」去看它的奥妙，从「常有」去看它的边界。",
+       "en": "This follows Wang Bi's punctuation, reading 常无欲 (chang wu yu, 'constantly without desire'). Another common punctuation is 常无，欲以观其妙 (chang wu, yu yi guan qi miao): 'in constant non-being, one wishes to see its subtlety; in constant being, one wishes to see its boundaries.'"
+      }
+     ]
+    },
+    {
+     "h": "00d49cad",
+     "en": "These two come out together but have different names; together they are called the mysterious. Mystery upon mystery, the gate of all subtleties."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · When all under heaven know",
+   "intro": "Beauty and ugliness, good and not-good, exist only by comparison: once people know one, the other is there too. Being and non-being, hard and easy, long and short all depend on each other. So the sage acts without forcing and teaches without words, and because he claims no credit, the credit never leaves him.",
+   "verses": [
+    {
+     "h": "430bae42",
+     "en": "When all under heaven know beauty as beauty, there is already ugliness. When all know good as good, there is already the not-good."
+    },
+    {
+     "h": "5014d518",
+     "en": "Thus being and non-being give rise to each other, difficult and easy complete each other, long and short measure each other, high and low lean on each other, tone and voice harmonize with each other, front and back follow each other."
+    },
+    {
+     "h": "1349cd17",
+     "en": "Therefore the sage abides in the affairs of non-action and practices the teaching without words;"
+    },
+    {
+     "h": "3ec19060",
+     "en": "the ten thousand things arise and he does not decline them; he gives life but does not possess, acts but does not rely on it, completes his work but does not dwell in it. Precisely because he does not dwell in it, it does not leave him.",
+     "cmp": [
+      {
+       "w": "作焉而不辞",
+       "note": "「不辞」白话按通行理解作「不推辞」，即任万物兴起，不拒绝。也有人把「辞」解作「言说」，读成「不发号施令」；帛书本这里作「弗始」，意思是不去带头、不去倡导。",
+       "en": "不辞 (bu ci) is read here in the usual way, 'does not decline', letting things arise. Some read 辞 (ci) as 'to speak', i.e. 'gives no commands'; the silk manuscripts have 弗始 (fu shi, 'does not initiate')."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · Not exalting the worthy",
+   "intro": "This chapter is about how the sage governs. If talent is not put on a pedestal, rare goods are not prized, and tempting things are not put on display, people will not fight, steal, or be stirred up. Keep them well fed and strong, with few schemes and desires; govern without forcing, and nothing goes wrong.",
+   "verses": [
+    {
+     "h": "ac386b9a",
+     "en": "Not exalting the worthy keeps the people from contending; not prizing goods that are hard to get keeps the people from becoming thieves; not displaying what can be desired keeps the people's hearts from disorder.",
+     "cmp": [
+      {
+       "w": "不见可欲",
+       "note": "「见」读作「现」，是「显露、摆出来」的意思，不是「看见」。",
+       "en": "见 here is read xian, 'to display', not jian, 'to see'."
+      }
+     ]
+    },
+    {
+     "h": "4f65ea3c",
+     "en": "Therefore, in the sage's governing, he empties their hearts and fills their bellies, weakens their wills and strengthens their bones."
+    },
+    {
+     "h": "90126c1c",
+     "en": "He always keeps the people without knowing and without desire, and makes the clever ones not dare to act. Do non-action, and nothing is left ungoverned.",
+     "cmp": [
+      {
+       "w": "常使民无知无欲",
+       "note": "这里的「无知」通行理解是没有巧诈、算计的心思，不是今天说的「愚昧」；英文按字面直译，读时要按这个意思理解。",
+       "en": "无知 (wu zhi, 'without knowing') is usually understood not as ignorance but as having no cunning or scheming; the literal English should be read in that sense."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · The Way is empty",
+   "intro": "This chapter describes the Way. It is like an empty vessel that never fills however much it is used, deep like the ancestor of all things. It blunts its edges and mixes with the dust, barely seeming to be there, and appears to be older than the high god himself.",
+   "verses": [
+    {
+     "h": "9a18fdfb",
+     "en": "The Way is empty, yet used, it seems never to be filled; deep, it seems the ancestor of the ten thousand things;",
+     "cmp": [
+      {
+       "w": "道冲",
+       "note": "「冲」通「盅」，指空的器皿，所以白话译作「空虚」。",
+       "en": "冲 (chong) is read as 盅 (zhong, 'an empty vessel'), hence 'empty'."
+      }
+     ]
+    },
+    {
+     "h": "6af74099",
+     "en": "It blunts its sharpness, untangles its knots, softens its glare, merges with its dust; clear and deep, it seems perhaps to exist."
+    },
+    {
+     "h": "f520d2ff",
+     "en": "I do not know whose child it is; it seems to come before the Lord on High."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · Heaven and earth are not humane",
+   "intro": "Heaven and earth play no favorites among things, and the sage plays none among people; both treat them like straw dogs used in a ritual. The space between heaven and earth is like a bellows: empty yet never used up, giving more the more it moves. Too much talk runs dry; better to keep still inside.",
+   "verses": [
+    {
+     "h": "13b1265c",
+     "en": "Heaven and earth are not humane; they treat the ten thousand things as straw dogs. The sage is not humane; he treats the people as straw dogs.",
+     "cmp": [
+      {
+       "w": "天地不仁",
+       "note": "「不仁」通行理解是不偏爱谁、任其自然，不是「残忍」。刍狗是祭祀时用草扎的狗，用时摆上，用完就丢。王弼另把「刍狗」读成「草和狗」：天地不为野兽生草，不为人生狗。",
+       "en": "不仁 (bu ren, 'not humane') is usually read as impartial, not cruel. 刍狗 (chu gou) are straw dogs set out for a sacrifice and thrown away afterwards. Wang Bi himself reads it as 'grass and dogs': heaven does not grow grass for beasts or dogs for people."
+      }
+     ]
+    },
+    {
+     "h": "efee2681",
+     "en": "The space between heaven and earth, is it not like a bellows? Empty, yet not exhausted; the more it moves, the more comes out."
+    },
+    {
+     "h": "b39d7d5c",
+     "en": "Much talk soon comes to an end; better to hold to the center."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · The valley spirit does not die",
+   "intro": "This chapter uses the image of a valley and a mother's body. The valley is empty, yet its spirit never dies; it is like a dark, deep mother, and heaven and earth come out of her gate. It goes on and on without break and is never used up.",
+   "verses": [
+    {
+     "h": "b3427847",
+     "en": "The spirit of the valley does not die; it is called the mysterious female. The gate of the mysterious female is called the root of heaven and earth."
+    },
+    {
+     "h": "a9c972d3",
+     "en": "Unbroken, it seems to endure; use it and it is never exhausted.",
+     "cmp": [
+      {
+       "w": "用之不勤",
+       "note": "「勤」通常解作「尽」，所以译作「用不尽」；也有人解作「劳累」，读成「用它不费力」。",
+       "en": "勤 (qin) is usually glossed as 'to exhaust', hence 'never exhausted'; some read it as 'toil', i.e. 'using it takes no effort'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · Heaven endures, earth lasts",
+   "intro": "Heaven and earth last a long time because they do not live for themselves. The sage is the same: he puts himself last and ends up in front, sets himself aside and ends up safe, and because he has no selfish aims, his own aims are fulfilled.",
+   "verses": [
+    {
+     "h": "4cf7b603",
+     "en": "Heaven endures, earth lasts. Heaven and earth can endure and last because they do not live for themselves; therefore they can live long."
+    },
+    {
+     "h": "986aa828",
+     "en": "Therefore the sage puts himself last and finds himself first; puts himself outside and finds himself preserved. Is it not because he has no self-interest? Therefore he can fulfill his self."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · The highest good is like water",
+   "intro": "Using water as the example, this chapter describes the best kind of character: it helps everyone without competing and willingly stays in the low places others avoid. It then lists seven things and how each should be done, and ends by saying that one who does not compete draws no blame.",
+   "verses": [
+    {
+     "h": "f5a68ad7",
+     "en": "The highest good is like water. Water is good at benefiting the ten thousand things and does not contend; it dwells in places the multitude dislike, and so it is close to the Way."
+    },
+    {
+     "h": "74b7306f",
+     "en": "In dwelling, good at choosing the ground; in heart, good at depth; in giving, good at humaneness; in speech, good at trust; in governing, good at order; in affairs, good at ability; in moving, good at timing."
+    },
+    {
+     "h": "31e79233",
+     "en": "Precisely because it does not contend, it incurs no blame."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · Holding it and filling it",
+   "intro": "Do not push anything to the limit. A vessel filled to the brim or a blade ground too sharp will not hold up; a hall full of treasure cannot be guarded; wealth with arrogance invites disaster. When the work is done, step back: that is how heaven works.",
+   "verses": [
+    {
+     "h": "66d36934",
+     "en": "Holding it and filling it to the brim is not as good as stopping; hammering it to a sharp point, it cannot be kept for long."
+    },
+    {
+     "h": "77901f12",
+     "en": "Gold and jade fill the hall, yet no one can guard them; rich and honored and proud, one leaves oneself a disaster."
+    },
+    {
+     "h": "bd08a75c",
+     "en": "When the work is done, withdraw: this is the Way of heaven."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · Carrying the soul, embracing the One",
+   "intro": "This chapter asks six questions in a row: can body and spirit stay as one? Can you be as soft as a newborn? Can your inner mirror be wiped spotless? Can you govern without scheming? It ends by saying that giving life to things without owning or ruling them is the deepest virtue.",
+   "verses": [
+    {
+     "h": "c0447e21",
+     "en": "Carrying the soul and embracing the One, can you keep them from parting? Focusing the breath to reach softness, can you be like an infant? Cleansing the dark mirror, can you make it spotless?"
+    },
+    {
+     "h": "abe28443",
+     "en": "Loving the state and governing the people, can you do it without knowing? As the gates of heaven open and close, can you play the female? Clear and reaching in all four directions, can you be without action?",
+     "cmp": [
+      {
+       "w": "能无知乎",
+       "note": "王弼本这一段作「爱国治民，能无知乎」「明白四达，能无为乎」；河上公本等通行本两处对调，作「爱民治国，能无为乎」「明白四达，能无知乎」。白话照王弼本译。",
+       "en": "Wang Bi's text has 'without knowing' (无知, wu zhi) for governing and 'without action' (无为, wu wei) for clarity; the Heshang Gong and other common texts swap the two. The translation follows Wang Bi."
+      }
+     ]
+    },
+    {
+     "h": "fb24f494",
+     "en": "Giving birth to them, rearing them; giving birth without possessing, acting without relying, leading without ruling: this is called profound virtue."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · Thirty spokes",
+   "intro": "Three examples make the point: a wheel works because its hub has a hole in the middle, a pot works because it is hollow, and a room works because of the empty space inside. The solid parts give the benefit, but it is the empty part that makes the thing useful.",
+   "verses": [
+    {
+     "h": "615b6812",
+     "en": "Thirty spokes share one hub; where it is empty, there is the use of the cart.",
+     "cmp": [
+      {
+       "w": "当其无，有车之用",
+       "note": "白话照通行断句，在「无」字后断开。另一种断法是「当其无有，车之用」，意思是正因为（车毂中间）空无所有，才有车的作用，意思大致相同。",
+       "en": "The usual punctuation breaks after 无 (wu, 'nothing'). Another reads 当其无有，车之用 (dang qi wu you, che zhi yong): 'where there is nothing, there is the cart's use', with much the same meaning."
+      }
+     ]
+    },
+    {
+     "h": "8f5dd886",
+     "en": "Kneading clay to make a vessel; where it is empty, there is the use of the vessel."
+    },
+    {
+     "h": "59b9ef68",
+     "en": "Cutting doors and windows to make a room; where it is empty, there is the use of the room."
+    },
+    {
+     "h": "f118254f",
+     "en": "Thus what is there gives benefit; what is not there gives use."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · The five colors make one",
+   "intro": "Too many colors, sounds and flavors, along with racing, hunting and chasing rare goods, dull the senses, drive the mind wild and lead behavior astray. So the sage looks after the belly, the real need, and not the eye and its pleasures.",
+   "verses": [
+    {
+     "h": "fdffaa22",
+     "en": "The five colors blind the eye, the five tones deafen the ear, the five flavors spoil the palate; galloping and hunting drive the heart mad; goods hard to get make conduct go astray."
+    },
+    {
+     "h": "7358b985",
+     "en": "Therefore the sage is for the belly and not for the eye; so he discards that and takes this."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · Favor and disgrace alike startle",
+   "intro": "This chapter explains two sayings. Why do favor and disgrace both shake us? Because we make too much of favor, so gaining and losing it are both alarming. Why do we have great troubles? Because we have a body. Finally: only someone who cares for the world as he cares for his own body can be trusted with it.",
+   "verses": [
+    {
+     "h": "d5310494",
+     "en": "Favor and disgrace alike are startling; prize great trouble as you prize your own body."
+    },
+    {
+     "h": "88beef41",
+     "en": "What is meant by 'favor and disgrace alike are startling'? Favor is lowly; gaining it is startling, losing it is startling. This is what is meant by 'favor and disgrace alike are startling'.",
+     "cmp": [
+      {
+       "w": "宠为下",
+       "note": "王弼本作「宠为下」，白话照译。河上公本作「辱为下」，也有本子作「宠为上，辱为下」，意思是得宠在上、受辱在下。",
+       "en": "Wang Bi has 宠为下 (chong wei xia, 'favor is lowly'), followed here. Heshang Gong has 辱为下 (ru wei xia, 'disgrace is lowly'), and some texts read 'favor is above, disgrace is below'."
+      }
+     ]
+    },
+    {
+     "h": "0d42623b",
+     "en": "What is meant by 'prize great trouble as you prize your own body'? The reason I have great trouble is that I have a body. When I have no body, what trouble do I have?"
+    },
+    {
+     "h": "98623539",
+     "en": "Therefore one who prizes the world as his own body may be lodged with the world; one who loves the world as his own body may be entrusted with the world.",
+     "cmp": [
+      {
+       "w": "贵以身为天下",
+       "note": "白话取通行读法：像看重自身那样看重天下。另一种读法是「看重自身胜过看重天下」，即不肯拿身体去换天下的人，才可以把天下交给他。",
+       "en": "The usual reading is 'prizing the world as one prizes one's body'. Another reading is 'prizing one's body above the world': only one who would not trade his body for the world can be trusted with it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · Looked at but not seen",
+   "intro": "This chapter describes the Way: it cannot be seen, heard or touched, and its shape cannot be named. Meet it and there is no front; follow it and there is no back. Yet whoever holds to this ancient Way can handle everything that exists today.",
+   "verses": [
+    {
+     "h": "c030d961",
+     "en": "Looked at but not seen, it is called the invisible; listened to but not heard, it is called the inaudible; grasped at but not caught, it is called the subtle. These three cannot be questioned to the end, so they merge into one."
+    },
+    {
+     "h": "d3148054",
+     "en": "Above, it is not bright; below, it is not dark. Endless, it cannot be named, and returns to no-thing. This is called the shape without shape, the image without a thing; it is called the elusive and vague."
+    },
+    {
+     "h": "e8e37140",
+     "en": "Meet it and you do not see its head; follow it and you do not see its back. Hold to the Way of old to master the things of today. To know the ancient beginning is called the thread of the Way."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · Those of old who were good",
+   "intro": "This chapter describes the wise people of old. They were too deep to be understood, so they can only be pictured: careful as someone crossing a river in winter, formal as a guest, loose as melting ice, plain as unworked wood. They never sought to be full, so they could stay worn rather than chase the new.",
+   "verses": [
+    {
+     "h": "28e75960",
+     "en": "Those of old who were good at being men of service were subtle, wondrous, profound and penetrating, too deep to be known. Precisely because they cannot be known, I can only force myself to describe them."
+    },
+    {
+     "h": "16567b6b",
+     "en": "Hesitant, as if crossing a river in winter; wary, as if fearing the neighbors on all sides; reserved, like a guest; loosening, like ice about to melt; solid, like the uncarved block; open, like a valley; murky, like muddy water.",
+     "cmp": [
+      {
+       "w": "俨兮其若容",
+       "note": "王弼本这里作「容」，多数本子（如河上公本、帛书本）作「客」。白话按「客」理解，译作「像在做客」。",
+       "en": "Wang Bi's text has 容 (rong, 'appearance') here; most other texts, including Heshang Gong and the silk manuscripts, have 客 (ke, 'guest'). The translation follows 'guest'."
+      }
+     ]
+    },
+    {
+     "h": "b0b90889",
+     "en": "Who can be murky and, by stillness, slowly become clear? Who can be at rest and, by long movement, slowly come to life?"
+    },
+    {
+     "h": "93fba9fe",
+     "en": "One who keeps this Way does not wish to be full. Precisely because he is not full, he can be worn and not newly made.",
+     "cmp": [
+      {
+       "w": "故能蔽不新成",
+       "note": "白话照王弼本，读作「能安于破旧而不求新成」。也有学者认为「不」是「而」字之误，读作「蔽而新成」，意思是旧了又能更新。",
+       "en": "Following Wang Bi, this reads 'can stay worn and not be newly made'. Some scholars take 不 (bu, 'not') as a miscopy of 而 (er, 'and'), giving 'worn and then renewed'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · Reach the utmost emptiness",
+   "intro": "Empty the mind completely and keep it utterly still, and you will see that all things in the end return to their root. Returning to the root is stillness; knowing this lasting pattern is clarity, and not knowing it leads to reckless acts and disaster. Knowing it makes one tolerant and fair, and safe for life.",
+   "verses": [
+    {
+     "h": "13422fac",
+     "en": "Reach the utmost emptiness; hold stillness firmly. The ten thousand things arise together, and I watch their return."
+    },
+    {
+     "h": "0e19a90a",
+     "en": "Things flourish in profusion, and each returns to its root. Returning to the root is called stillness; this is called returning to one's destiny. Returning to destiny is called the constant; knowing the constant is called clarity. Not knowing the constant, one acts recklessly and meets disaster."
+    },
+    {
+     "h": "6f711cfe",
+     "en": "Knowing the constant, one is accommodating; accommodating, one is impartial; impartial, one is complete; complete, one is like heaven; like heaven, one is with the Way; with the Way, one lasts; to the end of one's life one is not in danger.",
+     "cmp": [
+      {
+       "w": "公乃全，全乃天",
+       "note": "通行的王弼本这里作「公乃王，王乃天」，意思是公正才能为王，为王才合乎天。这里的底本作「全」，白话照底本译作「周全」。",
+       "en": "The common Wang Bi text reads 公乃王，王乃天 (gong nai wang, wang nai tian): 'impartial, one is king; king, one is like heaven'. The base text here has 全 (quan, 'complete'), and the translation follows it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17 · The highest",
+   "intro": "This chapter ranks rulers in four grades. With the best, people merely know he is there; next come rulers they love and praise, then ones they fear, and worst, ones they scorn. The best ruler says little, and when things go well the people say it simply happened of itself.",
+   "verses": [
+    {
+     "h": "8d7096ee",
+     "en": "The highest: those below know only that he exists. The next: they love and praise him. The next: they fear him. The next: they despise him.",
+     "cmp": [
+      {
+       "w": "下知有之",
+       "note": "王弼本作「下知有之」，白话照译。元代吴澄等本子作「不知有之」，意思是百姓连有他都不知道。",
+       "en": "Wang Bi has 下知有之 (xia zhi you zhi, 'those below know he exists'), followed here. Some texts, such as Wu Cheng's, have 不知有之 (bu zhi you zhi): 'the people do not even know he exists'."
+      }
+     ]
+    },
+    {
+     "h": "e18b7f92",
+     "en": "Where trust is insufficient, there is distrust."
+    },
+    {
+     "h": "0c947a9c",
+     "en": "Unhurried, he values his words. When the work is done and things are accomplished, the people all say: 'We are like this of ourselves.'"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18 · When the great Way is abandoned",
+   "intro": "The virtues people praise only show up after something has gone wrong: talk of kindness and duty begins when the great Way is lost, great fraud comes with cleverness, filial love is noticed when families quarrel, and loyal ministers appear when the state is in chaos.",
+   "verses": [
+    {
+     "h": "ab6d59e9",
+     "en": "When the great Way is abandoned, there are humaneness and righteousness; when wisdom and cleverness appear, there is great hypocrisy;"
+    },
+    {
+     "h": "fac14f7f",
+     "en": "when the six relations are not in harmony, there are filial piety and parental kindness; when the state is in darkness and disorder, there are loyal ministers."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 19 · Cut off sageliness, discard wisdom",
+   "intro": "Drop cleverness, drop the showy talk of kindness and duty, drop craft and profit, and the people gain a hundredfold, family love comes back, and thieves disappear. These three rules alone are not enough, though: people also need something to hold to, which is staying plain and simple, with little self-interest and few wants.",
+   "verses": [
+    {
+     "h": "9be1a08f",
+     "en": "Cut off sageliness, discard wisdom, and the people benefit a hundredfold; cut off humaneness, discard righteousness, and the people return to filial piety and kindness; cut off cleverness, discard profit, and there will be no thieves or robbers.",
+     "cmp": [
+      {
+       "w": "绝圣弃智",
+       "note": "这里的「圣」通常解作「聪明、自以为高明」，不是指书里常说的圣人，所以白话译作「聪明」；英文照字面译作「圣明」。郭店楚简这一句作「绝智弃辩」，没有「圣」字，「绝仁弃义」作「绝伪弃虑」。",
+       "en": "圣 (sheng) here is usually taken as cleverness or self-proclaimed brilliance, not the sage of other chapters; the English keeps the literal 'sageliness'. The Guodian bamboo slips read 绝智弃辩 (jue zhi qi bian, 'cut off wisdom, discard argument') and 绝伪弃虑 (jue wei qi lü, 'cut off artifice, discard scheming') instead."
+      }
+     ]
+    },
+    {
+     "h": "1b807b6d",
+     "en": "These three, as rules, are not enough; so let there be something to hold to: show the plainness of raw silk, embrace the uncarved block, have little self and few desires."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 20 · Cut off learning",
+   "intro": "Here the author speaks of himself. Others are merry, as if at a feast or climbing a tower in spring; he alone is quiet, like a baby not yet able to smile. Others are sharp and useful; he alone seems dull and clumsy. He is different, he says: he values being fed by the mother.",
+   "verses": [
+    {
+     "h": "eb9dc872",
+     "en": "Cut off learning and there is no worry. 'Yes, sir' and 'yeah', how far apart are they? Good and evil, how far apart are they?",
+     "cmp": [
+      {
+       "w": "绝学无忧",
+       "note": "有人认为「绝学无忧」应接在上一章末尾「见素抱朴，少私寡欲」之后。白话照王弼本放在这一章开头。",
+       "en": "Some editors attach 绝学无忧 (jue xue wu you, 'cut off learning and there is no worry') to the end of the previous chapter. Here it stays at the head of this chapter, as in Wang Bi."
+      }
+     ]
+    },
+    {
+     "h": "93c98929",
+     "en": "What people fear, one cannot but fear. Vast, it has no end!"
+    },
+    {
+     "h": "a3eca7eb",
+     "en": "The multitude are merry, as if enjoying a great feast, as if climbing a terrace in spring. I alone am still, showing no sign, like an infant that has not yet smiled; weary, as if with nowhere to return."
+    },
+    {
+     "h": "c1912733",
+     "en": "The multitude all have more than enough, while I alone seem to lack. Mine is the heart of a fool! Muddled. Ordinary people are bright; I alone am dim. Ordinary people are sharp; I alone am dull."
+    },
+    {
+     "h": "42a8de6a",
+     "en": "Calm like the sea, drifting as if without end. The multitude all have their uses, while I alone am stubborn and rustic. I alone differ from others, and I value being fed by the mother.",
+     "cmp": [
+      {
+       "w": "贵食母",
+       "note": "「食母」字面是「靠母亲喂养」，王弼解作以道为生命的根本，母亲比喻道。白话照字面译，没有把比喻说破。",
+       "en": "食母 (shi mu) literally means 'being fed by the mother'; Wang Bi explains the mother as the Way, the root of life. The translation keeps the literal image."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 21 · The bearing of great virtue",
+   "intro": "Great virtue simply follows the Way. The Way looks vague, shadowy and dark, yet inside it there are images, things, and a real, reliable essence. Its name has lasted from ancient times to now, and through it one can see how all things begin.",
+   "verses": [
+    {
+     "h": "8a54153e",
+     "en": "The bearing of great virtue follows the Way alone."
+    },
+    {
+     "h": "ff956fff",
+     "en": "The Way as a thing is elusive, vague. Vague, elusive, yet within it there is an image; elusive, vague, yet within it there is a thing."
+    },
+    {
+     "h": "6279bf25",
+     "en": "Dim and dark, yet within it there is an essence; this essence is very real, and within it there is something trustworthy."
+    },
+    {
+     "h": "182b6fce",
+     "en": "From now back to antiquity, its name has not departed, and by it one surveys the beginnings of all things. How do I know what the beginnings of all things are like? By this.",
+     "cmp": [
+      {
+       "w": "自今及古",
+       "note": "王弼本作「自今及古」，白话照译成「从现在上推到远古」。帛书本作「自古及今」，即从远古到现在。",
+       "en": "Wang Bi has 自今及古 (zi jin ji gu, 'from now back to antiquity'), followed here. The silk manuscripts have 自古及今 (zi gu ji jin, 'from antiquity to now')."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 22 · Bent, then whole",
+   "intro": "What bends stays whole, what is hollow gets filled, and taking little means gaining. The sage holds to the Way: he does not show off, insist he is right, boast, or puff himself up, and so he stands out, achieves things and lasts. Because he does not compete, no one can compete with him.",
+   "verses": [
+    {
+     "h": "e566736a",
+     "en": "Bent, then whole; crooked, then straight; hollow, then full; worn, then new; little, then gain; much, then confusion."
+    },
+    {
+     "h": "9118d594",
+     "en": "Therefore the sage embraces the One and is the model for all under heaven."
+    },
+    {
+     "h": "1ac8aba7",
+     "en": "He does not display himself, so he is clear; he does not assert himself, so he is distinguished; he does not boast, so he has merit; he does not pride himself, so he endures. Precisely because he does not contend, no one under heaven can contend with him."
+    },
+    {
+     "h": "76cd9c57",
+     "en": "What the ancients called 'bent, then whole', how could it be empty words! Truly, wholeness, and all return to it.",
+     "cmp": [
+      {
+       "w": "诚全而归之",
+       "note": "这一句历来解法不一。白话取较通行的一种：确实能保全，万物都归向他。另一种读法是「确实能保全自身而回归（本原）」。",
+       "en": "This line is read in different ways. The translation takes a common reading, 'truly whole, and all return to him'; another reads it as 'truly keeping oneself whole and returning to the source'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 23 · Speaking little is natural",
+   "intro": "Saying little is the natural way: a gale does not last a morning, a downpour does not last a day; if heaven and earth cannot keep such things going, how could people? Whatever you keep company with is what you get. And when those in charge are not trustworthy, people stop trusting them.",
+   "verses": [
+    {
+     "h": "af27072c",
+     "en": "Speaking little is natural. Thus a whirlwind does not last the whole morning, a downpour does not last the whole day. Who makes these? Heaven and earth. If even heaven and earth cannot make them last, how much less can humans?"
+    },
+    {
+     "h": "90c4a3e3",
+     "en": "Therefore, of those who pursue the Way: one of the Way is one with the Way; one of virtue is one with virtue; one of loss is one with loss."
+    },
+    {
+     "h": "de5e0a65",
+     "en": "One with the Way, the Way is glad to have him; one with virtue, virtue is glad to have him; one with loss, loss is glad to have him. Where trust is insufficient, there is distrust."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 24 · One on tiptoe does not stand",
+   "intro": "On tiptoe you cannot stand; with giant strides you cannot walk far. Showing off, insisting you are right, boasting and self-importance all backfire. Such habits are like leftover food or a growth on the body: everyone dislikes them, so one who follows the Way avoids them.",
+   "verses": [
+    {
+     "h": "ebe35536",
+     "en": "One on tiptoe does not stand; one who straddles does not walk; one who displays himself is not clear; one who asserts himself is not distinguished; one who boasts has no merit; one who prides himself does not endure."
+    },
+    {
+     "h": "0ceb2701",
+     "en": "From the standpoint of the Way, they are called leftover food and superfluous growths. Things perhaps detest them; therefore one who has the Way does not dwell in them.",
+     "cmp": [
+      {
+       "w": "余食赘行",
+       "note": "「行」通「形」，「赘行」就是身上多长出来的肉瘤，白话照这个意思译。也有人照字面解作「多余的举动」。",
+       "en": "行 (xing) is read as 形 (xing, 'body'), so 赘行 (zhui xing) means a superfluous growth on the body. Some take it literally as 'superfluous actions'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 25 · There is a thing formed in chaos",
+   "intro": "Before heaven and earth there was something, standing alone and unchanging, moving in an endless circle, the mother of everything. The author does not know its name and calls it the Way for lack of a better word. It ends with a chain: people follow earth, earth follows heaven, heaven follows the Way, and the Way follows its own nature.",
+   "verses": [
+    {
+     "h": "f7412c06",
+     "en": "There is a thing formed in chaos, born before heaven and earth. Silent, empty, it stands alone and does not change, moves everywhere and does not tire; it can be the mother of the world."
+    },
+    {
+     "h": "c70fbc63",
+     "en": "I do not know its name; I style it the Way, and forced to name it, I call it great. Great means passing on; passing on means going far; going far means returning."
+    },
+    {
+     "h": "3716333b",
+     "en": "Thus the Way is great, heaven is great, earth is great, and the king too is great. Within the realm there are four greats, and the king is one of them.",
+     "cmp": [
+      {
+       "w": "王亦大",
+       "note": "王弼本作「王亦大」，白话照译。傅奕本等作「人亦大」，下文「人法地」正好接着「人」说，所以也有人认为原本应作「人」。",
+       "en": "Wang Bi has 王亦大 (wang yi da, 'the king too is great'), followed here. Fu Yi's text and others have 人亦大 (ren yi da, 'humans too are great'), which fits the next line beginning with 人 (ren, 'humans')."
+      }
+     ]
+    },
+    {
+     "h": "a4c44a38",
+     "en": "Humans follow earth, earth follows heaven, heaven follows the Way, the Way follows what is so of itself.",
+     "cmp": [
+      {
+       "w": "道法自然",
+       "note": "这里的「自然」不是今天说的「大自然」，是「自己如此、本来的样子」，所以白话括号里这样解释，英文也没有译成「大自然」。",
+       "en": "自然 (ziran) here does not mean 'nature' in the modern sense but 'so of itself', which is why the English avoids the word 'nature'."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 26 · The heavy is the root of the light",
+   "intro": "Weight is the root of lightness, and calm is the master of restlessness. The sage travels all day without leaving his baggage wagons, and however fine the sights, he stays at ease. A ruler of a great state who acts lightly and hastily loses his root and his self-command.",
+   "verses": [
+    {
+     "h": "8929d7a4",
+     "en": "The heavy is the root of the light; stillness is the lord of restlessness."
+    },
+    {
+     "h": "a4f41e4c",
+     "en": "Therefore the sage travels all day without leaving the baggage carts. Though there are splendid sights, he rests at ease, above them.",
+     "cmp": [
+      {
+       "w": "是以圣人",
+       "note": "王弼本作「圣人」，白话照译。河上公本等多数本子作「君子」。",
+       "en": "Wang Bi has 圣人 (shengren, 'the sage'), followed here. Heshang Gong and most other texts have 君子 (junzi, 'the noble person')."
+      }
+     ]
+    },
+    {
+     "h": "c6b42282",
+     "en": "How can a lord of ten thousand chariots treat himself lightly before the world? Light, and the root is lost; restless, and the lord is lost."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 27 · Good walking leaves no tracks",
+   "intro": "Someone truly skilled leaves no trace: good walking leaves no tracks, a good door needs no bolt yet cannot be opened. The sage is good at saving people and things, so none are thrown away. The good are teachers to the not-good, and the not-good are lessons for the good; both should be valued.",
+   "verses": [
+    {
+     "h": "f3b7e7f9",
+     "en": "Good walking leaves no wheel tracks or footprints; good speech has no flaw to blame; good counting uses no counting rods; good closing uses no bolt, yet cannot be opened; good tying uses no cord, yet cannot be undone."
+    },
+    {
+     "h": "6d23a517",
+     "en": "Therefore the sage is always good at saving people, so no one is cast away; always good at saving things, so nothing is cast away. This is called following the light.",
+     "cmp": [
+      {
+       "w": "是谓袭明",
+       "note": "「袭」有「承袭、依循」和「藏」两种通行解法。白话取「藏而不露」；英文按「依循」直译。",
+       "en": "袭 (xi) is read either as 'to follow, inherit' or as 'to conceal'. The Chinese plain version takes 'concealed brightness'; the English follows 'following the light'."
+      }
+     ]
+    },
+    {
+     "h": "81c8ca65",
+     "en": "Thus the good person is the teacher of the not-good; the not-good person is the material of the good. Not to honor one's teacher, not to cherish one's material, though clever, is to be greatly lost. This is called the essential mystery."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 28 · Know the male",
+   "intro": "Know strength, brightness and glory, yet stay on the side of softness, darkness and disgrace, low like a valley; then one returns to the simplicity of an infant or uncut wood. Wood that is cut up becomes tools, and the best rule does not cut.",
+   "verses": [
+    {
+     "h": "b0f42f67",
+     "en": "Know the male, keep to the female, and be the ravine of the world. Being the ravine of the world, constant virtue does not leave, and one returns to being an infant."
+    },
+    {
+     "h": "91d948ae",
+     "en": "Know the white, keep to the black, and be the model for the world. Being the model for the world, constant virtue does not err, and one returns to the limitless."
+    },
+    {
+     "h": "86566662",
+     "en": "Know glory, keep to disgrace, and be the valley of the world; then constant virtue is sufficient, and one returns to the uncarved block."
+    },
+    {
+     "h": "9baf6b4e",
+     "en": "When the uncarved block is broken up it becomes vessels; when the sage uses it, he becomes the head of the officials. Therefore great tailoring does not cut.",
+     "cmp": [
+      {
+       "w": "圣人用之",
+       "note": "白话取「圣人运用朴，就成为百官之长」。另一种读法依王弼注：圣人借着朴分散成的各种器具（各样人才），为他们设立官长。",
+       "en": "The plain version reads it as the sage using the uncarved block itself and so becoming head of the officials. Following Wang Bi's commentary, another reading is that the sage uses the scattered vessels (the different kinds of people) and sets up officials over them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 29 · Those who wish to take the world",
+   "intro": "The world is like a sacred vessel that cannot be forced: whoever forces it ruins it, and whoever grabs it loses it. Things differ, some lead and some follow, some are strong and some weak, so the sage only removes what is excessive.",
+   "verses": [
+    {
+     "h": "6decfb08",
+     "en": "Those who wish to take the world and act upon it, I see that they cannot succeed."
+    },
+    {
+     "h": "62acef0e",
+     "en": "The world is a sacred vessel; it cannot be acted upon. Whoever acts on it ruins it; whoever grasps it loses it."
+    },
+    {
+     "h": "4e07bb70",
+     "en": "Thus among things some go ahead and some follow, some breathe gently and some blow hard; some are strong and some are weak, some are broken and some fall to ruin.",
+     "cmp": [
+      {
+       "w": "或挫或隳",
+       "note": "这里照本句译作「有的受挫，有的毁坏」。河上公本作「或载或隳」，意思是「有的安稳，有的毁坏」，前后对照更整齐。",
+       "en": "Translated here as \"some are broken, some fall to ruin.\" The Heshang Gong edition has huo zai huo hui (载, \"to be carried, to be secure\"), giving \"some are secure, some fall to ruin,\" which keeps the pattern of opposites."
+      }
+     ]
+    },
+    {
+     "h": "0a90cf1c",
+     "en": "Therefore the sage avoids the extreme, avoids the extravagant, avoids the excessive."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 30 · One who assists a ruler with the Way",
+   "intro": "Whoever advises a ruler by the Way does not use armies to dominate. Where troops pass, thorns grow; after great wars come famines. If force is needed, reach the goal and stop, without boasting, because whatever grows too strong begins to decline.",
+   "verses": [
+    {
+     "h": "fa04c626",
+     "en": "One who assists a ruler with the Way does not use arms to force the world. Such deeds tend to rebound."
+    },
+    {
+     "h": "c45ab725",
+     "en": "Where troops have camped, thorns and brambles grow. After a great army, there are sure to be years of famine."
+    },
+    {
+     "h": "46377f9c",
+     "en": "The good one achieves the result and stops, not daring to use it to seize strength. Achieve the result without conceit; achieve the result without boasting; achieve the result without arrogance. Achieve the result because there is no other choice; achieve the result without forcing."
+    },
+    {
+     "h": "7a493b0b",
+     "en": "When things reach their prime they grow old; this is called not following the Way, and what does not follow the Way soon ends."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 31 · Fine weapons",
+   "intro": "Weapons bring bad luck, and one who follows the Way keeps away from them; if they must be used, use them calmly. Victory is nothing to celebrate, since enjoying it means enjoying killing. So an army is arranged as at a funeral, and even a victory is mourned.",
+   "verses": [
+    {
+     "h": "857ad657",
+     "en": "Fine weapons are instruments of ill omen; people seem to loathe them, so one who has the Way does not dwell with them.",
+     "cmp": [
+      {
+       "w": "佳兵",
+       "note": "白话照字面取「精良的兵器」。清代王念孙认为「佳」是「隹」（即「唯」）字之误，全句应读作「夫唯兵者，不祥之器」：兵器这东西，是不吉利的。",
+       "en": "Read literally here as \"fine weapons\" (jia bing, 佳兵, \"good weapons\"). The Qing scholar Wang Niansun argued that jia is a copying error for zhui (隹, an old form of wei 唯, \"only, it is that\"), so the line would mean simply \"weapons are instruments of ill omen.\""
+      }
+     ]
+    },
+    {
+     "h": "da777116",
+     "en": "The gentleman at home honors the left; when using arms he honors the right."
+    },
+    {
+     "h": "8bb72e78",
+     "en": "Weapons are instruments of ill omen, not the instruments of the gentleman; when he has no choice but to use them, calm detachment is best."
+    },
+    {
+     "h": "0734acf8",
+     "en": "Victory is not beautiful, and whoever finds it beautiful delights in killing people. One who delights in killing people cannot have his way in the world."
+    },
+    {
+     "h": "c56c7bc0",
+     "en": "In auspicious affairs the left is honored; in inauspicious affairs the right. The lieutenant general stands on the left, the commanding general on the right; this means war is treated with the rites of mourning."
+    },
+    {
+     "h": "0c14ceb8",
+     "en": "When many people have been killed, weep for them with grief and sorrow; when the battle is won, treat it with the rites of mourning."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 32 · The Way is constantly nameless",
+   "intro": "The Way has no name; like uncut wood it is small, yet nothing can rule it. A ruler who holds to it finds all things coming to him. Once things are divided and named, one must know where to stop. The Way runs through the world as streams run to the sea.",
+   "verses": [
+    {
+     "h": "aa1e3571",
+     "en": "The Way is constantly nameless. Though the uncarved block is small, no one in the world can make it a subject.",
+     "cmp": [
+      {
+       "w": "道常无名，朴",
+       "note": "白话照王弼本断句，在「无名」后断开。另一种断句是「道常无名朴」：道永远是没有名字的朴。",
+       "en": "The translation follows Wang Bi's punctuation, with a break after wu ming (无名, \"nameless\"). Another punctuation reads dao chang wu ming pu as one phrase: \"the Way is forever the nameless uncarved block.\""
+      }
+     ]
+    },
+    {
+     "h": "c9f3a70e",
+     "en": "If lords and kings could hold to it, the ten thousand things would come as guests of their own accord. Heaven and earth unite and let fall sweet dew; no one commands the people, yet it is shared evenly by itself."
+    },
+    {
+     "h": "0dac629f",
+     "en": "Once cutting begins there are names; once there are names, one should also know when to stop; knowing when to stop is how one avoids danger."
+    },
+    {
+     "h": "fa6af89e",
+     "en": "The Way in the world may be likened to streams and valleys flowing to rivers and seas."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 33 · Knowing others is wisdom",
+   "intro": "Eight short sayings. Knowing others is clever, knowing yourself is clear-sighted; beating others takes force, mastering yourself is real strength. Then: being content is wealth, persisting is will, and to die without perishing is true long life.",
+   "verses": [
+    {
+     "h": "cadf060a",
+     "en": "One who knows others is wise; one who knows himself is clear-sighted. One who overcomes others has force; one who overcomes himself is strong."
+    },
+    {
+     "h": "a884444a",
+     "en": "One who knows contentment is rich. One who perseveres has will. One who does not lose his place endures. One who dies but does not perish lives long."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 34 · The great Way overflows",
+   "intro": "The great Way spreads everywhere like water. All things live by it, yet it claims nothing and rules nothing; in that sense it is small. Yet everything returns to it, so it is also great. Because it never thinks itself great, it becomes great.",
+   "verses": [
+    {
+     "h": "a83479e8",
+     "en": "The great Way overflows; it can go left or right."
+    },
+    {
+     "h": "1f43499c",
+     "en": "The ten thousand things rely on it to live, and it does not refuse them; when the work is done, it does not claim it as its own."
+    },
+    {
+     "h": "c9ba2a56",
+     "en": "It clothes and nourishes the ten thousand things yet does not act as their master; ever without desire, it can be called small. The ten thousand things return to it yet it does not act as their master; it can be called great."
+    },
+    {
+     "h": "69b23636",
+     "en": "Because it never makes itself great, it can achieve its greatness."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 35 · Hold to the great image",
+   "intro": "Hold to the great image and the world comes to you in peace. Music and good food make travelers stop, but the Way, put into words, tastes of nothing; it cannot be seen or heard, yet it never runs out.",
+   "verses": [
+    {
+     "h": "d2b50aac",
+     "en": "Hold to the great image, and the world will come. Coming, they meet no harm, and are at peace, level and calm.",
+     "cmp": [
+      {
+       "w": "大象",
+       "note": "「大象」不是动物，是「最大的形象」。王弼、河上公都解作道：道没有形状，却是一切形象的根本。",
+       "en": "Da xiang (大象) here is not the animal \"elephant\" but \"the great image.\" Both Wang Bi and Heshang Gong take it to mean the Way, which has no shape of its own yet underlies every shape."
+      }
+     ]
+    },
+    {
+     "h": "5b246c79",
+     "en": "Music and food make passing guests stop."
+    },
+    {
+     "h": "277d8ac5",
+     "en": "When the Way comes out of the mouth, it is bland and without flavor; looked at, it cannot be seen; listened to, it cannot be heard; used, it cannot be used up."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 36 · If you would shrink it",
+   "intro": "Things turn into their opposites: to shrink something, first let it expand; to weaken it, first strengthen it; to take, first give. This is called subtle insight. Soft beats hard. A fish should stay in deep water, and a state should not show off its sharpest tools.",
+   "verses": [
+    {
+     "h": "aebe9d98",
+     "en": "If you would shrink it, you must first stretch it; if you would weaken it, you must first strengthen it; if you would cast it down, you must first raise it up; if you would take from it, you must first give to it. This is called subtle illumination.",
+     "cmp": [
+      {
+       "w": "将欲歙之，必固张之",
+       "note": "白话照字面读成「想要……就先……」，是一种做法。另一种通行读法认为这是在说事物的规律：将要收拢的，必定先已张开过；将要衰弱的，必定先已强盛过。",
+       "en": "The translation reads it literally as advice: \"if you want to shrink it, first stretch it.\" Another common reading takes it as a description of how things behave: whatever is about to shrink must already have been stretched, whatever is about to weaken must already have been strong."
+      }
+     ]
+    },
+    {
+     "h": "c56974f7",
+     "en": "The soft and weak overcome the hard and strong. Fish must not leave the deep; the sharp instruments of the state must not be shown to others."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 37 · The Way constantly takes no action",
+   "intro": "The Way never forces anything, yet everything gets done. If rulers hold to this, all things develop on their own. When desires stir, plain simplicity calms them, and once people are free of desire and still, the world settles by itself.",
+   "verses": [
+    {
+     "h": "b2602cf9",
+     "en": "The Way constantly takes no action, yet nothing is left undone. If lords and kings could hold to it, the ten thousand things would transform of themselves."
+    },
+    {
+     "h": "3b757fae",
+     "en": "If, while transforming, desire arises, I will calm it with the nameless uncarved block. With the nameless uncarved block, there will be no desire. Without desire and so at rest, the world will settle by itself."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 38 · Superior virtue is not virtuous",
+   "intro": "Real virtue does not show itself off; clinging to virtue loses it. Then a downhill order: when the Way is lost, people turn to virtue, then kindness, then duty, then ritual. By the time ritual rules, loyalty and trust are thin and disorder begins. So keep to substance, not show.",
+   "verses": [
+    {
+     "h": "ff246568",
+     "en": "Superior virtue is not virtuous, therefore it has virtue; inferior virtue never lets go of virtue, therefore it has no virtue."
+    },
+    {
+     "h": "211b652e",
+     "en": "Superior virtue takes no action and has nothing to act for; inferior virtue acts and has something to act for. Superior benevolence acts but has nothing to act for; superior righteousness acts and has something to act for. Superior ritual acts and, when no one responds, bares its arms and drags them along."
+    },
+    {
+     "h": "22f35e4c",
+     "en": "Thus when the Way is lost there is virtue; when virtue is lost there is benevolence; when benevolence is lost there is righteousness; when righteousness is lost there is ritual."
+    },
+    {
+     "h": "5ec448bb",
+     "en": "Ritual is the thinning of loyalty and trust, and the head of disorder. Foreknowledge is the flower of the Way, and the beginning of folly.",
+     "cmp": [
+      {
+       "w": "前识",
+       "note": "白话取「先知先觉」，即事情还没发生就自以为看透。王弼注解作「前人而识」：抢在别人前头去显示自己的见识。两种读法都指刻意卖弄的聪明。",
+       "en": "Qian shi (前识, \"prior knowing\") is taken here as foreknowledge, claiming to see things before they happen. Wang Bi glosses it as getting ahead of others to show off one's insight. Either way it means cleverness put on display."
+      }
+     ]
+    },
+    {
+     "h": "490e6128",
+     "en": "Therefore the great man dwells in the thick, not in the thin; dwells in the fruit, not in the flower. Thus he discards that and takes this."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 39 · Of those that of old attained the One",
+   "intro": "Heaven, earth, spirits, valleys, all living things and rulers each become what they are by holding to the One; lose it and they fall apart. So the noble rests on the humble, which is why rulers give themselves lowly names, and do not try to shine like jade.",
+   "verses": [
+    {
+     "h": "6fc28656",
+     "en": "Of those that of old attained the One: heaven attained the One and became clear; earth attained the One and became stable; the spirits attained the One and became potent; the valley attained the One and became full; the ten thousand things attained the One and came to life; lords and kings attained the One and became the standard of the world."
+    },
+    {
+     "h": "1479a86e",
+     "en": "Carried to the end: heaven without what makes it clear would likely split; earth without what makes it stable would likely give way; spirits without what makes them potent would likely cease; the valley without what makes it full would likely run dry; the ten thousand things without what gives them life would likely perish; lords and kings without what makes them noble and high would likely fall."
+    },
+    {
+     "h": "525d5614",
+     "en": "Therefore the noble takes the humble as its root, and the high takes the low as its foundation. That is why lords and kings call themselves the orphaned, the widowed, the unworthy. Is this not taking the humble as the root? Is it not?"
+    },
+    {
+     "h": "166b65d8",
+     "en": "Thus striving for too much praise ends in no praise. One does not wish to be lustrous like jade, but rugged like stone.",
+     "cmp": [
+      {
+       "w": "致数舆无舆",
+       "note": "王弼本写作「舆」（车），通常读作「誉」（称誉），白话取这种读法。照「车」字读是：把车拆成一件件零件来数，就没有车了。",
+       "en": "Wang Bi's text writes yu (舆, \"carriage\"), usually read as yu (誉, \"praise\"), which the translation follows. Taken as \"carriage,\" it means: count the carriage part by part and there is no carriage left."
+      },
+      {
+       "w": "不欲琭琭如玉，珞珞如石",
+       "note": "白话取「不愿像玉，宁愿像石」。另一种读法是「既不愿像玉那样华美，也不愿像石那样粗硬」，两头都不要。",
+       "en": "Read here as \"not wishing to be like jade, but rather like stone.\" Another reading takes both halves as rejected: wishing to be neither glossy like jade nor hard like stone."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 40 · Returning is the motion of the Way",
+   "intro": "Only four lines. The Way moves by turning back, and it works through softness. Everything in the world comes from being, and being comes from non-being.",
+   "verses": [
+    {
+     "h": "ef80f9a2",
+     "en": "Returning is the motion of the Way; weakness is the function of the Way.",
+     "cmp": [
+      {
+       "w": "反",
+       "note": "「反」有两种读法：一是「返」，回到本源；二是「相反」，事物走到头就转向反面。白话取「往回走」，两层意思都能装下。",
+       "en": "Fan (反) can be read as fan (返, \"to return\") to the source, or as \"opposite,\" things turning into their opposite at their limit. \"Returning\" is used here because it can carry both senses."
+      }
+     ]
+    },
+    {
+     "h": "cf891854",
+     "en": "The ten thousand things under heaven are born of being; being is born of non-being."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 41 · When the superior person hears of the Way",
+   "intro": "Three kinds of people hear about the Way: the best practise it, the middling half-believe, the worst laugh. Then a string of old sayings: the bright looks dark, going forward looks like going back, the greatest sound is barely heard, the greatest shape has no form. The Way is hidden and nameless.",
+   "verses": [
+    {
+     "h": "638e403a",
+     "en": "When a superior person hears of the Way, he practices it diligently; when an average person hears of the Way, he seems to keep it and seems to lose it; when an inferior person hears of the Way, he laughs loudly at it. If he did not laugh, it would not be worthy of being the Way."
+    },
+    {
+     "h": "73bcfc53",
+     "en": "Therefore the established sayings have it: the bright Way seems dark; the advancing Way seems to retreat; the level Way seems rough; superior virtue seems like a valley; the purest white seems soiled; broad virtue seems insufficient; firm virtue seems slack; true substance seems changeable; the great square has no corners; the great vessel is completed late; the great sound is faint of tone; the great image has no form; the Way is hidden and nameless.",
+     "cmp": [
+      {
+       "w": "大器晚成",
+       "note": "白话照王弼本「最大的器物最后完成」。马王堆帛书乙本作「大器免成」，意思是最大的器物不用做成，和前后「无隅」「希声」「无形」一样都是否定。",
+       "en": "Translated from Wang Bi's text: \"the great vessel is completed late.\" The Mawangdui silk manuscript B has da qi mian cheng (免成, \"is never completed\"), a negation that matches its neighbors: no corners, faint sound, no form."
+      }
+     ]
+    },
+    {
+     "h": "ac3266b0",
+     "en": "Only the Way is good at lending and at completing."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 42 · The Way gives birth to one",
+   "intro": "First, how things came to be: the Way gives rise to one, one to two, two to three, and three to everything; all things hold yin and yang in balance. Then rulers call themselves by names others hate, since losing can be gaining. Finally, the violent do not die well.",
+   "verses": [
+    {
+     "h": "416dadd7",
+     "en": "The Way gives birth to one, one gives birth to two, two gives birth to three, three gives birth to the ten thousand things. The ten thousand things carry yin on their backs and embrace yang, and through the blending of their energies they achieve harmony.",
+     "cmp": [
+      {
+       "w": "一生二，二生三",
+       "note": "原文没说一、二、三各指什么，白话照字面保留数字。常见的解释是：一指混沌未分的气，二指阴和阳，三指阴阳交合出的第三种状态。",
+       "en": "The text never says what one, two and three stand for, so the translation keeps the bare numbers. A common explanation: one is undivided primal energy, two is yin and yang (阴阳, the shaded and sunny sides), three is the new state their union produces."
+      }
+     ]
+    },
+    {
+     "h": "fdec7e0b",
+     "en": "What people hate is to be orphaned, widowed, unworthy, yet kings and dukes use these as their titles. Thus things are sometimes increased by being diminished, and sometimes diminished by being increased."
+    },
+    {
+     "h": "d8c6a4c5",
+     "en": "What others teach, I also teach: the violent and strong do not die a natural death. I will take this as the father of my teaching."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 43 · The softest thing in the world",
+   "intro": "The softest thing can run through the hardest, and what has no form can enter where there is no gap. From this comes the value of not forcing things. Teaching without words and gaining without forcing: few in the world reach this.",
+   "verses": [
+    {
+     "h": "05c9dccc",
+     "en": "The softest thing in the world gallops through the hardest thing in the world. What has no substance enters where there is no gap; by this I know the benefit of non-action."
+    },
+    {
+     "h": "9b859bcb",
+     "en": "The teaching without words, the benefit of non-action: few in the world attain them."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 44 · Fame or the self, which is dearer",
+   "intro": "Three questions: fame or your life, which matters more? Your life or your wealth? Gaining or losing, which hurts more? Then the answer: loving too much costs much, hoarding much loses much, and knowing when you have enough and when to stop lets you last.",
+   "verses": [
+    {
+     "h": "10c5fe57",
+     "en": "Fame or the self, which is dearer? The self or goods, which is worth more? Gain or loss, which is the greater harm?"
+    },
+    {
+     "h": "d31a6754",
+     "en": "Therefore excessive love must lead to great expense; much hoarding must lead to heavy loss. Know contentment and there is no disgrace; know when to stop and there is no danger; one can then last long."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 45 · Great completion seems lacking",
+   "intro": "The most complete thing looks flawed, the fullest looks empty, the straightest looks bent, the most skilled looks clumsy, the most eloquent seems to stammer, yet none of them fails in use. Moving beats cold, stillness beats heat, and calm stillness sets the standard for the world.",
+   "verses": [
+    {
+     "h": "fb244400",
+     "en": "Great completion seems lacking, yet its use does not wear out. Great fullness seems empty, yet its use is inexhaustible."
+    },
+    {
+     "h": "61886d98",
+     "en": "Great straightness seems bent, yet its use does not stay in one place. Great skill seems clumsy, yet its use does not cease. Great eloquence seems tongue-tied, yet its use does not err."
+    },
+    {
+     "h": "c0dc130a",
+     "en": "Movement overcomes cold; stillness overcomes heat. Clarity and stillness are the standard of the world.",
+     "cmp": [
+      {
+       "w": "躁胜寒，静胜热",
+       "note": "白话照本句字面译。有学者认为原文应作「静胜躁，寒胜热」，和下句「清静」接得更顺。",
+       "en": "Translated as written. Some scholars argue the original was jing sheng zao, han sheng re (静胜躁，寒胜热, \"stillness overcomes agitation, cold overcomes heat\"), which leads more smoothly into the next line about stillness."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 46 · When the world has the Way",
+   "intro": "A contrast in horses: when the world follows the Way, fast horses go back to hauling dung for the fields; when it does not, warhorses give birth on the battlefield. The worst disaster is never having enough, the worst fault is wanting more; being content is the only lasting contentment.",
+   "verses": [
+    {
+     "h": "9970a1ff",
+     "en": "When the world has the Way, galloping horses are sent back to haul dung. When the world lacks the Way, war horses give birth in the outskirts."
+    },
+    {
+     "h": "2d9c9d85",
+     "en": "No calamity is greater than not knowing contentment; no fault is greater than the desire to gain. Therefore the contentment of knowing contentment is lasting contentment."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 47 · Without going out the door",
+   "intro": "Without leaving home you can know the world; without looking out the window you can see the way of heaven. The farther you travel, the less you know. So the sage knows without going, understands without seeing, and succeeds without forcing.",
+   "verses": [
+    {
+     "h": "e645508d",
+     "en": "Without going out the door, one knows the world; without looking out the window, one sees the Way of heaven. The farther one goes, the less one knows."
+    },
+    {
+     "h": "e9c98f14",
+     "en": "Therefore the sage knows without going, understands without seeing, achieves without doing.",
+     "cmp": [
+      {
+       "w": "不见而名",
+       "note": "「名」这里一般读作「明」（明白），白话和英文都照这种读法。照字面读则是「不用看就能叫出它的名字」。",
+       "en": "Ming (名, \"name\") is usually read here as ming (明, \"to understand\"), which both translations follow. Read literally, it would mean \"names things without seeing them.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 48 · In pursuing learning, one gains daily",
+   "intro": "Learning means adding something every day; following the Way means letting something go every day, until you no longer force anything, and then nothing is left undone. Winning the world comes from not meddling; whoever meddles is not fit to win it.",
+   "verses": [
+    {
+     "h": "60840776",
+     "en": "In pursuing learning, one gains daily; in pursuing the Way, one loses daily. Loss upon loss, until one arrives at non-action. Through non-action, nothing is left undone."
+    },
+    {
+     "h": "0fa9be3d",
+     "en": "Winning the world is always done by not meddling; once one meddles, one is not fit to win the world.",
+     "cmp": [
+      {
+       "w": "取天下",
+       "note": "白话照字面作「取得天下」。王弼、河上公等多解作「治理天下」，意思是治理天下要靠不折腾百姓。",
+       "en": "Translated literally as \"winning the world.\" Many commentators, including Wang Bi and Heshang Gong, take qu (取, \"to take\") to mean \"to govern,\" so the line says the world is governed by not troubling the people."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 49 · The sage has no fixed mind",
+   "intro": "The sage has no fixed opinions of his own and takes the people's hearts as his own. He is good to the good and to the not good, and trusts both the trustworthy and the untrustworthy, so goodness and trust are gained by all. He keeps himself low-key and treats everyone as his children.",
+   "verses": [
+    {
+     "h": "34e25147",
+     "en": "The sage has no fixed mind; he takes the mind of the people as his mind."
+    },
+    {
+     "h": "083dd0a6",
+     "en": "Those who are good, I treat as good; those who are not good, I also treat as good; thus goodness is gained. Those who are trustworthy, I trust; those who are not trustworthy, I also trust; thus trust is gained.",
+     "cmp": [
+      {
+       "w": "德善",
+       "note": "「德」通「得」，白话取「得到了善」。另一种读法照「德」字本义：（圣人的）德就是善。",
+       "en": "De (德, \"virtue\") is read here as de (得, \"to gain\"): \"goodness is gained.\" Taken in its own sense, the phrase would mean \"virtue is goodness,\" that is, the sage's virtue is simply being good."
+      }
+     ]
+    },
+    {
+     "h": "dbb5dd8c",
+     "en": "The sage in the world is cautious and restrained; for the world's sake he keeps his mind undivided and plain. The people all strain their ears and eyes, and the sage treats them all as children."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 50 · Coming out is life, going in is death",
+   "intro": "From birth to death, about three in ten live long, three in ten die young, and three in ten could live but walk into death, because they cling too hard to living. One who truly takes care of life is not harmed by beasts or weapons, because he leaves death no place to strike.",
+   "verses": [
+    {
+     "h": "2d3964c8",
+     "en": "Coming out is life, going in is death. The companions of life are three in ten; the companions of death are three in ten; those who live but move toward the place of death are also three in ten.",
+     "cmp": [
+      {
+       "w": "十有三",
+       "note": "白话照王弼注读作「十分之三」。韩非子等把它读作「十三」，指人身上的四肢和九窍（眼耳口鼻等孔）。",
+       "en": "Read here, with Wang Bi, as \"three in ten.\" Han Feizi and others read shi you san (十有三) as \"thirteen,\" meaning the four limbs and nine openings of the body."
+      }
+     ]
+    },
+    {
+     "h": "53820625",
+     "en": "Why is this? Because they cling too hard to living."
+    },
+    {
+     "h": "885e6246",
+     "en": "I have heard that one who is good at nurturing life travels by land without meeting rhinoceros or tiger, and enters battle without being touched by weapons; the rhinoceros finds nowhere to thrust its horn, the tiger nowhere to set its claws, the weapon nowhere to lodge its blade."
+    },
+    {
+     "h": "d7f81abd",
+     "en": "Why is this? Because he has no place of death."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 51 · The Way gives birth to them",
+   "intro": "All things are born of the Way and raised by virtue, so all honor them; that honor is not granted by anyone but comes naturally. The Way and virtue give life and care without owning, taking credit or controlling. This is called the deepest virtue.",
+   "verses": [
+    {
+     "h": "82e71cf9",
+     "en": "The Way gives birth to them, virtue nurtures them, matter shapes them, circumstance completes them. Therefore none of the ten thousand things fails to honor the Way and value virtue."
+    },
+    {
+     "h": "23447d9d",
+     "en": "The honor of the Way and the value of virtue are not decreed by anyone; they are always so of themselves.",
+     "cmp": [
+      {
+       "w": "莫之命",
+       "note": "白话取「没有谁命令」。另一种读法：道和德不对万物发号施令，而是让万物顺其自然。",
+       "en": "Read here as \"no one commands it.\" Another reading: the Way and virtue give no commands to things but let them follow their own nature."
+      }
+     ]
+    },
+    {
+     "h": "4afb1694",
+     "en": "Thus the Way gives birth to them and virtue nurtures them; it grows them and rears them, ripens them and matures them, shelters them and covers them."
+    },
+    {
+     "h": "eadea9ea",
+     "en": "It gives life but does not possess, acts but does not presume, leads but does not dominate. This is called mysterious virtue."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 52 · The world has a beginning",
+   "intro": "The world has a source, like a mother; knowing her, you know her children, and holding to her keeps you safe all your life. Close off the senses and life is easy; open them and chase after things and nothing can save you. Seeing the small is clarity; keeping soft is strength.",
+   "verses": [
+    {
+     "h": "1bf1ecf3",
+     "en": "The world has a beginning, which may be taken as the mother of the world. Having found the mother, one thereby knows the children; having known the children, one returns to hold to the mother, and to the end of life there is no danger."
+    },
+    {
+     "h": "4c05827a",
+     "en": "Block the openings, shut the doors, and to the end of life there is no toil. Open the openings, pursue affairs, and to the end of life there is no rescue."
+    },
+    {
+     "h": "132c2130",
+     "en": "Seeing the small is called clarity; keeping to the soft is called strength. Use the light, return again to clarity, leave no calamity for oneself: this is called practicing the constant."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 53 · If I had the least bit of knowledge",
+   "intro": "The speaker says that, walking the great road, his only fear is straying off it; the road is smooth, yet people love shortcuts. Then a picture: a spotless court, weedy fields, empty granaries, while those in power wear fine clothes, carry swords, overeat and hoard wealth. This, he says, is robbery.",
+   "verses": [
+    {
+     "h": "b5020cd0",
+     "en": "If I had the least bit of knowledge, walking on the great Way, my only fear would be going astray.",
+     "cmp": [
+      {
+       "w": "唯施是畏",
+       "note": "白话依清代王念孙，把「施」读作「迤」（斜行），即走上邪路。王弼注把「施」解作「施为」：唯一怕的是自己有所作为。",
+       "en": "Following the Qing scholar Wang Niansun, shi (施) is read as yi (迤, \"to slant, wander off\"), so the fear is of going astray. Wang Bi reads shi as \"to take action\": the only fear is of meddling."
+      }
+     ]
+    },
+    {
+     "h": "c8b09cbc",
+     "en": "The great Way is very level, yet people love byways."
+    },
+    {
+     "h": "d219898f",
+     "en": "The court is immaculate, the fields are overgrown, the granaries are empty; they wear embroidered clothes, carry sharp swords, are glutted with food and drink, and have wealth to spare: this is called the boast of robbers.",
+     "cmp": [
+      {
+       "w": "盗夸",
+       "note": "白话依《韩非子》引作「盗竽」，竽是领头的乐器，「盗竽」即强盗头子。英文照本句字面译作「强盗的夸耀」。",
+       "en": "The Chinese plain version follows the Han Feizi quotation dao yu (盗竽, \"the robbers' lead pipe,\" the yu being the instrument that leads the band), meaning the chief of robbers. The English follows the text as written, dao kua (盗夸, \"the boast of robbers\")."
+      }
+     ]
+    },
+    {
+     "h": "49f8daf4",
+     "en": "This is not the Way!"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 54 · What is well established cannot be uprooted",
+   "intro": "What is firmly built cannot be pulled up, and descendants keep honoring it. Cultivate it in yourself, your family, your village, your country and the world, and its virtue grows at each level. Look at each level through that level itself; that is how the speaker knows the world.",
+   "verses": [
+    {
+     "h": "b941974c",
+     "en": "What is well established cannot be uprooted; what is well embraced does not slip away; descendants offer sacrifices to it without end."
+    },
+    {
+     "h": "68d4b519",
+     "en": "Cultivate it in yourself and its virtue will be genuine; cultivate it in the family and its virtue will be abundant; cultivate it in the village and its virtue will be lasting; cultivate it in the state and its virtue will be plentiful; cultivate it in the world and its virtue will be universal."
+    },
+    {
+     "h": "708f49bd",
+     "en": "Thus view the self through the self, the family through the family, the village through the village, the state through the state, the world through the world. How do I know the world is so? By this."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 55 · One who holds virtue in fullness",
+   "intro": "Compares a person rich in virtue to a newborn baby: stinging insects and wild beasts leave it alone, its soft hands grip tight, and it cries all day without going hoarse. It then warns that forcing life and straining one's strength lead to early decline.",
+   "verses": [
+    {
+     "h": "08cc740d",
+     "en": "One who holds virtue in its fullness is like a newborn child. Wasps, scorpions, vipers and snakes do not sting him; fierce beasts do not seize him; birds of prey do not strike him."
+    },
+    {
+     "h": "f601b8c8",
+     "en": "His bones are weak and his sinews soft, yet his grip is firm. He does not yet know the union of female and male, yet his member rises: this is the height of vital essence. He cries all day and does not grow hoarse: this is the height of harmony.",
+     "cmp": [
+      {
+       "w": "全作",
+       "note": "王弼本作「全作」，河上公本作「峻作」，帛书本作「朘怒」，都指婴儿的小生殖器挺起。白话按这个意思译。",
+       "en": "Wang Bi's text has quan zuo 全作; other early texts have juan 朘 (an infant's penis). All are read as the infant's member rising, and both translations follow that."
+      }
+     ]
+    },
+    {
+     "h": "cc28967b",
+     "en": "To know harmony is called the constant; to know the constant is called clarity. To add to life is called an omen. For the mind to drive the breath is called forcing. When things reach their prime they grow old; this is called not following the Way, and what does not follow the Way soon comes to an end.",
+     "cmp": [
+      {
+       "w": "益生曰祥",
+       "note": "「祥」本来可指吉兆也可指凶兆。王弼注「生不可益，益之则夭」，通行读作凶兆，白话取这一种；也有人读作反话「说是吉祥（其实不是）」。",
+       "en": "Xiang 祥 can mean any omen, good or bad. Following Wang Bi's note that adding to life brings early death, it is usually read as an ill omen; the English keeps the neutral word \"omen\". Some read it ironically as \"called lucky\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 56 · Those who know do not speak",
+   "intro": "It opens by saying those who know do not talk and those who talk do not know. It then describes a person who blunts his edges and blends into the dust: no one can draw near or push away, help or harm, raise or lower him, so the whole world values him.",
+   "verses": [
+    {
+     "h": "aa283f77",
+     "en": "Those who know do not speak; those who speak do not know."
+    },
+    {
+     "h": "f8ede000",
+     "en": "Block the openings, shut the doors, blunt the sharpness, untangle the divisions, soften the light, become one with the dust: this is called the profound sameness.",
+     "cmp": [
+      {
+       "w": "解其分",
+       "note": "王弼本作「分」，多数本子作「纷」（纷乱）。白话按「解开纷乱」译，英文贴着「分」字译成 divisions。",
+       "en": "Wang Bi's text has fen 分 (division); most other texts have fen 纷 (tangle). The Chinese follows \"untangle the confusion\"; the English keeps the literal \"divisions\"."
+      }
+     ]
+    },
+    {
+     "h": "7045b3bc",
+     "en": "Therefore one cannot draw close to him, nor keep him at a distance; cannot benefit him, nor harm him; cannot ennoble him, nor debase him. Therefore he is honored by all under heaven."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 57 · Govern a state by the straightforward",
+   "intro": "Argues that the world is won by not meddling. The more bans, weapons, clever skills and laws there are, the poorer the people, the greater the disorder and the more thieves. A ruler who stays still and wants little lets the people improve, prosper and stay simple on their own.",
+   "verses": [
+    {
+     "h": "b27de565",
+     "en": "Govern a state by the straightforward, wage war by surprise, win the world by not meddling. How do I know it is so? By this."
+    },
+    {
+     "h": "0f4fed49",
+     "en": "The more prohibitions under heaven, the poorer the people; the more sharp tools the people have, the more the state falls into confusion; the more skill and cunning people have, the more strange things arise; the more laws and orders are displayed, the more thieves and robbers there are."
+    },
+    {
+     "h": "225e7e5d",
+     "en": "Therefore the sage says: \"I practice non-action and the people transform of themselves; I love stillness and the people become upright of themselves; I do not meddle and the people grow rich of themselves; I am without desire and the people become the uncarved block of themselves.\""
+    }
+   ]
+  },
+  {
+   "title": "Chapter 58 · When the government is dull",
+   "intro": "A relaxed government keeps people honest; a prying one makes them sly. Misfortune and good fortune lean on each other and keep turning into each other, with no fixed rule. So the sage is upright, sharp, direct and bright, but never to the point of hurting anyone.",
+   "verses": [
+    {
+     "h": "24f0f764",
+     "en": "When the government is dull and muddled, the people are simple and honest; when the government is sharp and prying, the people are cunning and discontented."
+    },
+    {
+     "h": "048b8ca5",
+     "en": "Misfortune: good fortune leans on it. Good fortune: misfortune hides within it. Who knows where it ends? There is no fixed norm. The upright turns back into the crooked; the good turns back into the monstrous. People's confusion about this has lasted a long time indeed.",
+     "cmp": [
+      {
+       "w": "其无正",
+       "note": "通行读作「它没有定准」，白话取这一种；也有人读成反问「难道没有正（道）吗？」。",
+       "en": "Qi wu zheng 其无正 is usually read as \"there is no fixed norm\"; some read it as a rhetorical question, \"Is there no right way?\""
+      }
+     ]
+    },
+    {
+     "h": "f57b0a62",
+     "en": "Therefore the sage is square but does not cut, has edges but does not wound, is straight but not unrestrained, is bright but does not dazzle."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 59 · In governing people and serving heaven",
+   "intro": "Says the best way to govern people and serve heaven is frugality, holding back. Holding back lets one yield early and keep building inner strength until it seems limitless; that is how a state is held and kept for a long time, like a tree with deep, firm roots.",
+   "verses": [
+    {
+     "h": "1b6922d1",
+     "en": "In governing people and serving heaven, nothing is better than frugality."
+    },
+    {
+     "h": "5418c758",
+     "en": "It is only through frugality that one submits early; submitting early is called heavily accumulating virtue; heavily accumulating virtue, there is nothing one cannot overcome; when there is nothing one cannot overcome, no one knows one's limit;",
+     "cmp": [
+      {
+       "w": "早服",
+       "note": "王弼本作「早服」，王弼注为「早服常（道）」，白话按「早早顺从」译；也有本子作「早复」（早早回归）。",
+       "en": "Wang Bi's text has zao fu 早服 (submit early), which he explains as early submission to the constant; some texts have zao fu 早复 (return early)."
+      }
+     ]
+    },
+    {
+     "h": "9e52a0a2",
+     "en": "when no one knows one's limit, one can possess the state; possessing the mother of the state, one can endure long; this is called deep roots and a firm base, the Way of long life and lasting sight."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 60 · Governing a great state",
+   "intro": "Compares ruling a large country to cooking a small fish: don't keep stirring it. When the world is ruled by the Way, spirits do no harm and neither does the sage, and the good of both flows back to the people.",
+   "verses": [
+    {
+     "h": "4772e731",
+     "en": "Governing a great state is like cooking a small fish."
+    },
+    {
+     "h": "66d8e59a",
+     "en": "When the world is governed by the Way, its ghosts have no spiritual power; not that the ghosts have no power, but their power does not harm people; not that their power does not harm people, but the sage also does not harm people."
+    },
+    {
+     "h": "bb689bac",
+     "en": "Since the two do not harm each other, their virtue returns together.",
+     "cmp": [
+      {
+       "w": "两不相伤",
+       "note": "「两」通行指鬼和圣人，白话取这一种；也有人认为指圣人和百姓。",
+       "en": "Liang 两 (the two) usually means the spirits and the sage; some take it as the sage and the people."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 61 · A great state is the lower course",
+   "intro": "Uses the lower reaches of a river and the quiet female as images to say a large state should take the low position. A big state that stoops wins small ones over; a small state that stoops is taken in. Both get what they want, but the big one should stoop.",
+   "verses": [
+    {
+     "h": "572db45a",
+     "en": "A great state is the lower course of a river, where all under heaven converges. It is the female of the world; the female always overcomes the male by stillness, and by stillness takes the lower place."
+    },
+    {
+     "h": "f7423c8a",
+     "en": "Thus if a great state lowers itself to a small state, it takes the small state; if a small state lowers itself to a great state, it is taken by the great state. So some lower themselves in order to take, and some lower themselves and are taken.",
+     "cmp": [
+      {
+       "w": "或下以取，或下而取",
+       "note": "两句只差「以」和「而」。通行理解：前一句说大国谦下去取得小国，后一句说小国谦下而被大国容纳，白话照这个补了括号。",
+       "en": "The two clauses differ only in yi 以 (in order to) and er 而 (and thus). They are usually read as the great state stooping to win the small one, and the small state stooping to be accepted by the great one."
+      }
+     ]
+    },
+    {
+     "h": "6b5ca039",
+     "en": "A great state wants no more than to gather and nourish others; a small state wants no more than to join and serve others. For both to get what they want, the great one should take the lower place."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 62 · The Way, for the myriad things",
+   "intro": "The Way is a shelter for everything: a treasure for good people and a protection for those who are not good, so no one should be cast aside. Offering it is worth more than gifts of jade and horses, because through it seekers find and wrongdoers are spared.",
+   "verses": [
+    {
+     "h": "c49a0ca5",
+     "en": "The Way is the hidden refuge of the myriad things. It is the treasure of the good, and what protects those who are not good."
+    },
+    {
+     "h": "b67f0cf4",
+     "en": "Fine words can be sold in the market; honorable conduct can raise one above others. Even if people are not good, why would they be abandoned?",
+     "cmp": [
+      {
+       "w": "美言可以市，尊行可以加人",
+       "note": "王弼本这样断句，白话照此；《淮南子》引作「美言可以市尊，美行可以加人」，意思是漂亮话能换来尊位。",
+       "en": "This follows Wang Bi's punctuation. The Huainanzi quotes it as \"fine words can buy honor (zun 尊), fine conduct can raise one above others.\""
+      }
+     ]
+    },
+    {
+     "h": "2873cc96",
+     "en": "Therefore when the Son of Heaven is enthroned and the three ministers are installed, though one presents jade discs held in both hands, followed by teams of four horses, it is not as good as sitting and offering this Way."
+    },
+    {
+     "h": "a1b9371b",
+     "en": "Why did the ancients value this Way? Is it not said that by it those who seek will obtain, and those who have done wrong will be spared? Therefore it is honored by all under heaven."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 63 · Act through non-action",
+   "intro": "Do difficult things while they are easy and big things while they are small. The sage never reaches for greatness, so he achieves it. Easy promises earn little trust; the sage treats even easy things as hard, so in the end nothing is hard for him.",
+   "verses": [
+    {
+     "h": "3a68e226",
+     "en": "Act through non-action, attend to affairs by not meddling, taste the tasteless. Great or small, many or few, repay resentment with virtue.",
+     "cmp": [
+      {
+       "w": "大小多少",
+       "note": "这四个字历来读法很多。白话取较通行的「以小为大，以少为多」；也有人读作「大生于小，多起于少」，王弼则联到下句，说小怨不值得报。英文只照字面译。",
+       "en": "Da xiao duo shao 大小多少 (great small many few) has many readings. The Chinese follows \"treat the small as great and the few as many\"; others read \"the great grows from the small\". The English stays literal."
+      }
+     ]
+    },
+    {
+     "h": "a6b1b53f",
+     "en": "Plan for the difficult while it is easy; do the great while it is small. The difficult affairs of the world must begin with the easy; the great affairs of the world must begin with the small. Therefore the sage never does great things, and so can accomplish greatness."
+    },
+    {
+     "h": "bc9ede79",
+     "en": "Light promises surely earn little trust; taking much as easy surely brings much difficulty. Therefore even the sage treats things as difficult, and so in the end he has no difficulty."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 64 · What is at rest is easy to hold",
+   "intro": "Problems are easiest to handle before they appear, since great trees, tall towers and long journeys all start small. Forcing and grasping lead to failure, and people often fail just before success, so stay careful to the end. The sage helps things follow their own nature and does not force them.",
+   "verses": [
+    {
+     "h": "9760010f",
+     "en": "What is at rest is easy to hold; what has not yet shown signs is easy to plan for. What is brittle is easy to break; what is minute is easy to scatter. Act on it before it exists; put it in order before disorder arises."
+    },
+    {
+     "h": "ccff0fa5",
+     "en": "A tree that fills one's embrace grows from a tiny shoot; a terrace nine stories high rises from heaped earth; a journey of a thousand li begins beneath one's feet."
+    },
+    {
+     "h": "c336c6b7",
+     "en": "Those who act on it ruin it; those who grasp it lose it. Therefore the sage practices non-action and so does not fail; does not grasp and so does not lose. People in their undertakings often fail when they are on the verge of success. Be as careful at the end as at the beginning, and nothing will fail."
+    },
+    {
+     "h": "1e5bb68c",
+     "en": "Therefore the sage desires not to desire and does not value goods that are hard to obtain; learns not to learn and turns back the faults of the multitude. Thus he assists the myriad things in being as they are of themselves, and dares not act.",
+     "cmp": [
+      {
+       "w": "复众人之所过",
+       "note": "「过」通行读作「过错」，白话取「补救众人的过错」；另一种读法是「回到众人走过头、错过的地方」。",
+       "en": "Guo 过 is usually read as \"fault\", so \"redress the faults of the multitude\"; another reading takes it as \"pass by\": \"return to what the multitude has passed over\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 65 · Those of old who were good at the Way",
+   "intro": "The ancients who followed the Way did not try to make people clever but kept them simple, because people full of schemes are hard to govern. Ruling by cunning harms a country; ruling without it blesses it. Always knowing this pattern is called profound virtue.",
+   "verses": [
+    {
+     "h": "54702032",
+     "en": "Those of old who were good at practicing the Way did not use it to make the people clever, but to make them simple. The people are hard to govern because they have too much cunning."
+    },
+    {
+     "h": "b344ba63",
+     "en": "Therefore to govern a state with cunning is a plague to the state; to govern a state without cunning is a blessing to the state. Knowing these two is also knowing the pattern. Always knowing the pattern is called profound virtue."
+    },
+    {
+     "h": "54b1ff2b",
+     "en": "Profound virtue is deep, is far-reaching; it returns together with things, and only then does it reach the great accord.",
+     "cmp": [
+      {
+       "w": "与物反矣",
+       "note": "「反」通行读作「返」（返回本原），白话取这一种；另一种读法是「和一般事物的方向相反」。",
+       "en": "Fan 反 is usually read as fan 返 (return to the origin); it can also mean \"opposite\": profound virtue runs contrary to ordinary things."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 66 · Rivers and seas",
+   "intro": "Rivers and seas rule all streams because they lie lower. Likewise, whoever wants to lead people must speak humbly and put himself behind them. Because the sage does not compete, people gladly support him and no one can compete with him.",
+   "verses": [
+    {
+     "h": "2b4b0997",
+     "en": "The reason rivers and seas can be king of the hundred valleys is that they are good at keeping below them; therefore they can be king of the hundred valleys."
+    },
+    {
+     "h": "c9b4c570",
+     "en": "Therefore, wishing to be above the people, one must in speech place oneself below them; wishing to be ahead of the people, one must in person put oneself behind them."
+    },
+    {
+     "h": "d8ef1621",
+     "en": "Thus the sage dwells above and the people do not feel his weight; dwells in front and the people do not feel harmed. Thus all under heaven gladly push him forward and do not tire of him. Because he does not contend, no one under heaven can contend with him."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 67 · All under heaven say",
+   "intro": "The Way is so great that it resembles nothing. The speaker then names three treasures: compassion, frugality and not daring to go first. These make true courage, generosity and leadership possible; dropping them for bravado is fatal. Compassion wins battles and holds defenses.",
+   "verses": [
+    {
+     "h": "5ef6b31b",
+     "en": "All under heaven say my Way is great, yet it seems to resemble nothing. It is precisely because it is great that it resembles nothing. If it resembled anything, it would long ago have become small!"
+    },
+    {
+     "h": "b9e382e3",
+     "en": "I have three treasures, which I hold and keep. The first is compassion, the second is frugality, the third is not daring to be first under heaven. Being compassionate, one can be brave; being frugal, one can be generous; not daring to be first under heaven, one can become the leader of all vessels."
+    },
+    {
+     "h": "e7015aeb",
+     "en": "Now to abandon compassion yet be brave, abandon frugality yet be generous, abandon being last yet be first: this is death!"
+    },
+    {
+     "h": "f2d049d3",
+     "en": "Compassion: with it one wins in battle and stands firm in defense. When heaven is about to save someone, it guards him with compassion."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 68 · One good at being a warrior",
+   "intro": "Lists what the best commanders, fighters, victors and employers of people look like: not warlike, not angry, not clashing head-on, humble toward others. This is the power of not competing, the way to use others' strength, and a match for heaven.",
+   "verses": [
+    {
+     "h": "255c2d50",
+     "en": "One good at being a warrior is not martial; one good at fighting is not angry; one good at defeating enemies does not engage them; one good at using people places himself below them. This is called the virtue of not contending; this is called using the strength of others; this is called matching heaven, the utmost of antiquity.",
+     "cmp": [
+      {
+       "w": "配天古之极",
+       "note": "王弼本连写，通行断作「配天，古之极」（合乎天，是自古的最高准则），白话取这一种；也有学者认为「古」字是后来多出来的，应读「配天之极」。",
+       "en": "Wang Bi's text runs pei tian gu zhi ji 配天古之极 together. It is usually split as \"matching heaven, the utmost of antiquity\"; some scholars think gu 古 (ancient) is a later intrusion, giving \"the utmost of matching heaven\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 69 · Those who wage war have a saying",
+   "intro": "Quotes a military saying: rather defend than attack, rather fall back a foot than advance an inch. The worst disaster is taking the enemy lightly, which nearly costs the speaker his treasures, and when two armies clash, the side that grieves will win.",
+   "verses": [
+    {
+     "h": "ee024971",
+     "en": "Those who wage war have a saying: \"I dare not be the host but would rather be the guest; I dare not advance an inch but would rather retreat a foot.\" This is called marching without a march, raising arms without arms, confronting without an enemy, holding without weapons."
+    },
+    {
+     "h": "5592ba10",
+     "en": "No disaster is greater than taking the enemy lightly; taking the enemy lightly nearly costs me my treasures. Therefore, when opposing armies meet, the side that grieves will win."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 70 · My words are very easy to understand",
+   "intro": "The speaker says his words are easy to understand and easy to practice, yet no one does either, because people miss the principle behind them. Few understand him, so the sage is like someone in rough clothes with jade hidden inside.",
+   "verses": [
+    {
+     "h": "bfd43e7c",
+     "en": "My words are very easy to understand and very easy to practice. Yet no one under heaven can understand them, and no one can practice them."
+    },
+    {
+     "h": "2febca69",
+     "en": "Words have an ancestor; deeds have a master. It is only because people do not understand this that they do not understand me. Those who understand me are few; those who follow me are precious."
+    },
+    {
+     "h": "cb8674ad",
+     "en": "Therefore the sage wears coarse cloth and carries jade in his bosom."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 71 · To know that one does not know",
+   "intro": "Knowing that you don't know is best; thinking you know when you don't is a sickness. The sage is free of this sickness because he recognizes it as a sickness.",
+   "verses": [
+    {
+     "h": "473550de",
+     "en": "To know that one does not know is best; not to know yet think one knows is a sickness.",
+     "cmp": [
+      {
+       "w": "知不知上",
+       "note": "白话取通行读法「知道自己不知道，最好」；另一种读法是「知道了却不自以为知道，最好」。",
+       "en": "Zhi bu zhi 知不知 is usually read as \"to know that one does not know\"; another reading is \"to know but not to think one knows\"."
+      }
+     ]
+    },
+    {
+     "h": "922fb4bf",
+     "en": "Only by treating the sickness as sickness is one free of sickness. The sage is free of sickness because he treats the sickness as sickness; therefore he is free of sickness."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 72 · When the people do not fear authority",
+   "intro": "Rulers should not squeeze people's homes and livelihoods; once people stop fearing authority, worse trouble comes. The sage knows himself without showing off and values himself without putting himself above others.",
+   "verses": [
+    {
+     "h": "42a25376",
+     "en": "When the people do not fear authority, a greater dread arrives."
+    },
+    {
+     "h": "ed759d09",
+     "en": "Do not cramp the places where they dwell; do not crush the means by which they live. Only by not crushing them will one not be rejected.",
+     "cmp": [
+      {
+       "w": "夫唯不厌，是以不厌",
+       "note": "两个「厌」字意思不同：前一个通「压」（压迫），后一个是「厌弃」。白话按这个分开译。王弼本的「狎」，通行读作「狭」（逼迫）。",
+       "en": "The two yan 厌 differ: the first means \"to press down, oppress\", the second \"to be weary of, reject\". Xia 狎 in Wang Bi's text is usually read as xia 狭 (to cramp)."
+      }
+     ]
+    },
+    {
+     "h": "46a2cec4",
+     "en": "Therefore the sage knows himself but does not display himself, loves himself but does not exalt himself; thus he discards that and takes this."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 73 · Courage in daring",
+   "intro": "Courage that dares gets one killed; courage that holds back keeps one alive, and no one can say why heaven dislikes the first. Heaven's way wins without fighting, answers without speaking and plans without hurry; its net is wide-meshed yet misses nothing.",
+   "verses": [
+    {
+     "h": "ffe659d9",
+     "en": "Courage in daring leads to death; courage in not daring leads to life. Of these two, one benefits and one harms. What heaven hates, who knows the reason? Therefore even the sage finds it difficult."
+    },
+    {
+     "h": "bd9bd43f",
+     "en": "The Way of heaven does not contend yet is good at winning, does not speak yet is good at responding, does not summon yet things come of themselves, is unhurried yet good at planning. Heaven's net is vast; its mesh is wide, yet nothing is lost."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 74 · The people do not fear death",
+   "intro": "If people no longer fear death, threatening them with it is pointless. Killing belongs to the one whose task it is; a ruler who kills in its place is like an amateur doing a master carpenter's cutting, and rarely escapes cutting his own hand.",
+   "verses": [
+    {
+     "h": "9ac22701",
+     "en": "If the people do not fear death, why threaten them with death? If the people were made always to fear death, and I could seize and kill those who do wicked things, who would dare?"
+    },
+    {
+     "h": "96c054bb",
+     "en": "There is always the executioner who does the killing. To kill in place of the executioner is called hewing in place of the master carpenter. Of those who hew in place of the master carpenter, few do not injure their own hands."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 75 · The people starve",
+   "intro": "People go hungry, become hard to govern and stop fearing death, all because of those above them: heavy taxes, constant interference and lavish living. One who does not make living well his goal is wiser than one who prizes life too much.",
+   "verses": [
+    {
+     "h": "fffc8656",
+     "en": "The people starve because those above them eat too much in taxes; that is why they starve. The people are hard to govern because those above them are always acting; that is why they are hard to govern. The people make light of death because those above them seek life too richly; that is why they make light of death.",
+     "cmp": [
+      {
+       "w": "以其上求生之厚",
+       "note": "王弼本有「上」字，白话按「在上面的人求生太过」译；有些本子没有「上」字，读成百姓自己求生太过。",
+       "en": "Wang Bi's text has shang 上 (those above), so the excess belongs to the rulers; some texts lack it, making it the people's own eagerness for life."
+      }
+     ]
+    },
+    {
+     "h": "6a07e2b6",
+     "en": "Only one who does not make living his aim is wiser than one who prizes life."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 76 · When people are alive",
+   "intro": "People and plants are soft and supple when alive and stiff and dry when dead. So hardness goes with death and softness with life: an army that relies on force does not win, and a hard tree gets cut down.",
+   "verses": [
+    {
+     "h": "20d8183f",
+     "en": "When people are alive they are soft and weak; when dead they are hard and stiff. When the myriad things, grasses and trees are alive they are soft and tender; when dead they are dry and withered."
+    },
+    {
+     "h": "896ba1e8",
+     "en": "Therefore the hard and stiff are companions of death; the soft and weak are companions of life. Thus when an army is strong it does not win; when a tree is strong it meets the axe. The strong and great dwell below; the soft and weak dwell above.",
+     "cmp": [
+      {
+       "w": "木强则兵",
+       "note": "王弼本作「兵」，通行理解为「遭到兵器（刀斧）砍伐」，白话取这一种；《列子》引作「折」，另有本子作「共」。",
+       "en": "Wang Bi's text has bing 兵 (weapon), read as \"meets the blade\"; the Liezi quotes it as zhe 折 (snaps), and some texts have gong 共."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 77 · The Way of heaven",
+   "intro": "Heaven's way is like drawing a bow: it lowers what is high, raises what is low, takes from excess and gives to lack. People do the opposite, taking from those who lack to serve those who have plenty. Only someone with the Way gives his surplus to the world.",
+   "verses": [
+    {
+     "h": "10405da5",
+     "en": "Is not the Way of heaven like the stretching of a bow? What is high is pressed down, what is low is raised up; what has excess is reduced, what is lacking is supplemented."
+    },
+    {
+     "h": "bf6ab8b1",
+     "en": "The Way of heaven reduces what has excess and supplements what is lacking. The way of people is not so: it reduces what is lacking to offer to what has excess. Who can take his excess and offer it to the world? Only one who has the Way."
+    },
+    {
+     "h": "78c1f606",
+     "en": "Therefore the sage acts but does not rely on it, accomplishes his work but does not dwell in it; he does not wish to display his worth."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 78 · Nothing under heaven is softer",
+   "intro": "Water is the softest thing, yet nothing beats it at wearing down the hard. Everyone knows the soft defeats the hard, but no one acts on it. The sage says only one who takes on a country's shame and misfortune is fit to rule it. True words sound backwards.",
+   "verses": [
+    {
+     "h": "4afa71f5",
+     "en": "Nothing under heaven is softer and weaker than water, yet in attacking the hard and strong nothing can surpass it, for nothing can take its place.",
+     "cmp": [
+      {
+       "w": "其无以易之",
+       "note": "「易」通行读作「代替」，白话取这一种；也有人读作「改变」：没有什么能改变水（柔弱的本性）。",
+       "en": "Yi 易 is usually read as \"replace\"; it can also mean \"change\": nothing can alter water."
+      }
+     ]
+    },
+    {
+     "h": "df9d5b30",
+     "en": "That the weak overcomes the strong and the soft overcomes the hard, no one under heaven does not know, yet no one can practice it."
+    },
+    {
+     "h": "1398a58b",
+     "en": "Therefore the sage says: \"One who takes on the disgrace of the state is called lord of the altars of soil and grain; one who takes on the misfortunes of the state is king of all under heaven.\" Straight words seem to be their opposite."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 79 · Settling a great resentment",
+   "intro": "Settling a deep grudge always leaves some bitterness, so the sage holds the creditor's half of the contract but does not demand payment. People of virtue are lenient, those without it are harsh. Heaven has no favorites and always sides with the good.",
+   "verses": [
+    {
+     "h": "9c7af990",
+     "en": "When a great resentment is settled, some resentment is sure to remain; how can this be counted as good?"
+    },
+    {
+     "h": "2ae38f3c",
+     "en": "Therefore the sage holds the left half of the tally but makes no demands on others. One with virtue keeps the tally; one without virtue keeps the levy."
+    },
+    {
+     "h": "6a7a2e3b",
+     "en": "The Way of heaven has no favorites; it is always with the good."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 80 · A small state with few people",
+   "intro": "Pictures an ideal small country with few people. Labor-saving tools, boats, carts and weapons go unused, and people stay put. They enjoy their own food, clothes, homes and customs; the next country is within sight and earshot, yet they never visit it all their lives.",
+   "verses": [
+    {
+     "h": "34de819f",
+     "en": "A small state with few people: let there be implements worth ten or a hundred, yet let them not be used; let the people take death seriously and not move far away. Though there are boats and carriages, there is no occasion to ride them; though there are armor and weapons, there is no occasion to array them.",
+     "cmp": [
+      {
+       "w": "什伯之器",
+       "note": "通行理解为「能顶十个、百个人的器具」，白话取这一种；河上公本作「什伯人之器」，有人解作军中十人、百人一组用的兵器。",
+       "en": "Shi bo zhi qi 什伯之器 is usually read as \"implements worth ten or a hundred people\"; another reading takes shi bo as army units of ten and a hundred, making these weapons."
+      }
+     ]
+    },
+    {
+     "h": "9a617a19",
+     "en": "Let people return to knotting cords and using them; let them find their food sweet, their clothes fine, their dwellings peaceful, their customs joyful. Neighboring states are within sight of one another, the sounds of roosters and dogs are heard from one to the other, yet the people grow old and die without going back and forth."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 81 · True words are not beautiful",
+   "intro": "The closing chapter. True words are not pretty and pretty words are not true; good people do not argue, and those who truly know do not merely know a lot. The sage does not hoard: the more he gives, the more he has. Heaven benefits without harming; the sage acts without competing.",
+   "verses": [
+    {
+     "h": "a7e0270c",
+     "en": "True words are not beautiful; beautiful words are not true. The good do not argue; those who argue are not good. Those who know are not broadly learned; the broadly learned do not know."
+    },
+    {
+     "h": "5bfcb1cf",
+     "en": "The sage does not hoard. Having done all for others, he has more himself; having given all to others, he has still more himself. The Way of heaven benefits and does not harm; the Way of the sage acts and does not contend."
+    }
+   ]
+  }
+ ]
+}
