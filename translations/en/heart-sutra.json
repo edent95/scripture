@@ -3,13 +3,13 @@
  "title": "The Heart of the Perfection of Wisdom",
  "summary": "About two hundred words on emptiness: none of the five things that make up a person has a fixed nature of its own. Seeing this clearly, the mind is no longer held by fear.",
  "compare": [
-  "这部经最难翻的是同一个词：śūnyatā。英文习惯译成 emptiness，中文译成「空」。两个译法都把一个「没有固定本质」的哲学词，变成了日常里「里面什么都没有」的词：英文读者容易想到空荡荡的房间，中文读者容易想到「什么都不存在」。梵文原意更接近「缺了某样东西」——缺的是 svabhāva（自己独立、不变的本质），东西本身并没有消失。所以本站英文第一次出现时写成 empty of any fixed nature of its own，白话直译写「没有独立不变的本质」，都是在把被省掉的「自性」补回来。",
+  "这部经最难翻的是同一个词：śūnyatā。英文习惯译成 emptiness，中文译成「空」。两个译法都把一个「没有固定本质」的哲学词，变成了日常里「里面什么都没有」的词：英文读者容易想到空荡荡的房间，中文读者容易想到「什么都不存在」。梵文原意更接近「缺了某样东西」——缺的是 svabhāva（自己独立、不变的本质），东西本身并没有消失。所以本站英文第一次出现时写成 empty of any fixed nature of its own，白话写「没有自己固定不变的本质」，都是在把被省掉的「自性」补回来。",
   "第二个差别在 rūpa。中文古译用「色」，现代中文读者会以为是颜色或美色；英文常见译法 form 又太抽象。梵文 rūpa 指一切看得见、摸得着、有形体的东西，包括身体。本站英文写 physical form，白话写「物质」，两边都比原词窄一点：rūpa 还带着「形状、样子」的意思。",
   "第三个差别在结尾的 mantra。玄奘译成「大神咒、大明咒」，把它放进中国人熟悉的「咒语」框架；英文 spell 也一样带着魔法味。但梵文这几句是在说：智慧的圆满本身就是那句咒，不是另有一句神奇的话。英文用 mantra 原词保留不译，读者至少不会先入为主。",
   "整体看，玄奘本比梵本短：开头的礼敬句、结尾的「到此结束」都没有译，中间却多了一句梵本没有的「度一切苦厄」。英文直译照梵文走，所以英文和梵文的句数一样，读者能看到玄奘在哪里删、在哪里加。"
  ],
  "compareEn": [
-  "The hardest word in this sutra is a single one: śūnyatā. English usually renders it \"emptiness\"; Chinese renders it 空 (kōng, \"empty\"). Both turn a philosophical term meaning \"having no fixed essence\" into an everyday word for \"nothing inside\": the English reader pictures an empty room, the Chinese reader tends to hear \"nothing exists at all.\" The Sanskrit is closer to \"lacking something\" — what is lacking is svabhāva, an independent, unchanging essence of its own, while the thing itself has not vanished. That is why, on its first appearance, the site's English says \"empty of any fixed nature of its own\" and the plain Chinese says 没有独立不变的本质 (méiyǒu dúlì bùbiàn de běnzhì, \"has no independent, unchanging essence\"): both put back the \"own-nature\" that the short word leaves out.",
+  "The hardest word in this sutra is a single one: śūnyatā. English usually renders it \"emptiness\"; Chinese renders it 空 (kōng, \"empty\"). Both turn a philosophical term meaning \"having no fixed essence\" into an everyday word for \"nothing inside\": the English reader pictures an empty room, the Chinese reader tends to hear \"nothing exists at all.\" The Sanskrit is closer to \"lacking something\" — what is lacking is svabhāva, an independent, unchanging essence of its own, while the thing itself has not vanished. That is why, on its first appearance, the site's English says \"empty of any fixed nature of its own\" and the plain Chinese says 没有自己固定不变的本质 (méiyǒu zìjǐ gùdìng bùbiàn de běnzhì, \"has no fixed, unchanging essence of its own\"): both put back the \"own-nature\" that the short word leaves out.",
   "The second difference is rūpa. The classical Chinese uses 色 (sè), which a modern Chinese reader takes as \"color\" or even \"sexual allure\"; the common English \"form\" is too abstract. Sanskrit rūpa means anything that can be seen and touched, anything with a body, including our own bodies. The site's English says \"physical form\" and the plain Chinese says 物质 (wùzhì, \"matter\"); both are a little narrower than the original, since rūpa also carries the sense of \"shape, appearance.\"",
   "The third difference is the mantra at the end. Xuanzang renders it 大神咒、大明咒 (dà shén zhòu, dà míng zhòu, \"great divine spell, great bright spell\"), placing it in the familiar Chinese frame of the magic incantation; the English word \"spell\" carries the same magical flavor. But the Sanskrit lines are saying that the Perfection of Wisdom itself is the mantra, not that there is some separate magic phrase. The English keeps the word \"mantra\" untranslated, so readers at least don't start with a preconception.",
   "Overall, Xuanzang's version is shorter than the Sanskrit: he leaves out the opening homage and the closing \"here ends,\" yet in the middle he adds a line the Sanskrit doesn't have, 度一切苦厄 (dù yíqiè kǔ'è, \"crossed beyond all suffering and hardship\"). The English follows the Sanskrit directly, so English and Sanskrit have the same number of sentences, and readers can see exactly where Xuanzang cut and where he added."
@@ -35,8 +35,8 @@
      "cmp": [
       {
        "w": "svabhāva-śūnya",
-       "note": "梵文：「自性空」，空掉的是「独立不变的本质」。英文 empty of any fixed nature of its own、白话「没有独立不变的本质」都把这层意思译出来了；玄奘只写「皆空」，最容易被读成「什么都没有」。",
-       "en": "Sanskrit \"empty of own-nature\": what is empty is any independent, unchanging essence. The English \"empty of any fixed nature of its own\" and the plain Chinese 没有独立不变的本质 (\"has no independent, unchanging essence\") both carry this; Xuanzang writes only 皆空 (jiē kōng, \"all empty\"), which is the easiest to misread as \"nothing exists.\""
+       "note": "梵文：「自性空」，空掉的是「独立不变的本质」。英文 empty of any fixed nature of its own、白话「没有自己固定不变的本质」都把这层意思译出来了；玄奘只写「皆空」，最容易被读成「什么都没有」。",
+       "en": "Sanskrit \"empty of own-nature\": what is empty is any independent, unchanging essence. The English \"empty of any fixed nature of its own\" and the plain Chinese 没有自己固定不变的本质 (\"has no fixed, unchanging essence of its own\") both carry this; Xuanzang writes only 皆空 (jiē kōng, \"all empty\"), which is the easiest to misread as \"nothing exists.\""
       },
       {
        "w": "skandha",
@@ -61,8 +61,8 @@
       },
       {
        "w": "śūnyatā",
-       "note": "英文 emptiness、中文「空」都是名词，但梵文 -tā 是抽象名词后缀，更接近「空的状态、空性」。白话写「空性」，比英文更贴近原词的构造。",
-       "en": "The English \"emptiness\" and the Chinese 空 (kōng) are both nouns, but the Sanskrit -tā is an abstract-noun suffix, closer to \"the state of being empty.\" The plain Chinese writes 空性 (kōngxìng, \"empty-ness\"), which matches the word's structure better than the English does."
+       "note": "英文 emptiness、中文「空」都是名词，但梵文 -tā 是抽象名词后缀，更接近「空的状态、空性」。白话为了好懂只写「空」「空的」，在第 2 段注明它也叫空性。",
+       "en": "The English \"emptiness\" and the Chinese 空 (kōng) are both nouns, but the Sanskrit -tā is an abstract-noun suffix, closer to \"the state of being empty.\" The plain Chinese keeps to the everyday 空 (kōng, \"empty\") for ease of reading and notes only once, in passage 2, that it is also called 空性 (kōngxìng, \"empty-ness\")."
       }
      ]
     },
@@ -72,8 +72,8 @@
      "cmp": [
       {
        "w": "amalā avimalā",
-       "note": "梵文是「没有污垢，也没有『去掉污垢』」。英文 not dirty and not made clean、白话都保留了「去垢」这个动作；玄奘译成「不垢不净」，读起来像在说「既不脏也不干净」，少了动作。",
-       "en": "The Sanskrit says \"without dirt, and without the removal of dirt.\" The English \"not dirty and not made clean\" and the plain Chinese both keep that act of cleaning; Xuanzang's 不垢不净 (bú gòu bú jìng, \"not dirty, not clean\") reads like \"neither dirty nor clean\" and loses the action."
+       "note": "梵文是「没有污垢，也没有『去掉污垢』」。英文 not dirty and not made clean 保留了「去垢」这个动作；玄奘译成「不垢不净」，白话为了好懂写成「说不上脏，也说不上干净」，都少了这个动作。",
+       "en": "The Sanskrit says \"without dirt, and without the removal of dirt.\" The English \"not dirty and not made clean\" keeps that act of cleaning; Xuanzang's 不垢不净 (bú gòu bú jìng, \"not dirty, not clean\") and the plain Chinese 说不上脏，也说不上干净 (shuō bú shàng zāng, yě shuō bú shàng gānjìng, \"cannot be called dirty, cannot be called clean\") both read as \"neither dirty nor clean\" and lose the action."
       }
      ]
     },
@@ -88,8 +88,8 @@
       },
       {
        "w": "dharmāḥ",
-       "note": "这里的 dharma 指「心里想到的东西」，是第六种感官对象。英文 object of thought、白话「心里想到的东西」是解释；玄奘直接用「法」，同一个字在别处又是「佛法」「一切现象」，中文读者很难分清。",
-       "en": "Here dharma means \"an object of thought,\" the object of the sixth sense, the mind. The English \"object of thought\" and the plain Chinese 心里想到的东西 (\"things the mind thinks of\") explain it; Xuanzang simply uses 法 (fǎ), the same character used elsewhere for \"the Buddha's teaching\" and \"all phenomena,\" so Chinese readers find it hard to tell them apart."
+       "note": "这里的 dharma 指「心里想到的东西」，是第六种感官对象。英文 object of thought、白话「念头」是解释；玄奘直接用「法」，同一个字在别处又是「佛法」「一切现象」，中文读者很难分清。",
+       "en": "Here dharma means \"an object of thought,\" the object of the sixth sense, the mind. The English \"object of thought\" and the plain Chinese 念头 (niàntou, \"thoughts\") explain it; Xuanzang simply uses 法 (fǎ), the same character used elsewhere for \"the Buddha's teaching\" and \"all phenomena,\" so Chinese readers find it hard to tell them apart."
       }
      ]
     },
@@ -115,8 +115,8 @@
      "cmp": [
       {
        "w": "anuttarāṃ samyak-saṃbodhim",
-       "note": "英文和白话都意译成「无上、正确而圆满的觉悟」；玄奘音译成「阿耨多罗三藐三菩提」，保留了声音，意思要靠注释。",
-       "en": "The English and the plain Chinese both translate the meaning: \"the highest, right, and complete awakening.\" Xuanzang transliterates it as 阿耨多罗三藐三菩提 (ānòuduōluó sānmiǎo sānpútí), keeping the sound so that the meaning depends on commentary."
+       "note": "英文和白话都是意译，白话写「最高的、正确而完整的觉悟」；玄奘音译成「阿耨多罗三藐三菩提」，保留了声音，意思要靠注释。",
+       "en": "The English and the plain Chinese both translate the meaning: \"the highest, right, and complete awakening\" (plain Chinese 最高的、正确而完整的觉悟, zuìgāo de, zhèngquè ér wánzhěng de juéwù). Xuanzang transliterates it as 阿耨多罗三藐三菩提 (ānòuduōluó sānmiǎo sānpútí), keeping the sound so that the meaning depends on commentary."
       }
      ]
     },
@@ -131,8 +131,8 @@
       },
       {
        "w": "asamasama",
-       "note": "字面是「和无可相比者相等」。英文 equal to the unequalled 照字面；白话译成「无可比拟」，意思对但少了这个绕口的修辞；玄奘「无等等」是逐字直译。",
-       "en": "Literally \"equal to the unequalled.\" The English \"equal to the unequalled\" is literal; the plain Chinese 无可比拟 (wú kě bǐnǐ, \"beyond compare\") gets the meaning but loses the tongue-twisting figure of speech; Xuanzang's 无等等 (wú děng děng, \"unequalled-equal\") is a word-for-word rendering."
+       "note": "字面是「和无可相比者相等」。英文 equal to the unequalled 照字面；白话译成「没有什么能跟它比」，意思对但少了这个绕口的修辞；玄奘「无等等」是逐字直译。",
+       "en": "Literally \"equal to the unequalled.\" The English \"equal to the unequalled\" is literal; the plain Chinese 没有什么能跟它比 (méiyǒu shénme néng gēn tā bǐ, \"nothing can compare with it\") gets the meaning but loses the tongue-twisting figure of speech; Xuanzang's 无等等 (wú děng děng, \"unequalled-equal\") is a word-for-word rendering."
       }
      ]
     },
@@ -147,8 +147,8 @@
       },
       {
        "w": "svāhā",
-       "note": "祭祀时的结尾呼声，没有一个对应的词。英文 so be it、白话「圆满成就」都是取其意，各有偏差；音译「莎婆诃」则只留下声音。",
-       "en": "A ritual cry that ends a sacrificial offering, with no equivalent word. The English \"so be it\" and the plain Chinese 圆满成就 (yuánmǎn chéngjiù, \"perfectly accomplished\") both convey the gist, each with its own slant; the transliteration 莎婆诃 (suōpóhē) keeps only the sound."
+       "note": "祭祀时的结尾呼声，没有一个对应的词。英文 so be it、白话「愿它成就」都是取其意，各有偏差；音译「莎婆诃」则只留下声音。",
+       "en": "A ritual cry that ends a sacrificial offering, with no equivalent word. The English \"so be it\" and the plain Chinese 愿它成就 (yuàn tā chéngjiù, \"may it be accomplished\") both convey the gist, each with its own slant; the transliteration 莎婆诃 (suōpóhē) keeps only the sound."
       }
      ]
     },
