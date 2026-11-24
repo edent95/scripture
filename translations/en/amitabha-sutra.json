@@ -2,6 +2,126 @@
  "slug": "amitabha-sutra",
  "title": "The Array of the Land of Bliss (The Amitabha Sutra)",
  "summary": "The Buddha tells Shariputra about Sukhavati, a world of bliss far to the west, where the buddha Amitayus, also called Amitabha, is teaching right now. Anyone who keeps his name in mind with an undistracted heart can be born there, and buddhas in every direction vouch for this teaching.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是大乘佛教的一部短经，讲西方一个叫「极乐」的世界：那里有一位佛正在说法，人只要专心记着他的名号，死后就能生到那里。华人最熟悉的是鸠摩罗什大约一千六百年前（约公元五世纪初）的汉译本，叫《佛说阿弥陀经》，净土宗把它当作根本经典之一，寺院常在晚课念诵。本站的白话照梵文翻，梵文书名是《极乐庄严》。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "开头「我是这样听到的」的「我」，传统上说是佛的弟子阿难，转述他听到的经过。之后几乎全是佛（经里叫「世尊」，后面自称释迦牟尼）在对舍利弗一个人说话，舍利弗是佛的大弟子之一，一句也没有回答。经里的「你怎么想」是佛自问自答的说法。"
+  },
+  {
+   "q": "无量寿和阿弥陀是谁",
+   "a": "就是同一位佛。梵文 Amitāyus 意思是「无量寿」（寿命没有尽头），Amitābha 意思是「无量光」（光明照到一切地方），汉文都音译成「阿弥陀」。本站的白话大多照梵文写「无量寿如来」，读到这个名字就知道说的是阿弥陀佛。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "经里一段段用几乎相同的句子描写极乐世界，每段结尾都重复「那个佛国就是由这样的佛国功德庄严装点起来的」；后面东南西北上下六个方向，各列一串佛名，句子也一样。这是佛经常见的重复，为了好念好记。六方诸佛「用舌头覆盖自己的佛国」，一般认为是表示他们保证所说的是真话。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现。",
+   "terms": [
+    [
+     "世尊",
+     "对佛的尊称，意思是「世间尊贵的人」。这里指释迦牟尼佛。"
+    ],
+    [
+     "如来",
+     "佛的称号，意思是「如实而来的人」。"
+    ],
+    [
+     "极乐",
+     "西方那个世界的名字，梵文 Sukhāvatī，意思是「充满安乐的地方」。"
+    ],
+    [
+     "佛国",
+     "一位佛所在、所教化的世界，也叫佛土。"
+    ],
+    [
+     "善男子、善女人",
+     "佛经对一般信众的称呼，指心地好的男人、女人。"
+    ],
+    [
+     "阿罗汉、菩萨",
+     "断尽烦恼的圣者；立志求觉悟、也帮别人觉悟的修行人。"
+    ],
+    [
+     "无上正等正觉",
+     "最高、最正确、最完整的觉悟，就是成佛。"
+    ],
+    [
+     "法门",
+     "一种教法，进入佛法的一道门。"
+    ],
+    [
+     "劫",
+     "极长的时间单位。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A short Mahayana Buddhist sutra about a world in the west called Sukhavati, the Land of Bliss, where a buddha is teaching right now; anyone who keeps his name in mind with a single heart can be born there after death. The best-known Chinese version is Kumarajiva's, from about the early fifth century. The Pure Land school counts it among its core texts and temples often chant it. This site follows the Sanskrit."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "\"This is what I heard\": by tradition the \"I\" is Ananda, the Buddha's disciple, retelling what happened. After that, nearly all of it is the Buddha (\"the Blessed One\", who later calls himself Shakyamuni) speaking to Shariputra, one of his chief disciples, who never says a word. \"What do you think, Shariputra?\" is the Buddha asking a question he then answers himself."
+  },
+  {
+   "q": "Who Amitayus and Amitabha are",
+   "a": "They are the same buddha. Amitayus means \"Infinite Life\" and Amitabha means \"Infinite Light\"; Chinese renders both by the same sound, Amituo. The site's English mostly follows the Sanskrit and says \"the Tathagata Amitayus\"; this is the buddha widely known as Amitabha."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "The sutra describes the Land of Bliss in passage after passage of nearly the same sentences, each ending with the same refrain about how that buddha-land is adorned. Then six directions, east, south, west, north, below and above, each get a list of buddha names in identical wording. Such repetition is common in sutras and helps with chanting and memory. The buddhas \"covering their land with their tongue\" is generally read as a pledge that what they say is true."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Blessed One",
+     "A title for the Buddha; here Shakyamuni."
+    ],
+    [
+     "Tathagata",
+     "A title of a buddha, \"the one who has come (or gone) thus\"."
+    ],
+    [
+     "Sukhavati",
+     "The name of that western world, \"the Land of Bliss\"."
+    ],
+    [
+     "Buddha-land",
+     "The world where a buddha lives and teaches."
+    ],
+    [
+     "Son or daughter of good family",
+     "The sutra's way of addressing ordinary believers."
+    ],
+    [
+     "Arhat, bodhisattva",
+     "A saint who has ended all afflictions; one set on awakening who also helps others awaken."
+    ],
+    [
+     "Unsurpassed, perfect awakening",
+     "The highest, fullest awakening: becoming a buddha."
+    ],
+    [
+     "Teaching",
+     "Here a particular teaching or way into the Dharma, named like a title."
+    ],
+    [
+     "Eon",
+     "An age of immense length."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "最大的差别是佛的名字。梵本里这位佛几乎一直叫 Amitāyus（无量寿），只在解释名字的那一段出现一次 Amitābha（无量光）。鸠摩罗什把两者统一音译成「阿弥陀」，借的是两个名字共有的 amita（无量），一个词同时包住了「光」与「寿」，后来「阿弥陀佛」成了中文世界最熟悉的佛号。本站英文和白话照梵文，该写 Amitayus 就写 Amitayus，读者能看出原文其实以「寿」为主。经名也一样：梵文叫《极乐庄严》，以国土命名；鸠摩罗什叫《阿弥陀经》，以佛命名。",
   "第二个差别在修行方法。梵文说听到名号后「放在心上」（manasikāra），一夜到七夜心不散乱，没有说出声念。鸠摩罗什译成「执持名号」「一心不乱」，又把「夜」改成「日」。「执持名号」后来成了中国净土宗「持名念佛」的经典依据。英文 keeps it in mind 贴着梵文走，读不出「持名」的味道；同样，经中鸟声让人「念佛、念法、念僧」，原文也只是「想起、忆念」。",

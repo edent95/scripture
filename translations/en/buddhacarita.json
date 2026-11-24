@@ -2,6 +2,134 @@
  "slug": "buddhacarita",
  "title": "The Life of the Buddha",
  "summary": "Ashvaghosha’s court epic of the Buddha’s early life, from his birth to his victory over Mara under the bodhi tree. The Sanskrit survives only this far.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这不是佛说的经，而是一部写佛陀生平的长诗，作者是印度诗人马鸣，一般认为他生活在公元一至二世纪。它用的是古印度宫廷诗的写法，讲究比喻和文采。全诗原有二十八章，梵文只留下前十三章和第十四章开头，正好写到菩提树下打败魔王、开始觉悟的那一夜；后半只在汉译和藏译里看得到。古汉译叫《佛所行赞》，传统上说是五世纪的昙无谶所译。"
+  },
+  {
+   "q": "书里讲的是谁",
+   "a": "主角是后来成佛的那位王子。他生在释迦族，父亲是迦毘罗城的国王（名叫净饭王，书里常称「释迦王」），出生后取名萨婆悉达，意思是「一切目标都实现了」。书里称呼他的说法很多：王子、菩萨（还没成佛的佛）、牟尼、释迦族的雄牛，指的都是他。讲故事的是诗人；很多章是人物的长篇对话，一方劝他回家，一方是他的回答。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "当时印度人普遍相信，人死后会按自己的行为一再投生，叫轮回。按王族的规矩，年轻时该成家、治国、享乐、办祭祀，老了才进林子修行。林子里的修行人大多靠苦行（饿、晒、泡水）求死后升天。王子要找的不一样：一条彻底跳出轮回、不再受老病死之苦的路，叫解脱。书里父亲、大臣、国王的一次次劝说，都是站在前一种观念上说的。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是比喻一个接一个，还常拿印度神话人物作比，比如因陀罗、罗摩、某某仙人。这些人名大多只是「像谁一样」，不认识可以直接读过去，不影响故事。二是有几处梵文的双关和数字谜，白话只能保留一层意思。三是写本有残缺：第 1 章开头缺了几页，中间又缺了一段，译文里都注明了。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "正法",
+     "书里的「法」有几层：王族该尽的本分、行善得来的功德，以及王子要找的那条脱离苦的路。看说话的人是谁就知道指哪一层。"
+    ],
+    [
+     "解脱",
+     "彻底脱离生、老、病、死，不再投生。"
+    ],
+    [
+     "轮回",
+     "死了又投生，一世接一世，转个不停。"
+    ],
+    [
+     "欲乐",
+     "感官带来的享受：美色、音乐、美食、富贵。"
+    ],
+    [
+     "苦行林、修行林",
+     "林中修行人聚居的地方，他们靠挨饿、吃草等苦行修行。"
+    ],
+    [
+     "牟尼、仙人",
+     "林中修行的圣人。王子出家后也被称为牟尼。"
+    ],
+    [
+     "婆罗门",
+     "古印度主持祭祀、掌管经典的祭司阶层。"
+    ],
+    [
+     "因陀罗、帝释",
+     "同一位，众神之王，书里最常拿来作比的天神。"
+    ],
+    [
+     "魔罗",
+     "掌管欲望和死亡的魔王，也被当作爱神；第 13 章他来阻挠王子觉悟。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 3 章（出城见到老人、病人、死人），这是全书的转折。接着读第 5 章（夜里离家）、第 6 章（遣回车匿），看他怎样出走。然后读第 13 章（降伏魔王）。有了兴趣，再从第 1 章顺着读。第 9 至 12 章多是长篇劝说和辩论，最考耐心，可以放到后面。每章先看「这一章在讲什么」；括号（）里的字是本站补的。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "This is not a sutra spoken by the Buddha but a long poem about his life, by the Indian poet Ashvaghosha, who is generally placed in the first or second century CE. It is written as an Indian court poem, rich in simile and polish. The full poem had twenty-eight chapters; the Sanskrit survives only through Chapter 13 and the start of Chapter 14, ending on the night beneath the bodhi tree when he defeats Mara and begins to awaken. The rest is known only from Chinese and Tibetan translations. The old Chinese version is traditionally credited to Dharmakshema in the fifth century."
+  },
+  {
+   "q": "Who the book is about",
+   "a": "The hero is the prince who later became the Buddha. He was born among the Shakyas; his father was king of the city of Kapila (Shuddhodana, often called simply \"the Shakya king\"), and he was named Sarvarthasiddha, \"He Who Accomplishes Every Aim.\" The poem calls him many things: the prince, the Bodhisattva (the Buddha-to-be), the sage, the bull of the Shakyas. All mean him. The poet tells the story, and many chapters are long speeches: someone urging him home, and his reply."
+  },
+  {
+   "q": "The background",
+   "a": "People in India then widely believed that after death one is reborn again and again according to one's deeds. By royal custom, a young man should marry, rule, enjoy life and perform sacrifices, and only in old age go to the forest. Most forest ascetics practiced hardships (fasting, exposure, standing in water) to reach heaven after death. The prince seeks something else: a way out of rebirth altogether, beyond old age, sickness and death, called liberation. His father, the ministers and the king who urge him back all speak from the first view."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "First, simile follows simile, and many compare people to figures from Indian myth: Indra, Rama, one seer or another. Most of these names only mean \"like so-and-so\"; if you don't know them, read on, and the story is not affected. Second, a few verses rest on Sanskrit puns or number riddles, and a translation can keep only one layer. Third, the manuscript has gaps: pages are missing at the start of Chapter 1, and another passage is lost in the middle of it. The translation marks them."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Dharma, duty",
+     "The word has layers here: the duty a king owes, the merit good deeds earn, and the way out of suffering the prince is looking for. Who is speaking tells you which."
+    ],
+    [
+     "Liberation",
+     "Freedom from birth, old age, sickness and death, with no further rebirth."
+    ],
+    [
+     "Rebirth",
+     "Dying and being born again, life after life, without end."
+    ],
+    [
+     "Pleasures",
+     "The enjoyments of the senses: beauty, music, food, wealth."
+    ],
+    [
+     "Ascetics' grove, hermitage",
+     "A forest settlement of hermits who practice hardships such as fasting or living on grass."
+    ],
+    [
+     "Sage, seer",
+     "A holy man of the forest. After he leaves home the prince too is called a sage."
+    ],
+    [
+     "Brahmin",
+     "The priestly class of ancient India, in charge of sacrifice and scripture."
+    ],
+    [
+     "Indra, Shakra",
+     "One god, king of the gods, the figure the poem most often uses in comparisons."
+    ],
+    [
+     "Mara",
+     "The lord of desire and death, also seen as the love-god; in Chapter 13 he tries to stop the prince's awakening."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Start with Chapter 3, where the prince sees an old man, a sick man and a dead man; it is the turning point. Then read Chapter 5 (leaving home by night) and Chapter 6 (sending Chandaka back). Then Chapter 13, the victory over Mara. If you are drawn in, read from Chapter 1 in order. Chapters 9 to 12 are mostly long speeches and debate and need the most patience, so leave them for later. Read each chapter's short introduction first."
+  }
+ ],
  "compare": [
   "这部书和别的经最大的不同，是它首先是一首宫廷诗（kāvya）。马鸣处处用双关（śleṣa）：一个词同时指两样东西，比如 ketu 既是「旗帜」又是「彗星」，mokṣa 在同一句里先是「还清债务」、再是「解脱」。英文和中文白话都只能挑一个意思写进正文，另一个放进三语对照注。本站英文尽量保留比喻和排比的节奏，但不押韵；白话更偏向把意思讲明白，常把比喻压平。读者看到一段注特别多，多半就是双关密集的地方。",
   "第二个差别在 dharma。这个词在书里至少有三层：国王和刹帝利该尽的本分、行善得福的功德、以及佛陀要找的那条出路。父王、大臣、频婆娑罗王劝王子回去时说的 dharma，是第一层；王子拒绝时说的，是第三层。整部前半生的张力就在这同一个词上。中文一律写「法」，看不出层次；英文按语境分开：本分写 duty，宗教意义的出路写大写的 Dharma，第 7 章苦行者辩论里的 dharma / adharma 照原词保留。",
@@ -15,6 +143,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · The Birth of the Blessed One (Bhagavatprasūti)",
+   "intro": "The first pages are lost. The queen gives birth in a grove; the baby takes seven steps and declares this his last birth. The sage Asita comes, weeping that he is too old to hear the boy teach, and foretells that he will give up the throne and end birth and death. The king is glad and afraid.",
    "verses": [
     {
      "h": "614f076b",
@@ -344,6 +473,7 @@
   },
   {
    "title": "Chapter 2 · Life in the Palace (Antaḥpuravihāra)",
+   "intro": "After his birth the kingdom thrives, so he is named Sarvarthasiddha, \"He Who Accomplishes Every Aim.\" His mother Maya dies and her sister raises him. Fearing Asita's prophecy, the king marries him to Yashodhara and keeps him upstairs among pleasures, never setting foot on the ground. In time a son, Rahula, is born.",
    "verses": [
     {
      "h": "f4bd960d",
@@ -664,6 +794,7 @@
   },
   {
    "title": "Chapter 3 · The Stirring of Dismay (Saṃvegotpatti)",
+   "intro": "The prince wants to visit the parks outside the city. The king clears the road, but the gods conjure an old man, a sick man and a corpse, and the charioteer explains: everyone ages, sickens and dies. Twice the prince turns back; the third time the charioteer, on the king's orders, drives him into a park full of beautiful women.",
    "verses": [
     {
      "h": "8026303f",
@@ -1020,6 +1151,7 @@
   },
   {
    "title": "Chapter 4 · The Women Turned Away (Strīvighātana)",
+   "intro": "The women of the park, under orders, try every way to tempt him, and Udayin, the priest's son, cites many seers who gave in to desire. The prince replies that without old age, sickness and death he too would enjoy pleasure, but knowing all will decay he cannot. The women go home defeated, and the king lies awake all night.",
    "verses": [
     {
      "h": "0e72e935",
@@ -1591,6 +1723,7 @@
   },
   {
    "title": "Chapter 5 · The Great Departure (Abhiniṣkramaṇa)",
+   "intro": "Seeing insects killed by the plough, he feels pity and first enters meditation under a tree. A god disguised as an ascetic settles his resolve. His father refuses him leave and posts more guards. At night the gods make the palace women sprawl in ugly sleep; repelled, he wakes the groom Chandaka and rides out on Kanthaka.",
    "verses": [
     {
      "h": "5d81de60",
@@ -2021,6 +2154,7 @@
   },
   {
    "title": "Chapter 6 · Chandaka Sent Back (Chandakanivartana)",
+   "intro": "At dawn they reach a hermitage. The prince gives Chandaka his jewels, asks him to comfort the king, and sends him back; Chandaka weeps and begs him to return. The prince cuts off his hair with his sword and swaps clothes with a hunter, really a god, for an ochre robe. Chandaka, sobbing, starts home alone.",
    "verses": [
     {
      "h": "edf110c3",
@@ -2494,6 +2628,7 @@
   },
   {
    "title": "Chapter 7 · Entering the Ascetics' Grove (Tapovanapraveśa)",
+   "intro": "In the ascetics' grove the hermits describe their hardships, eating grass, living in water, all to reach heaven after death. He judges that heaven too will change, so this is seeking suffering through suffering, and after a few nights he leaves. They cannot keep him; one brahmin points him to Arada, who teaches liberation.",
    "verses": [
     {
      "h": "f38581ab",
@@ -2892,6 +3027,7 @@
   },
   {
    "title": "Chapter 8 · Lament in the Palace (Antaḥpuravilāpa)",
+   "intro": "Chandaka takes eight days to lead the riderless horse back to Kapila, and the whole city weeps. His aunt Gautami and his wife Yashodhara break down; Yashodhara blames Chandaka and the horse. Chandaka says the gods arranged it all. The king collapses in grief, then sends his family priest and a minister to bring the prince home.",
    "verses": [
     {
      "h": "b35f0a96",
@@ -3362,6 +3498,7 @@
   },
   {
    "title": "Chapter 9 · The Search for the Prince (Kumārānveṣaṇa)",
+   "intro": "The priest and minister find him by the road and urge him to rule first and seek holiness in old age. He answers that death keeps no schedule and a throne is a house of troubles. The minister argues no one knows if there is a next life; he vows to see the truth himself before ever returning.",
    "verses": [
     {
      "h": "573682ef",
@@ -3800,6 +3937,7 @@
   },
   {
    "title": "Chapter 10 · Shrenya's Visit (Śreṇyābhigamana)",
+   "intro": "The prince begs for food in Rajagriha, capital of Magadha, and the whole city stares. King Shrenya (Bimbisara) climbs the hill to find him, offers him half his kingdom, and urges him to enjoy youth and practice in old age, or to perform sacrifices as his family always has. The prince does not waver.",
    "verses": [
     {
      "h": "cc20e8eb",
@@ -4025,6 +4163,7 @@
   },
   {
    "title": "Chapter 11 · Desire Condemned (Kāmavigarhaṇa)",
+   "intro": "The prince answers King Shrenya: pleasures are like snakes and fire and never satisfy; food and clothing only treat pain, they are not enjoyment. Death does not wait for old age, and he wants no reward bought by killing animals in sacrifice. He leaves for Arada; the king asks him to return and help him once he succeeds.",
    "verses": [
     {
      "h": "a3c2b112",
@@ -4462,6 +4601,7 @@
   },
   {
    "title": "Chapter 12 · Meeting Arada (Arāḍadarśana)",
+   "intro": "Arada teaches that deep meditation frees the self from the body. The prince sees that a self can be bound again, and leaves him, then Udraka. Six years of fasting leave him skin and bone and no closer. Taking milk-rice from a herdsman's daughter, he sits beneath the bodhi tree, vowing not to rise until awakened.",
    "verses": [
     {
      "h": "a8a934fd",
@@ -5098,6 +5238,7 @@
   },
   {
    "title": "Chapter 13 · Victory over Mara (Māravijaya)",
+   "intro": "Mara fears the prince's awakening will empty his realm. He shoots his arrow of desire; the prince does not stir. His army of monsters hurls rocks and burning coals, which turn into flowers. A voice from the sky tells Mara to give up, for this man will not abandon his resolve. Mara flees, and flowers rain down.",
    "verses": [
     {
      "h": "f0dc310f",
@@ -5489,6 +5630,7 @@
   },
   {
    "title": "Chapter 14 · Awakening, First Part (Sarga 14)",
+   "intro": "Having beaten Mara's army, he enters meditation. In the first watch of the night he remembers thousands of his past lives. In the second he gains the divine eye and sees beings reborn according to good and bad deeds: torments in hell, animals slaughtered and driven, hungry ghosts starving, humans suffering in the womb. Here the Sanskrit manuscript breaks off.",
    "verses": [
     {
      "h": "bfd966b4",

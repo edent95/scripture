@@ -2,6 +2,150 @@
  "slug": "vimalakirti-sutra",
  "title": "The Vimalakirti Sutra",
  "summary": "The layman Vimalakirti is “ill”. None of the Buddha’s great disciples dare visit him, since he has out-argued each of them; Manjushri goes, and the two talk about non-duality.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是一部大乘佛教的经，一般认为在公元初的几个世纪里出现于印度。主角维摩诘不是出家人，而是一位住在城里、有家有业的富人，却比佛的大弟子们更懂佛法。在中国，它主要靠鸠摩罗什在公元五世纪初的译本流传。梵文原本很长时间被认为已经失传，二十世纪末才在西藏重新找到写本；本站的白话就是从梵文译出的。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "故事发生在古印度的毗舍离城。说话的主要有四方：佛（经里也叫世尊、如来）；维摩诘；文殊师利，一位以智慧出名的菩萨；还有舍利弗、迦叶、阿难等佛的大弟子。第 3 章特别绕：佛叫弟子去探病，弟子讲起自己从前和维摩诘的一段对话，这时「我」是那位弟子，引号里又套着维摩诘的话。"
+  },
+  {
+   "q": "维摩诘为什么「病」了",
+   "a": "第 2 章交代，他是故意显出生病的样子，好让城里的人来探病，他就借机讲道理。佛要派人去看他，大弟子和菩萨一个个推辞，因为都被他问倒过。最后文殊师利去了，一大群人跟着去听两人对谈。全经大半就发生在维摩诘那间小屋里。"
+  },
+  {
+   "q": "这部经在跟谁较劲",
+   "a": "经里有两种修行的路：一种是佛的弟子只求自己脱离苦，叫声闻；另一种是菩萨，发愿帮所有人都脱离苦，叫大乘。这部经站在大乘一边，所以一再让声闻弟子当场答不上话，连一位天女也能把舍利弗问倒。读的时候知道这层，就明白为什么大弟子们总在出丑。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是一连串的否定和看似矛盾的话，比如「不断除烦恼，却进入涅槃」，意思是不要把世界切成对立的两边，下面「不二」一词会解释。二是夸张的神通场面：把大山放进芥菜子，把整个世界托在手上，这是经里用来说「心的境界不受大小限制」的方式。三是长长的名单和赞词，一时读不进去可以先跳过。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "菩萨",
+     "发愿要成佛、并帮所有人脱离苦的修行人。维摩诘和文殊师利都是菩萨。"
+    ],
+    [
+     "声闻",
+     "原意是「听佛说法的人」，指只求自己解脱的佛弟子。舍利弗等大弟子属于这一类。"
+    ],
+    [
+     "大乘",
+     "「大的车」，指菩萨走的路：不只渡自己，也要渡所有人。"
+    ],
+    [
+     "佛土",
+     "一尊佛所教化的那个世界。经里说，心有多清净，佛土就有多清净。"
+    ],
+    [
+     "空性",
+     "一切事物都没有独立不变的本质，都是靠条件凑起来的。"
+    ],
+    [
+     "不二",
+     "不把事物分成「生和死」「善和恶」这样对立的两边。第 8 章专讲这个。"
+    ],
+    [
+     "方便",
+     "灵活变通、因人施教的本领。维摩诘装病、出入酒馆赌场，都是方便。"
+    ],
+    [
+     "涅槃",
+     "烦恼彻底熄灭、不再轮回的境界。"
+    ],
+    [
+     "无上正等正觉",
+     "佛那种最高、最圆满的觉悟。「发心趣向无上正等正觉」就是立志成佛。"
+    ],
+    [
+     "如来、世尊",
+     "都是对佛的称呼。经里的佛就是释迦牟尼。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 2 章，认识维摩诘是怎样一个人。再读第 3 章里舍利弗、须菩提、阿难的几段，看他怎么把大弟子问倒。接着读第 4 章文殊探病、第 6 章天女撒花、第 8 章三十一位菩萨谈「不二」，最后维摩诘一句话也不说。有了兴趣，再回到第 1 章从头读。每章先看「这一章在讲什么」；括号（）里的字是本站补的，不是经文本身。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A Mahayana Buddhist sutra, generally thought to have taken shape in India in the first few centuries CE. Its hero, Vimalakirti, is not a monk but a wealthy townsman with a family and a business, and he understands the teaching better than the Buddha's leading disciples. In China it spread mainly through Kumarajiva's translation of the early fifth century. The Sanskrit was long thought lost; a manuscript was found again in Tibet at the end of the twentieth century, and this site translates from the Sanskrit."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The story is set in the ancient Indian city of Vaishali. Four voices carry most of it: the Buddha (also called the Blessed One or the Tathagata); Vimalakirti; Manjushri, a bodhisattva known for wisdom; and the Buddha's great disciples, such as Shariputra, Kashyapa and Ananda. Chapter 3 needs care: the Buddha asks a disciple to visit the sick man, the disciple recalls an old conversation with him, so \"I\" is that disciple, and inside his story Vimalakirti speaks in quotes of his own."
+  },
+  {
+   "q": "Why Vimalakirti is \"ill\"",
+   "a": "Chapter 2 explains that he makes himself appear ill so that people will come to visit, and then he teaches them. When the Buddha wants someone to go and ask after him, the great disciples and the bodhisattvas each decline, because he has out-argued every one of them. In the end Manjushri goes, and a great crowd follows to hear the two talk. Most of the sutra happens in Vimalakirti's small house."
+  },
+  {
+   "q": "Whom the sutra is arguing with",
+   "a": "The sutra knows two paths. Some followers seek only their own release from suffering; the sutra calls them disciples. Bodhisattvas vow to free everyone; their path is the Great Vehicle. The sutra takes the side of the Great Vehicle, so the disciples are again and again left without an answer, and even a goddess gets the better of Shariputra. Knowing this explains why the great disciples keep losing face."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "First, the strings of negations and seeming contradictions, such as \"entering nirvana without cutting off the afflictions\"; the point is not to split the world into opposing pairs (see \"non-duality\" below). Second, the huge miracles: a mountain put into a mustard seed, a whole world carried in one hand. This is the sutra's way of saying that a freed mind is not bound by size. Third, the long lists of names and praises, which can be skipped on a first reading."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Bodhisattva",
+     "Someone who has vowed to become a buddha and to free all beings from suffering. Vimalakirti and Manjushri are both bodhisattvas."
+    ],
+    [
+     "Disciples",
+     "In this sutra, the Buddha's followers who seek only their own release (in Sanskrit, those who \"hear\" the Buddha). Shariputra and the other great disciples belong here."
+    ],
+    [
+     "Great Vehicle",
+     "The bodhisattva's path: carrying not only oneself across, but everyone."
+    ],
+    [
+     "Buddha-field",
+     "The world a particular buddha teaches. The sutra says a buddha-field is as pure as the mind is pure."
+    ],
+    [
+     "Emptiness",
+     "Nothing has a fixed, independent core of its own; everything comes together from conditions."
+    ],
+    [
+     "Non-duality",
+     "Not splitting things into opposing pairs such as birth and death, or good and bad. Chapter 8 is about this."
+    ],
+    [
+     "Skill in means",
+     "The knack of adapting the teaching to each person. Vimalakirti's illness and his visits to taverns and gambling halls are skill in means."
+    ],
+    [
+     "Nirvana",
+     "The state where suffering's causes are fully put out and rebirth ends."
+    ],
+    [
+     "Unsurpassed, perfect awakening",
+     "A buddha's complete awakening. To \"set out for\" it means to resolve to become a buddha."
+    ],
+    [
+     "Tathagata, Blessed One",
+     "Titles of the Buddha; here, Shakyamuni."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Start with Chapter 2 to meet Vimalakirti. Then read the parts of Chapter 3 about Shariputra, Subhuti and Ananda, to see how he leaves the great disciples speechless. Next, Chapter 4 (Manjushri's visit), Chapter 6 (the goddess and the flowers) and Chapter 8, where thirty-one bodhisattvas explain non-duality and Vimalakirti answers with silence. Then go back to Chapter 1 and read from the start. Read each chapter's short introduction first."
+  }
+ ],
  "compare": [
   "这部经在中文世界几乎只靠鸠摩罗什的译本流传，他的许多句子已经成了熟语：「随其心净，则佛土净」「不断烦恼而入涅槃」「以众生病，是故我病」「一切烦恼为如来种」「芥子纳须弥」。拿梵本对照，这些句子大体忠实，但常被他磨得更短、更像格言，有时意思也随之移动。例如梵文说「心清净到什么程度，佛土就清净到什么程度」，讲的是程度上的对应；「随其心净」读起来却像「只要心净，土就净」。又如 gotra 本是「家族、出身」，中文「种」兼有「种子」的意思，于是「烦恼是如来种」常被读成「烦恼是成佛的种子」。英文照梵文直译，所以英文读者看到的往往比中文读者熟悉的句子更长、更绕，也更贴近原来的论证。",
   "最需要留意的是第八品「不二法门」。梵本里文殊先对前面三十一位菩萨说「你们所说的一切，其实都还是二」，再说「不说」才是不二；鸠摩罗什删去了这句批评，只留下客气的「如我意者」。维摩诘的回应，梵文只有几个词：「离车人维摩诘，沉默了」。没有形容，没有动作。后来禅宗说的「维摩一默」「一默如雷」，是后人的评语。英文和白话都照原文写得一样短，不替经文加戏。还要对照的是第六品的舍利弗：他被天女问住时也沉默了，天女却不认可，说「不要离开文字去说解脱」。同样是沉默，经文刻意分出了两种。",
@@ -15,6 +159,7 @@
  "chapters": [
   {
    "title": "Opening",
+   "intro": "Just two lines: the title, \"The Teaching of Vimalakirti,\" and a bow to all buddhas and bodhisattvas. Vimalakirti is a layman of the city of Vaishali; the story begins in the next chapter.",
    "verses": [
     {
      "h": "9d7df9b9",
@@ -35,6 +180,7 @@
   },
   {
    "title": "Chapter 1 · Purifying the Buddha-Field",
+   "intro": "In a park outside Vaishali, before monks, bodhisattvas and gods, young Ratnakara offers parasols and asks how a buddha-field is made pure. The Buddha answers: as pure as the mind, so pure the field. Shariputra privately doubts this world is pure; the Buddha presses the ground with his toe, and everyone sees it made of jewels.",
    "verses": [
     {
      "h": "a8be2fd1",
@@ -406,6 +552,7 @@
   },
   {
    "title": "Chapter 2 · Skill in Means Beyond Thought",
+   "intro": "Meet Vimalakirti, a rich layman of Vaishali who visits gambling halls, taverns, brothels and government offices, always to lead people toward good. He makes himself appear ill, and when crowds come to visit he uses his own body as the lesson: it is foam, a dream, unreliable. What is worth seeking is a buddha's body, made of virtues.",
    "verses": [
     {
      "h": "ca0fb218",
@@ -706,6 +853,7 @@
   },
   {
    "title": "Chapter 3 · The Disciples and Bodhisattvas Excuse Themselves",
+   "intro": "Lying ill, Vimalakirti wonders why the Buddha sends no one. The Buddha asks ten great disciples in turn, among them Shariputra, Maudgalyayana, Kashyapa, Subhuti and Ananda, and then several bodhisattvas such as Maitreya. Each declines and tells how Vimalakirti once showed that his way of meditating, begging, teaching or keeping the rules stayed on the surface.",
    "verses": [
     {
      "h": "c212f2a2",
@@ -1406,6 +1554,7 @@
   },
   {
    "title": "Chapter 4 · Asking After the Sick Man",
+   "intro": "Manjushri agrees to go, and a crowd of bodhisattvas, disciples and gods follows. Vimalakirti empties his house, leaving only his sickbed. He says he is ill because beings are ill; a bodhisattva's illness comes from compassion. The two then talk about emptiness, and about how a sick bodhisattva should steady his own mind.",
    "verses": [
     {
      "h": "94b7dc29",
@@ -1699,6 +1848,7 @@
   },
   {
    "title": "Chapter 5 · Showing the Liberation Beyond Thought",
+   "intro": "Shariputra wonders where all will sit; Vimalakirti says a seeker of the Dharma seeks not even a body, still less a seat. He brings three million huge lion-thrones from a distant world; all fit in his small house. This is \"the liberation beyond thought\": a mountain inside a mustard seed, neither changing size. Kashyapa laments that disciples miss it.",
    "verses": [
     {
      "h": "ce081634",
@@ -1875,6 +2025,7 @@
   },
   {
    "title": "Chapter 6 · The Goddess",
+   "intro": "Asked how a bodhisattva should regard beings, Vimalakirti says: like the moon in water, a face in a mirror; then he describes the kindness that follows. A goddess in the house scatters flowers; they stick to the great disciples but slide off the bodhisattvas. She spars with Shariputra and swaps their bodies, to show male and female are not fixed.",
    "verses": [
     {
      "h": "746d8e03",
@@ -2317,6 +2468,7 @@
   },
   {
    "title": "Chapter 7 · The Family of the Tathagatas",
+   "intro": "Vimalakirti says a bodhisattva masters the Buddha's way by walking \"the wrong roads\", hell, greed, delusion, without being stained by them. Manjushri adds that the afflictions are the very family of the Tathagatas, as lotuses grow only in mud. Asked where his family is, Vimalakirti answers in a long poem: wisdom is his mother, skill in means his father.",
    "verses": [
     {
      "h": "ccbfd47e",
@@ -2600,6 +2752,7 @@
   },
   {
    "title": "Chapter 8 · Entering the Dharma-Door of Non-Duality",
+   "intro": "Vimalakirti asks the bodhisattvas present how one enters non-duality. Thirty-one of them, one by one, take a pair, birth and ceasing, good and bad, samsara and nirvana, and show that the two are not two. Manjushri says that saying nothing at all is non-duality. When Vimalakirti's turn comes he stays silent, and Manjushri praises this as the true entry.",
    "verses": [
     {
      "h": "d660b499",
@@ -2925,6 +3078,7 @@
   },
   {
    "title": "Chapter 9 · The Food Brought by an Emanated Bodhisattva",
+   "intro": "Shariputra starts thinking about lunch. Vimalakirti reveals a world of fragrance far above and sends a conjured bodhisattva to ask its buddha, Gandhottamakuta, for leftovers. One bowl feeds everyone and never runs out. The two sides compare teaching: there, scent alone teaches; here people are hard to tame, so the Buddha must speak of wrongdoing and its results.",
    "verses": [
     {
      "h": "cccd3f60",
@@ -3125,6 +3279,7 @@
   },
   {
    "title": "Chapter 10 · The Perishable and the Imperishable",
+   "intro": "Vimalakirti carries the whole assembly on his palm back to the Buddha's park. Asked about the fragrance, the Buddha says food, light, words, even silence can all serve to teach. Before the visiting bodhisattvas leave, he teaches \"the perishable and the imperishable\": a bodhisattva neither abandons work in the world nor hides in final stillness.",
    "verses": [
     {
      "h": "857d8451",
@@ -3331,6 +3486,7 @@
   },
   {
    "title": "Chapter 11 · Bringing Over the World Abhirati and Seeing Akshobhya",
+   "intro": "Asked how he sees the Tathagata, Vimalakirti says: by not seeing, then gives a long run of \"neither this nor that.\" Asked where he came from, the Buddha answers for him: from Abhirati, the eastern world of the buddha Akshobhya. Everyone wants to see it, so Vimalakirti lifts that whole world over in his right hand, then puts it back.",
    "verses": [
     {
      "h": "f683e126",
@@ -3514,6 +3670,7 @@
   },
   {
    "title": "Chapter 12 · Conclusion and Entrusting",
+   "intro": "Shakra, king of the gods, vows to protect this sutra. The Buddha says keeping it outweighs honoring countless buddhas with jewelled stupas, and tells a past-life story: Prince Somacchatra asked what \"offering the Dharma\" means, and that prince was the Buddha himself. He entrusts the sutra to Maitreya and Ananda and names it. A scribe's note ends the manuscript.",
    "verses": [
     {
      "h": "9cc90ae7",

@@ -2,6 +2,126 @@
  "slug": "dhammacakka",
  "title": "Setting the Wheel of Dhamma in Motion",
  "summary": "The Buddha's first teaching: avoid both indulgence and self-torment, and the four truths about suffering, its origin, its end and the way there.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是一部短的佛经，原文是巴利文，一种古印度语言；斯里兰卡、缅甸、泰国一带的佛教（南传佛教）的经典就是用它记下来的。它收在巴利文经典的《相应部》里。传统上说，这是佛陀（约两千五百年前在印度北部讲道的人）觉悟之后第一次讲法，地点在波罗奈（今天印度的瓦拉纳西）附近的鹿野苑。经名「转法轮」，意思是让道理像车轮一样转起来、传出去。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "按传统的佛传说法，佛出家后曾和五个同伴一起苦修，饿到皮包骨。后来他觉得这样走不通，开始正常吃饭，五个同伴以为他放弃了，就离开了他。他觉悟以后，先去鹿野苑找这五个人，讲的就是这一部经。所以经一开头就说：纵欲不对，折磨自己也不对。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "第 1 段和第 15 段以后是记经的人在叙述。第 2 到 14 段是佛对五位比丘（出家人）说话，里面的「我」和「如来」都是佛在说自己。第 16 段起讲听的人里憍陈如先懂了，接着天神们一层一层往上传这个消息。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "第 9 到 12 段很像，是因为每个真理都讲三层：这是什么；应该对它做什么；已经做到了。这就是第 13 段说的「三转」，四个真理各三层，合起来「十二个方面」。「……」是原文本身的省略，表示前面的话照样重复。第 18 段那一串天的名字，是古印度人想象的天界，从地面一层层往上，一直到梵天界。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在经里反复出现，先认一下。",
+   "terms": [
+    [
+     "世尊、如来",
+     "都是佛的称号；「如来」是佛称呼自己的说法。"
+    ],
+    [
+     "比丘",
+     "出家修行的男人，靠别人布施食物过活。"
+    ],
+    [
+     "中道",
+     "不走纵欲和苦修两个极端的那条路。"
+    ],
+    [
+     "圣谛",
+     "「圣者的真理」，这里有四个：苦、苦的起源、苦的止息、通向止息的路。"
+    ],
+    [
+     "苦",
+     "不只是疼痛，也指一切不圆满、靠不住、留不住的东西。"
+    ],
+    [
+     "渴爱",
+     "像口渴一样停不下来的想要：想要快乐，想要存在，想要不存在。"
+    ],
+    [
+     "八支道",
+     "通向苦的止息的八个方面：正确的见解、意向、言语、行为、谋生、努力、念、定。"
+    ],
+    [
+     "涅槃",
+     "贪心、怒气、糊涂全部熄灭的状态，是修行的终点。"
+    ],
+    [
+     "法轮",
+     "把佛讲的道理比作转动的车轮，转出去就没人能让它倒转。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this text is",
+   "a": "This is a short Buddhist discourse in Pali, an ancient Indian language in which the scriptures of the Buddhism of Sri Lanka, Burma and Thailand (Theravada Buddhism) were preserved. It belongs to the Pali collection called the Saṃyutta Nikāya. Tradition holds that it was the first teaching the Buddha, a teacher in northern India about two and a half thousand years ago, gave after his awakening, in the Deer Park near Bārāṇasī (today's Varanasi in India). Its name means setting the wheel of the teaching rolling."
+  },
+  {
+   "q": "What was going on at the time",
+   "a": "In the traditional accounts of the Buddha's life, after leaving home he practised harsh austerities with five companions until he was skin and bone. He decided this led nowhere and began to eat normally; his companions thought he had given up and left him. After his awakening he went first to find these five in the Deer Park, and this is what he told them. That is why the discourse opens by rejecting both indulgence and self-torment."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "Paragraph 1, and paragraph 15 onward, are the narrator. Paragraphs 2 to 14 are the Buddha speaking to the five bhikkhus (monks); \"I\" and \"the Tathāgata\" there are both the Buddha speaking of himself. From paragraph 16, one of the listeners, Koṇḍañña, understands first, and the gods pass the news upward, level by level."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Paragraphs 9 to 12 look alike because each truth is taken in three steps: what it is, what should be done about it, and that it has been done. These are the \"three turnings\" of paragraph 13; four truths times three make the \"twelve aspects\". The \"...\" marks are the text's own shorthand for repeating what came before. The string of heavens in paragraph 18 is the ancient Indian picture of the heavens, rising level by level from the earth up to the Brahmā world."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "The Blessed One, the Tathāgata",
+     "Titles of the Buddha; \"Tathāgata\" is how he refers to himself."
+    ],
+    [
+     "Bhikkhu",
+     "A man who has left home to practise, living on food that others give."
+    ],
+    [
+     "Middle way",
+     "The path that avoids both indulgence and self-torment."
+    ],
+    [
+     "Noble truth",
+     "There are four here: suffering, its origin, its cessation, and the way to that cessation."
+    ],
+    [
+     "Suffering",
+     "Not just pain, but anything unsatisfactory, unreliable, or impossible to keep."
+    ],
+    [
+     "Craving",
+     "A wanting that never stops, like thirst: for pleasure, for existence, for non-existence."
+    ],
+    [
+     "Noble eightfold path",
+     "The eight parts of the way out of suffering: right view, intention, speech, action, livelihood, effort, mindfulness and concentration."
+    ],
+    [
+     "Nibbāna",
+     "The going out of greed, hatred and delusion; the end point of practice."
+    ],
+    [
+     "Wheel of Dhamma",
+     "The teaching pictured as a wheel set rolling, which no one can turn back."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部经最关键的词是 dukkha。中文译「苦」，英文通常译 suffering，两个都偏向「痛苦、难受」。巴利文 dukkha 的范围宽得多：它也指「不圆满、不稳当、终究靠不住」。所以经里说「五取蕴是苦」，并不是说一切时刻都在痛，而是说凡是被抓住不放的身心，都靠不住。英文正文写 suffering，第一次出现时在注里说明这层宽义；白话写「苦」，跟古译一致。",
   "第二个差别在 taṇhā。白话写「渴爱」，英文写 craving。巴利文字面就是「口渴」，三者都保留了「想要、停不下来」的意思；但古译只写「爱」，现代中文读者容易读成「爱情、喜爱」，而 taṇhā 是一种饥渴，不是温情。经里还分三种：对欲乐、对存在、对不存在的渴爱。古译把后两种写成「色爱、不色之爱」，换成了另一套分类。",

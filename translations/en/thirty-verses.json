@@ -2,6 +2,126 @@
  "slug": "thirty-verses",
  "title": "Thirty Verses on Consciousness Only",
  "summary": "Vasubandhu in thirty verses: the “self” and the “world” are what consciousness itself projects, from the store consciousness to the final turning around.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是印度佛教「唯识」一派的一篇短论，作者是世亲，一般认为他生活在大约一千六百年前（约公元四到五世纪）。全篇三十首偈，把这一派的看法浓缩成纲要：我们说的「我」和「世界」，都是识（心的认知作用）自己变现出来的。唐朝玄奘把它译成汉文，后来中国的唯识宗就围绕它展开。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "这是论，不是经，说话的是作者世亲本人，不是佛。他没有对着某个人说，而是一首接一首地讲道理。开头和结尾两段是标题和署名，不算在三十首里。"
+  },
+  {
+   "q": "全篇讲了哪几件事",
+   "a": "前半讲识怎样「变现」：最深一层是阿赖耶识，像仓库一样存着一切种子；第二层是末那识，总是把阿赖耶识当成「我」；第三层是眼、耳、鼻、舌、身、意六种识，认出外面的东西。中间讲三种本性：凭想象安上去的、依靠条件而起的、圆满成就的。最后几首讲怎样修，修到身心的根基整个转过来（转依）。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "第 10 到 14 首是一长串心理作用的名单：哪些是善的，哪些是烦恼，哪些是跟着烦恼来的。这一段像目录，括号里给了每个词的白话，扫过去知道大概就行，不必一次记住。偈颂很浓缩，常常省掉主语；「它」多半指前面刚提到的那一种识。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词贯穿全篇，先认一下。",
+   "terms": [
+    [
+     "识",
+     "心的认知作用：看见、听见、想到、认出东西的那个作用。"
+    ],
+    [
+     "变现",
+     "识自己变化，显出「我」和种种对象的样子。"
+    ],
+    [
+     "阿赖耶识",
+     "最深一层的识，意思是「仓库」，存着过去行为留下的一切种子。"
+    ],
+    [
+     "种子",
+     "过去的行为和经验留在阿赖耶识里的潜在力量，条件到了就会生出新的东西。"
+    ],
+    [
+     "末那",
+     "第二层的识，总把阿赖耶识当成「我」，所以总带着对「我」的执着。"
+    ],
+    [
+     "习气",
+     "行为留下的痕迹，像香气熏在布上，去不掉。"
+    ],
+    [
+     "遍计所执、依他起、圆成实",
+     "三种本性：凭想象安上去的、依靠条件而起的、去掉想象之后圆满的真实。"
+    ],
+    [
+     "唯识",
+     "「只是识」：一切都只是认知的显现，没有离开心独立存在的对象。"
+    ],
+    [
+     "阿罗汉",
+     "断尽烦恼的圣者。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A short treatise of the Indian Buddhist school of \"consciousness only\", written by Vasubandhu, who is generally thought to have lived around the fourth to fifth century. In thirty verses it sums up the school's view: what we call a \"self\" and a \"world\" are projections of consciousness itself. Xuanzang put it into Chinese in the Tang dynasty, and a whole Chinese school grew up around it."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "This is a treatise, not a sutra. The speaker is the author, Vasubandhu, not the Buddha. He is not addressing anyone in particular; he simply sets out the argument verse by verse. The first and last entries are a title and a signature, not part of the thirty verses."
+  },
+  {
+   "q": "What the verses cover",
+   "a": "The first part describes how consciousness transforms: deepest is the store consciousness, holding all seeds like a storehouse; next is manas, which keeps taking the store consciousness to be \"me\"; then the six consciousnesses of eye, ear, nose, tongue, body and mind that perceive objects. The middle sets out three natures: imagined, dependent and perfected. The last verses describe the path, ending when the basis of body and mind turns around."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Verses 10 to 14 are a long list of mental factors: which are wholesome, which are afflictions, which are secondary afflictions. Treat it like a table of contents; the brackets give each term briefly, and there is no need to memorize them. The verses are compressed and often drop the subject; \"it\" usually means the consciousness just mentioned."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These run through the whole text.",
+   "terms": [
+    [
+     "Consciousness",
+     "The mind's work of knowing: seeing, hearing, thinking, recognizing."
+    ],
+    [
+     "Transformation",
+     "Consciousness changing and showing itself as a self and as objects."
+    ],
+    [
+     "Store consciousness",
+     "Alaya, \"storehouse\": the deepest consciousness, which keeps all the seeds left by past actions."
+    ],
+    [
+     "Seeds",
+     "Potential left in the store consciousness by past actions and experience, which bear new results when conditions come together."
+    ],
+    [
+     "Manas",
+     "The second consciousness, which keeps taking the store consciousness to be \"me\", and so always carries a clinging to self."
+    ],
+    [
+     "Imprints",
+     "Traces left by actions, like a scent soaked into cloth."
+    ],
+    [
+     "Imagined, dependent and perfected natures",
+     "Three ways things are: what is imagined onto them, what arises from conditions, and the reality left when imagining is gone."
+    ],
+    [
+     "Nothing but representation",
+     "Everything is only what appears in the mind; there is no object standing on its own apart from it."
+    ],
+    [
+     "Arhat",
+     "A saint who has ended all afflictions."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "这部论最关键的词是 vijñapti。中文古译和白话都写「识」，跟 vijñāna（识）用同一个字；英文传统上也常把 vijñaptimātra 译成 consciousness only（唯识）。但梵文这两个词不一样：vijñāna 是能认知的那个心，vijñapti 字面是「使人知道」，指东西在心里显现出来的样子，也就是「表象」。本站英文把 vijñāna 一律译成 consciousness，把 vijñapti 一律译成 representation，所以 vijñaptimātra 写成 nothing but representation（只是表象），书名仍沿用通行的 Consciousness Only。中文读者在「唯识」两个字里看不到这层区别，英文读者能看到。第 28 颂梵文换成 vijñānamātra（只是识），英文也跟着换成 consciousness only。",
   "第二个词是 pariṇāma。玄奘译「能变、转变」，白话写「变现」，英文写 transformation。「变现」带着「变出来给人看」的意思，比梵文多一点；梵文 pariṇāma 本义只是「变成另一个样子、成熟」，英文 transformation 比较贴近。论里说识有三种 transformation：ālayavijñāna（store consciousness，仓库识、阿赖耶识）、manas（末那，执着「我」的那个思量）、以及对六种对象的觉知。",

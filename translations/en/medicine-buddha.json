@@ -2,6 +2,126 @@
  "slug": "medicine-buddha",
  "title": "The Medicine Buddha Sutra",
  "summary": "The Buddha of the eastern Lapis Lazuli land and his twelve vows: to heal the sick, feed the hungry and clothe the cold.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这是大乘佛教的一部经，讲东方一个叫「琉璃光照」的世界，那里的佛叫药师琉璃光如来，简称药师佛。他从前发过十二个大愿：治众生的病，让饿的人吃饱、冷的人穿暖。华人熟悉的是唐朝玄奘的汉译本，常为病人、为求平安长寿而念，所以药师佛又被叫作「消灾延寿药师佛」。本站的白话照梵文翻。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "开头的「我」，传统上说是佛的弟子阿难，转述他听到的经过。前半是文殊菩萨请问，佛（经里叫「世尊」）回答，讲药师佛的十二个愿和听到他名字的好处。后半换了说话的人：佛问阿难信不信；救脱菩萨讲怎样为重病的人供养、什么是「横死」；最后十二位夜叉大将发誓保护念这部经的人。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "经里反复说「只要听到他的名字」就能免去种种苦，这是全经的核心说法，照字面读就好。十二个愿每一个都用「等我将来证得菩提」开头，中间常省略成「等我将来……证得菩提」。药师佛每次出现都带着一长串称号，第一次之后可以跳着读。经里有些话反映当时的观念，例如第八愿说女人厌恶女身、愿转为男身，译文照原文保留。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "经里提到的阎罗（审判死人的王）、饿鬼、夜叉、罗刹，以及生死轮回、按善恶投生，都是当时印度人共有的世界观，经文直接拿来用，不加解释。「末后的时代」指佛去世很久以后，正法只剩个样子的时代；经文说那时的人更需要这部经。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现。",
+   "terms": [
+    [
+     "世尊",
+     "对佛的尊称，这里指释迦牟尼佛。"
+    ],
+    [
+     "如来",
+     "佛的称号，意思是「如实而来的人」。"
+    ],
+    [
+     "药师琉璃光如来",
+     "东方琉璃光照世界的佛，「药师」是治病的老师，「琉璃」是一种青色宝石。"
+    ],
+    [
+     "菩提",
+     "觉悟。「证得菩提」就是成佛。"
+    ],
+    [
+     "恶道",
+     "痛苦的投生去处，通常指地狱、饿鬼、畜生三种，也叫三恶道。"
+    ],
+    [
+     "横死",
+     "不该死的时候死去，比如没药医、被害、意外。"
+    ],
+    [
+     "八支斋戒",
+     "在家人在一段时间里守的八条戒，如不杀生、过午不吃东西。"
+    ],
+    [
+     "夜叉",
+     "印度传说里的一类鬼神，有的害人，有的护法。"
+    ],
+    [
+     "善男子、善女人",
+     "佛经对一般信众的称呼。"
+    ]
+   ]
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "A Mahayana Buddhist sutra about a world in the east called Lapis Radiance, whose buddha is the Medicine Master of Lapis Light, often called the Medicine Buddha. Long ago he made twelve great vows: to heal the sick, feed the hungry and clothe the cold. The best-known Chinese version is Xuanzang's, from the Tang dynasty, and it is often chanted for the sick and for safety and long life. This site follows the Sanskrit."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The opening \"I\" is, by tradition, Ananda, the Buddha's disciple, retelling what he heard. In the first half the bodhisattva Manjushri asks and the Buddha (\"the Blessed One\") answers, telling of the twelve vows and the good of hearing this buddha's name. Then the speakers change: the Buddha asks Ananda whether he believes; the bodhisattva Deliverer explains how to make offerings for the gravely ill and what untimely deaths are; last, twelve yaksha generals vow to protect those who keep the sutra."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "Again and again the sutra says that just hearing his name frees people from all sorts of suffering; this is the center of the text and can be read as it stands. Each of the twelve vows opens with \"When in the future I awaken\", often shortened with dots. The Medicine Buddha's name comes with a long string of titles that can be skimmed after the first time. Some passages reflect the views of the time, such as the eighth vow, for women who wish to be reborn as men; the translation keeps them as written."
+  },
+  {
+   "q": "The background",
+   "a": "Yama (the king who judges the dead), hungry ghosts, yakshas, rakshasas, and rebirth according to one's deeds were part of the world view people in India shared at the time, and the sutra uses them without explaining. \"The last age\" means a time long after the Buddha's death, when only the outward look of the true teaching remains; the sutra says people then will need it most."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Blessed One",
+     "A title of the Buddha; here Shakyamuni."
+    ],
+    [
+     "Tathagata",
+     "A title of a buddha, \"the one who has come thus\"."
+    ],
+    [
+     "Medicine Master of Lapis Light",
+     "The buddha of the eastern world Lapis Radiance; lapis is a deep blue gemstone."
+    ],
+    [
+     "Awakening",
+     "Bodhi. To awaken fully is to become a buddha."
+    ],
+    [
+     "Lower realms",
+     "Painful places of rebirth, usually hell, hungry ghosts and animals."
+    ],
+    [
+     "Untimely death",
+     "Dying before one's time: for lack of medicine, by violence, by accident."
+    ],
+    [
+     "Eight-part fast",
+     "Eight rules lay people keep for a set time, such as not killing and not eating after midday."
+    ],
+    [
+     "Yaksha",
+     "A kind of spirit in Indian lore; some harm people, some protect the teaching."
+    ],
+    [
+     "Son or daughter of good family",
+     "The sutra's way of addressing ordinary believers."
+    ]
+   ]
+  }
+ ],
  "compare": [
   "先说佛名。梵文 Bhaiṣajyaguru-vaidūrya-prabha-rāja 是「药的老师、琉璃光之王」。英文通称 Medicine Buddha，本站正文写 Medicine Master of Lapis Light，第一次出现时把四个部分都译出来。vaidūrya 是一种蓝色宝石，到底是今天的青金石、绿柱石还是猫眼石，学界说法不一；中文「琉璃」今天多指玻璃，英文 lapis lazuli 又太确定。白话、英文都只能取一个近似，读者知道它是「深蓝、透亮的宝石」就够了。",
   "第二个差别在誓愿的措辞。梵本的十二大愿每条开头都是「等我将来证得无上正等正觉的时候……」，后面几条把这句缩成一串破折号（原稿就是这样省略的），英文照样用省略号。玄奘的译文更完整、更整齐，也常比梵本多出几句，例如第八愿梵本只说「她不再是女身」，玄奘明写「转女成男，具丈夫相」；第十一愿玄奘多了「后以法味，毕竟安乐」。英文照梵本，这些差别在各段的对照注里标出。",

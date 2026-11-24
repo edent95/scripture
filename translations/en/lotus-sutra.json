@@ -2,6 +2,150 @@
  "slug": "lotus-sutra",
  "title": "The Lotus Sutra",
  "summary": "The Buddha says the different paths he taught before were skillful means fitted to each listener; in the end there is only one path, and everyone can become a buddha.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "《法华经》全名《妙法莲华经》，是大乘佛教（以人人成佛、救度众生为目标的一派佛教）的经典，在中国、日本流传很广。一般认为它约在两千年前，大约公元前一世纪到公元二世纪之间，在印度陆续写成。中国最通行的是鸠摩罗什约在公元 406 年译出的本子。本站的白话从梵文本直译，分章和次序跟鸠摩罗什本不完全一样：经题和敬礼单独算第 1 章，提婆达多的故事并在第 12 章，「嘱累品」放在最后。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "说话的主要是佛，也就是释迦牟尼，经里常称他「世尊」「如来」。地点是古印度王舍城外的灵鹫山，听的人有出家弟子、菩萨，还有天神、龙等各类神灵。前几章佛多半在对大弟子舍利弗说话，这时的「你」就是舍利弗；后面换成弥勒、药王、文殊等菩萨来问，每章开头都会交代。弟子们也常站出来讲一个比喻，表示自己听懂了。佛讲完前世的故事，常说「那时的某某，就是我」。"
+  },
+  {
+   "q": "这部经要说的是哪一件事",
+   "a": "在这部经之前，佛教把修行的人分成几种：听佛讲道、求自己解脱的弟子（声闻），不靠老师自己悟道的人（独觉），以及发愿成佛、救度一切众生的菩萨。很多大弟子已经断尽烦恼，以为到了终点。这部经说：分成几条路，只是佛看人说话的办法，其实只有一条路，人人最后都会成佛。所以经里佛一个接一个地预言弟子们将来成佛。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是数字大得吓人：恒河沙、那由他、劫，只是在说多到数不清、久到算不出。二是重复：一段话讲完，常用偈颂（诗句）再讲一遍；每次预言某人成佛，都要列一串佛的称号和那个国土的样子。三是这部经常常称赞自己，讲抄写、背诵、讲说它有多大福德；经里说「这部法门」，指的就是这部经本身。"
+  },
+  {
+   "q": "经里有名的比喻",
+   "a": "这部经爱用故事讲道理，传统上说有「法华七喻」：着火的房子和三种车（第 4 章），离家五十年的穷儿子（第 5 章），一场雨滋润大小草木（第 6 章），荒野里变出来歇脚的城（第 8 章），缝在衣角里的宝珠（第 9 章），国王头顶最后才赏出的宝珠（第 14 章），假称已死、让孩子肯吃药的医生（第 16 章）。读到不懂的道理，先看它配的是哪个比喻。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词会反复出现，先认一下。",
+   "terms": [
+    [
+     "世尊、如来、善逝",
+     "都是对佛的尊称，指的是同一个人。"
+    ],
+    [
+     "菩萨",
+     "发愿要成佛、也要帮所有众生解脱的修行人。「菩萨大士」是对大菩萨的尊称。"
+    ],
+    [
+     "声闻、独觉",
+     "声闻是听佛讲道而修行、求自己解脱的弟子；独觉是不靠老师、自己悟道的人。"
+    ],
+    [
+     "阿罗汉",
+     "断尽烦恼、死后不再投生的修行人。许多大弟子已经是阿罗汉。"
+    ],
+    [
+     "涅槃",
+     "烦恼熄灭、脱离生死的境界。佛去世也叫「入涅槃」。"
+    ],
+    [
+     "一乘、三乘、佛乘",
+     "乘是车，也就是路。三乘指声闻、独觉、菩萨三条路；这部经说其实只有一乘，就是成佛的路（佛乘）。"
+    ],
+    [
+     "善巧方便",
+     "看对方听得懂什么就说什么的本领，例如父亲用玩具车把孩子引出着火的房子。"
+    ],
+    [
+     "授记",
+     "佛预言某人将来会成佛，并说出他的佛名、国土和寿命。"
+    ],
+    [
+     "无上正等正觉",
+     "佛的觉悟：最高、最完全的那一种。"
+    ],
+    [
+     "劫",
+     "极长的一段时间，长到没法用年来算。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "先读第 3 章，佛说只有一条成佛的路；接着读第 4、5 章火宅和穷儿子的比喻，再读第 16 章，佛说自己的寿命长得算不出。想看故事，可以读第 12 章的宝塔和龙女、第 20 章的常不轻菩萨、第 25 章的观世音菩萨。第 2 章是开场，场面大、人名多，可以放到后面再读。每章先看「这一章在讲什么」，再读正文；括号（）里的字是本站补上去帮你看懂的，不是经文本身。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What this book is",
+   "a": "The Lotus Sutra, in full the Lotus of the True Dharma, is a scripture of the Great Vehicle (Mahayana), the branch of Buddhism whose goal is for everyone to become a buddha and to free all beings. It has been widely read in China and Japan. It is generally thought to have taken shape in India about two thousand years ago, between roughly the first century BCE and the second century CE. The best-known Chinese version is Kumarajiva's, made around 406 CE. This site translates the Sanskrit text, whose chapters are divided and ordered a little differently: the title and homage form chapter 1, the Devadatta story sits inside chapter 12, and the Entrusting comes last."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "The speaker is mostly the Buddha, Shakyamuni, often called the Blessed One or the Tathagata. The setting is Vulture Peak outside the city of Rajagriha in ancient India. Listening are monks and nuns, bodhisattvas, and gods, nagas and other beings. In the early chapters the Buddha mostly addresses his senior disciple Shariputra, so \"you\" means him; later, bodhisattvas such as Maitreya, Bhaishajyaraja and Manjushri ask the questions, and each chapter says who. Disciples often answer with a parable of their own to show they have understood. After a story of the past the Buddha often says, \"that person then was I.\""
+  },
+  {
+   "q": "The one point this sutra makes",
+   "a": "Before this sutra, Buddhists spoke of several kinds of practitioners: disciples who hear the Buddha and seek their own release, solitary buddhas who wake up without a teacher, and bodhisattvas who vow to become buddhas and free all beings. Many senior disciples had ended their afflictions and thought they had arrived. This sutra says that the separate paths were only the Buddha's way of meeting people where they were; there is really one path, and in the end everyone becomes a buddha. That is why the Buddha goes on to predict, one by one, that his disciples will become buddhas."
+  },
+  {
+   "q": "Where readers get stuck",
+   "a": "First, the numbers are enormous: sands of the Ganges, nayutas, eons. They simply mean too many to count and too long to measure. Second, repetition: a passage is often retold in verse, and each prediction lists the same string of a buddha's titles and a description of his land. Third, the sutra keeps praising itself and the merit of copying, reciting and teaching it; when it says \"this Dharma discourse\", it means this sutra."
+  },
+  {
+   "q": "The famous parables",
+   "a": "The sutra teaches through stories. Tradition counts seven parables: the burning house and the three carts (chapter 4), the son who wandered fifty years (chapter 5), one rain for plants of every size (chapter 6), the conjured city where travelers rest (chapter 8), the jewel sewn into a robe (chapter 9), the king's crown jewel, given last (chapter 14), and the doctor who pretends to die so his sons will take their medicine (chapter 16). When a teaching is unclear, look for the parable that goes with it."
+  },
+  {
+   "q": "Words you will keep meeting",
+   "a": "These come up again and again.",
+   "terms": [
+    [
+     "Blessed One, Tathagata, Sugata",
+     "Titles of the Buddha; all three mean the same person."
+    ],
+    [
+     "Bodhisattva",
+     "Someone who vows to become a buddha and to help all beings be free. \"Great being\" is an honorific for great bodhisattvas."
+    ],
+    [
+     "Disciples (shravakas), solitary buddhas",
+     "Disciples hear the Buddha and seek their own release; solitary buddhas awaken on their own without a teacher."
+    ],
+    [
+     "Arhat",
+     "One who has ended all afflictions and will not be reborn. Many senior disciples are already arhats."
+    ],
+    [
+     "Nirvana",
+     "The state where afflictions are put out and birth and death are left behind. A buddha's death is also called entering nirvana."
+    ],
+    [
+     "One vehicle, three vehicles, buddha vehicle",
+     "A vehicle is a cart, that is, a path. The three are the paths of disciples, solitary buddhas and bodhisattvas; this sutra says there is really one, the path to buddhahood."
+    ],
+    [
+     "Skillful means",
+     "The skill of saying what a listener can take in, like the father who lures his children out of a burning house with toy carts."
+    ],
+    [
+     "Prediction",
+     "The Buddha's declaration that someone will become a buddha, with that buddha's name, land and lifespan."
+    ],
+    [
+     "Unsurpassed, perfect awakening",
+     "A buddha's awakening: the highest and most complete kind."
+    ],
+    [
+     "Eon (kalpa)",
+     "An immensely long stretch of time, too long to count in years."
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "Start with chapter 3, where the Buddha says there is only one path to buddhahood. Then read the parables of the burning house and the lost son in chapters 4 and 5, and chapter 16, where the Buddha says his life is longer than anyone can count. For stories, try the jeweled stupa and the naga king's daughter in chapter 12, the bodhisattva Sadaparibhuta in chapter 20, and Avalokiteshvara in chapter 25. Chapter 2, the opening scene, is crowded with names and can wait. Read \"What this chapter says\" before each chapter."
+  }
+ ],
  "compare": [
   "前半部（第 1–14 章）最要紧的是两个词：upāya-kauśalya 和 yāna。upāya-kauśalya 字面是「在方法上的巧妙」，英文写 skillful means，白话写「善巧方便」；鸠摩罗什只用「方便」两个字，现代中文里「方便」已经是「省事、顺手」的意思，读者很容易把佛陀的苦心看成「图省事」。yāna 是「车、乘具」，英文 vehicle、中文「乘」都保留了「载人走路的东西」这个画面，所以火宅譬喻里的三辆车能直接对上三乘，三种语言在这里难得一致。但怎么配对有出入：梵文是鹿车配声闻乘、羊车配独觉乘、牛车配菩萨乘；鸠摩罗什把前两辆对调成「羊车—声闻、鹿车—辟支佛」，第三乘又写成「佛乘」，汉传的说法都从他来。英文照梵文走。经名也一样：梵文 Saddharmapuṇḍarīka 是「正法的白莲花」，英文照字面写 Lotus of the True Dharma，鸠摩罗什译成「妙法莲华」，「正」变成了「妙」，白色也没有了。",
   "第二个差别在鸠摩罗什本和梵本的出入。最出名的是第 3 章：梵本说佛知道诸法「是什么、怎样、像什么、有什么特征、有什么本性」五项，鸠摩罗什写成「如是相、如是性……如是本末究竟等」十项，后来成了天台宗「十如是」的根据；英文和白话照梵文只有五项。第 12 章梵本把提婆达多和龙女的故事放在宝塔品里，鸠摩罗什通行本另立一品；梵本每章结尾的品次（「第十一品」等）也因此和本站的章号对不上。各处授记（vyākaraṇa，英文 prediction，中文「授记」）里的佛名、劫名、数目，鸠摩罗什常常改写或取整，逐段对照注里都标了出来。",
@@ -17,6 +161,7 @@
  "chapters": [
   {
    "title": "Chapter 1 · Title and Opening Homage",
+   "intro": "The title and an opening homage: the sutra gives its name, the Lotus of the True Dharma, and bows to all buddhas and bodhisattvas. The teaching itself begins in the next chapter.",
    "verses": [
     {
      "h": "539a517a",
@@ -37,6 +182,7 @@
   },
   {
    "title": "Chapter 2 · Introduction",
+   "intro": "On Vulture Peak, before a huge crowd of monks, bodhisattvas and gods, the Buddha goes into meditation. Flowers rain down, the earth shakes, and a light from between his brows shows eighteen thousand worlds. Maitreya asks what it means. Manjushri says he saw the same sign long ago, just before an ancient buddha taught this very sutra.",
    "verses": [
     {
      "h": "32ea9585",
@@ -827,6 +973,7 @@
   },
   {
    "title": "Chapter 3 · Skillful Means",
+   "intro": "Coming out of meditation, the Buddha tells Shariputra that a buddha's wisdom is hard to grasp and will not say more. After three requests, and after some five thousand proud listeners walk out, he explains: buddhas appear for one purpose, to bring beings to a buddha's wisdom. There is only one vehicle; three were taught as skillful means.",
    "verses": [
     {
      "h": "e619f94e",
@@ -1951,6 +2098,7 @@
   },
   {
    "title": "Chapter 4 · A Parable",
+   "intro": "Shariputra understands and is told he will become a buddha. For the others, the Buddha tells of a burning house: children keep playing until their father promises goat, deer and ox carts outside. Once they are safe he gives each the same splendid cart. The three carts are the three paths; the great cart is buddhahood.",
    "verses": [
     {
      "h": "8dd2f3f9",
@@ -3217,6 +3365,7 @@
   },
   {
    "title": "Chapter 5 · Faith and Understanding",
+   "intro": "Four senior disciples answer with a parable. A son who ran away wanders poor for fifty years and stumbles on his rich father's house, then flees in fright. The father hires him to clear dung, raises him step by step, and only on his deathbed names him heir. They were that son, content with a day's wage.",
    "verses": [
     {
      "h": "96a9ce72",
@@ -3733,6 +3882,7 @@
   },
   {
    "title": "Chapter 6 · The Medicinal Herbs",
+   "intro": "The Buddha tells Mahakashyapa his teaching is like one rain falling on every plant; each grows to its own size. He adds a potter making different jars from one clay, and a man born blind who, once healed, thinks he sees everything until sages show how much he lacks. Disciples who stop at their own release are like him.",
    "verses": [
     {
      "h": "5227546b",
@@ -4349,6 +4499,7 @@
   },
   {
    "title": "Chapter 7 · Predictions",
+   "intro": "The Buddha predicts that Mahakashyapa will become a buddha and describes his land. Subhuti, Mahakatyayana and Mahamaudgalyayana say they are like starving men holding food they have not yet been told to eat, and ask for the same. The Buddha predicts buddhahood for each, naming their future names, lands and lifespans.",
    "verses": [
     {
      "h": "1acca966",
@@ -4696,6 +4847,7 @@
   },
   {
    "title": "Chapter 8 · Former Ties: The Phantom City",
+   "intro": "The Buddha tells of an ancient buddha who sat ten eons before awakening and was begged to teach by his sixteen sons and by gods from every direction. The sons became monks, taught this sutra, and are now buddhas; the sixteenth is Shakyamuni. Then a parable: a guide conjures a city so weary travelers can rest before the real goal.",
    "verses": [
     {
      "h": "99b6aa08",
@@ -5831,6 +5983,7 @@
   },
   {
    "title": "Chapter 9 · Predictions for the Five Hundred Monks",
+   "intro": "The Buddha praises Purna, the finest teacher in every age, a bodhisattva disguised as an ordinary disciple, and predicts his buddhahood, then that of five hundred arhats led by Kaundinya. They reply with a parable: a friend sewed a priceless jewel into a drunk man's robe, yet he lived poor for years until the friend showed him.",
    "verses": [
     {
      "h": "03f66f87",
@@ -6210,6 +6363,7 @@
   },
   {
    "title": "Chapter 10 · Predictions for Ananda, Rahula and Two Thousand Others",
+   "intro": "Ananda, the Buddha's attendant, and Rahula, his son, ask for a prediction and receive one. When some bodhisattvas wonder at it, the Buddha explains that he and Ananda set out together long ago; Ananda chose to hear and remember much, he chose effort. Two thousand more disciples are told they will all become buddhas at the same moment.",
    "verses": [
     {
      "h": "c03817f3",
@@ -6436,6 +6590,7 @@
   },
   {
    "title": "Chapter 11 · The Dharma Teacher",
+   "intro": "The Buddha tells Bhaishajyaraja that anyone who gladly hears one verse of this sutra will become a buddha. Those who keep, teach or copy it are the Tathagata's messengers; insulting them is worse than insulting a buddha. Where it is kept, build a stupa. Teach from the room of kindness, in the robe of patience, on the seat of emptiness.",
    "verses": [
     {
      "h": "802f4320",
@@ -6760,6 +6915,7 @@
   },
   {
    "title": "Chapter 12 · The Stupa Appears (with the Story of Devadatta)",
+   "intro": "A huge jeweled stupa rises from the ground. Inside sits Prabhutaratna, a long-departed buddha who vowed to bear witness wherever this sutra is taught. Shakyamuni gathers his emanations, opens the stupa and sits beside him, then asks who will spread the sutra after his death. Then come Devadatta's past life and the naga king's eight-year-old daughter becoming a buddha.",
    "verses": [
     {
      "h": "e67dafec",
@@ -7463,6 +7619,7 @@
   },
   {
    "title": "Chapter 13 · Taking Up the Sutra with Courage",
+   "intro": "Bhaishajyaraja and other bodhisattvas vow to spread the sutra after the Buddha's death; many disciples will do it only in other worlds, since people here are too hard. The Buddha predicts buddhahood for his foster-mother Gautami and his former wife Yashodhara. A great host of bodhisattvas vow to endure insults, beatings and expulsion to keep the sutra alive.",
    "verses": [
     {
      "h": "2e597af9",
@@ -7695,6 +7852,7 @@
   },
   {
    "title": "Chapter 14 · Living at Ease",
+   "intro": "Manjushri asks how this sutra should be taught in the bad times to come. The Buddha names four things: guard your conduct and company and see all things as empty; find no fault with other teachers; never envy or tell anyone they cannot become a buddha; hold kindness toward all. Like a king's crown jewel, this sutra is given last.",
    "verses": [
     {
      "h": "884520e7",
@@ -8292,6 +8450,7 @@
   },
   {
    "title": "Chapter 15 · Bodhisattvas Rising Up Out of the Earth",
+   "intro": "Bodhisattvas from other worlds offer to stay and spread the sutra; the Buddha declines. The earth splits and countless golden bodhisattvas rise from beneath it, led by four. Maitreya is puzzled: the Buddha awakened only some forty years ago. It is like a man of twenty-five calling hundred-year-olds his sons. He asks for an explanation.",
    "verses": [
     {
      "h": "9629f14e",
@@ -8850,6 +9009,7 @@
   },
   {
    "title": "Chapter 16 · How Long the Tathagata Lives",
+   "intro": "The Buddha answers: people think he awakened in this life, but he became a buddha an incalculable time ago and his life is not over. He speaks of dying so people will not grow careless. Parable: a doctor's poisoned sons refuse medicine, so he goes away and sends word he has died. Grieving, they take it, and he returns.",
    "verses": [
     {
      "h": "1c95df11",
@@ -9163,6 +9323,7 @@
   },
   {
    "title": "Chapter 17 · Ways of Counting Merit",
+   "intro": "As the teaching on the Buddha's lifespan sinks in, countless bodhisattvas advance and flowers rain down. The Buddha tells Maitreya that trusting it even for a moment outweighs ages of giving, discipline, patience, effort and meditation. Whoever keeps this sutra after his death has in effect built stupas and monasteries; wherever such a person stays deserves a stupa.",
    "verses": [
     {
      "h": "645428fc",
@@ -9651,6 +9812,7 @@
   },
   {
    "title": "Chapter 18 · The Merit of Rejoicing",
+   "intro": "Maitreya asks how much merit comes from hearing this sutra with joy. The Buddha says: pass it from person to person; the fiftieth, hearing one verse and rejoicing, gains more than a patron who gave countless beings everything for eighty years and then made them all arhats. Even hearing it briefly, or urging another to, brings reward.",
    "verses": [
     {
      "h": "781119ab",
@@ -9858,6 +10020,7 @@
   },
   {
    "title": "Chapter 19 · The Blessings of a Dharma Teacher",
+   "intro": "The Buddha tells Satatasamitabhiyukta that whoever keeps, teaches or copies this sutra will have all six senses purified. With ordinary eyes they see the whole universe; they hear every sound, smell where each being is, taste plain food as delicious; their body mirrors the world like crystal, and one verse gives them a year of teaching.",
    "verses": [
     {
      "h": "c41309d5",
@@ -10392,6 +10555,7 @@
   },
   {
    "title": "Chapter 20 · The Bodhisattva Sadaparibhuta",
+   "intro": "The Buddha tells Mahasthamaprapta of a past life. As an ancient buddha's teaching decayed, a monk recited nothing but told everyone, \"I do not look down on you; you will all become buddhas.\" Mocked and beaten, he was called Sadaparibhuta. Dying, he heard this sutra, lived on to teach it, and won over his critics. That monk was the Buddha.",
    "verses": [
     {
      "h": "de8f0148",
@@ -10591,6 +10755,7 @@
   },
   {
    "title": "Chapter 21 · The Tathagata's Display of Supernatural Power",
+   "intro": "The bodhisattvas who rose from the earth vow to spread the sutra after the Buddha's death. Shakyamuni and Prabhutaratna stretch their tongues up to the heavens and shine for a hundred thousand years, then clear their throats and snap their fingers, shaking every world so all can see this gathering. Every buddha's secret, the Buddha says, is in this sutra.",
    "verses": [
     {
      "h": "fb327552",
@@ -10813,6 +10978,7 @@
   },
   {
    "title": "Chapter 22 · Dharanis, Protective Spells",
+   "intro": "Bhaishajyaraja asks about the merit of keeping this sutra; one verse, the Buddha says, outweighs honoring countless buddhas. Then two bodhisattvas, two guardian kings, ten rakshasa women and Hariti, mother of demons, each offer a dharani, a protective spell, vowing to guard those who teach it. The spells are left untranslated.",
    "verses": [
     {
      "h": "e2c1ba50",
@@ -11056,6 +11222,7 @@
   },
   {
    "title": "Chapter 23 · The Former Life of Bhaishajyaraja, the Medicine King",
+   "intro": "Asked about Bhaishajyaraja's past, the Buddha tells how he once ate incense and drank oil for twelve years, then set his own body alight as an offering that burned for twelve hundred years. Reborn, he burned his arm before a buddha's stupas and by a vow made it whole again. The chapter ends praising this sutra as king of sutras.",
    "verses": [
     {
      "h": "ccce3641",
@@ -11454,6 +11621,7 @@
   },
   {
    "title": "Chapter 24 · The Bodhisattva Gadgadasvara",
+   "intro": "Light from the Buddha's brow reaches an eastern world, and the bodhisattva Gadgadasvara sets out to visit. His own buddha warns him not to look down on this rough world and its small people. He arrives at Vulture Peak with many bodhisattvas. The Buddha explains that he takes every kind of form, king, merchant, woman, spirit, to teach.",
    "verses": [
     {
      "h": "237e9e53",
@@ -11725,6 +11893,7 @@
   },
   {
    "title": "Chapter 25 · Avalokiteshvara, the Gateway Facing Every Direction",
+   "intro": "Asked why Avalokiteshvara bears that name, the Buddha says whoever calls on him is saved from fire, flood, the executioner's sword, chains and robbers. He takes whatever form will help, a buddha, a god, a general, and so is called the giver of fearlessness. The closing verses repeat the rescues and speak of Amitabha's western land of bliss.",
    "verses": [
     {
      "h": "308a0f96",
@@ -12184,6 +12353,7 @@
   },
   {
    "title": "Chapter 26 · The Former Life of King Shubhavyuha",
+   "intro": "The Buddha tells an old story: King Shubhavyuha followed the brahmins, but his two sons wanted to hear this sutra. At their mother's urging they worked wonders in the air; the king was won over, and the whole family went to the buddha and left home. The king called his sons his teachers. They were Bhaishajyaraja and Bhaishajyasamudgata.",
    "verses": [
     {
      "h": "e4b0a6dd",
@@ -12452,6 +12622,7 @@
   },
   {
    "title": "Chapter 27 · Samantabhadra's Encouragement",
+   "intro": "Samantabhadra arrives from the east to hear the sutra. He vows to guard its teachers in the last age: riding a six-tusked white elephant, he will appear to them, restore any words they forget, and give them a protective spell. Those who copy it will be reborn among the gods. The Buddha praises him: greet such teachers as a buddha.",
    "verses": [
     {
      "h": "3e3aba05",
@@ -12678,6 +12849,7 @@
   },
   {
    "title": "Chapter 28 · The Entrusting",
+   "intro": "The Buddha rises, takes the bodhisattvas by the hand, and three times entrusts his awakening and this sutra to them, asking them to share it freely. Three times they agree. He sends the visiting buddhas home and returns Prabhutaratna's stupa to its place, and all rejoice. A closing verse says the Buddha taught the causes of things and their ending.",
    "verses": [
     {
      "h": "8141b01e",
