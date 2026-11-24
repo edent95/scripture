@@ -7,6 +7,7 @@ export const TRADITIONS = {
   buddhism: { zh: '佛经', en: 'Buddhist sūtras' },
   theravada: { zh: '巴利文经典', en: 'Pali Canon' },
   hinduism: { zh: '印度经典', en: 'Hindu classics' },
+  chinese: { zh: '中国经典', en: 'Chinese classics' },
 };
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -20,7 +21,7 @@ function needText(value, where) {
 }
 
 /**
- * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
+ * 一部书：{ slug, tradition, origLang?（sa 梵文，缺省 / pi 巴利文 / lzh 文言：原文是汉字，sa.tr 可以为空，指纹改用 sa.text）, title, sanskrit（原文书名）, oldTranslator?, summary, chapters[] }
  *   章还可以带 intro（这一章在讲什么，白话导读，显示在经文前面）；英文导读写在英译叠加层那一章的 intro。
  * 一段：{ zh 白话直译, sa: { text 天城体, tr 罗马转写 }, old?: { who, text, plain, notes[{ w, note }] } }
  */
@@ -28,7 +29,7 @@ export function validateBook(book, file) {
   need(SLUG.test(book.slug ?? ''), file, `slug 不合法: ${book.slug}`);
   need(file.endsWith(`${book.slug}.json`), file, '文件名必须等于 slug');
   need(TRADITIONS[book.tradition], file, `未知 tradition: ${book.tradition}`);
-  need(book.origLang === undefined || ['sa', 'pi'].includes(book.origLang), file, `origLang 只能是 sa 或 pi: ${book.origLang}`);
+  need(book.origLang === undefined || ['sa', 'pi', 'lzh'].includes(book.origLang), file, `origLang 只能是 sa、pi 或 lzh: ${book.origLang}`);
   needText(book.title, `${file} title`);
   needText(book.sanskrit, `${file} sanskrit`);
   needText(book.summary, `${file} summary`);
@@ -41,7 +42,8 @@ export function validateBook(book, file) {
       const vat = `${at}.verses[${j}]`;
       needText(v.zh, `${vat}.zh`);
       needText(v.sa?.text, `${vat}.sa.text`);
-      needText(v.sa?.tr, `${vat}.sa.tr`);
+      // 文言（lzh）的原文就是汉字，没有罗马转写这一行
+      if (book.origLang !== 'lzh') needText(v.sa?.tr, `${vat}.sa.tr`);
       if (v.old !== undefined) {
         need(isText(v.old.text) || v.old.notes?.length, vat, 'old 既没有古译原句也没有注');
         for (const n of v.old.notes ?? []) {
@@ -55,7 +57,7 @@ export function validateBook(book, file) {
 }
 
 /** 一段梵文的指纹：英译按它对齐。面板重新导入后梵文变了，指纹就对不上，构建直接报错。 */
-export const verseKey = (v) => createHash('sha1').update(v.sa.tr.normalize('NFC')).digest('hex').slice(0, 8);
+export const verseKey = (v) => createHash('sha1').update((v.sa.tr || v.sa.text).normalize('NFC')).digest('hex').slice(0, 8);
 
 /**
  * 英译叠加层 translations/en/<slug>.json（本站自己从梵文直译，不经面板导入，导入脚本不会碰它）：

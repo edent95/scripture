@@ -21,17 +21,17 @@ const books = loadBooks().length;
 const COPY = {
   zh: {
     lang: 'zh-Hans',
-    kicker: `梵文 · 巴利文经典 / ${books} 部`,
-    title: '梵文经书白话直译',
-    names: '心经 · 金刚经 · 大悲咒 · 药师经 · 薄伽梵歌',
-    line: '逐段对照：白话直译 · 古代汉译 · 梵文原文',
+    kicker: `梵文 · 巴利文 · 文言 / ${books} 部`,
+    title: '经书白话直译',
+    names: '心经 · 金刚经 · 道德经 · 薄伽梵歌 · 法句经',
+    line: '逐段对照：白话 · 古代汉译 · 原文',
   },
   en: {
     lang: 'en',
-    kicker: `Sanskrit · Pali / ${books} classics`,
-    title: 'Sanskrit Scriptures, Plainly',
-    names: 'Heart Sutra · Bhagavad Gita · Dhammapada',
-    line: 'Passage by passage, beside the Sanskrit or Pali',
+    kicker: `Sanskrit · Pali · Classical Chinese / ${books} classics`,
+    title: 'Scriptures, Plainly',
+    names: 'Heart Sutra · Bhagavad Gita · Tao Te Ching',
+    line: 'Passage by passage, beside the original',
   },
 };
 

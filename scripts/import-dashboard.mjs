@@ -53,6 +53,8 @@ const BOOKS = [
     { orig: { name: 'GRETIL（Chowkhamba 1970 本；第 66 颂取 Ruzsa 校本）', en: 'GRETIL (Chowkhamba 1970; verse 66 from Ruzsa’s edition)', url: GRETIL, license: NC }, old: cbeta('T54n2137') }],
   ['sa-upanishads', 'upanishads', 'hinduism', '三部古印度奥义书，讲「自我」和宇宙根本「梵」的关系：伊莎篇讲舍弃与享用；蛙氏篇用「唵」的三个音讲醒、梦、熟睡和第四种状态；羯陀篇是少年那支凯多向死神追问人死后去哪里。',
     { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', en: 'GRETIL (Īśā: Kāṇva recension; Māṇḍūkya: input by Samuels; Kaṭha: after Olivelle 1998)', url: GRETIL, license: NC } }],
+  ['lzh-daodejing', 'tao-te-ching', 'chinese', '老子五千字，八十一章：讲「道」是什么，人怎样顺着它过日子、治理国家：不争、处下、少一点干预。',
+    { orig: { name: '维基文库《道德經 (王弼本)》', en: 'Chinese Wikisource, Daodejing (Wang Bi edition)', url: 'https://zh.wikisource.org/wiki/道德經_(王弼本)', license: '公有领域；录文 CC BY-SA 4.0', licenseEn: 'public domain text; transcription CC BY-SA 4.0' } }],
 ];
 
 /** 面板 prose 格式 -> 本站的 chapters[]。导入和 check-dashboard-book.mjs 共用。 */
@@ -99,7 +101,7 @@ BOOKS.forEach(([id, slug, tradition, summary, source], order) => {
     slug,
     order,
     tradition,
-    ...(id.startsWith('pi-') ? { origLang: 'pi' } : {}),
+    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('lzh-') ? { origLang: 'lzh' } : {}),
     title: meta.title.replace(/^《(.+?)》.*$/, '$1'),
     sanskrit: meta.author.trim(),
     ...(oldTranslator ? { oldTranslator } : {}),

@@ -13,7 +13,7 @@ const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
 test('梵文、巴利文书架二十四部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 24);
+  assert.equal(books.length, 25);
 });
 
 test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {

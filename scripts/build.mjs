@@ -44,11 +44,11 @@ const T = {
   zh: {
     htmlLang: 'zh-Hans',
     prefix: '',
-    siteName: '梵文经书白话直译',
+    siteName: '经书白话直译',
     siteSub: '',
     home: '首页',
     sitemap: '网站地图',
-    footer: '梵文、巴利文原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
+    footer: '梵文、巴利文、文言原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
     notFound: '找不到这一页',
     backHome: '回到首页',
     cols: '显示哪几栏',
@@ -78,16 +78,16 @@ const T = {
     coverAlt: (name) => `《${name}》封面插画`,
     // 分享图(scripts/og-image.mjs 生成):站名、几部常搜的经名、莲花线稿
     ogImage: '/og-zh.jpg',
-    ogAlt: '梵文经书白话直译的分享图：心经、金刚经、大悲咒等经名，旁边一朵莲花线稿',
+    ogAlt: '经书白话直译的分享图：心经、金刚经、大悲咒等经名，旁边一朵莲花线稿',
   },
   en: {
     htmlLang: 'en',
     prefix: '/en',
-    siteName: 'Sanskrit Scriptures, Plainly',
+    siteName: 'Scriptures, Plainly',
     siteSub: '',
     home: 'Home',
     sitemap: 'Sitemap',
-    footer: 'The Sanskrit and Pali texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
+    footer: 'The Sanskrit, Pali and Classical Chinese texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
     notFound: 'Page not found',
     backHome: 'Back to home',
     cols: 'Columns to show',
@@ -116,7 +116,7 @@ const T = {
     primerMeta: (n, min) => `${n} notes · about ${min} min`,
     coverAlt: (name) => `Cover illustration for ${name}`,
     ogImage: '/og-en.jpg',
-    ogAlt: 'Sanskrit Scriptures, Plainly: Heart Sutra, Bhagavad Gita and Dhammapada in plain English, beside a line drawing of a lotus',
+    ogAlt: 'Scriptures, Plainly: Heart Sutra, Bhagavad Gita and Dhammapada in plain English, beside a line drawing of a lotus',
   },
 };
 
@@ -133,10 +133,13 @@ const hasEn = (b) => Boolean(b.en);
 const ORIG = {
   sa: { zh: '梵文', en: 'Sanskrit', short: '梵' },
   pi: { zh: '巴利文', en: 'Pali', short: '巴' },
+  lzh: { zh: '文言', en: 'Classical Chinese', short: '文' },
 };
+// 原文是汉字的书：没有天城体，也没有罗马转写那一行
+const isHan = (b) => origCode(b) === 'lzh';
 const origCode = (b) => b?.origLang ?? 'sa';
 const orig = (b, lang) => ORIG[origCode(b)][lang];
-const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi']);
+const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi', 'lzh']);
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
 // 英文版 <title> 与 description 用的「大家搜的名字」。页面上的书名照旧用直译名（The Heart of the Perfection of Wisdom），
@@ -157,6 +160,7 @@ const EN_SEARCH_NAME = {
   'twenty-verses': 'Vimshatika (Twenty Verses)',
   'gateway-to-logic': 'Nyayapravesha',
   upanishads: 'Isha, Mandukya and Katha Upanishads',
+  'tao-te-ching': 'Tao Te Ching (Dao De Jing)',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
@@ -165,6 +169,7 @@ const summary = (b, lang) => (lang === 'en' ? b.en.summary : b.summary);
 const chTitle = (ch, lang) => (lang === 'en' ? ch.en : ch.title);
 function compareLabel(b, lang) {
   if (lang === 'en') return `translated from the ${orig(b, 'en')}`;
+  if (isHan(b)) return '文言原文对照';
   return b.oldTranslator ? `${b.oldTranslator}译本对照` : `${ORIG[origCode(b)].short}汉对照`;
 }
 
@@ -306,7 +311,7 @@ function titleSize(text, lang) {
   if (lang === 'zh') return text.length <= 3 ? 23 : text.length <= 4 ? 19.5 : text.length <= 5 ? 16 : 13.5;
   return text.length <= 16 ? 12.5 : text.length <= 28 ? 10.5 : text.length <= 44 ? 8.8 : 7.2;
 }
-const SEAL = { zh: { sa: '梵', pi: '巴' }, en: { sa: 'SKT', pi: 'PALI' } };
+const SEAL = { zh: { sa: '梵', pi: '巴', lzh: '文' }, en: { sa: 'SKT', pi: 'PALI', lzh: 'CHN' } };
 
 function bookCard(b, lang, n, pending = false) {
   const t = T[lang];
@@ -352,7 +357,7 @@ function homePage(books, lang) {
     lang === 'en'
       ? `<p class="kicker">Scripture / ${shown.length} classics in English</p>
     <h1>Read the scriptures straight from the original</h1>`
-      : `<p class="kicker">梵文 · 巴利文经典 / ${books.length} 部</p>
+      : `<p class="kicker">梵文 · 巴利文 · 文言经典 / ${books.length} 部</p>
     <h1>从原文直接读懂经书</h1>`;
   const body = `
 <section class="hero hero--art">
@@ -400,8 +405,8 @@ ${shelf('done', t.shelfDone)}`;
         : `${t.siteName}：心经、金刚经、大悲咒等 ${books.length} 部原文对照`,
     description:
       lang === 'en'
-        ? `${books.length} Sanskrit and Pali classics translated straight into plain English, passage by passage: the Heart Sutra, Bhagavad Gita, Dhammapada, Upanishads and more.`
-        : `${books.length} 部梵文、巴利文经典的白话直译：每段对照玄奘、鸠摩罗什等古译和梵文原文。有心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌等。`,
+        ? `${books.length} classics translated straight from Sanskrit, Pali and Classical Chinese into plain English: Heart Sutra, Bhagavad Gita, Tao Te Ching and more.`
+        : `${books.length} 部经典的白话直译，从梵文、巴利文、文言原文译出，每段对照原文。有心经、金刚经、大悲咒、法句经、薄伽梵歌、道德经等。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -466,8 +471,8 @@ ${bookBanner(b, lang, { heading: title(b, lang), sub: summary(b, lang), meta: `$
         : `${b.title} ${orig(b, 'zh')}原文 · 白话直译 · ${compareLabel(b, lang)} | ${b.sanskrit}`,
     description:
       lang === 'en'
-        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with the ${orig(b, 'en')} in Devanagari and romanization.`
-        : `${b.summary} 共 ${b.chapters.length} 章，每段附${orig(b, 'zh')}天城体与罗马转写。`,
+        ? `${b.en.summary} ${b.chapters.length} chapters, each passage with the ${isHan(b) ? 'Classical Chinese original' : `${orig(b, 'en')} in Devanagari and romanization`}.`
+        : `${b.summary} 共 ${b.chapters.length} 章，每段附${isHan(b) ? '文言原文' : `${orig(b, 'zh')}天城体与罗马转写`}。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -534,8 +539,8 @@ function verseHtml(v, j, lang, b) {
   // 中文版：白话（下挂三语对照）→ 古译 → 梵文，不放英文；英文版：英文（下挂三语对照）→ 梵文，不放中文栏
   const sa = `
     <div class="col sa" data-col="sa" data-label="${esc(orig(b, lang))}">
-      <p class="deva" lang="${origCode(b)}">${esc(v.sa.text)}</p>
-      <p class="iast" lang="${origCode(b)}-Latn">${esc(v.sa.tr)}</p>
+      <p class="${isHan(b) ? 'han' : 'deva'}" lang="${origCode(b)}">${esc(v.sa.text)}</p>${v.sa.tr ? `
+      <p class="iast" lang="${origCode(b)}-Latn">${esc(v.sa.tr)}</p>` : ''}
     </div>`;
   const cols = lang === 'en' ? [enHtml(v, lang), sa] : [zh, oldHtml(v), sa];
   return `
@@ -572,7 +577,7 @@ export function chapterDescription(b, i, lang) {
   }
   const name = single ? `《${b.title}》` : `《${b.title}》${ch.title}：`;
   const old = b.oldTranslator ? `，对照${b.oldTranslator}译本` : '';
-  const lead = `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附天城体与罗马转写。`;
+  const lead = isHan(b) ? `${name}文言原文逐段译成白话，共 ${n} 段。` : `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附天城体与罗马转写。`;
   const tail = single ? b.summary : (ch.intro ?? `开头：${ch.verses[0].zh}`);
   return clip(lead + tail, 140);
 }
@@ -704,7 +709,7 @@ export function build() {
   const en = books.filter(hasEn);
   write(
     'llms.txt',
-    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经与印度经典从梵文、巴利文直译成白话中文，逐段对照古代汉译（玄奘、鸠摩罗什等），附天城体原文与罗马转写；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit and Pali into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit/Pali texts and classical Chinese translations are public domain; the digital source transcriptions keep their own licenses (credited on each book page).\n\n${books
+    `# ${T.zh.siteName} / ${T.en.siteName}\n\n> 佛经、印度经典与中国经典从梵文、巴利文、文言直译成白话中文，逐段对照原文与古代汉译（玄奘、鸠摩罗什等）；部分经书另有从梵文直译的英文版（/en/），并逐段标出英文、中文、梵文的差别。\n> Buddhist and Hindu classics translated directly from Sanskrit and Pali into plain Chinese and (for some books) plain English, passage by passage, with notes on where English, Chinese and Sanskrit differ.\n> 授权 / License: 本站译文与注释 CC BY 4.0（注明出处即可使用）; the site's own translations and notes are CC BY 4.0 (${LICENSE_URL}). Sanskrit/Pali texts and classical Chinese translations are public domain; the digital source transcriptions keep their own licenses (credited on each book page).\n\n${books
       .map(
         (b) =>
           `## ${b.title} (${b.sanskrit})${hasEn(b) ? ` — ${b.en.title}` : ''}\n\n${b.summary}\n\n${hasEn(b) ? `${b.en.summary}\n\n` : ''}${b.chapters.map((ch, i) => `- [${ch.title}](${SITE}${chapterPath(b, i)})`).join('\n')}`,
