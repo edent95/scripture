@@ -13,6 +13,9 @@ const SITE = (process.env.SITE_URL ?? 'https://scripture.eden-tan.com').replace(
 const HOST = new URL(SITE).host;
 const MAIN_SITE = 'https://eden-tan.com';
 const LICENSE_URL = 'https://creativecommons.org/licenses/by/4.0/';
+// 分享图尺寸(src/og-<lang>.jpg,scripts/og-image.mjs 生成;改尺寸两边一起改)
+const OG_W = 1200;
+const OG_H = 630;
 
 // 还没有英译的书：英文首页上的书名与一句简介
 const EN_PENDING = {
@@ -68,6 +71,9 @@ const T = {
     endHome: ['这部经读完了', '看看别的经书'],
     position: '读到第几段',
     coverAlt: (name) => `《${name}》封面插画`,
+    // 分享图(scripts/og-image.mjs 生成):站名、几部常搜的经名、莲花线稿
+    ogImage: '/og-zh.jpg',
+    ogAlt: '梵文经书白话直译的分享图：心经、金刚经、大悲咒等经名，旁边一朵莲花线稿',
   },
   en: {
     htmlLang: 'en',
@@ -99,6 +105,8 @@ const T = {
     endHome: ['You have reached the end', 'Browse the other scriptures'],
     position: 'Current passage',
     coverAlt: (name) => `Cover illustration for ${name}`,
+    ogImage: '/og-en.jpg',
+    ogAlt: 'Sanskrit Scriptures, Plainly: Heart Sutra, Bhagavad Gita and Dhammapada in plain English, beside a line drawing of a lotus',
   },
 };
 
@@ -195,6 +203,16 @@ ${hreflang}<meta property="og:type" content="article">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${esc(url)}">
 <meta property="og:locale" content="${lang === 'en' ? 'en_US' : 'zh_CN'}">
+<meta property="og:image" content="${esc(SITE + t.ogImage)}">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="${OG_W}">
+<meta property="og:image:height" content="${OG_H}">
+<meta property="og:image:alt" content="${esc(t.ogAlt)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${esc(pageTitle)}">
+<meta name="twitter:description" content="${esc(description)}">
+<meta name="twitter:image" content="${esc(SITE + t.ogImage)}">
+<meta name="twitter:image:alt" content="${esc(t.ogAlt)}">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#050505" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
@@ -209,7 +227,7 @@ ${hreflang}<meta property="og:type" content="article">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : ''}</head>
 <body data-lang="${lang}"${bodyData}>
 <header class="site-header">
-  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" width="32" height="32"><span class="brand-name">${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
+  <a class="brand" href="${homePath(lang)}"><img class="brand-mark" src="/favicon.svg" alt="" aria-hidden="true" width="32" height="32"><span class="brand-name">${esc(t.siteName)}${t.siteSub ? `<small>${esc(t.siteSub)}</small>` : ''}</span></a>
   <div class="header-actions">
     ${langToggle(lang, alt)}
     <button class="theme-toggle" type="button" data-to-dark="${esc(t.toDark)}" data-to-light="${esc(t.toLight)}" aria-label="${esc(t.toDark)}" title="${esc(t.toDark)}"><span class="icon-moon" aria-hidden="true"></span><span class="icon-sun" aria-hidden="true"></span></button>
@@ -338,12 +356,12 @@ ${shelf('done', t.shelfDone)}`;
     alt: { zh: '/', en: '/en/' },
     title:
       lang === 'en'
-        ? `${t.siteName}: Heart Sutra, Dhammapada, Bhagavad Gita, Upanishads and more, from the Sanskrit and Pali`
-        : `${t.siteName}：心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌原文对照`,
+        ? `${t.siteName}: Heart Sutra, Bhagavad Gita`
+        : `${t.siteName}：心经、金刚经、大悲咒等 ${books.length} 部原文对照`,
     description:
       lang === 'en'
-        ? 'The Heart Sutra, Diamond Sutra, Great Compassion Mantra, Medicine Buddha Sutra, Verses on the Middle Way, Dhammapada, Metta Sutta, Bhagavad Gita, Yoga Sutras, Upanishads and more, translated straight from the Sanskrit and Pali into plain English, passage by passage, with notes on where English, Chinese and the original differ.'
-        : '心经、金刚经、大悲咒、药师经、普贤行愿品、法华经、中论、唯识三十颂、法句经、慈经、大念处经、薄伽梵歌、瑜伽经、奥义书等 24 部经典：从梵文、巴利文直译成白话，逐段对照玄奘、鸠摩罗什等古译，附天城体原文与罗马转写。',
+        ? `${books.length} Sanskrit and Pali classics translated straight into plain English, passage by passage: the Heart Sutra, Bhagavad Gita, Dhammapada, Upanishads and more.`
+        : `${books.length} 部梵文、巴利文经典的白话直译：每段对照玄奘、鸠摩罗什等古译和梵文原文。有心经、金刚经、大悲咒、药师经、法句经、薄伽梵歌等。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
