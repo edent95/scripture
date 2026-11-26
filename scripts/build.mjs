@@ -74,7 +74,8 @@ const T = {
     introLabel: '这一章在讲什么',
     primerKicker: '第一次读',
     primerTitle: '读之前先知道这几件事',
-    primerLink: '第一次读？先看这几件事',
+    guideBtn: '导读',
+    guideClose: '关上导读',
     storyLabel: '一图看懂',
     primerMeta: (n, min) => `${n} 条 · 大约 ${min} 分钟读完`,
     coverAlt: (name) => `《${name}》封面插画`,
@@ -114,7 +115,8 @@ const T = {
     introLabel: 'What this chapter says',
     primerKicker: 'New to this book',
     primerTitle: 'A few things to know before you read',
-    primerLink: 'New to this book? Read these few things first',
+    guideBtn: 'Guide',
+    guideClose: 'Close the guide',
     storyLabel: 'At a glance',
     primerMeta: (n, min) => `${n} notes · about ${min} min`,
     coverAlt: (name) => `Cover illustration for ${name}`,
@@ -638,6 +640,19 @@ function chapterPage(b, i, lang) {
   const order = lang === 'en' ? ['en', 'sa', 'zh', 'old'] : ['zh', 'en', 'old', 'sa'];
   const sub = single ? summary(b, lang) : '';
   const chIntro = lang === 'en' ? ch.enIntro : ch.intro;
+  // 导读不放在经文前面（用户 2026-11-27：读书要沉浸、要顺，这些不要影响读书感受）：
+  // 「这一章在讲什么」和「读之前先知道这几件事」收进一张侧边面板，工具条上的「导读」按钮点了才出来。
+  const showIntro = !single && chIntro;
+  const guide = showIntro || b.primer
+    ? `
+<dialog class="guide" id="guide" aria-label="${t.guideBtn}">
+  <div class="guide-sheet">
+    <form method="dialog" class="guide-bar"><p class="guide-title">${t.guideBtn}</p><button class="guide-close" aria-label="${t.guideClose}"><span aria-hidden="true">×</span></button></form>${showIntro ? `
+    <section class="guide-intro"><p class="ch-intro-label">${t.introLabel}</p><p class="ch-intro-text">${esc(chIntro)}</p></section>` : ''}${b.primer ? primerSection(b, lang, 0) : ''}
+  </div>
+</dialog>`
+    : '';
+  const guideBtn = guide ? `\n  <a class="guide-open" href="#guide" data-guide>${t.guideBtn}</a>` : '';
   const end = next
     ? [t.nextCh, chTitle(next, lang), chapterPath(b, i + 1, lang), ' rel="next"']
     : single
@@ -647,8 +662,8 @@ function chapterPage(b, i, lang) {
 <div class="book-page" style="${toneVars(b)}">
 <nav class="crumbs" aria-label="breadcrumb"><a href="${homePath(lang)}">${t.home}</a> / ${single ? esc(title(b, lang)) : `<a href="${bookPath(b, lang)}">${esc(title(b, lang))}</a> / ${esc(chTitle(ch, lang))}`}</nav>
 ${bookBanner(b, lang, { heading, sub, meta: `${t.verses(ch.verses.length)} · ${esc(compareLabel(b, lang, ch))}`, compact: true })}
-${single ? (b.primer ? `${primerSection(b, lang, 1)}\n` : '') : chIntro || b.primer ? `<aside class="ch-intro">${chIntro ? `<p class="ch-intro-label">${t.introLabel}</p><p class="ch-intro-text">${esc(chIntro)}</p>` : ''}${b.primer ? `<a class="ch-intro-link" href="${bookPath(b, lang)}#primer">${t.primerLink}<span aria-hidden="true"> →</span></a>` : ''}</aside>\n` : ''}${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
-  ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}
+${storyHtml(ch, lang)}<div class="col-toggle" role="group" aria-label="${t.cols}">
+  ${order.map((k) => btn[k]).filter(Boolean).join('\n  ')}${guideBtn}
   <span class="read-count" aria-label="${t.position}" hidden></span>
   <span class="read-bar" aria-hidden="true"></span>
 </div>
@@ -661,7 +676,7 @@ ${emblemPicture(b.slug, 'page-emblem', { size: 420 }).replace('loading="eager"',
 <nav class="pager">
   <a class="next-card"${end[3]} href="${end[2]}"><span class="next-kicker">${esc(end[0])}</span><span class="next-title">${esc(end[1])}</span></a>
   ${prev ? `<a class="prev-link" rel="prev" href="${chapterPath(b, i - 1, lang)}">← ${t.prevCh} · ${esc(chTitle(prev, lang))}</a>` : ''}
-</nav>
+</nav>${guide}
 </div>`;
   const crumbs = [[t.siteName, homePath(lang)], [title(b, lang), bookPath(b, lang)]];
   if (!single) crumbs.push([chTitle(ch, lang), chapterPath(b, i, lang)]);

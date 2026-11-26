@@ -325,3 +325,19 @@
   lay();
   wide.addEventListener?.('change', lay);
 })();
+
+// 导读面板：工具条上的「导读」点了才打开；点面板外面、按 Esc 或右上角的 × 关上。不自动弹出，不记状态。
+(() => {
+  const guide = document.getElementById('guide');
+  if (!guide || !guide.showModal) return;
+  for (const a of document.querySelectorAll('[data-guide]')) {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      guide.showModal();
+      guide.scrollTop = 0;
+    });
+  }
+  guide.addEventListener('click', (e) => {
+    if (e.target === guide) guide.close();
+  });
+})();
