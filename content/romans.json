@@ -1,0 +1,5111 @@
+{
+ "slug": "romans",
+ "order": 29,
+ "tradition": "christianity",
+ "origLang": "grc",
+ "title": "罗马书",
+ "sanskrit": "Pros Rhōmaious",
+ "oldTranslator": "和合",
+ "summary": "新约里的第一封书信，也是保罗最长的一封信，写给他还没见过面的罗马信徒。它不讲故事，讲道理：人凭什么在上帝面前算为对（凭着信，不是凭着守律法），这对犹太人和外族人意味着什么，信的人又该怎样过日子。共 16 章。",
+ "source": {
+  "orig": {
+   "name": "SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）",
+   "en": "SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)",
+   "url": "https://sblgnt.com/",
+   "license": "CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software",
+   "licenseEn": "CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software"
+  },
+  "old": {
+   "name": "维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）",
+   "url": "https://zh.wikisource.org/wiki/聖經_(和合本)",
+   "license": "公有领域；录文 CC BY-SA 4.0",
+   "label": "旧译"
+  }
+ },
+ "chapters": [
+  {
+   "title": "第 1 章 · 问安，福音的主题，人不认上帝",
+   "no": 1,
+   "intro": "保罗先自我介绍，向罗马的信徒问安，说自己一直想去看他们，把福音也传给他们。接着提出全信的主题：福音是上帝的大能，要救一切信的人。然后他说，人明明能从所造的万物知道上帝，却不敬拜他，去拜偶像，上帝就任凭他们陷在各样的恶里。",
+   "verses": [
+    {
+     "zh": "保罗，基督（上帝选立的那位救主）耶稣的奴仆，蒙召作使徒（被派出去传福音的人），被分别出来传上帝的福音（好消息）。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣基督的仆人保罗、奉召为使徒、特派传神的福音．",
+      "notes": [
+       {
+        "w": "仆人",
+        "note": "原文是「奴仆」，指完全属于主人的人；和合本译「仆人」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Παῦλος δοῦλος Χριστοῦ Ἰησοῦ, κλητὸς ἀπόστολος, ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ",
+      "tr": "Paulos doulos Christou Iēsou, klētos apostolos, aphōrismenos eis euangelion theou"
+     }
+    },
+    {
+     "zh": "这福音是上帝从前借着他的众先知（替上帝传话的人）在圣经里预先应许的，",
+     "old": {
+      "who": "和合本",
+      "text": "这福音是神从前藉众先知、在圣经上所应许的、"
+     },
+     "sa": {
+      "text": "ὃ προεπηγγείλατο διὰ τῶν προφητῶν αὐτοῦ ἐν γραφαῖς ἁγίαις",
+      "tr": "ho proepēngeilato dia tōn prophētōn autou en graphais hagiais"
+     }
+    },
+    {
+     "zh": "讲的是他的儿子：按肉身说，他是从大卫（古代以色列的王）的后代生的；",
+     "old": {
+      "who": "和合本",
+      "text": "论到他儿子我主耶稣基督．按肉体说、是从大卫后裔生的、",
+      "notes": [
+       {
+        "w": "我主耶稣基督",
+        "note": "这几个字原文在第 4 节末尾，和合本挪到了这里。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "περὶ τοῦ υἱοῦ αὐτοῦ, τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα,",
+      "tr": "peri tou huiou autou, tou genomenou ek spermatos Dauid kata sarka,"
+     }
+    },
+    {
+     "zh": "按圣洁的灵说，他从死人中复活，被大有能力地立为上帝的儿子；他就是我们的主耶稣基督。",
+     "old": {
+      "who": "和合本",
+      "text": "按圣善的灵说、因从死里复活、以大能显明是神的儿子。"
+     },
+     "sa": {
+      "text": "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν,",
+      "tr": "tou horisthentos huiou theou en dynamei kata pneuma hagiōsynēs ex anastaseōs nekrōn, Iēsou Christou tou kyriou hēmōn,"
+     }
+    },
+    {
+     "zh": "借着他，我们领受了恩典（上帝白白给的好意）和使徒的职分，要为他的名，在所有外族人（不是犹太人的人）当中带出信的顺从；",
+     "old": {
+      "who": "和合本",
+      "text": "我们从他受了恩惠、并使徒的职分、在万国之中叫人为他的名信服真道．"
+     },
+     "sa": {
+      "text": "διʼ οὗ ἐλάβομεν χάριν καὶ ἀποστολὴν εἰς ὑπακοὴν πίστεως ἐν πᾶσιν τοῖς ἔθνεσιν ὑπὲρ τοῦ ὀνόματος αὐτοῦ,",
+      "tr": "diʼ hou elabomen charin kai apostolēn eis hypakoēn pisteōs en pasin tois ethnesin hyper tou onomatos autou,"
+     }
+    },
+    {
+     "zh": "你们也在他们当中，是蒙召属于耶稣基督的人。",
+     "old": {
+      "who": "和合本",
+      "text": "其中也有你们这蒙召属耶稣基督的人。"
+     },
+     "sa": {
+      "text": "ἐν οἷς ἐστε καὶ ὑμεῖς κλητοὶ Ἰησοῦ Χριστοῦ,",
+      "tr": "en hois este kai hymeis klētoi Iēsou Christou,"
+     }
+    },
+    {
+     "zh": "（我写信）给所有在罗马、被上帝所爱、蒙召作圣徒（属于上帝的人）的人。愿恩典和平安从我们的父上帝和主耶稣基督临到你们。",
+     "old": {
+      "who": "和合本",
+      "text": "我写信给你们在罗马为神所爱、奉召作圣徒的众人。愿恩惠平安、从我们的父神、并主耶稣基督、归与你们。"
+     },
+     "sa": {
+      "text": "πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ, κλητοῖς ἁγίοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+      "tr": "pasin tois ousin en Rhōmēi agapētois theou, klētois hagiois; charis hymin kai eirēnē apo theou patros hēmōn kai kyriou Iēsou Christou."
+     }
+    },
+    {
+     "zh": "首先，我借着耶稣基督为你们所有人感谢我的上帝，因为你们的信（信靠）传遍了全世界。",
+     "old": {
+      "who": "和合本",
+      "text": "第一、我靠着耶稣基督、为你们众人感谢我的神．因你们的信德传遍了天下。"
+     },
+     "sa": {
+      "text": "Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ Ἰησοῦ Χριστοῦ περὶ πάντων ὑμῶν, ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ.",
+      "tr": "Prōton men eucharistō tōi theōi mou dia Iēsou Christou peri pantōn hymōn, hoti hē pistis hymōn katangelletai en holōi tōi kosmōi."
+     }
+    },
+    {
+     "zh": "我在他儿子的福音上、用我的灵所事奉的上帝，可以为我作证：我怎样不停地提到你们，",
+     "old": {
+      "who": "和合本",
+      "text": "我在他儿子福音上、用心灵所事奉的神、可以见证我怎样不住的题到你们、"
+     },
+     "sa": {
+      "text": "μάρτυς γάρ μού ἐστιν ὁ θεός, ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ, ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι",
+      "tr": "martys gar mou estin ho theos, hōi latreuō en tōi pneumati mou en tōi euangeliōi tou huiou autou, hōs adialeiptōs mneian hymōn poioumai"
+     }
+    },
+    {
+     "zh": "在我的祷告里总是恳求，但愿照着上帝的旨意，终于能顺利地到你们那里去。",
+     "old": {
+      "who": "和合本",
+      "text": "在祷告之间、常常恳求、或者照神的旨意、终能得平坦的道路往你们那里去。"
+     },
+     "sa": {
+      "text": "πάντοτε ἐπὶ τῶν προσευχῶν μου, δεόμενος εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς.",
+      "tr": "pantote epi tōn proseuchōn mou, deomenos ei pōs ēdē pote euodōthēsomai en tōi thelēmati tou theou elthein pros hymas."
+     }
+    },
+    {
+     "zh": "因为我很想见你们，好把一些属灵的恩赐分给你们，使你们得到坚固；",
+     "old": {
+      "who": "和合本",
+      "text": "因为我切切的想见你们、要把些属灵的恩赐分给你们、使你们可以坚固．"
+     },
+     "sa": {
+      "text": "ἐπιποθῶ γὰρ ἰδεῖν ὑμᾶς, ἵνα τι μεταδῶ χάρισμα ὑμῖν πνευματικὸν εἰς τὸ στηριχθῆναι ὑμᾶς,",
+      "tr": "epipothō gar idein hymas, hina ti metadō charisma hymin pneumatikon eis to stērichthēnai hymas,"
+     }
+    },
+    {
+     "zh": "也就是说，我在你们中间，借着你们和我彼此的信，一同得到鼓励。",
+     "old": {
+      "who": "和合本",
+      "text": "这样我在你们中间、因你与我彼此的信心、就可以同得安慰。"
+     },
+     "sa": {
+      "text": "τοῦτο δέ ἐστιν συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως ὑμῶν τε καὶ ἐμοῦ.",
+      "tr": "touto de estin symparaklēthēnai en hymin dia tēs en allēlois pisteōs hymōn te kai emou."
+     }
+    },
+    {
+     "zh": "弟兄们（一同信的人），我不愿意你们不知道：我多次打算到你们那里去，好在你们当中也得一些果子，像在其余的外族人当中一样，只是到现在还受着阻拦。",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我不愿意你们不知道、我屡次定意往你们那里去、要在你们中间得些果子、如同在其余的外邦人中一样．只是到如今仍有阻隔。"
+     },
+     "sa": {
+      "text": "οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς, καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο, ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑμῖν καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν.",
+      "tr": "ou thelō de hymas agnoein, adelphoi, hoti pollakis proethemēn elthein pros hymas, kai ekōlythēn achri tou deuro, hina tina karpon schō kai en hymin kathōs kai en tois loipois ethnesin."
+     }
+    },
+    {
+     "zh": "无论是希腊人，还是不说希腊话的人，是有智慧的，还是没有见识的，我都欠他们的债。",
+     "old": {
+      "who": "和合本",
+      "text": "无论是希利尼人、化外人、聪明人、愚拙人、我都欠他们的债。",
+      "notes": [
+       {
+        "w": "化外人",
+        "note": "原文 barbaroi 指不说希腊话的各族人，当时是和「希腊人」相对的说法，不一定带贬义。和合本译「化外人」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Ἕλλησίν τε καὶ βαρβάροις, σοφοῖς τε καὶ ἀνοήτοις ὀφειλέτης εἰμί·",
+      "tr": "Hellēsin te kai barbarois, sophois te kai anoētois opheiletēs eimi;"
+     }
+    },
+    {
+     "zh": "所以，就我来说，我很愿意把福音也传给你们在罗马的人。",
+     "old": {
+      "who": "和合本",
+      "text": "所以情愿尽我的力量、将福音也传给你们在罗马的人。"
+     },
+     "sa": {
+      "text": "οὕτως τὸ κατʼ ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν Ῥώμῃ εὐαγγελίσασθαι.",
+      "tr": "houtōs to katʼ eme prothymon kai hymin tois en Rhōmēi euangelisasthai."
+     }
+    },
+    {
+     "zh": "我不以福音为耻，因为这福音是上帝的大能，要让一切信的人得救（得到上帝的拯救，不至于灭亡），先是犹太人，也有希腊人（这里泛指外族人）。",
+     "old": {
+      "who": "和合本",
+      "text": "我不以福音为耻．这福音本是神的大能、要救一切相信的、先是犹太人、后是希利尼人。"
+     },
+     "sa": {
+      "text": "Οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον, δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι·",
+      "tr": "Ou gar epaischynomai to euangelion, dynamis gar theou estin eis sōtērian panti tōi pisteuonti, Ioudaiōi te prōton kai Hellēni;"
+     }
+    },
+    {
+     "zh": "因为上帝的义在这福音里显明出来，从信到信，正如经上（旧约圣经里）写着：「义人（在上帝面前算为对的人）要因信而活。」",
+     "old": {
+      "who": "和合本",
+      "text": "因为神的义、正在这福音上显明出来．这义是本于信、以致于信．如经上所记、『义人必因信得生。』"
+     },
+     "sa": {
+      "text": "δικαιοσύνη γὰρ θεοῦ ἐν αὐτῷ ἀποκαλύπτεται ἐκ πίστεως εἰς πίστιν, καθὼς γέγραπται· Ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται.",
+      "tr": "dikaiosynē gar theou en autōi apokalyptetai ek pisteōs eis pistin, kathōs gegraptai; Ho de dikaios ek pisteōs zēsetai."
+     }
+    },
+    {
+     "zh": "因为上帝的愤怒（上帝对罪的惩罚）从天上显明出来，临到人的一切不敬虔和不义；这些人用不义压制真理。",
+     "old": {
+      "who": "和合本",
+      "text": "原来神的忿怒、从天上显明在一切不虔不义的人身上、就是那些行不义阻挡真理的人。"
+     },
+     "sa": {
+      "text": "Ἀποκαλύπτεται γὰρ ὀργὴ θεοῦ ἀπʼ οὐρανοῦ ἐπὶ πᾶσαν ἀσέβειαν καὶ ἀδικίαν ἀνθρώπων τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων,",
+      "tr": "Apokalyptetai gar orgē theou apʼ ouranou epi pasan asebeian kai adikian anthrōpōn tōn tēn alētheian en adikiāi katechontōn,"
+     }
+    },
+    {
+     "zh": "因为关于上帝、人能够知道的，在他们当中是明明白白的；上帝已经向他们显明了。",
+     "old": {
+      "who": "和合本",
+      "text": "神的事情、人所能知道的、原显明在人心里．因为神已经给他们显明。"
+     },
+     "sa": {
+      "text": "διότι τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς, ὁ θεὸς γὰρ αὐτοῖς ἐφανέρωσεν.",
+      "tr": "dioti to gnōston tou theou phaneron estin en autois, ho theos gar autois ephanerōsen."
+     }
+    },
+    {
+     "zh": "自从创造世界以来，他那些看不见的，就是他永远的大能和神性，借着所造的东西就可以明白、看见，所以他们无可推诿。",
+     "old": {
+      "who": "和合本",
+      "text": "自从造天地以来、神的永能和神性是明明可知的、虽是眼不能见、但借着所造之物、就可以晓得、叫人无可推诿．"
+     },
+     "sa": {
+      "text": "τὰ γὰρ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται, ἥ τε ἀΐδιος αὐτοῦ δύναμις καὶ θειότης, εἰς τὸ εἶναι αὐτοὺς ἀναπολογήτους,",
+      "tr": "ta gar aorata autou apo ktiseōs kosmou tois poiēmasin nooumena kathoratai, hē te aïdios autou dynamis kai theiotēs, eis to einai autous anapologētous,"
+     }
+    },
+    {
+     "zh": "因为他们虽然知道上帝，却不把他当作上帝来荣耀他，也不感谢他；他们的想法反而变得虚妄，他们没有悟性的心就昏暗了。",
+     "old": {
+      "who": "和合本",
+      "text": "因为他们虽然知道神、却不当作神荣耀他、也不感谢他．他们的思念变为虚妄、无知的心就昏暗了．"
+     },
+     "sa": {
+      "text": "διότι γνόντες τὸν θεὸν οὐχ ὡς θεὸν ἐδόξασαν ἢ ηὐχαρίστησαν, ἀλλὰ ἐματαιώθησαν ἐν τοῖς διαλογισμοῖς αὐτῶν καὶ ἐσκοτίσθη ἡ ἀσύνετος αὐτῶν καρδία·",
+      "tr": "dioti gnontes ton theon ouch hōs theon edoxasan ē ēucharistēsan, alla emataiōthēsan en tois dialogismois autōn kai eskotisthē hē asynetos autōn kardia;"
+     }
+    },
+    {
+     "zh": "他们自称有智慧，却成了愚蠢的，",
+     "old": {
+      "who": "和合本",
+      "text": "自称为聪明、反成了愚拙、"
+     },
+     "sa": {
+      "text": "φάσκοντες εἶναι σοφοὶ ἐμωράνθησαν,",
+      "tr": "phaskontes einai sophoi emōranthēsan,"
+     }
+    },
+    {
+     "zh": "把不朽坏的上帝的荣耀，换成了必朽坏的人、飞鸟、走兽、爬虫的形像。",
+     "old": {
+      "who": "和合本",
+      "text": "将不能朽坏之神的荣耀、变为偶像、仿佛必朽坏的人、和飞禽走兽昆虫的样式。",
+      "notes": [
+       {
+        "w": "偶像",
+        "note": "「偶像」两个字是和合本补的；原文是「像的样子」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "καὶ ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου καὶ πετεινῶν καὶ τετραπόδων καὶ ἑρπετῶν.",
+      "tr": "kai ēllaxan tēn doxan tou aphthartou theou en homoiōmati eikonos phthartou anthrōpou kai peteinōn kai tetrapodōn kai herpetōn."
+     }
+    },
+    {
+     "zh": "所以上帝任凭他们随着心里的欲望陷在污秽里，以致他们彼此羞辱自己的身体。",
+     "old": {
+      "who": "和合本",
+      "text": "所以神任凭他们、逞着心里的情欲行污秽的事、以致彼此玷辱自己的身体。"
+     },
+     "sa": {
+      "text": "Διὸ παρέδωκεν αὐτοὺς ὁ θεὸς ἐν ταῖς ἐπιθυμίαις τῶν καρδιῶν αὐτῶν εἰς ἀκαθαρσίαν τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν ἐν αὐτοῖς,",
+      "tr": "Dio paredōken autous ho theos en tais epithymiais tōn kardiōn autōn eis akatharsian tou atimazesthai ta sōmata autōn en autois,"
+     }
+    },
+    {
+     "zh": "他们把上帝的真理换成了虚谎，敬拜事奉受造之物，而不是造物的主；他是当受称颂的，直到永远。阿们。",
+     "old": {
+      "who": "和合本",
+      "text": "他们将神的真实变为虚谎、去敬拜事奉受造之物、不敬奉那造物的主．主乃是可称颂的、直到永远。阿们。"
+     },
+     "sa": {
+      "text": "οἵτινες μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει, καὶ ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα, ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν.",
+      "tr": "hoitines metēllaxan tēn alētheian tou theou en tōi pseudei, kai esebasthēsan kai elatreusan tēi ktisei para ton ktisanta, hos estin eulogētos eis tous aiōnas; amēn."
+     }
+    },
+    {
+     "zh": "因此上帝任凭他们陷在可耻的情欲里：他们的女人把合乎本性的用法换成了违反本性的；",
+     "old": {
+      "who": "和合本",
+      "text": "因此神任凭他们放纵可羞耻的情欲．他们的女人、把顺性的用处、变为逆性的用处．"
+     },
+     "sa": {
+      "text": "Διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας· αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν,",
+      "tr": "Dia touto paredōken autous ho theos eis pathē atimias; hai te gar thēleiai autōn metēllaxan tēn physikēn chrēsin eis tēn para physin,"
+     }
+    },
+    {
+     "zh": "男人也是一样，丢下了和女人合乎本性的用法，彼此欲火中烧，男人和男人做可耻的事，就在自己身上受到他们的错谬所该得的报应。",
+     "old": {
+      "who": "和合本",
+      "text": "男人也是如此、弃了女人顺性的用处、欲火攻心、彼此贪恋、男和男行可羞耻的事、就在自己身上受这妄为当得的报应。"
+     },
+     "sa": {
+      "text": "ὁμοίως τε καὶ οἱ ἄρσενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν εἰς ἀλλήλους, ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι καὶ τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαμβάνοντες.",
+      "tr": "homoiōs te kai hoi arsenes aphentes tēn physikēn chrēsin tēs thēleias exekauthēsan en tēi orexei autōn eis allēlous, arsenes en arsesin tēn aschēmosynēn katergazomenoi kai tēn antimisthian hēn edei tēs planēs autōn en heautois apolambanontes."
+     }
+    },
+    {
+     "zh": "他们既然认为不值得把上帝存在心里，上帝就任凭他们存着不中用的心思，去做不该做的事；",
+     "old": {
+      "who": "和合本",
+      "text": "他们既然故意不认识神、神就任凭他们存邪僻的心、行那些不合理的事．"
+     },
+     "sa": {
+      "text": "Καὶ καθὼς οὐκ ἐδοκίμασαν τὸν θεὸν ἔχειν ἐν ἐπιγνώσει, παρέδωκεν αὐτοὺς ὁ θεὸς εἰς ἀδόκιμον νοῦν, ποιεῖν τὰ μὴ καθήκοντα,",
+      "tr": "Kai kathōs ouk edokimasan ton theon echein en epignōsei, paredōken autous ho theos eis adokimon noun, poiein ta mē kathēkonta,"
+     }
+    },
+    {
+     "zh": "他们充满了各样的不义、邪恶、贪婪、恶毒，满是嫉妒、凶杀、纷争、诡诈、恶意；他们是说人闲话的、",
+     "old": {
+      "who": "和合本",
+      "text": "装满了各样不义、邪恶、贪婪、恶毒．满心是嫉妒、凶杀、争竞、诡诈、毒恨．"
+     },
+     "sa": {
+      "text": "πεπληρωμένους πάσῃ ἀδικίᾳ πονηρίᾳ πλεονεξίᾳ κακίᾳ, μεστοὺς φθόνου φόνου ἔριδος δόλου κακοηθείας, ψιθυριστάς,",
+      "tr": "peplērōmenous pasēi adikiāi ponēriāi pleonexiāi kakiāi, mestous phthonou phonou eridos dolou kakoētheias, psithyristas,"
+     }
+    },
+    {
+     "zh": "毁谤人的、恨上帝的、凌辱人的、傲慢的、自夸的、想出各种恶事的、不听从父母的、",
+     "old": {
+      "who": "和合本",
+      "text": "又是谗毁的、背后说人的、怨恨神的、侮慢人的、狂傲的、自夸的、捏造恶事的、违背父母的、"
+     },
+     "sa": {
+      "text": "καταλάλους, θεοστυγεῖς, ὑβριστάς, ὑπερηφάνους, ἀλαζόνας, ἐφευρετὰς κακῶν, γονεῦσιν ἀπειθεῖς,",
+      "tr": "katalalous, theostygeis, hybristas, hyperēphanous, alazonas, epheuretas kakōn, goneusin apeitheis,"
+     }
+    },
+    {
+     "zh": "没有悟性的、不守约的、没有亲情的、不怜悯人的。",
+     "old": {
+      "who": "和合本",
+      "text": "无知的、背约的、无亲情的、不怜悯人的．"
+     },
+     "sa": {
+      "text": "ἀσυνέτους, ἀσυνθέτους, ἀστόργους, ἀνελεήμονας·",
+      "tr": "asynetous, asynthetous, astorgous, aneleēmonas;"
+     }
+    },
+    {
+     "zh": "他们虽然知道上帝的判定，就是做这样事的人是该死的，却不但自己去做，还赞同别人去做。",
+     "old": {
+      "who": "和合本",
+      "text": "他们虽知道神判定、行这样事的人是当死的、然而他们不但自己去行、还喜欢别人去行。"
+     },
+     "sa": {
+      "text": "οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες, ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν, οὐ μόνον αὐτὰ ποιοῦσιν ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν.",
+      "tr": "hoitines to dikaiōma tou theou epignontes, hoti hoi ta toiauta prassontes axioi thanatou eisin, ou monon auta poiousin alla kai syneudokousin tois prassousin."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 2 章 · 上帝的审判不偏待人，犹太人与律法",
+   "no": 2,
+   "intro": "保罗转过来对一个爱评断别人的人说话：你评断别人，自己却做同样的事，逃不过上帝的审判；上帝照各人的行为报应，不偏待人。然后他对自称犹太人、有律法的人说：有律法却不遵行，没有用；真正的割礼是心里的。",
+   "verses": [
+    {
+     "zh": "所以，你这评断别人的人啊，不管你是谁，你都无可推诿。你在什么事上评断别人，就在什么事上定了自己的罪，因为你这评断人的，自己也做同样的事。",
+     "old": {
+      "who": "和合本",
+      "text": "你这论断人的、无论你是谁、也无可推诿、你在甚么事上论断人、就在甚么事上定自己的罪．因你这论断人的、自己所行却和别人一样。"
+     },
+     "sa": {
+      "text": "Διὸ ἀναπολόγητος εἶ, ὦ ἄνθρωπε πᾶς ὁ κρίνων· ἐν ᾧ γὰρ κρίνεις τὸν ἕτερον, σεαυτὸν κατακρίνεις, τὰ γὰρ αὐτὰ πράσσεις ὁ κρίνων·",
+      "tr": "Dio anapologētos ei, ō anthrōpe pas ho krinōn; en hōi gar krineis ton heteron, seauton katakrineis, ta gar auta prasseis ho krinōn;"
+     }
+    },
+    {
+     "zh": "我们知道，上帝照着真理审判做这样事的人。",
+     "old": {
+      "who": "和合本",
+      "text": "我们知道这样行的人、神必照真理审判他。"
+     },
+     "sa": {
+      "text": "οἴδαμεν δὲ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας.",
+      "tr": "oidamen de hoti to krima tou theou estin kata alētheian epi tous ta toiauta prassontas."
+     }
+    },
+    {
+     "zh": "你这人啊，你评断做这样事的人，自己却也去做，你以为你能逃脱上帝的审判吗？",
+     "old": {
+      "who": "和合本",
+      "text": "你这人哪、你论断行这样事的人、自己所行的却和别人一样、你以为能逃脱神的审判么。"
+     },
+     "sa": {
+      "text": "λογίζῃ δὲ τοῦτο, ὦ ἄνθρωπε ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά, ὅτι σὺ ἐκφεύξῃ τὸ κρίμα τοῦ θεοῦ;",
+      "tr": "logizēi de touto, ō anthrōpe ho krinōn tous ta toiauta prassontas kai poiōn auta, hoti sy ekpheuxēi to krima tou theou?"
+     }
+    },
+    {
+     "zh": "还是你轻看他丰富的恩慈、宽容和忍耐，不知道上帝的恩慈是要领你悔改（回头，不再照旧过）？",
+     "old": {
+      "who": "和合本",
+      "text": "还是你藐视他丰富的恩慈、宽容、忍耐、不晓得他的恩慈是领你悔改呢．"
+     },
+     "sa": {
+      "text": "ἢ τοῦ πλούτου τῆς χρηστότητος αὐτοῦ καὶ τῆς ἀνοχῆς καὶ τῆς μακροθυμίας καταφρονεῖς, ἀγνοῶν ὅτι τὸ χρηστὸν τοῦ θεοῦ εἰς μετάνοιάν σε ἄγει;",
+      "tr": "ē tou ploutou tēs chrēstotētos autou kai tēs anochēs kai tēs makrothymias kataphroneis, agnoōn hoti to chrēston tou theou eis metanoian se agei?"
+     }
+    },
+    {
+     "zh": "你却照着你的刚硬和不肯悔改的心，为自己积攒愤怒，等到上帝发怒、显明他公义审判的那一天。",
+     "old": {
+      "who": "和合本",
+      "text": "你竟任着你刚硬不悔改的心、为自己积蓄忿怒、以致神震怒、显他公义审判的日子来到。"
+     },
+     "sa": {
+      "text": "κατὰ δὲ τὴν σκληρότητά σου καὶ ἀμετανόητον καρδίαν θησαυρίζεις σεαυτῷ ὀργὴν ἐν ἡμέρᾳ ὀργῆς καὶ ἀποκαλύψεως δικαιοκρισίας τοῦ θεοῦ,",
+      "tr": "kata de tēn sklērotēta sou kai ametanoēton kardian thēsaurizeis seautōi orgēn en hēmerāi orgēs kai apokalypseōs dikaiokrisias tou theou,"
+     }
+    },
+    {
+     "zh": "他要照各人的行为报应各人：",
+     "old": {
+      "who": "和合本",
+      "text": "他必照各人的行为报应各人．"
+     },
+     "sa": {
+      "text": "ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ·",
+      "tr": "hos apodōsei hekastōi kata ta erga autou;"
+     }
+    },
+    {
+     "zh": "对那些恒心行善，寻求荣耀、尊贵和不朽的人，他给永生（永远的生命）；",
+     "old": {
+      "who": "和合本",
+      "text": "凡恒心行善、寻求荣耀尊贵、和不能朽坏之福的、就以永生报应他们．"
+     },
+     "sa": {
+      "text": "τοῖς μὲν καθʼ ὑπομονὴν ἔργου ἀγαθοῦ δόξαν καὶ τιμὴν καὶ ἀφθαρσίαν ζητοῦσιν ζωὴν αἰώνιον·",
+      "tr": "tois men kathʼ hypomonēn ergou agathou doxan kai timēn kai aphtharsian zētousin zōēn aiōnion;"
+     }
+    },
+    {
+     "zh": "对那些只顾自己、不顺从真理、反而顺从不义的人，有愤怒和恼恨。",
+     "old": {
+      "who": "和合本",
+      "text": "惟有结党不顺从真理、反顺从不义的、就以忿怒恼恨报应他们．"
+     },
+     "sa": {
+      "text": "τοῖς δὲ ἐξ ἐριθείας καὶ ἀπειθοῦσι τῇ ἀληθείᾳ πειθομένοις δὲ τῇ ἀδικίᾳ ὀργὴ καὶ θυμός,",
+      "tr": "tois de ex eritheias kai apeithousi tēi alētheiāi peithomenois de tēi adikiāi orgē kai thymos,"
+     }
+    },
+    {
+     "zh": "患难和困苦要临到每一个作恶的人，先是犹太人，也有希腊人（这里泛指外族人）；",
+     "old": {
+      "who": "和合本",
+      "text": "将患难、困苦、加给一切作恶的人、先是犹太人、后是希利尼人．"
+     },
+     "sa": {
+      "text": "θλῖψις καὶ στενοχωρία, ἐπὶ πᾶσαν ψυχὴν ἀνθρώπου τοῦ κατεργαζομένου τὸ κακόν, Ἰουδαίου τε πρῶτον καὶ Ἕλληνος·",
+      "tr": "thlipsis kai stenochōria, epi pasan psychēn anthrōpou tou katergazomenou to kakon, Ioudaiou te prōton kai Hellēnos;"
+     }
+    },
+    {
+     "zh": "荣耀、尊贵和平安却要给每一个行善的人，先是犹太人，也有希腊人。",
+     "old": {
+      "who": "和合本",
+      "text": "却将荣耀、尊贵、平安、加给一切行善的人、先是犹太人、后是希利尼人．"
+     },
+     "sa": {
+      "text": "δόξα δὲ καὶ τιμὴ καὶ εἰρήνη παντὶ τῷ ἐργαζομένῳ τὸ ἀγαθόν, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι·",
+      "tr": "doxa de kai timē kai eirēnē panti tōi ergazomenōi to agathon, Ioudaiōi te prōton kai Hellēni;"
+     }
+    },
+    {
+     "zh": "因为上帝不偏待人。",
+     "old": {
+      "who": "和合本",
+      "text": "因为神不偏待人。"
+     },
+     "sa": {
+      "text": "οὐ γάρ ἐστιν προσωπολημψία παρὰ τῷ θεῷ.",
+      "tr": "ou gar estin prosōpolēmpsia para tōi theōi."
+     }
+    },
+    {
+     "zh": "凡没有律法（上帝通过摩西颁布的规矩）而犯了罪（违背上帝的事）的，也要不靠律法而灭亡；凡在律法之下犯了罪的，要按律法受审判。",
+     "old": {
+      "who": "和合本",
+      "text": "凡没有律法犯了罪的、也必不按律法灭亡．凡在律法以下犯了罪的、也必按律法受审判、"
+     },
+     "sa": {
+      "text": "Ὅσοι γὰρ ἀνόμως ἥμαρτον, ἀνόμως καὶ ἀπολοῦνται· καὶ ὅσοι ἐν νόμῳ ἥμαρτον, διὰ νόμου κριθήσονται·",
+      "tr": "Hosoi gar anomōs hēmarton, anomōs kai apolountai; kai hosoi en nomōi hēmarton, dia nomou krithēsontai;"
+     }
+    },
+    {
+     "zh": "因为在上帝面前，不是听律法的人为义（算为对），而是行律法的人要被称为义。",
+     "old": {
+      "who": "和合本",
+      "text": "（原来在神面前、不是听律法的为义、乃是行律法的称义．",
+      "notes": [
+       {
+        "w": "（原来……",
+        "note": "和合本从这一节到第 15 节加了一对括号，是和合本原书就有的，原文没有。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "οὐ γὰρ οἱ ἀκροαταὶ νόμου δίκαιοι παρὰ τῷ θεῷ, ἀλλʼ οἱ ποιηταὶ νόμου δικαιωθήσονται.",
+      "tr": "ou gar hoi akroatai nomou dikaioi para tōi theōi, allʼ hoi poiētai nomou dikaiōthēsontai."
+     }
+    },
+    {
+     "zh": "没有律法的外族人（不是犹太人的人），如果凭着本性做了律法上的事，他们虽然没有律法，自己对自己就是律法。",
+     "old": {
+      "who": "和合本",
+      "text": "没有律法的外邦人、若顺着本性行律法上的事、他们虽然没有律法、自己就是自己的律法．"
+     },
+     "sa": {
+      "text": "ὅταν γὰρ ἔθνη τὰ μὴ νόμον ἔχοντα φύσει τὰ τοῦ νόμου ποιῶσιν, οὗτοι νόμον μὴ ἔχοντες ἑαυτοῖς εἰσιν νόμος·",
+      "tr": "hotan gar ethnē ta mē nomon echonta physei ta tou nomou poiōsin, houtoi nomon mē echontes heautois eisin nomos;"
+     }
+    },
+    {
+     "zh": "他们显明律法所要求的事写在他们心里；他们的良心一同作证，他们的想法也互相控告，或者辩护。",
+     "old": {
+      "who": "和合本",
+      "text": "这是显出律法的功用刻在他们心里、他们是非之心同作见证、并且他们的思念互相较量、或以为是、或以为非）"
+     },
+     "sa": {
+      "text": "οἵτινες ἐνδείκνυνται τὸ ἔργον τοῦ νόμου γραπτὸν ἐν ταῖς καρδίαις αὐτῶν, συμμαρτυρούσης αὐτῶν τῆς συνειδήσεως καὶ μεταξὺ ἀλλήλων τῶν λογισμῶν κατηγορούντων ἢ καὶ ἀπολογουμένων,",
+      "tr": "hoitines endeiknyntai to ergon tou nomou grapton en tais kardiais autōn, symmartyrousēs autōn tēs syneidēseōs kai metaxy allēlōn tōn logismōn katēgorountōn ē kai apologoumenōn,"
+     }
+    },
+    {
+     "zh": "就在上帝借着基督（上帝选立的那位救主）耶稣审判人隐秘之事的那一天，照我的福音（好消息）所说的。",
+     "old": {
+      "who": "和合本",
+      "text": "就在神藉耶稣基督审判人隐秘事的日子、照着我的福音所言。"
+     },
+     "sa": {
+      "text": "ἐν ἡμέρᾳ ὅτε κρίνει ὁ θεὸς τὰ κρυπτὰ τῶν ἀνθρώπων κατὰ τὸ εὐαγγέλιόν μου διὰ Χριστοῦ Ἰησοῦ.",
+      "tr": "en hēmerāi hote krinei ho theos ta krypta tōn anthrōpōn kata to euangelion mou dia Christou Iēsou."
+     }
+    },
+    {
+     "zh": "你既然称为犹太人，倚靠律法，又拿上帝来夸口；",
+     "old": {
+      "who": "和合本",
+      "text": "你称为犹太人、又倚靠律法、且指着神夸口．"
+     },
+     "sa": {
+      "text": "Εἰ δὲ σὺ Ἰουδαῖος ἐπονομάζῃ καὶ ἐπαναπαύῃ νόμῳ καὶ καυχᾶσαι ἐν θεῷ",
+      "tr": "Ei de sy Ioudaios eponomazēi kai epanapauēi nomōi kai kauchasai en theōi"
+     }
+    },
+    {
+     "zh": "你既从律法受了教导，知道他的旨意，也能分辨什么是更好的；",
+     "old": {
+      "who": "和合本",
+      "text": "既从律法中受了教训、就晓得神的旨意、也能分别是非、"
+     },
+     "sa": {
+      "text": "καὶ γινώσκεις τὸ θέλημα καὶ δοκιμάζεις τὰ διαφέροντα κατηχούμενος ἐκ τοῦ νόμου,",
+      "tr": "kai ginōskeis to thelēma kai dokimazeis ta diapheronta katēchoumenos ek tou nomou,"
+     }
+    },
+    {
+     "zh": "又自信是瞎子的向导，是在黑暗里的人的光，",
+     "old": {
+      "who": "和合本",
+      "text": "又深信自己是给瞎子领路的、是黑暗中人的光、"
+     },
+     "sa": {
+      "text": "πέποιθάς τε σεαυτὸν ὁδηγὸν εἶναι τυφλῶν, φῶς τῶν ἐν σκότει,",
+      "tr": "pepoithas te seauton hodēgon einai typhlōn, phōs tōn en skotei,"
+     }
+    },
+    {
+     "zh": "是愚昧人的管教者，是小孩子的老师，因为你在律法里有了知识和真理的样式——",
+     "old": {
+      "who": "和合本",
+      "text": "是蠢笨人的师傅、是小孩子的先生、在律法上有知识和真理的模范。"
+     },
+     "sa": {
+      "text": "παιδευτὴν ἀφρόνων, διδάσκαλον νηπίων, ἔχοντα τὴν μόρφωσιν τῆς γνώσεως καὶ τῆς ἀληθείας ἐν τῷ νόμῳ—",
+      "tr": "paideutēn aphronōn, didaskalon nēpiōn, echonta tēn morphōsin tēs gnōseōs kai tēs alētheias en tōi nomōi—"
+     }
+    },
+    {
+     "zh": "那么，你这教导别人的，不教导自己吗？你宣讲不可偷窃，自己偷窃吗？",
+     "old": {
+      "who": "和合本",
+      "text": "你既是教导别人、还不教导自己么．你讲说人不可偷窃、自己还偷窃么．"
+     },
+     "sa": {
+      "text": "ὁ οὖν διδάσκων ἕτερον σεαυτὸν οὐ διδάσκεις; ὁ κηρύσσων μὴ κλέπτειν κλέπτεις;",
+      "tr": "ho oun didaskōn heteron seauton ou didaskeis? ho kēryssōn mē kleptein klepteis?"
+     }
+    },
+    {
+     "zh": "你说不可奸淫，自己奸淫吗？你憎恶偶像，自己却抢劫庙宇吗？",
+     "old": {
+      "who": "和合本",
+      "text": "你说人不可奸淫、自己还奸淫么．你厌恶偶像、自己还偷窃庙中之物么．"
+     },
+     "sa": {
+      "text": "ὁ λέγων μὴ μοιχεύειν μοιχεύεις; ὁ βδελυσσόμενος τὰ εἴδωλα ἱεροσυλεῖς;",
+      "tr": "ho legōn mē moicheuein moicheueis? ho bdelyssomenos ta eidōla hierosyleis?"
+     }
+    },
+    {
+     "zh": "你拿律法夸口，自己却违犯律法，羞辱上帝吗？",
+     "old": {
+      "who": "和合本",
+      "text": "你指着律法夸口、自己倒犯律法、玷辱神么。"
+     },
+     "sa": {
+      "text": "ὃς ἐν νόμῳ καυχᾶσαι, διὰ τῆς παραβάσεως τοῦ νόμου τὸν θεὸν ἀτιμάζεις;",
+      "tr": "hos en nomōi kauchasai, dia tēs parabaseōs tou nomou ton theon atimazeis?"
+     }
+    },
+    {
+     "zh": "正如经上（旧约圣经里）写着：「上帝的名因你们在外族人当中受到亵渎。」",
+     "old": {
+      "who": "和合本",
+      "text": "神的名在外邦人中、因你们受了亵渎、正如经上所记的。"
+     },
+     "sa": {
+      "text": "τὸ γὰρ ὄνομα τοῦ θεοῦ διʼ ὑμᾶς βλασφημεῖται ἐν τοῖς ἔθνεσιν, καθὼς γέγραπται.",
+      "tr": "to gar onoma tou theou diʼ hymas blasphēmeitai en tois ethnesin, kathōs gegraptai."
+     }
+    },
+    {
+     "zh": "你要是遵行律法，割礼（割去包皮的仪式，犹太人的记号）确实有益处；你要是违犯律法，你的割礼就成了没受割礼。",
+     "old": {
+      "who": "和合本",
+      "text": "你若是行律法的、割礼固然于你有益．若是犯律法的、你的割礼就算不得割礼。"
+     },
+     "sa": {
+      "text": "Περιτομὴ μὲν γὰρ ὠφελεῖ ἐὰν νόμον πράσσῃς· ἐὰν δὲ παραβάτης νόμου ᾖς, ἡ περιτομή σου ἀκροβυστία γέγονεν.",
+      "tr": "Peritomē men gar ōphelei ean nomon prassēis; ean de parabatēs nomou ēis, hē peritomē sou akrobystia gegonen."
+     }
+    },
+    {
+     "zh": "所以，没受割礼的人如果遵守律法的要求，他没受割礼不也要算作受了割礼吗？",
+     "old": {
+      "who": "和合本",
+      "text": "所以那未受割礼的、若遵守律法的条例、他虽然未受割礼、岂不算是有割礼么。"
+     },
+     "sa": {
+      "text": "ἐὰν οὖν ἡ ἀκροβυστία τὰ δικαιώματα τοῦ νόμου φυλάσσῃ, οὐχ ἡ ἀκροβυστία αὐτοῦ εἰς περιτομὴν λογισθήσεται;",
+      "tr": "ean oun hē akrobystia ta dikaiōmata tou nomou phylassēi, ouch hē akrobystia autou eis peritomēn logisthēsetai?"
+     }
+    },
+    {
+     "zh": "而且那生来没受割礼、却成全律法的人，要审判你这有律法条文和割礼、却违犯律法的人。",
+     "old": {
+      "who": "和合本",
+      "text": "而且那本来未受割礼的、若能全守律法、岂不是要审判你这有仪文和割礼竟犯律法的人么。"
+     },
+     "sa": {
+      "text": "καὶ κρινεῖ ἡ ἐκ φύσεως ἀκροβυστία τὸν νόμον τελοῦσα σὲ τὸν διὰ γράμματος καὶ περιτομῆς παραβάτην νόμου.",
+      "tr": "kai krinei hē ek physeōs akrobystia ton nomon telousa se ton dia grammatos kai peritomēs parabatēn nomou."
+     }
+    },
+    {
+     "zh": "因为外表上的犹太人不算是犹太人，外表上、肉身上的割礼也不算是割礼；",
+     "old": {
+      "who": "和合本",
+      "text": "因为外面作犹太人的、不是真犹太人、外面肉身的割礼、也不是真割礼．",
+      "notes": [
+       {
+        "w": "真犹太人、真割礼",
+        "note": "「真」字是和合本补的，原文只说「不是犹太人」「不是割礼」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "οὐ γὰρ ὁ ἐν τῷ φανερῷ Ἰουδαῖός ἐστιν, οὐδὲ ἡ ἐν τῷ φανερῷ ἐν σαρκὶ περιτομή·",
+      "tr": "ou gar ho en tōi phanerōi Ioudaios estin, oude hē en tōi phanerōi en sarki peritomē;"
+     }
+    },
+    {
+     "zh": "内里是犹太人的才是犹太人；割礼也是心里的，在于灵，不在于条文。这样的人所得的称赞不是从人来的，而是从上帝来的。",
+     "old": {
+      "who": "和合本",
+      "text": "惟有里面作的、才是真犹太人．真割礼也是心里的、在乎灵不在乎仪文．这人的称赞、不是从人来的、乃是从神来的。"
+     },
+     "sa": {
+      "text": "ἀλλʼ ὁ ἐν τῷ κρυπτῷ Ἰουδαῖος, καὶ περιτομὴ καρδίας ἐν πνεύματι οὐ γράμματι, οὗ ὁ ἔπαινος οὐκ ἐξ ἀνθρώπων ἀλλʼ ἐκ τοῦ θεοῦ.",
+      "tr": "allʼ ho en tōi kryptōi Ioudaios, kai peritomē kardias en pneumati ou grammati, hou ho epainos ouk ex anthrōpōn allʼ ek tou theou."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 3 章 · 人人都在罪之下，因信称义",
+   "no": 3,
+   "intro": "保罗先回答几个反问：犹太人还有什么长处？人的不义显出上帝的义，上帝罚人就不对吗？接着他引一连串经文，说犹太人和外族人都在罪之下，没有人能靠行律法被称为义。然后转折：现在上帝的义在律法以外显明了，人因着信、靠着耶稣白白地被称为义。",
+   "verses": [
+    {
+     "zh": "那么，犹太人有什么长处？割礼（割去包皮的仪式，犹太人的记号）有什么益处？",
+     "old": {
+      "who": "和合本",
+      "text": "这样说来、犹太人有甚么长处、割礼有甚么益处呢．"
+     },
+     "sa": {
+      "text": "Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου, ἢ τίς ἡ ὠφέλεια τῆς περιτομῆς;",
+      "tr": "Ti oun to perisson tou Ioudaiou, ē tis hē ōpheleia tēs peritomēs?"
+     }
+    },
+    {
+     "zh": "各方面都很多。首先，上帝的话交托给了他们。",
+     "old": {
+      "who": "和合本",
+      "text": "凡事大有好处．第一是神的圣言交托他们。"
+     },
+     "sa": {
+      "text": "πολὺ κατὰ πάντα τρόπον. πρῶτον μὲν γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ θεοῦ.",
+      "tr": "poly kata panta tropon. prōton men gar hoti episteuthēsan ta logia tou theou."
+     }
+    },
+    {
+     "zh": "那又怎样呢？如果有些人不信，难道他们的不信会废掉上帝的信实吗？",
+     "old": {
+      "who": "和合本",
+      "text": "即便有不信的、这有何妨呢．难道他们的不信、就废掉神的信么。",
+      "notes": [
+       {
+        "w": "神的信",
+        "note": "原文 pistis 用在上帝身上，指他守信、靠得住；和合本直译成「神的信」，白话写「信实」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "τί γάρ; εἰ ἠπίστησάν τινες, μὴ ἡ ἀπιστία αὐτῶν τὴν πίστιν τοῦ θεοῦ καταργήσει;",
+      "tr": "ti gar? ei ēpistēsan tines, mē hē apistia autōn tēn pistin tou theou katargēsei?"
+     }
+    },
+    {
+     "zh": "绝对不是！宁可说上帝是真实的，人人都是说谎的，正如经上（旧约圣经里）写着：「好让你说话的时候显为义，你受审的时候可以得胜。」",
+     "old": {
+      "who": "和合本",
+      "text": "断乎不能．不如说、神是真实的、人都是虚谎的．如经上所记、『你责备人的时候、显为公义．被人议论的时候、可以得胜。』"
+     },
+     "sa": {
+      "text": "μὴ γένοιτο· γινέσθω δὲ ὁ θεὸς ἀληθής, πᾶς δὲ ἄνθρωπος ψεύστης, καθὼς γέγραπται· Ὅπως ἂν δικαιωθῇς ἐν τοῖς λόγοις σου καὶ νικήσεις ἐν τῷ κρίνεσθαί σε.",
+      "tr": "mē genoito; ginesthō de ho theos alēthēs, pas de anthrōpos pseustēs, kathōs gegraptai; Hopōs an dikaiōthēis en tois logois sou kai nikēseis en tōi krinesthai se."
+     }
+    },
+    {
+     "zh": "如果我们的不义显出上帝的义来，我们要说什么呢？难道上帝降下愤怒（上帝对罪的惩罚）是不义的吗？我这是照人的说法说的。",
+     "old": {
+      "who": "和合本",
+      "text": "我且照着人的常话说、我们的不义、若显出神的义来、我们可以怎么说呢．神降怒、是他不义么．"
+     },
+     "sa": {
+      "text": "εἰ δὲ ἡ ἀδικία ἡμῶν θεοῦ δικαιοσύνην συνίστησιν, τί ἐροῦμεν; μὴ ἄδικος ὁ θεὸς ὁ ἐπιφέρων τὴν ὀργήν; κατὰ ἄνθρωπον λέγω.",
+      "tr": "ei de hē adikia hēmōn theou dikaiosynēn synistēsin, ti eroumen? mē adikos ho theos ho epipherōn tēn orgēn? kata anthrōpon legō."
+     }
+    },
+    {
+     "zh": "绝对不是！要是那样，上帝怎么审判世界呢？",
+     "old": {
+      "who": "和合本",
+      "text": "断乎不是．若是这样、神怎能审判世界呢。"
+     },
+     "sa": {
+      "text": "μὴ γένοιτο· ἐπεὶ πῶς κρινεῖ ὁ θεὸς τὸν κόσμον;",
+      "tr": "mē genoito; epei pōs krinei ho theos ton kosmon?"
+     }
+    },
+    {
+     "zh": "如果上帝的真实因我的虚谎更加显出来，使他得荣耀，为什么我还像罪人一样受审判呢？",
+     "old": {
+      "who": "和合本",
+      "text": "若神的真实、因我的虚谎、越发显出他的荣耀、为甚么我还受审判、好像罪人呢。"
+     },
+     "sa": {
+      "text": "εἰ δὲ ἡ ἀλήθεια τοῦ θεοῦ ἐν τῷ ἐμῷ ψεύσματι ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ ὡς ἁμαρτωλὸς κρίνομαι,",
+      "tr": "ei de hē alētheia tou theou en tōi emōi pseusmati eperisseusen eis tēn doxan autou, ti eti kagō hōs hamartōlos krinomai,"
+     }
+    },
+    {
+     "zh": "为什么不干脆说「我们作恶吧，好让善来到」？有人毁谤我们，说我们讲过这话。这样的人被定罪是应该的。",
+     "old": {
+      "who": "和合本",
+      "text": "为甚么不说、我们可以作恶以成善呢、这是毁谤我们的人、说我们有这话．这等人定罪、是该当的。"
+     },
+     "sa": {
+      "text": "καὶ μὴ καθὼς βλασφημούμεθα καὶ καθώς φασίν τινες ἡμᾶς λέγειν ὅτι Ποιήσωμεν τὰ κακὰ ἵνα ἔλθῃ τὰ ἀγαθά; ὧν τὸ κρίμα ἔνδικόν ἐστιν.",
+      "tr": "kai mē kathōs blasphēmoumetha kai kathōs phasin tines hēmas legein hoti Poiēsōmen ta kaka hina elthēi ta agatha? hōn to krima endikon estin."
+     }
+    },
+    {
+     "zh": "那又怎样呢？我们比别人强吗？完全不是。因为我们已经指控过，犹太人和希腊人（这里泛指外族人）全都在罪（违背上帝的事）之下，",
+     "old": {
+      "who": "和合本",
+      "text": "这却怎么样呢．我们比他们强么．决不是的．因我们已经证明、犹太人和希利尼人都在罪恶之下．"
+     },
+     "sa": {
+      "text": "Τί οὖν; προεχόμεθα; οὐ πάντως, προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας ὑφʼ ἁμαρτίαν εἶναι,",
+      "tr": "Ti oun? proechometha? ou pantōs, proēitiasametha gar Ioudaious te kai Hellēnas pantas hyphʼ hamartian einai,"
+     }
+    },
+    {
+     "zh": "正如经上写着：「没有义人（在上帝面前算为对的人），连一个也没有；",
+     "old": {
+      "who": "和合本",
+      "text": "就如经上所记、『没有义人、连一个也没有．"
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται ὅτι Οὐκ ἔστιν δίκαιος οὐδὲ εἷς,",
+      "tr": "kathōs gegraptai hoti Ouk estin dikaios oude heis,"
+     }
+    },
+    {
+     "zh": "没有明白的，没有寻求上帝的。",
+     "old": {
+      "who": "和合本",
+      "text": "没有明白的、没有寻求神的．"
+     },
+     "sa": {
+      "text": "οὐκ ἔστιν ὁ συνίων, οὐκ ἔστιν ὁ ἐκζητῶν τὸν θεόν·",
+      "tr": "ouk estin ho syniōn, ouk estin ho ekzētōn ton theon;"
+     }
+    },
+    {
+     "zh": "人人都偏离了，一同变得无用；没有行善的，连一个也没有。",
+     "old": {
+      "who": "和合本",
+      "text": "都是偏离正路、一同变为无用．没有行善的、连一个也没有。"
+     },
+     "sa": {
+      "text": "πάντες ἐξέκλιναν, ἅμα ἠχρεώθησαν· οὐκ ἔστιν ποιῶν χρηστότητα, οὐκ ἔστιν ἕως ἑνός.",
+      "tr": "pantes exeklinan, hama ēchreōthēsan; ouk estin poiōn chrēstotēta, ouk estin heōs henos."
+     }
+    },
+    {
+     "zh": "他们的喉咙是敞开的坟墓，他们用舌头行诡诈，嘴唇下面有毒蛇的毒液；",
+     "old": {
+      "who": "和合本",
+      "text": "他们的喉咙是敞开的坟墓．他们用舌头弄诡诈．嘴唇里有虺蛇的毒气．"
+     },
+     "sa": {
+      "text": "τάφος ἀνεῳγμένος ὁ λάρυγξ αὐτῶν, ταῖς γλώσσαις αὐτῶν ἐδολιοῦσαν, ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν,",
+      "tr": "taphos aneōigmenos ho larynx autōn, tais glōssais autōn edoliousan, ios aspidōn hypo ta cheilē autōn,"
+     }
+    },
+    {
+     "zh": "他们满口是咒骂和苦毒。",
+     "old": {
+      "who": "和合本",
+      "text": "满口是咒骂苦毒．"
+     },
+     "sa": {
+      "text": "ὧν τὸ στόμα ἀρᾶς καὶ πικρίας γέμει·",
+      "tr": "hōn to stoma aras kai pikrias gemei;"
+     }
+    },
+    {
+     "zh": "他们的脚为了流人的血飞跑，",
+     "old": {
+      "who": "和合本",
+      "text": "杀人流血他们的脚飞跑．"
+     },
+     "sa": {
+      "text": "ὀξεῖς οἱ πόδες αὐτῶν ἐκχέαι αἷμα,",
+      "tr": "oxeis hoi podes autōn ekcheai haima,"
+     }
+    },
+    {
+     "zh": "他们的路上是毁坏和悲惨，",
+     "old": {
+      "who": "和合本",
+      "text": "所经过的路、便行残害暴虐的事．"
+     },
+     "sa": {
+      "text": "σύντριμμα καὶ ταλαιπωρία ἐν ταῖς ὁδοῖς αὐτῶν,",
+      "tr": "syntrimma kai talaipōria en tais hodois autōn,"
+     }
+    },
+    {
+     "zh": "平安的路他们不认识。",
+     "old": {
+      "who": "和合本",
+      "text": "平安的路、他们未曾知道．"
+     },
+     "sa": {
+      "text": "καὶ ὁδὸν εἰρήνης οὐκ ἔγνωσαν.",
+      "tr": "kai hodon eirēnēs ouk egnōsan."
+     }
+    },
+    {
+     "zh": "他们眼前没有对上帝的惧怕。」",
+     "old": {
+      "who": "和合本",
+      "text": "他们眼中不怕神。』"
+     },
+     "sa": {
+      "text": "οὐκ ἔστιν φόβος θεοῦ ἀπέναντι τῶν ὀφθαλμῶν αὐτῶν.",
+      "tr": "ouk estin phobos theou apenanti tōn ophthalmōn autōn."
+     }
+    },
+    {
+     "zh": "我们知道，律法（上帝通过摩西颁布的规矩）所说的一切，都是对在律法之下的人说的，好让每一张口都闭上，全世界都在上帝面前伏罪。",
+     "old": {
+      "who": "和合本",
+      "text": "我们晓得律法上的话、都是对律法以下之人说的、好塞住各人的口、叫普世的人都伏在神审判之下．"
+     },
+     "sa": {
+      "text": "Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ, ἵνα πᾶν στόμα φραγῇ καὶ ὑπόδικος γένηται πᾶς ὁ κόσμος τῷ θεῷ·",
+      "tr": "Oidamen de hoti hosa ho nomos legei tois en tōi nomōi lalei, hina pan stoma phragēi kai hypodikos genētai pas ho kosmos tōi theōi;"
+     }
+    },
+    {
+     "zh": "因为没有一个有血肉的人能靠行律法在他面前被称为义（被上帝算为对），因为借着律法，人才认识罪。",
+     "old": {
+      "who": "和合本",
+      "text": "所以凡有血气的没有一个、因行律法、能在神面前称义．因为律法本是叫人知罪。"
+     },
+     "sa": {
+      "text": "διότι ἐξ ἔργων νόμου οὐ δικαιωθήσεται πᾶσα σὰρξ ἐνώπιον αὐτοῦ, διὰ γὰρ νόμου ἐπίγνωσις ἁμαρτίας.",
+      "tr": "dioti ex ergōn nomou ou dikaiōthēsetai pasa sarx enōpion autou, dia gar nomou epignōsis hamartias."
+     }
+    },
+    {
+     "zh": "但是现在，上帝的义在律法以外已经显明出来，有律法和先知（指犹太人的全部经书）作见证；",
+     "old": {
+      "who": "和合本",
+      "text": "但如今神的义在律法以外已经显明出来、有律法和先知为证．"
+     },
+     "sa": {
+      "text": "Νυνὶ δὲ χωρὶς νόμου δικαιοσύνη θεοῦ πεφανέρωται, μαρτυρουμένη ὑπὸ τοῦ νόμου καὶ τῶν προφητῶν,",
+      "tr": "Nyni de chōris nomou dikaiosynē theou pephanerōtai, martyroumenē hypo tou nomou kai tōn prophētōn,"
+     }
+    },
+    {
+     "zh": "就是上帝的义，借着对耶稣基督（上帝选立的那位救主）的信，给一切信的人，并没有分别。",
+     "old": {
+      "who": "和合本",
+      "text": "就是神的义、因信耶稣基督、加给一切相信的人、并没有分别．"
+     },
+     "sa": {
+      "text": "δικαιοσύνη δὲ θεοῦ διὰ πίστεως Ἰησοῦ Χριστοῦ, εἰς πάντας τοὺς πιστεύοντας, οὐ γάρ ἐστιν διαστολή.",
+      "tr": "dikaiosynē de theou dia pisteōs Iēsou Christou, eis pantas tous pisteuontas, ou gar estin diastolē."
+     }
+    },
+    {
+     "zh": "因为人人都犯了罪，够不上上帝的荣耀，",
+     "old": {
+      "who": "和合本",
+      "text": "因为世人都犯了罪、亏缺了神的荣耀。"
+     },
+     "sa": {
+      "text": "πάντες γὰρ ἥμαρτον καὶ ὑστεροῦνται τῆς δόξης τοῦ θεοῦ,",
+      "tr": "pantes gar hēmarton kai hysterountai tēs doxēs tou theou,"
+     }
+    },
+    {
+     "zh": "却靠着他的恩典（上帝白白给的好意），借着在基督耶稣里的救赎，白白地被称为义。",
+     "old": {
+      "who": "和合本",
+      "text": "如今却蒙神的恩典、因基督耶稣的救赎、就白白的称义。"
+     },
+     "sa": {
+      "text": "δικαιούμενοι δωρεὰν τῇ αὐτοῦ χάριτι διὰ τῆς ἀπολυτρώσεως τῆς ἐν Χριστῷ Ἰησοῦ·",
+      "tr": "dikaioumenoi dōrean tēi autou chariti dia tēs apolytrōseōs tēs en Christōi Iēsou;"
+     }
+    },
+    {
+     "zh": "上帝摆出他来，借着信，靠着他的血，作为除罪的祭，为要显明上帝的义，因为上帝宽容了人从前所犯的罪；",
+     "old": {
+      "who": "和合本",
+      "text": "神设立耶稣作挽回祭、是凭着耶稣的血、借着人的信、要显明神的义．因为他用忍耐的心、宽容人先时所犯的罪．"
+     },
+     "sa": {
+      "text": "ὃν προέθετο ὁ θεὸς ἱλαστήριον διὰ πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων",
+      "tr": "hon proetheto ho theos hilastērion dia pisteōs en tōi autou haimati eis endeixin tēs dikaiosynēs autou dia tēn paresin tōn progegonotōn hamartēmatōn"
+     }
+    },
+    {
+     "zh": "这是出于上帝的忍耐，为要在现今的时候显明他的义，好让他自己是义的，也称那信耶稣的人为义。",
+     "old": {
+      "who": "和合本",
+      "text": "好在今时显明他的义、使人知道他自己为义、也称信耶稣的人为义。"
+     },
+     "sa": {
+      "text": "ἐν τῇ ἀνοχῇ τοῦ θεοῦ, πρὸς τὴν ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ ἐν τῷ νῦν καιρῷ, εἰς τὸ εἶναι αὐτὸν δίκαιον καὶ δικαιοῦντα τὸν ἐκ πίστεως Ἰησοῦ.",
+      "tr": "en tēi anochēi tou theou, pros tēn endeixin tēs dikaiosynēs autou en tōi nyn kairōi, eis to einai auton dikaion kai dikaiounta ton ek pisteōs Iēsou."
+     }
+    },
+    {
+     "zh": "那么，哪里还能夸口呢？已经被排除了。靠的是什么律呢？是行为的律吗？不是，是信的律。",
+     "old": {
+      "who": "和合本",
+      "text": "既是这样、那里能夸口呢．没有可夸的了。用何法没有的呢、是用立功之法么．不是、乃用信主之法。"
+     },
+     "sa": {
+      "text": "Ποῦ οὖν ἡ καύχησις; ἐξεκλείσθη. διὰ ποίου νόμου; τῶν ἔργων; οὐχί, ἀλλὰ διὰ νόμου πίστεως.",
+      "tr": "Pou oun hē kauchēsis? exekleisthē. dia poiou nomou? tōn ergōn? ouchi, alla dia nomou pisteōs."
+     }
+    },
+    {
+     "zh": "因为我们认定，人被称为义是因着信（信靠），不在于行律法。",
+     "old": {
+      "who": "和合本",
+      "text": "所以我们看定了、人称义是因着信、不在乎遵行律法。"
+     },
+     "sa": {
+      "text": "λογιζόμεθα γὰρ δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.",
+      "tr": "logizometha gar dikaiousthai pistei anthrōpon chōris ergōn nomou."
+     }
+    },
+    {
+     "zh": "难道上帝只是犹太人的上帝吗？不也是外族人（不是犹太人的人）的吗？是的，也是外族人的，",
+     "old": {
+      "who": "和合本",
+      "text": "难道神只作犹太人的神么．不也是作外邦人的神么．是的、也作外邦人的神。"
+     },
+     "sa": {
+      "text": "ἢ Ἰουδαίων ὁ θεὸς μόνον; οὐχὶ καὶ ἐθνῶν; ναὶ καὶ ἐθνῶν,",
+      "tr": "ē Ioudaiōn ho theos monon? ouchi kai ethnōn? nai kai ethnōn,"
+     }
+    },
+    {
+     "zh": "既然上帝只有一位；他要因着信称受割礼的人为义，也要借着信称没受割礼的人为义。",
+     "old": {
+      "who": "和合本",
+      "text": "神既是一位、他就要因信称那受割礼的为义、也要因信称那未受割礼的为义。"
+     },
+     "sa": {
+      "text": "εἴπερ εἷς ὁ θεός, ὃς δικαιώσει περιτομὴν ἐκ πίστεως καὶ ἀκροβυστίαν διὰ τῆς πίστεως.",
+      "tr": "eiper heis ho theos, hos dikaiōsei peritomēn ek pisteōs kai akrobystian dia tēs pisteōs."
+     }
+    },
+    {
+     "zh": "那么，我们是借着信废掉律法吗？绝对不是！我们反而是确立律法。",
+     "old": {
+      "who": "和合本",
+      "text": "这样、我们因信废了律法么．断乎不是、更是坚固律法。"
+     },
+     "sa": {
+      "text": "νόμον οὖν καταργοῦμεν διὰ τῆς πίστεως; μὴ γένοιτο, ἀλλὰ νόμον ἱστάνομεν.",
+      "tr": "nomon oun katargoumen dia tēs pisteōs? mē genoito, alla nomon histanomen."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 4 章 · 亚伯拉罕的信",
+   "no": 4,
+   "intro": "保罗拿祖先亚伯拉罕作例子：经上说他信上帝，这就算作他的义，不是靠做了什么。而且这是他受割礼以前的事，所以他是一切信的人的父，不论受没受割礼。上帝给他的应许靠的是信，不是律法。这话也是为我们写的：信那位使耶稣复活的，也要被算为义。",
+   "verses": [
+    {
+     "zh": "那么，论到按肉身说是我们祖先的亚伯拉罕（犹太人的始祖），我们要说他得着了什么呢？",
+     "old": {
+      "who": "和合本",
+      "text": "如此说来、我们的祖宗亚伯拉罕、凭着肉体得了甚么呢。"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν εὑρηκέναι Ἀβραὰμ τὸν προπάτορα ἡμῶν κατὰ σάρκα;",
+      "tr": "Ti oun eroumen heurēkenai Abraam ton propatora hēmōn kata sarka?"
+     }
+    },
+    {
+     "zh": "如果亚伯拉罕是因行为被称为义（被上帝算为对），他就有可夸口的，只是在上帝面前没有。",
+     "old": {
+      "who": "和合本",
+      "text": "倘若亚伯拉罕是因行为称义、就有可夸的．只是在神面前并无可夸。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ Ἀβραὰμ ἐξ ἔργων ἐδικαιώθη, ἔχει καύχημα· ἀλλʼ οὐ πρὸς θεόν,",
+      "tr": "ei gar Abraam ex ergōn edikaiōthē, echei kauchēma; allʼ ou pros theon,"
+     }
+    },
+    {
+     "zh": "经上（旧约圣经里）怎么说呢？「亚伯拉罕信上帝，这就算作他的义。」",
+     "old": {
+      "who": "和合本",
+      "text": "经上说甚么呢．说、『亚伯拉罕信神、这就算为他的义。』"
+     },
+     "sa": {
+      "text": "τί γὰρ ἡ γραφὴ λέγει; Ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην.",
+      "tr": "ti gar hē graphē legei? Episteusen de Abraam tōi theōi kai elogisthē autōi eis dikaiosynēn."
+     }
+    },
+    {
+     "zh": "做工的人得工钱，不算是恩典，而算是欠他的；",
+     "old": {
+      "who": "和合本",
+      "text": "作工的得工价、不算恩典、乃是该得的、"
+     },
+     "sa": {
+      "text": "τῷ δὲ ἐργαζομένῳ ὁ μισθὸς οὐ λογίζεται κατὰ χάριν ἀλλὰ κατὰ ὀφείλημα·",
+      "tr": "tōi de ergazomenōi ho misthos ou logizetai kata charin alla kata opheilēma;"
+     }
+    },
+    {
+     "zh": "但那不做工、只信那位称不敬虔的人为义的，他的信（信靠）就算作义。",
+     "old": {
+      "who": "和合本",
+      "text": "惟有不作工的、只信称罪人为义的神、他的信就算为义。"
+     },
+     "sa": {
+      "text": "τῷ δὲ μὴ ἐργαζομένῳ, πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ, λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην,",
+      "tr": "tōi de mē ergazomenōi, pisteuonti de epi ton dikaiounta ton asebē, logizetai hē pistis autou eis dikaiosynēn,"
+     }
+    },
+    {
+     "zh": "正如大卫（古代以色列的王）也说，上帝不看行为就算他为义的人是有福的：",
+     "old": {
+      "who": "和合本",
+      "text": "正如大卫称那在行为以外、蒙神算为义的人是有福的。"
+     },
+     "sa": {
+      "text": "καθάπερ καὶ Δαυὶδ λέγει τὸν μακαρισμὸν τοῦ ἀνθρώπου ᾧ ὁ θεὸς λογίζεται δικαιοσύνην χωρὶς ἔργων·",
+      "tr": "kathaper kai Dauid legei ton makarismon tou anthrōpou hōi ho theos logizetai dikaiosynēn chōris ergōn;"
+     }
+    },
+    {
+     "zh": "「过犯得到赦免、罪（违背上帝的事）被遮盖的人有福了；",
+     "old": {
+      "who": "和合本",
+      "text": "他说、『得赦免其过、遮盖其罪的、这人是有福的。"
+     },
+     "sa": {
+      "text": "Μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι,",
+      "tr": "Makarioi hōn aphethēsan hai anomiai kai hōn epekalyphthēsan hai hamartiai,"
+     }
+    },
+    {
+     "zh": "主不算他有罪的人有福了。」",
+     "old": {
+      "who": "和合本",
+      "text": "主不算为有罪的、这人是有福的。』"
+     },
+     "sa": {
+      "text": "μακάριος ἀνὴρ οὗ οὐ μὴ λογίσηται κύριος ἁμαρτίαν.",
+      "tr": "makarios anēr hou ou mē logisētai kyrios hamartian."
+     }
+    },
+    {
+     "zh": "那么，这福是只给受割礼（割去包皮的仪式，犹太人的记号）的人，还是也给没受割礼的人呢？因为我们说：「亚伯拉罕的信算作他的义。」",
+     "old": {
+      "who": "和合本",
+      "text": "如此看来、这福是单加给那受割礼的人么．不也是加给那未受割礼的人么．因我们所说、亚伯拉罕的信、就算为他的义。"
+     },
+     "sa": {
+      "text": "Ὁ μακαρισμὸς οὖν οὗτος ἐπὶ τὴν περιτομὴν ἢ καὶ ἐπὶ τὴν ἀκροβυστίαν; λέγομεν γάρ· Ἐλογίσθη τῷ Ἀβραὰμ ἡ πίστις εἰς δικαιοσύνην.",
+      "tr": "Ho makarismos oun houtos epi tēn peritomēn ē kai epi tēn akrobystian? legomen gar; Elogisthē tōi Abraam hē pistis eis dikaiosynēn."
+     }
+    },
+    {
+     "zh": "那是怎么算的呢？是在他受了割礼的时候，还是在没受割礼的时候？不是在受了割礼的时候，而是在没受割礼的时候。",
+     "old": {
+      "who": "和合本",
+      "text": "是怎么算的呢．是在他受割礼的时候呢．是在他未受割礼的时候呢．不是在受割礼的时候、乃是在未受割礼的时候。"
+     },
+     "sa": {
+      "text": "πῶς οὖν ἐλογίσθη; ἐν περιτομῇ ὄντι ἢ ἐν ἀκροβυστίᾳ; οὐκ ἐν περιτομῇ ἀλλʼ ἐν ἀκροβυστίᾳ·",
+      "tr": "pōs oun elogisthē? en peritomēi onti ē en akrobystiāi? ouk en peritomēi allʼ en akrobystiāi;"
+     }
+    },
+    {
+     "zh": "他领受了割礼这个记号，作为他没受割礼时因信而有的义的印证，好让他作一切没受割礼而信的人的父，使义也算给他们；",
+     "old": {
+      "who": "和合本",
+      "text": "并且他受了割礼的记号、作他未受割礼的时候因信称义的印证、叫他作一切未受割礼而信之人的父、使他们也算为义．"
+     },
+     "sa": {
+      "text": "καὶ σημεῖον ἔλαβεν περιτομῆς, σφραγῖδα τῆς δικαιοσύνης τῆς πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ, εἰς τὸ εἶναι αὐτὸν πατέρα πάντων τῶν πιστευόντων διʼ ἀκροβυστίας, εἰς τὸ λογισθῆναι αὐτοῖς τὴν δικαιοσύνην,",
+      "tr": "kai sēmeion elaben peritomēs, sphragida tēs dikaiosynēs tēs pisteōs tēs en tēi akrobystiāi, eis to einai auton patera pantōn tōn pisteuontōn diʼ akrobystias, eis to logisthēnai autois tēn dikaiosynēn,"
+     }
+    },
+    {
+     "zh": "他也作受割礼的人的父，就是那些不但受了割礼、而且照着我们祖先亚伯拉罕没受割礼时那信的脚踪去走的人。",
+     "old": {
+      "who": "和合本",
+      "text": "又作受割礼之人的父、就是那些不但受割礼、并且按我们的祖宗亚伯拉罕、未受割礼而信之踪迹去行的人。"
+     },
+     "sa": {
+      "text": "καὶ πατέρα περιτομῆς τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν τοῖς ἴχνεσιν τῆς ἐν ἀκροβυστίᾳ πίστεως τοῦ πατρὸς ἡμῶν Ἀβραάμ.",
+      "tr": "kai patera peritomēs tois ouk ek peritomēs monon alla kai tois stoichousin tois ichnesin tēs en akrobystiāi pisteōs tou patros hēmōn Abraam."
+     }
+    },
+    {
+     "zh": "因为给亚伯拉罕和他后裔的应许，说他要承受世界，不是借着律法（上帝通过摩西颁布的规矩），而是借着因信而有的义。",
+     "old": {
+      "who": "和合本",
+      "text": "因为神应许亚伯拉罕和他后裔、必得承受世界、不是因律法、乃是因信而得的义。"
+     },
+     "sa": {
+      "text": "Οὐ γὰρ διὰ νόμου ἡ ἐπαγγελία τῷ Ἀβραὰμ ἢ τῷ σπέρματι αὐτοῦ, τὸ κληρονόμον αὐτὸν εἶναι κόσμου, ἀλλὰ διὰ δικαιοσύνης πίστεως·",
+      "tr": "Ou gar dia nomou hē epangelia tōi Abraam ē tōi spermati autou, to klēronomon auton einai kosmou, alla dia dikaiosynēs pisteōs;"
+     }
+    },
+    {
+     "zh": "如果属律法的人才是承受的人，信就落空了，应许也废掉了。",
+     "old": {
+      "who": "和合本",
+      "text": "若是属乎律法的人、才得为后嗣、信就归于虚空、应许也就废弃了。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ οἱ ἐκ νόμου κληρονόμοι, κεκένωται ἡ πίστις καὶ κατήργηται ἡ ἐπαγγελία·",
+      "tr": "ei gar hoi ek nomou klēronomoi, kekenōtai hē pistis kai katērgētai hē epangelia;"
+     }
+    },
+    {
+     "zh": "因为律法带来愤怒（上帝对罪的惩罚）；哪里没有律法，哪里就没有违犯。",
+     "old": {
+      "who": "和合本",
+      "text": "因为律法是惹动忿怒的．那里没有律法、那里就没有过犯。"
+     },
+     "sa": {
+      "text": "ὁ γὰρ νόμος ὀργὴν κατεργάζεται, οὗ δὲ οὐκ ἔστιν νόμος, οὐδὲ παράβασις.",
+      "tr": "ho gar nomos orgēn katergazetai, hou de ouk estin nomos, oude parabasis."
+     }
+    },
+    {
+     "zh": "所以这是出于信，为要照着恩典（上帝白白给的好意），使应许确定地归给所有的后裔：不但归给属律法的，也归给有亚伯拉罕那样的信的。他是我们所有人的父，",
+     "old": {
+      "who": "和合本",
+      "text": "所以人得为后嗣是本乎信．因此就属乎恩．叫应许定然归给一切后裔．不但归给那属乎律法的、也归给那效法亚伯拉罕之信的。"
+     },
+     "sa": {
+      "text": "Διὰ τοῦτο ἐκ πίστεως, ἵνα κατὰ χάριν, εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν παντὶ τῷ σπέρματι, οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως Ἀβραάμ (ὅς ἐστιν πατὴρ πάντων ἡμῶν,",
+      "tr": "Dia touto ek pisteōs, hina kata charin, eis to einai bebaian tēn epangelian panti tōi spermati, ou tōi ek tou nomou monon alla kai tōi ek pisteōs Abraam (hos estin patēr pantōn hēmōn,"
+     }
+    },
+    {
+     "zh": "正如经上写着：「我已经立你作许多民族的父。」他在他所信的上帝面前是这样的；这位上帝使死人活过来，叫不存在的成为存在。",
+     "old": {
+      "who": "和合本",
+      "text": "亚伯拉罕所信的、是那叫死人复活使无变为有的神、他在主面前作我们世人的父．如经上所记、『我已经立你作多国的父。』"
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται ὅτι Πατέρα πολλῶν ἐθνῶν τέθεικά σε), κατέναντι οὗ ἐπίστευσεν θεοῦ τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα·",
+      "tr": "kathōs gegraptai hoti Patera pollōn ethnōn tetheika se), katenanti hou episteusen theou tou zōiopoiountos tous nekrous kai kalountos ta mē onta hōs onta;"
+     }
+    },
+    {
+     "zh": "他在没有指望的时候仍然存着指望而信，就成了许多民族的父，正如所说的：「你的后裔将要这样。」",
+     "old": {
+      "who": "和合本",
+      "text": "他在无可指望的时候、因信仍有指望、就得以作多国的父、正如先前所说、『你的后裔将要如此。』"
+     },
+     "sa": {
+      "text": "ὃς παρʼ ἐλπίδα ἐπʼ ἐλπίδι ἐπίστευσεν εἰς τὸ γενέσθαι αὐτὸν πατέρα πολλῶν ἐθνῶν κατὰ τὸ εἰρημένον· Οὕτως ἔσται τὸ σπέρμα σου·",
+      "tr": "hos parʼ elpida epʼ elpidi episteusen eis to genesthai auton patera pollōn ethnōn kata to eirēmenon; Houtōs estai to sperma sou;"
+     }
+    },
+    {
+     "zh": "他的信没有软弱：他想到自己的身体已经像死了一样，因为他快一百岁了，也想到撒拉（他的妻子）已经不能生育，",
+     "old": {
+      "who": "和合本",
+      "text": "他将近百岁的时候、虽然想到自己的身体如同已死、撒拉的生育已经断绝、他的信心还是不輭弱．"
+     },
+     "sa": {
+      "text": "καὶ μὴ ἀσθενήσας τῇ πίστει κατενόησεν τὸ ἑαυτοῦ σῶμα νενεκρωμένον, ἑκατονταετής που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς μήτρας Σάρρας,",
+      "tr": "kai mē asthenēsas tēi pistei katenoēsen to heautou sōma nenekrōmenon, hekatontaetēs pou hyparchōn, kai tēn nekrōsin tēs mētras Sarras,"
+     }
+    },
+    {
+     "zh": "他对上帝的应许没有因不信而动摇，反而因信得着力量，把荣耀归给上帝，",
+     "old": {
+      "who": "和合本",
+      "text": "并且仰望神的应许、总没有因不信、心里起疑惑．反倒因信、心里得坚固、将荣耀归给神。"
+     },
+     "sa": {
+      "text": "εἰς δὲ τὴν ἐπαγγελίαν τοῦ θεοῦ οὐ διεκρίθη τῇ ἀπιστίᾳ ἀλλὰ ἐνεδυναμώθη τῇ πίστει, δοὺς δόξαν τῷ θεῷ",
+      "tr": "eis de tēn epangelian tou theou ou diekrithē tēi apistiāi alla enedynamōthē tēi pistei, dous doxan tōi theōi"
+     }
+    },
+    {
+     "zh": "并且完全确信，上帝所应许的，他也能做成。",
+     "old": {
+      "who": "和合本",
+      "text": "且满心相信、神所应许的必能作成．"
+     },
+     "sa": {
+      "text": "καὶ πληροφορηθεὶς ὅτι ὃ ἐπήγγελται δυνατός ἐστιν καὶ ποιῆσαι.",
+      "tr": "kai plērophorētheis hoti ho epēngeltai dynatos estin kai poiēsai."
+     }
+    },
+    {
+     "zh": "所以这就算作他的义。",
+     "old": {
+      "who": "和合本",
+      "text": "所以这就算为他的义。"
+     },
+     "sa": {
+      "text": "διὸ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην.",
+      "tr": "dio elogisthē autōi eis dikaiosynēn."
+     }
+    },
+    {
+     "zh": "「算作他的」这句话，不是单为他写的，",
+     "old": {
+      "who": "和合本",
+      "text": "算为他义的这句话、不是单为他写的、"
+     },
+     "sa": {
+      "text": "Οὐκ ἐγράφη δὲ διʼ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ,",
+      "tr": "Ouk egraphē de diʼ auton monon hoti elogisthē autōi,"
+     }
+    },
+    {
+     "zh": "也是为我们写的；我们这些信那位使我们的主耶稣从死人中复活的，也要这样被算为义。",
+     "old": {
+      "who": "和合本",
+      "text": "也是为我们将来得算为义之人写的．就是我们这信神使我们的主耶稣从死里复活的人。"
+     },
+     "sa": {
+      "text": "ἀλλὰ καὶ διʼ ἡμᾶς οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν,",
+      "tr": "alla kai diʼ hēmas hois mellei logizesthai, tois pisteuousin epi ton egeiranta Iēsoun ton kyrion hēmōn ek nekrōn,"
+     }
+    },
+    {
+     "zh": "耶稣为我们的过犯被交出去，又为我们被称为义而复活。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣被交给人、是为我们的过犯、复活、是为叫我们称义。"
+     },
+     "sa": {
+      "text": "ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν δικαίωσιν ἡμῶν.",
+      "tr": "hos paredothē dia ta paraptōmata hēmōn kai ēgerthē dia tēn dikaiōsin hēmōn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 5 章 · 与上帝和好，亚当与基督",
+   "no": 5,
+   "intro": "保罗说：既然因着信被称为义，我们就与上帝和好了，连在患难中也有盼望；基督在我们还是罪人的时候就为我们死，更显出上帝的爱。接着他拿亚当和基督对比：罪和死因一个人进入世界，恩典和生命也因一个人临到许多人，而且恩典胜过了罪。",
+   "verses": [
+    {
+     "zh": "所以，我们既然因着信（信靠）被称为义（被上帝算为对），就借着我们的主耶稣基督与上帝和好了；",
+     "old": {
+      "who": "和合本",
+      "text": "我们既因信称义、就借着我们的主耶稣基督、得与神相和。"
+     },
+     "sa": {
+      "text": "Δικαιωθέντες οὖν ἐκ πίστεως εἰρήνην ἔχομεν πρὸς τὸν θεὸν διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,",
+      "tr": "Dikaiōthentes oun ek pisteōs eirēnēn echomen pros ton theon dia tou kyriou hēmōn Iēsou Christou,"
+     }
+    },
+    {
+     "zh": "我们又借着他，因着信得以进入现在所站立的这恩典（上帝白白给的好意）里，并且因盼望上帝的荣耀而夸口。",
+     "old": {
+      "who": "和合本",
+      "text": "我们又借着他、因信得进入现在所站的这恩典中、并且欢欢喜喜盼望神的荣耀。"
+     },
+     "sa": {
+      "text": "διʼ οὗ καὶ τὴν προσαγωγὴν ἐσχήκαμεν τῇ πίστει εἰς τὴν χάριν ταύτην ἐν ᾗ ἑστήκαμεν, καὶ καυχώμεθα ἐπʼ ἐλπίδι τῆς δόξης τοῦ θεοῦ·",
+      "tr": "diʼ hou kai tēn prosagōgēn eschēkamen tēi pistei eis tēn charin tautēn en hēi hestēkamen, kai kauchōmetha epʼ elpidi tēs doxēs tou theou;"
+     }
+    },
+    {
+     "zh": "不但这样，我们在患难中也夸口，因为知道患难产生忍耐，",
+     "old": {
+      "who": "和合本",
+      "text": "不但如此、就是在患难中、也是欢欢喜喜的．因为知道患难生忍耐．"
+     },
+     "sa": {
+      "text": "οὐ μόνον δέ, ἀλλὰ καὶ καυχώμεθα ἐν ταῖς θλίψεσιν, εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται,",
+      "tr": "ou monon de, alla kai kauchōmetha en tais thlipsesin, eidotes hoti hē thlipsis hypomonēn katergazetai,"
+     }
+    },
+    {
+     "zh": "忍耐产生经得起考验的品格，这品格又产生盼望；",
+     "old": {
+      "who": "和合本",
+      "text": "忍耐生老练．老练生盼望．"
+     },
+     "sa": {
+      "text": "ἡ δὲ ὑπομονὴ δοκιμήν, ἡ δὲ δοκιμὴ ἐλπίδα.",
+      "tr": "hē de hypomonē dokimēn, hē de dokimē elpida."
+     }
+    },
+    {
+     "zh": "盼望不会叫人蒙羞，因为上帝的爱借着赐给我们的圣灵（上帝的灵）倾倒在我们心里。",
+     "old": {
+      "who": "和合本",
+      "text": "盼望不至于羞耻．因为所赐给我们的圣灵、将神的爱浇灌在我们心里。"
+     },
+     "sa": {
+      "text": "ἡ δὲ ἐλπὶς οὐ καταισχύνει· ὅτι ἡ ἀγάπη τοῦ θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν διὰ πνεύματος ἁγίου τοῦ δοθέντος ἡμῖν.",
+      "tr": "hē de elpis ou kataischynei; hoti hē agapē tou theou ekkechytai en tais kardiais hēmōn dia pneumatos hagiou tou dothentos hēmin."
+     }
+    },
+    {
+     "zh": "我们还软弱的时候，基督（上帝选立的那位救主）就在合适的时候为不敬虔的人死了。",
+     "old": {
+      "who": "和合本",
+      "text": "因我们还輭弱的时候、基督就按所定的日期为罪人死。"
+     },
+     "sa": {
+      "text": "Ἔτι γὰρ Χριστὸς ὄντων ἡμῶν ἀσθενῶν ἔτι κατὰ καιρὸν ὑπὲρ ἀσεβῶν ἀπέθανεν.",
+      "tr": "Eti gar Christos ontōn hēmōn asthenōn eti kata kairon hyper asebōn apethanen."
+     }
+    },
+    {
+     "zh": "为义人死，几乎没有人肯；为好人死，或许还有人敢。",
+     "old": {
+      "who": "和合本",
+      "text": "为义人死、是少有的、为仁人死、或者有敢作的。"
+     },
+     "sa": {
+      "text": "μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται· ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν·",
+      "tr": "molis gar hyper dikaiou tis apothaneitai; hyper gar tou agathou tacha tis kai tolmāi apothanein;"
+     }
+    },
+    {
+     "zh": "但是上帝向我们显明了他自己的爱：我们还是罪人的时候，基督就为我们死了。",
+     "old": {
+      "who": "和合本",
+      "text": "惟有基督在我们还作罪人的时候为我们死、神的爱就在此向我们显明了。"
+     },
+     "sa": {
+      "text": "συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεὸς ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν Χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν.",
+      "tr": "synistēsin de tēn heautou agapēn eis hēmas ho theos hoti eti hamartōlōn ontōn hēmōn Christos hyper hēmōn apethanen."
+     }
+    },
+    {
+     "zh": "现在我们既然靠着他的血被称为义，就更要借着他得救，脱离（上帝的）愤怒。",
+     "old": {
+      "who": "和合本",
+      "text": "现在我们既靠着他的血称义、就更要借着他免去神的忿怒。"
+     },
+     "sa": {
+      "text": "πολλῷ οὖν μᾶλλον δικαιωθέντες νῦν ἐν τῷ αἵματι αὐτοῦ σωθησόμεθα διʼ αὐτοῦ ἀπὸ τῆς ὀργῆς.",
+      "tr": "pollōi oun mallon dikaiōthentes nyn en tōi haimati autou sōthēsometha diʼ autou apo tēs orgēs."
+     }
+    },
+    {
+     "zh": "因为我们还是仇敌的时候，尚且借着他儿子的死与上帝和好；既然和好了，就更要靠他的生命得救（得到上帝的拯救，不至于灭亡）。",
+     "old": {
+      "who": "和合本",
+      "text": "因为我们作仇敌的时候、且借着神儿子的死、得与神和好、既已和好、就更要因他的生得救了。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ ἐχθροὶ ὄντες κατηλλάγημεν τῷ θεῷ διὰ τοῦ θανάτου τοῦ υἱοῦ αὐτοῦ, πολλῷ μᾶλλον καταλλαγέντες σωθησόμεθα ἐν τῇ ζωῇ αὐτοῦ·",
+      "tr": "ei gar echthroi ontes katēllagēmen tōi theōi dia tou thanatou tou huiou autou, pollōi mallon katallagentes sōthēsometha en tēi zōēi autou;"
+     }
+    },
+    {
+     "zh": "不但这样，我们还借着我们的主耶稣基督以上帝夸口；我们现在借着他得了和好。",
+     "old": {
+      "who": "和合本",
+      "text": "不但如此、我们既借着我主耶稣基督、得与神和好、也就借着他、以神为乐。"
+     },
+     "sa": {
+      "text": "οὐ μόνον δέ, ἀλλὰ καὶ καυχώμενοι ἐν τῷ θεῷ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, διʼ οὗ νῦν τὴν καταλλαγὴν ἐλάβομεν.",
+      "tr": "ou monon de, alla kai kauchōmenoi en tōi theōi dia tou kyriou hēmōn Iēsou Christou, diʼ hou nyn tēn katallagēn elabomen."
+     }
+    },
+    {
+     "zh": "所以，正如罪（违背上帝的事）是借着一个人进入世界，死又是借着罪来的，这样死就传到了所有的人，因为所有的人都犯了罪——",
+     "old": {
+      "who": "和合本",
+      "text": "这就如罪是从一人入了世界、死又是从罪来的、于是死就临到众人、因为众人都犯了罪。"
+     },
+     "sa": {
+      "text": "Διὰ τοῦτο ὥσπερ διʼ ἑνὸς ἀνθρώπου ἡ ἁμαρτία εἰς τὸν κόσμον εἰσῆλθεν καὶ διὰ τῆς ἁμαρτίας ὁ θάνατος, καὶ οὕτως εἰς πάντας ἀνθρώπους ὁ θάνατος διῆλθεν ἐφʼ ᾧ πάντες ἥμαρτον—",
+      "tr": "Dia touto hōsper diʼ henos anthrōpou hē hamartia eis ton kosmon eisēlthen kai dia tēs hamartias ho thanatos, kai houtōs eis pantas anthrōpous ho thanatos diēlthen ephʼ hōi pantes hēmarton—"
+     }
+    },
+    {
+     "zh": "在有律法（上帝通过摩西颁布的规矩）以前，罪已经在世上了；但没有律法的时候，罪是不记在账上的。",
+     "old": {
+      "who": "和合本",
+      "text": "没有律法之先、罪已经在世上．但没有律法、罪也不算罪。"
+     },
+     "sa": {
+      "text": "ἄχρι γὰρ νόμου ἁμαρτία ἦν ἐν κόσμῳ, ἁμαρτία δὲ οὐκ ἐλλογεῖται μὴ ὄντος νόμου,",
+      "tr": "achri gar nomou hamartia ēn en kosmōi, hamartia de ouk ellogeitai mē ontos nomou,"
+     }
+    },
+    {
+     "zh": "然而从亚当（第一个人）到摩西（传下犹太律法的人），死一直作王，连那些不像亚当那样违犯命令而犯罪的人，也在它的管辖之下。亚当是后来要来的那一位的预像。",
+     "old": {
+      "who": "和合本",
+      "text": "然而从亚当到摩西死就作了王、连那些不与亚当犯一样罪过的、也在他的权下．亚当乃是那以后要来之人的豫像。",
+      "notes": [
+       {
+        "w": "豫像",
+        "note": "原文 typos 是「模子、样式」，这里指预先显出后来那一位的样子。和合本译「豫像」，白话写「预像」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἀλλὰ ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ μέχρι Μωϋσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδάμ, ὅς ἐστιν τύπος τοῦ μέλλοντος.",
+      "tr": "alla ebasileusen ho thanatos apo Adam mechri Mōÿseōs kai epi tous mē hamartēsantas epi tōi homoiōmati tēs parabaseōs Adam, hos estin typos tou mellontos."
+     }
+    },
+    {
+     "zh": "但是恩赐和过犯不一样：如果因那一个人的过犯，许多人都死了，那么上帝的恩典，和借着耶稣基督这一个人的恩典而来的赏赐，就更加丰盛地临到了许多人。",
+     "old": {
+      "who": "和合本",
+      "text": "只是过犯不如恩赐．若因一人的过犯、众人都死了、何况神的恩典、与那因耶稣基督一人恩典中的赏赐、岂不更加倍的临到众人么。"
+     },
+     "sa": {
+      "text": "Ἀλλʼ οὐχ ὡς τὸ παράπτωμα, οὕτως καὶ τὸ χάρισμα· εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι οἱ πολλοὶ ἀπέθανον, πολλῷ μᾶλλον ἡ χάρις τοῦ θεοῦ καὶ ἡ δωρεὰ ἐν χάριτι τῇ τοῦ ἑνὸς ἀνθρώπου Ἰησοῦ Χριστοῦ εἰς τοὺς πολλοὺς ἐπερίσσευσεν.",
+      "tr": "Allʼ ouch hōs to paraptōma, houtōs kai to charisma; ei gar tōi tou henos paraptōmati hoi polloi apethanon, pollōi mallon hē charis tou theou kai hē dōrea en chariti tēi tou henos anthrōpou Iēsou Christou eis tous pollous eperisseusen."
+     }
+    },
+    {
+     "zh": "这赏赐也和那一个人犯罪的后果不一样：审判是由一个人而来，结果是定罪；恩赐却是由许多过犯而来，结果是称义。",
+     "old": {
+      "who": "和合本",
+      "text": "因一人犯罪就定罪、也不如恩赐．原来审判是由一人而定罪、恩赐乃是由许多过犯而称义。"
+     },
+     "sa": {
+      "text": "καὶ οὐχ ὡς διʼ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα.",
+      "tr": "kai ouch hōs diʼ henos hamartēsantos to dōrēma; to men gar krima ex henos eis katakrima, to de charisma ek pollōn paraptōmatōn eis dikaiōma."
+     }
+    },
+    {
+     "zh": "如果因那一个人的过犯，死就借着那一个人作了王，那么那些领受丰盛的恩典和义这份赏赐的人，就更要借着耶稣基督这一位在生命中作王。",
+     "old": {
+      "who": "和合本",
+      "text": "若因一人的过犯、死就因这一人作了王、何况那些受洪恩又蒙所赐之义的、岂不更要因耶稣基督一人在生命中作王么。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ τοῦ ἑνός, πολλῷ μᾶλλον οἱ τὴν περισσείαν τῆς χάριτος καὶ τῆς δωρεᾶς τῆς δικαιοσύνης λαμβάνοντες ἐν ζωῇ βασιλεύσουσιν διὰ τοῦ ἑνὸς Ἰησοῦ Χριστοῦ.",
+      "tr": "ei gar tōi tou henos paraptōmati ho thanatos ebasileusen dia tou henos, pollōi mallon hoi tēn perisseian tēs charitos kai tēs dōreas tēs dikaiosynēs lambanontes en zōēi basileusousin dia tou henos Iēsou Christou."
+     }
+    },
+    {
+     "zh": "这样看来，正如借着一次过犯，所有的人都被定罪；照样，借着一次义的行为，所有的人也都被称为义而得生命。",
+     "old": {
+      "who": "和合本",
+      "text": "如此说来、因一次的过犯、众人都被定罪、照样、因一次的义行、众人也就被称义得生命了。"
+     },
+     "sa": {
+      "text": "Ἄρα οὖν ὡς διʼ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ διʼ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς·",
+      "tr": "Ara oun hōs diʼ henos paraptōmatos eis pantas anthrōpous eis katakrima, houtōs kai diʼ henos dikaiōmatos eis pantas anthrōpous eis dikaiōsin zōēs;"
+     }
+    },
+    {
+     "zh": "正如因那一个人的不顺从，许多人成了罪人；照样，因这一位的顺从，许多人也要成为义人。",
+     "old": {
+      "who": "和合本",
+      "text": "因一人的悖逆、众人成为罪人、照样、因一人的顺从、众人也成为义了。"
+     },
+     "sa": {
+      "text": "ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί, οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί.",
+      "tr": "hōsper gar dia tēs parakoēs tou henos anthrōpou hamartōloi katestathēsan hoi polloi, houtōs kai dia tēs hypakoēs tou henos dikaioi katastathēsontai hoi polloi."
+     }
+    },
+    {
+     "zh": "律法是后来加进来的，结果过犯增多；但是罪在哪里增多，恩典就在哪里更加满溢，",
+     "old": {
+      "who": "和合本",
+      "text": "律法本是外添的、叫过犯显多．只是罪在那里显多、恩典就更显多了。"
+     },
+     "sa": {
+      "text": "νόμος δὲ παρεισῆλθεν ἵνα πλεονάσῃ τὸ παράπτωμα· οὗ δὲ ἐπλεόνασεν ἡ ἁμαρτία, ὑπερεπερίσσευσεν ἡ χάρις,",
+      "tr": "nomos de pareisēlthen hina pleonasēi to paraptōma; hou de epleonasen hē hamartia, hypereperisseusen hē charis,"
+     }
+    },
+    {
+     "zh": "好叫恩典也借着义作王，通向永生（永远的生命），是借着我们的主耶稣基督，正如罪曾经在死中作王一样。",
+     "old": {
+      "who": "和合本",
+      "text": "就如罪作王叫人死、照样、恩典也借着义作王、叫人因我们的主耶稣基督得永生。"
+     },
+     "sa": {
+      "text": "ἵνα ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ, οὕτως καὶ ἡ χάρις βασιλεύσῃ διὰ δικαιοσύνης εἰς ζωὴν αἰώνιον διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.",
+      "tr": "hina hōsper ebasileusen hē hamartia en tōi thanatōi, houtōs kai hē charis basileusēi dia dikaiosynēs eis zōēn aiōnion dia Iēsou Christou tou kyriou hēmōn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 6 章 · 向罪死，向上帝活",
+   "no": 6,
+   "intro": "有人会问：既然恩典这么多，是不是可以继续犯罪？保罗说绝对不是：受洗的人已经和基督一同死了、一同埋葬，也要像他一样活出新的生命，不再让罪作主。他又用奴仆作比方：从前是罪的奴仆，结局是死；现在归了上帝，结局是永生。",
+   "verses": [
+    {
+     "zh": "那么我们要说什么呢？我们可以留在罪（违背上帝的事）里，好让恩典（上帝白白给的好意）增多吗？",
+     "old": {
+      "who": "和合本",
+      "text": "这样、怎么说呢．我们可以仍在罪中、叫恩典显多么。"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ;",
+      "tr": "Ti oun eroumen? epimenōmen tēi hamartiāi, hina hē charis pleonasēi?"
+     }
+    },
+    {
+     "zh": "绝对不是！我们这些向罪死了的人，怎么还能活在罪里呢？",
+     "old": {
+      "who": "和合本",
+      "text": "断乎不可．我们在罪上死了的人、岂可仍在罪中活着呢。"
+     },
+     "sa": {
+      "text": "μὴ γένοιτο· οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ;",
+      "tr": "mē genoito; hoitines apethanomen tēi hamartiāi, pōs eti zēsomen en autēi?"
+     }
+    },
+    {
+     "zh": "难道你们不知道，我们凡是受洗（浸到水里的仪式）归入基督（上帝选立的那位救主）耶稣的人，都是受洗归入他的死吗？",
+     "old": {
+      "who": "和合本",
+      "text": "岂不知我们这受洗归入基督耶稣的人、是受洗归入他的死么。"
+     },
+     "sa": {
+      "text": "ἢ ἀγνοεῖτε ὅτι ὅσοι ἐβαπτίσθημεν εἰς Χριστὸν Ἰησοῦν εἰς τὸν θάνατον αὐτοῦ ἐβαπτίσθημεν;",
+      "tr": "ē agnoeite hoti hosoi ebaptisthēmen eis Christon Iēsoun eis ton thanaton autou ebaptisthēmen?"
+     }
+    },
+    {
+     "zh": "所以我们借着受洗归入死，和他一同埋葬了，好让我们也在新的生命里行事为人，正如基督借着父的荣耀从死人中复活一样。",
+     "old": {
+      "who": "和合本",
+      "text": "所以我们借着洗礼归入死、和他一同埋葬．原是叫我们一举一动有新生的样式、像基督借着父的荣耀、从死里复活一样。"
+     },
+     "sa": {
+      "text": "συνετάφημεν οὖν αὐτῷ διὰ τοῦ βαπτίσματος εἰς τὸν θάνατον, ἵνα ὥσπερ ἠγέρθη Χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός, οὕτως καὶ ἡμεῖς ἐν καινότητι ζωῆς περιπατήσωμεν.",
+      "tr": "synetaphēmen oun autōi dia tou baptismatos eis ton thanaton, hina hōsper ēgerthē Christos ek nekrōn dia tēs doxēs tou patros, houtōs kai hēmeis en kainotēti zōēs peripatēsōmen."
+     }
+    },
+    {
+     "zh": "如果我们在他死的样子上与他联合，也要在他复活的样子上与他联合；",
+     "old": {
+      "who": "和合本",
+      "text": "我们若在他死的形状上与他联合、也要在他复活的形状上与他联合．"
+     },
+     "sa": {
+      "text": "Εἰ γὰρ σύμφυτοι γεγόναμεν τῷ ὁμοιώματι τοῦ θανάτου αὐτοῦ, ἀλλὰ καὶ τῆς ἀναστάσεως ἐσόμεθα·",
+      "tr": "Ei gar symphytoi gegonamen tōi homoiōmati tou thanatou autou, alla kai tēs anastaseōs esometha;"
+     }
+    },
+    {
+     "zh": "我们知道，我们的旧人和他一同钉了十字架，好让罪的身体失去作用，使我们不再作罪的奴仆；",
+     "old": {
+      "who": "和合本",
+      "text": "因为知道我们的旧人、和他同钉十字架、使罪身灭绝、叫我们不再作罪的奴仆．"
+     },
+     "sa": {
+      "text": "τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ,",
+      "tr": "touto ginōskontes hoti ho palaios hēmōn anthrōpos synestaurōthē, hina katargēthēi to sōma tēs hamartias, tou mēketi douleuein hēmas tēi hamartiāi,"
+     }
+    },
+    {
+     "zh": "因为死了的人已经脱离了罪。",
+     "old": {
+      "who": "和合本",
+      "text": "因为已死的人、是脱离了罪。"
+     },
+     "sa": {
+      "text": "ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας.",
+      "tr": "ho gar apothanōn dedikaiōtai apo tēs hamartias."
+     }
+    },
+    {
+     "zh": "如果我们和基督一同死了，我们相信也要和他一同活，",
+     "old": {
+      "who": "和合本",
+      "text": "我们若是与基督同死、就信必与他同活．"
+     },
+     "sa": {
+      "text": "εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ·",
+      "tr": "ei de apethanomen syn Christōi, pisteuomen hoti kai syzēsomen autōi;"
+     }
+    },
+    {
+     "zh": "因为知道基督既然从死人中复活，就不再死，死也不再作他的主了。",
+     "old": {
+      "who": "和合本",
+      "text": "因为知道基督既从死里复活、就不再死、死也不再作他的主了。"
+     },
+     "sa": {
+      "text": "εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει·",
+      "tr": "eidotes hoti Christos egertheis ek nekrōn ouketi apothnēiskei, thanatos autou ouketi kyrieuei;"
+     }
+    },
+    {
+     "zh": "他死，是向罪死了，只有这一次；他活，是向上帝活着。",
+     "old": {
+      "who": "和合本",
+      "text": "他死是向罪死了、只有一次．他活是向神活着。"
+     },
+     "sa": {
+      "text": "ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ· ὃ δὲ ζῇ, ζῇ τῷ θεῷ.",
+      "tr": "ho gar apethanen, tēi hamartiāi apethanen ephapax; ho de zēi, zēi tōi theōi."
+     }
+    },
+    {
+     "zh": "照样，你们也要算自己向罪是死的，在基督耶稣里向上帝是活的。",
+     "old": {
+      "who": "和合本",
+      "text": "这样、你们向罪也当看自己是死的．向神在基督耶稣里、却当看自己是活的。"
+     },
+     "sa": {
+      "text": "οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ.",
+      "tr": "houtōs kai hymeis logizesthe heautous einai nekrous men tēi hamartiāi zōntas de tōi theōi en Christōi Iēsou."
+     }
+    },
+    {
+     "zh": "所以，不要让罪在你们必死的身体里作王，使你们顺从身体的欲望；",
+     "old": {
+      "who": "和合本",
+      "text": "所以不要容罪在你们必死的身上作王、使你们顺从身子的私欲．"
+     },
+     "sa": {
+      "text": "Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ,",
+      "tr": "Mē oun basileuetō hē hamartia en tōi thnētōi hymōn sōmati eis to hypakouein tais epithymiais autou,"
+     }
+    },
+    {
+     "zh": "也不要把你们的肢体交给罪，作不义的工具；倒要把自己交给上帝，像从死人中活过来的人，并把你们的肢体交给上帝，作义的工具。",
+     "old": {
+      "who": "和合本",
+      "text": "也不要将你们的肢体献给罪作不义的器具．倒要像从死里复活的人、将自己献给神．并将肢体作义的器具献给神。"
+     },
+     "sa": {
+      "text": "μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ.",
+      "tr": "mēde paristanete ta melē hymōn hopla adikias tēi hamartiāi, alla parastēsate heautous tōi theōi hōsei ek nekrōn zōntas kai ta melē hymōn hopla dikaiosynēs tōi theōi."
+     }
+    },
+    {
+     "zh": "罪不会再作你们的主，因为你们不在律法（上帝通过摩西颁布的规矩）之下，而在恩典之下。",
+     "old": {
+      "who": "和合本",
+      "text": "罪必不能作你们的主．因你们不在律法之下、乃在恩典之下。"
+     },
+     "sa": {
+      "text": "ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν.",
+      "tr": "hamartia gar hymōn ou kyrieusei, ou gar este hypo nomon alla hypo charin."
+     }
+    },
+    {
+     "zh": "那又怎样呢？我们不在律法之下，而在恩典之下，就可以犯罪吗？绝对不是！",
+     "old": {
+      "who": "和合本",
+      "text": "这却怎么样呢．我们在恩典之下、不在律法之下、就可以犯罪么．断乎不可。"
+     },
+     "sa": {
+      "text": "Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο·",
+      "tr": "Ti oun? hamartēsōmen hoti ouk esmen hypo nomon alla hypo charin? mē genoito;"
+     }
+    },
+    {
+     "zh": "难道你们不知道，你们把自己交给谁作奴仆去顺从他，就是你们所顺从的那一位的奴仆吗？或者作罪的奴仆，结果是死；或者作顺从的奴仆，结果是义。",
+     "old": {
+      "who": "和合本",
+      "text": "岂不晓得你们献上自己作奴仆、顺从谁、就作谁的奴仆么．或作罪的奴仆、以至于死．或作顺命的奴仆、以至成义。"
+     },
+     "sa": {
+      "text": "οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην;",
+      "tr": "ouk oidate hoti hōi paristanete heautous doulous eis hypakoēn, douloi este hōi hypakouete, ētoi hamartias eis thanaton ē hypakoēs eis dikaiosynēn?"
+     }
+    },
+    {
+     "zh": "感谢上帝！你们从前是罪的奴仆，现在却从心里顺从了你们被交托给它的那套教导的规范，",
+     "old": {
+      "who": "和合本",
+      "text": "感谢神、因为你们从前虽然作罪的奴仆、现今却从心里顺服了所传给你们道理的模范。",
+      "notes": [
+       {
+        "w": "所传给你们道理的模范",
+        "note": "原文是「你们被交给它的那个教导的模式」：被交出去的是人，不是道理。和合本把方向倒过来了。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς,",
+      "tr": "charis de tōi theōi hoti ēte douloi tēs hamartias hypēkousate de ek kardias eis hon paredothēte typon didachēs,"
+     }
+    },
+    {
+     "zh": "你们既然从罪里得了释放，就作了义的奴仆。",
+     "old": {
+      "who": "和合本",
+      "text": "你们既从罪里得了释放、就作了义的奴仆。"
+     },
+     "sa": {
+      "text": "ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ·",
+      "tr": "eleutherōthentes de apo tēs hamartias edoulōthēte tēi dikaiosynēi;"
+     }
+    },
+    {
+     "zh": "因为你们肉身软弱，我就用人的说法来说：你们从前怎样把肢体交给污秽和不法作奴仆，以致更加不法；现在也要照样把肢体交给义作奴仆，以致成为圣洁。",
+     "old": {
+      "who": "和合本",
+      "text": "我因你们肉体的輭弱、就照人的常话对你们说、你们从前怎样将肢体献给不洁不法作奴仆、以至于不法．现今也要照样将肢体献给义作奴仆、以至于成圣．"
+     },
+     "sa": {
+      "text": "ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν· ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτως νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν.",
+      "tr": "anthrōpinon legō dia tēn astheneian tēs sarkos hymōn; hōsper gar parestēsate ta melē hymōn doula tēi akatharsiāi kai tēi anomiāi eis tēn anomian, houtōs nyn parastēsate ta melē hymōn doula tēi dikaiosynēi eis hagiasmon."
+     }
+    },
+    {
+     "zh": "你们作罪的奴仆的时候，在义这方面是自由的。",
+     "old": {
+      "who": "和合本",
+      "text": "因为你们作罪之奴仆的时候、就不被义约束了。"
+     },
+     "sa": {
+      "text": "Ὅτε γὰρ δοῦλοι ἦτε τῆς ἁμαρτίας, ἐλεύθεροι ἦτε τῇ δικαιοσύνῃ.",
+      "tr": "Hote gar douloi ēte tēs hamartias, eleutheroi ēte tēi dikaiosynēi."
+     }
+    },
+    {
+     "zh": "那时你们从那些事得了什么果子呢？就是你们现在觉得羞耻的事；那些事的结局是死。",
+     "old": {
+      "who": "和合本",
+      "text": "你们现今所看为羞耻的事、当日有甚么果子呢．那些事的结局就是死。"
+     },
+     "sa": {
+      "text": "τίνα οὖν καρπὸν εἴχετε τότε ἐφʼ οἷς νῦν ἐπαισχύνεσθε; τὸ γὰρ τέλος ἐκείνων θάνατος·",
+      "tr": "tina oun karpon eichete tote ephʼ hois nyn epaischynesthe? to gar telos ekeinōn thanatos;"
+     }
+    },
+    {
+     "zh": "但是现在，你们既然从罪里得了释放，作了上帝的奴仆，就有了果子，以致成为圣洁，结局是永生（永远的生命）。",
+     "old": {
+      "who": "和合本",
+      "text": "但现今你们既从罪里得了释放、作了神的奴仆、就有成圣的果子、那结局就是永生。"
+     },
+     "sa": {
+      "text": "νυνὶ δέ, ἐλευθερωθέντες ἀπὸ τῆς ἁμαρτίας δουλωθέντες δὲ τῷ θεῷ, ἔχετε τὸν καρπὸν ὑμῶν εἰς ἁγιασμόν, τὸ δὲ τέλος ζωὴν αἰώνιον.",
+      "tr": "nyni de, eleutherōthentes apo tēs hamartias doulōthentes de tōi theōi, echete ton karpon hymōn eis hagiasmon, to de telos zōēn aiōnion."
+     }
+    },
+    {
+     "zh": "因为罪的工钱是死；上帝的恩赐却是在我们的主基督耶稣里的永生。",
+     "old": {
+      "who": "和合本",
+      "text": "因为罪的工价乃是死．惟有神的恩赐、在我们的主基督耶稣里、乃是永生。"
+     },
+     "sa": {
+      "text": "τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.",
+      "tr": "ta gar opsōnia tēs hamartias thanatos, to de charisma tou theou zōē aiōnios en Christōi Iēsou tōi kyriōi hēmōn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 7 章 · 律法与罪，「我」的挣扎",
+   "no": 7,
+   "intro": "保罗先用婚姻作比方：丈夫死了，妻子就不再受那条律法约束；照样，信的人借着基督向律法死了。那么律法是罪吗？绝对不是。律法是好的，是罪借着诫命叫人死。接着他用「我」来说：我愿意行善却做不到，不愿意的恶反倒去做，谁能救我？",
+   "verses": [
+    {
+     "zh": "弟兄们（一同信的人），我是对懂得律法（上帝通过摩西颁布的规矩）的人说话：难道你们不知道，律法管人只在人活着的时候吗？",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我现在对明白律法的人说、你们岂不晓得律法管人是在活着的时候么。"
+     },
+     "sa": {
+      "text": "Ἢ ἀγνοεῖτε, ἀδελφοί, γινώσκουσιν γὰρ νόμον λαλῶ, ὅτι ὁ νόμος κυριεύει τοῦ ἀνθρώπου ἐφʼ ὅσον χρόνον ζῇ;",
+      "tr": "Ē agnoeite, adelphoi, ginōskousin gar nomon lalō, hoti ho nomos kyrieuei tou anthrōpou ephʼ hoson chronon zēi?"
+     }
+    },
+    {
+     "zh": "有丈夫的女人，丈夫活着的时候，被律法绑在丈夫身上；丈夫要是死了，她就脱离了丈夫的律法。",
+     "old": {
+      "who": "和合本",
+      "text": "就如女人有了丈夫、丈夫还活着、就被律法约束．丈夫若死了、就脱离了丈夫的律法。"
+     },
+     "sa": {
+      "text": "ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, κατήργηται ἀπὸ τοῦ νόμου τοῦ ἀνδρός.",
+      "tr": "hē gar hypandros gynē tōi zōnti andri dedetai nomōi; ean de apothanēi ho anēr, katērgētai apo tou nomou tou andros."
+     }
+    },
+    {
+     "zh": "所以丈夫还活着的时候，她要是归了别的男人，就要被称为淫妇；丈夫要是死了，她就脱离了那律法，即使归了别的男人，也不是淫妇。",
+     "old": {
+      "who": "和合本",
+      "text": "所以丈夫活着、他若归于别人、便叫淫妇．丈夫若死了、他就脱离了丈夫的律法、虽然归于别人、也不是淫妇。"
+     },
+     "sa": {
+      "text": "ἄρα οὖν ζῶντος τοῦ ἀνδρὸς μοιχαλὶς χρηματίσει ἐὰν γένηται ἀνδρὶ ἑτέρῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ἀπὸ τοῦ νόμου, τοῦ μὴ εἶναι αὐτὴν μοιχαλίδα γενομένην ἀνδρὶ ἑτέρῳ.",
+      "tr": "ara oun zōntos tou andros moichalis chrēmatisei ean genētai andri heterōi; ean de apothanēi ho anēr, eleuthera estin apo tou nomou, tou mē einai autēn moichalida genomenēn andri heterōi."
+     }
+    },
+    {
+     "zh": "我的弟兄们，照样，你们借着基督（上帝选立的那位救主）的身体，向律法也死了，好让你们归于另一位，就是那从死人中复活的，使我们为上帝结果子。",
+     "old": {
+      "who": "和合本",
+      "text": "我的弟兄们、这样说来、你们借着基督的身体、在律法上也是死了．叫你们归于别人、就是归于那从死里复活的、叫我们结果子给神。"
+     },
+     "sa": {
+      "text": "Ὥστε, ἀδελφοί μου, καὶ ὑμεῖς ἐθανατώθητε τῷ νόμῳ διὰ τοῦ σώματος τοῦ Χριστοῦ, εἰς τὸ γενέσθαι ὑμᾶς ἑτέρῳ, τῷ ἐκ νεκρῶν ἐγερθέντι ἵνα καρποφορήσωμεν τῷ θεῷ.",
+      "tr": "Hōste, adelphoi mou, kai hymeis ethanatōthēte tōi nomōi dia tou sōmatos tou Christou, eis to genesthai hymas heterōi, tōi ek nekrōn egerthenti hina karpophorēsōmen tōi theōi."
+     }
+    },
+    {
+     "zh": "我们从前在肉体（人靠自己、不顺从上帝的那一面）里的时候，那些因律法而起的、犯罪（违背上帝的事）的欲望在我们的肢体里发动，以致为死结果子；",
+     "old": {
+      "who": "和合本",
+      "text": "因为我们属肉体的时候、那因律法而生的恶欲、就在我们肢体中发动、以致结成死亡的果子．"
+     },
+     "sa": {
+      "text": "ὅτε γὰρ ἦμεν ἐν τῇ σαρκί, τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου ἐνηργεῖτο ἐν τοῖς μέλεσιν ἡμῶν εἰς τὸ καρποφορῆσαι τῷ θανάτῳ·",
+      "tr": "hote gar ēmen en tēi sarki, ta pathēmata tōn hamartiōn ta dia tou nomou enērgeito en tois melesin hēmōn eis to karpophorēsai tōi thanatōi;"
+     }
+    },
+    {
+     "zh": "但是现在，我们既然向那捆住我们的死了，就脱离了律法，使我们用灵的新样服事，不用条文的旧样。",
+     "old": {
+      "who": "和合本",
+      "text": "但我们既然在捆我们的律法上死了、现今就脱离了律法．叫我们服事主、要按着心灵的新样、不按着仪文的旧样。",
+      "notes": [
+       {
+        "w": "服事主",
+        "note": "「主」字是和合本补的；原文只说「服事」。「心灵」原文是「灵」，可以指上帝的灵，也可以指人的内心。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "νυνὶ δὲ κατηργήθημεν ἀπὸ τοῦ νόμου, ἀποθανόντες ἐν ᾧ κατειχόμεθα, ὥστε δουλεύειν ἡμᾶς ἐν καινότητι πνεύματος καὶ οὐ παλαιότητι γράμματος.",
+      "tr": "nyni de katērgēthēmen apo tou nomou, apothanontes en hōi kateichometha, hōste douleuein hēmas en kainotēti pneumatos kai ou palaiotēti grammatos."
+     }
+    },
+    {
+     "zh": "那么我们要说什么呢？律法是罪吗？绝对不是！只是若不借着律法，我就不认识罪。律法若不说「不可贪心」，我就不知道什么是贪心。",
+     "old": {
+      "who": "和合本",
+      "text": "这样、我们可说甚么呢．律法是罪么．断乎不是．只是非因律法、我就不知何为罪．非律法说、『不可起贪心。』我就不知何为贪心。"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν; ὁ νόμος ἁμαρτία; μὴ γένοιτο· ἀλλὰ τὴν ἁμαρτίαν οὐκ ἔγνων εἰ μὴ διὰ νόμου, τήν τε γὰρ ἐπιθυμίαν οὐκ ᾔδειν εἰ μὴ ὁ νόμος ἔλεγεν· Οὐκ ἐπιθυμήσεις·",
+      "tr": "Ti oun eroumen? ho nomos hamartia? mē genoito; alla tēn hamartian ouk egnōn ei mē dia nomou, tēn te gar epithymian ouk ēidein ei mē ho nomos elegen; Ouk epithymēseis;"
+     }
+    },
+    {
+     "zh": "罪却借着诫命抓住机会，在我里面生出各样的贪心；因为没有律法，罪是死的。",
+     "old": {
+      "who": "和合本",
+      "text": "然而罪趁着机会、就借着诫命叫诸般的贪心在我里头发动．因为没有律法罪是死的。"
+     },
+     "sa": {
+      "text": "ἀφορμὴν δὲ λαβοῦσα ἡ ἁμαρτία διὰ τῆς ἐντολῆς κατειργάσατο ἐν ἐμοὶ πᾶσαν ἐπιθυμίαν, χωρὶς γὰρ νόμου ἁμαρτία νεκρά.",
+      "tr": "aphormēn de labousa hē hamartia dia tēs entolēs kateirgasato en emoi pasan epithymian, chōris gar nomou hamartia nekra."
+     }
+    },
+    {
+     "zh": "从前没有律法的时候，我是活着的；诫命一来，罪就活了，",
+     "old": {
+      "who": "和合本",
+      "text": "我以前没有律法是活着的、但是诫命来到、罪又活了、我就死了。"
+     },
+     "sa": {
+      "text": "ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ· ἐλθούσης δὲ τῆς ἐντολῆς ἡ ἁμαρτία ἀνέζησεν,",
+      "tr": "egō de ezōn chōris nomou pote; elthousēs de tēs entolēs hē hamartia anezēsen,"
+     }
+    },
+    {
+     "zh": "我就死了。那本来要叫人活的诫命，在我这里反而成了叫我死的；",
+     "old": {
+      "who": "和合本",
+      "text": "那本来叫人活的诫命、反倒叫我死．",
+      "notes": [
+       {
+        "w": "我就死了",
+        "note": "底本把「我就死了」放在这一节开头，和合本放在上一节末尾。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἐγὼ δὲ ἀπέθανον, καὶ εὑρέθη μοι ἡ ἐντολὴ ἡ εἰς ζωὴν αὕτη εἰς θάνατον·",
+      "tr": "egō de apethanon, kai heurethē moi hē entolē hē eis zōēn hautē eis thanaton;"
+     }
+    },
+    {
+     "zh": "因为罪借着诫命抓住机会，欺骗了我，并且借着诫命杀了我。",
+     "old": {
+      "who": "和合本",
+      "text": "因为罪趁着机会、就借着诫命引诱我、并且杀了我。"
+     },
+     "sa": {
+      "text": "ἡ γὰρ ἁμαρτία ἀφορμὴν λαβοῦσα διὰ τῆς ἐντολῆς ἐξηπάτησέν με καὶ διʼ αὐτῆς ἀπέκτεινεν.",
+      "tr": "hē gar hamartia aphormēn labousa dia tēs entolēs exēpatēsen me kai diʼ autēs apekteinen."
+     }
+    },
+    {
+     "zh": "这样，律法是圣洁的，诫命也是圣洁、公义、良善的。",
+     "old": {
+      "who": "和合本",
+      "text": "这样看来、律法是圣洁的、诫命也是圣洁、公义、良善的。"
+     },
+     "sa": {
+      "text": "ὥστε ὁ μὲν νόμος ἅγιος, καὶ ἡ ἐντολὴ ἁγία καὶ δικαία καὶ ἀγαθή.",
+      "tr": "hōste ho men nomos hagios, kai hē entolē hagia kai dikaia kai agathē."
+     }
+    },
+    {
+     "zh": "那么，是那良善的叫我死吗？绝对不是！是罪。罪借着那良善的叫我死，为要显出它是罪，好叫罪借着诫命成为罪大恶极。",
+     "old": {
+      "who": "和合本",
+      "text": "既然如此、那良善的是叫我死么．断乎不是．叫我死的乃是罪。但罪借着那良善的叫我死、就显出真是罪．叫罪因着诫命更显出是恶极了。"
+     },
+     "sa": {
+      "text": "Τὸ οὖν ἀγαθὸν ἐμοὶ ἐγένετο θάνατος; μὴ γένοιτο· ἀλλὰ ἡ ἁμαρτία, ἵνα φανῇ ἁμαρτία διὰ τοῦ ἀγαθοῦ μοι κατεργαζομένη θάνατον· ἵνα γένηται καθʼ ὑπερβολὴν ἁμαρτωλὸς ἡ ἁμαρτία διὰ τῆς ἐντολῆς.",
+      "tr": "To oun agathon emoi egeneto thanatos? mē genoito; alla hē hamartia, hina phanēi hamartia dia tou agathou moi katergazomenē thanaton; hina genētai kathʼ hyperbolēn hamartōlos hē hamartia dia tēs entolēs."
+     }
+    },
+    {
+     "zh": "我们知道律法是属灵的，我却是属肉体的，是已经卖给罪的。",
+     "old": {
+      "who": "和合本",
+      "text": "我们原晓得律法是属乎灵的、但我是属乎肉体的、是已经卖给罪了。"
+     },
+     "sa": {
+      "text": "Οἴδαμεν γὰρ ὅτι ὁ νόμος πνευματικός ἐστιν· ἐγὼ δὲ σάρκινός εἰμι, πεπραμένος ὑπὸ τὴν ἁμαρτίαν.",
+      "tr": "Oidamen gar hoti ho nomos pneumatikos estin; egō de sarkinos eimi, pepramenos hypo tēn hamartian."
+     }
+    },
+    {
+     "zh": "我所做的，我自己不明白；因为我愿意的，我不去做，我恨恶的，我反倒去做。",
+     "old": {
+      "who": "和合本",
+      "text": "因为我所作的、我自己不明白．我所愿意的、我并不作．我所恨恶的、我倒去作。"
+     },
+     "sa": {
+      "text": "ὃ γὰρ κατεργάζομαι οὐ γινώσκω· οὐ γὰρ ὃ θέλω τοῦτο πράσσω, ἀλλʼ ὃ μισῶ τοῦτο ποιῶ.",
+      "tr": "ho gar katergazomai ou ginōskō; ou gar ho thelō touto prassō, allʼ ho misō touto poiō."
+     }
+    },
+    {
+     "zh": "如果我做的是我不愿意做的，我就承认律法是好的。",
+     "old": {
+      "who": "和合本",
+      "text": "若我所作的、是我所不愿意的、我就应承律法是善的。"
+     },
+     "sa": {
+      "text": "εἰ δὲ ὃ οὐ θέλω τοῦτο ποιῶ, σύμφημι τῷ νόμῳ ὅτι καλός.",
+      "tr": "ei de ho ou thelō touto poiō, symphēmi tōi nomōi hoti kalos."
+     }
+    },
+    {
+     "zh": "既然这样，就不再是我做的，而是住在我里面的罪做的。",
+     "old": {
+      "who": "和合本",
+      "text": "既是这样、就不是我作的、乃是住在我里头的罪作的。"
+     },
+     "sa": {
+      "text": "νυνὶ δὲ οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία.",
+      "tr": "nyni de ouketi egō katergazomai auto alla hē oikousa en emoi hamartia."
+     }
+    },
+    {
+     "zh": "我知道，在我里面，就是在我的肉体里面，没有良善住着；因为愿意行善的心我是有的，行出来却不能。",
+     "old": {
+      "who": "和合本",
+      "text": "我也知道、在我里头、就是我肉体之中、没有良善．因为立志为善由得我、只是行出来由不得我。"
+     },
+     "sa": {
+      "text": "οἶδα γὰρ ὅτι οὐκ οἰκεῖ ἐν ἐμοί, τοῦτʼ ἔστιν ἐν τῇ σαρκί μου, ἀγαθόν· τὸ γὰρ θέλειν παράκειταί μοι, τὸ δὲ κατεργάζεσθαι τὸ καλὸν οὔ·",
+      "tr": "oida gar hoti ouk oikei en emoi, toutʼ estin en tēi sarki mou, agathon; to gar thelein parakeitai moi, to de katergazesthai to kalon ou;"
+     }
+    },
+    {
+     "zh": "我愿意的善，我不去做；我不愿意的恶，我反倒去做。",
+     "old": {
+      "who": "和合本",
+      "text": "故此、我所愿意的善、我反不作．我所不愿意的恶、我倒去作。"
+     },
+     "sa": {
+      "text": "οὐ γὰρ ὃ θέλω ποιῶ ἀγαθόν, ἀλλὰ ὃ οὐ θέλω κακὸν τοῦτο πράσσω.",
+      "tr": "ou gar ho thelō poiō agathon, alla ho ou thelō kakon touto prassō."
+     }
+    },
+    {
+     "zh": "如果我做的是我不愿意做的，就不再是我做的，而是住在我里面的罪做的。",
+     "old": {
+      "who": "和合本",
+      "text": "若我去作所不愿意作的、就不是我作的、乃是住在我里头的罪作的。"
+     },
+     "sa": {
+      "text": "εἰ δὲ ὃ οὐ θέλω τοῦτο ποιῶ, οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλὰ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία.",
+      "tr": "ei de ho ou thelō touto poiō, ouketi egō katergazomai auto alla hē oikousa en emoi hamartia."
+     }
+    },
+    {
+     "zh": "所以我发现有这么一条律：我愿意行善的时候，恶就在我旁边。",
+     "old": {
+      "who": "和合本",
+      "text": "我觉得有个律、就是我愿意为善的时候、便有恶与我同在。"
+     },
+     "sa": {
+      "text": "Εὑρίσκω ἄρα τὸν νόμον τῷ θέλοντι ἐμοὶ ποιεῖν τὸ καλὸν ὅτι ἐμοὶ τὸ κακὸν παράκειται·",
+      "tr": "Heuriskō ara ton nomon tōi thelonti emoi poiein to kalon hoti emoi to kakon parakeitai;"
+     }
+    },
+    {
+     "zh": "按着我里面的人，我是喜欢上帝的律法的；",
+     "old": {
+      "who": "和合本",
+      "text": "因为按着我里面的意思。我是喜欢神的律．"
+     },
+     "sa": {
+      "text": "συνήδομαι γὰρ τῷ νόμῳ τοῦ θεοῦ κατὰ τὸν ἔσω ἄνθρωπον,",
+      "tr": "synēdomai gar tōi nomōi tou theou kata ton esō anthrōpon,"
+     }
+    },
+    {
+     "zh": "但我看见我肢体里另有一条律，和我心思里的律交战，把我掳去，归给那在我肢体里的罪的律。",
+     "old": {
+      "who": "和合本",
+      "text": "但我觉得肢体中另有个律、和我心中的律交战、把我掳去叫我附从那肢体中犯罪的律。"
+     },
+     "sa": {
+      "text": "βλέπω δὲ ἕτερον νόμον ἐν τοῖς μέλεσίν μου ἀντιστρατευόμενον τῷ νόμῳ τοῦ νοός μου καὶ αἰχμαλωτίζοντά με ἐν τῷ νόμῳ τῆς ἁμαρτίας τῷ ὄντι ἐν τοῖς μέλεσίν μου.",
+      "tr": "blepō de heteron nomon en tois melesin mou antistrateuomenon tōi nomōi tou noos mou kai aichmalōtizonta me en tōi nomōi tēs hamartias tōi onti en tois melesin mou."
+     }
+    },
+    {
+     "zh": "我真是个苦命的人！谁能救我脱离这带来死亡的身体呢？",
+     "old": {
+      "who": "和合本",
+      "text": "我真是苦阿、谁能救我脱离这取死的身体呢。"
+     },
+     "sa": {
+      "text": "ταλαίπωρος ἐγὼ ἄνθρωπος· τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου;",
+      "tr": "talaipōros egō anthrōpos; tis me rhysetai ek tou sōmatos tou thanatou toutou?"
+     }
+    },
+    {
+     "zh": "感谢上帝，借着我们的主耶稣基督！这样看来，我自己用心思服事上帝的律法，用肉体却服事罪的律。",
+     "old": {
+      "who": "和合本",
+      "text": "感谢神、靠着我们的主耶稣基督就能脱离了。这样看来、我以内心顺服神的律．我肉体却顺服罪的律了。",
+      "notes": [
+       {
+        "w": "就能脱离了",
+        "note": "这几个字是和合本补的；原文只有「感谢上帝，借着我们的主耶稣基督」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "χάρις τῷ θεῷ διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν. Ἄρα οὖν αὐτὸς ἐγὼ τῷ μὲν νοῒ δουλεύω νόμῳ θεοῦ, τῇ δὲ σαρκὶ νόμῳ ἁμαρτίας.",
+      "tr": "charis tōi theōi dia Iēsou Christou tou kyriou hēmōn. Ara oun autos egō tōi men noï douleuō nomōi theou, tēi de sarki nomōi hamartias."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 8 章 · 在灵里的生命，什么都不能隔绝上帝的爱",
+   "no": 8,
+   "intro": "保罗说：在基督耶稣里的人不再被定罪，因为上帝差遣自己的儿子，做成了律法做不到的事。照着灵活的人是上帝的儿女，可以叫他「阿爸，父」。现在虽然受苦，连受造的万物都在叹息等候，将来的荣耀却大得多。最后他说：没有什么能使我们和上帝的爱分开。",
+   "verses": [
+    {
+     "zh": "所以，现在那些在基督（上帝选立的那位救主）耶稣里的人不被定罪了。",
+     "old": {
+      "who": "和合本",
+      "text": "如今那些在基督耶稣里的、就不定罪了。"
+     },
+     "sa": {
+      "text": "Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ·",
+      "tr": "Ouden ara nyn katakrima tois en Christōi Iēsou;"
+     }
+    },
+    {
+     "zh": "因为在基督耶稣里，赐生命的（圣）灵的律已经释放了你，使你脱离罪（违背上帝的事）和死的律。",
+     "old": {
+      "who": "和合本",
+      "text": "因为赐生命圣灵的律、在基督耶稣里释放了我、使我脱离罪和死的律了。"
+     },
+     "sa": {
+      "text": "ὁ γὰρ νόμος τοῦ πνεύματος τῆς ζωῆς ἐν Χριστῷ Ἰησοῦ ἠλευθέρωσέν σε ἀπὸ τοῦ νόμου τῆς ἁμαρτίας καὶ τοῦ θανάτου.",
+      "tr": "ho gar nomos tou pneumatos tēs zōēs en Christōi Iēsou ēleutherōsen se apo tou nomou tēs hamartias kai tou thanatou."
+     }
+    },
+    {
+     "zh": "律法（上帝通过摩西颁布的规矩）因为肉体（人靠自己、不顺从上帝的那一面）而软弱，有它做不到的事；上帝却差遣自己的儿子，取了罪的肉身的样子，为了对付罪，就在肉身中定了罪的罪。",
+     "old": {
+      "who": "和合本",
+      "text": "律法既因肉体輭弱、有所不能行的、神就差遣自己的儿子、成为罪身的形状、作了赎罪祭、在肉体中定了罪案．"
+     },
+     "sa": {
+      "text": "τὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ θεὸς τὸν ἑαυτοῦ υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινε τὴν ἁμαρτίαν ἐν τῇ σαρκί,",
+      "tr": "to gar adynaton tou nomou, en hōi ēsthenei dia tēs sarkos, ho theos ton heautou huion pempsas en homoiōmati sarkos hamartias kai peri hamartias katekrine tēn hamartian en tēi sarki,"
+     }
+    },
+    {
+     "zh": "好让律法的要求成就在我们这些不照着肉体、而照着灵行事的人身上。",
+     "old": {
+      "who": "和合本",
+      "text": "使律法的义、成就在我们这不随从肉体、只随从圣灵的人身上。"
+     },
+     "sa": {
+      "text": "ἵνα τὸ δικαίωμα τοῦ νόμου πληρωθῇ ἐν ἡμῖν τοῖς μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα·",
+      "tr": "hina to dikaiōma tou nomou plērōthēi en hēmin tois mē kata sarka peripatousin alla kata pneuma;"
+     }
+    },
+    {
+     "zh": "照着肉体活的人，想的是肉体的事；照着灵活的人，想的是灵的事。",
+     "old": {
+      "who": "和合本",
+      "text": "因为随从肉体的人、体贴肉体的事．随从圣灵的人、体贴圣灵的事。"
+     },
+     "sa": {
+      "text": "οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος.",
+      "tr": "hoi gar kata sarka ontes ta tēs sarkos phronousin, hoi de kata pneuma ta tou pneumatos."
+     }
+    },
+    {
+     "zh": "肉体的心思是死，灵的心思却是生命和平安；",
+     "old": {
+      "who": "和合本",
+      "text": "体贴肉体的就是死．体贴圣灵的乃是生命平安．"
+     },
+     "sa": {
+      "text": "τὸ γὰρ φρόνημα τῆς σαρκὸς θάνατος, τὸ δὲ φρόνημα τοῦ πνεύματος ζωὴ καὶ εἰρήνη·",
+      "tr": "to gar phronēma tēs sarkos thanatos, to de phronēma tou pneumatos zōē kai eirēnē;"
+     }
+    },
+    {
+     "zh": "因为肉体的心思与上帝为敌，它不服从上帝的律法，也不能服从；",
+     "old": {
+      "who": "和合本",
+      "text": "原来体贴肉体的、就是与神为仇．因为不服神的律法、也是不能服。"
+     },
+     "sa": {
+      "text": "διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς θεόν, τῷ γὰρ νόμῳ τοῦ θεοῦ οὐχ ὑποτάσσεται, οὐδὲ γὰρ δύναται·",
+      "tr": "dioti to phronēma tēs sarkos echthra eis theon, tōi gar nomōi tou theou ouch hypotassetai, oude gar dynatai;"
+     }
+    },
+    {
+     "zh": "在肉体里的人不能讨上帝喜欢。",
+     "old": {
+      "who": "和合本",
+      "text": "而且属肉体的人、不能得神的喜欢。"
+     },
+     "sa": {
+      "text": "οἱ δὲ ἐν σαρκὶ ὄντες θεῷ ἀρέσαι οὐ δύνανται.",
+      "tr": "hoi de en sarki ontes theōi aresai ou dynantai."
+     }
+    },
+    {
+     "zh": "但是，如果上帝的灵住在你们里面，你们就不在肉体里，而在灵里了。谁要是没有基督的灵，他就不属于基督。",
+     "old": {
+      "who": "和合本",
+      "text": "如果神的灵住在你们心里、你们就不属肉体、乃属圣灵了．人若没有基督的灵、就不是属基督的。"
+     },
+     "sa": {
+      "text": "Ὑμεῖς δὲ οὐκ ἐστὲ ἐν σαρκὶ ἀλλὰ ἐν πνεύματι, εἴπερ πνεῦμα θεοῦ οἰκεῖ ἐν ὑμῖν. εἰ δέ τις πνεῦμα Χριστοῦ οὐκ ἔχει, οὗτος οὐκ ἔστιν αὐτοῦ.",
+      "tr": "Hymeis de ouk este en sarki alla en pneumati, eiper pneuma theou oikei en hymin. ei de tis pneuma Christou ouk echei, houtos ouk estin autou."
+     }
+    },
+    {
+     "zh": "如果基督在你们里面，身体虽然因罪是死的，灵却因义（在上帝面前算为对）是生命。",
+     "old": {
+      "who": "和合本",
+      "text": "基督若在你们心里、身体就因罪而死、心灵却因义而活．"
+     },
+     "sa": {
+      "text": "εἰ δὲ Χριστὸς ἐν ὑμῖν, τὸ μὲν σῶμα νεκρὸν διὰ ἁμαρτίαν, τὸ δὲ πνεῦμα ζωὴ διὰ δικαιοσύνην.",
+      "tr": "ei de Christos en hymin, to men sōma nekron dia hamartian, to de pneuma zōē dia dikaiosynēn."
+     }
+    },
+    {
+     "zh": "如果那使耶稣从死人中复活的那一位的灵住在你们里面，那使基督耶稣从死人中复活的，也要借着他住在你们里面的灵，使你们必死的身体活过来。",
+     "old": {
+      "who": "和合本",
+      "text": "然而叫耶稣从死里复活者的灵、若住在你们心里、那叫基督耶稣从死里复活的、也必借着住在你们心里的圣灵、使你们必死的身体又活过来。"
+     },
+     "sa": {
+      "text": "εἰ δὲ τὸ πνεῦμα τοῦ ἐγείραντος τὸν Ἰησοῦν ἐκ νεκρῶν οἰκεῖ ἐν ὑμῖν, ὁ ἐγείρας ἐκ νεκρῶν Χριστὸν Ἰησοῦν ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν διὰ τὸ ἐνοικοῦν αὐτοῦ πνεῦμα ἐν ὑμῖν.",
+      "tr": "ei de to pneuma tou egeirantos ton Iēsoun ek nekrōn oikei en hymin, ho egeiras ek nekrōn Christon Iēsoun zōiopoiēsei kai ta thnēta sōmata hymōn dia to enoikoun autou pneuma en hymin."
+     }
+    },
+    {
+     "zh": "所以，弟兄们（一同信的人），我们是欠债的，却不是欠肉体的债，要照着肉体活。",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、这样看来、我们并不是欠肉体的债、去顺从肉体活着。"
+     },
+     "sa": {
+      "text": "Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν,",
+      "tr": "Ara oun, adelphoi, opheiletai esmen, ou tēi sarki tou kata sarka zēn,"
+     }
+    },
+    {
+     "zh": "你们要是照着肉体活，就要死；要是靠着灵把身体的恶行治死，就要活。",
+     "old": {
+      "who": "和合本",
+      "text": "你们若顺从肉体活着必要死．若靠着圣灵治死身体的恶行必要活着。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ κατὰ σάρκα ζῆτε μέλλετε ἀποθνῄσκειν, εἰ δὲ πνεύματι τὰς πράξεις τοῦ σώματος θανατοῦτε, ζήσεσθε.",
+      "tr": "ei gar kata sarka zēte mellete apothnēiskein, ei de pneumati tas praxeis tou sōmatos thanatoute, zēsesthe."
+     }
+    },
+    {
+     "zh": "因为凡被上帝的灵引导的，都是上帝的儿子。",
+     "old": {
+      "who": "和合本",
+      "text": "因为凡被神的灵引导的、都是神的儿子。"
+     },
+     "sa": {
+      "text": "ὅσοι γὰρ πνεύματι θεοῦ ἄγονται, οὗτοι υἱοί εἰσιν θεοῦ.",
+      "tr": "hosoi gar pneumati theou agontai, houtoi huioi eisin theou."
+     }
+    },
+    {
+     "zh": "你们所领受的不是奴仆的灵，叫你们再害怕；你们所领受的是得儿子名分的灵，我们靠着这灵呼叫：「阿爸，父！」",
+     "old": {
+      "who": "和合本",
+      "text": "你们所受的不是奴仆的心、仍旧害怕．所受的乃是儿子的心、因此我们呼叫阿爸、父。"
+     },
+     "sa": {
+      "text": "οὐ γὰρ ἐλάβετε πνεῦμα δουλείας πάλιν εἰς φόβον, ἀλλὰ ἐλάβετε πνεῦμα υἱοθεσίας ἐν ᾧ κράζομεν· Αββα ὁ πατήρ·",
+      "tr": "ou gar elabete pneuma douleias palin eis phobon, alla elabete pneuma huiothesias en hōi krazomen; Abba ho patēr;"
+     }
+    },
+    {
+     "zh": "这灵自己和我们的灵一同作证，我们是上帝的儿女。",
+     "old": {
+      "who": "和合本",
+      "text": "圣灵与我们的心同证我们是神的儿女．"
+     },
+     "sa": {
+      "text": "αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν ὅτι ἐσμὲν τέκνα θεοῦ.",
+      "tr": "auto to pneuma symmartyrei tōi pneumati hēmōn hoti esmen tekna theou."
+     }
+    },
+    {
+     "zh": "既然是儿女，也就是继承人：是上帝的继承人，和基督一同作继承人，只要我们和他一同受苦，好叫我们也和他一同得荣耀。",
+     "old": {
+      "who": "和合本",
+      "text": "既是儿女、便是后嗣、就是神的后嗣、和基督同作后嗣．如果我们和他一同受苦、也必和他一同得荣耀。"
+     },
+     "sa": {
+      "text": "εἰ δὲ τέκνα, καὶ κληρονόμοι· κληρονόμοι μὲν θεοῦ, συγκληρονόμοι δὲ Χριστοῦ, εἴπερ συμπάσχομεν ἵνα καὶ συνδοξασθῶμεν.",
+      "tr": "ei de tekna, kai klēronomoi; klēronomoi men theou, synklēronomoi de Christou, eiper sympaschomen hina kai syndoxasthōmen."
+     }
+    },
+    {
+     "zh": "我认为，现在这时候的苦楚，和将来要向我们显明的荣耀相比，算不得什么。",
+     "old": {
+      "who": "和合本",
+      "text": "我想现在的苦楚、若比起将来要显于我们的荣耀、就不足介意了。"
+     },
+     "sa": {
+      "text": "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς.",
+      "tr": "Logizomai gar hoti ouk axia ta pathēmata tou nyn kairou pros tēn mellousan doxan apokalyphthēnai eis hēmas."
+     }
+    },
+    {
+     "zh": "受造之物热切地盼望着，等候上帝的众子显明出来。",
+     "old": {
+      "who": "和合本",
+      "text": "受造之物、切望等候神的众子显出来。"
+     },
+     "sa": {
+      "text": "ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ θεοῦ ἀπεκδέχεται·",
+      "tr": "hē gar apokaradokia tēs ktiseōs tēn apokalypsin tōn huiōn tou theou apekdechetai;"
+     }
+    },
+    {
+     "zh": "因为受造之物被迫服在虚空之下，不是出于自愿，而是因为那使它服在其下的；不过仍然存着盼望：",
+     "old": {
+      "who": "和合本",
+      "text": "因为受造之物服在虚空之下、不是自己愿意、乃是因那叫他如此的。"
+     },
+     "sa": {
+      "text": "τῇ γὰρ ματαιότητι ἡ κτίσις ὑπετάγη, οὐχ ἑκοῦσα ἀλλὰ διὰ τὸν ὑποτάξαντα, ἐφʼ ἑλπίδι",
+      "tr": "tēi gar mataiotēti hē ktisis hypetagē, ouch hekousa alla dia ton hypotaxanta, ephʼ helpidi"
+     }
+    },
+    {
+     "zh": "受造之物自己也要得释放，脱离败坏的奴役，进入上帝儿女荣耀的自由。",
+     "old": {
+      "who": "和合本",
+      "text": "但受造之物仍然指望脱离败坏的辖制、得享神儿女自由的荣耀。"
+     },
+     "sa": {
+      "text": "ὅτι καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ.",
+      "tr": "hoti kai autē hē ktisis eleutherōthēsetai apo tēs douleias tēs phthoras eis tēn eleutherian tēs doxēs tōn teknōn tou theou."
+     }
+    },
+    {
+     "zh": "我们知道，一切受造之物一同叹息，一同受着生产的阵痛，直到现在。",
+     "old": {
+      "who": "和合本",
+      "text": "我们知道一切受造之物、一同叹息劳苦、直到如今。"
+     },
+     "sa": {
+      "text": "οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν·",
+      "tr": "oidamen gar hoti pasa hē ktisis systenazei kai synōdinei achri tou nyn;"
+     }
+    },
+    {
+     "zh": "不但这样，连我们这些有灵作初熟果子的人，自己也在心里叹息，等候得着儿子的名分，就是我们的身体得赎。",
+     "old": {
+      "who": "和合本",
+      "text": "不但如此、就是我们这有圣灵初结果子的、也是自己心里叹息、等候得着儿子的名分、乃是我们的身体得赎。"
+     },
+     "sa": {
+      "text": "οὐ μόνον δέ, ἀλλὰ καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες ἡμεῖς καὶ αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+      "tr": "ou monon de, alla kai autoi tēn aparchēn tou pneumatos echontes hēmeis kai autoi en heautois stenazomen, huiothesian apekdechomenoi tēn apolytrōsin tou sōmatos hēmōn."
+     }
+    },
+    {
+     "zh": "我们是在盼望中得救（得到上帝的拯救，不至于灭亡）的；看得见的盼望就不是盼望了，谁还盼望他已经看见的呢？",
+     "old": {
+      "who": "和合本",
+      "text": "我们得救是在乎盼望．只是所见的盼望不是盼望．谁还盼望他所见的呢。"
+     },
+     "sa": {
+      "text": "τῇ γὰρ ἐλπίδι ἐσώθημεν· ἐλπὶς δὲ βλεπομένη οὐκ ἔστιν ἐλπίς, ὃ γὰρ βλέπει τίς ἐλπίζει;",
+      "tr": "tēi gar elpidi esōthēmen; elpis de blepomenē ouk estin elpis, ho gar blepei tis elpizei?"
+     }
+    },
+    {
+     "zh": "但我们若盼望那看不见的，就要忍耐着等候。",
+     "old": {
+      "who": "和合本",
+      "text": "但我们若盼望那所不见的、就必忍耐等候。"
+     },
+     "sa": {
+      "text": "εἰ δὲ ὃ οὐ βλέπομεν ἐλπίζομεν, διʼ ὑπομονῆς ἀπεκδεχόμεθα.",
+      "tr": "ei de ho ou blepomen elpizomen, diʼ hypomonēs apekdechometha."
+     }
+    },
+    {
+     "zh": "照样，灵也帮助我们的软弱：我们本来不知道该怎样祷告，但灵自己用说不出话来的叹息替我们祈求；",
+     "old": {
+      "who": "和合本",
+      "text": "况且我们的輭弱有圣灵帮助、我们本不晓得当怎样祷告、只是圣灵亲自用说不出来的叹息、替我们祷告。"
+     },
+     "sa": {
+      "text": "Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν· τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις,",
+      "tr": "Hōsautōs de kai to pneuma synantilambanetai tēi astheneiāi hēmōn; to gar ti proseuxōmetha katho dei ouk oidamen, alla auto to pneuma hyperentynchanei stenagmois alalētois,"
+     }
+    },
+    {
+     "zh": "那鉴察人心的，知道灵的心思，因为灵照着上帝的心意替圣徒（属于上帝的人）祈求。",
+     "old": {
+      "who": "和合本",
+      "text": "鉴察人心的、晓得圣灵的意思．因为圣灵照着神的旨意替圣徒祈求。"
+     },
+     "sa": {
+      "text": "ὁ δὲ ἐραυνῶν τὰς καρδίας οἶδεν τί τὸ φρόνημα τοῦ πνεύματος, ὅτι κατὰ θεὸν ἐντυγχάνει ὑπὲρ ἁγίων.",
+      "tr": "ho de eraunōn tas kardias oiden ti to phronēma tou pneumatos, hoti kata theon entynchanei hyper hagiōn."
+     }
+    },
+    {
+     "zh": "我们知道，对爱上帝的人，就是照他的旨意蒙召的人，万事都一同效力，叫他们得益处。",
+     "old": {
+      "who": "和合本",
+      "text": "我们晓得万事都互相効力、叫爱神的人得益处、就是按他旨意被召的人。"
+     },
+     "sa": {
+      "text": "Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσι τὸν θεὸν πάντα συνεργεῖ εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν.",
+      "tr": "Oidamen de hoti tois agapōsi ton theon panta synergei eis agathon, tois kata prothesin klētois ousin."
+     }
+    },
+    {
+     "zh": "因为他预先知道的人，他也预先定下，要他们和他儿子的形像一样，使他儿子在许多弟兄中作长子；",
+     "old": {
+      "who": "和合本",
+      "text": "因为他豫先所知道的人、就豫先定下效法他儿子的模样使他儿子在许多弟兄中作长子．"
+     },
+     "sa": {
+      "text": "ὅτι οὓς προέγνω, καὶ προώρισεν συμμόρφους τῆς εἰκόνος τοῦ υἱοῦ αὐτοῦ, εἰς τὸ εἶναι αὐτὸν πρωτότοκον ἐν πολλοῖς ἀδελφοῖς·",
+      "tr": "hoti hous proegnō, kai proōrisen symmorphous tēs eikonos tou huiou autou, eis to einai auton prōtotokon en pollois adelphois;"
+     }
+    },
+    {
+     "zh": "他预先定下的人，他也召了他们；他所召的人，他也称他们为义；他所称为义的人，他也使他们得荣耀。",
+     "old": {
+      "who": "和合本",
+      "text": "豫先所定下的人又召他们来．所召来的人、又称他们为义．所称为义的人、又叫他们得荣耀。"
+     },
+     "sa": {
+      "text": "οὓς δὲ προώρισεν, τούτους καὶ ἐκάλεσεν· καὶ οὓς ἐκάλεσεν, τούτους καὶ ἐδικαίωσεν· οὓς δὲ ἐδικαίωσεν, τούτους καὶ ἐδόξασεν.",
+      "tr": "hous de proōrisen, toutous kai ekalesen; kai hous ekalesen, toutous kai edikaiōsen; hous de edikaiōsen, toutous kai edoxasen."
+     }
+    },
+    {
+     "zh": "那么，对这些事我们要说什么呢？上帝若是为我们，谁能敌挡我们呢？",
+     "old": {
+      "who": "和合本",
+      "text": "既是这样、还有甚么说的呢．神若帮助我们、谁能敌挡我们呢。"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν πρὸς ταῦτα; εἰ ὁ θεὸς ὑπὲρ ἡμῶν, τίς καθʼ ἡμῶν;",
+      "tr": "Ti oun eroumen pros tauta? ei ho theos hyper hēmōn, tis kathʼ hēmōn?"
+     }
+    },
+    {
+     "zh": "他连自己的儿子都不顾惜，为我们所有的人把他交了出去，怎么会不把万有也和他一同白白地赐给我们呢？",
+     "old": {
+      "who": "和合本",
+      "text": "神既不爱惜自己的儿子为我们众人舍了、岂不也把万物和他一同白白的赐给我们么。"
+     },
+     "sa": {
+      "text": "ὅς γε τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο, ἀλλὰ ὑπὲρ ἡμῶν πάντων παρέδωκεν αὐτόν, πῶς οὐχὶ καὶ σὺν αὐτῷ τὰ πάντα ἡμῖν χαρίσεται;",
+      "tr": "hos ge tou idiou huiou ouk epheisato, alla hyper hēmōn pantōn paredōken auton, pōs ouchi kai syn autōi ta panta hēmin charisetai?"
+     }
+    },
+    {
+     "zh": "谁能控告上帝所拣选的人呢？是上帝称他们为义。",
+     "old": {
+      "who": "和合本",
+      "text": "谁能控告神所拣选的人呢．有神称他们为义了。"
+     },
+     "sa": {
+      "text": "τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν·",
+      "tr": "tis enkalesei kata eklektōn theou? theos ho dikaiōn;"
+     }
+    },
+    {
+     "zh": "谁能定他们的罪呢？是基督死了，更是复活了，现在在上帝的右边，也替我们祈求。",
+     "old": {
+      "who": "和合本",
+      "text": "谁能定他们的罪呢．有基督耶稣已经死了、而且从死里复活、现今在神的右边、也替我们祈求。",
+      "notes": [
+       {
+        "w": "基督耶稣",
+        "note": "本站的底本这里只有「基督」，没有「耶稣」。「从死里」三个字也是和合本补的。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "τίς ὁ κατακρινῶν; Χριστὸς ὁ ἀποθανών, μᾶλλον δὲ ἐγερθείς, ὅς καί ἐστιν ἐν δεξιᾷ τοῦ θεοῦ, ὃς καὶ ἐντυγχάνει ὑπὲρ ἡμῶν·",
+      "tr": "tis ho katakrinōn? Christos ho apothanōn, mallon de egertheis, hos kai estin en dexiāi tou theou, hos kai entynchanei hyper hēmōn;"
+     }
+    },
+    {
+     "zh": "谁能使我们和基督的爱分开呢？是患难吗？是困苦吗？是逼迫吗？是饥饿吗？是赤身露体吗？是危险吗？是刀剑吗？",
+     "old": {
+      "who": "和合本",
+      "text": "谁能使我们与基督的爱隔绝呢．难道是患难么、是困苦么、是逼迫么、是饥饿么、是赤身露体么、是危险么、是刀剑么。"
+     },
+     "sa": {
+      "text": "τίς ἡμᾶς χωρίσει ἀπὸ τῆς ἀγάπης τοῦ Χριστοῦ; θλῖψις ἢ στενοχωρία ἢ διωγμὸς ἢ λιμὸς ἢ γυμνότης ἢ κίνδυνος ἢ μάχαιρα;",
+      "tr": "tis hēmas chōrisei apo tēs agapēs tou Christou? thlipsis ē stenochōria ē diōgmos ē limos ē gymnotēs ē kindynos ē machaira?"
+     }
+    },
+    {
+     "zh": "正如经上（旧约圣经里）写着：「为了你，我们整天被置于死地；人看我们像待宰的羊。」",
+     "old": {
+      "who": "和合本",
+      "text": "如经上所记、『我们为你的缘故、终日被杀．人看我们如将宰的羊。』"
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται ὅτι Ἕνεκεν σοῦ θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς.",
+      "tr": "kathōs gegraptai hoti Heneken sou thanatoumetha holēn tēn hēmeran, elogisthēmen hōs probata sphagēs."
+     }
+    },
+    {
+     "zh": "然而，靠着那爱我们的，我们在这一切事上已经得胜有余了。",
+     "old": {
+      "who": "和合本",
+      "text": "然而靠着爱我们的主、在这一切的事上、已经得胜有余了。",
+      "notes": [
+       {
+        "w": "爱我们的主",
+        "note": "「主」字是和合本补的；原文只说「那爱了我们的」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἀλλʼ ἐν τούτοις πᾶσιν ὑπερνικῶμεν διὰ τοῦ ἀγαπήσαντος ἡμᾶς.",
+      "tr": "allʼ en toutois pasin hypernikōmen dia tou agapēsantos hēmas."
+     }
+    },
+    {
+     "zh": "因为我深信，无论是死，是生，是天使（上帝的使者），是掌权的，是现在的事，是将来的事，是有能力的，",
+     "old": {
+      "who": "和合本",
+      "text": "因为我深信无论是死、是生、是天使、是掌权的、是有能的、是现在的事、是将来的事、",
+      "notes": [
+       {
+        "w": "是有能的",
+        "note": "底本把「有能力的」排在「将来的事」后面，和合本排在「掌权的」后面。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις",
+      "tr": "pepeismai gar hoti oute thanatos oute zōē oute angeloi oute archai oute enestōta oute mellonta oute dynameis"
+     }
+    },
+    {
+     "zh": "是高处的，是深处的，是别的任何受造之物，都不能使我们和上帝的爱分开；这爱是在我们的主基督耶稣里的。",
+     "old": {
+      "who": "和合本",
+      "text": "是高处的、是低处的、是别的受造之物、都不能叫我们与神的爱隔绝．这爱是在我们的主基督耶稣里的。"
+     },
+     "sa": {
+      "text": "οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.",
+      "tr": "oute hypsōma oute bathos oute tis ktisis hetera dynēsetai hēmas chōrisai apo tēs agapēs tou theou tēs en Christōi Iēsou tōi kyriōi hēmōn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 9 章 · 保罗为同胞忧伤，上帝的拣选",
+   "no": 9,
+   "intro": "保罗说他为自己的同胞以色列人极其忧伤。他接着问：上帝的话落空了吗？他回答：不是亚伯拉罕的后代就都算数，上帝拣选谁全在于他自己，并举以撒、雅各、法老和陶匠做例子。最后他说，外族人凭着信得了义，以色列凭着行为去求，反而绊倒了。",
+   "verses": [
+    {
+     "zh": "我在基督（上帝选立的那位救主）里说真话，不说谎；我的良心在圣灵（上帝的灵）里也一同给我作证：",
+     "old": {
+      "who": "和合本",
+      "text": "我在基督里说真话、并不谎言、有我良心被圣灵感动、给我作见证．"
+     },
+     "sa": {
+      "text": "Ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, συμμαρτυρούσης μοι τῆς συνειδήσεώς μου ἐν πνεύματι ἁγίῳ,",
+      "tr": "Alētheian legō en Christōi, ou pseudomai, symmartyrousēs moi tēs syneidēseōs mou en pneumati hagiōi,"
+     }
+    },
+    {
+     "zh": "我心里有极大的忧愁，有不住的伤痛。",
+     "old": {
+      "who": "和合本",
+      "text": "我是大有忧愁、心里时常伤痛。"
+     },
+     "sa": {
+      "text": "ὅτι λύπη μοί ἐστιν μεγάλη καὶ ἀδιάλειπτος ὀδύνη τῇ καρδίᾳ μου·",
+      "tr": "hoti lypē moi estin megalē kai adialeiptos odynē tēi kardiāi mou;"
+     }
+    },
+    {
+     "zh": "为了我的弟兄，就是按肉身说和我同族的人，我甚至愿意自己受咒诅，与基督隔绝。",
+     "old": {
+      "who": "和合本",
+      "text": "为我弟兄、我骨肉之亲、就是自己被咒诅、与基督分离、我也愿意。"
+     },
+     "sa": {
+      "text": "ηὐχόμην γὰρ ἀνάθεμα εἶναι αὐτὸς ἐγὼ ἀπὸ τοῦ Χριστοῦ ὑπὲρ τῶν ἀδελφῶν μου τῶν συγγενῶν μου κατὰ σάρκα,",
+      "tr": "ēuchomēn gar anathema einai autos egō apo tou Christou hyper tōn adelphōn mou tōn syngenōn mou kata sarka,"
+     }
+    },
+    {
+     "zh": "他们是以色列人（以色列是犹太人这个民族）：儿子的名分、荣耀、诸约、颁布的律法（上帝通过摩西颁布的规矩）、敬拜的礼、应许，都是他们的；",
+     "old": {
+      "who": "和合本",
+      "text": "他们是以色列人．那儿子的名分、荣耀、诸约、律法、礼仪、应许、都是他们的．"
+     },
+     "sa": {
+      "text": "οἵτινές εἰσιν Ἰσραηλῖται, ὧν ἡ υἱοθεσία καὶ ἡ δόξα καὶ αἱ διαθῆκαι καὶ ἡ νομοθεσία καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι,",
+      "tr": "hoitines eisin Israēlitai, hōn hē huiothesia kai hē doxa kai hai diathēkai kai hē nomothesia kai hē latreia kai hai epangeliai,"
+     }
+    },
+    {
+     "zh": "列祖是他们的；按肉身说，基督也是从他们出来的。他是在万有之上的上帝，永远当受称颂。阿们。",
+     "old": {
+      "who": "和合本",
+      "text": "列祖就是他们的祖宗、按肉体说、基督也是从他们出来的、他是在万有之上、永远可称颂的神。阿们。"
+     },
+     "sa": {
+      "text": "ὧν οἱ πατέρες, καὶ ἐξ ὧν ὁ χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων, θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν.",
+      "tr": "hōn hoi pateres, kai ex hōn ho christos to kata sarka, ho ōn epi pantōn, theos eulogētos eis tous aiōnas; amēn."
+     }
+    },
+    {
+     "zh": "这并不是说上帝的话落了空。因为从以色列生的，不都是以色列；",
+     "old": {
+      "who": "和合本",
+      "text": "这不是说神的话落了空．因为从以色列生的、不都是以色列人．"
+     },
+     "sa": {
+      "text": "Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ. οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·",
+      "tr": "Ouch hoion de hoti ekpeptōken ho logos tou theou. ou gar pantes hoi ex Israēl, houtoi Israēl;"
+     }
+    },
+    {
+     "zh": "也不因为是亚伯拉罕（犹太人的始祖）的后裔，就都是他的儿女；而是：「从以撒（亚伯拉罕的儿子）生的，才要称为你的后裔。」",
+     "old": {
+      "who": "和合本",
+      "text": "也不因为是亚伯拉罕的后裔、就都作他的儿女．惟独『从以撒生的、才要称为你的后裔。』"
+     },
+     "sa": {
+      "text": "οὐδʼ ὅτι εἰσὶν σπέρμα Ἀβραάμ, πάντες τέκνα, ἀλλʼ· Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα.",
+      "tr": "oudʼ hoti eisin sperma Abraam, pantes tekna, allʼ; En Isaak klēthēsetai soi sperma."
+     }
+    },
+    {
+     "zh": "这就是说，肉身所生的儿女不就是上帝的儿女，应许的儿女才算是后裔。",
+     "old": {
+      "who": "和合本",
+      "text": "这就是说、肉身所生的儿女、不是神的儿女．惟独那应许的儿女、才算是后裔。"
+     },
+     "sa": {
+      "text": "τοῦτʼ ἔστιν, οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ, ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα·",
+      "tr": "toutʼ estin, ou ta tekna tēs sarkos tauta tekna tou theou, alla ta tekna tēs epangelias logizetai eis sperma;"
+     }
+    },
+    {
+     "zh": "因为应许的话是这样说的：「到了这个时候，我要来，撒拉（亚伯拉罕的妻子）必有一个儿子。」",
+     "old": {
+      "who": "和合本",
+      "text": "因为所应许的话是这样说、『到明年这时候我要来、撒拉必生一个儿子。』",
+      "notes": [
+       {
+        "w": "到明年这时候",
+        "note": "「明年」是和合本照《创世记》原处补的，这里的原文只有「这个时候」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἐπαγγελίας γὰρ ὁ λόγος οὗτος· Κατὰ τὸν καιρὸν τοῦτον ἐλεύσομαι καὶ ἔσται τῇ Σάρρᾳ υἱός.",
+      "tr": "epangelias gar ho logos houtos; Kata ton kairon touton eleusomai kai estai tēi Sarrāi huios."
+     }
+    },
+    {
+     "zh": "不但如此，还有利百加（以撒的妻子）：她从一个人，就是我们的祖先以撒，怀了孕。",
+     "old": {
+      "who": "和合本",
+      "text": "不但如此、还有利百加、既从一个人、就是从我们的祖宗以撒怀了孕．"
+     },
+     "sa": {
+      "text": "οὐ μόνον δέ, ἀλλὰ καὶ Ῥεβέκκα ἐξ ἑνὸς κοίτην ἔχουσα, Ἰσαὰκ τοῦ πατρὸς ἡμῶν·",
+      "tr": "ou monon de, alla kai Rhebekka ex henos koitēn echousa, Isaak tou patros hēmōn;"
+     }
+    },
+    {
+     "zh": "那时（两个孩子）还没有生下来，好事坏事都还没有做，为了让上帝照着拣选所定的计划立得住，",
+     "old": {
+      "who": "和合本",
+      "text": "（双子还没有生下来、善恶还没有作出来、只因要显明神拣选人的旨意、不在乎人的行为、乃在乎召人的主）",
+      "notes": [
+       {
+        "w": "（双子还没有生下来……）",
+        "note": "这一节的括号是和合本原书就有的；它还把下一节开头的「不在乎人的行为，乃在乎召人的主」提前放进了这一节。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "μήπω γὰρ γεννηθέντων μηδὲ πραξάντων τι ἀγαθὸν ἢ φαῦλον, ἵνα ἡ κατʼ ἐκλογὴν πρόθεσις τοῦ θεοῦ μένῃ,",
+      "tr": "mēpō gar gennēthentōn mēde praxantōn ti agathon ē phaulon, hina hē katʼ eklogēn prothesis tou theou menēi,"
+     }
+    },
+    {
+     "zh": "不是出于行为，而是出于那召人的，就有话对她说：「大的要服事小的。」",
+     "old": {
+      "who": "和合本",
+      "text": "神就对利百加说、『将来大的要服事小的。』"
+     },
+     "sa": {
+      "text": "οὐκ ἐξ ἔργων ἀλλʼ ἐκ τοῦ καλοῦντος, ἐρρέθη αὐτῇ ὅτι Ὁ μείζων δουλεύσει τῷ ἐλάσσονι·",
+      "tr": "ouk ex ergōn allʼ ek tou kalountos, errethē autēi hoti Ho meizōn douleusei tōi elassoni;"
+     }
+    },
+    {
+     "zh": "正如经上（旧约圣经里）写着：「雅各（两个孩子里小的）我爱了，以扫（大的）我恨了。」",
+     "old": {
+      "who": "和合本",
+      "text": "正如经上所记、『雅各是我所爱的、以扫是我所恶的。』",
+      "notes": [
+       {
+        "w": "所恶的",
+        "note": "原文的字就是「恨」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται· Τὸν Ἰακὼβ ἠγάπησα, τὸν δὲ Ἠσαῦ ἐμίσησα.",
+      "tr": "kathōs gegraptai; Ton Iakōb ēgapēsa, ton de Ēsau emisēsa."
+     }
+    },
+    {
+     "zh": "那么我们要说什么呢？难道上帝那里有不公平吗？绝对不是！",
+     "old": {
+      "who": "和合本",
+      "text": "这样、我们可说甚么呢．难道神有甚么不公平么．断乎没有。"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν; μὴ ἀδικία παρὰ τῷ θεῷ; μὴ γένοιτο·",
+      "tr": "Ti oun eroumen? mē adikia para tōi theōi? mē genoito;"
+     }
+    },
+    {
+     "zh": "因为他对摩西（传下犹太律法的人）说：「我要怜悯谁，就怜悯谁；要体恤谁，就体恤谁。」",
+     "old": {
+      "who": "和合本",
+      "text": "因他对摩西说、『我要怜悯谁、就怜悯谁、要恩待谁、就恩待谁。』"
+     },
+     "sa": {
+      "text": "τῷ Μωϋσεῖ γὰρ λέγει· Ἐλεήσω ὃν ἂν ἐλεῶ, καὶ οἰκτιρήσω ὃν ἂν οἰκτίρω.",
+      "tr": "tōi Mōÿsei gar legei; Eleēsō hon an eleō, kai oiktirēsō hon an oiktirō."
+     }
+    },
+    {
+     "zh": "这样看来，这不在于那愿意的人，也不在于那奔跑的人，而在于施怜悯的上帝。",
+     "old": {
+      "who": "和合本",
+      "text": "据此看来、这不在乎那定意的、也不在乎那奔跑的、只在乎发怜悯的神。"
+     },
+     "sa": {
+      "text": "ἄρα οὖν οὐ τοῦ θέλοντος οὐδὲ τοῦ τρέχοντος ἀλλὰ τοῦ ἐλεῶντος θεοῦ.",
+      "tr": "ara oun ou tou thelontos oude tou trechontos alla tou eleōntos theou."
+     }
+    },
+    {
+     "zh": "因为经上对法老（埃及的王）说：「我把你兴起来，正是为了这个：要在你身上显出我的能力，并且让我的名传遍全地。」",
+     "old": {
+      "who": "和合本",
+      "text": "因为经上有话向法老说、『我将你兴起来、特要在你身上彰显我的权能、并要使我的名传遍天下。』"
+     },
+     "sa": {
+      "text": "λέγει γὰρ ἡ γραφὴ τῷ Φαραὼ ὅτι Εἰς αὐτὸ τοῦτο ἐξήγειρά σε ὅπως ἐνδείξωμαι ἐν σοὶ τὴν δύναμίν μου, καὶ ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ.",
+      "tr": "legei gar hē graphē tōi Pharaō hoti Eis auto touto exēgeira se hopōs endeixōmai en soi tēn dynamin mou, kai hopōs diangelēi to onoma mou en pasēi tēi gēi."
+     }
+    },
+    {
+     "zh": "这样看来，他愿意怜悯谁就怜悯谁，愿意叫谁刚硬就叫谁刚硬。",
+     "old": {
+      "who": "和合本",
+      "text": "如此看来、神要怜悯谁、就怜悯谁、要叫谁刚硬、就叫谁刚硬。"
+     },
+     "sa": {
+      "text": "ἄρα οὖν ὃν θέλει ἐλεεῖ, ὃν δὲ θέλει σκληρύνει.",
+      "tr": "ara oun hon thelei eleei, hon de thelei sklērynei."
+     }
+    },
+    {
+     "zh": "那么你会对我说：「他为什么还责怪人呢？有谁抗拒得了他的旨意呢？」",
+     "old": {
+      "who": "和合本",
+      "text": "这样、你必对我说、他为甚么还指责人呢．有谁抗拒他的旨意呢。"
+     },
+     "sa": {
+      "text": "Ἐρεῖς μοι οὖν· Τί οὖν ἔτι μέμφεται; τῷ γὰρ βουλήματι αὐτοῦ τίς ἀνθέστηκεν;",
+      "tr": "Ereis moi oun; Ti oun eti memphetai? tōi gar boulēmati autou tis anthestēken?"
+     }
+    },
+    {
+     "zh": "你这个人哪，你是谁，竟向上帝顶嘴呢？被造出来的东西，难道会对造它的说「你为什么把我造成这样」吗？",
+     "old": {
+      "who": "和合本",
+      "text": "你这个人哪、你是谁、竟敢向神强嘴呢．受造之物岂能对造他的说、你为甚么这样造我呢。"
+     },
+     "sa": {
+      "text": "ὦ ἄνθρωπε, μενοῦνγε σὺ τίς εἶ ὁ ἀνταποκρινόμενος τῷ θεῷ; μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι Τί με ἐποίησας οὕτως;",
+      "tr": "ō anthrōpe, menounge sy tis ei ho antapokrinomenos tōi theōi? mē erei to plasma tōi plasanti Ti me epoiēsas houtōs?"
+     }
+    },
+    {
+     "zh": "陶匠难道没有权从同一团泥里，拿一块做成体面用的器皿，拿另一块做成不体面用的器皿吗？",
+     "old": {
+      "who": "和合本",
+      "text": "窰匠难道没有权柄、从一团泥里拿一块作成贵重的器皿、又拿一块作成卑贱的器皿么。"
+     },
+     "sa": {
+      "text": "ἢ οὐκ ἔχει ἐξουσίαν ὁ κεραμεὺς τοῦ πηλοῦ ἐκ τοῦ αὐτοῦ φυράματος ποιῆσαι ὃ μὲν εἰς τιμὴν σκεῦος ὃ δὲ εἰς ἀτιμίαν;",
+      "tr": "ē ouk echei exousian ho kerameus tou pēlou ek tou autou phyramatos poiēsai ho men eis timēn skeuos ho de eis atimian?"
+     }
+    },
+    {
+     "zh": "如果上帝想要显出他的愤怒（上帝对罪的惩罚），让人知道他的能力，却极其忍耐地容忍了那些惹他愤怒、预备好要毁灭的器皿，",
+     "old": {
+      "who": "和合本",
+      "text": "倘若神要显明他的忿怒、彰显他的权能、就多多忍耐宽容那可怒豫备遭毁灭的器皿．"
+     },
+     "sa": {
+      "text": "εἰ δὲ θέλων ὁ θεὸς ἐνδείξασθαι τὴν ὀργὴν καὶ γνωρίσαι τὸ δυνατὸν αὐτοῦ ἤνεγκεν ἐν πολλῇ μακροθυμίᾳ σκεύη ὀργῆς κατηρτισμένα εἰς ἀπώλειαν,",
+      "tr": "ei de thelōn ho theos endeixasthai tēn orgēn kai gnōrisai to dynaton autou ēnenken en pollēi makrothymiāi skeuē orgēs katērtismena eis apōleian,"
+     }
+    },
+    {
+     "zh": "又为了让人知道他丰盛的荣耀是在蒙怜悯的器皿上，就是他预先预备好要得荣耀的器皿，",
+     "old": {
+      "who": "和合本",
+      "text": "又要将他丰盛的荣耀、彰显在那蒙怜悯早豫备得荣耀的器皿上．"
+     },
+     "sa": {
+      "text": "καὶ ἵνα γνωρίσῃ τὸν πλοῦτον τῆς δόξης αὐτοῦ ἐπὶ σκεύη ἐλέους, ἃ προητοίμασεν εἰς δόξαν,",
+      "tr": "kai hina gnōrisēi ton plouton tēs doxēs autou epi skeuē eleous, ha proētoimasen eis doxan,"
+     }
+    },
+    {
+     "zh": "这器皿就是我们，是他所召的，不但从犹太人当中，也从外族人（不是犹太人的人）当中，（那又怎么样呢？）",
+     "old": {
+      "who": "和合本",
+      "text": "这器皿就是我们被神所召的、不但是从犹太人中、也是从外邦人中、这有甚么不可呢。"
+     },
+     "sa": {
+      "text": "οὓς καὶ ἐκάλεσεν ἡμᾶς οὐ μόνον ἐξ Ἰουδαίων ἀλλὰ καὶ ἐξ ἐθνῶν;—",
+      "tr": "hous kai ekalesen hēmas ou monon ex Ioudaiōn alla kai ex ethnōn?—"
+     }
+    },
+    {
+     "zh": "正如他在何西阿（古代的一位先知）的书上说的：「那不是我子民的，我要称为我的子民；那不蒙爱的，我要称为蒙爱的。",
+     "old": {
+      "who": "和合本",
+      "text": "就像神在何西阿书上说、『那本来不是我子民的、我要称为我的子民．本来不是蒙爱的、我要称为蒙爱的。"
+     },
+     "sa": {
+      "text": "ὡς καὶ ἐν τῷ Ὡσηὲ λέγει· Καλέσω τὸν οὐ λαόν μου λαόν μου καὶ τὴν οὐκ ἠγαπημένην ἠγαπημένην·",
+      "tr": "hōs kai en tōi Hōsēe legei; Kalesō ton ou laon mou laon mou kai tēn ouk ēgapēmenēn ēgapēmenēn;"
+     }
+    },
+    {
+     "zh": "从前在什么地方对他们说『你们不是我的子民』，就在那里，他们要被称为永生上帝的儿子。」",
+     "old": {
+      "who": "和合本",
+      "text": "从前在甚么地方对他们说、你们不是我的子民、将来就在那里称他们为永生神的儿子。』"
+     },
+     "sa": {
+      "text": "καὶ ἔσται ἐν τῷ τόπῳ οὗ ἐρρέθη αὐτοῖς· Οὐ λαός μου ὑμεῖς, ἐκεῖ κληθήσονται υἱοὶ θεοῦ ζῶντος.",
+      "tr": "kai estai en tōi topōi hou errethē autois; Ou laos mou hymeis, ekei klēthēsontai huioi theou zōntos."
+     }
+    },
+    {
+     "zh": "以赛亚（古代的先知）指着以色列呼喊：「以色列子孙的数目就算多得像海沙，得救（得到上帝的拯救，不至于灭亡）的也只是剩下的那些；",
+     "old": {
+      "who": "和合本",
+      "text": "以赛亚指着以色列人喊着说、『以色列人虽多如海沙、得救的不过是剩下的余数．"
+     },
+     "sa": {
+      "text": "Ἠσαΐας δὲ κράζει ὑπὲρ τοῦ Ἰσραήλ· Ἐὰν ᾖ ὁ ἀριθμὸς τῶν υἱῶν Ἰσραὴλ ὡς ἡ ἄμμος τῆς θαλάσσης, τὸ ὑπόλειμμα σωθήσεται·",
+      "tr": "Ēsaïas de krazei hyper tou Israēl; Ean ēi ho arithmos tōn huiōn Israēl hōs hē ammos tēs thalassēs, to hypoleimma sōthēsetai;"
+     }
+    },
+    {
+     "zh": "因为主要在地上把他的话办成，办得彻底，办得迅速。」",
+     "old": {
+      "who": "和合本",
+      "text": "因为主要在世上施行他的话、叫他的话都成全、速速的完结。』"
+     },
+     "sa": {
+      "text": "λόγον γὰρ συντελῶν καὶ συντέμνων ποιήσει κύριος ἐπὶ τῆς γῆς.",
+      "tr": "logon gar syntelōn kai syntemnōn poiēsei kyrios epi tēs gēs."
+     }
+    },
+    {
+     "zh": "又像以赛亚从前说过的：「要不是万军之主（上帝的一个称号）给我们留下后裔，我们早就成了所多玛，和蛾摩拉（古代因罪恶被毁的两座城）一样了。」",
+     "old": {
+      "who": "和合本",
+      "text": "又如以赛亚先前说过、『若不是万军之主给我们存留余种、我们早已像所多玛、蛾摩拉的样子了。』"
+     },
+     "sa": {
+      "text": "καὶ καθὼς προείρηκεν Ἠσαΐας· Εἰ μὴ κύριος Σαβαὼθ ἐγκατέλιπεν ἡμῖν σπέρμα, ὡς Σόδομα ἂν ἐγενήθημεν καὶ ὡς Γόμορρα ἂν ὡμοιώθημεν.",
+      "tr": "kai kathōs proeirēken Ēsaïas; Ei mē kyrios Sabaōth enkatelipen hēmin sperma, hōs Sodoma an egenēthēmen kai hōs Gomorra an hōmoiōthēmen."
+     }
+    },
+    {
+     "zh": "那么我们要说什么呢？外族人本来不追求义（在上帝面前算为对），却得到了义，就是出于信（信靠）的义；",
+     "old": {
+      "who": "和合本",
+      "text": "这样、我们可说甚么呢．那本来不追求义的外邦人、反得了义、就是因信而得的义．"
+     },
+     "sa": {
+      "text": "Τί οὖν ἐροῦμεν; ὅτι ἔθνη τὰ μὴ διώκοντα δικαιοσύνην κατέλαβεν δικαιοσύνην, δικαιοσύνην δὲ τὴν ἐκ πίστεως·",
+      "tr": "Ti oun eroumen? hoti ethnē ta mē diōkonta dikaiosynēn katelaben dikaiosynēn, dikaiosynēn de tēn ek pisteōs;"
+     }
+    },
+    {
+     "zh": "以色列追求那带来义的律法，却没有达到那律法。",
+     "old": {
+      "who": "和合本",
+      "text": "但以色列人追求律法的义、反得不着律法的义。",
+      "notes": [
+       {
+        "w": "律法的义",
+        "note": "原文是「义的律法」，和合本把两个词的次序倒过来译了；后半句原文只有「律法」，和合本补成「律法的义」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Ἰσραὴλ δὲ διώκων νόμον δικαιοσύνης εἰς νόμον οὐκ ἔφθασεν.",
+      "tr": "Israēl de diōkōn nomon dikaiosynēs eis nomon ouk ephthasen."
+     }
+    },
+    {
+     "zh": "为什么呢？因为他们不是凭着信，而是以为可以凭着行为。他们绊在那块绊脚石上，",
+     "old": {
+      "who": "和合本",
+      "text": "这是甚么缘故呢．是因为他们不凭着信心求、只凭着行为求．他们正跌在那绊脚石上．"
+     },
+     "sa": {
+      "text": "διὰ τί; ὅτι οὐκ ἐκ πίστεως ἀλλʼ ὡς ἐξ ἔργων· προσέκοψαν τῷ λίθῳ τοῦ προσκόμματος,",
+      "tr": "dia ti? hoti ouk ek pisteōs allʼ hōs ex ergōn; prosekopsan tōi lithōi tou proskommatos,"
+     }
+    },
+    {
+     "zh": "正如经上写着：「看，我在锡安（耶路撒冷的别名）放一块绊脚的石头、使人跌倒的磐石；信靠他的人必不至于蒙羞。」",
+     "old": {
+      "who": "和合本",
+      "text": "就如经上所记、『我在锡安放一块绊脚的石头、跌人的磐石．信靠他的人必不至于羞愧。』"
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται· Ἰδοὺ τίθημι ἐν Σιὼν λίθον προσκόμματος καὶ πέτραν σκανδάλου, καὶ ὁ πιστεύων ἐπʼ αὐτῷ οὐ καταισχυνθήσεται.",
+      "tr": "kathōs gegraptai; Idou tithēmi en Siōn lithon proskommatos kai petran skandalou, kai ho pisteuōn epʼ autōi ou kataischynthēsetai."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 10 章 · 出于信的义，人人都可以呼求主",
+   "no": 10,
+   "intro": "保罗说他盼望同胞得救：他们对上帝有热心，却想立自己的义。他说基督是律法的终点；口里承认耶稣是主、心里信的人就得救，犹太人和外族人没有分别。他又问：他们难道没有听见吗？他引旧约的话回答：听见了，却不顺从。",
+   "verses": [
+    {
+     "zh": "弟兄们（一同信的人），我心里所愿的，我为他们向上帝所求的，是要他们得救（得到上帝的拯救，不至于灭亡）。",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我心里所愿的、向神所求的、是要以色列人得救。",
+      "notes": [
+       {
+        "w": "以色列人",
+        "note": "原文只有「他们」，和合本写明是以色列人。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Ἀδελφοί, ἡ μὲν εὐδοκία τῆς ἐμῆς καρδίας καὶ ἡ δέησις πρὸς τὸν θεὸν ὑπὲρ αὐτῶν εἰς σωτηρίαν.",
+      "tr": "Adelphoi, hē men eudokia tēs emēs kardias kai hē deēsis pros ton theon hyper autōn eis sōtērian."
+     }
+    },
+    {
+     "zh": "我可以为他们作证：他们对上帝有热心，但不是照着真正的认识。",
+     "old": {
+      "who": "和合本",
+      "text": "我可以证明他们向神有热心、但不是按着真知识．"
+     },
+     "sa": {
+      "text": "μαρτυρῶ γὰρ αὐτοῖς ὅτι ζῆλον θεοῦ ἔχουσιν· ἀλλʼ οὐ κατʼ ἐπίγνωσιν,",
+      "tr": "martyrō gar autois hoti zēlon theou echousin; allʼ ou katʼ epignōsin,"
+     }
+    },
+    {
+     "zh": "因为他们不明白上帝的义（义：在上帝面前算为对），想要立起自己的义，就没有顺服上帝的义。",
+     "old": {
+      "who": "和合本",
+      "text": "因为不知道神的义、想要立自己的义、就不服神的义了。"
+     },
+     "sa": {
+      "text": "ἀγνοοῦντες γὰρ τὴν τοῦ θεοῦ δικαιοσύνην, καὶ τὴν ἰδίαν ζητοῦντες στῆσαι, τῇ δικαιοσύνῃ τοῦ θεοῦ οὐχ ὑπετάγησαν·",
+      "tr": "agnoountes gar tēn tou theou dikaiosynēn, kai tēn idian zētountes stēsai, tēi dikaiosynēi tou theou ouch hypetagēsan;"
+     }
+    },
+    {
+     "zh": "因为基督（上帝选立的那位救主）是律法（上帝通过摩西颁布的规矩）的终点，好让每一个信的人都得到义。",
+     "old": {
+      "who": "和合本",
+      "text": "律法的总结就是基督、使凡信他的都得着义。"
+     },
+     "sa": {
+      "text": "τέλος γὰρ νόμου Χριστὸς εἰς δικαιοσύνην παντὶ τῷ πιστεύοντι.",
+      "tr": "telos gar nomou Christos eis dikaiosynēn panti tōi pisteuonti."
+     }
+    },
+    {
+     "zh": "摩西（传下犹太律法的人）写道：做到律法所要求的义的人，要靠这义活着。",
+     "old": {
+      "who": "和合本",
+      "text": "摩西写着说、『人若行那出于律法的义、就必因此活着。』"
+     },
+     "sa": {
+      "text": "Μωϋσῆς γὰρ γράφει ὅτι τὴν δικαιοσύνην τὴν ἐκ τοῦ νόμου ὁ ποιήσας ἄνθρωπος ζήσεται ἐν αὐτῇ.",
+      "tr": "Mōÿsēs gar graphei hoti tēn dikaiosynēn tēn ek tou nomou ho poiēsas anthrōpos zēsetai en autēi."
+     }
+    },
+    {
+     "zh": "可是出于信（信靠）的义这样说：「你不要在心里说：『谁要升到天上去呢？』」——这就是要把基督领下来——",
+     "old": {
+      "who": "和合本",
+      "text": "惟有出于信心的义如此说、『你不要心里说、谁要升到天上去呢．就是要领下基督来．"
+     },
+     "sa": {
+      "text": "ἡ δὲ ἐκ πίστεως δικαιοσύνη οὕτως λέγει· Μὴ εἴπῃς ἐν τῇ καρδίᾳ σου· Τίς ἀναβήσεται εἰς τὸν οὐρανόν; τοῦτʼ ἔστιν Χριστὸν καταγαγεῖν·",
+      "tr": "hē de ek pisteōs dikaiosynē houtōs legei; Mē eipēis en tēi kardiāi sou; Tis anabēsetai eis ton ouranon? toutʼ estin Christon katagagein;"
+     }
+    },
+    {
+     "zh": "「或者说：『谁要下到深渊里去呢？』」——这就是要把基督从死人中领上来。",
+     "old": {
+      "who": "和合本",
+      "text": "谁要下到阴间去呢．就是要领基督从死里上来。』",
+      "notes": [
+       {
+        "w": "阴间",
+        "note": "原文是「深渊」。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἤ· Τίς καταβήσεται εἰς τὴν ἄβυσσον; τοῦτʼ ἔστιν Χριστὸν ἐκ νεκρῶν ἀναγαγεῖν.",
+      "tr": "ē; Tis katabēsetai eis tēn abysson? toutʼ estin Christon ek nekrōn anagagein."
+     }
+    },
+    {
+     "zh": "它到底怎么说呢？「这话离你很近，就在你口里，在你心里。」这就是我们所宣讲的、关于信的话。",
+     "old": {
+      "who": "和合本",
+      "text": "他到底怎么说呢．他说、『这道离你不远、正在你口里、在你心里。』就是我们所传信主的道。"
+     },
+     "sa": {
+      "text": "ἀλλὰ τί λέγει; Ἐγγύς σου τὸ ῥῆμά ἐστιν, ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου, τοῦτʼ ἔστιν τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν.",
+      "tr": "alla ti legei? Engys sou to rhēma estin, en tōi stomati sou kai en tēi kardiāi sou, toutʼ estin to rhēma tēs pisteōs ho kēryssomen."
+     }
+    },
+    {
+     "zh": "你若口里承认耶稣是主，心里信上帝使他从死人中复活，就必得救。",
+     "old": {
+      "who": "和合本",
+      "text": "你若口里认耶稣为主、心里信神叫他从死里复活、就必得救．"
+     },
+     "sa": {
+      "text": "ὅτι ἐὰν ὁμολογήσῃς ἐν τῷ στόματί σου κύριον Ἰησοῦν, καὶ πιστεύσῃς ἐν τῇ καρδίᾳ σου ὅτι ὁ θεὸς αὐτὸν ἤγειρεν ἐκ νεκρῶν, σωθήσῃ·",
+      "tr": "hoti ean homologēsēis en tōi stomati sou kyrion Iēsoun, kai pisteusēis en tēi kardiāi sou hoti ho theos auton ēgeiren ek nekrōn, sōthēsēi;"
+     }
+    },
+    {
+     "zh": "因为人心里信，就得到义；口里承认，就得到拯救。",
+     "old": {
+      "who": "和合本",
+      "text": "因为人心里相信、就可以称义．口里承认、就可以得救。"
+     },
+     "sa": {
+      "text": "καρδίᾳ γὰρ πιστεύεται εἰς δικαιοσύνην, στόματι δὲ ὁμολογεῖται εἰς σωτηρίαν·",
+      "tr": "kardiāi gar pisteuetai eis dikaiosynēn, stomati de homologeitai eis sōtērian;"
+     }
+    },
+    {
+     "zh": "经上（旧约圣经里）说：「凡信靠他的人必不至于蒙羞。」",
+     "old": {
+      "who": "和合本",
+      "text": "经上说、『凡信他的人、必不至于羞愧。』"
+     },
+     "sa": {
+      "text": "λέγει γὰρ ἡ γραφή· Πᾶς ὁ πιστεύων ἐπʼ αὐτῷ οὐ καταισχυνθήσεται.",
+      "tr": "legei gar hē graphē; Pas ho pisteuōn epʼ autōi ou kataischynthēsetai."
+     }
+    },
+    {
+     "zh": "犹太人和希腊人（这里泛指外族人）并没有分别，因为同一位主是所有人的主，他厚待一切呼求他的人。",
+     "old": {
+      "who": "和合本",
+      "text": "犹太人和希利尼人、并没有分别．因为众人同有一位主、他也厚待一切求告他的人．",
+      "notes": [
+       {
+        "w": "希利尼人",
+        "note": "「希利尼」是「希腊」的旧译名。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "οὐ γάρ ἐστιν διαστολὴ Ἰουδαίου τε καὶ Ἕλληνος, ὁ γὰρ αὐτὸς κύριος πάντων, πλουτῶν εἰς πάντας τοὺς ἐπικαλουμένους αὐτόν·",
+      "tr": "ou gar estin diastolē Ioudaiou te kai Hellēnos, ho gar autos kyrios pantōn, ploutōn eis pantas tous epikaloumenous auton;"
+     }
+    },
+    {
+     "zh": "因为「凡呼求主名的人都必得救」。",
+     "old": {
+      "who": "和合本",
+      "text": "因为『凡求告主名的、就必得救。』"
+     },
+     "sa": {
+      "text": "Πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται.",
+      "tr": "Pas gar hos an epikalesētai to onoma kyriou sōthēsetai."
+     }
+    },
+    {
+     "zh": "可是，人没有信他，怎么能呼求他呢？没有听说过他，怎么能信他呢？没有人宣讲，怎么能听见呢？",
+     "old": {
+      "who": "和合本",
+      "text": "然而人未曾信他、怎能求他呢．未曾听见他、怎能信他呢．没有传道的、怎能听见呢。"
+     },
+     "sa": {
+      "text": "Πῶς οὖν ἐπικαλέσωνται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ πιστεύσωσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ἀκούσωσιν χωρὶς κηρύσσοντος;",
+      "tr": "Pōs oun epikalesōntai eis hon ouk episteusan? pōs de pisteusōsin hou ouk ēkousan? pōs de akousōsin chōris kēryssontos?"
+     }
+    },
+    {
+     "zh": "没有被派出去，怎么能宣讲呢？正如经上写着：「那些传好消息的人，他们的脚多么美！」",
+     "old": {
+      "who": "和合本",
+      "text": "若没有奉差遣、怎能传道呢．如经上所记、『报福音传喜信的人、他们的脚踪何等佳美。』"
+     },
+     "sa": {
+      "text": "πῶς δὲ κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; καθὼς γέγραπται· Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων τὰ ἀγαθά.",
+      "tr": "pōs de kēryxōsin ean mē apostalōsin? kathōs gegraptai; Hōs hōraioi hoi podes tōn euangelizomenōn ta agatha."
+     }
+    },
+    {
+     "zh": "但不是所有的人都听从了福音（好消息）。因为以赛亚（古代的先知）说：「主啊，我们所传的，有谁信了呢？」",
+     "old": {
+      "who": "和合本",
+      "text": "只是人没有都听从福音．因为以赛亚说、『主阿、我们所传的有谁信呢。』"
+     },
+     "sa": {
+      "text": "ἀλλʼ οὐ πάντες ὑπήκουσαν τῷ εὐαγγελίῳ· Ἠσαΐας γὰρ λέγει· Κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν;",
+      "tr": "allʼ ou pantes hypēkousan tōi euangeliōi; Ēsaïas gar legei; Kyrie, tis episteusen tēi akoēi hēmōn?"
+     }
+    },
+    {
+     "zh": "可见信是从听来的，听是借着基督的话来的。",
+     "old": {
+      "who": "和合本",
+      "text": "可见信道是从听道来的、听道是从基督的话来的。"
+     },
+     "sa": {
+      "text": "ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ.",
+      "tr": "ara hē pistis ex akoēs, hē de akoē dia rhēmatos Christou."
+     }
+    },
+    {
+     "zh": "但我要问：难道他们没有听见吗？当然听见了：「他们的声音传遍了全地，他们的话传到了世界的尽头。」",
+     "old": {
+      "who": "和合本",
+      "text": "但我说、人没有听见么．诚然听见了．『他们的声音传遍天下、他们的言语传到地极。』"
+     },
+     "sa": {
+      "text": "Ἀλλὰ λέγω, μὴ οὐκ ἤκουσαν; μενοῦνγε· Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν, καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν.",
+      "tr": "Alla legō, mē ouk ēkousan? menounge; Eis pasan tēn gēn exēlthen ho phthongos autōn, kai eis ta perata tēs oikoumenēs ta rhēmata autōn."
+     }
+    },
+    {
+     "zh": "我再问：难道以色列（犹太人这个民族）不知道吗？先有摩西说：「我要用那不算民族的惹你们嫉妒，用那无知的民族惹你们发怒。」",
+     "old": {
+      "who": "和合本",
+      "text": "我再说、以色列人不知道么．先有摩西说、『我要用那不成子民的、惹动你们的愤恨．我要用那无知的民、触动你们的怒气。』"
+     },
+     "sa": {
+      "text": "ἀλλὰ λέγω, μὴ Ἰσραὴλ οὐκ ἔγνω; πρῶτος Μωϋσῆς λέγει· Ἐγὼ παραζηλώσω ὑμᾶς ἐπʼ οὐκ ἔθνει, ἐπʼ ἔθνει ἀσυνέτῳ παροργιῶ ὑμᾶς.",
+      "tr": "alla legō, mē Israēl ouk egnō? prōtos Mōÿsēs legei; Egō parazēlōsō hymas epʼ ouk ethnei, epʼ ethnei asynetōi parorgiō hymas."
+     }
+    },
+    {
+     "zh": "以赛亚更大胆地说：「没有寻找我的人，我让他们找到了；没有求问我的人，我向他们显明了。」",
+     "old": {
+      "who": "和合本",
+      "text": "又有以赛亚放胆说、『没有寻找我的、我叫他们遇见．没有访问我的、我向他们显现。』"
+     },
+     "sa": {
+      "text": "Ἠσαΐας δὲ ἀποτολμᾷ καὶ λέγει· Εὑρέθην ἐν τοῖς ἐμὲ μὴ ζητοῦσιν, ἐμφανὴς ἐγενόμην τοῖς ἐμὲ μὴ ἐπερωτῶσιν.",
+      "tr": "Ēsaïas de apotolmāi kai legei; Heurethēn en tois eme mē zētousin, emphanēs egenomēn tois eme mē eperōtōsin."
+     }
+    },
+    {
+     "zh": "论到以色列，他却说：「我整天向一群不顺从、又顶嘴的百姓伸着手。」",
+     "old": {
+      "who": "和合本",
+      "text": "至于以色列人、他说、『我整天伸手招呼那悖逆顶嘴的百姓。』"
+     },
+     "sa": {
+      "text": "πρὸς δὲ τὸν Ἰσραὴλ λέγει· Ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα.",
+      "tr": "pros de ton Israēl legei; Holēn tēn hēmeran exepetasa tas cheiras mou pros laon apeithounta kai antilegonta."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 11 章 · 上帝没有丢弃他的子民，橄榄树的比方",
+   "no": 11,
+   "intro": "保罗问：上帝丢弃了他的子民吗？他回答绝对不是：现在仍有一批余民；其余的人绊了一下，拯救因此临到外族人。他用橄榄树打比方，告诫外族信徒不要夸口。他说以色列有一部分人刚硬，直到外族人的满数进来，并用一段赞美结束。",
+   "verses": [
+    {
+     "zh": "那么我要问：难道上帝丢弃了他的子民吗？绝对不是！因为我自己也是以色列人（以色列是犹太人这个民族），亚伯拉罕（犹太人的始祖）的后裔，属便雅悯支派（以色列十二族之一）。",
+     "old": {
+      "who": "和合本",
+      "text": "我且说、神弃绝了他的百姓么．断乎没有．因为我也是以色列人、亚伯拉罕的后裔、属便雅悯支派的。"
+     },
+     "sa": {
+      "text": "Λέγω οὖν, μὴ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ; μὴ γένοιτο· καὶ γὰρ ἐγὼ Ἰσραηλίτης εἰμί, ἐκ σπέρματος Ἀβραάμ, φυλῆς Βενιαμίν.",
+      "tr": "Legō oun, mē apōsato ho theos ton laon autou? mē genoito; kai gar egō Israēlitēs eimi, ek spermatos Abraam, phylēs Beniamin."
+     }
+    },
+    {
+     "zh": "上帝并没有丢弃他预先就认识的子民。难道你们不知道经上（旧约圣经里）讲到以利亚（古代的一位大先知）的地方是怎么说的吗？他向上帝控告以色列说：",
+     "old": {
+      "who": "和合本",
+      "text": "神并没有弃绝他豫先所知道的百姓。你们岂不晓得经上论到以利亚是怎么说的呢．他在神面前怎样控告以色列人、说、"
+     },
+     "sa": {
+      "text": "οὐκ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ ὃν προέγνω. ἢ οὐκ οἴδατε ἐν Ἠλίᾳ τί λέγει ἡ γραφή, ὡς ἐντυγχάνει τῷ θεῷ κατὰ τοῦ Ἰσραήλ;",
+      "tr": "ouk apōsato ho theos ton laon autou hon proegnō. ē ouk oidate en Ēliāi ti legei hē graphē, hōs entynchanei tōi theōi kata tou Israēl?"
+     }
+    },
+    {
+     "zh": "「主啊，他们杀了你的先知（替上帝传话的人），拆了你的祭坛，只剩下我一个人，他们还要我的命。」",
+     "old": {
+      "who": "和合本",
+      "text": "『主阿、他们杀了你的先知、拆了你的祭坛、只剩下我一个人、他们还要寻索我的命。』"
+     },
+     "sa": {
+      "text": "Κύριε, τοὺς προφήτας σου ἀπέκτειναν, τὰ θυσιαστήριά σου κατέσκαψαν, κἀγὼ ὑπελείφθην μόνος, καὶ ζητοῦσιν τὴν ψυχήν μου.",
+      "tr": "Kyrie, tous prophētas sou apekteinan, ta thysiastēria sou kateskapsan, kagō hypeleiphthēn monos, kai zētousin tēn psychēn mou."
+     }
+    },
+    {
+     "zh": "可是上帝的回答怎么说呢？「我为自己留下了七千人，是没有向巴力（外族人拜的一个神）屈过膝的。」",
+     "old": {
+      "who": "和合本",
+      "text": "神的回话是怎么说的呢．他说、『我为自己留下七千人、是未曾向巴力屈膝的。』"
+     },
+     "sa": {
+      "text": "ἀλλὰ τί λέγει αὐτῷ ὁ χρηματισμός; Κατέλιπον ἐμαυτῷ ἑπτακισχιλίους ἄνδρας, οἵτινες οὐκ ἔκαμψαν γόνυ τῇ Βάαλ.",
+      "tr": "alla ti legei autōi ho chrēmatismos? Katelipon emautōi heptakischilious andras, hoitines ouk ekampsan gony tēi Baal."
+     }
+    },
+    {
+     "zh": "同样，现在这个时候，也有照着恩典（上帝白白给的好意）的拣选留下来的余民。",
+     "old": {
+      "who": "和合本",
+      "text": "如今也是这样、照着拣选的恩典还有所留的余数。"
+     },
+     "sa": {
+      "text": "οὕτως οὖν καὶ ἐν τῷ νῦν καιρῷ λεῖμμα κατʼ ἐκλογὴν χάριτος γέγονεν·",
+      "tr": "houtōs oun kai en tōi nyn kairōi leimma katʼ eklogēn charitos gegonen;"
+     }
+    },
+    {
+     "zh": "既然是靠恩典，就不再是出于行为；不然，恩典就不再是恩典了。",
+     "old": {
+      "who": "和合本",
+      "text": "既是出于恩典、就不在乎行为．不然、恩典就不是恩典了。"
+     },
+     "sa": {
+      "text": "εἰ δὲ χάριτι, οὐκέτι ἐξ ἔργων, ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις.",
+      "tr": "ei de chariti, ouketi ex ergōn, epei hē charis ouketi ginetai charis."
+     }
+    },
+    {
+     "zh": "那又怎么样呢？以色列所寻求的，他们没有得到；蒙拣选的人得到了，其余的人却变得刚硬了，",
+     "old": {
+      "who": "和合本",
+      "text": "这是怎么样呢．以色列人所求的、他们没有得着．惟有蒙拣选的人得着了、其余的就成了顽梗不化的．"
+     },
+     "sa": {
+      "text": "τί οὖν; ὃ ἐπιζητεῖ Ἰσραήλ, τοῦτο οὐκ ἐπέτυχεν, ἡ δὲ ἐκλογὴ ἐπέτυχεν· οἱ δὲ λοιποὶ ἐπωρώθησαν,",
+      "tr": "ti oun? ho epizētei Israēl, touto ouk epetychen, hē de eklogē epetychen; hoi de loipoi epōrōthēsan,"
+     }
+    },
+    {
+     "zh": "正如经上写着：「上帝给了他们一个麻木的灵，给了他们看不见的眼睛、听不见的耳朵，直到今天。」",
+     "old": {
+      "who": "和合本",
+      "text": "如经上所记、『神给他们昏迷的心、眼睛不能看见、耳朶不能听见、直到今日。』"
+     },
+     "sa": {
+      "text": "καθὼς γέγραπται· Ἔδωκεν αὐτοῖς ὁ θεὸς πνεῦμα κατανύξεως, ὀφθαλμοὺς τοῦ μὴ βλέπειν καὶ ὦτα τοῦ μὴ ἀκούειν, ἕως τῆς σήμερον ἡμέρας.",
+      "tr": "kathōs gegraptai; Edōken autois ho theos pneuma katanyxeōs, ophthalmous tou mē blepein kai ōta tou mē akouein, heōs tēs sēmeron hēmeras."
+     }
+    },
+    {
+     "zh": "大卫（古代以色列的王）也说：「愿他们的筵席变成网罗，变成陷阱，变成绊脚石，成为他们的报应；",
+     "old": {
+      "who": "和合本",
+      "text": "大卫也说、『愿他们的筵席变为网罗、变为机槛、变为绊脚石、作他们的报应．"
+     },
+     "sa": {
+      "text": "καὶ Δαυὶδ λέγει· Γενηθήτω ἡ τράπεζα αὐτῶν εἰς παγίδα καὶ εἰς θήραν καὶ εἰς σκάνδαλον καὶ εἰς ἀνταπόδομα αὐτοῖς,",
+      "tr": "kai Dauid legei; Genēthētō hē trapeza autōn eis pagida kai eis thēran kai eis skandalon kai eis antapodoma autois,"
+     }
+    },
+    {
+     "zh": "愿他们的眼睛昏暗，看不见；愿你使他们的背永远弯着。」",
+     "old": {
+      "who": "和合本",
+      "text": "愿他们的眼睛昏蒙、不得看见．愿你时常弯下他们的腰。』"
+     },
+     "sa": {
+      "text": "σκοτισθήτωσαν οἱ ὀφθαλμοὶ αὐτῶν τοῦ μὴ βλέπειν, καὶ τὸν νῶτον αὐτῶν διὰ παντὸς σύγκαμψον.",
+      "tr": "skotisthētōsan hoi ophthalmoi autōn tou mē blepein, kai ton nōton autōn dia pantos synkampson."
+     }
+    },
+    {
+     "zh": "那么我要问：他们绊了一下，是为了要倒下去吗？绝对不是！反而因为他们的过犯，拯救临到了外族人（不是犹太人的人），为的是惹他们嫉妒。",
+     "old": {
+      "who": "和合本",
+      "text": "我且说、他们失脚是要他们跌倒么．断乎不是．反倒因他们的过失、救恩便临到外邦人、要激动他们发愤。"
+     },
+     "sa": {
+      "text": "Λέγω οὖν, μὴ ἔπταισαν ἵνα πέσωσιν; μὴ γένοιτο· ἀλλὰ τῷ αὐτῶν παραπτώματι ἡ σωτηρία τοῖς ἔθνεσιν, εἰς τὸ παραζηλῶσαι αὐτούς.",
+      "tr": "Legō oun, mē eptaisan hina pesōsin? mē genoito; alla tōi autōn paraptōmati hē sōtēria tois ethnesin, eis to parazēlōsai autous."
+     }
+    },
+    {
+     "zh": "如果他们的过犯成了世界的富足，他们的亏损成了外族人的富足，那么他们的满数更要怎样呢！",
+     "old": {
+      "who": "和合本",
+      "text": "若他们的过失、为天下的富足、他们的缺乏、为外邦人的富足．何况他们的丰满呢。"
+     },
+     "sa": {
+      "text": "εἰ δὲ τὸ παράπτωμα αὐτῶν πλοῦτος κόσμου καὶ τὸ ἥττημα αὐτῶν πλοῦτος ἐθνῶν, πόσῳ μᾶλλον τὸ πλήρωμα αὐτῶν.",
+      "tr": "ei de to paraptōma autōn ploutos kosmou kai to hēttēma autōn ploutos ethnōn, posōi mallon to plērōma autōn."
+     }
+    },
+    {
+     "zh": "我这话是对你们外族人说的。我既然是外族人的使徒（被派出去传福音的人），就看重我这份职务，",
+     "old": {
+      "who": "和合本",
+      "text": "我对你们外邦人说这话．因我是外邦人的使徒、所以敬重我的职分．"
+     },
+     "sa": {
+      "text": "Ὑμῖν δὲ λέγω τοῖς ἔθνεσιν. ἐφʼ ὅσον μὲν οὖν εἰμι ἐγὼ ἐθνῶν ἀπόστολος, τὴν διακονίαν μου δοξάζω,",
+      "tr": "Hymin de legō tois ethnesin. ephʼ hoson men oun eimi egō ethnōn apostolos, tēn diakonian mou doxazō,"
+     }
+    },
+    {
+     "zh": "希望能惹我的骨肉同胞嫉妒，好救他们当中的一些人。",
+     "old": {
+      "who": "和合本",
+      "text": "或者可以激动我骨肉之亲发愤、好救他们一些人。"
+     },
+     "sa": {
+      "text": "εἴ πως παραζηλώσω μου τὴν σάρκα καὶ σώσω τινὰς ἐξ αὐτῶν.",
+      "tr": "ei pōs parazēlōsō mou tēn sarka kai sōsō tinas ex autōn."
+     }
+    },
+    {
+     "zh": "如果他们被丢开，成了世界与上帝和好；那么他们被接纳，不就是从死人中得生命吗？",
+     "old": {
+      "who": "和合本",
+      "text": "若他们被丢弃、天下就得与神和好、他们被收纳、岂不是死而复生么。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ ἡ ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου, τίς ἡ πρόσλημψις εἰ μὴ ζωὴ ἐκ νεκρῶν;",
+      "tr": "ei gar hē apobolē autōn katallagē kosmou, tis hē proslēmpsis ei mē zōē ek nekrōn?"
+     }
+    },
+    {
+     "zh": "献上的头一块面团如果是圣的，整团面也是圣的；树根如果是圣的，树枝也是圣的。",
+     "old": {
+      "who": "和合本",
+      "text": "所献的新面若是圣洁、全团也就圣洁了．树根若是圣洁、树枝也就圣洁了。"
+     },
+     "sa": {
+      "text": "εἰ δὲ ἡ ἀπαρχὴ ἁγία, καὶ τὸ φύραμα· καὶ εἰ ἡ ῥίζα ἁγία, καὶ οἱ κλάδοι.",
+      "tr": "ei de hē aparchē hagia, kai to phyrama; kai ei hē rhiza hagia, kai hoi kladoi."
+     }
+    },
+    {
+     "zh": "如果有几根树枝被折了下来，而你这野橄榄枝被接在其中，一同分享橄榄树根的肥汁，",
+     "old": {
+      "who": "和合本",
+      "text": "若有几根枝子被折下来、你这野橄榄得接在其中、一同得着橄榄根的肥汁．"
+     },
+     "sa": {
+      "text": "Εἰ δέ τινες τῶν κλάδων ἐξεκλάσθησαν, σὺ δὲ ἀγριέλαιος ὢν ἐνεκεντρίσθης ἐν αὐτοῖς καὶ συγκοινωνὸς τῆς ῥίζης τῆς πιότητος τῆς ἐλαίας ἐγένου,",
+      "tr": "Ei de tines tōn kladōn exeklasthēsan, sy de agrielaios ōn enekentristhēs en autois kai synkoinōnos tēs rhizēs tēs piotētos tēs elaias egenou,"
+     }
+    },
+    {
+     "zh": "你就不要向那些树枝夸口。你要是夸口，要知道不是你托着根，而是根托着你。",
+     "old": {
+      "who": "和合本",
+      "text": "你就不可向旧枝子夸口、若是夸口、当知道不是你托着根、乃是根托着你。"
+     },
+     "sa": {
+      "text": "μὴ κατακαυχῶ τῶν κλάδων· εἰ δὲ κατακαυχᾶσαι, οὐ σὺ τὴν ῥίζαν βαστάζεις ἀλλὰ ἡ ῥίζα σέ.",
+      "tr": "mē katakauchō tōn kladōn; ei de katakauchasai, ou sy tēn rhizan bastazeis alla hē rhiza se."
+     }
+    },
+    {
+     "zh": "你会说：「那些树枝被折下来，是为了让我接上去。」",
+     "old": {
+      "who": "和合本",
+      "text": "你若说、那枝子被折下来、是特为叫我接上。"
+     },
+     "sa": {
+      "text": "ἐρεῖς οὖν· Ἐξεκλάσθησαν κλάδοι ἵνα ἐγὼ ἐγκεντρισθῶ.",
+      "tr": "ereis oun; Exeklasthēsan kladoi hina egō enkentristhō."
+     }
+    },
+    {
+     "zh": "不错。他们因为不信被折了下来，你因为信（信靠）才站得住。你不要心高气傲，倒要惧怕。",
+     "old": {
+      "who": "和合本",
+      "text": "不错．他们因为不信、所以被折下来．你因为信、所以立得住．你不可自高、反要惧怕。"
+     },
+     "sa": {
+      "text": "καλῶς· τῇ ἀπιστίᾳ ἐξεκλάσθησαν, σὺ δὲ τῇ πίστει ἕστηκας. μὴ ὑψηλὰ φρόνει, ἀλλὰ φοβοῦ·",
+      "tr": "kalōs; tēi apistiāi exeklasthēsan, sy de tēi pistei hestēkas. mē hypsēla phronei, alla phobou;"
+     }
+    },
+    {
+     "zh": "上帝既然没有顾惜原来的树枝，也不会顾惜你。",
+     "old": {
+      "who": "和合本",
+      "text": "神既不爱惜原来的枝子、也必不爱惜你。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ ὁ θεὸς τῶν κατὰ φύσιν κλάδων οὐκ ἐφείσατο, οὐδὲ σοῦ φείσεται.",
+      "tr": "ei gar ho theos tōn kata physin kladōn ouk epheisato, oude sou pheisetai."
+     }
+    },
+    {
+     "zh": "所以你要看上帝的恩慈和严厉：对那些倒下的人是严厉，对你是上帝的恩慈，只要你一直留在他的恩慈里；不然，你也要被砍下来。",
+     "old": {
+      "who": "和合本",
+      "text": "可见神的恩慈、和严厉．向那跌倒的人、是严厉的．向你是有恩慈的．只要你长久在他的恩慈里．不然、你也要被砍下来。"
+     },
+     "sa": {
+      "text": "ἴδε οὖν χρηστότητα καὶ ἀποτομίαν θεοῦ· ἐπὶ μὲν τοὺς πεσόντας ἀποτομία, ἐπὶ δὲ σὲ χρηστότης θεοῦ, ἐὰν ἐπιμένῃς τῇ χρηστότητι, ἐπεὶ καὶ σὺ ἐκκοπήσῃ.",
+      "tr": "ide oun chrēstotēta kai apotomian theou; epi men tous pesontas apotomia, epi de se chrēstotēs theou, ean epimenēis tēi chrēstotēti, epei kai sy ekkopēsēi."
+     }
+    },
+    {
+     "zh": "至于他们，如果不是一直不信，也会被接上去，因为上帝能把他们重新接上去。",
+     "old": {
+      "who": "和合本",
+      "text": "而且他们若不是长久不信、仍要被接上．因为神能彀把他们从新接上。"
+     },
+     "sa": {
+      "text": "κἀκεῖνοι δέ, ἐὰν μὴ ἐπιμένωσι τῇ ἀπιστίᾳ, ἐγκεντρισθήσονται· δυνατὸς γάρ ἐστιν ὁ θεὸς πάλιν ἐγκεντρίσαι αὐτούς.",
+      "tr": "kakeinoi de, ean mē epimenōsi tēi apistiāi, enkentristhēsontai; dynatos gar estin ho theos palin enkentrisai autous."
+     }
+    },
+    {
+     "zh": "你是从天生的野橄榄树上砍下来的，尚且违反本性被接在好橄榄树上；那些原来的树枝被接回自己的橄榄树上，岂不更是如此吗！",
+     "old": {
+      "who": "和合本",
+      "text": "你是从那天生的野橄榄上砍下来的、尚且逆着性得接在好橄榄上、何况这本树的枝子、要接在本树上呢。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ σὺ ἐκ τῆς κατὰ φύσιν ἐξεκόπης ἀγριελαίου καὶ παρὰ φύσιν ἐνεκεντρίσθης εἰς καλλιέλαιον, πόσῳ μᾶλλον οὗτοι οἱ κατὰ φύσιν ἐγκεντρισθήσονται τῇ ἰδίᾳ ἐλαίᾳ.",
+      "tr": "ei gar sy ek tēs kata physin exekopēs agrielaiou kai para physin enekentristhēs eis kallielaion, posōi mallon houtoi hoi kata physin enkentristhēsontai tēi idiāi elaiāi."
+     }
+    },
+    {
+     "zh": "弟兄们（一同信的人），我不愿意你们不知道这个奥秘，免得你们自以为聪明：以色列有一部分人变得刚硬，直到外族人的满数进来了，",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我不愿意你们不知道这奥秘、（恐怕你们自以为聪明）就是以色列人有几分是硬心的、等到外邦人的数目添满了．",
+      "notes": [
+       {
+        "w": "（恐怕你们自以为聪明）",
+        "note": "这个括号是和合本原书就有的，原文是正文里的一句。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Οὐ γὰρ θέλω ὑμᾶς ἀγνοεῖν, ἀδελφοί, τὸ μυστήριον τοῦτο, ἵνα μὴ ἦτε ἑαυτοῖς φρόνιμοι, ὅτι πώρωσις ἀπὸ μέρους τῷ Ἰσραὴλ γέγονεν ἄχρι οὗ τὸ πλήρωμα τῶν ἐθνῶν εἰσέλθῃ,",
+      "tr": "Ou gar thelō hymas agnoein, adelphoi, to mystērion touto, hina mē ēte heautois phronimoi, hoti pōrōsis apo merous tōi Israēl gegonen achri hou to plērōma tōn ethnōn eiselthēi,"
+     }
+    },
+    {
+     "zh": "这样，全以色列都要得救（得到上帝的拯救，不至于灭亡）。正如经上写着：「拯救者要从锡安（耶路撒冷的别名）来，要从雅各（以色列人的祖先）身上除掉不敬虔；",
+     "old": {
+      "who": "和合本",
+      "text": "于是以色列全家都要得救、如经上所记、『必有一位救主、从锡安出来、要消除雅各家的一切罪恶。』"
+     },
+     "sa": {
+      "text": "καὶ οὕτως πᾶς Ἰσραὴλ σωθήσεται· καθὼς γέγραπται· Ἥξει ἐκ Σιὼν ὁ ῥυόμενος, ἀποστρέψει ἀσεβείας ἀπὸ Ἰακώβ.",
+      "tr": "kai houtōs pas Israēl sōthēsetai; kathōs gegraptai; Hēxei ek Siōn ho rhyomenos, apostrepsei asebeias apo Iakōb."
+     }
+    },
+    {
+     "zh": "我除去他们的罪（违背上帝的事）的时候，这就是我与他们立的约。」",
+     "old": {
+      "who": "和合本",
+      "text": "又说、『我除去他们罪的时候、这就是我与他们所立的约。』"
+     },
+     "sa": {
+      "text": "καὶ αὕτη αὐτοῖς ἡ παρʼ ἐμοῦ διαθήκη, ὅταν ἀφέλωμαι τὰς ἁμαρτίας αὐτῶν.",
+      "tr": "kai hautē autois hē parʼ emou diathēkē, hotan aphelōmai tas hamartias autōn."
+     }
+    },
+    {
+     "zh": "按福音（好消息）说，他们为了你们的缘故是仇敌；按拣选说，他们为了列祖的缘故是蒙爱的。",
+     "old": {
+      "who": "和合本",
+      "text": "就着福音说、他们为你们的缘故是仇敌．就着拣选说、他们为列祖的缘故是蒙爱的。"
+     },
+     "sa": {
+      "text": "κατὰ μὲν τὸ εὐαγγέλιον ἐχθροὶ διʼ ὑμᾶς, κατὰ δὲ τὴν ἐκλογὴν ἀγαπητοὶ διὰ τοὺς πατέρας·",
+      "tr": "kata men to euangelion echthroi diʼ hymas, kata de tēn eklogēn agapētoi dia tous pateras;"
+     }
+    },
+    {
+     "zh": "因为上帝的恩赐和选召是不后悔的。",
+     "old": {
+      "who": "和合本",
+      "text": "因为神的恩赐和选召、是没有后悔的。"
+     },
+     "sa": {
+      "text": "ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ θεοῦ.",
+      "tr": "ametamelēta gar ta charismata kai hē klēsis tou theou."
+     }
+    },
+    {
+     "zh": "你们从前不顺从上帝，现在却因他们的不顺从蒙了怜悯；",
+     "old": {
+      "who": "和合本",
+      "text": "你们从前不顺服神、如今因他们的不顺服、你们倒蒙了怜恤．"
+     },
+     "sa": {
+      "text": "ὥσπερ γὰρ ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ, νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ,",
+      "tr": "hōsper gar hymeis pote ēpeithēsate tōi theōi, nyn de ēleēthēte tēi toutōn apeitheiāi,"
+     }
+    },
+    {
+     "zh": "同样，他们现在不顺从，是为了让他们因着你们所蒙的怜悯，现在也蒙怜悯。",
+     "old": {
+      "who": "和合本",
+      "text": "这样、他们也是不顺服、叫他们因着施给你们的怜恤、现在也就蒙怜恤。"
+     },
+     "sa": {
+      "text": "οὕτως καὶ οὗτοι νῦν ἠπείθησαν τῷ ὑμετέρῳ ἐλέει ἵνα καὶ αὐτοὶ νῦν ἐλεηθῶσιν·",
+      "tr": "houtōs kai houtoi nyn ēpeithēsan tōi hymeterōi eleei hina kai autoi nyn eleēthōsin;"
+     }
+    },
+    {
+     "zh": "因为上帝把所有的人都圈在不顺从里，为的是要怜悯所有的人。",
+     "old": {
+      "who": "和合本",
+      "text": "因为神将众人都圈在不顺服之中、特意要怜恤众人。"
+     },
+     "sa": {
+      "text": "συνέκλεισεν γὰρ ὁ θεὸς τοὺς πάντας εἰς ἀπείθειαν ἵνα τοὺς πάντας ἐλεήσῃ.",
+      "tr": "synekleisen gar ho theos tous pantas eis apeitheian hina tous pantas eleēsēi."
+     }
+    },
+    {
+     "zh": "啊，上帝的丰富、智慧和知识多么深！他的判断多么难测，他的道路多么难寻！",
+     "old": {
+      "who": "和合本",
+      "text": "深哉、神丰富的智慧和知识。他的判断、何其难测、他的踪迹何其难寻、",
+      "notes": [
+       {
+        "w": "丰富的智慧和知识",
+        "note": "原文是三样并列：丰富、智慧、知识；和合本把「丰富」当成了形容后两样的词。两种读法都有人取。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Ὦ βάθος πλούτου καὶ σοφίας καὶ γνώσεως θεοῦ· ὡς ἀνεξεραύνητα τὰ κρίματα αὐτοῦ καὶ ἀνεξιχνίαστοι αἱ ὁδοὶ αὐτοῦ.",
+      "tr": "Ō bathos ploutou kai sophias kai gnōseōs theou; hōs anexeraunēta ta krimata autou kai anexichniastoi hai hodoi autou."
+     }
+    },
+    {
+     "zh": "「谁知道主的心思？谁做过他的参谋？」",
+     "old": {
+      "who": "和合本",
+      "text": "谁知道主的心、谁作过他的谋士呢、"
+     },
+     "sa": {
+      "text": "Τίς γὰρ ἔγνω νοῦν κυρίου; ἢ τίς σύμβουλος αὐτοῦ ἐγένετο;",
+      "tr": "Tis gar egnō noun kyriou? ē tis symboulos autou egeneto?"
+     }
+    },
+    {
+     "zh": "「谁先给了他什么，以至于他要偿还呢？」",
+     "old": {
+      "who": "和合本",
+      "text": "谁是先给了他、使他后来偿还呢。"
+     },
+     "sa": {
+      "text": "ἢ τίς προέδωκεν αὐτῷ, καὶ ἀνταποδοθήσεται αὐτῷ;",
+      "tr": "ē tis proedōken autōi, kai antapodothēsetai autōi?"
+     }
+    },
+    {
+     "zh": "因为万有都是出于他，借着他，归于他。愿荣耀归给他，直到永远。阿们。",
+     "old": {
+      "who": "和合本",
+      "text": "因为万有都是本于他、倚靠他、归于他．愿荣耀归给他、直到永远。阿们。"
+     },
+     "sa": {
+      "text": "ὅτι ἐξ αὐτοῦ καὶ διʼ αὐτοῦ καὶ εἰς αὐτὸν τὰ πάντα· αὐτῷ ἡ δόξα εἰς τοὺς αἰῶνας, ἀμήν.",
+      "tr": "hoti ex autou kai diʼ autou kai eis auton ta panta; autōi hē doxa eis tous aiōnas, amēn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 12 章 · 献上身体，在一个身体里彼此相待",
+   "no": 12,
+   "intro": "讲完前面的道理，保罗转过来劝勉：把身体当作活的祭物献给上帝，不照这个世代的样子去做。他说信的人像一个身体上的许多肢体，各有不同的恩赐，要各尽其用。接着是一连串短短的吩咐：爱不可虚假，祝福迫害你们的人，不要自己报仇，用善胜过恶。",
+   "verses": [
+    {
+     "zh": "所以弟兄们（一同信的人），我凭着上帝的怜悯劝你们，把身体献上，当作活的祭物，是圣洁的，是上帝所喜悦的；这是你们合乎道理的敬拜。",
+     "old": {
+      "who": "和合本",
+      "text": "所以弟兄们、我以神的慈悲劝你们、将身体献上、当作活祭、是圣洁的、是神所喜悦的．你们如此事奉、乃是理所当然的。"
+     },
+     "sa": {
+      "text": "Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ θεοῦ παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν εὐάρεστον τῷ θεῷ, τὴν λογικὴν λατρείαν ὑμῶν·",
+      "tr": "Parakalō oun hymas, adelphoi, dia tōn oiktirmōn tou theou parastēsai ta sōmata hymōn thysian zōsan hagian euareston tōi theōi, tēn logikēn latreian hymōn;"
+     }
+    },
+    {
+     "zh": "不要照这个世代的样子去做，而要借着心思的更新被改变，好让你们分辨什么是上帝的旨意，就是那美善的、他所喜悦的、完全的。",
+     "old": {
+      "who": "和合本",
+      "text": "不要效法这个世界．只要心意更新而变化、叫你们察验何为神的善良、纯全可喜悦的旨意。"
+     },
+     "sa": {
+      "text": "καὶ μὴ συσχηματίζεσθε τῷ αἰῶνι τούτῳ, ἀλλὰ μεταμορφοῦσθε τῇ ἀνακαινώσει τοῦ νοός, εἰς τὸ δοκιμάζειν ὑμᾶς τί τὸ θέλημα τοῦ θεοῦ, τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον.",
+      "tr": "kai mē syschēmatizesthe tōi aiōni toutōi, alla metamorphousthe tēi anakainōsei tou noos, eis to dokimazein hymas ti to thelēma tou theou, to agathon kai euareston kai teleion."
+     }
+    },
+    {
+     "zh": "我凭着所赐给我的恩典（上帝白白给的好意）对你们当中的每一个人说：不要把自己看得太高，超过所该看的；要照着上帝分给各人的信（信靠）的分量，看得清醒合适。",
+     "old": {
+      "who": "和合本",
+      "text": "我凭着所赐我的恩、对你们各人说、不要看自己过于所当看的．要照着神所分给各人信心的大小、看得合乎中道。"
+     },
+     "sa": {
+      "text": "Λέγω γὰρ διὰ τῆς χάριτος τῆς δοθείσης μοι παντὶ τῷ ὄντι ἐν ὑμῖν μὴ ὑπερφρονεῖν παρʼ ὃ δεῖ φρονεῖν, ἀλλὰ φρονεῖν εἰς τὸ σωφρονεῖν, ἑκάστῳ ὡς ὁ θεὸς ἐμέρισεν μέτρον πίστεως.",
+      "tr": "Legō gar dia tēs charitos tēs dotheisēs moi panti tōi onti en hymin mē hyperphronein parʼ ho dei phronein, alla phronein eis to sōphronein, hekastōi hōs ho theos emerisen metron pisteōs."
+     }
+    },
+    {
+     "zh": "正如我们一个身体上有许多肢体，肢体的用处不都一样，",
+     "old": {
+      "who": "和合本",
+      "text": "正如我们一个身子上有好些肢体、肢体也不都是一样的用处。"
+     },
+     "sa": {
+      "text": "καθάπερ γὰρ ἐν ἑνὶ σώματι πολλὰ μέλη ἔχομεν, τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν,",
+      "tr": "kathaper gar en heni sōmati polla melē echomen, ta de melē panta ou tēn autēn echei praxin,"
+     }
+    },
+    {
+     "zh": "我们这许多人在基督（上帝选立的那位救主）里也是一个身体，各人彼此是肢体。",
+     "old": {
+      "who": "和合本",
+      "text": "我们这许多人、在基督里成为一身、互相联络作肢体、也是如此。"
+     },
+     "sa": {
+      "text": "οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθʼ εἷς ἀλλήλων μέλη.",
+      "tr": "houtōs hoi polloi hen sōma esmen en Christōi, to de kathʼ heis allēlōn melē."
+     }
+    },
+    {
+     "zh": "我们照着所赐给我们的恩典，各有不同的恩赐：如果是说预言（替上帝传话），就照着信的程度去说；",
+     "old": {
+      "who": "和合本",
+      "text": "按我们所得的恩赐、各有不同．或说豫言、就当照着信心的程度说豫言．"
+     },
+     "sa": {
+      "text": "ἔχοντες δὲ χαρίσματα κατὰ τὴν χάριν τὴν δοθεῖσαν ἡμῖν διάφορα, εἴτε προφητείαν κατὰ τὴν ἀναλογίαν τῆς πίστεως,",
+      "tr": "echontes de charismata kata tēn charin tēn dotheisan hēmin diaphora, eite prophēteian kata tēn analogian tēs pisteōs,"
+     }
+    },
+    {
+     "zh": "如果是服事，就专心服事；教导的，就专心教导；",
+     "old": {
+      "who": "和合本",
+      "text": "或作执事、就当专一执事．或作教导的、就当专一教导．",
+      "notes": [
+       {
+        "w": "作执事",
+        "note": "原文是泛指「服事」的词，和合本译成了职分的名称。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "εἴτε διακονίαν ἐν τῇ διακονίᾳ, εἴτε ὁ διδάσκων ἐν τῇ διδασκαλίᾳ,",
+      "tr": "eite diakonian en tēi diakoniāi, eite ho didaskōn en tēi didaskaliāi,"
+     }
+    },
+    {
+     "zh": "劝勉的，就专心劝勉；分给人的，要诚恳；带头的，要殷勤；怜悯人的，要甘心乐意。",
+     "old": {
+      "who": "和合本",
+      "text": "或作劝化的、就当专一劝化．施舍的、就当诚实．治理的、就当殷勤．怜悯人的、就当甘心。"
+     },
+     "sa": {
+      "text": "εἴτε ὁ παρακαλῶν ἐν τῇ παρακλήσει, ὁ μεταδιδοὺς ἐν ἁπλότητι, ὁ προϊστάμενος ἐν σπουδῇ, ὁ ἐλεῶν ἐν ἱλαρότητι.",
+      "tr": "eite ho parakalōn en tēi paraklēsei, ho metadidous en haplotēti, ho proïstamenos en spoudēi, ho eleōn en hilarotēti."
+     }
+    },
+    {
+     "zh": "爱不可虚假。要厌恶恶，紧紧抓住善。",
+     "old": {
+      "who": "和合本",
+      "text": "爱人不可虚假、恶要厌恶、善要亲近。"
+     },
+     "sa": {
+      "text": "Ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ·",
+      "tr": "Hē agapē anypokritos. apostygountes to ponēron, kollōmenoi tōi agathōi;"
+     }
+    },
+    {
+     "zh": "以弟兄的爱彼此亲爱；论到敬重，要彼此争着先敬重对方。",
+     "old": {
+      "who": "和合本",
+      "text": "爱弟兄、要彼此亲热．恭敬人、要彼此推让。"
+     },
+     "sa": {
+      "text": "τῇ φιλαδελφίᾳ εἰς ἀλλήλους φιλόστοργοι, τῇ τιμῇ ἀλλήλους προηγούμενοι,",
+      "tr": "tēi philadelphiāi eis allēlous philostorgoi, tēi timēi allēlous proēgoumenoi,"
+     }
+    },
+    {
+     "zh": "做事殷勤，不要懒惰；灵里火热；服事主。",
+     "old": {
+      "who": "和合本",
+      "text": "殷勤不可懒惰．要心里火热．常常服事主。"
+     },
+     "sa": {
+      "text": "τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες,",
+      "tr": "tēi spoudēi mē oknēroi, tōi pneumati zeontes, tōi kyriōi douleuontes,"
+     }
+    },
+    {
+     "zh": "在盼望中喜乐，在患难中忍耐，祷告要坚持不断；",
+     "old": {
+      "who": "和合本",
+      "text": "在指望中要喜乐．在患难中要忍耐。祷告要恒切．"
+     },
+     "sa": {
+      "text": "τῇ ἐλπίδι χαίροντες, τῇ θλίψει ὑπομένοντες, τῇ προσευχῇ προσκαρτεροῦντες,",
+      "tr": "tēi elpidi chairontes, tēi thlipsei hypomenontes, tēi proseuchēi proskarterountes,"
+     }
+    },
+    {
+     "zh": "圣徒（属于上帝的人）有缺乏，要分担；客人要尽力款待。",
+     "old": {
+      "who": "和合本",
+      "text": "圣徒缺乏要帮补．客要一味的款待。"
+     },
+     "sa": {
+      "text": "ταῖς χρείαις τῶν ἁγίων κοινωνοῦντες, τὴν φιλοξενίαν διώκοντες.",
+      "tr": "tais chreiais tōn hagiōn koinōnountes, tēn philoxenian diōkontes."
+     }
+    },
+    {
+     "zh": "要祝福那些迫害你们的人；要祝福，不要咒诅。",
+     "old": {
+      "who": "和合本",
+      "text": "逼迫你们的、要给他们祝福．只要祝福、不可咒诅。"
+     },
+     "sa": {
+      "text": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε.",
+      "tr": "eulogeite tous diōkontas, eulogeite kai mē katarasthe."
+     }
+    },
+    {
+     "zh": "与喜乐的人一同喜乐，与哭泣的人一同哭泣。",
+     "old": {
+      "who": "和合本",
+      "text": "与喜乐的人要同乐．与哀哭的人要同哭。"
+     },
+     "sa": {
+      "text": "χαίρειν μετὰ χαιρόντων, κλαίειν μετὰ κλαιόντων.",
+      "tr": "chairein meta chairontōn, klaiein meta klaiontōn."
+     }
+    },
+    {
+     "zh": "彼此同心；不要心高气傲，倒要和卑微的人来往。不要自以为聪明。",
+     "old": {
+      "who": "和合本",
+      "text": "要彼此同心．不要志气高大、倒要俯就卑微的人。不要自以为聪明。"
+     },
+     "sa": {
+      "text": "τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες, μὴ τὰ ὑψηλὰ φρονοῦντες ἀλλὰ τοῖς ταπεινοῖς συναπαγόμενοι. μὴ γίνεσθε φρόνιμοι παρʼ ἑαυτοῖς.",
+      "tr": "to auto eis allēlous phronountes, mē ta hypsēla phronountes alla tois tapeinois synapagomenoi. mē ginesthe phronimoi parʼ heautois."
+     }
+    },
+    {
+     "zh": "不要以恶报恶；众人眼中看为美好的事，要用心去做。",
+     "old": {
+      "who": "和合本",
+      "text": "不要以恶报恶、众人以为美的事、要留心去作。"
+     },
+     "sa": {
+      "text": "μηδενὶ κακὸν ἀντὶ κακοῦ ἀποδιδόντες· προνοούμενοι καλὰ ἐνώπιον πάντων ἀνθρώπων·",
+      "tr": "mēdeni kakon anti kakou apodidontes; pronooumenoi kala enōpion pantōn anthrōpōn;"
+     }
+    },
+    {
+     "zh": "如果可能，尽你们所能的，与所有的人和睦相处。",
+     "old": {
+      "who": "和合本",
+      "text": "若是能行、总要尽力与众人和睦。"
+     },
+     "sa": {
+      "text": "εἰ δυνατόν, τὸ ἐξ ὑμῶν μετὰ πάντων ἀνθρώπων εἰρηνεύοντες·",
+      "tr": "ei dynaton, to ex hymōn meta pantōn anthrōpōn eirēneuontes;"
+     }
+    },
+    {
+     "zh": "亲爱的，不要自己报仇，宁可给（上帝的）愤怒留地方；因为经上（旧约圣经里）写着：「主说：报仇在我，我必报应。」",
+     "old": {
+      "who": "和合本",
+      "text": "亲爱的弟兄、不要自己伸寃、宁可让步、听凭主怒．因为经上记着、『主说、伸寃在我．我必报应。』",
+      "notes": [
+       {
+        "w": "听凭主怒",
+        "note": "原文只有「给愤怒留地方」，没有说是谁的愤怒；一般理解为上帝的愤怒，白话把「上帝的」放在括号里。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ, γέγραπται γάρ· Ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος.",
+      "tr": "mē heautous ekdikountes, agapētoi, alla dote topon tēi orgēi, gegraptai gar; Emoi ekdikēsis, egō antapodōsō, legei kyrios."
+     }
+    },
+    {
+     "zh": "不但这样，「你的仇敌若是饿了，就给他吃；若是渴了，就给他喝；因为你这样做，就是把炭火堆在他的头上。」",
+     "old": {
+      "who": "和合本",
+      "text": "所以『你的仇敌若饿了、就给他吃．若渴了、就给他喝．因为你这样行、就是把炭火堆在他的头上。』"
+     },
+     "sa": {
+      "text": "ἀλλὰ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+      "tr": "alla ean peināi ho echthros sou, psōmize auton; ean dipsāi, potize auton; touto gar poiōn anthrakas pyros sōreuseis epi tēn kephalēn autou."
+     }
+    },
+    {
+     "zh": "不要被恶胜过，反要用善胜过恶。",
+     "old": {
+      "who": "和合本",
+      "text": "你不可为恶所胜、反要以善胜恶。"
+     },
+     "sa": {
+      "text": "μὴ νικῶ ὑπὸ τοῦ κακοῦ, ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν.",
+      "tr": "mē nikō hypo tou kakou, alla nika en tōi agathōi to kakon."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 13 章 · 顺服掌权的，爱成全律法，白天近了",
+   "no": 13,
+   "intro": "保罗先说人人要顺服掌权的：他说权柄出于上帝，掌权者是上帝的仆役，所以要顺服，也要纳税。接着他说，除了彼此相爱，不要欠人什么，各样诫命都总括在「爱邻人如同自己」这一句里。最后他说黑夜已深、白天近了，行事要像在白天一样端正。",
+   "verses": [
+    {
+     "zh": "人人都要顺服在上掌权的；因为没有一个权柄不是出于上帝的，现有的掌权者都是上帝所设立的。",
+     "old": {
+      "who": "和合本",
+      "text": "在上有权柄的、人人当顺服他．因为没有权柄不是出于神的．凡掌权的都是神所命的。"
+     },
+     "sa": {
+      "text": "Πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω, οὐ γὰρ ἔστιν ἐξουσία εἰ μὴ ὑπὸ θεοῦ, αἱ δὲ οὖσαι ὑπὸ θεοῦ τεταγμέναι εἰσίν.",
+      "tr": "Pasa psychē exousiais hyperechousais hypotassesthō, ou gar estin exousia ei mē hypo theou, hai de ousai hypo theou tetagmenai eisin."
+     }
+    },
+    {
+     "zh": "所以，抗拒掌权者的，就是抗拒上帝所定的安排；抗拒的人要自己招来审判。",
+     "old": {
+      "who": "和合本",
+      "text": "所以抗拒掌权的、就是抗拒神的命．抗拒的必自取刑罚。"
+     },
+     "sa": {
+      "text": "ὥστε ὁ ἀντιτασσόμενος τῇ ἐξουσίᾳ τῇ τοῦ θεοῦ διαταγῇ ἀνθέστηκεν, οἱ δὲ ἀνθεστηκότες ἑαυτοῖς κρίμα λήμψονται.",
+      "tr": "hōste ho antitassomenos tēi exousiāi tēi tou theou diatagēi anthestēken, hoi de anthestēkotes heautois krima lēmpsontai."
+     }
+    },
+    {
+     "zh": "因为官长不是叫行善的人惧怕，而是叫作恶的人惧怕。你想不惧怕掌权者吗？只要行善，就会得到他的称赞；",
+     "old": {
+      "who": "和合本",
+      "text": "作官的原不是叫行善的惧怕、乃是叫作恶的惧怕。你愿意不惧怕掌权的么．你只要行善、就可得他的称赞．"
+     },
+     "sa": {
+      "text": "οἱ γὰρ ἄρχοντες οὐκ εἰσὶν φόβος τῷ ἀγαθῷ ἔργῳ ἀλλὰ τῷ κακῷ. θέλεις δὲ μὴ φοβεῖσθαι τὴν ἐξουσίαν; τὸ ἀγαθὸν ποίει, καὶ ἕξεις ἔπαινον ἐξ αὐτῆς·",
+      "tr": "hoi gar archontes ouk eisin phobos tōi agathōi ergōi alla tōi kakōi. theleis de mē phobeisthai tēn exousian? to agathon poiei, kai hexeis epainon ex autēs;"
+     }
+    },
+    {
+     "zh": "因为他是上帝的仆役，是为了让你得益处。你若作恶，就该惧怕，因为他不是白白地佩着剑；他是上帝的仆役，是报应的人，向作恶的人施行（上帝的）愤怒。",
+     "old": {
+      "who": "和合本",
+      "text": "因为他是神的用人、是与你有益的。你若作恶、却当惧怕．因为他不是空空的佩剑．他是神的用人、是伸寃的、刑罚那作恶的。",
+      "notes": [
+       {
+        "w": "用人",
+        "note": "原文的词是「仆役、办事的人」，和第 15 章第 8 节说基督、第 16 章第 1 节说非比的是同一个词。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν. ἐὰν δὲ τὸ κακὸν ποιῇς, φοβοῦ· οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ· θεοῦ γὰρ διάκονός ἐστιν, ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι.",
+      "tr": "theou gar diakonos estin soi eis to agathon. ean de to kakon poiēis, phobou; ou gar eikēi tēn machairan phorei; theou gar diakonos estin, ekdikos eis orgēn tōi to kakon prassonti."
+     }
+    },
+    {
+     "zh": "所以必须顺服，不但是因为那愤怒，也是因为良心。",
+     "old": {
+      "who": "和合本",
+      "text": "所以你们必须顺服、不但是因为刑罚、也是因为良心。"
+     },
+     "sa": {
+      "text": "διὸ ἀνάγκη ὑποτάσσεσθαι, οὐ μόνον διὰ τὴν ὀργὴν ἀλλὰ καὶ διὰ τὴν συνείδησιν,",
+      "tr": "dio anankē hypotassesthai, ou monon dia tēn orgēn alla kai dia tēn syneidēsin,"
+     }
+    },
+    {
+     "zh": "你们纳税也是为了这个缘故；因为他们是上帝的差役，专门办这件事。",
+     "old": {
+      "who": "和合本",
+      "text": "你们纳粮、也为这个缘故．因他们是神的差役、常常特管这事。"
+     },
+     "sa": {
+      "text": "διὰ τοῦτο γὰρ καὶ φόρους τελεῖτε, λειτουργοὶ γὰρ θεοῦ εἰσιν εἰς αὐτὸ τοῦτο προσκαρτεροῦντες.",
+      "tr": "dia touto gar kai phorous teleite, leitourgoi gar theou eisin eis auto touto proskarterountes."
+     }
+    },
+    {
+     "zh": "各人所当得的都要给他：该得贡税的，给他贡税；该得关税的，给他关税；该惧怕的，惧怕他；该尊敬的，尊敬他。",
+     "old": {
+      "who": "和合本",
+      "text": "凡人所当得的、就给他．当得粮的、给他纳粮．当得税的、给他上税．当惧怕的、惧怕他．当恭敬的、恭敬他。"
+     },
+     "sa": {
+      "text": "ἀπόδοτε πᾶσι τὰς ὀφειλάς, τῷ τὸν φόρον τὸν φόρον, τῷ τὸ τέλος τὸ τέλος, τῷ τὸν φόβον τὸν φόβον, τῷ τὴν τιμὴν τὴν τιμήν.",
+      "tr": "apodote pasi tas opheilas, tōi ton phoron ton phoron, tōi to telos to telos, tōi ton phobon ton phobon, tōi tēn timēn tēn timēn."
+     }
+    },
+    {
+     "zh": "不要欠任何人什么，只有彼此相爱是例外；因为爱别人的，就成全了律法（上帝通过摩西颁布的规矩）。",
+     "old": {
+      "who": "和合本",
+      "text": "凡事都不可亏欠人、惟有彼此相爱、要常以为亏欠．因为爱人的就完全了律法。"
+     },
+     "sa": {
+      "text": "Μηδενὶ μηδὲν ὀφείλετε, εἰ μὴ τὸ ἀλλήλους ἀγαπᾶν· ὁ γὰρ ἀγαπῶν τὸν ἕτερον νόμον πεπλήρωκεν.",
+      "tr": "Mēdeni mēden opheilete, ei mē to allēlous agapan; ho gar agapōn ton heteron nomon peplērōken."
+     }
+    },
+    {
+     "zh": "因为「不可奸淫」「不可杀人」「不可偷盗」「不可贪心」，以及别的任何诫命，都总括在这一句话里：「要爱邻人如同自己。」",
+     "old": {
+      "who": "和合本",
+      "text": "像那不可奸淫、不可杀人、不可偷盗、不可贪婪、或有别的诫命、都包在爱人如己这一句话之内了。"
+     },
+     "sa": {
+      "text": "τὸ γάρ· Οὐ μοιχεύσεις, Οὐ φονεύσεις, Οὐ κλέψεις, Οὐκ ἐπιθυμήσεις, καὶ εἴ τις ἑτέρα ἐντολή, ἐν τῷ λόγῳ τούτῳ ἀνακεφαλαιοῦται, ἐν τῷ· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν.",
+      "tr": "to gar; Ou moicheuseis, Ou phoneuseis, Ou klepseis, Ouk epithymēseis, kai ei tis hetera entolē, en tōi logōi toutōi anakephalaioutai, en tōi; Agapēseis ton plēsion sou hōs seauton."
+     }
+    },
+    {
+     "zh": "爱不加害邻人，所以爱是律法的成全。",
+     "old": {
+      "who": "和合本",
+      "text": "爱是不加害与人的、所以爱就完全了律法。"
+     },
+     "sa": {
+      "text": "ἡ ἀγάπη τῷ πλησίον κακὸν οὐκ ἐργάζεται· πλήρωμα οὖν νόμου ἡ ἀγάπη.",
+      "tr": "hē agapē tōi plēsion kakon ouk ergazetai; plērōma oun nomou hē agapē."
+     }
+    },
+    {
+     "zh": "还有，你们知道现在是什么时候：是你们该从睡梦中醒来的时刻了；因为我们的拯救现在比我们初信的时候更近了。",
+     "old": {
+      "who": "和合本",
+      "text": "再者、你们晓得现今就是该趁早睡醒的时候、因为我们得救、现今比初信的时候更近了。"
+     },
+     "sa": {
+      "text": "Καὶ τοῦτο εἰδότες τὸν καιρόν, ὅτι ὥρα ἤδη ὑμᾶς ἐξ ὕπνου ἐγερθῆναι, νῦν γὰρ ἐγγύτερον ἡμῶν ἡ σωτηρία ἢ ὅτε ἐπιστεύσαμεν.",
+      "tr": "Kai touto eidotes ton kairon, hoti hōra ēdē hymas ex hypnou egerthēnai, nyn gar engyteron hēmōn hē sōtēria ē hote episteusamen."
+     }
+    },
+    {
+     "zh": "黑夜已深，白天近了。所以我们要脱去暗昧的行为，穿上光明的兵器。",
+     "old": {
+      "who": "和合本",
+      "text": "黑夜已深、白昼将近．我们就当脱去暗昧的行为、带上光明的兵器。"
+     },
+     "sa": {
+      "text": "ἡ νὺξ προέκοψεν, ἡ δὲ ἡμέρα ἤγγικεν. ἀποβαλώμεθα οὖν τὰ ἔργα τοῦ σκότους, ἐνδυσώμεθα δὲ τὰ ὅπλα τοῦ φωτός.",
+      "tr": "hē nyx proekopsen, hē de hēmera ēngiken. apobalōmetha oun ta erga tou skotous, endysōmetha de ta hopla tou phōtos."
+     }
+    },
+    {
+     "zh": "我们行事要端正，像在白天一样：不可狂欢醉酒，不可淫乱放荡，不可争吵嫉妒。",
+     "old": {
+      "who": "和合本",
+      "text": "行事为人要端正、好像行在白昼．不可荒宴醉酒．不可好色邪荡．不可争竞嫉妒。"
+     },
+     "sa": {
+      "text": "ὡς ἐν ἡμέρᾳ εὐσχημόνως περιπατήσωμεν, μὴ κώμοις καὶ μέθαις, μὴ κοίταις καὶ ἀσελγείαις, μὴ ἔριδι καὶ ζήλῳ,",
+      "tr": "hōs en hēmerāi euschēmonōs peripatēsōmen, mē kōmois kai methais, mē koitais kai aselgeiais, mē eridi kai zēlōi,"
+     }
+    },
+    {
+     "zh": "倒要穿上主耶稣基督（上帝选立的那位救主），不要为肉体（人靠自己、不顺从上帝的那一面）打算，去满足它的私欲。",
+     "old": {
+      "who": "和合本",
+      "text": "总要披戴主耶稣基督、不要为肉体安排、去放纵私欲。"
+     },
+     "sa": {
+      "text": "ἀλλὰ ἐνδύσασθε τὸν κύριον Ἰησοῦν Χριστόν, καὶ τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθε εἰς ἐπιθυμίας.",
+      "tr": "alla endysasthe ton kyrion Iēsoun Christon, kai tēs sarkos pronoian mē poieisthe eis epithymias."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 14 章 · 不要为吃什么、守哪一天彼此论断",
+   "no": 14,
+   "intro": "信的人当中，有人什么都吃，有人只吃蔬菜；有人看重某些日子，有人看天天一样。保罗说两边不要互相轻看、论断，因为各人都是为主做的，都要作出交代。他又说没有东西本身不洁净，但不要因为吃的让弟兄绊倒；要追求和睦和彼此造就的事。",
+   "verses": [
+    {
+     "zh": "在信（信靠）上软弱的人，你们要接纳，但不是为了争论各人的看法。",
+     "old": {
+      "who": "和合本",
+      "text": "信心輭弱的、你们要接纳、但不要辩论所疑惑的事。"
+     },
+     "sa": {
+      "text": "Τὸν δὲ ἀσθενοῦντα τῇ πίστει προσλαμβάνεσθε, μὴ εἰς διακρίσεις διαλογισμῶν.",
+      "tr": "Ton de asthenounta tēi pistei proslambanesthe, mē eis diakriseis dialogismōn."
+     }
+    },
+    {
+     "zh": "有人信什么都可以吃；软弱的人却只吃蔬菜。",
+     "old": {
+      "who": "和合本",
+      "text": "有人信百物都可吃．但那輭弱的、只吃蔬菜。"
+     },
+     "sa": {
+      "text": "ὃς μὲν πιστεύει φαγεῖν πάντα, ὁ δὲ ἀσθενῶν λάχανα ἐσθίει.",
+      "tr": "hos men pisteuei phagein panta, ho de asthenōn lachana esthiei."
+     }
+    },
+    {
+     "zh": "吃的人不可看不起不吃的人；不吃的人不可论断吃的人，因为上帝已经接纳了他。",
+     "old": {
+      "who": "和合本",
+      "text": "吃的人不可轻看不吃的人．不吃的人不可论断吃的人．因为神已经收纳他了。"
+     },
+     "sa": {
+      "text": "ὁ ἐσθίων τὸν μὴ ἐσθίοντα μὴ ἐξουθενείτω, ὁ δὲ μὴ ἐσθίων τὸν ἐσθίοντα μὴ κρινέτω, ὁ θεὸς γὰρ αὐτὸν προσελάβετο.",
+      "tr": "ho esthiōn ton mē esthionta mē exoutheneitō, ho de mē esthiōn ton esthionta mē krinetō, ho theos gar auton proselabeto."
+     }
+    },
+    {
+     "zh": "你是谁，竟论断别人的家仆呢？他站得住还是跌倒，都由他自己的主人管；而且他会站得住，因为主能使他站住。",
+     "old": {
+      "who": "和合本",
+      "text": "你是谁、竟论断别人的仆人呢。他或站住、或跌倒、自有他的主人在．而且他也必要站住．因为主能使他站住。"
+     },
+     "sa": {
+      "text": "σὺ τίς εἶ ὁ κρίνων ἀλλότριον οἰκέτην; τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει· σταθήσεται δέ, δυνατεῖ γὰρ ὁ κύριος στῆσαι αὐτόν.",
+      "tr": "sy tis ei ho krinōn allotrion oiketēn? tōi idiōi kyriōi stēkei ē piptei; stathēsetai de, dynatei gar ho kyrios stēsai auton."
+     }
+    },
+    {
+     "zh": "有人看这一天比那一天重要，有人看天天都一样。各人要在自己心里拿定主意。",
+     "old": {
+      "who": "和合本",
+      "text": "有人看这日比那日强、有人看日日都是一样．只是各人心里要意见坚定。"
+     },
+     "sa": {
+      "text": "Ὃς μὲν κρίνει ἡμέραν παρʼ ἡμέραν, ὃς δὲ κρίνει πᾶσαν ἡμέραν· ἕκαστος ἐν τῷ ἰδίῳ νοῒ πληροφορείσθω·",
+      "tr": "Hos men krinei hēmeran parʼ hēmeran, hos de krinei pasan hēmeran; hekastos en tōi idiōi noï plērophoreisthō;"
+     }
+    },
+    {
+     "zh": "看重日子的人，是为主看重；吃的人是为主吃，因为他感谢上帝；不吃的人是为主不吃，也感谢上帝。",
+     "old": {
+      "who": "和合本",
+      "text": "守日的人、是为主守的．吃的人、是为主吃的、因他感谢神．不吃的人、是为主不吃的、也感谢神。"
+     },
+     "sa": {
+      "text": "ὁ φρονῶν τὴν ἡμέραν κυρίῳ φρονεῖ. καὶ ὁ ἐσθίων κυρίῳ ἐσθίει, εὐχαριστεῖ γὰρ τῷ θεῷ· καὶ ὁ μὴ ἐσθίων κυρίῳ οὐκ ἐσθίει, καὶ εὐχαριστεῖ τῷ θεῷ.",
+      "tr": "ho phronōn tēn hēmeran kyriōi phronei. kai ho esthiōn kyriōi esthiei, eucharistei gar tōi theōi; kai ho mē esthiōn kyriōi ouk esthiei, kai eucharistei tōi theōi."
+     }
+    },
+    {
+     "zh": "我们没有一个人是为自己活，也没有一个人是为自己死。",
+     "old": {
+      "who": "和合本",
+      "text": "我们没有一个人为自己活、也没有一个人为自己死。"
+     },
+     "sa": {
+      "text": "Οὐδεὶς γὰρ ἡμῶν ἑαυτῷ ζῇ, καὶ οὐδεὶς ἑαυτῷ ἀποθνῄσκει·",
+      "tr": "Oudeis gar hēmōn heautōi zēi, kai oudeis heautōi apothnēiskei;"
+     }
+    },
+    {
+     "zh": "我们若活着，是为主活；若死了，是为主死。所以我们或活或死，都是属主的。",
+     "old": {
+      "who": "和合本",
+      "text": "我们若活着、是为主而活．若死了、是为主而死．所以我们或活或死、总是主的人。"
+     },
+     "sa": {
+      "text": "ἐάν τε γὰρ ζῶμεν, τῷ κυρίῳ ζῶμεν, ἐάν τε ἀποθνῄσκωμεν, τῷ κυρίῳ ἀποθνῄσκομεν. ἐάν τε οὖν ζῶμεν ἐάν τε ἀποθνῄσκωμεν, τοῦ κυρίου ἐσμέν.",
+      "tr": "ean te gar zōmen, tōi kyriōi zōmen, ean te apothnēiskōmen, tōi kyriōi apothnēiskomen. ean te oun zōmen ean te apothnēiskōmen, tou kyriou esmen."
+     }
+    },
+    {
+     "zh": "基督（上帝选立的那位救主）死了又活了，正是为了这个：要作死人和活人的主。",
+     "old": {
+      "who": "和合本",
+      "text": "因此基督死了、又活了、为要作死人并活人的主。"
+     },
+     "sa": {
+      "text": "εἰς τοῦτο γὰρ Χριστὸς ἀπέθανεν καὶ ἔζησεν ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ.",
+      "tr": "eis touto gar Christos apethanen kai ezēsen hina kai nekrōn kai zōntōn kyrieusēi."
+     }
+    },
+    {
+     "zh": "你呢，为什么论断你的弟兄（一同信的人）？你又为什么看不起你的弟兄？因为我们都要站在上帝的审判台前。",
+     "old": {
+      "who": "和合本",
+      "text": "你这个人、为甚么论断弟兄呢．又为甚么轻看弟兄呢．因我们都要站在神的台前。"
+     },
+     "sa": {
+      "text": "Σὺ δὲ τί κρίνεις τὸν ἀδελφόν σου; ἢ καὶ σὺ τί ἐξουθενεῖς τὸν ἀδελφόν σου; πάντες γὰρ παραστησόμεθα τῷ βήματι τοῦ θεοῦ,",
+      "tr": "Sy de ti krineis ton adelphon sou? ē kai sy ti exoutheneis ton adelphon sou? pantes gar parastēsometha tōi bēmati tou theou,"
+     }
+    },
+    {
+     "zh": "因为经上（旧约圣经里）写着：「主说：我指着我的生命起誓：人人的膝都要向我跪下，人人的舌头都要称颂上帝。」",
+     "old": {
+      "who": "和合本",
+      "text": "经上写着、『主说、我凭着我的永生起誓、万膝必向我跪拜、万口必向我承认。』"
+     },
+     "sa": {
+      "text": "γέγραπται γάρ· Ζῶ ἐγώ, λέγει κύριος, ὅτι ἐμοὶ κάμψει πᾶν γόνυ, καὶ πᾶσα γλῶσσα ἐξομολογήσεται τῷ θεῷ.",
+      "tr": "gegraptai gar; Zō egō, legei kyrios, hoti emoi kampsei pan gony, kai pasa glōssa exomologēsetai tōi theōi."
+     }
+    },
+    {
+     "zh": "这样看来，我们各人都要为自己的事作出交代。",
+     "old": {
+      "who": "和合本",
+      "text": "这样看来、我们各人必要将自己的事、在神面前说明。",
+      "notes": [
+       {
+        "w": "在神面前",
+        "note": "本站的底本没有「向上帝」这几个字，和合本所据的本子有。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἄρα ἕκαστος ἡμῶν περὶ ἑαυτοῦ λόγον δώσει.",
+      "tr": "ara hekastos hēmōn peri heautou logon dōsei."
+     }
+    },
+    {
+     "zh": "所以我们不要再彼此论断了；倒要这样拿定主意：不给弟兄放下绊脚石或使人跌倒的东西。",
+     "old": {
+      "who": "和合本",
+      "text": "所以我们不可再彼此论断．宁可定意谁也不给弟兄放下绊脚跌人之物。"
+     },
+     "sa": {
+      "text": "Μηκέτι οὖν ἀλλήλους κρίνωμεν· ἀλλὰ τοῦτο κρίνατε μᾶλλον, τὸ μὴ τιθέναι πρόσκομμα τῷ ἀδελφῷ ἢ σκάνδαλον.",
+      "tr": "Mēketi oun allēlous krinōmen; alla touto krinate mallon, to mē tithenai proskomma tōi adelphōi ē skandalon."
+     }
+    },
+    {
+     "zh": "我知道，并且在主耶稣里深信，没有一样东西本身是不洁净的；只是谁认为什么东西不洁净，对他来说那就不洁净了。",
+     "old": {
+      "who": "和合本",
+      "text": "我凭着主耶稣确知深信、凡物本来没有不洁净的．惟独人以为不洁净的、在他就不洁净了。"
+     },
+     "sa": {
+      "text": "οἶδα καὶ πέπεισμαι ἐν κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν διʼ ἑαυτοῦ· εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι, ἐκείνῳ κοινόν.",
+      "tr": "oida kai pepeismai en kyriōi Iēsou hoti ouden koinon diʼ heautou; ei mē tōi logizomenōi ti koinon einai, ekeinōi koinon."
+     }
+    },
+    {
+     "zh": "如果你的弟兄因为食物而忧愁，你就不再是照着爱行事了。基督已经为他死了，你不要用你的食物使他灭亡。",
+     "old": {
+      "who": "和合本",
+      "text": "你若因食物叫弟兄忧愁、就不是按着爱人的道理行。基督已经替他死、你不可因你的食物叫他败坏。"
+     },
+     "sa": {
+      "text": "εἰ γὰρ διὰ βρῶμα ὁ ἀδελφός σου λυπεῖται, οὐκέτι κατὰ ἀγάπην περιπατεῖς. μὴ τῷ βρώματί σου ἐκεῖνον ἀπόλλυε ὑπὲρ οὗ Χριστὸς ἀπέθανεν.",
+      "tr": "ei gar dia brōma ho adelphos sou lypeitai, ouketi kata agapēn peripateis. mē tōi brōmati sou ekeinon apollye hyper hou Christos apethanen."
+     }
+    },
+    {
+     "zh": "所以，不要让你们以为好的事被人毁谤。",
+     "old": {
+      "who": "和合本",
+      "text": "不可叫你的善被人毁谤．"
+     },
+     "sa": {
+      "text": "μὴ βλασφημείσθω οὖν ὑμῶν τὸ ἀγαθόν.",
+      "tr": "mē blasphēmeisthō oun hymōn to agathon."
+     }
+    },
+    {
+     "zh": "因为上帝的国（上帝亲自作王的国度）不在于吃喝，而在于义（在上帝面前算为对）、平安和圣灵（上帝的灵）里的喜乐。",
+     "old": {
+      "who": "和合本",
+      "text": "因为神的国、不在乎吃喝、只在乎公义、和平、并圣灵中的喜乐。"
+     },
+     "sa": {
+      "text": "οὐ γάρ ἐστιν ἡ βασιλεία τοῦ θεοῦ βρῶσις καὶ πόσις, ἀλλὰ δικαιοσύνη καὶ εἰρήνη καὶ χαρὰ ἐν πνεύματι ἁγίῳ·",
+      "tr": "ou gar estin hē basileia tou theou brōsis kai posis, alla dikaiosynē kai eirēnē kai chara en pneumati hagiōi;"
+     }
+    },
+    {
+     "zh": "在这件事上这样服事基督的人，为上帝所喜悦，也被人认可。",
+     "old": {
+      "who": "和合本",
+      "text": "在这几样上服事基督的、就为神所喜悦、又为人所称许。"
+     },
+     "sa": {
+      "text": "ὁ γὰρ ἐν τούτῳ δουλεύων τῷ Χριστῷ εὐάρεστος τῷ θεῷ καὶ δόκιμος τοῖς ἀνθρώποις.",
+      "tr": "ho gar en toutōi douleuōn tōi Christōi euarestos tōi theōi kai dokimos tois anthrōpois."
+     }
+    },
+    {
+     "zh": "所以我们要追求带来和睦的事，和彼此造就的事。",
+     "old": {
+      "who": "和合本",
+      "text": "所以我们务要追求和睦的事、与彼此建立德行的事。"
+     },
+     "sa": {
+      "text": "ἄρα οὖν τὰ τῆς εἰρήνης διώκωμεν καὶ τὰ τῆς οἰκοδομῆς τῆς εἰς ἀλλήλους.",
+      "tr": "ara oun ta tēs eirēnēs diōkōmen kai ta tēs oikodomēs tēs eis allēlous."
+     }
+    },
+    {
+     "zh": "不要为了食物毁掉上帝的工作。一切固然都是洁净的，但对那吃了而使人绊倒的人，这就是恶了。",
+     "old": {
+      "who": "和合本",
+      "text": "不可因食物毁坏神的工程．凡物固然洁净、但有人因食物叫人跌倒、就是他的罪了。"
+     },
+     "sa": {
+      "text": "μὴ ἕνεκεν βρώματος κατάλυε τὸ ἔργον τοῦ θεοῦ. πάντα μὲν καθαρά, ἀλλὰ κακὸν τῷ ἀνθρώπῳ τῷ διὰ προσκόμματος ἐσθίοντι.",
+      "tr": "mē heneken brōmatos katalye to ergon tou theou. panta men kathara, alla kakon tōi anthrōpōi tōi dia proskommatos esthionti."
+     }
+    },
+    {
+     "zh": "不吃肉，不喝酒，也不做任何使你弟兄绊脚、跌倒或软弱的事，才是好的。",
+     "old": {
+      "who": "和合本",
+      "text": "无论是吃肉、是喝酒、是甚么别的事、叫弟兄跌倒、一槪不作才好。"
+     },
+     "sa": {
+      "text": "καλὸν τὸ μὴ φαγεῖν κρέα μηδὲ πιεῖν οἶνον μηδὲ ἐν ᾧ ὁ ἀδελφός σου προσκόπτει ἢ σκανδαλίζεται ἢ ἀσθενεῖ·",
+      "tr": "kalon to mē phagein krea mēde piein oinon mēde en hōi ho adelphos sou proskoptei ē skandalizetai ē asthenei;"
+     }
+    },
+    {
+     "zh": "你有的信，你自己在上帝面前持守着。人在自己认可的事上不定自己的罪，就有福了。",
+     "old": {
+      "who": "和合本",
+      "text": "你有信心、就当在神面前守着。人在自己以为可行的事上、能不自责、就有福了。"
+     },
+     "sa": {
+      "text": "σὺ πίστιν ἣν ἔχεις κατὰ σεαυτὸν ἔχε ἐνώπιον τοῦ θεοῦ. μακάριος ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει·",
+      "tr": "sy pistin hēn echeis kata seauton eche enōpion tou theou. makarios ho mē krinōn heauton en hōi dokimazei;"
+     }
+    },
+    {
+     "zh": "但那心里疑惑的人如果吃了，就被定罪了，因为不是出于信；凡不是出于信的，都是罪（违背上帝的事）。",
+     "old": {
+      "who": "和合本",
+      "text": "若有疑心而吃的、就必有罪．因为他吃、不是出于信心．凡不出于信心的都是罪。"
+     },
+     "sa": {
+      "text": "ὁ δὲ διακρινόμενος ἐὰν φάγῃ κατακέκριται, ὅτι οὐκ ἐκ πίστεως· πᾶν δὲ ὃ οὐκ ἐκ πίστεως ἁμαρτία ἐστίν.",
+      "tr": "ho de diakrinomenos ean phagēi katakekritai, hoti ouk ek pisteōs; pan de ho ouk ek pisteōs hamartia estin."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 15 章 · 彼此接纳，保罗的行程和请求",
+   "no": 15,
+   "intro": "保罗接着上一章说：坚强的人要担当软弱的人，像基督那样不求自己喜欢，彼此接纳；他引了四处旧约，说外族人也要赞美上帝。然后他讲自己：他蒙召向外族人传福音，打算先把捐款送到耶路撒冷，再路过罗马去西班牙，并请他们为他祷告。",
+   "verses": [
+    {
+     "zh": "我们坚强的人应该担当不坚强的人的软弱，不求自己喜欢。",
+     "old": {
+      "who": "和合本",
+      "text": "我们坚固的人、应该担代不坚固人的輭弱、不求自己的喜悦。"
+     },
+     "sa": {
+      "text": "Ὀφείλομεν δὲ ἡμεῖς οἱ δυνατοὶ τὰ ἀσθενήματα τῶν ἀδυνάτων βαστάζειν, καὶ μὴ ἑαυτοῖς ἀρέσκειν.",
+      "tr": "Opheilomen de hēmeis hoi dynatoi ta asthenēmata tōn adynatōn bastazein, kai mē heautois areskein."
+     }
+    },
+    {
+     "zh": "我们各人要让邻人喜欢，使他得益处，得造就。",
+     "old": {
+      "who": "和合本",
+      "text": "我们各人务要叫邻舍喜悦、使他得益处、建立德行。"
+     },
+     "sa": {
+      "text": "ἕκαστος ἡμῶν τῷ πλησίον ἀρεσκέτω εἰς τὸ ἀγαθὸν πρὸς οἰκοδομήν·",
+      "tr": "hekastos hēmōn tōi plēsion aresketō eis to agathon pros oikodomēn;"
+     }
+    },
+    {
+     "zh": "因为基督（上帝选立的那位救主）也没有求自己喜欢，而是像经上（旧约圣经里）写着的：「辱骂你的人的辱骂，都落在我身上。」",
+     "old": {
+      "who": "和合本",
+      "text": "因为基督也不求自己的喜悦、如经上所记、『辱骂你人的辱骂、都落在我身上。』"
+     },
+     "sa": {
+      "text": "καὶ γὰρ ὁ Χριστὸς οὐχ ἑαυτῷ ἤρεσεν· ἀλλὰ καθὼς γέγραπται· Οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων σε ἐπέπεσαν ἐπʼ ἐμέ.",
+      "tr": "kai gar ho Christos ouch heautōi ēresen; alla kathōs gegraptai; Hoi oneidismoi tōn oneidizontōn se epepesan epʼ eme."
+     }
+    },
+    {
+     "zh": "从前所写的一切，都是为教导我们写的，好让我们借着忍耐、借着经书所给的安慰，可以有盼望。",
+     "old": {
+      "who": "和合本",
+      "text": "从前所写的圣经、都是为教训我们写的、叫我们因圣经所生的忍耐和安慰、可以得着盼望。"
+     },
+     "sa": {
+      "text": "ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν ἐγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ διὰ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.",
+      "tr": "hosa gar proegraphē, eis tēn hēmeteran didaskalian egraphē, hina dia tēs hypomonēs kai dia tēs paraklēseōs tōn graphōn tēn elpida echōmen."
+     }
+    },
+    {
+     "zh": "愿赐忍耐和安慰的上帝，使你们照着基督耶稣的样子彼此同心，",
+     "old": {
+      "who": "和合本",
+      "text": "但愿赐忍耐安慰的神、叫你们彼此同心、效法基督耶稣．"
+     },
+     "sa": {
+      "text": "ὁ δὲ θεὸς τῆς ὑπομονῆς καὶ τῆς παρακλήσεως δῴη ὑμῖν τὸ αὐτὸ φρονεῖν ἐν ἀλλήλοις κατὰ Χριστὸν Ἰησοῦν,",
+      "tr": "ho de theos tēs hypomonēs kai tēs paraklēseōs dōiē hymin to auto phronein en allēlois kata Christon Iēsoun,"
+     }
+    },
+    {
+     "zh": "好让你们同心同声，把荣耀归给我们主耶稣基督的上帝和父。",
+     "old": {
+      "who": "和合本",
+      "text": "一心一口、荣耀神、我们主耶稣基督的父。"
+     },
+     "sa": {
+      "text": "ἵνα ὁμοθυμαδὸν ἐν ἑνὶ στόματι δοξάζητε τὸν θεὸν καὶ πατέρα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+      "tr": "hina homothymadon en heni stomati doxazēte ton theon kai patera tou kyriou hēmōn Iēsou Christou."
+     }
+    },
+    {
+     "zh": "所以你们要彼此接纳，正如基督接纳了你们，使荣耀归给上帝。",
+     "old": {
+      "who": "和合本",
+      "text": "所以你们要彼此接纳、如同基督接纳你们一样、使荣耀归与神。"
+     },
+     "sa": {
+      "text": "Διὸ προσλαμβάνεσθε ἀλλήλους, καθὼς καὶ ὁ Χριστὸς προσελάβετο ὑμᾶς, εἰς δόξαν τοῦ θεοῦ.",
+      "tr": "Dio proslambanesthe allēlous, kathōs kai ho Christos proselabeto hymas, eis doxan tou theou."
+     }
+    },
+    {
+     "zh": "我是说，基督为了上帝的真实，作了受割礼（割去包皮的仪式，犹太人的记号）之人的仆役，为要证实给列祖的应许；",
+     "old": {
+      "who": "和合本",
+      "text": "我说、基督是为神真理作了受割礼人的执事、要证实所应许列祖的话。",
+      "notes": [
+       {
+        "w": "执事",
+        "note": "原文的词是「仆役、办事的人」，和第 13 章第 4 节、第 16 章第 1 节是同一个词。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "λέγω γὰρ Χριστὸν διάκονον γεγενῆσθαι περιτομῆς ὑπὲρ ἀληθείας θεοῦ, εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων,",
+      "tr": "legō gar Christon diakonon gegenēsthai peritomēs hyper alētheias theou, eis to bebaiōsai tas epangelias tōn paterōn,"
+     }
+    },
+    {
+     "zh": "也使外族人（不是犹太人的人）因着怜悯把荣耀归给上帝。正如经上写着：「因此我要在外族人当中称颂你，歌颂你的名。」",
+     "old": {
+      "who": "和合本",
+      "text": "并叫外邦人、因他的怜悯、荣耀神．如经上所记、『因此我要在外邦中称赞你、歌颂你的名。』"
+     },
+     "sa": {
+      "text": "τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν θεόν· καθὼς γέγραπται· Διὰ τοῦτο ἐξομολογήσομαί σοι ἐν ἔθνεσι, καὶ τῷ ὀνόματί σου ψαλῶ.",
+      "tr": "ta de ethnē hyper eleous doxasai ton theon; kathōs gegraptai; Dia touto exomologēsomai soi en ethnesi, kai tōi onomati sou psalō."
+     }
+    },
+    {
+     "zh": "又说：「外族人哪，你们要和他的子民一同欢乐。」",
+     "old": {
+      "who": "和合本",
+      "text": "又说、『你们外邦人、当与主的百姓一同欢乐。』"
+     },
+     "sa": {
+      "text": "καὶ πάλιν λέγει· Εὐφράνθητε, ἔθνη, μετὰ τοῦ λαοῦ αὐτοῦ.",
+      "tr": "kai palin legei; Euphranthēte, ethnē, meta tou laou autou."
+     }
+    },
+    {
+     "zh": "又说：「所有的外族人哪，你们要赞美主！愿万民都颂赞他！」",
+     "old": {
+      "who": "和合本",
+      "text": "又说、『外邦阿、你们当赞美主．万民哪、你们都当颂赞他。』"
+     },
+     "sa": {
+      "text": "καὶ πάλιν· Αἰνεῖτε, πάντα τὰ ἔθνη, τὸν κύριον, καὶ ἐπαινεσάτωσαν αὐτὸν πάντες οἱ λαοί.",
+      "tr": "kai palin; Aineite, panta ta ethnē, ton kyrion, kai epainesatōsan auton pantes hoi laoi."
+     }
+    },
+    {
+     "zh": "又有以赛亚（古代的先知）说：「将来有耶西（大卫的父亲）的根，就是那兴起来统治外族人的；外族人要把盼望寄托在他身上。」",
+     "old": {
+      "who": "和合本",
+      "text": "又有以赛亚说、『将来有耶西的根、就是那兴起来要治理外邦的．外邦人要仰望他。』"
+     },
+     "sa": {
+      "text": "καὶ πάλιν Ἠσαΐας λέγει· Ἔσται ἡ ῥίζα τοῦ Ἰεσσαί, καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν· ἐπʼ αὐτῷ ἔθνη ἐλπιοῦσιν.",
+      "tr": "kai palin Ēsaïas legei; Estai hē rhiza tou Iessai, kai ho anistamenos archein ethnōn; epʼ autōi ethnē elpiousin."
+     }
+    },
+    {
+     "zh": "愿赐盼望的上帝，在你们信的时候，用各样的喜乐和平安充满你们，使你们靠着圣灵（上帝的灵）的能力满有盼望。",
+     "old": {
+      "who": "和合本",
+      "text": "但愿使人有盼望的神、因信、将诸般的喜乐平安、充满你们的心、使你们借着圣灵的能力、大有盼望。"
+     },
+     "sa": {
+      "text": "ὁ δὲ θεὸς τῆς ἐλπίδος πληρώσαι ὑμᾶς πάσης χαρᾶς καὶ εἰρήνης ἐν τῷ πιστεύειν, εἰς τὸ περισσεύειν ὑμᾶς ἐν τῇ ἐλπίδι ἐν δυνάμει πνεύματος ἁγίου.",
+      "tr": "ho de theos tēs elpidos plērōsai hymas pasēs charas kai eirēnēs en tōi pisteuein, eis to perisseuein hymas en tēi elpidi en dynamei pneumatos hagiou."
+     }
+    },
+    {
+     "zh": "我的弟兄们（一同信的人），我自己也深信你们满有良善，充满各样的知识，也能彼此劝诫。",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我自己也深信你们是满有良善、充足了诸般的知识、也能彼此劝戒。"
+     },
+     "sa": {
+      "text": "Πέπεισμαι δέ, ἀδελφοί μου, καὶ αὐτὸς ἐγὼ περὶ ὑμῶν, ὅτι καὶ αὐτοὶ μεστοί ἐστε ἀγαθωσύνης, πεπληρωμένοι πάσης γνώσεως, δυνάμενοι καὶ ἀλλήλους νουθετεῖν.",
+      "tr": "Pepeismai de, adelphoi mou, kai autos egō peri hymōn, hoti kai autoi mestoi este agathōsynēs, peplērōmenoi pasēs gnōseōs, dynamenoi kai allēlous nouthetein."
+     }
+    },
+    {
+     "zh": "但我在有些地方写得比较大胆，是要提醒你们，因为上帝赐给我恩典（上帝白白给的好意），",
+     "old": {
+      "who": "和合本",
+      "text": "但我稍微放胆写信给你们、是要题醒你们的记性、特因神所给我的恩典、"
+     },
+     "sa": {
+      "text": "τολμηρότερον δὲ ἔγραψα ὑμῖν ἀπὸ μέρους, ὡς ἐπαναμιμνῄσκων ὑμᾶς, διὰ τὴν χάριν τὴν δοθεῖσάν μοι ὑπὸ τοῦ θεοῦ",
+      "tr": "tolmēroteron de egrapsa hymin apo merous, hōs epanamimnēiskōn hymas, dia tēn charin tēn dotheisan moi hypo tou theou"
+     }
+    },
+    {
+     "zh": "使我为外族人作基督耶稣的仆役，像祭司（主持献祭的人）那样办理上帝的福音（好消息），好让所献上的外族人蒙悦纳，在圣灵里成为圣洁。",
+     "old": {
+      "who": "和合本",
+      "text": "使我为外邦人作基督耶稣的仆役、作神福音的祭司、叫所献上的外邦人、因着圣灵、成为圣洁、可蒙悦纳。"
+     },
+     "sa": {
+      "text": "εἰς τὸ εἶναί με λειτουργὸν Χριστοῦ Ἰησοῦ εἰς τὰ ἔθνη, ἱερουργοῦντα τὸ εὐαγγέλιον τοῦ θεοῦ, ἵνα γένηται ἡ προσφορὰ τῶν ἐθνῶν εὐπρόσδεκτος, ἡγιασμένη ἐν πνεύματι ἁγίῳ.",
+      "tr": "eis to einai me leitourgon Christou Iēsou eis ta ethnē, hierourgounta to euangelion tou theou, hina genētai hē prosphora tōn ethnōn euprosdektos, hēgiasmenē en pneumati hagiōi."
+     }
+    },
+    {
+     "zh": "所以，论到上帝的事，我在基督耶稣里有可夸的。",
+     "old": {
+      "who": "和合本",
+      "text": "所以论到神的事我在基督耶稣里有可夸的。"
+     },
+     "sa": {
+      "text": "ἔχω οὖν τὴν καύχησιν ἐν Χριστῷ Ἰησοῦ τὰ πρὸς τὸν θεόν·",
+      "tr": "echō oun tēn kauchēsin en Christōi Iēsou ta pros ton theon;"
+     }
+    },
+    {
+     "zh": "除了基督借着我做成的事，别的我什么都不敢说：他要使外族人顺从，用的是言语和行为，",
+     "old": {
+      "who": "和合本",
+      "text": "除了基督藉我作的那些事、我甚么都不敢题．只题他藉我言语作为、用神迹奇事的能力、并圣灵的能力、使外邦人顺服．",
+      "notes": [
+       {
+        "w": "用神迹奇事的能力",
+        "note": "和合本把下一节开头的「用神迹奇事的能力，并圣灵的能力」提前放进了这一节。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "οὐ γὰρ τολμήσω τι λαλεῖν ὧν οὐ κατειργάσατο Χριστὸς διʼ ἐμοῦ εἰς ὑπακοὴν ἐθνῶν, λόγῳ καὶ ἔργῳ,",
+      "tr": "ou gar tolmēsō ti lalein hōn ou kateirgasato Christos diʼ emou eis hypakoēn ethnōn, logōi kai ergōi,"
+     }
+    },
+    {
+     "zh": "是神迹和奇事的能力，是（圣）灵的能力。这样，我从耶路撒冷起，绕到以利哩古（今巴尔干半岛西部），到处传遍了基督的福音。",
+     "old": {
+      "who": "和合本",
+      "text": "甚至我从耶路撒冷、直转到以利哩古、到处传了基督的福音。"
+     },
+     "sa": {
+      "text": "ἐν δυνάμει σημείων καὶ τεράτων, ἐν δυνάμει πνεύματος· ὥστε με ἀπὸ Ἰερουσαλὴμ καὶ κύκλῳ μέχρι τοῦ Ἰλλυρικοῦ πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ,",
+      "tr": "en dynamei sēmeiōn kai teratōn, en dynamei pneumatos; hōste me apo Ierousalēm kai kyklōi mechri tou Illyrikou peplērōkenai to euangelion tou Christou,"
+     }
+    },
+    {
+     "zh": "我立定志向，不在基督的名已经被传过的地方传福音，免得在别人的根基上建造，",
+     "old": {
+      "who": "和合本",
+      "text": "我立了志向、不在基督的名被称过的地方传福音、免得建造在别人的根基上．"
+     },
+     "sa": {
+      "text": "οὕτως δὲ φιλοτιμούμενον εὐαγγελίζεσθαι οὐχ ὅπου ὠνομάσθη Χριστός, ἵνα μὴ ἐπʼ ἀλλότριον θεμέλιον οἰκοδομῶ,",
+      "tr": "houtōs de philotimoumenon euangelizesthai ouch hopou ōnomasthē Christos, hina mē epʼ allotrion themelion oikodomō,"
+     }
+    },
+    {
+     "zh": "而是像经上写着的：「没有听人讲过他的，将要看见；没有听见过的，将要明白。」",
+     "old": {
+      "who": "和合本",
+      "text": "就如经上所记、『未曾闻知他信息的、将要看见．未曾听过的、将要明白。』"
+     },
+     "sa": {
+      "text": "ἀλλὰ καθὼς γέγραπται· Οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ ὄψονται, καὶ οἳ οὐκ ἀκηκόασιν συνήσουσιν.",
+      "tr": "alla kathōs gegraptai; Hois ouk anēngelē peri autou opsontai, kai hoi ouk akēkoasin synēsousin."
+     }
+    },
+    {
+     "zh": "也正因为这样，我多次被拦阻，不能到你们那里去。",
+     "old": {
+      "who": "和合本",
+      "text": "我因多次被拦阻、总不得到你们那里去．"
+     },
+     "sa": {
+      "text": "Διὸ καὶ ἐνεκοπτόμην τὰ πολλὰ τοῦ ἐλθεῖν πρὸς ὑμᾶς·",
+      "tr": "Dio kai enekoptomēn ta polla tou elthein pros hymas;"
+     }
+    },
+    {
+     "zh": "但现在，我在这一带已经没有可去的地方了，而且这许多年来我一直渴望到你们那里去，",
+     "old": {
+      "who": "和合本",
+      "text": "但如今在这里再没有可传的地方、而且这好几年、我切心想望到士班雅去的时候、可以到你们那里．",
+      "notes": [
+       {
+        "w": "到士班雅去的时候",
+        "note": "原文「到西班牙去的时候」在下一节开头，和合本提前放进了这一节。「士班雅」就是西班牙。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "νυνὶ δὲ μηκέτι τόπον ἔχων ἐν τοῖς κλίμασι τούτοις, ἐπιποθίαν δὲ ἔχων τοῦ ἐλθεῖν πρὸς ὑμᾶς ἀπὸ ἱκανῶν ἐτῶν,",
+      "tr": "nyni de mēketi topon echōn en tois klimasi toutois, epipothian de echōn tou elthein pros hymas apo hikanōn etōn,"
+     }
+    },
+    {
+     "zh": "等我往西班牙去的时候——我盼望路过时见见你们，先和你们相聚、得些满足，然后由你们送我上路往那里去——",
+     "old": {
+      "who": "和合本",
+      "text": "盼望从你们那里经过、得见你们、先与你们彼此交往、心里稍微满足、然后蒙你们送行。"
+     },
+     "sa": {
+      "text": "ὡς ἂν πορεύωμαι εἰς τὴν Σπανίαν, ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφʼ ὑμῶν προπεμφθῆναι ἐκεῖ ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ—",
+      "tr": "hōs an poreuōmai eis tēn Spanian, elpizō gar diaporeuomenos theasasthai hymas kai hyphʼ hymōn propemphthēnai ekei ean hymōn prōton apo merous emplēsthō—"
+     }
+    },
+    {
+     "zh": "但现在我要往耶路撒冷去，服事圣徒（属于上帝的人）。",
+     "old": {
+      "who": "和合本",
+      "text": "但现在我往耶路撒冷去、供给圣徒。"
+     },
+     "sa": {
+      "text": "νυνὶ δὲ πορεύομαι εἰς Ἰερουσαλὴμ διακονῶν τοῖς ἁγίοις.",
+      "tr": "nyni de poreuomai eis Ierousalēm diakonōn tois hagiois."
+     }
+    },
+    {
+     "zh": "因为马其顿和亚该亚（今希腊北部和南部）的人乐意凑出一些捐款，给耶路撒冷圣徒当中的穷人。",
+     "old": {
+      "who": "和合本",
+      "text": "因为马其顿、和亚该亚人乐意凑出捐项、给耶路撒冷圣徒中的穷人。"
+     },
+     "sa": {
+      "text": "εὐδόκησαν γὰρ Μακεδονία καὶ Ἀχαΐα κοινωνίαν τινὰ ποιήσασθαι εἰς τοὺς πτωχοὺς τῶν ἁγίων τῶν ἐν Ἰερουσαλήμ.",
+      "tr": "eudokēsan gar Makedonia kai Achaïa koinōnian tina poiēsasthai eis tous ptōchous tōn hagiōn tōn en Ierousalēm."
+     }
+    },
+    {
+     "zh": "他们是乐意的，其实也是欠了他们的债；因为外族人既然分享了他们属灵的好处，就应该用物质的东西供给他们。",
+     "old": {
+      "who": "和合本",
+      "text": "这固然是他们乐意的．其实也算是所欠的债．因外邦人、既然在他们属灵的好处上有分、就当把养身之物供给他们。"
+     },
+     "sa": {
+      "text": "εὐδόκησαν γάρ, καὶ ὀφειλέται εἰσὶν αὐτῶν· εἰ γὰρ τοῖς πνευματικοῖς αὐτῶν ἐκοινώνησαν τὰ ἔθνη, ὀφείλουσιν καὶ ἐν τοῖς σαρκικοῖς λειτουργῆσαι αὐτοῖς.",
+      "tr": "eudokēsan gar, kai opheiletai eisin autōn; ei gar tois pneumatikois autōn ekoinōnēsan ta ethnē, opheilousin kai en tois sarkikois leitourgēsai autois."
+     }
+    },
+    {
+     "zh": "所以，等我办完这件事，把这笔成果稳妥地交给他们，我就要路过你们那里往西班牙去。",
+     "old": {
+      "who": "和合本",
+      "text": "等我办完了这事、把这善果向他们交付明白、我就要路过你们那里、往士班雅去。"
+     },
+     "sa": {
+      "text": "τοῦτο οὖν ἐπιτελέσας, καὶ σφραγισάμενος αὐτοῖς τὸν καρπὸν τοῦτον, ἀπελεύσομαι διʼ ὑμῶν εἰς Σπανίαν·",
+      "tr": "touto oun epitelesas, kai sphragisamenos autois ton karpon touton, apeleusomai diʼ hymōn eis Spanian;"
+     }
+    },
+    {
+     "zh": "我也知道，我到你们那里去的时候，会带着基督丰盛的福气去。",
+     "old": {
+      "who": "和合本",
+      "text": "我也晓得去的时候、必带着基督丰盛的恩典而去。"
+     },
+     "sa": {
+      "text": "οἶδα δὲ ὅτι ἐρχόμενος πρὸς ὑμᾶς ἐν πληρώματι εὐλογίας Χριστοῦ ἐλεύσομαι.",
+      "tr": "oida de hoti erchomenos pros hymas en plērōmati eulogias Christou eleusomai."
+     }
+    },
+    {
+     "zh": "弟兄们，我借着我们主耶稣基督，又借着（圣）灵的爱，劝你们和我一同竭力，为我向上帝祷告，",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、我借着我们主耶稣基督、又借着圣灵的爱、劝你们与我一同竭力、为我祈求神．"
+     },
+     "sa": {
+      "text": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ διὰ τῆς ἀγάπης τοῦ πνεύματος συναγωνίσασθαί μοι ἐν ταῖς προσευχαῖς ὑπὲρ ἐμοῦ πρὸς τὸν θεόν,",
+      "tr": "Parakalō de hymas, adelphoi, dia tou kyriou hēmōn Iēsou Christou kai dia tēs agapēs tou pneumatos synagōnisasthai moi en tais proseuchais hyper emou pros ton theon,"
+     }
+    },
+    {
+     "zh": "求他使我脱离犹太（耶路撒冷所在的地区）那些不顺从的人，也使我为耶路撒冷办的这件事蒙圣徒悦纳，",
+     "old": {
+      "who": "和合本",
+      "text": "叫我脱离在犹太不顺从的人、也叫我为耶路撒冷所办的捐项、可蒙圣徒悦纳．"
+     },
+     "sa": {
+      "text": "ἵνα ῥυσθῶ ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ καὶ ἡ διακονία μου ἡ εἰς Ἰερουσαλὴμ εὐπρόσδεκτος τοῖς ἁγίοις γένηται,",
+      "tr": "hina rhysthō apo tōn apeithountōn en tēi Ioudaiāi kai hē diakonia mou hē eis Ierousalēm euprosdektos tois hagiois genētai,"
+     }
+    },
+    {
+     "zh": "好让我照着上帝的旨意，欢欢喜喜地到你们那里，和你们一同得到安息。",
+     "old": {
+      "who": "和合本",
+      "text": "并叫我顺着神的旨意、欢欢喜喜的到你们那里、与你们同得安息。"
+     },
+     "sa": {
+      "text": "ἵνα ἐν χαρᾷ ἐλθὼν πρὸς ὑμᾶς διὰ θελήματος θεοῦ συναναπαύσωμαι ὑμῖν.",
+      "tr": "hina en charāi elthōn pros hymas dia thelēmatos theou synanapausōmai hymin."
+     }
+    },
+    {
+     "zh": "愿赐平安的上帝与你们所有的人同在。阿们。",
+     "old": {
+      "who": "和合本",
+      "text": "愿赐平安的神、常和你们众人同在。阿们。"
+     },
+     "sa": {
+      "text": "ὁ δὲ θεὸς τῆς εἰρήνης μετὰ πάντων ὑμῶν· ἀμήν.",
+      "tr": "ho de theos tēs eirēnēs meta pantōn hymōn; amēn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "第 16 章 · 推荐非比，一长串问安，结尾",
+   "no": 16,
+   "intro": "保罗向罗马的信徒推荐一位叫非比的姐妹，接着一一问候他认识的二十多个人，嘱咐他们躲开制造分裂的人，又代身边的同伴问安。结尾各抄本不一样：本站依据的希腊文本以一句祝福结束，没有和合本最后三节的那段颂词。",
+   "verses": [
+    {
+     "zh": "我向你们推荐我们的姐妹非比，她也是坚革哩（哥林多东边的港口）教会（信耶稣的人聚成的群体）的仆役。",
+     "old": {
+      "who": "和合本",
+      "text": "我对你们举荐我们的姊妹非比、他是坚革哩教会中的女执事．",
+      "notes": [
+       {
+        "w": "女执事",
+        "note": "原文没有「女」字。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Συνίστημι δὲ ὑμῖν Φοίβην τὴν ἀδελφὴν ἡμῶν, οὖσαν καὶ διάκονον τῆς ἐκκλησίας τῆς ἐν Κεγχρεαῖς,",
+      "tr": "Synistēmi de hymin Phoibēn tēn adelphēn hēmōn, ousan kai diakonon tēs ekklēsias tēs en Kenchreais,"
+     }
+    },
+    {
+     "zh": "请你们在主里照着圣徒（属于上帝的人）该有的样子接待她；她在什么事上需要你们，你们就帮助她，因为她一向是许多人的恩人，也是我的恩人。",
+     "old": {
+      "who": "和合本",
+      "text": "请你们为主接待他、合乎圣徒的体统．他在何事上、要你们帮助、你们就帮助他．因他素来帮助许多人、也帮助了我。"
+     },
+     "sa": {
+      "text": "ἵνα αὐτὴν προσδέξησθε ἐν κυρίῳ ἀξίως τῶν ἁγίων, καὶ παραστῆτε αὐτῇ ἐν ᾧ ἂν ὑμῶν χρῄζῃ πράγματι, καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη καὶ ἐμοῦ αὐτοῦ.",
+      "tr": "hina autēn prosdexēsthe en kyriōi axiōs tōn hagiōn, kai parastēte autēi en hōi an hymōn chrēizēi pragmati, kai gar autē prostatis pollōn egenēthē kai emou autou."
+     }
+    },
+    {
+     "zh": "问百基拉和亚居拉安，他们是我在基督耶稣（基督：上帝选立的那位救主）里的同工，",
+     "old": {
+      "who": "和合本",
+      "text": "问百基拉和亚居拉安．他们在基督耶稣里与我同工、"
+     },
+     "sa": {
+      "text": "Ἀσπάσασθε Πρίσκαν καὶ Ἀκύλαν τοὺς συνεργούς μου ἐν Χριστῷ Ἰησοῦ,",
+      "tr": "Aspasasthe Priskan kai Akylan tous synergous mou en Christōi Iēsou,"
+     }
+    },
+    {
+     "zh": "他们为了我的性命，把自己的脖子都豁出去了；不但我感谢他们，外族人（不是犹太人的人）的各教会也都感谢他们。",
+     "old": {
+      "who": "和合本",
+      "text": "也为我的命、将自己的颈项、置之度外．不但我感谢他们、就是外邦的众教会、也感谢他们．"
+     },
+     "sa": {
+      "text": "οἵτινες ὑπὲρ τῆς ψυχῆς μου τὸν ἑαυτῶν τράχηλον ὑπέθηκαν, οἷς οὐκ ἐγὼ μόνος εὐχαριστῶ ἀλλὰ καὶ πᾶσαι αἱ ἐκκλησίαι τῶν ἐθνῶν,",
+      "tr": "hoitines hyper tēs psychēs mou ton heautōn trachēlon hypethēkan, hois ouk egō monos eucharistō alla kai pasai hai ekklēsiai tōn ethnōn,"
+     }
+    },
+    {
+     "zh": "也问在他们家里聚会的教会安。问我亲爱的以拜尼土安，他是亚西亚（今土耳其西部的省）归给基督的初熟果子。",
+     "old": {
+      "who": "和合本",
+      "text": "又问在他们家中的教会安。问我所亲爱的以拜尼土安．他在亚西亚是归基督初结的果子。"
+     },
+     "sa": {
+      "text": "καὶ τὴν κατʼ οἶκον αὐτῶν ἐκκλησίαν. ἀσπάσασθε Ἐπαίνετον τὸν ἀγαπητόν μου, ὅς ἐστιν ἀπαρχὴ τῆς Ἀσίας εἰς Χριστόν.",
+      "tr": "kai tēn katʼ oikon autōn ekklēsian. aspasasthe Epaineton ton agapēton mou, hos estin aparchē tēs Asias eis Christon."
+     }
+    },
+    {
+     "zh": "问马利亚安，她为你们多多劳苦。",
+     "old": {
+      "who": "和合本",
+      "text": "又问马利亚安．他为你们多受劳苦。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Μαριάμ, ἥτις πολλὰ ἐκοπίασεν εἰς ὑμᾶς.",
+      "tr": "aspasasthe Mariam, hētis polla ekopiasen eis hymas."
+     }
+    },
+    {
+     "zh": "问安多尼古和犹尼亚安，他们是我的同族，曾与我一同坐监；他们在使徒（被派出去传福音的人）当中是有名望的，也比我先在基督里。",
+     "old": {
+      "who": "和合本",
+      "text": "又问我亲属与我一同坐监的安多尼古和犹尼亚安．他们在使徒中是有名望的、也是比我先在基督里。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ἀνδρόνικον καὶ Ἰουνίαν τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου, οἵτινές εἰσιν ἐπίσημοι ἐν τοῖς ἀποστόλοις, οἳ καὶ πρὸ ἐμοῦ γέγοναν ἐν Χριστῷ.",
+      "tr": "aspasasthe Andronikon kai Iounian tous syngeneis mou kai synaichmalōtous mou, hoitines eisin episēmoi en tois apostolois, hoi kai pro emou gegonan en Christōi."
+     }
+    },
+    {
+     "zh": "问我在主里亲爱的暗伯利安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问我在主里面所亲爱的暗伯利安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ἀμπλιᾶτον τὸν ἀγαπητόν μου ἐν κυρίῳ.",
+      "tr": "aspasasthe Ampliaton ton agapēton mou en kyriōi."
+     }
+    },
+    {
+     "zh": "问在基督里与我们同工的耳巴奴，和我亲爱的士大古安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问在基督里与我们同工的耳巴奴、并我所亲爱的士大古安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Οὐρβανὸν τὸν συνεργὸν ἡμῶν ἐν Χριστῷ καὶ Στάχυν τὸν ἀγαπητόν μου.",
+      "tr": "aspasasthe Ourbanon ton synergon hēmōn en Christōi kai Stachyn ton agapēton mou."
+     }
+    },
+    {
+     "zh": "问在基督里经过考验的亚比利安。问亚利多布家里的人安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问在基督里经过试验的亚比利安。问亚利多布家里的人安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ἀπελλῆν τὸν δόκιμον ἐν Χριστῷ. ἀσπάσασθε τοὺς ἐκ τῶν Ἀριστοβούλου.",
+      "tr": "aspasasthe Apellēn ton dokimon en Christōi. aspasasthe tous ek tōn Aristoboulou."
+     }
+    },
+    {
+     "zh": "问我的同族希罗天安。问拿其数家里在主里的人安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问我亲属希罗天安。问拿其数家在主里的人安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ἡρῳδίωνα τὸν συγγενῆ μου. ἀσπάσασθε τοὺς ἐκ τῶν Ναρκίσσου τοὺς ὄντας ἐν κυρίῳ.",
+      "tr": "aspasasthe Hērōidiōna ton syngenē mou. aspasasthe tous ek tōn Narkissou tous ontas en kyriōi."
+     }
+    },
+    {
+     "zh": "问在主里劳苦的土非拿和土富撒安。问亲爱的彼息安，她在主里多多劳苦。",
+     "old": {
+      "who": "和合本",
+      "text": "又问为主劳苦的土非拿氏和土富撒氏安。问可亲爱为主多受劳苦的彼息氏安。",
+      "notes": [
+       {
+        "w": "氏",
+        "note": "「氏」是和合本用来标明女子的字，原文没有。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Τρύφαιναν καὶ Τρυφῶσαν τὰς κοπιώσας ἐν κυρίῳ. ἀσπάσασθε Περσίδα τὴν ἀγαπητήν, ἥτις πολλὰ ἐκοπίασεν ἐν κυρίῳ.",
+      "tr": "aspasasthe Tryphainan kai Tryphōsan tas kopiōsas en kyriōi. aspasasthe Persida tēn agapētēn, hētis polla ekopiasen en kyriōi."
+     }
+    },
+    {
+     "zh": "问在主里蒙拣选的鲁孚安，也问他的母亲安，她也是我的母亲。",
+     "old": {
+      "who": "和合本",
+      "text": "又问在主蒙拣选的鲁孚和他母亲安．他的母亲就是我的母亲。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ῥοῦφον τὸν ἐκλεκτὸν ἐν κυρίῳ καὶ τὴν μητέρα αὐτοῦ καὶ ἐμοῦ.",
+      "tr": "aspasasthe Rhouphon ton eklekton en kyriōi kai tēn mētera autou kai emou."
+     }
+    },
+    {
+     "zh": "问亚逊其土、弗勒干、黑米、八罗巴、黑马，和同他们在一起的弟兄们（一同信的人）安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问亚逊其土、弗勒干、黑米、八罗巴、黑马、并与他们在一处的弟兄们安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Ἀσύγκριτον, Φλέγοντα, Ἑρμῆν, Πατροβᾶν, Ἑρμᾶν καὶ τοὺς σὺν αὐτοῖς ἀδελφούς.",
+      "tr": "aspasasthe Asynkriton, Phlegonta, Hermēn, Patroban, Herman kai tous syn autois adelphous."
+     }
+    },
+    {
+     "zh": "问非罗罗古和犹利亚，尼利亚和他的姐妹，还有阿林巴，和同他们在一起的所有圣徒安。",
+     "old": {
+      "who": "和合本",
+      "text": "又问非罗罗古、和犹利亚、尼利亚、和他姊妹、同阿林巴、并与他们在一处的众圣徒安。"
+     },
+     "sa": {
+      "text": "ἀσπάσασθε Φιλόλογον καὶ Ἰουλίαν, Νηρέα καὶ τὴν ἀδελφὴν αὐτοῦ, καὶ Ὀλυμπᾶν καὶ τοὺς σὺν αὐτοῖς πάντας ἁγίους.",
+      "tr": "aspasasthe Philologon kai Ioulian, Nērea kai tēn adelphēn autou, kai Olympan kai tous syn autois pantas hagious."
+     }
+    },
+    {
+     "zh": "你们要用圣洁的亲吻彼此问安。基督的各教会都问你们安。",
+     "old": {
+      "who": "和合本",
+      "text": "你们亲嘴问安、彼此务要圣洁。基督的众教会都问你们安。"
+     },
+     "sa": {
+      "text": "Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ. Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι πᾶσαι τοῦ Χριστοῦ.",
+      "tr": "Aspasasthe allēlous en philēmati hagiōi. Aspazontai hymas hai ekklēsiai pasai tou Christou."
+     }
+    },
+    {
+     "zh": "弟兄们，我劝你们要留意那些制造分裂、设下绊脚石、违背你们所学的教导的人，要躲开他们；",
+     "old": {
+      "who": "和合本",
+      "text": "弟兄们、那些离间你们、叫你们跌倒、背乎所学之道的人、我劝你们要留意躱避他们。"
+     },
+     "sa": {
+      "text": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε ποιοῦντας, καὶ ἐκκλίνετε ἀπʼ αὐτῶν·",
+      "tr": "Parakalō de hymas, adelphoi, skopein tous tas dichostasias kai ta skandala para tēn didachēn hēn hymeis emathete poiountas, kai ekklinete apʼ autōn;"
+     }
+    },
+    {
+     "zh": "因为这样的人不是服事我们的主基督，而是服事自己的肚子，用花言巧语欺骗老实人的心。",
+     "old": {
+      "who": "和合本",
+      "text": "因为这样的人不服事我们的主基督、只服事自己的肚腹．用花言巧语、诱惑那些老实人的心。"
+     },
+     "sa": {
+      "text": "οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ἡμῶν Χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ, καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσι τὰς καρδίας τῶν ἀκάκων.",
+      "tr": "hoi gar toioutoi tōi kyriōi hēmōn Christōi ou douleuousin alla tēi heautōn koiliāi, kai dia tēs chrēstologias kai eulogias exapatōsi tas kardias tōn akakōn."
+     }
+    },
+    {
+     "zh": "你们的顺从已经传到所有人那里了，所以我为你们欢喜；但我愿你们在善上聪明，在恶上单纯。",
+     "old": {
+      "who": "和合本",
+      "text": "你们的顺服、已经传于众人、所以我为你们欢喜．但我愿意你们在善上聪明、在恶上愚拙。"
+     },
+     "sa": {
+      "text": "ἡ γὰρ ὑμῶν ὑπακοὴ εἰς πάντας ἀφίκετο· ἐφʼ ὑμῖν οὖν χαίρω, θέλω δὲ ὑμᾶς σοφοὺς εἶναι εἰς τὸ ἀγαθόν, ἀκεραίους δὲ εἰς τὸ κακόν.",
+      "tr": "hē gar hymōn hypakoē eis pantas aphiketo; ephʼ hymin oun chairō, thelō de hymas sophous einai eis to agathon, akeraious de eis to kakon."
+     }
+    },
+    {
+     "zh": "赐平安的上帝很快就要把撒旦（引人作恶的魔鬼）践踏在你们脚下。愿我们主耶稣基督的恩典（上帝白白给的好意）与你们同在。",
+     "old": {
+      "who": "和合本",
+      "text": "赐平安的神、快要将撒但践踏在你们脚下。愿我主耶稣基督的恩、常和你们同在。"
+     },
+     "sa": {
+      "text": "ὁ δὲ θεὸς τῆς εἰρήνης συντρίψει τὸν Σατανᾶν ὑπὸ τοὺς πόδας ὑμῶν ἐν τάχει. ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθʼ ὑμῶν.",
+      "tr": "ho de theos tēs eirēnēs syntripsei ton Satanan hypo tous podas hymōn en tachei. hē charis tou kyriou hēmōn Iēsou Christou methʼ hymōn."
+     }
+    },
+    {
+     "zh": "我的同工提摩太，和我的同族路求、耶孙、所西巴德，问你们安。",
+     "old": {
+      "who": "和合本",
+      "text": "与我同工的提摩太、和我的亲属路求、耶孙、所西巴德、问你们安。"
+     },
+     "sa": {
+      "text": "Ἀσπάζεται ὑμᾶς Τιμόθεος ὁ συνεργός μου, καὶ Λούκιος καὶ Ἰάσων καὶ Σωσίπατρος οἱ συγγενεῖς μου.",
+      "tr": "Aspazetai hymas Timotheos ho synergos mou, kai Loukios kai Iasōn kai Sōsipatros hoi syngeneis mou."
+     }
+    },
+    {
+     "zh": "我德丢，就是代笔写这封信的，在主里问你们安。",
+     "old": {
+      "who": "和合本",
+      "text": "我这代笔写信的德丢、在主里面问你们安。"
+     },
+     "sa": {
+      "text": "ἀσπάζομαι ὑμᾶς ἐγὼ Τέρτιος ὁ γράψας τὴν ἐπιστολὴν ἐν κυρίῳ.",
+      "tr": "aspazomai hymas egō Tertios ho grapsas tēn epistolēn en kyriōi."
+     }
+    },
+    {
+     "zh": "接待我、也接待全教会的该犹问你们安。本城的司库以拉都和兄弟括土问你们安。",
+     "old": {
+      "who": "和合本",
+      "text": "那接待我、也接待全教会的该犹、问你们安。城内管银库的以拉都、和兄弟括土、问你们安。",
+      "notes": [
+       {
+        "w": "第 24 节",
+        "note": "和合本把这一节的后半（以拉都和括土的问安）另编为第 24 节；希腊文底本都算在第 23 节里，本站节号跟底本。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἀσπάζεται ὑμᾶς Γάϊος ὁ ξένος μου καὶ ὅλης τῆς ἐκκλησίας. ἀσπάζεται ὑμᾶς Ἔραστος ὁ οἰκονόμος τῆς πόλεως καὶ Κούαρτος ὁ ἀδελφός.",
+      "tr": "aspazetai hymas Gaïos ho xenos mou kai holēs tēs ekklēsias. aspazetai hymas Erastos ho oikonomos tēs poleōs kai Kouartos ho adelphos."
+     }
+    },
+    {
+     "zh": "愿我们主耶稣基督的恩典与你们所有的人同在。阿们。",
+     "old": {
+      "who": "和合本",
+      "notes": [
+       {
+        "w": "（无）",
+        "note": "和合本没有这一句；它的第 24 节是上一节后半的问安。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ πάντων ὑμῶν. Ἀμήν.",
+      "tr": "Hē charis tou kyriou hēmōn Iēsou Christou meta pantōn hymōn. Amēn."
+     }
+    },
+    {
+     "zh": "（本站依据的希腊文本没有这一节。）",
+     "old": {
+      "who": "和合本",
+      "text": "惟有神能照我所传的福音、和所讲的耶稣基督、并照永古隐藏不言的奥秘、坚固你们的心。"
+     },
+     "sa": {
+      "text": "—",
+      "tr": "—"
+     }
+    },
+    {
+     "zh": "（本站依据的希腊文本没有这一节。）",
+     "old": {
+      "who": "和合本",
+      "text": "这奥秘如今显明出来、而且按着永生神的命、藉众先知的书指示万国的民、使他们信服真道。"
+     },
+     "sa": {
+      "text": "—",
+      "tr": "—"
+     }
+    },
+    {
+     "zh": "（本站依据的希腊文本没有这一节。）",
+     "old": {
+      "who": "和合本",
+      "text": "愿荣耀因耶稣基督归与独一全智的神、直到永远。阿们。"
+     },
+     "sa": {
+      "text": "—",
+      "tr": "—"
+     }
+    }
+   ]
+  }
+ ]
+}
