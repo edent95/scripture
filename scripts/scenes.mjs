@@ -1317,6 +1317,22 @@ function luke(P, A) {
   return { frame: { seeds: false }, body: ground + road + wall + gate + sun };
 }
 
+/** 约翰福音:黑夜里的一盏灯(「光照在黑暗里」)放在水边的石台上,灯焰在焦点处,一圈圈光晕向外;两边各一枝葡萄藤(「我是真葡萄树」) —— 不画人 */
+function john(P, A) {
+  const base = GY - 4;
+  const lamp = `<path d="M-22 ${f(base)}C-22 ${f(base - 16)} -10 ${f(base - 24)} 0 ${f(base - 24)}C10 ${f(base - 24)} 22 ${f(base - 16)} 22 ${f(base)}Z" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.8"/><path d="M22 ${f(base - 8)}C30 ${f(base - 10)} 34 ${f(base - 16)} 36 ${f(base - 22)}" stroke="${P.ink}" stroke-width="0.6"/><path d="M-30 ${f(base)}H30M-26 ${f(base + 5)}H26" stroke="${P.ink}" stroke-width="0.55"/><path d="M0 ${f(base - 24)}V${f(FY + RADII[0] + 2)}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  const flame = `<path d="M0 ${f(FY - RADII[0])}C${f(RADII[0] * 0.8)} ${f(FY - 2)} ${f(RADII[0] * 0.7)} ${f(FY + RADII[0] * 0.8)} 0 ${f(FY + RADII[0])}C${f(-RADII[0] * 0.7)} ${f(FY + RADII[0] * 0.8)} ${f(-RADII[0] * 0.8)} ${f(FY - 2)} 0 ${f(FY - RADII[0])}Z" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.95">${A ? `<animateTransform attributeName="transform" type="scale" values="1 1;1.04 0.96;1 1" dur="2.8s" repeatCount="indefinite" additive="sum"/>` : ''}</path>`;
+  const halo = [1, 2, 3].map((k) => `<circle cx="0" cy="${f(FY)}" r="${f(RADII[k])}" stroke="${P.foil}" stroke-width="${k === 1 ? 0.6 : 0.4}" stroke-dasharray="${k === 1 ? 'none' : '2 5'}"/>`).join('');
+  // 葡萄藤:一条从地面升起的弯枝,几片叶(小菱形)和一串葡萄(几个小圆)
+  const vine = (s) => {
+    const stem = `M${f(s * 150)} ${f(GY)}C${f(s * 128)} ${f(GY - 46)} ${f(s * 150)} ${f(GY - 92)} ${f(s * 112)} ${f(GY - 128)}C${f(s * 92)} ${f(GY - 148)} ${f(s * 96)} ${f(GY - 176)} ${f(s * 70)} ${f(GY - 190)}`;
+    const leaf = (x, y) => `<path d="M${f(x)} ${f(y - 7)}L${f(x + 6)} ${f(y)}L${f(x)} ${f(y + 7)}L${f(x - 6)} ${f(y)}Z" stroke="${P.ink}" stroke-width="0.45"/>`;
+    const grapes = range(6).map((i) => `<circle cx="${f(s * 126 + ((i % 3) - 1) * 5 + (i > 2 ? 2.5 : 0))}" cy="${f(GY - 70 + Math.floor(i / 3) * 5 + (i > 4 ? 5 : 0))}" r="2.6" stroke="${P.foil}" stroke-width="0.5"/>`).join('');
+    return `<path d="${stem}" stroke="${P.ink}" stroke-width="0.6"/>${leaf(s * 140, GY - 40)}${leaf(s * 128, GY - 104)}${leaf(s * 96, GY - 150)}${grapes}`;
+  };
+  return { frame: { seeds: false, rays: false }, body: water(P, A, { reflect: 18 }) + vine(-1) + vine(1) + halo + lamp + flame };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1348,6 +1364,7 @@ const SUBJECTS = {
   mark,
   matthew,
   luke,
+  john,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 

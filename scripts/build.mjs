@@ -184,6 +184,7 @@ const EN_SEARCH_NAME = {
   mark: 'Gospel of Mark',
   matthew: 'Gospel of Matthew',
   luke: 'Gospel of Luke',
+  john: 'Gospel of John',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文

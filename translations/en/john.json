@@ -1,0 +1,4366 @@
+{
+ "slug": "john",
+ "chapters": [
+  {
+   "title": "Chapter 1 · The Word Became Flesh; John’s Testimony; the First Disciples",
+   "no": 1,
+   "intro": "The first eighteen verses read like a poem: in the beginning was the Word, through whom all things came to be, the light that enlightens people, who then became a human being of flesh and blood, Jesus. Next John the Baptist says that he is not the Christ but only a witness to him, and points to Jesus with the words “Look, the Lamb of God.” Andrew, Peter, Philip and Nathanael in turn begin to follow Jesus.",
+   "verses": [
+    {
+     "h": "9cf25125",
+     "en": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+     "cmp": [
+      {
+       "w": "logos",
+       "note": "原文 logos 平常的意思是「话」「言语」，也可以指道理。和合本译成「道」，本站沿用；英文写 Word。经文在这里没有解释这个词，到第 14 节才说「道成了肉身」。",
+       "en": "The Greek logos ordinarily means \"word\" or \"speech,\" and can also mean reason or account. The Union Version renders it 道 (dào, \"the Way,\" also \"to speak\"), which this site keeps; the English writes \"Word.\" The text does not explain the term here; only in verse 14 does it say \"the Word became flesh.\""
+      }
+     ]
+    },
+    {
+     "h": "8a38b03e",
+     "en": "This one was in the beginning with God."
+    },
+    {
+     "h": "eb492b0c",
+     "en": "All things came to be through him, and apart from him not one thing came to be. What has come to be",
+     "cmp": [
+      {
+       "w": "ho gegonen",
+       "note": "最后这几个字「那已经有了的」连到上一句还是下一句，古来有两种断法。本站的底本把它连到下一节（「那已经有了的，在他里面是生命」）；和合本连到上一句（「凡被造的，没有一样不是借着他造的」）。",
+       "en": "Whether the last words, \"what has come to be,\" belong with the sentence before or the one after has been punctuated both ways since antiquity. The edition this site follows joins them to the next verse (\"What has come to be in him was life\"); the Union Version joins them to the sentence before."
+      }
+     ]
+    },
+    {
+     "h": "bc80b121",
+     "en": "in him was life, and the life was the light of humankind;"
+    },
+    {
+     "h": "d4763820",
+     "en": "and the light shines in the darkness, and the darkness did not overcome it.",
+     "cmp": [
+      {
+       "w": "ou katelaben",
+       "note": "这个动词本义是「抓住」，既可以是「胜过、压倒」，也可以是「领会、接受」。白话和英文取前一种，和合本取后一种（「不接受」）。",
+       "en": "The verb means \"to seize,\" which can be \"overcome, overpower\" or \"grasp, take in.\" The plain Chinese and the English take the first; the Union Version takes the second, 不接受 (bù jiēshòu, \"did not accept\")."
+      }
+     ]
+    },
+    {
+     "h": "76a6a4a4",
+     "en": "There came a man sent from God; his name was John."
+    },
+    {
+     "h": "3cfb2cac",
+     "en": "This man came for testimony, to testify about the light, so that all might believe through him."
+    },
+    {
+     "h": "47eef4d5",
+     "en": "He was not the light, but came to testify about the light."
+    },
+    {
+     "h": "a667e376",
+     "en": "The true light, which enlightens every person, was coming into the world.",
+     "cmp": [
+      {
+       "w": "erchomenon eis ton kosmon",
+       "note": "「来到世界」这几个字，可以说的是光（「真光正在来到世界」），也可以说的是人（「照亮每一个来到世界的人」）。白话和英文取前一种，和合本取后一种（「一切生在世上的人」）。",
+       "en": "The words \"coming into the world\" can go with the light (\"the true light was coming into the world\") or with the person (\"every person who comes into the world\"). The plain Chinese and the English take the first; the Union Version takes the second."
+      }
+     ]
+    },
+    {
+     "h": "085cb109",
+     "en": "He was in the world, and the world came to be through him, and the world did not know him."
+    },
+    {
+     "h": "50568be7",
+     "en": "He came to his own, and his own people did not receive him."
+    },
+    {
+     "h": "7ce51296",
+     "en": "But to all who did receive him he gave authority to become children of God, to those who believe in his name,"
+    },
+    {
+     "h": "191792e4",
+     "en": "who were born not of blood, nor of the will of the flesh, nor of the will of a man, but of God."
+    },
+    {
+     "h": "4ba548e9",
+     "en": "And the Word became flesh and lived among us, and we beheld his glory, glory as of an only son from a father, full of grace and truth;",
+     "cmp": [
+      {
+       "w": "eskēnōsen",
+       "note": "「住」原文的字面是「支搭帐棚」。",
+       "en": "The Greek for \"lived\" is literally \"pitched his tent.\""
+      }
+     ]
+    },
+    {
+     "h": "b909294f",
+     "en": "—John testifies about him and has cried out, saying, “This was he of whom I said, ‘He who comes after me has come to be ahead of me, because he was before me.’”—",
+     "cmp": [
+      {
+       "w": "Iōannēs martyrei peri autou",
+       "note": "这一节是插进来的一句话，底本用括号括着；它是经文原有的，所以白话用破折号夹住，不用圆括号。",
+       "en": "This verse is an aside, which the Greek edition sets in parentheses; it is part of the text, so the translations mark it with dashes rather than brackets."
+      }
+     ]
+    },
+    {
+     "h": "463264cf",
+     "en": "for from his fullness we have all received, and grace upon grace;"
+    },
+    {
+     "h": "36d68019",
+     "en": "for the law was given through Moses; grace and truth came through Jesus Christ."
+    },
+    {
+     "h": "f284eb84",
+     "en": "No one has ever seen God; the only-begotten God, who is in the bosom of the Father, that one has made him known.",
+     "cmp": [
+      {
+       "w": "monogenēs theos",
+       "note": "本站的底本是「独生的上帝」，这是几份最早的抄本的读法；多数抄本是「独生子」，和合本跟的是后一种。",
+       "en": "The edition this site follows reads \"the only-begotten God,\" the reading of several of the earliest manuscripts; most manuscripts read \"the only-begotten Son,\" which the Union Version follows."
+      }
+     ]
+    },
+    {
+     "h": "4bed7eab",
+     "en": "And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+    },
+    {
+     "h": "c9abc7d8",
+     "en": "And he confessed and did not deny, and he confessed, “I am not the Christ.”"
+    },
+    {
+     "h": "0742f4e5",
+     "en": "And they asked him, “What then? Are you Elijah?” And he says, “I am not.” “Are you the Prophet?” And he answered, “No.”",
+     "cmp": [
+      {
+       "w": "ho prophētēs",
+       "note": "「那位先知」带着定冠词，指的是摩西在旧约《申命记》18:15 说的、上帝将来要兴起的一位像他那样的先知。",
+       "en": "With the definite article, \"the Prophet\" refers to the prophet like himself whom Moses, in Deuteronomy 18:15, said God would one day raise up."
+      }
+     ]
+    },
+    {
+     "h": "994981ac",
+     "en": "So they said to him, “Who are you? Let us give an answer to those who sent us. What do you say about yourself?”"
+    },
+    {
+     "h": "aa55bd70",
+     "en": "He said, “I am a voice of one calling out in the wilderness, ‘Make straight the way of the Lord,’ as Isaiah the prophet said.”",
+     "cmp": [
+      {
+       "w": "phōnē boōntos en tēi erēmōi",
+       "note": "引自旧约《以赛亚书》40:3。",
+       "en": "Quoted from Isaiah 40:3."
+      }
+     ]
+    },
+    {
+     "h": "1555479e",
+     "en": "And they had been sent from the Pharisees."
+    },
+    {
+     "h": "68700681",
+     "en": "And they asked him and said to him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”"
+    },
+    {
+     "h": "2f8e5e48",
+     "en": "John answered them, saying, “I baptize in water; among you stands one whom you do not know,"
+    },
+    {
+     "h": "87cf04b7",
+     "en": "the one coming after me, the strap of whose sandal I am not worthy to untie.”"
+    },
+    {
+     "h": "65e86a28",
+     "en": "These things took place in Bethany beyond the Jordan, where John was baptizing."
+    },
+    {
+     "h": "d9929e58",
+     "en": "The next day he sees Jesus coming toward him and says, “Look, the Lamb of God, who takes away the sin of the world!"
+    },
+    {
+     "h": "e1566e1f",
+     "en": "This is he of whom I said, ‘After me comes a man who has come to be ahead of me, because he was before me.’"
+    },
+    {
+     "h": "79d35634",
+     "en": "And I did not know him; but that he might be revealed to Israel, for this I came baptizing in water.”"
+    },
+    {
+     "h": "c5dbe59a",
+     "en": "And John testified, saying, “I have seen the Spirit coming down like a dove from heaven, and it remained on him."
+    },
+    {
+     "h": "51e6ee68",
+     "en": "And I did not know him; but he who sent me to baptize in water, that one said to me, ‘On whomever you see the Spirit coming down and remaining on him, this is he who baptizes in the Holy Spirit.’"
+    },
+    {
+     "h": "e663ef15",
+     "en": "And I have seen and have testified that this is the Chosen One of God.”",
+     "cmp": [
+      {
+       "w": "ho eklektos tou theou",
+       "note": "本站的底本是「上帝所拣选的」，见于少数早期抄本；绝大多数抄本是「上帝的儿子」，和合本跟的是后一种。",
+       "en": "The edition this site follows reads \"the Chosen One of God,\" found in a few early manuscripts; the great majority read \"the Son of God,\" which the Union Version follows."
+      }
+     ]
+    },
+    {
+     "h": "eede1e73",
+     "en": "The next day again John was standing with two of his disciples,"
+    },
+    {
+     "h": "87f83589",
+     "en": "and looking at Jesus as he walked by, he says, “Look, the Lamb of God!”"
+    },
+    {
+     "h": "831c1f4c",
+     "en": "And the two disciples heard him speaking, and they followed Jesus."
+    },
+    {
+     "h": "384f7a1f",
+     "en": "And Jesus, turning and seeing them following, says to them, “What are you seeking?” And they said to him, “Rabbi”—which translated means Teacher—“where are you staying?”"
+    },
+    {
+     "h": "f0dc921e",
+     "en": "He says to them, “Come and you will see.” So they came and saw where he was staying, and they stayed with him that day; it was about the tenth hour."
+    },
+    {
+     "h": "257ae0c2",
+     "en": "Andrew, the brother of Simon Peter, was one of the two who heard John and followed him."
+    },
+    {
+     "h": "2a1d2ac8",
+     "en": "He first finds his own brother Simon and says to him, “We have found the Messiah”—which translated is Christ.",
+     "cmp": [
+      {
+       "w": "ton Messian",
+       "note": "「弥赛亚」是希伯来话（亚兰话），「基督」是希腊话，意思都是「受膏的人」，就是上帝选立的那一位。这句翻译的话是经文原有的。",
+       "en": "\"Messiah\" is Hebrew (Aramaic) and \"Christ\" is Greek; both mean \"anointed one,\" the one chosen by God. The translating remark is part of the text itself."
+      }
+     ]
+    },
+    {
+     "h": "dc091e55",
+     "en": "He brought him to Jesus. Looking at him, Jesus said, “You are Simon the son of John; you will be called Cephas”—which is translated Peter.",
+     "cmp": [
+      {
+       "w": "Kēphas",
+       "note": "「矶法」是亚兰话，「彼得」是希腊话，两个词的意思都是「石头」。",
+       "en": "Cephas is Aramaic and Peter is Greek; both mean \"rock.\""
+      }
+     ]
+    },
+    {
+     "h": "ae861048",
+     "en": "The next day he decided to go out to Galilee. And he finds Philip, and Jesus says to him, “Follow me.”"
+    },
+    {
+     "h": "2b1a5b1d",
+     "en": "Now Philip was from Bethsaida, from the town of Andrew and Peter."
+    },
+    {
+     "h": "4da851ce",
+     "en": "Philip finds Nathanael and says to him, “We have found him of whom Moses in the law and the prophets wrote: Jesus son of Joseph, from Nazareth.”"
+    },
+    {
+     "h": "f07f7be5",
+     "en": "And Nathanael said to him, “Can anything good come out of Nazareth?” Philip says to him, “Come and see.”"
+    },
+    {
+     "h": "b45a4c2b",
+     "en": "Jesus saw Nathanael coming toward him and says of him, “Look, truly an Israelite in whom there is no deceit.”"
+    },
+    {
+     "h": "492b0643",
+     "en": "Nathanael says to him, “From where do you know me?” Jesus answered and said to him, “Before Philip called you, when you were under the fig tree, I saw you.”"
+    },
+    {
+     "h": "7fd0b867",
+     "en": "Nathanael answered him, “Rabbi, you are the Son of God; you are the King of Israel.”"
+    },
+    {
+     "h": "c231d712",
+     "en": "Jesus answered and said to him, “Because I said to you that I saw you under the fig tree, do you believe? You will see greater things than these.”"
+    },
+    {
+     "h": "38728f89",
+     "en": "And he says to him, “Truly, truly, I say to you, you will see heaven opened and the angels of God ascending and descending on the Son of Man.”",
+     "cmp": [
+      {
+       "w": "amēn amēn legō hymin",
+       "note": "原文是「阿们，阿们，我告诉你们」；「阿们」连说两遍，是这卷书里耶稣特有的说法。这句话是对拿但业一个人说的，「你们」却是复数。",
+       "en": "The Greek is \"Amen, amen, I say to you\"; the doubled \"amen\" is peculiar to Jesus’s speech in this Gospel. He is speaking to Nathanael alone, yet \"you\" is plural."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · The Wedding at Cana; Clearing the Temple",
+   "no": 2,
+   "intro": "At a wedding in Cana of Galilee the wine runs out. Jesus has six stone jars filled with water, and the water becomes good wine: the first of his signs. At Passover he goes up to Jerusalem and drives the sellers of animals and the money changers out of the temple. Asked for a sign, he says, “Destroy this temple, and in three days I will raise it up”; the book explains that he meant his own body.",
+   "verses": [
+    {
+     "h": "a8478b13",
+     "en": "And on the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there;"
+    },
+    {
+     "h": "fdbf7ac4",
+     "en": "and Jesus also was invited to the wedding, with his disciples."
+    },
+    {
+     "h": "a96aa0b0",
+     "en": "And when the wine ran out, the mother of Jesus says to him, “They have no wine.”"
+    },
+    {
+     "h": "6ff0292c",
+     "en": "And Jesus says to her, “What is that to me and to you, woman? My hour has not yet come.”",
+     "cmp": [
+      {
+       "w": "Ti emoi kai soi, gynai",
+       "note": "字面是「对我、对你，有什么？妇人」，是从希伯来话来的说法，和《马可福音》1:24 那句是同一个句式。「妇人」在当时是对女子平常的称呼，并不失礼，耶稣在 19:26 也这样称呼母亲。和合本把「妇人」改译成「母亲」。",
+       "en": "Literally \"What to me and to you, woman?\", an idiom carried over from Hebrew, the same construction as in Mark 1:24. \"Woman\" was an ordinary, not discourteous, form of address; Jesus uses it for his mother again at 19:26. The Union Version changes it to 母亲 (mǔqīn, \"Mother\")."
+      }
+     ]
+    },
+    {
+     "h": "55ac1321",
+     "en": "His mother says to the servants, “Whatever he says to you, do it.”"
+    },
+    {
+     "h": "a115be87",
+     "en": "Now there were six stone water jars standing there, for the purification of the Jews, each holding two or three measures.",
+     "cmp": [
+      {
+       "w": "metrētas dyo ē treis",
+       "note": "原文的量器一个约四十升，「两三个」就是每口缸八十到一百二十升。",
+       "en": "The Greek measure is about forty liters, so \"two or three\" makes each jar eighty to a hundred and twenty liters."
+      }
+     ]
+    },
+    {
+     "h": "7440536a",
+     "en": "Jesus says to them, “Fill the jars with water.” And they filled them to the brim."
+    },
+    {
+     "h": "ff843bec",
+     "en": "And he says to them, “Now draw some out and take it to the master of the feast.” And they took it."
+    },
+    {
+     "h": "f6760985",
+     "en": "And when the master of the feast tasted the water that had become wine, and did not know where it came from—though the servants who had drawn the water knew—the master of the feast calls the bridegroom"
+    },
+    {
+     "h": "6bc21365",
+     "en": "and says to him, “Everyone sets out the good wine first, and when people have drunk freely, the lesser; you have kept the good wine until now.”"
+    },
+    {
+     "h": "96e376b8",
+     "en": "This, the beginning of the signs, Jesus did in Cana of Galilee, and he revealed his glory, and his disciples believed in him.",
+     "cmp": [
+      {
+       "w": "archēn tōn sēmeiōn",
+       "note": "原文的词是「记号」「标记」的意思。这卷书把耶稣行的奇事都叫做「记号」；白话沿用和合本写「神迹」，英文照原词写 sign。",
+       "en": "The Greek word means \"sign\" or \"mark.\" This Gospel calls all of Jesus’s wonders \"signs\"; the plain Chinese keeps the Union Version’s 神迹 (shénjì, \"miracle\"), and the English keeps \"sign.\""
+      }
+     ]
+    },
+    {
+     "h": "3df6d623",
+     "en": "After this he went down to Capernaum, he and his mother and his brothers and his disciples, and they stayed there not many days."
+    },
+    {
+     "h": "cce08fd2",
+     "en": "And the Passover of the Jews was near, and Jesus went up to Jerusalem."
+    },
+    {
+     "h": "4b7c65e7",
+     "en": "And he found in the temple those selling oxen and sheep and doves, and the money changers sitting there,"
+    },
+    {
+     "h": "cf257f0a",
+     "en": "and making a whip of cords, he drove them all out of the temple, both the sheep and the oxen, and he poured out the coins of the money changers and overturned their tables,"
+    },
+    {
+     "h": "0601ead9",
+     "en": "and to those selling the doves he said, “Take these things away from here; do not make my Father’s house a house of trade.”"
+    },
+    {
+     "h": "94583286",
+     "en": "His disciples remembered that it is written, “Zeal for your house will consume me.”",
+     "cmp": [
+      {
+       "w": "Ho zēlos tou oikou sou",
+       "note": "引自旧约《诗篇》69:9。",
+       "en": "Quoted from Psalm 69:9."
+      }
+     ]
+    },
+    {
+     "h": "54897b66",
+     "en": "So the Jews answered and said to him, “What sign do you show us, since you do these things?”"
+    },
+    {
+     "h": "7f82d7db",
+     "en": "Jesus answered and said to them, “Destroy this temple, and in three days I will raise it up.”"
+    },
+    {
+     "h": "045ba4dc",
+     "en": "So the Jews said, “This temple has been under construction for forty-six years, and you will raise it up in three days?”"
+    },
+    {
+     "h": "3f0bc5de",
+     "en": "But he was speaking about the temple of his body."
+    },
+    {
+     "h": "b81eb25c",
+     "en": "So when he was raised from the dead, his disciples remembered that he had said this, and they believed the scripture and the word that Jesus had spoken."
+    },
+    {
+     "h": "f47e378e",
+     "en": "Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, seeing his signs that he was doing;"
+    },
+    {
+     "h": "c0635b73",
+     "en": "but Jesus himself did not entrust himself to them, because he knew all people",
+     "cmp": [
+      {
+       "w": "ouk episteuen hauton autois",
+       "note": "「信」和「交托」在原文是同一个动词：许多人「信」了他，他却不把自己「信托」给他们。",
+       "en": "The Greek uses one verb for both \"believed\" and \"entrust\": many \"believed\" in him, but he did not \"entrust\" himself to them."
+      }
+     ]
+    },
+    {
+     "h": "7fb86621",
+     "en": "and because he had no need for anyone to testify about a person, for he himself knew what was in a person."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · Nicodemus Comes by Night; John Testifies Again",
+   "no": 3,
+   "intro": "Nicodemus, a Pharisee, comes to Jesus at night. Jesus says a person must be “born from above” to see the kingdom of God, and Nicodemus cannot follow. The passage that comes next speaks of God loving the world and giving the only Son, and of the light coming into the world while people loved the darkness. In the second half, John’s disciples report that everyone is going to Jesus, and John answers: he must increase, I must decrease.",
+   "verses": [
+    {
+     "h": "6fb0b098",
+     "en": "Now there was a man of the Pharisees, Nicodemus by name, a ruler of the Jews."
+    },
+    {
+     "h": "247b240a",
+     "en": "This man came to him by night and said to him, “Rabbi, we know that you have come from God as a teacher, for no one can do these signs that you do unless God is with him.”"
+    },
+    {
+     "h": "8890f0b1",
+     "en": "Jesus answered and said to him, “Truly, truly, I say to you, unless one is born from above, he cannot see the kingdom of God.”",
+     "cmp": [
+      {
+       "w": "gennēthēi anōthen",
+       "note": "原文 anōthen 有两个意思：「从上面」和「重新」。尼哥底母听成「再生一次」（第 4 节）；第 31 节同一个词明明是「从上面」。白话跟和合本取「重新生」，英文取「从上面生」。",
+       "en": "The word anōthen means both \"from above\" and \"again.\" Nicodemus hears \"a second time\" (verse 4); in verse 31 the same word plainly means \"from above.\" The Chinese follows the Union Version with 重新生 (chóngxīn shēng, \"born anew\"); the English takes \"from above.\""
+      }
+     ]
+    },
+    {
+     "h": "5e0bd381",
+     "en": "Nicodemus says to him, “How can a person be born when he is old? Can he enter a second time into his mother’s womb and be born?”"
+    },
+    {
+     "h": "64be478a",
+     "en": "Jesus answered, “Truly, truly, I say to you, unless one is born of water and Spirit, he cannot enter the kingdom of God."
+    },
+    {
+     "h": "e363d630",
+     "en": "What is born of the flesh is flesh, and what is born of the Spirit is spirit."
+    },
+    {
+     "h": "50205dc0",
+     "en": "Do not marvel that I said to you, ‘You must be born from above.’"
+    },
+    {
+     "h": "2521e755",
+     "en": "The wind blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so it is with everyone who is born of the Spirit.”",
+     "cmp": [
+      {
+       "w": "to pneuma",
+       "note": "原文「风」和「灵」是同一个词：这一节前半说的「风」和后半说的「灵」是同一个字。",
+       "en": "In Greek \"wind\" and \"spirit\" are one word: the \"wind\" of the first half of this verse and the \"Spirit\" of the second are the same word."
+      }
+     ]
+    },
+    {
+     "h": "a7e6f050",
+     "en": "Nicodemus answered and said to him, “How can these things be?”"
+    },
+    {
+     "h": "bf74c5c2",
+     "en": "Jesus answered and said to him, “You are the teacher of Israel, and you do not understand these things?"
+    },
+    {
+     "h": "e6b15fd4",
+     "en": "Truly, truly, I say to you, we speak of what we know and testify to what we have seen, and you do not receive our testimony."
+    },
+    {
+     "h": "ea62035d",
+     "en": "If I told you earthly things and you do not believe, how will you believe if I tell you heavenly things?"
+    },
+    {
+     "h": "b433a29e",
+     "en": "And no one has ascended into heaven except the one who came down from heaven, the Son of Man.",
+     "cmp": [
+      {
+       "w": "ho hyios tou anthrōpou",
+       "note": "和合本这里多「仍旧在天」几个字，是按多数抄本译的；本站的底本没有。",
+       "en": "The Union Version adds 仍旧在天 (réngjiù zài tiān, \"who is still in heaven\") here, following the majority of manuscripts; the edition this site follows lacks the words."
+      }
+     ]
+    },
+    {
+     "h": "b383e441",
+     "en": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+     "cmp": [
+      {
+       "w": "hypsōsen ton ophin",
+       "note": "这件事记在旧约《民数记》21:4–9：百姓被毒蛇咬，摩西照上帝的吩咐造了一条铜蛇挂在杆子上，被咬的人一望这铜蛇就活了。",
+       "en": "The story is in Numbers 21:4–9: when the people were bitten by poisonous snakes, Moses at God’s command made a bronze serpent and set it on a pole, and anyone bitten who looked at it lived."
+      }
+     ]
+    },
+    {
+     "h": "673126e9",
+     "en": "so that everyone who believes may have eternal life in him.”"
+    },
+    {
+     "h": "3cebd609",
+     "en": "For God so loved the world that he gave the only-begotten Son, so that everyone who believes in him may not perish but have eternal life.",
+     "cmp": [
+      {
+       "w": "Houtōs gar ēgapēsen",
+       "note": "从这一节到第 21 节，是耶稣接着对尼哥底母说，还是写书的人自己的话，历来读法不一：原文没有引号。本站的底本在这里另起一段，白话就把耶稣的话收在第 15 节。",
+       "en": "Whether verses 16–21 continue Jesus’s words to Nicodemus or are the writer’s own comment has long been read both ways; the Greek has no quotation marks. The edition this site follows begins a new paragraph here, so the translations close Jesus’s speech at verse 15."
+      }
+     ]
+    },
+    {
+     "h": "30c868e9",
+     "en": "For God did not send the Son into the world to judge the world, but so that the world might be saved through him.",
+     "cmp": [
+      {
+       "w": "hina krinēi",
+       "note": "原文这个动词既是「审判」，也是「定罪」；第 17–19 节用的都是这一个词。白话在这几节写「定罪」，英文写 judge。",
+       "en": "The Greek verb means both \"judge\" and \"condemn\"; verses 17–19 all use this one word. The plain Chinese writes 定罪 (dìngzuì, \"condemn\") in these verses, the English \"judge.\""
+      }
+     ]
+    },
+    {
+     "h": "e5ed73a1",
+     "en": "The one who believes in him is not judged; but the one who does not believe has been judged already, because he has not believed in the name of the only-begotten Son of God."
+    },
+    {
+     "h": "506afe00",
+     "en": "And this is the judgment: that the light has come into the world, and people loved the darkness rather than the light, for their deeds were evil."
+    },
+    {
+     "h": "cf0748b7",
+     "en": "For everyone who does what is base hates the light and does not come to the light, lest his deeds be exposed;"
+    },
+    {
+     "h": "fd27de62",
+     "en": "but the one who does the truth comes to the light, so that his deeds may be shown to have been worked in God."
+    },
+    {
+     "h": "7fe51a6f",
+     "en": "After these things Jesus and his disciples came into the Judean countryside, and there he stayed with them and was baptizing."
+    },
+    {
+     "h": "28ca44c5",
+     "en": "And John also was baptizing at Aenon near Salim, because there was much water there, and people were coming and being baptized;"
+    },
+    {
+     "h": "aa3a6329",
+     "en": "for John had not yet been thrown into prison."
+    },
+    {
+     "h": "47410f5e",
+     "en": "Now a dispute arose between some of John’s disciples and a Jew about purification."
+    },
+    {
+     "h": "3a85af14",
+     "en": "And they came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, look, he is baptizing, and all are coming to him.”"
+    },
+    {
+     "h": "3cd0c415",
+     "en": "John answered and said, “A person cannot receive even one thing unless it has been given to him from heaven."
+    },
+    {
+     "h": "7a49cce6",
+     "en": "You yourselves bear me witness that I said, ‘I am not the Christ, but I have been sent ahead of him.’"
+    },
+    {
+     "h": "2b311383",
+     "en": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly at the bridegroom’s voice. So this joy of mine has been made full."
+    },
+    {
+     "h": "ed02a875",
+     "en": "He must increase, but I must decrease.”"
+    },
+    {
+     "h": "5aacdb1f",
+     "en": "He who comes from above is above all. He who is of the earth is of the earth and speaks of the earth; he who comes from heaven is above all.",
+     "cmp": [
+      {
+       "w": "Ho anōthen erchomenos",
+       "note": "从这一节到章末，是约翰接着说，还是写书的人自己的话，同样读法不一。本站的底本在这里另起一段，白话就把约翰的话收在第 30 节。",
+       "en": "Whether verses 31–36 continue John’s words or are the writer’s own comment is likewise read both ways. The edition this site follows begins a new paragraph here, so the translations close John’s speech at verse 30."
+      }
+     ]
+    },
+    {
+     "h": "9bd30129",
+     "en": "What he has seen and heard, to this he testifies, and no one receives his testimony."
+    },
+    {
+     "h": "e3fbb3ec",
+     "en": "The one who has received his testimony has set his seal that God is true."
+    },
+    {
+     "h": "0d9c2b4f",
+     "en": "For he whom God sent speaks the words of God, for he gives the Spirit without measure."
+    },
+    {
+     "h": "e0cac3b9",
+     "en": "The Father loves the Son and has given all things into his hand."
+    },
+    {
+     "h": "3db739e3",
+     "en": "The one who believes in the Son has eternal life; but the one who disobeys the Son will not see life, but the wrath of God remains on him."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · The Samaritan Woman at the Well; the Official’s Son",
+   "no": 4,
+   "intro": "On his way back to Galilee Jesus passes through Samaria. At noon, by Jacob’s well, he asks a woman who has come to draw water for a drink, speaks to her of “living water,” tells her about her own life, and finally says that he is the Christ. She goes back to the town to fetch people, and many Samaritans believe in him. At Cana in Galilee a royal official begs him to save his dying son; Jesus speaks a word, and the boy recovers.",
+   "verses": [
+    {
+     "h": "6f7cdd71",
+     "en": "Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John—"
+    },
+    {
+     "h": "884c3d15",
+     "en": "though Jesus himself was not baptizing, but his disciples—"
+    },
+    {
+     "h": "0acbdcc4",
+     "en": "he left Judea and went away again into Galilee."
+    },
+    {
+     "h": "1addc68f",
+     "en": "And he had to pass through Samaria."
+    },
+    {
+     "h": "a371f6a1",
+     "en": "So he comes to a town of Samaria called Sychar, near the plot of ground that Jacob gave to his son Joseph;"
+    },
+    {
+     "h": "1981b24e",
+     "en": "and Jacob’s well was there. So Jesus, wearied from the journey, was sitting thus by the well; it was about the sixth hour."
+    },
+    {
+     "h": "d3b54687",
+     "en": "A woman of Samaria comes to draw water. Jesus says to her, “Give me a drink.”"
+    },
+    {
+     "h": "c025aad6",
+     "en": "For his disciples had gone away into the town to buy food."
+    },
+    {
+     "h": "bf4258dd",
+     "en": "So the Samaritan woman says to him, “How is it that you, being a Jew, ask a drink from me, a Samaritan woman?”—for Jews do not have dealings with Samaritans."
+    },
+    {
+     "h": "a310408c",
+     "en": "Jesus answered and said to her, “If you knew the gift of God, and who it is that says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”",
+     "cmp": [
+      {
+       "w": "hydōr zōn",
+       "note": "「活水」平常指流动的水，像泉水、河水，和井里、池里存着的水相对；女人就是照这个意思听的（第 11 节）。",
+       "en": "\"Living water\" ordinarily means running water, from a spring or stream, as opposed to the still water of a well or cistern; that is how the woman takes it (verse 11)."
+      }
+     ]
+    },
+    {
+     "h": "16bb5316",
+     "en": "The woman says to him, “Sir, you have no bucket, and the well is deep; from where then do you have the living water?"
+    },
+    {
+     "h": "345e5711",
+     "en": "Are you greater than our father Jacob, who gave us the well and drank from it himself, as did his sons and his livestock?”"
+    },
+    {
+     "h": "d00edca2",
+     "en": "Jesus answered and said to her, “Everyone who drinks of this water will thirst again;"
+    },
+    {
+     "h": "e1cd1dca",
+     "en": "but whoever drinks of the water that I will give him will never thirst; rather the water that I will give him will become in him a spring of water welling up to eternal life.”"
+    },
+    {
+     "h": "3db1ae58",
+     "en": "The woman says to him, “Sir, give me this water, so that I may not thirst nor come here to draw.”"
+    },
+    {
+     "h": "a453d815",
+     "en": "He says to her, “Go, call your husband, and come here.”"
+    },
+    {
+     "h": "806d94f3",
+     "en": "The woman answered and said to him, “I have no husband.” Jesus says to her, “You have said rightly, ‘I have no husband’;"
+    },
+    {
+     "h": "3e68b0d9",
+     "en": "for you have had five husbands, and the one you now have is not your husband; this you have said truly.”"
+    },
+    {
+     "h": "a8f822c7",
+     "en": "The woman says to him, “Sir, I see that you are a prophet."
+    },
+    {
+     "h": "1a736002",
+     "en": "Our fathers worshiped on this mountain, and you say that in Jerusalem is the place where one must worship.”",
+     "cmp": [
+      {
+       "w": "en tōi orei toutōi",
+       "note": "「这座山」指叙加旁边的基利心山，撒玛利亚人在那里敬拜；犹太人只认耶路撒冷的圣殿。",
+       "en": "\"This mountain\" is Mount Gerizim beside Sychar, where the Samaritans worshiped; the Jews recognized only the temple in Jerusalem."
+      }
+     ]
+    },
+    {
+     "h": "c4fb4a91",
+     "en": "Jesus says to her, “Believe me, woman, an hour is coming when neither on this mountain nor in Jerusalem will you worship the Father."
+    },
+    {
+     "h": "13864e1d",
+     "en": "You worship what you do not know; we worship what we know, for salvation is from the Jews."
+    },
+    {
+     "h": "8dd163bf",
+     "en": "But an hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him."
+    },
+    {
+     "h": "e91e9dc9",
+     "en": "God is spirit, and those who worship him must worship in spirit and truth.”"
+    },
+    {
+     "h": "288622e8",
+     "en": "The woman says to him, “I know that Messiah is coming, he who is called Christ; when that one comes, he will announce all things to us.”"
+    },
+    {
+     "h": "ed15cabc",
+     "en": "Jesus says to her, “I am he, the one speaking to you.”",
+     "cmp": [
+      {
+       "w": "Egō eimi",
+       "note": "原文只有「我是」两个字，后面接「那和你说话的」。",
+       "en": "The Greek is simply \"I am,\" followed by \"the one speaking to you.\""
+      }
+     ]
+    },
+    {
+     "h": "3301bd28",
+     "en": "And at this his disciples came, and they marveled that he was speaking with a woman; yet no one said, “What do you seek?” or “Why are you speaking with her?”"
+    },
+    {
+     "h": "b413e5bf",
+     "en": "So the woman left her water jar and went away into the town and says to the people,"
+    },
+    {
+     "h": "24fda042",
+     "en": "“Come, see a man who told me everything I ever did. Can this be the Christ?”"
+    },
+    {
+     "h": "4742b7f6",
+     "en": "They went out of the town and were coming to him."
+    },
+    {
+     "h": "6e9f7318",
+     "en": "Meanwhile the disciples were urging him, saying, “Rabbi, eat.”"
+    },
+    {
+     "h": "a34a5124",
+     "en": "But he said to them, “I have food to eat that you do not know about.”"
+    },
+    {
+     "h": "a9d34330",
+     "en": "So the disciples were saying to one another, “Has anyone brought him something to eat?”"
+    },
+    {
+     "h": "db3487ac",
+     "en": "Jesus says to them, “My food is to do the will of him who sent me and to complete his work."
+    },
+    {
+     "h": "29d4f25c",
+     "en": "Do you not say, ‘There are yet four months, and then comes the harvest’? Look, I tell you, lift up your eyes and see the fields, that they are white for harvest. Already",
+     "cmp": [
+      {
+       "w": "ēdē",
+       "note": "这一节原文的最后一个词「已经」，本站的底本连到下一节（「收割的人已经在领工钱」）；和合本连在这一节（「庄稼已经熟了」）。英文照底本，把 Already 留在这一节末尾。",
+       "en": "The last Greek word of this verse, \"already,\" is joined by the edition this site follows to the next verse (\"Already the reaper is receiving wages\"); the Union Version keeps it in this verse (\"the crops are already ripe\"). The English follows the edition and leaves \"Already\" at the end of this verse."
+      }
+     ]
+    },
+    {
+     "h": "b224d464",
+     "en": "the reaper is receiving wages and gathering fruit for eternal life, so that the sower and the reaper may rejoice together."
+    },
+    {
+     "h": "9aec454f",
+     "en": "For in this the saying is true, ‘One sows and another reaps.’"
+    },
+    {
+     "h": "20a77508",
+     "en": "I sent you to reap what you have not labored for; others have labored, and you have entered into their labor.”"
+    },
+    {
+     "h": "09d7281b",
+     "en": "And many of the Samaritans from that town believed in him because of the word of the woman testifying, “He told me everything I ever did.”"
+    },
+    {
+     "h": "4a54a44e",
+     "en": "So when the Samaritans came to him, they were asking him to stay with them; and he stayed there two days."
+    },
+    {
+     "h": "e4a2e2f5",
+     "en": "And many more believed because of his word,"
+    },
+    {
+     "h": "f59f750d",
+     "en": "and they were saying to the woman, “It is no longer because of your talk that we believe, for we have heard for ourselves, and we know that this is truly the Savior of the world.”"
+    },
+    {
+     "h": "6377e35b",
+     "en": "And after the two days he went out from there into Galilee;"
+    },
+    {
+     "h": "7f95989f",
+     "en": "for Jesus himself had testified that a prophet has no honor in his own homeland."
+    },
+    {
+     "h": "6d13cec1",
+     "en": "So when he came into Galilee, the Galileans welcomed him, having seen all that he did in Jerusalem at the feast, for they too had gone to the feast."
+    },
+    {
+     "h": "125037a1",
+     "en": "So he came again to Cana of Galilee, where he had made the water wine. And there was a certain royal official whose son was ill at Capernaum."
+    },
+    {
+     "h": "045e7692",
+     "en": "When this man heard that Jesus had come out of Judea into Galilee, he went to him and was asking him to come down and heal his son, for he was about to die."
+    },
+    {
+     "h": "165d42a5",
+     "en": "So Jesus said to him, “Unless you see signs and wonders, you will by no means believe.”",
+     "cmp": [
+      {
+       "w": "ean mē idēte",
+       "note": "这句话是对那大臣说的，原文的「你们」却是复数，像是对在场的人一起说。",
+       "en": "The words are addressed to the official, yet \"you\" is plural in the Greek, as if spoken to everyone present."
+      }
+     ]
+    },
+    {
+     "h": "42c50bd6",
+     "en": "The royal official says to him, “Sir, come down before my child dies.”"
+    },
+    {
+     "h": "b9f7ed00",
+     "en": "Jesus says to him, “Go; your son lives.” The man believed the word that Jesus spoke to him, and he went on his way."
+    },
+    {
+     "h": "16828321",
+     "en": "And while he was still going down, his slaves met him, saying that his boy lives."
+    },
+    {
+     "h": "e2a380b5",
+     "en": "So he inquired of them the hour at which he began to get better; so they said to him, “Yesterday at the seventh hour the fever left him.”"
+    },
+    {
+     "h": "8e8fc0cf",
+     "en": "So the father knew that it was at that hour when Jesus said to him, “Your son lives”; and he himself believed, and his whole household."
+    },
+    {
+     "h": "504808ff",
+     "en": "This, again a second sign, Jesus did after coming out of Judea into Galilee."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · The Healing at the Pool; the Authority of the Son",
+   "no": 5,
+   "intro": "By the pool of Bethesda in Jerusalem Jesus heals a man who has been ill for thirty-eight years and tells him to pick up his mat and walk. It is the Sabbath, and the Jews turn on Jesus for it; when he also calls God his own Father, they want all the more to kill him. From verse 19 to the end Jesus answers: the Son does only what the Father does, and the Father has handed judgment to the Son; his witnesses are John, his own works, the Father and the scriptures.",
+   "verses": [
+    {
+     "h": "1ebaaa7e",
+     "en": "After these things there was a feast of the Jews, and Jesus went up to Jerusalem."
+    },
+    {
+     "h": "9024811e",
+     "en": "Now there is in Jerusalem by the Sheep Gate a pool, called in Hebrew Bethesda, which has five porticoes.",
+     "cmp": [
+      {
+       "w": "epi tēi probatikēi",
+       "note": "原文只有「靠近羊的」几个字，没有「门」字；「羊门」是耶路撒冷一座城门的名字（见旧约《尼希米记》3:1），白话和和合本都照这个理解补上。",
+       "en": "The Greek says only \"by the Sheep,\" without \"gate\"; the Sheep Gate was one of the gates of Jerusalem (Nehemiah 3:1), and both Chinese versions supply the word on that understanding."
+      }
+     ]
+    },
+    {
+     "h": "92b9c6b5",
+     "en": "In these lay a multitude of the sick, blind, lame, withered."
+    },
+    {
+     "h": "1b93795b",
+     "en": "(This verse is not in the Greek edition this site follows.)",
+     "cmp": [
+      {
+       "w": "—",
+       "note": "较晚的抄本在上一节末尾和这里多出一段话，意思是：病人在等水动，因为有天使按时下到池子里搅动池水，水动之后头一个下去的人，不管得的是什么病都会好。最早的几份抄本没有这段话，一般认为是后来有人加进来解释第 7 节「水动」的，所以底本不收。",
+       "en": "Later manuscripts add a passage at the end of the previous verse and here, to this effect: the sick were waiting for the water to move, because an angel went down into the pool from time to time and stirred the water, and whoever stepped in first after the stirring was cured of whatever disease he had. The earliest manuscripts lack it, and it is generally thought to have been added later to explain the \"stirring of the water\" in verse 7, so the edition leaves it out."
+      }
+     ]
+    },
+    {
+     "h": "abdbc79d",
+     "en": "And a certain man was there who had been in his illness thirty-eight years."
+    },
+    {
+     "h": "b180c9a0",
+     "en": "Jesus, seeing this man lying there and knowing that he had already been so a long time, says to him, “Do you want to become well?”"
+    },
+    {
+     "h": "7a608989",
+     "en": "The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred; and while I am coming, another goes down before me.”"
+    },
+    {
+     "h": "2eab0b12",
+     "en": "Jesus says to him, “Get up, take up your mat, and walk.”"
+    },
+    {
+     "h": "0bf10867",
+     "en": "And immediately the man became well, and he took up his mat and was walking. Now it was the Sabbath on that day."
+    },
+    {
+     "h": "4bae0bde",
+     "en": "So the Jews were saying to the man who had been healed, “It is the Sabbath, and it is not lawful for you to carry your mat.”"
+    },
+    {
+     "h": "f97c7de2",
+     "en": "But he answered them, “The one who made me well, that one said to me, ‘Take up your mat and walk.’”"
+    },
+    {
+     "h": "011d6c6f",
+     "en": "They asked him, “Who is the man who said to you, ‘Take it up and walk’?”"
+    },
+    {
+     "h": "a65bfb19",
+     "en": "But the one who had been healed did not know who it was, for Jesus had slipped away, there being a crowd in the place."
+    },
+    {
+     "h": "7e760d96",
+     "en": "After these things Jesus finds him in the temple and said to him, “Look, you have become well; sin no more, so that nothing worse happens to you.”"
+    },
+    {
+     "h": "6fcbbc57",
+     "en": "The man went away and reported to the Jews that it was Jesus who had made him well."
+    },
+    {
+     "h": "d566807d",
+     "en": "And because of this the Jews were persecuting Jesus, because he was doing these things on the Sabbath."
+    },
+    {
+     "h": "dc9fee6e",
+     "en": "But he answered them, “My Father is working until now, and I am working.”"
+    },
+    {
+     "h": "6a85ec0b",
+     "en": "Because of this, therefore, the Jews were seeking all the more to kill him, because he not only was breaking the Sabbath but was also calling God his own Father, making himself equal to God."
+    },
+    {
+     "h": "f0562028",
+     "en": "So Jesus answered and was saying to them, “Truly, truly, I say to you, the Son can do nothing of himself, but only what he sees the Father doing; for whatever that one does, these things the Son also does likewise."
+    },
+    {
+     "h": "1a1e7f95",
+     "en": "For the Father loves the Son and shows him all that he himself is doing, and he will show him greater works than these, so that you may marvel."
+    },
+    {
+     "h": "e042f05c",
+     "en": "For as the Father raises the dead and gives them life, so also the Son gives life to whom he wills."
+    },
+    {
+     "h": "e2de4938",
+     "en": "For neither does the Father judge anyone, but he has given all judgment to the Son,"
+    },
+    {
+     "h": "217456f0",
+     "en": "so that all may honor the Son just as they honor the Father. The one who does not honor the Son does not honor the Father who sent him."
+    },
+    {
+     "h": "3b19c40f",
+     "en": "Truly, truly, I say to you, the one who hears my word and believes him who sent me has eternal life, and does not come into judgment, but has passed out of death into life."
+    },
+    {
+     "h": "522a32f2",
+     "en": "Truly, truly, I say to you, an hour is coming, and now is, when the dead will hear the voice of the Son of God, and those who hear will live."
+    },
+    {
+     "h": "ddf8aca4",
+     "en": "For as the Father has life in himself, so also he has granted the Son to have life in himself;"
+    },
+    {
+     "h": "95001f97",
+     "en": "and he has given him authority to execute judgment, because he is the Son of Man."
+    },
+    {
+     "h": "dc7b5b85",
+     "en": "Do not marvel at this, for an hour is coming in which all who are in the tombs will hear his voice"
+    },
+    {
+     "h": "07846b72",
+     "en": "and will come out: those who have done good, to a resurrection of life, and those who have practiced evil, to a resurrection of judgment."
+    },
+    {
+     "h": "c8a96e96",
+     "en": "I can do nothing of myself; as I hear, I judge, and my judgment is just, because I do not seek my own will but the will of him who sent me."
+    },
+    {
+     "h": "7065ddbb",
+     "en": "If I testify about myself, my testimony is not true;"
+    },
+    {
+     "h": "98810cb1",
+     "en": "there is another who testifies about me, and I know that the testimony that he testifies about me is true."
+    },
+    {
+     "h": "fb02971b",
+     "en": "You have sent to John, and he has testified to the truth;"
+    },
+    {
+     "h": "9bac624c",
+     "en": "but I do not receive testimony from a human being, but I say these things so that you may be saved."
+    },
+    {
+     "h": "5e72d562",
+     "en": "That man was the lamp, burning and shining, and you were willing to rejoice for a while in his light."
+    },
+    {
+     "h": "18545069",
+     "en": "But I have testimony greater than John’s; for the works that the Father has given me to complete, the very works that I am doing, testify about me that the Father has sent me,"
+    },
+    {
+     "h": "1d3d147c",
+     "en": "and the Father who sent me, that one has testified about me. You have neither ever heard his voice nor seen his form,"
+    },
+    {
+     "h": "20e1c49d",
+     "en": "and you do not have his word abiding in you, because the one whom he sent, this one you do not believe."
+    },
+    {
+     "h": "8c92fca6",
+     "en": "You search the scriptures, because you think that in them you have eternal life; and it is they that testify about me;",
+     "cmp": [
+      {
+       "w": "Eraunate tas graphas",
+       "note": "这个动词可以读成陈述（「你们查考经书」），也可以读成命令（「你们去查考经书」）。白话和英文取前一种；和合本的「你们查考圣经」两种都说得通。",
+       "en": "The verb can be read as a statement (\"You search the scriptures\") or as a command (\"Search the scriptures\"). The plain Chinese and the English take the first; the Union Version’s wording allows either."
+      }
+     ]
+    },
+    {
+     "h": "c517321e",
+     "en": "yet you are not willing to come to me so that you may have life."
+    },
+    {
+     "h": "5de11a0f",
+     "en": "I do not receive glory from human beings,"
+    },
+    {
+     "h": "cf434840",
+     "en": "but I know you, that you do not have the love of God in yourselves."
+    },
+    {
+     "h": "458e5195",
+     "en": "I have come in my Father’s name, and you do not receive me; if another comes in his own name, that one you will receive."
+    },
+    {
+     "h": "d178c5b2",
+     "en": "How can you believe, when you receive glory from one another and do not seek the glory that is from the only God?"
+    },
+    {
+     "h": "6b4d299a",
+     "en": "Do not think that I will accuse you before the Father; there is one who accuses you: Moses, in whom you have set your hope."
+    },
+    {
+     "h": "7f039fed",
+     "en": "For if you believed Moses, you would believe me, for that one wrote about me."
+    },
+    {
+     "h": "1a7ae735",
+     "en": "But if you do not believe his writings, how will you believe my words?”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · Five Loaves and Two Fish; the Bread of Life",
+   "no": 6,
+   "intro": "On the far side of the Sea of Galilee Jesus feeds five thousand men with five barley loaves and two fish; the people want to make him king, and he withdraws to the mountain. That night he walks on the sea to his disciples’ boat. The next day the crowd follows him to Capernaum, where he says he is the bread of life come down from heaven and speaks of eating his flesh and drinking his blood. Many of his disciples cannot accept this and leave; Peter says the twelve will stay.",
+   "verses": [
+    {
+     "h": "9255aaf3",
+     "en": "After these things Jesus went away to the other side of the Sea of Galilee, the Sea of Tiberias."
+    },
+    {
+     "h": "cda06cb9",
+     "en": "And a large crowd was following him, because they were seeing the signs that he was doing on those who were sick."
+    },
+    {
+     "h": "97f9a2fc",
+     "en": "And Jesus went up on the mountain, and there he sat down with his disciples."
+    },
+    {
+     "h": "91fd5a20",
+     "en": "Now the Passover, the feast of the Jews, was near."
+    },
+    {
+     "h": "9bf5183e",
+     "en": "So Jesus, lifting up his eyes and seeing that a large crowd is coming toward him, says to Philip, “Where are we to buy bread so that these people may eat?”"
+    },
+    {
+     "h": "8248a041",
+     "en": "But he was saying this to test him, for he himself knew what he was about to do."
+    },
+    {
+     "h": "26b2b6e3",
+     "en": "Philip answered him, “Two hundred denarii worth of bread is not enough for them, for each to get a little.”"
+    },
+    {
+     "h": "30572e61",
+     "en": "One of his disciples, Andrew, the brother of Simon Peter, says to him,"
+    },
+    {
+     "h": "b649c804",
+     "en": "“There is a boy here who has five barley loaves and two fish; but what are these for so many?”"
+    },
+    {
+     "h": "4610b042",
+     "en": "Jesus said, “Have the people sit down.” Now there was much grass in the place. So the men sat down, about five thousand in number."
+    },
+    {
+     "h": "72ee2203",
+     "en": "So Jesus took the loaves, and having given thanks he distributed them to those who were sitting; likewise also of the fish, as much as they wanted."
+    },
+    {
+     "h": "94bb4130",
+     "en": "And when they were filled, he says to his disciples, “Gather up the leftover pieces, so that nothing may be lost.”"
+    },
+    {
+     "h": "a379995f",
+     "en": "So they gathered them up, and filled twelve baskets with pieces from the five barley loaves that were left over by those who had eaten."
+    },
+    {
+     "h": "6bc1c97d",
+     "en": "So the people, seeing the sign that he had done, were saying, “This is truly the prophet who is coming into the world.”",
+     "cmp": [
+      {
+       "w": "ho prophētēs",
+       "note": "原文是带冠词的「那位先知」：旧约《申命记》18:15 记着摩西说，上帝将来要兴起一位像他的先知，当时的人在等这一位。",
+       "en": "The Greek has the article, \"the prophet\": in Deuteronomy 18:15 Moses says God will one day raise up a prophet like him, and people of the time were waiting for that figure."
+      }
+     ]
+    },
+    {
+     "h": "39dcf75c",
+     "en": "So Jesus, knowing that they were about to come and seize him to make him king, withdrew again to the mountain by himself alone."
+    },
+    {
+     "h": "8e8787b1",
+     "en": "And when evening came, his disciples went down to the sea,"
+    },
+    {
+     "h": "25752d6a",
+     "en": "and getting into a boat they were going across the sea to Capernaum. And it had already become dark, and Jesus had not yet come to them,"
+    },
+    {
+     "h": "10f1d70a",
+     "en": "and the sea was being stirred up because a strong wind was blowing."
+    },
+    {
+     "h": "20a8f5d1",
+     "en": "So when they had rowed about twenty-five or thirty stadia, they see Jesus walking on the sea and coming near the boat, and they were afraid."
+    },
+    {
+     "h": "17194887",
+     "en": "But he says to them, “It is I; do not be afraid.”",
+     "cmp": [
+      {
+       "w": "Egō eimi",
+       "note": "字面是「我是」两个字，平常的意思就是「是我」。《马可福音》6:50 同一件事里也是这两个字。",
+       "en": "Literally the two words \"I am,\" which in ordinary use simply mean \"It is I.\" Mark 6:50 has the same two words in its account of this event."
+      }
+     ]
+    },
+    {
+     "h": "5877b5f9",
+     "en": "So they were willing to take him into the boat, and immediately the boat was at the land to which they were going."
+    },
+    {
+     "h": "58d47dc9",
+     "en": "On the next day the crowd that was standing on the other side of the sea saw that there had been no other small boat there except one, and that Jesus had not entered the boat with his disciples, but his disciples had gone away alone."
+    },
+    {
+     "h": "04f99b54",
+     "en": "But small boats came from Tiberias near the place where they had eaten the bread after the Lord had given thanks."
+    },
+    {
+     "h": "78efe09f",
+     "en": "So when the crowd saw that Jesus was not there, nor his disciples, they themselves got into the small boats and came to Capernaum, seeking Jesus."
+    },
+    {
+     "h": "be120f2d",
+     "en": "And finding him on the other side of the sea, they said to him, “Rabbi, when did you come here?”"
+    },
+    {
+     "h": "67bea563",
+     "en": "Jesus answered them and said, “Truly, truly, I say to you, you seek me not because you saw signs, but because you ate of the loaves and were filled."
+    },
+    {
+     "h": "624fa329",
+     "en": "Do not work for the food that perishes, but for the food that remains to eternal life, which the Son of Man will give you; for on him the Father, God, has set his seal.”"
+    },
+    {
+     "h": "163e09b2",
+     "en": "So they said to him, “What should we do, that we may work the works of God?”"
+    },
+    {
+     "h": "d7597b0f",
+     "en": "Jesus answered and said to them, “This is the work of God, that you believe in him whom he has sent.”"
+    },
+    {
+     "h": "f558e3cc",
+     "en": "So they said to him, “Then what sign do you do, that we may see and believe you? What do you work?"
+    },
+    {
+     "h": "24be8cec",
+     "en": "Our fathers ate the manna in the wilderness, as it is written, ‘He gave them bread from heaven to eat.’”",
+     "cmp": [
+      {
+       "w": "Arton ek tou ouranou",
+       "note": "吗哪的事见旧约《出埃及记》第 16 章；这句引文近于《诗篇》78:24。",
+       "en": "The manna story is in Exodus 16; the words quoted are close to Psalm 78:24."
+      }
+     ]
+    },
+    {
+     "h": "1f230b0c",
+     "en": "So Jesus said to them, “Truly, truly, I say to you, it is not Moses who has given you the bread from heaven, but my Father gives you the true bread from heaven."
+    },
+    {
+     "h": "64d63257",
+     "en": "For the bread of God is that which comes down from heaven and gives life to the world.”"
+    },
+    {
+     "h": "d86aef1c",
+     "en": "So they said to him, “Lord, give us this bread always.”"
+    },
+    {
+     "h": "29608adf",
+     "en": "Jesus said to them, “I am the bread of life; the one who comes to me will never hunger, and the one who believes in me will never thirst.",
+     "cmp": [
+      {
+       "w": "ho artos tēs zōēs",
+       "note": "这里的「粮」和前面那五个「饼」在原文是同一个词 artos。和合本前面译「饼」，从第 31 节起译「粮」，白话跟着这样分；英文一律是 bread / loaves。",
+       "en": "The \"bread\" here and the five \"loaves\" earlier are the same Greek word, artos. The Union Version writes 饼 (bǐng, \"flat loaf\") earlier and 粮 (liáng, \"food, grain\") from verse 31 on, and the plain Chinese follows that split; the English uses \"bread\" and \"loaves.\""
+      }
+     ]
+    },
+    {
+     "h": "64e502f4",
+     "en": "But I said to you that you have seen me and yet do not believe."
+    },
+    {
+     "h": "5cd57b63",
+     "en": "All that the Father gives me will come to me, and the one who comes to me I will never cast out,"
+    },
+    {
+     "h": "5d93a349",
+     "en": "for I have come down from heaven not to do my own will but the will of him who sent me."
+    },
+    {
+     "h": "b61e571c",
+     "en": "And this is the will of him who sent me, that of all that he has given me I should lose nothing, but should raise it up on the last day."
+    },
+    {
+     "h": "8b006a10",
+     "en": "For this is the will of my Father, that everyone who sees the Son and believes in him should have eternal life, and I will raise him up on the last day.”"
+    },
+    {
+     "h": "91106937",
+     "en": "So the Jews were grumbling about him because he said, “I am the bread that came down from heaven,”"
+    },
+    {
+     "h": "390f42bd",
+     "en": "and they were saying, “Is this not Jesus, the son of Joseph, whose father and mother we know? How does he now say, ‘I have come down from heaven’?”"
+    },
+    {
+     "h": "3bc8d61d",
+     "en": "Jesus answered and said to them, “Do not grumble among yourselves."
+    },
+    {
+     "h": "1029d6b4",
+     "en": "No one can come to me unless the Father who sent me draws him, and I will raise him up on the last day."
+    },
+    {
+     "h": "2d09d3aa",
+     "en": "It is written in the prophets, ‘And they will all be taught by God.’ Everyone who has heard from the Father and learned comes to me.",
+     "cmp": [
+      {
+       "w": "en tois prophētais",
+       "note": "引自旧约《以赛亚书》54:13。",
+       "en": "Quoted from Isaiah 54:13."
+      }
+     ]
+    },
+    {
+     "h": "a7b65dba",
+     "en": "Not that anyone has seen the Father, except the one who is from God; he has seen the Father."
+    },
+    {
+     "h": "a10ad307",
+     "en": "Truly, truly, I say to you, the one who believes has eternal life."
+    },
+    {
+     "h": "ad8ad748",
+     "en": "I am the bread of life."
+    },
+    {
+     "h": "15642ea8",
+     "en": "Your fathers ate the manna in the wilderness, and they died."
+    },
+    {
+     "h": "d0cb48cb",
+     "en": "This is the bread that comes down from heaven, so that one may eat of it and not die."
+    },
+    {
+     "h": "19ff8523",
+     "en": "I am the living bread that came down from heaven; if anyone eats of this bread he will live forever, and the bread that I will give is my flesh, for the life of the world.”"
+    },
+    {
+     "h": "70fbef67",
+     "en": "So the Jews were quarreling with one another, saying, “How can this man give us his flesh to eat?”"
+    },
+    {
+     "h": "1b3caba1",
+     "en": "So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in yourselves."
+    },
+    {
+     "h": "c9642b09",
+     "en": "The one who feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day."
+    },
+    {
+     "h": "eccbc907",
+     "en": "For my flesh is true food, and my blood is true drink."
+    },
+    {
+     "h": "9b219c6c",
+     "en": "The one who feeds on my flesh and drinks my blood remains in me, and I in him."
+    },
+    {
+     "h": "aa34615c",
+     "en": "Just as the living Father sent me, and I live because of the Father, so the one who feeds on me, he also will live because of me."
+    },
+    {
+     "h": "f350c265",
+     "en": "This is the bread that came down from heaven, not as the fathers ate and died; the one who feeds on this bread will live forever.”"
+    },
+    {
+     "h": "485a7719",
+     "en": "He said these things in a synagogue, as he was teaching in Capernaum."
+    },
+    {
+     "h": "d92075c6",
+     "en": "So many of his disciples, when they heard it, said, “This word is hard; who can listen to it?”"
+    },
+    {
+     "h": "22c398b7",
+     "en": "But Jesus, knowing in himself that his disciples were grumbling about this, said to them, “Does this cause you to stumble?"
+    },
+    {
+     "h": "8387487a",
+     "en": "Then what if you were to see the Son of Man ascending to where he was before?"
+    },
+    {
+     "h": "06cb491e",
+     "en": "It is the Spirit that gives life; the flesh is of no help at all. The words that I have spoken to you are spirit and are life."
+    },
+    {
+     "h": "174dd915",
+     "en": "But there are some of you who do not believe.” For Jesus knew from the beginning who those were who did not believe, and who it was who would hand him over."
+    },
+    {
+     "h": "689b3d37",
+     "en": "And he was saying, “This is why I have told you that no one can come to me unless it has been granted to him by the Father.”"
+    },
+    {
+     "h": "045249ec",
+     "en": "From this time many of his disciples went back and no longer walked with him."
+    },
+    {
+     "h": "ab05cbf1",
+     "en": "So Jesus said to the twelve, “Do you also want to go away?”"
+    },
+    {
+     "h": "e827ce40",
+     "en": "Simon Peter answered him, “Lord, to whom shall we go? You have words of eternal life,"
+    },
+    {
+     "h": "0a736edd",
+     "en": "and we have believed and have come to know that you are the Holy One of God.”"
+    },
+    {
+     "h": "351ee345",
+     "en": "Jesus answered them, “Did I not choose you, the twelve? And one of you is a devil.”"
+    },
+    {
+     "h": "86d9a6b5",
+     "en": "Now he was speaking of Judas, son of Simon Iscariot, for he, one of the twelve, was going to hand him over."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · At the Feast of Booths; the Crowd Divided",
+   "no": 7,
+   "intro": "The Feast of Booths is near. Jesus’s brothers urge him to go to Judea and show himself; he says he is not going, then goes up quietly. Halfway through the feast he teaches in the temple and says his teaching comes from the one who sent him. The crowd is split over whether he is the Christ; the chief priests and Pharisees send officers to seize him, and the officers come back without him. The passage that begins with the last verse and runs to 8:11 is missing from the earliest manuscripts.",
+   "verses": [
+    {
+     "h": "a2dc38f5",
+     "en": "And after these things Jesus was walking about in Galilee, for he was not willing to walk about in Judea, because the Jews were seeking to kill him."
+    },
+    {
+     "h": "7fbccbee",
+     "en": "Now the feast of the Jews, the Feast of Booths, was near."
+    },
+    {
+     "h": "4e891f84",
+     "en": "So his brothers said to him, “Move on from here and go into Judea, so that your disciples also may see your works that you are doing."
+    },
+    {
+     "h": "5d4c5391",
+     "en": "For no one does anything in secret while he himself seeks to be in the open. If you do these things, show yourself to the world.”"
+    },
+    {
+     "h": "b8dfb0fe",
+     "en": "For not even his brothers were believing in him."
+    },
+    {
+     "h": "72e0d137",
+     "en": "So Jesus says to them, “My time is not yet here, but your time is always ready."
+    },
+    {
+     "h": "422e8e73",
+     "en": "The world cannot hate you, but it hates me, because I testify about it that its works are evil."
+    },
+    {
+     "h": "1e3d8438",
+     "en": "You go up to the feast; I am not going up to this feast, because my time has not yet been fulfilled.”",
+     "cmp": [
+      {
+       "w": "egō ouk anabainō",
+       "note": "本站的底本是「我不上去」；不少抄本是「我还不上去」（oupō），和合本的「现在不上去」跟的是后一种。第 10 节说他后来还是去了。",
+       "en": "The edition this site follows reads \"I am not going up\"; many manuscripts read \"I am not yet going up\" (oupō), which the Union Version follows with 现在不上去 (xiànzài bú shàngqù, \"not going up now\"). Verse 10 says he did go later."
+      }
+     ]
+    },
+    {
+     "h": "e3dd2c05",
+     "en": "And having said these things, he himself remained in Galilee."
+    },
+    {
+     "h": "ddc063bc",
+     "en": "But when his brothers had gone up to the feast, then he also went up, not openly but as it were in secret."
+    },
+    {
+     "h": "547c2726",
+     "en": "So the Jews were seeking him at the feast and saying, “Where is that man?”"
+    },
+    {
+     "h": "c6318ff4",
+     "en": "And there was much murmuring about him among the crowds; some were saying, “He is a good man,” but others were saying, “No, but he leads the crowd astray.”"
+    },
+    {
+     "h": "ceb1dbc8",
+     "en": "Yet no one was speaking openly about him, for fear of the Jews."
+    },
+    {
+     "h": "82754ad9",
+     "en": "Now when the feast was already half over, Jesus went up into the temple and was teaching."
+    },
+    {
+     "h": "80c57663",
+     "en": "So the Jews were marveling, saying, “How does this man know letters, having never studied?”"
+    },
+    {
+     "h": "5c6ec0fc",
+     "en": "So Jesus answered them and said, “My teaching is not mine, but his who sent me."
+    },
+    {
+     "h": "a8e14d5a",
+     "en": "If anyone wills to do his will, he will know about the teaching, whether it is from God or whether I speak from myself."
+    },
+    {
+     "h": "d281c755",
+     "en": "The one who speaks from himself seeks his own glory; but the one who seeks the glory of him who sent him, this one is true, and there is no unrighteousness in him."
+    },
+    {
+     "h": "29133b09",
+     "en": "Has not Moses given you the law? And none of you does the law. Why are you seeking to kill me?”"
+    },
+    {
+     "h": "dba67105",
+     "en": "The crowd answered, “You have a demon. Who is seeking to kill you?”"
+    },
+    {
+     "h": "889d34b3",
+     "en": "Jesus answered and said to them, “I did one work, and you all marvel.",
+     "cmp": [
+      {
+       "w": "Hen ergon",
+       "note": "指第 5 章的事：他在安息日治好了一个病了三十八年的人。",
+       "en": "This refers to chapter 5, where he healed on the Sabbath a man who had been ill for thirty-eight years."
+      }
+     ]
+    },
+    {
+     "h": "81afba2c",
+     "en": "Because of this Moses has given you circumcision—not that it is from Moses, but from the fathers—and on the Sabbath you circumcise a man."
+    },
+    {
+     "h": "f8da06a4",
+     "en": "If a man receives circumcision on the Sabbath so that the law of Moses may not be broken, are you angry with me because I made a whole man well on the Sabbath?"
+    },
+    {
+     "h": "0c13876e",
+     "en": "Do not judge by appearance, but judge with right judgment.”"
+    },
+    {
+     "h": "12c0ea96",
+     "en": "So some of the people of Jerusalem were saying, “Is this not the man whom they are seeking to kill?"
+    },
+    {
+     "h": "246ba3a2",
+     "en": "And look, he is speaking openly, and they say nothing to him. Can it be that the rulers have truly come to know that this is the Christ?"
+    },
+    {
+     "h": "bdca2e4b",
+     "en": "But we know where this man is from; but when the Christ comes, no one knows where he is from.”"
+    },
+    {
+     "h": "a13e58bb",
+     "en": "So Jesus cried out in the temple, teaching and saying, “You both know me and know where I am from. And I have not come of myself, but he who sent me is true, whom you do not know."
+    },
+    {
+     "h": "5195420c",
+     "en": "I know him, because I am from him, and he sent me.”"
+    },
+    {
+     "h": "054baea2",
+     "en": "So they were seeking to seize him, and no one laid a hand on him, because his hour had not yet come."
+    },
+    {
+     "h": "3b561d49",
+     "en": "But many of the crowd believed in him, and they were saying, “When the Christ comes, will he do more signs than this man has done?”"
+    },
+    {
+     "h": "936e489a",
+     "en": "The Pharisees heard the crowd murmuring these things about him, and the chief priests and the Pharisees sent officers to seize him."
+    },
+    {
+     "h": "3b1594ec",
+     "en": "So Jesus said, “I am with you a little while longer, and then I go to him who sent me."
+    },
+    {
+     "h": "1f7c9770",
+     "en": "You will seek me and will not find me, and where I am you cannot come.”"
+    },
+    {
+     "h": "180eb294",
+     "en": "So the Jews said to one another, “Where is this man about to go, that we will not find him? Is he about to go to the Dispersion among the Greeks and teach the Greeks?"
+    },
+    {
+     "h": "71117903",
+     "en": "What is this word that he said, ‘You will seek me and will not find me, and where I am you cannot come’?”"
+    },
+    {
+     "h": "54486ce3",
+     "en": "Now on the last day, the great day of the feast, Jesus stood and cried out, saying, “If anyone thirsts, let him come to me and drink."
+    },
+    {
+     "h": "712abb6d",
+     "en": "The one who believes in me, as the scripture said, out of his belly will flow rivers of living water.”",
+     "cmp": [
+      {
+       "w": "kathōs eipen hē graphē",
+       "note": "旧约里找不到和这句一字不差的话，引的是哪一处，历来说法不一。这两节的断句也有另一种读法：「人要是渴了，就到我这里来；信我的人，让他喝吧」。",
+       "en": "No Old Testament passage matches these words exactly, and which one is meant has long been debated. The two verses can also be punctuated differently: \"If anyone thirsts, let him come to me; and let the one who believes in me drink.\""
+      }
+     ]
+    },
+    {
+     "h": "03f70e58",
+     "en": "Now he said this about the Spirit, whom those who believed in him were about to receive; for the Spirit was not yet, because Jesus was not yet glorified."
+    },
+    {
+     "h": "1d18f449",
+     "en": "So some of the crowd, when they heard these words, were saying, “This is truly the prophet.”"
+    },
+    {
+     "h": "e96c8986",
+     "en": "Others were saying, “This is the Christ.” But some were saying, “Does the Christ come out of Galilee?"
+    },
+    {
+     "h": "0b93afd0",
+     "en": "Has not the scripture said that the Christ comes from the seed of David, and from Bethlehem, the village where David was?”"
+    },
+    {
+     "h": "d0ffb6b9",
+     "en": "So a division arose in the crowd because of him."
+    },
+    {
+     "h": "ec0bc746",
+     "en": "And some of them wanted to seize him, but no one laid hands on him."
+    },
+    {
+     "h": "58611bd8",
+     "en": "So the officers came to the chief priests and Pharisees, and those said to them, “Why did you not bring him?”"
+    },
+    {
+     "h": "1335ea0a",
+     "en": "The officers answered, “Never has a man spoken like this.”"
+    },
+    {
+     "h": "91de4ff9",
+     "en": "So the Pharisees answered them, “Have you also been led astray?"
+    },
+    {
+     "h": "b68d3822",
+     "en": "Has any of the rulers believed in him, or of the Pharisees?"
+    },
+    {
+     "h": "8ca3d9ab",
+     "en": "But this crowd that does not know the law is accursed.”"
+    },
+    {
+     "h": "4cb43bf2",
+     "en": "Nicodemus, who had come to him before, being one of them, says to them,"
+    },
+    {
+     "h": "c26955b7",
+     "en": "“Does our law judge a man unless it first hears from him and knows what he is doing?”"
+    },
+    {
+     "h": "a981d87e",
+     "en": "They answered and said to him, “Are you also from Galilee? Search and see that no prophet arises out of Galilee.”"
+    },
+    {
+     "h": "191aaf45",
+     "en": "⟦And each one went to his own house,",
+     "cmp": [
+      {
+       "w": "kai eporeuthē hekastos",
+       "note": "从这一节到 8:11（通奸被捉的女人）这一段，底本放在双方括号 ⟦ ⟧ 里：最早的几份抄本没有这一段，有的抄本把它放在这卷书的别处，或者放在《路加福音》里，一般认为是后来才加进这卷书的。和合本有这一段，没有加记号。",
+       "en": "From this verse to 8:11 (the woman caught in adultery) the edition prints the passage in double square brackets ⟦ ⟧: the earliest manuscripts lack it, some manuscripts place it elsewhere in this Gospel or in Luke, and it is generally thought to have been added to the book later. The Union Version includes it without any mark."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · The Woman Caught in Adultery; the Light of the World",
+   "no": 8,
+   "intro": "The first eleven verses, missing from the earliest manuscripts, tell how the scribes and Pharisees bring a woman caught in adultery; Jesus says that whoever is without sin should throw the first stone, and they all leave. Then Jesus says he is the light of the world, and a long exchange follows with the Pharisees and the Jews: where he comes from, who their father is, whether he is greater than Abraham. At the end they pick up stones to throw at him.",
+   "verses": [
+    {
+     "h": "13999fbd",
+     "en": "but Jesus went to the Mount of Olives."
+    },
+    {
+     "h": "62ca55be",
+     "en": "And at dawn he came again into the temple, and all the people were coming to him, and sitting down he was teaching them."
+    },
+    {
+     "h": "0b84c956",
+     "en": "And the scribes and the Pharisees bring to him a woman caught in adultery, and standing her in the middle,"
+    },
+    {
+     "h": "b80778ad",
+     "en": "they say to him, testing him, “Teacher, this woman was caught in the very act of committing adultery."
+    },
+    {
+     "h": "f78a7e4e",
+     "en": "Now in the law Moses commanded us that such women be stoned. So what do you say?”"
+    },
+    {
+     "h": "083db450",
+     "en": "Now they were saying this to test him, so that they might have grounds to accuse him. But Jesus, stooping down, was writing on the ground with his finger, taking no notice."
+    },
+    {
+     "h": "2bdb893d",
+     "en": "But as they kept on asking him, he straightened up and said to them, “Let the one among you who is without sin be the first to throw the stone at her.”"
+    },
+    {
+     "h": "6098a23a",
+     "en": "And again stooping down he was writing on the ground."
+    },
+    {
+     "h": "b1c01d5e",
+     "en": "But they, when they heard it and were convicted by their conscience, were going out one by one, beginning with the older ones; and Jesus was left alone, with the woman who was in the middle."
+    },
+    {
+     "h": "e108ab56",
+     "en": "And Jesus, straightening up and seeing no one but the woman, said to her, “Where are those accusers of yours? Has no one condemned you?”"
+    },
+    {
+     "h": "d1aac59b",
+     "en": "And she said, “No one, Lord.” And Jesus said, “Neither do I condemn you; go, and sin no more.”⟧",
+     "cmp": [
+      {
+       "w": "mēketi hamartane",
+       "note": "从 7:53 开始的双方括号 ⟦ ⟧ 到这一节为止：这十二节最早的抄本没有。",
+       "en": "The double square brackets ⟦ ⟧ that opened at 7:53 close here: these twelve verses are missing from the earliest manuscripts."
+      }
+     ]
+    },
+    {
+     "h": "d6465cf5",
+     "en": "So again Jesus spoke to them, saying, “I am the light of the world; the one who follows me will never walk in the darkness, but will have the light of life.”"
+    },
+    {
+     "h": "187f895a",
+     "en": "So the Pharisees said to him, “You are testifying about yourself; your testimony is not true.”"
+    },
+    {
+     "h": "e9d1e0f1",
+     "en": "Jesus answered and said to them, “Even if I testify about myself, my testimony is true, because I know where I came from and where I am going; but you do not know where I come from or where I am going."
+    },
+    {
+     "h": "f7e02548",
+     "en": "You judge according to the flesh; I judge no one."
+    },
+    {
+     "h": "cdba5db2",
+     "en": "And yet even if I do judge, my judgment is true, because I am not alone, but I and the Father who sent me."
+    },
+    {
+     "h": "9e0f91ce",
+     "en": "And in your law too it is written that the testimony of two men is true.",
+     "cmp": [
+      {
+       "w": "dyo anthrōpōn hē martyria",
+       "note": "见旧约《申命记》19:15：定案要凭两三个证人的口。",
+       "en": "See Deuteronomy 19:15: a matter is to be settled on the word of two or three witnesses."
+      }
+     ]
+    },
+    {
+     "h": "27fb8043",
+     "en": "I am the one who testifies about myself, and the Father who sent me testifies about me.”"
+    },
+    {
+     "h": "2a849d05",
+     "en": "So they were saying to him, “Where is your Father?” Jesus answered, “You know neither me nor my Father; if you knew me, you would know my Father also.”"
+    },
+    {
+     "h": "b60747c0",
+     "en": "These words he spoke in the treasury, as he was teaching in the temple; and no one seized him, because his hour had not yet come."
+    },
+    {
+     "h": "779f5074",
+     "en": "So he said to them again, “I am going away, and you will seek me, and you will die in your sin; where I am going, you cannot come.”"
+    },
+    {
+     "h": "72afbc66",
+     "en": "So the Jews were saying, “Will he kill himself, since he says, ‘Where I am going, you cannot come’?”"
+    },
+    {
+     "h": "798c0760",
+     "en": "And he was saying to them, “You are from below; I am from above. You are of this world; I am not of this world."
+    },
+    {
+     "h": "9867110b",
+     "en": "So I told you that you will die in your sins; for unless you believe that I am, you will die in your sins.”"
+    },
+    {
+     "h": "901c72f7",
+     "en": "So they were saying to him, “Who are you?” Jesus said to them, “Why do I speak to you at all?",
+     "cmp": [
+      {
+       "w": "Tēn archēn ho ti kai lalō hymin",
+       "note": "这句原文很难懂，历来有几种读法。本站的底本标成问句，意思近于「我何必还对你们说话呢」；和合本读成陈述句：「就是我从起初所告诉你们的」。",
+       "en": "The Greek here is very hard and has been read in several ways. The edition this site follows punctuates it as a question, roughly \"Why do I speak to you at all?\"; the Union Version reads it as a statement: 就是我从起初所告诉你们的 (jiù shì wǒ cóng qǐchū suǒ gàosu nǐmen de, \"just what I have told you from the beginning\")."
+      }
+     ]
+    },
+    {
+     "h": "fde680cb",
+     "en": "I have many things to say and to judge about you; but he who sent me is true, and what I heard from him, these things I speak to the world.”"
+    },
+    {
+     "h": "18c78ebc",
+     "en": "They did not understand that he was speaking to them of the Father."
+    },
+    {
+     "h": "c73a8ac2",
+     "en": "So Jesus said, “When you have lifted up the Son of Man, then you will know that I am, and that I do nothing of myself, but as the Father taught me, I speak these things."
+    },
+    {
+     "h": "f2798a5c",
+     "en": "And he who sent me is with me; he has not left me alone, because I always do the things that please him.”"
+    },
+    {
+     "h": "f8224904",
+     "en": "As he was saying these things, many believed in him."
+    },
+    {
+     "h": "0337d8fd",
+     "en": "So Jesus was saying to the Jews who had believed him, “If you remain in my word, you are truly my disciples,"
+    },
+    {
+     "h": "4f2dd90d",
+     "en": "and you will know the truth, and the truth will set you free.”"
+    },
+    {
+     "h": "3e886e10",
+     "en": "They answered him, “We are the seed of Abraham and have never been enslaved to anyone; how do you say, ‘You will become free’?”"
+    },
+    {
+     "h": "d309cc16",
+     "en": "Jesus answered them, “Truly, truly, I say to you, everyone who commits sin is a slave of sin."
+    },
+    {
+     "h": "17493fe1",
+     "en": "Now the slave does not remain in the house forever; the son remains forever."
+    },
+    {
+     "h": "aee37c4d",
+     "en": "So if the Son sets you free, you will be free indeed."
+    },
+    {
+     "h": "19d1a0bc",
+     "en": "I know that you are the seed of Abraham; but you are seeking to kill me, because my word finds no place in you."
+    },
+    {
+     "h": "80422279",
+     "en": "I speak what I have seen with the Father; and you, then, do what you heard from the father.”",
+     "cmp": [
+      {
+       "w": "para tou patros",
+       "note": "原文两处都只有「父」，没有「我的」「你们的」。后半句的「父」指谁，动词是「你们做」还是「你们要做」，都有不同的读法。和合本写成「我父」「你们的父」。",
+       "en": "In the Greek both halves have simply \"the father,\" with no \"my\" or \"your.\" Whom the second \"father\" means, and whether the verb is \"you do\" or the command \"do,\" are both read in different ways. The Union Version writes 我父 (wǒ fù, \"my Father\") and 你们的父 (nǐmen de fù, \"your father\")."
+      }
+     ]
+    },
+    {
+     "h": "be32b663",
+     "en": "They answered and said to him, “Our father is Abraham.” Jesus says to them, “If you are children of Abraham, you would be doing the works of Abraham;"
+    },
+    {
+     "h": "11a71d83",
+     "en": "but now you are seeking to kill me, a man who has told you the truth that I heard from God; this Abraham did not do."
+    },
+    {
+     "h": "02df613c",
+     "en": "You are doing the works of your father.” They said to him, “We were not born of fornication; we have one Father, God.”"
+    },
+    {
+     "h": "2b06116c",
+     "en": "Jesus said to them, “If God were your Father, you would love me, for I came forth from God and am here; for I have not come of myself, but he sent me."
+    },
+    {
+     "h": "17f92825",
+     "en": "Why do you not understand my speech? Because you cannot hear my word."
+    },
+    {
+     "h": "56a2349c",
+     "en": "You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks the lie, he speaks from his own, for he is a liar and the father of it."
+    },
+    {
+     "h": "aeb1e7c8",
+     "en": "But because I speak the truth, you do not believe me."
+    },
+    {
+     "h": "49667923",
+     "en": "Which of you convicts me of sin? If I speak truth, why do you not believe me?"
+    },
+    {
+     "h": "ed19ddf9",
+     "en": "The one who is of God hears the words of God; this is why you do not hear, because you are not of God.”"
+    },
+    {
+     "h": "f51ecdec",
+     "en": "The Jews answered and said to him, “Do we not say rightly that you are a Samaritan and have a demon?”"
+    },
+    {
+     "h": "66f8eef6",
+     "en": "Jesus answered, “I do not have a demon; but I honor my Father, and you dishonor me."
+    },
+    {
+     "h": "10133a27",
+     "en": "But I do not seek my glory; there is one who seeks and judges."
+    },
+    {
+     "h": "6dd20661",
+     "en": "Truly, truly, I say to you, if anyone keeps my word, he will never see death.”"
+    },
+    {
+     "h": "a5bf1119",
+     "en": "The Jews said to him, “Now we know that you have a demon. Abraham died, and the prophets, and you say, ‘If anyone keeps my word, he will never taste death.’"
+    },
+    {
+     "h": "cc79cff5",
+     "en": "Are you greater than our father Abraham, who died? And the prophets died. Whom do you make yourself out to be?”"
+    },
+    {
+     "h": "a008c86e",
+     "en": "Jesus answered, “If I glorify myself, my glory is nothing; it is my Father who glorifies me, of whom you say, ‘He is our God.’"
+    },
+    {
+     "h": "77992226",
+     "en": "And you have not come to know him, but I know him. And if I say that I do not know him, I will be a liar like you; but I do know him, and I keep his word."
+    },
+    {
+     "h": "22440f90",
+     "en": "Your father Abraham rejoiced that he would see my day, and he saw it and was glad.”"
+    },
+    {
+     "h": "300ef5ca",
+     "en": "So the Jews said to him, “You are not yet fifty years old, and have you seen Abraham?”"
+    },
+    {
+     "h": "14c0c3ca",
+     "en": "Jesus said to them, “Truly, truly, I say to you, before Abraham came to be, I am.”",
+     "cmp": [
+      {
+       "w": "egō eimi",
+       "note": "原文末尾只有「我是」两个字，用的是现在时；和合本译成「就有了我」。同样的两个字见第 24、28 节。",
+       "en": "The Greek ends with just two words, \"I am,\" in the present tense; the Union Version renders them 就有了我 (jiù yǒu le wǒ, \"I already was\"). The same two words occur in verses 24 and 28."
+      }
+     ]
+    },
+    {
+     "h": "42e7fbf0",
+     "en": "So they picked up stones to throw at him; but Jesus hid himself and went out of the temple."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · The Man Born Blind",
+   "no": 9,
+   "intro": "Jesus makes mud with saliva, puts it on the eyes of a man blind from birth, and sends him to wash in the pool of Siloam; the man comes back seeing. It is a Sabbath. Neighbors and then the Pharisees question him in turn and call in his parents; he keeps saying only that he was blind and now sees, and they throw him out. Jesus finds him, and he believes; Jesus says he came so that those who do not see may see.",
+   "verses": [
+    {
+     "h": "5cf6889e",
+     "en": "And as he passed by, he saw a man blind from birth."
+    },
+    {
+     "h": "d586afb1",
+     "en": "And his disciples asked him, saying, “Rabbi, who sinned, this man or his parents, that he was born blind?”"
+    },
+    {
+     "h": "874da4b4",
+     "en": "Jesus answered, “Neither this man sinned nor his parents, but it was so that the works of God might be shown in him."
+    },
+    {
+     "h": "b213db65",
+     "en": "We must work the works of him who sent me while it is day; night is coming, when no one can work."
+    },
+    {
+     "h": "c3efae9e",
+     "en": "While I am in the world, I am the light of the world.”"
+    },
+    {
+     "h": "8ac586d2",
+     "en": "Having said these things, he spat on the ground and made mud with the saliva, and smeared the mud on his eyes,"
+    },
+    {
+     "h": "a5547e3f",
+     "en": "and said to him, “Go, wash in the pool of Siloam”—which is translated, Sent. So he went away and washed, and came back seeing."
+    },
+    {
+     "h": "73ef3670",
+     "en": "So the neighbors and those who had seen him before, that he was a beggar, were saying, “Is this not the one who used to sit and beg?”"
+    },
+    {
+     "h": "54869bb1",
+     "en": "Some were saying, “It is he.” Others were saying, “No, but he is like him.” He kept saying, “I am the one.”"
+    },
+    {
+     "h": "2f5713c0",
+     "en": "So they were saying to him, “How then were your eyes opened?”"
+    },
+    {
+     "h": "98fc9e98",
+     "en": "He answered, “The man called Jesus made mud and smeared my eyes and said to me, ‘Go to Siloam and wash.’ So I went away and washed, and I received sight.”"
+    },
+    {
+     "h": "93a0b19d",
+     "en": "And they said to him, “Where is that man?” He says, “I do not know.”"
+    },
+    {
+     "h": "00c912b8",
+     "en": "They bring to the Pharisees the man who was formerly blind."
+    },
+    {
+     "h": "689aa86a",
+     "en": "Now it was a Sabbath on the day when Jesus made the mud and opened his eyes."
+    },
+    {
+     "h": "5c01ff2c",
+     "en": "So the Pharisees also were asking him again how he had received sight. And he said to them, “He put mud on my eyes, and I washed, and I see.”"
+    },
+    {
+     "h": "be0da027",
+     "en": "So some of the Pharisees were saying, “This man is not from God, because he does not keep the Sabbath.” Others were saying, “How can a man who is a sinner do such signs?” And there was a division among them."
+    },
+    {
+     "h": "e58d8387",
+     "en": "So they say to the blind man again, “What do you say about him, since he opened your eyes?” And he said, “He is a prophet.”"
+    },
+    {
+     "h": "9c6eeb09",
+     "en": "So the Jews did not believe concerning him that he had been blind and had received sight, until they called the parents of the man who had received sight"
+    },
+    {
+     "h": "e19e82b6",
+     "en": "and asked them, saying, “Is this your son, who you say was born blind? How then does he now see?”"
+    },
+    {
+     "h": "31b9ba0f",
+     "en": "So his parents answered and said, “We know that this is our son and that he was born blind;"
+    },
+    {
+     "h": "e7343de9",
+     "en": "but how he now sees we do not know, or who opened his eyes we do not know. Ask him; he is of age; he will speak for himself.”"
+    },
+    {
+     "h": "aa0c65cc",
+     "en": "His parents said these things because they feared the Jews, for the Jews had already agreed that if anyone should confess him to be Christ, he would be put out of the synagogue."
+    },
+    {
+     "h": "8575ac43",
+     "en": "This is why his parents said, “He is of age; ask him.”"
+    },
+    {
+     "h": "1b0fcc72",
+     "en": "So they called a second time the man who had been blind and said to him, “Give glory to God. We know that this man is a sinner.”",
+     "cmp": [
+      {
+       "w": "Dos doxan tōi theōi",
+       "note": "「把荣耀归给上帝」是当时叫人说实话、认错的一句套话（旧约《约书亚记》7:19 也这样用）。白话在括号里注明了这层意思。",
+       "en": "\"Give glory to God\" was a set phrase of the time for telling someone to speak the truth and own up (it is used this way in Joshua 7:19). The Chinese adds that sense in parentheses."
+      }
+     ]
+    },
+    {
+     "h": "a5a7e514",
+     "en": "So he answered, “Whether he is a sinner I do not know. One thing I know: that though I was blind, now I see.”"
+    },
+    {
+     "h": "1c4b8f7f",
+     "en": "So they said to him, “What did he do to you? How did he open your eyes?”"
+    },
+    {
+     "h": "7e4870f1",
+     "en": "He answered them, “I told you already, and you did not listen. Why do you want to hear it again? Do you also want to become his disciples?”"
+    },
+    {
+     "h": "a22ae6a8",
+     "en": "And they reviled him and said, “You are a disciple of that man, but we are disciples of Moses."
+    },
+    {
+     "h": "5ea35bf1",
+     "en": "We know that God has spoken to Moses, but as for this man, we do not know where he is from.”"
+    },
+    {
+     "h": "cefa04c1",
+     "en": "The man answered and said to them, “Why, this is the amazing thing, that you do not know where he is from, and yet he opened my eyes."
+    },
+    {
+     "h": "70e23961",
+     "en": "We know that God does not listen to sinners, but if anyone is God-fearing and does his will, to this one he listens."
+    },
+    {
+     "h": "701ba6b4",
+     "en": "From of old it has never been heard that anyone opened the eyes of a man born blind."
+    },
+    {
+     "h": "58b94cc3",
+     "en": "If this man were not from God, he could do nothing.”"
+    },
+    {
+     "h": "55d9825c",
+     "en": "They answered and said to him, “You were born entirely in sins, and are you teaching us?” And they cast him out."
+    },
+    {
+     "h": "60b7a7be",
+     "en": "Jesus heard that they had cast him out, and finding him he said, “Do you believe in the Son of Man?”",
+     "cmp": [
+      {
+       "w": "ton huion tou anthrōpou",
+       "note": "本站的底本是「人子」（耶稣在这卷书里对自己的称呼）；多数抄本是「上帝的儿子」，和合本跟的是后一种。",
+       "en": "The edition this site follows reads \"the Son of Man\" (the name Jesus uses for himself in this book); most manuscripts read \"the Son of God,\" which the Union Version follows."
+      }
+     ]
+    },
+    {
+     "h": "a0d2e457",
+     "en": "He answered and said, “And who is he, sir, that I may believe in him?”",
+     "cmp": [
+      {
+       "w": "kyrie",
+       "note": "这个称呼可以是客气的「先生」，也可以是「主」；这一节和第 38 节原文是同一个词。白话这里写「先生」，第 38 节写「主」；和合本两处都写「主」。",
+       "en": "This form of address can be a polite \"sir\" or \"Lord\"; this verse and verse 38 have the same word. The plain Chinese writes 先生 (xiānsheng, \"sir\") here and 主 (zhǔ, \"Lord\") in verse 38; the Union Version writes 主 in both."
+      }
+     ]
+    },
+    {
+     "h": "57af90f9",
+     "en": "Jesus said to him, “You have both seen him, and the one speaking with you is he.”"
+    },
+    {
+     "h": "f3e7f70a",
+     "en": "And he said, “Lord, I believe,” and he worshiped him."
+    },
+    {
+     "h": "d52e8cb7",
+     "en": "And Jesus said, “For judgment I came into this world, that those who do not see may see, and those who see may become blind.”"
+    },
+    {
+     "h": "3d9af7ef",
+     "en": "Some of the Pharisees who were with him heard these things and said to him, “Are we also blind?”"
+    },
+    {
+     "h": "a5684d8f",
+     "en": "Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see’; your sin remains.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · The Good Shepherd; at the Feast of Dedication",
+   "no": 10,
+   "intro": "Jesus speaks in a figure about a shepherd and sheep: the one who enters the fold by the door is the shepherd, and the sheep know his voice. He calls himself the door of the sheep and the good shepherd who lays down his life for them. In winter, at the Feast of Dedication, the Jews surround him in the temple and ask whether he is the Christ; he says, “I and the Father are one,” they pick up stones, and he slips away across the Jordan. Verses 1–18 continue from the previous chapter, with Jesus speaking.",
+   "verses": [
+    {
+     "h": "5c00a5ef",
+     "en": "“Truly, truly, I say to you, the one who does not enter the sheepfold by the door but climbs up some other way, that one is a thief and a robber;"
+    },
+    {
+     "h": "4afce4a3",
+     "en": "but the one who enters by the door is the shepherd of the sheep."
+    },
+    {
+     "h": "520c8780",
+     "en": "To him the doorkeeper opens, and the sheep hear his voice, and he calls his own sheep by name and leads them out."
+    },
+    {
+     "h": "8af395b7",
+     "en": "When he has brought out all his own, he goes before them, and the sheep follow him, because they know his voice;"
+    },
+    {
+     "h": "c538cfd1",
+     "en": "but a stranger they will certainly not follow, but will flee from him, because they do not know the voice of strangers.”"
+    },
+    {
+     "h": "86a12d03",
+     "en": "This figure of speech Jesus spoke to them, but they did not understand what the things were that he was saying to them.",
+     "cmp": [
+      {
+       "w": "paroimia",
+       "note": "这个词和别的福音书里说「比喻」用的 parabolē 不是同一个词，指打比方、话里有话的说法。和合本两处都译「比喻」。",
+       "en": "This is not the word the other Gospels use for \"parable\" (parabolē); it means a figure of speech, a saying with a hidden point. The Union Version translates both as 比喻 (bǐyù, \"comparison, parable\")."
+      }
+     ]
+    },
+    {
+     "h": "256a91a5",
+     "en": "So Jesus said to them again, “Truly, truly, I say to you, I am the door of the sheep."
+    },
+    {
+     "h": "a56713d0",
+     "en": "All who came before me are thieves and robbers, but the sheep did not listen to them."
+    },
+    {
+     "h": "801bb3ec",
+     "en": "I am the door; if anyone enters through me, he will be saved, and will go in and go out and find pasture."
+    },
+    {
+     "h": "ab19ad71",
+     "en": "The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly."
+    },
+    {
+     "h": "c480b692",
+     "en": "I am the good shepherd. The good shepherd lays down his life for the sheep."
+    },
+    {
+     "h": "8ae4f3c5",
+     "en": "The hired hand, who is not a shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep and flees—and the wolf snatches them and scatters them—"
+    },
+    {
+     "h": "53295644",
+     "en": "because he is a hired hand and does not care about the sheep."
+    },
+    {
+     "h": "53ab9a46",
+     "en": "I am the good shepherd, and I know my own and my own know me,"
+    },
+    {
+     "h": "c2107cbc",
+     "en": "just as the Father knows me and I know the Father; and I lay down my life for the sheep."
+    },
+    {
+     "h": "ca1b24b5",
+     "en": "And I have other sheep that are not of this fold; those also I must bring, and they will hear my voice, and there will be one flock, one shepherd."
+    },
+    {
+     "h": "9bd20ee8",
+     "en": "For this reason the Father loves me, because I lay down my life, that I may take it up again."
+    },
+    {
+     "h": "24bb2895",
+     "en": "No one takes it from me, but I lay it down of myself. I have authority to lay it down, and I have authority to take it up again. This command I received from my Father.”"
+    },
+    {
+     "h": "3d13c474",
+     "en": "A division again arose among the Jews because of these words."
+    },
+    {
+     "h": "5929fd69",
+     "en": "And many of them were saying, “He has a demon and is out of his mind; why do you listen to him?”"
+    },
+    {
+     "h": "356f2811",
+     "en": "Others were saying, “These are not the words of one possessed by a demon. Can a demon open the eyes of the blind?”"
+    },
+    {
+     "h": "d4d0f19c",
+     "en": "At that time the Feast of Dedication took place in Jerusalem; it was winter,"
+    },
+    {
+     "h": "89543310",
+     "en": "and Jesus was walking in the temple, in the colonnade of Solomon."
+    },
+    {
+     "h": "d2fa4276",
+     "en": "So the Jews surrounded him and were saying to him, “How long are you going to keep us in suspense? If you are the Christ, tell us plainly.”",
+     "cmp": [
+      {
+       "w": "tēn psychēn hēmōn aireis",
+       "note": "字面是「把我们的性命提起来」，意思是让人悬着心、定不下来。和合本译「叫我们犹疑不定」。",
+       "en": "Literally \"lift up our soul,\" that is, keep us hanging. The Union Version has 叫我们犹疑不定 (jiào wǒmen yóuyí bú dìng, \"keep us wavering\")."
+      }
+     ]
+    },
+    {
+     "h": "e63aa6be",
+     "en": "Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s name, these bear witness about me;"
+    },
+    {
+     "h": "56931916",
+     "en": "but you do not believe, because you are not of my sheep."
+    },
+    {
+     "h": "f593bc1a",
+     "en": "My sheep hear my voice, and I know them, and they follow me,"
+    },
+    {
+     "h": "4284517d",
+     "en": "and I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
+    },
+    {
+     "h": "f1cdf6cc",
+     "en": "My Father, as to what he has given me, is greater than all, and no one is able to snatch out of the Father’s hand.",
+     "cmp": [
+      {
+       "w": "ho dedōken moi pantōn meizōn estin",
+       "note": "这半句各抄本写法不一，意思有两种：「我父——他把它们给了我——比一切都大」，或「我父给我的，比一切都大」。白话与和合本取前一种。",
+       "en": "The manuscripts differ here, giving two senses: \"My Father, who has given them to me, is greater than all,\" or \"What my Father has given me is greater than all.\" The Chinese versions take the first."
+      }
+     ]
+    },
+    {
+     "h": "e29421bd",
+     "en": "I and the Father are one.”",
+     "cmp": [
+      {
+       "w": "hen esmen",
+       "note": "原文的「一」是中性的，指「一个东西」「一体」，不是「一个人」。和合本译「原为一」。",
+       "en": "The Greek \"one\" is neuter: \"one thing,\" not \"one person.\" The Union Version has 原为一 (yuán wéi yī, \"are in origin one\")."
+      }
+     ]
+    },
+    {
+     "h": "32804aa4",
+     "en": "The Jews again picked up stones to stone him."
+    },
+    {
+     "h": "f50e610b",
+     "en": "Jesus answered them, “Many good works I have shown you from the Father; for which of these works are you stoning me?”"
+    },
+    {
+     "h": "39102665",
+     "en": "The Jews answered him, “It is not for a good work that we stone you but for blasphemy, and because you, being a man, make yourself God.”"
+    },
+    {
+     "h": "58004b81",
+     "en": "Jesus answered them, “Is it not written in your law, ‘I said, you are gods’?",
+     "cmp": [
+      {
+       "w": "Egō eipa; Theoi este",
+       "note": "引自旧约《诗篇》82:6。《诗篇》不在摩西的五卷律法书里，这里的「律法」是泛指整部经书。",
+       "en": "Quoted from Psalm 82:6. The Psalms are not among the five books of the law of Moses; \"law\" here stands for the scriptures as a whole."
+      }
+     ]
+    },
+    {
+     "h": "2476ef3a",
+     "en": "If he called them gods, to whom the word of God came—and the scripture cannot be broken—"
+    },
+    {
+     "h": "4f5c5aaf",
+     "en": "do you say of him whom the Father consecrated and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’?"
+    },
+    {
+     "h": "9daedfe5",
+     "en": "If I am not doing the works of my Father, do not believe me;"
+    },
+    {
+     "h": "88ee9ba7",
+     "en": "but if I am doing them, even if you do not believe me, believe the works, that you may know and keep on knowing that the Father is in me and I am in the Father.”"
+    },
+    {
+     "h": "6925f9bd",
+     "en": "So they were seeking again to seize him, and he went forth out of their hand."
+    },
+    {
+     "h": "45690f74",
+     "en": "And he went away again across the Jordan to the place where John had first been baptizing, and he stayed there."
+    },
+    {
+     "h": "c2ce6c7f",
+     "en": "And many came to him and were saying, “John did no sign, but everything John said about this man was true.”"
+    },
+    {
+     "h": "75508303",
+     "en": "And many believed in him there."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · Lazarus Raised; the Council Decides",
+   "no": 11,
+   "intro": "Jesus’s friend Lazarus falls ill, yet Jesus waits two days before setting out, and by the time he reaches Bethany Lazarus has been four days in the tomb. Jesus tells Martha, “I am the resurrection and the life”; seeing the mourners weep, he weeps too, then has the stone taken from the tomb and calls Lazarus out. Many believe in him because of this, but the chief priests and the Pharisees call the council together and decide to have him killed.",
+   "verses": [
+    {
+     "h": "708bd5ce",
+     "en": "Now a certain man was sick, Lazarus of Bethany, from the village of Mary and her sister Martha."
+    },
+    {
+     "h": "4a79297c",
+     "en": "And it was the Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick."
+    },
+    {
+     "h": "4aa51f2f",
+     "en": "So the sisters sent to him, saying, “Lord, see, the one you love is sick.”"
+    },
+    {
+     "h": "867085e2",
+     "en": "And hearing it Jesus said, “This sickness is not unto death but for the glory of God, that the Son of God may be glorified through it.”"
+    },
+    {
+     "h": "e54d3357",
+     "en": "Now Jesus loved Martha and her sister and Lazarus."
+    },
+    {
+     "h": "6deb4b22",
+     "en": "So when he heard that he was sick, he then stayed two days in the place where he was;"
+    },
+    {
+     "h": "90709c56",
+     "en": "then after this he says to the disciples, “Let us go into Judea again.”"
+    },
+    {
+     "h": "197d95cf",
+     "en": "The disciples say to him, “Rabbi, just now the Jews were seeking to stone you, and are you going there again?”"
+    },
+    {
+     "h": "22378707",
+     "en": "Jesus answered, “Are there not twelve hours in the day? If anyone walks in the day, he does not stumble, because he sees the light of this world;"
+    },
+    {
+     "h": "7bf10422",
+     "en": "but if anyone walks in the night, he stumbles, because the light is not in him.”"
+    },
+    {
+     "h": "6efb0a6d",
+     "en": "He said these things, and after this he says to them, “Our friend Lazarus has fallen asleep, but I am going so that I may wake him.”"
+    },
+    {
+     "h": "2421db8b",
+     "en": "So the disciples said to him, “Lord, if he has fallen asleep, he will recover.”"
+    },
+    {
+     "h": "92d37034",
+     "en": "Now Jesus had spoken of his death, but they thought that he was speaking of the rest of sleep."
+    },
+    {
+     "h": "ee6eb984",
+     "en": "So then Jesus said to them plainly, “Lazarus has died,"
+    },
+    {
+     "h": "996a4dd3",
+     "en": "and I am glad for your sake that I was not there, so that you may believe. But let us go to him.”"
+    },
+    {
+     "h": "c8108c87",
+     "en": "So Thomas, the one called Didymus, said to his fellow disciples, “Let us also go, that we may die with him.”"
+    },
+    {
+     "h": "38a1710b",
+     "en": "So when Jesus came, he found that he had already been four days in the tomb."
+    },
+    {
+     "h": "590f7ce7",
+     "en": "Now Bethany was near Jerusalem, about fifteen stadia away,"
+    },
+    {
+     "h": "856c88a7",
+     "en": "and many of the Jews had come to Martha and Mary to console them concerning their brother."
+    },
+    {
+     "h": "00433afe",
+     "en": "So Martha, when she heard that Jesus was coming, went to meet him, but Mary sat in the house."
+    },
+    {
+     "h": "8ef7eeb5",
+     "en": "So Martha said to Jesus, “Lord, if you had been here, my brother would not have died;"
+    },
+    {
+     "h": "3eb47af7",
+     "en": "and even now I know that whatever you ask of God, God will give you.”"
+    },
+    {
+     "h": "50874a4f",
+     "en": "Jesus says to her, “Your brother will rise again.”"
+    },
+    {
+     "h": "d11d6b80",
+     "en": "Martha says to him, “I know that he will rise again in the resurrection on the last day.”"
+    },
+    {
+     "h": "080d486a",
+     "en": "Jesus said to her, “I am the resurrection and the life; the one who believes in me, even if he dies, will live,"
+    },
+    {
+     "h": "3f2ea51e",
+     "en": "and everyone who lives and believes in me will never die. Do you believe this?”"
+    },
+    {
+     "h": "70d9897a",
+     "en": "She says to him, “Yes, Lord; I have come to believe that you are the Christ, the Son of God, the one coming into the world.”"
+    },
+    {
+     "h": "ed3ed7be",
+     "en": "And having said this, she went away and called Mary her sister, saying privately, “The Teacher is here and is calling you.”"
+    },
+    {
+     "h": "bbb52bc2",
+     "en": "And she, when she heard, got up quickly and was going to him."
+    },
+    {
+     "h": "497c66c9",
+     "en": "Now Jesus had not yet come into the village, but was still in the place where Martha had met him."
+    },
+    {
+     "h": "484af3b0",
+     "en": "So the Jews who were with her in the house and consoling her, seeing that Mary got up quickly and went out, followed her, supposing that she was going to the tomb to weep there."
+    },
+    {
+     "h": "25c566a0",
+     "en": "So Mary, when she came where Jesus was and saw him, fell at his feet, saying to him, “Lord, if you had been here, my brother would not have died.”"
+    },
+    {
+     "h": "a53ee79f",
+     "en": "So Jesus, when he saw her weeping and the Jews who had come with her weeping, was deeply moved in spirit and troubled himself,",
+     "cmp": [
+      {
+       "w": "enebrimēsato tōi pneumati",
+       "note": "这个词本来指马喷鼻息，用在人身上指很强烈的情绪，常常带着怒气；这里为什么用这个词，经文没有说。和合本译「心里悲叹」。《马可福音》1:43 的「严厉地叮嘱」是同一个词。",
+       "en": "The verb originally describes a horse snorting; of people it means strong emotion, often with anger. The text does not say why it is used here. The Union Version has 心里悲叹 (xīnlǐ bēitàn, \"sighed in grief within\"). It is the same verb as \"sternly warning\" in Mark 1:43."
+      }
+     ]
+    },
+    {
+     "h": "aa03dd96",
+     "en": "and said, “Where have you laid him?” They say to him, “Lord, come and see.”"
+    },
+    {
+     "h": "06b1d888",
+     "en": "Jesus wept."
+    },
+    {
+     "h": "8a06af4a",
+     "en": "So the Jews were saying, “See how he loved him!”"
+    },
+    {
+     "h": "5b36aa53",
+     "en": "But some of them said, “Could not this man, who opened the eyes of the blind man, have also kept this one from dying?”"
+    },
+    {
+     "h": "27bfdbc9",
+     "en": "So Jesus, again deeply moved within himself, comes to the tomb. Now it was a cave, and a stone lay against it."
+    },
+    {
+     "h": "2efbb9a6",
+     "en": "Jesus says, “Take away the stone.” Martha, the sister of the dead man, says to him, “Lord, by now there is a stench, for it is the fourth day.”"
+    },
+    {
+     "h": "d0752201",
+     "en": "Jesus says to her, “Did I not tell you that if you believe you will see the glory of God?”"
+    },
+    {
+     "h": "3497fcc9",
+     "en": "So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me."
+    },
+    {
+     "h": "c1f56ed3",
+     "en": "I knew that you always hear me, but I said it on account of the crowd standing around, that they may believe that you sent me.”"
+    },
+    {
+     "h": "024694ee",
+     "en": "And having said these things, he cried out with a loud voice, “Lazarus, come out!”"
+    },
+    {
+     "h": "f4243c02",
+     "en": "The man who had died came out, his feet and hands bound with strips of cloth, and his face wrapped around with a cloth. Jesus says to them, “Unbind him and let him go.”"
+    },
+    {
+     "h": "8f68cfd8",
+     "en": "So many of the Jews, those who had come to Mary and had seen what he did, believed in him;"
+    },
+    {
+     "h": "783f1bbe",
+     "en": "but some of them went away to the Pharisees and told them what Jesus had done."
+    },
+    {
+     "h": "dc212ffe",
+     "en": "So the chief priests and the Pharisees gathered the council and were saying, “What are we doing? For this man is doing many signs."
+    },
+    {
+     "h": "c5b94761",
+     "en": "If we let him go on like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.”",
+     "cmp": [
+      {
+       "w": "ton topon",
+       "note": "「地方」一般认为指圣殿，也有人理解为国土。和合本译「地土」。",
+       "en": "\"Place\" is generally taken to mean the temple, though some understand it as the land. The Union Version has 地土 (dìtǔ, \"land\")."
+      }
+     ]
+    },
+    {
+     "h": "70229cda",
+     "en": "But one of them, Caiaphas, who was high priest that year, said to them, “You know nothing at all,"
+    },
+    {
+     "h": "8e24c6cb",
+     "en": "nor do you consider that it is better for you that one man die for the people and that the whole nation not perish.”"
+    },
+    {
+     "h": "b534b7a1",
+     "en": "Now this he did not say of himself, but being high priest that year he prophesied that Jesus was going to die for the nation,"
+    },
+    {
+     "h": "9d259432",
+     "en": "and not for the nation only, but that he might also gather into one the children of God who are scattered abroad."
+    },
+    {
+     "h": "9141c010",
+     "en": "So from that day they planned to kill him."
+    },
+    {
+     "h": "81971a8e",
+     "en": "So Jesus no longer walked openly among the Jews, but went away from there to the region near the wilderness, to a town called Ephraim, and there he stayed with the disciples."
+    },
+    {
+     "h": "57420f72",
+     "en": "Now the Passover of the Jews was near, and many went up to Jerusalem from the country before the Passover to purify themselves."
+    },
+    {
+     "h": "c9348ca4",
+     "en": "So they were looking for Jesus and saying to one another as they stood in the temple, “What do you think? That he will certainly not come to the feast?”"
+    },
+    {
+     "h": "2cebfd34",
+     "en": "Now the chief priests and the Pharisees had given orders that if anyone knew where he was, he should report it, so that they might seize him."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · The Anointing at Bethany; Entry into Jerusalem; the Grain of Wheat",
+   "no": 12,
+   "intro": "Six days before the Passover, at Bethany, Mary anoints Jesus’s feet with costly ointment. The next day a crowd carrying palm branches welcomes him as he rides into Jerusalem on a young donkey. Some Greeks ask to see him, and Jesus says the hour has come for the Son of Man to be glorified, speaking of a grain of wheat that must fall into the earth and die to bear fruit. Many still do not believe despite the signs; the chapter closes with words Jesus cries out aloud.",
+   "verses": [
+    {
+     "h": "6fe354e1",
+     "en": "So six days before the Passover Jesus came to Bethany, where Lazarus was, whom Jesus had raised from the dead."
+    },
+    {
+     "h": "5d15dea1",
+     "en": "So they made him a supper there, and Martha was serving, and Lazarus was one of those reclining at table with him."
+    },
+    {
+     "h": "2ea94bbd",
+     "en": "So Mary, taking a pound of ointment of pure nard, very costly, anointed the feet of Jesus and wiped his feet with her hair; and the house was filled with the fragrance of the ointment."
+    },
+    {
+     "h": "d731dfe7",
+     "en": "But Judas Iscariot, one of his disciples, the one who was about to hand him over, says,"
+    },
+    {
+     "h": "894b9ee2",
+     "en": "“Why was this ointment not sold for three hundred denarii and given to the poor?”"
+    },
+    {
+     "h": "39b5c6de",
+     "en": "Now he said this not because he cared about the poor, but because he was a thief, and having the money box he used to take what was put into it."
+    },
+    {
+     "h": "0c8be83e",
+     "en": "So Jesus said, “Leave her alone, so that she may keep it for the day of my burial;",
+     "cmp": [
+      {
+       "w": "hina … tērēsēi auto",
+       "note": "这半句原文很短，意思不很确定：可以是「让她留着，到我安葬的日子用」，也可以是「她原是为我安葬的日子留着的」。和合本取后一种。",
+       "en": "The clause is terse and its sense uncertain: either \"let her keep it for the day of my burial\" or \"she has kept it for the day of my burial.\" The Union Version takes the second."
+      }
+     ]
+    },
+    {
+     "h": "e8c1cf21",
+     "en": "for the poor you always have with you, but you do not always have me.”"
+    },
+    {
+     "h": "22325b30",
+     "en": "So a great crowd of the Jews learned that he was there, and they came, not only because of Jesus but also to see Lazarus, whom he had raised from the dead."
+    },
+    {
+     "h": "772d8880",
+     "en": "But the chief priests planned to kill Lazarus also,"
+    },
+    {
+     "h": "93c9751d",
+     "en": "because on account of him many of the Jews were going away and believing in Jesus."
+    },
+    {
+     "h": "49af889b",
+     "en": "The next day the great crowd that had come to the feast, hearing that Jesus was coming to Jerusalem,"
+    },
+    {
+     "h": "dbfced66",
+     "en": "took branches of palm trees and went out to meet him, and were crying out, “Hosanna! Blessed is he who comes in the name of the Lord, even the King of Israel!”"
+    },
+    {
+     "h": "72b07608",
+     "en": "And Jesus, finding a young donkey, sat on it, as it is written,"
+    },
+    {
+     "h": "8c2c74b6",
+     "en": "“Do not be afraid, daughter of Zion; look, your king is coming, sitting on a donkey’s colt.”",
+     "cmp": [
+      {
+       "w": "thygatēr Siōn",
+       "note": "引自旧约《撒迦利亚书》9:9。「锡安的女儿」是对耶路撒冷城和城里居民的称呼，和合本译「锡安的民」。",
+       "en": "Quoted from Zechariah 9:9. \"Daughter of Zion\" is a name for the city of Jerusalem and its people; the Union Version has 锡安的民 (Xī’ān de mín, \"people of Zion\")."
+      }
+     ]
+    },
+    {
+     "h": "3213dddc",
+     "en": "These things his disciples did not understand at first, but when Jesus was glorified, then they remembered that these things had been written about him and that they had done these things to him."
+    },
+    {
+     "h": "531c5ba0",
+     "en": "So the crowd that was with him when he called Lazarus out of the tomb and raised him from the dead was bearing witness."
+    },
+    {
+     "h": "77738446",
+     "en": "For this reason also the crowd went to meet him, because they heard that he had done this sign."
+    },
+    {
+     "h": "7850800c",
+     "en": "So the Pharisees said to one another, “You see that you are gaining nothing. Look, the world has gone after him.”"
+    },
+    {
+     "h": "7a8e1190",
+     "en": "Now there were some Greeks among those who went up to worship at the feast."
+    },
+    {
+     "h": "66f01c04",
+     "en": "So these came to Philip, who was from Bethsaida in Galilee, and were asking him, saying, “Sir, we wish to see Jesus.”"
+    },
+    {
+     "h": "9dc761b5",
+     "en": "Philip comes and tells Andrew; Andrew and Philip come and tell Jesus."
+    },
+    {
+     "h": "0106a7e9",
+     "en": "And Jesus answers them, saying, “The hour has come for the Son of Man to be glorified."
+    },
+    {
+     "h": "3a64cfbd",
+     "en": "Truly, truly, I say to you, unless the grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit."
+    },
+    {
+     "h": "57ed60f3",
+     "en": "The one who loves his life loses it, and the one who hates his life in this world will keep it for eternal life."
+    },
+    {
+     "h": "3dfb21cb",
+     "en": "If anyone serves me, let him follow me, and where I am, there my servant will be also; if anyone serves me, the Father will honor him."
+    },
+    {
+     "h": "8902fd77",
+     "en": "Now my soul is troubled, and what shall I say? Father, save me from this hour. But for this reason I came to this hour.",
+     "cmp": [
+      {
+       "w": "pater, sōson me ek tēs hōras tautēs",
+       "note": "这一句照底本的标点是一句祷告；也可以读成问句：「我该说什么呢？说『父啊，救我脱离这个时刻』吗？」",
+       "en": "As punctuated in this edition the sentence is a prayer; it can also be read as a question: \"What shall I say? ‘Father, save me from this hour’?\""
+      }
+     ]
+    },
+    {
+     "h": "8a39f814",
+     "en": "Father, glorify your name.” Then a voice came from heaven: “I have both glorified it and will glorify it again.”"
+    },
+    {
+     "h": "7b31ec93",
+     "en": "So the crowd that stood by and heard it was saying that it had thundered; others were saying, “An angel has spoken to him.”"
+    },
+    {
+     "h": "02605c42",
+     "en": "Jesus answered and said, “This voice has not come for my sake but for yours."
+    },
+    {
+     "h": "260f5b4f",
+     "en": "Now is the judgment of this world; now the ruler of this world will be cast out;"
+    },
+    {
+     "h": "ed5f43a0",
+     "en": "and I, when I am lifted up from the earth, will draw all people to myself.”"
+    },
+    {
+     "h": "e3b34430",
+     "en": "Now he was saying this to signify by what kind of death he was going to die."
+    },
+    {
+     "h": "43f7b9f8",
+     "en": "So the crowd answered him, “We have heard from the law that the Christ remains forever; and how do you say that the Son of Man must be lifted up? Who is this Son of Man?”"
+    },
+    {
+     "h": "a983b1d9",
+     "en": "So Jesus said to them, “For a little while longer the light is among you. Walk while you have the light, lest darkness overtake you; and the one who walks in the darkness does not know where he is going."
+    },
+    {
+     "h": "781ce965",
+     "en": "While you have the light, believe in the light, that you may become sons of light.” Jesus said these things, and going away he was hidden from them."
+    },
+    {
+     "h": "161f4663",
+     "en": "But though he had done so many signs before them, they were not believing in him,"
+    },
+    {
+     "h": "0bbecec6",
+     "en": "so that the word of Isaiah the prophet might be fulfilled, which he spoke: “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”",
+     "cmp": [
+      {
+       "w": "tis episteusen tēi akoēi hēmōn",
+       "note": "引自旧约《以赛亚书》53:1。",
+       "en": "Quoted from Isaiah 53:1."
+      }
+     ]
+    },
+    {
+     "h": "d2aedc6b",
+     "en": "For this reason they could not believe, because again Isaiah said,"
+    },
+    {
+     "h": "5209d857",
+     "en": "“He has blinded their eyes and hardened their heart, lest they see with their eyes and understand with their heart and turn, and I would heal them.”"
+    },
+    {
+     "h": "f05f312a",
+     "en": "Isaiah said these things because he saw his glory, and he spoke about him."
+    },
+    {
+     "h": "6801eb47",
+     "en": "Nevertheless, many even of the rulers believed in him, but because of the Pharisees they were not confessing it, lest they be put out of the synagogue;"
+    },
+    {
+     "h": "094934d4",
+     "en": "for they loved the glory of men more than the glory of God."
+    },
+    {
+     "h": "987c67b0",
+     "en": "And Jesus cried out and said, “The one who believes in me believes not in me but in him who sent me,"
+    },
+    {
+     "h": "f260688e",
+     "en": "and the one who sees me sees him who sent me."
+    },
+    {
+     "h": "ec4283b6",
+     "en": "I have come as light into the world, that everyone who believes in me may not remain in the darkness."
+    },
+    {
+     "h": "c65ee54c",
+     "en": "And if anyone hears my words and does not keep them, I do not judge him; for I did not come to judge the world but to save the world."
+    },
+    {
+     "h": "f825dba7",
+     "en": "The one who rejects me and does not receive my words has one who judges him; the word that I spoke, that will judge him on the last day;"
+    },
+    {
+     "h": "09427792",
+     "en": "for I did not speak of myself, but the Father who sent me has himself given me a command, what to say and what to speak."
+    },
+    {
+     "h": "9e51df3d",
+     "en": "And I know that his command is eternal life. So the things I speak, just as the Father has told me, so I speak.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · Washing the Disciples’ Feet; Judas Leaves; the New Command",
+   "no": 13,
+   "intro": "At supper before the Passover, Jesus gets up and washes his disciples’ feet, telling them he has given them an example. He says that one of them will hand him over and gives a morsel of bread to Judas, who goes out; it is night. Jesus gives the disciples a new command, to love one another, and tells Peter that before a rooster crows he will deny him three times.",
+   "verses": [
+    {
+     "h": "03f02a77",
+     "en": "Now before the feast of the Passover, Jesus, knowing that his hour had come to depart out of this world to the Father, having loved his own who were in the world, loved them to the end."
+    },
+    {
+     "h": "ff797b34",
+     "en": "And during supper, the devil having already put it into the heart of Judas, son of Simon Iscariot, to hand him over,"
+    },
+    {
+     "h": "9dd87896",
+     "en": "knowing that the Father had given all things into his hands, and that he had come from God and was going to God,"
+    },
+    {
+     "h": "aebb17f8",
+     "en": "he rises from supper and lays aside his garments, and taking a towel he tied it around himself."
+    },
+    {
+     "h": "dac3c310",
+     "en": "Then he pours water into the basin and began to wash the feet of the disciples and to wipe them with the towel with which he was girded."
+    },
+    {
+     "h": "7aef8ee2",
+     "en": "So he comes to Simon Peter. He says to him, “Lord, do you wash my feet?”"
+    },
+    {
+     "h": "18203220",
+     "en": "Jesus answered and said to him, “What I am doing you do not know now, but you will understand after these things.”"
+    },
+    {
+     "h": "e550cf88",
+     "en": "Peter says to him, “You shall never wash my feet.” Jesus answered him, “If I do not wash you, you have no part with me.”"
+    },
+    {
+     "h": "acca7e7f",
+     "en": "Simon Peter says to him, “Lord, not my feet only but also my hands and my head.”"
+    },
+    {
+     "h": "439acd61",
+     "en": "Jesus says to him, “The one who has bathed has no need except to wash his feet, but is clean all over; and you are clean, but not all of you.”"
+    },
+    {
+     "h": "d7e439b9",
+     "en": "For he knew the one who was handing him over; for this reason he said, “Not all of you are clean.”"
+    },
+    {
+     "h": "b45ddda2",
+     "en": "So when he had washed their feet and taken his garments and reclined again, he said to them, “Do you understand what I have done to you?"
+    },
+    {
+     "h": "0a6035a9",
+     "en": "You call me ‘Teacher’ and ‘Lord,’ and you say well, for I am."
+    },
+    {
+     "h": "e61d8045",
+     "en": "If I then, the Lord and the Teacher, washed your feet, you also ought to wash one another’s feet;"
+    },
+    {
+     "h": "478532ec",
+     "en": "for I gave you an example, that you also should do just as I did to you."
+    },
+    {
+     "h": "addf2946",
+     "en": "Truly, truly, I say to you, a slave is not greater than his master, nor is one who is sent greater than the one who sent him."
+    },
+    {
+     "h": "62a8d22d",
+     "en": "If you know these things, blessed are you if you do them."
+    },
+    {
+     "h": "06b76526",
+     "en": "I am not speaking of all of you; I know whom I chose. But it is so that the scripture may be fulfilled: ‘The one who eats my bread has lifted up his heel against me.’",
+     "cmp": [
+      {
+       "w": "epēren epʼ eme tēn pternan autou",
+       "note": "引自旧约《诗篇》41:9。",
+       "en": "Quoted from Psalm 41:9."
+      }
+     ]
+    },
+    {
+     "h": "3cf5b73b",
+     "en": "From now on I am telling you before it happens, so that when it happens you may believe that I am."
+    },
+    {
+     "h": "8841f0f1",
+     "en": "Truly, truly, I say to you, the one who receives whomever I send receives me, and the one who receives me receives him who sent me.”"
+    },
+    {
+     "h": "f87e306a",
+     "en": "Having said these things, Jesus was troubled in spirit and testified and said, “Truly, truly, I say to you, one of you will hand me over.”"
+    },
+    {
+     "h": "c29c888e",
+     "en": "The disciples were looking at one another, at a loss as to whom he was speaking of."
+    },
+    {
+     "h": "054b832b",
+     "en": "One of his disciples, whom Jesus loved, was reclining at table close to the chest of Jesus;"
+    },
+    {
+     "h": "bcc09b42",
+     "en": "so Simon Peter nods to this one to ask who it might be of whom he is speaking."
+    },
+    {
+     "h": "d6e262bf",
+     "en": "That one, leaning back thus on the chest of Jesus, says to him, “Lord, who is it?”"
+    },
+    {
+     "h": "7b3004ea",
+     "en": "Jesus answers, “It is that one for whom I will dip the morsel and give it to him.” So having dipped the morsel, he gives it to Judas, son of Simon Iscariot."
+    },
+    {
+     "h": "cc8bc164",
+     "en": "And after the morsel, then Satan entered into that one. So Jesus says to him, “What you are doing, do quickly.”"
+    },
+    {
+     "h": "21bbd739",
+     "en": "Now no one of those reclining at table knew for what purpose he said this to him;"
+    },
+    {
+     "h": "51a1b4fd",
+     "en": "for some were supposing, since Judas had the money box, that Jesus was saying to him, “Buy what we need for the feast,” or that he should give something to the poor."
+    },
+    {
+     "h": "82de8071",
+     "en": "So having taken the morsel, that one went out immediately. And it was night."
+    },
+    {
+     "h": "744c3925",
+     "en": "So when he had gone out, Jesus says, “Now the Son of Man is glorified, and God is glorified in him;"
+    },
+    {
+     "h": "3f9ef0b4",
+     "en": "if God is glorified in him, God will also glorify him in himself, and will glorify him immediately."
+    },
+    {
+     "h": "d5402445",
+     "en": "Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, ‘Where I am going, you cannot come,’ so now I say to you also."
+    },
+    {
+     "h": "cadd9f27",
+     "en": "A new command I give to you, that you love one another; just as I loved you, that you also love one another."
+    },
+    {
+     "h": "35b47ce6",
+     "en": "By this all will know that you are my disciples, if you have love for one another.”"
+    },
+    {
+     "h": "2bc93cc8",
+     "en": "Simon Peter says to him, “Lord, where are you going?” Jesus answered, “Where I am going you cannot follow me now, but you will follow later.”"
+    },
+    {
+     "h": "cba48909",
+     "en": "Peter says to him, “Lord, why can I not follow you now? I will lay down my life for you.”"
+    },
+    {
+     "h": "d379f2e3",
+     "en": "Jesus answers, “Will you lay down your life for me? Truly, truly, I say to you, a rooster will certainly not crow until you have denied me three times.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · The Way, the Truth, and the Life; the Helper Promised",
+   "no": 14,
+   "intro": "After supper Jesus speaks to his disciples, in a discourse that runs on to chapter 16. He tells them not to be troubled: he is going to prepare a place for them and will come again. Thomas, Philip and Judas each ask a question, and he answers, “I am the way and the truth and the life”; whoever has seen him has seen the Father. He promises to ask the Father to send another Helper, the Holy Spirit, and leaves them his peace.",
+   "verses": [
+    {
+     "h": "a99987de",
+     "en": "“Let not your heart be troubled. You believe in God; believe also in me.",
+     "cmp": [
+      {
+       "w": "pisteuete eis ton theon",
+       "note": "两个「信」原文写法一样，前一个可以读成陈述（「你们信上帝」），也可以读成命令（「你们要信上帝」）。白话、英文与和合本都取前一种。",
+       "en": "The two verbs for \"believe\" are spelled alike; the first can be a statement (\"you believe in God\") or a command (\"believe in God\"). All three versions here take it as a statement."
+      }
+     ]
+    },
+    {
+     "h": "ae86d578",
+     "en": "In my Father’s house are many dwelling places; if it were not so, I would have told you, for I am going to prepare a place for you;"
+    },
+    {
+     "h": "34c82dac",
+     "en": "and if I go and prepare a place for you, I am coming again and will take you to myself, so that where I am you may be also."
+    },
+    {
+     "h": "d975c342",
+     "en": "And where I am going, you know the way.”"
+    },
+    {
+     "h": "d01505fd",
+     "en": "Thomas says to him, “Lord, we do not know where you are going; how can we know the way?”"
+    },
+    {
+     "h": "73deb3eb",
+     "en": "Jesus says to him, “I am the way and the truth and the life; no one comes to the Father except through me."
+    },
+    {
+     "h": "5729c88d",
+     "en": "If you had known me, you would have known my Father also; from now on you know him and have seen him.”"
+    },
+    {
+     "h": "306379be",
+     "en": "Philip says to him, “Lord, show us the Father, and it is enough for us.”"
+    },
+    {
+     "h": "fe88884d",
+     "en": "Jesus says to him, “Have I been with you so long a time, and you have not come to know me, Philip? The one who has seen me has seen the Father; how do you say, ‘Show us the Father’?"
+    },
+    {
+     "h": "fef40f1b",
+     "en": "Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak of myself, but the Father dwelling in me does his works."
+    },
+    {
+     "h": "72020d4a",
+     "en": "Believe me that I am in the Father and the Father in me; or else believe because of the works themselves."
+    },
+    {
+     "h": "c2b6f0cf",
+     "en": "Truly, truly, I say to you, the one who believes in me, the works that I do he also will do, and greater than these he will do, because I am going to the Father;"
+    },
+    {
+     "h": "966c552b",
+     "en": "and whatever you ask in my name, this I will do, that the Father may be glorified in the Son;"
+    },
+    {
+     "h": "a133d0da",
+     "en": "if you ask me anything in my name, I will do it."
+    },
+    {
+     "h": "836874ca",
+     "en": "If you love me, you will keep my commands;"
+    },
+    {
+     "h": "670def0e",
+     "en": "and I will ask the Father, and he will give you another Helper, to be with you forever,"
+    },
+    {
+     "h": "bbb97f5d",
+     "en": "the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, because he remains with you and will be in you."
+    },
+    {
+     "h": "334ada06",
+     "en": "I will not leave you orphans; I am coming to you."
+    },
+    {
+     "h": "c5000cb2",
+     "en": "Yet a little while and the world no longer sees me, but you see me; because I live, you also will live."
+    },
+    {
+     "h": "635b53a4",
+     "en": "In that day you will know that I am in my Father, and you in me, and I in you."
+    },
+    {
+     "h": "30df2985",
+     "en": "The one who has my commands and keeps them, that is the one who loves me; and the one who loves me will be loved by my Father, and I will love him and will show myself to him.”"
+    },
+    {
+     "h": "327812a9",
+     "en": "Judas, not Iscariot, says to him, “Lord, what has happened that you are going to show yourself to us and not to the world?”"
+    },
+    {
+     "h": "f7a87c09",
+     "en": "Jesus answered and said to him, “If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our dwelling with him."
+    },
+    {
+     "h": "52ce8f87",
+     "en": "The one who does not love me does not keep my words; and the word that you hear is not mine but the Father’s who sent me."
+    },
+    {
+     "h": "0ea26556",
+     "en": "These things I have spoken to you while remaining with you;"
+    },
+    {
+     "h": "35b68e7d",
+     "en": "but the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and remind you of all that I said to you."
+    },
+    {
+     "h": "94dcd8ab",
+     "en": "Peace I leave with you; my peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, nor let it be afraid."
+    },
+    {
+     "h": "6408c4f3",
+     "en": "You heard that I said to you, ‘I am going away, and I am coming to you.’ If you loved me, you would have rejoiced that I am going to the Father, because the Father is greater than I."
+    },
+    {
+     "h": "6638cd8a",
+     "en": "And now I have told you before it happens, so that when it happens you may believe."
+    },
+    {
+     "h": "fe0c40df",
+     "en": "I will no longer speak much with you, for the ruler of the world is coming; and in me he has nothing,"
+    },
+    {
+     "h": "123a483a",
+     "en": "but so that the world may know that I love the Father, and just as the Father commanded me, so I do. Rise, let us go from here.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · The Vine and the Branches; the World’s Hatred",
+   "no": 15,
+   "intro": "From first verse to last this chapter is Jesus speaking, and the speech runs on into the next. He calls himself the vine and the disciples the branches: only by remaining in him can they bear fruit. His command is that they love one another, and he calls them friends, no longer slaves. He adds that the world, which has hated him, will hate them too; when the Helper comes he will bear witness about him, and they also are to bear witness.",
+   "verses": [
+    {
+     "h": "e86a17e7",
+     "en": "“I am the true vine, and my Father is the vinedresser."
+    },
+    {
+     "h": "3fd0bb9e",
+     "en": "Every branch in me that does not bear fruit he takes away, and every one that bears fruit he prunes, that it may bear more fruit.",
+     "cmp": [
+      {
+       "w": "airei … kathairei",
+       "note": "「剪掉」和「修剪干净」在原文是读音相近的两个词；「修剪干净」和下一节的「干净」又是同一个词根。",
+       "en": "In Greek \"takes away\" and \"prunes\" are two similar-sounding words, and \"prunes\" shares its root with \"clean\" in the next verse."
+      }
+     ]
+    },
+    {
+     "h": "fb40c6ed",
+     "en": "Already you are clean because of the word that I have spoken to you."
+    },
+    {
+     "h": "ff4f880e",
+     "en": "Remain in me, and I in you. Just as the branch cannot bear fruit of itself unless it remains in the vine, so neither can you unless you remain in me."
+    },
+    {
+     "h": "74d2d19e",
+     "en": "I am the vine; you are the branches. The one who remains in me and I in him, this one bears much fruit, for apart from me you can do nothing."
+    },
+    {
+     "h": "b2ab888a",
+     "en": "If anyone does not remain in me, he is thrown out like the branch and withers, and they gather them and throw them into the fire, and they are burned."
+    },
+    {
+     "h": "7ef683e0",
+     "en": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you."
+    },
+    {
+     "h": "60f612dd",
+     "en": "In this my Father is glorified, that you bear much fruit and become my disciples."
+    },
+    {
+     "h": "237f8fa1",
+     "en": "Just as the Father has loved me, I also have loved you; remain in my love."
+    },
+    {
+     "h": "61d8579b",
+     "en": "If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love."
+    },
+    {
+     "h": "491443be",
+     "en": "These things I have spoken to you so that my joy may be in you and your joy may be made full."
+    },
+    {
+     "h": "827ab7b0",
+     "en": "This is my command, that you love one another just as I loved you."
+    },
+    {
+     "h": "17ce18f8",
+     "en": "Greater love than this no one has, that someone lay down his life for his friends."
+    },
+    {
+     "h": "ee477be7",
+     "en": "You are my friends if you do what I command you."
+    },
+    {
+     "h": "c222a43c",
+     "en": "No longer do I call you slaves, for the slave does not know what his master is doing; but I have called you friends, for all that I heard from my Father I have made known to you."
+    },
+    {
+     "h": "782817bc",
+     "en": "You did not choose me, but I chose you, and appointed you that you should go and bear fruit and that your fruit should remain, so that whatever you ask the Father in my name he may give you."
+    },
+    {
+     "h": "99e40912",
+     "en": "These things I command you, that you love one another."
+    },
+    {
+     "h": "421667a5",
+     "en": "If the world hates you, know that it has hated me before you."
+    },
+    {
+     "h": "bc549f45",
+     "en": "If you were of the world, the world would love its own; but because you are not of the world, but I chose you out of the world, for this reason the world hates you."
+    },
+    {
+     "h": "5c304506",
+     "en": "Remember the word that I said to you: ‘A slave is not greater than his master.’ If they persecuted me, they will also persecute you; if they kept my word, they will keep yours also."
+    },
+    {
+     "h": "4894aac0",
+     "en": "But all these things they will do to you on account of my name, because they do not know him who sent me."
+    },
+    {
+     "h": "be6d15dd",
+     "en": "If I had not come and spoken to them, they would not have sin; but now they have no excuse for their sin."
+    },
+    {
+     "h": "d814e5bd",
+     "en": "The one who hates me hates my Father also."
+    },
+    {
+     "h": "acfc92d0",
+     "en": "If I had not done among them the works that no one else did, they would not have sin; but now they have both seen and hated both me and my Father."
+    },
+    {
+     "h": "f7c4db4c",
+     "en": "But it is so that the word written in their law may be fulfilled: ‘They hated me without cause.’",
+     "cmp": [
+      {
+       "w": "Emisēsan me dōrean",
+       "note": "这句话见于旧约《诗篇》35:19 和 69:4。《诗篇》不在摩西的律法书里，这里的「律法」是泛指整部经书。",
+       "en": "The words are found in Psalms 35:19 and 69:4. The Psalms are not part of the law of Moses; \"law\" here stands for the scriptures as a whole."
+      }
+     ]
+    },
+    {
+     "h": "25f4da02",
+     "en": "When the Helper comes, whom I will send to you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness about me;"
+    },
+    {
+     "h": "556c4ead",
+     "en": "and you also bear witness, because you have been with me from the beginning."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · The Helper Will Come; Sorrow Turned to Joy",
+   "no": 16,
+   "intro": "The chapter opens in mid-speech: Jesus is still talking to his disciples, as in the chapter before. They will be put out of the synagogue and even killed; he is going away, but only if he goes will the Helper come to guide them. He says that in \"a little while\" they will not see him and then will see him again, and the disciples cannot follow; he compares it to a woman in labor whose sorrow turns to joy. He ends by saying that he has overcome the world.",
+   "verses": [
+    {
+     "h": "d75f31d5",
+     "en": "These things I have spoken to you so that you may not be made to stumble."
+    },
+    {
+     "h": "43dd0a04",
+     "en": "They will put you out of the synagogue; indeed an hour is coming when everyone who kills you will think he is offering service to God."
+    },
+    {
+     "h": "6735dbcc",
+     "en": "And they will do these things because they have not known the Father or me."
+    },
+    {
+     "h": "95975c04",
+     "en": "But these things I have spoken to you so that when their hour comes you may remember that I told you of them. And I did not say these things to you from the beginning, because I was with you."
+    },
+    {
+     "h": "b084d9c2",
+     "en": "But now I am going to the one who sent me, and none of you asks me, ‘Where are you going?’"
+    },
+    {
+     "h": "a84a8d17",
+     "en": "But because I have spoken these things to you, sorrow has filled your heart."
+    },
+    {
+     "h": "2279053c",
+     "en": "But I tell you the truth: it is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I go, I will send him to you."
+    },
+    {
+     "h": "d5693d2a",
+     "en": "And when he comes, he will convict the world concerning sin and concerning righteousness and concerning judgment:"
+    },
+    {
+     "h": "ffa5f497",
+     "en": "concerning sin, because they do not believe in me;"
+    },
+    {
+     "h": "8ad91510",
+     "en": "concerning righteousness, because I am going to the Father and you see me no longer;"
+    },
+    {
+     "h": "5fd7aed9",
+     "en": "concerning judgment, because the ruler of this world has been judged."
+    },
+    {
+     "h": "b433cb39",
+     "en": "I still have many things to say to you, but you cannot bear them now."
+    },
+    {
+     "h": "c35c6fe9",
+     "en": "But when he comes, the Spirit of truth, he will guide you in all the truth; for he will not speak on his own, but whatever he hears he will speak, and he will declare to you the things that are coming."
+    },
+    {
+     "h": "23c12020",
+     "en": "He will glorify me, because he will take from what is mine and declare it to you."
+    },
+    {
+     "h": "49f135f3",
+     "en": "All that the Father has is mine; that is why I said that he takes from what is mine and will declare it to you."
+    },
+    {
+     "h": "2dd9d3ad",
+     "en": "A little while, and you see me no longer; and again a little while, and you will see me.”"
+    },
+    {
+     "h": "d6ae0e75",
+     "en": "So some of his disciples said to one another, “What is this that he says to us, ‘A little while, and you do not see me; and again a little while, and you will see me’; and, ‘Because I am going to the Father’?”"
+    },
+    {
+     "h": "b37a4618",
+     "en": "So they were saying, “What is this that he says, ‘a little while’? We do not know what he is talking about.”"
+    },
+    {
+     "h": "11cce58f",
+     "en": "Jesus knew that they wanted to ask him, and he said to them, “Are you asking one another about this, that I said, ‘A little while, and you do not see me; and again a little while, and you will see me’?"
+    },
+    {
+     "h": "f7315e88",
+     "en": "Truly, truly, I say to you that you will weep and lament, but the world will rejoice; you will be sorrowful, but your sorrow will turn into joy."
+    },
+    {
+     "h": "bed0dd13",
+     "en": "A woman, when she is giving birth, has sorrow, because her hour has come; but when she has borne the child, she no longer remembers the anguish, for joy that a human being has been born into the world."
+    },
+    {
+     "h": "29a142bb",
+     "en": "So you also have sorrow now; but I will see you again, and your heart will rejoice, and no one takes your joy away from you."
+    },
+    {
+     "h": "e60239a8",
+     "en": "And in that day you will ask me nothing. Truly, truly, I say to you, whatever you ask the Father, he will give it to you in my name."
+    },
+    {
+     "h": "7bb48819",
+     "en": "Until now you have asked nothing in my name; ask, and you will receive, so that your joy may be made full."
+    },
+    {
+     "h": "9c30ba0a",
+     "en": "These things I have spoken to you in figures of speech; an hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father.",
+     "cmp": [
+      {
+       "w": "en paroimiais",
+       "note": "原文 paroimia 指不直说的话、拐着弯的说法。另外三卷福音书里译作「比喻」的是另一个词 parabolē（打比方的故事），这卷书里没有用过那个词。和合本两个词都译「比喻」。",
+       "en": "Greek paroimia means veiled or indirect speech. The word translated \"parable\" in the other three Gospels is a different one, parabolē, which this Gospel never uses. The Union Version renders both as 比喻 (bǐyù, \"comparison, parable\")."
+      }
+     ]
+    },
+    {
+     "h": "a2249c79",
+     "en": "In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf;"
+    },
+    {
+     "h": "c6ab87a9",
+     "en": "for the Father himself loves you, because you have loved me and have believed that I came out from God."
+    },
+    {
+     "h": "61b75305",
+     "en": "I came out from the Father and have come into the world; again, I am leaving the world and going to the Father.”"
+    },
+    {
+     "h": "d50f2b96",
+     "en": "His disciples say, “Look, now you are speaking plainly and using no figure of speech."
+    },
+    {
+     "h": "50552779",
+     "en": "Now we know that you know all things and have no need for anyone to question you; by this we believe that you came out from God.”"
+    },
+    {
+     "h": "82095bf2",
+     "en": "Jesus answered them, “Do you now believe?"
+    },
+    {
+     "h": "35e4e1b6",
+     "en": "Look, an hour is coming, and has come, when you will be scattered, each to his own home, and will leave me alone; and yet I am not alone, because the Father is with me."
+    },
+    {
+     "h": "825f1206",
+     "en": "These things I have spoken to you so that in me you may have peace. In the world you have affliction; but take courage: I have overcome the world.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 17 · Jesus Prays to the Father",
+   "no": 17,
+   "intro": "The whole chapter is Jesus praying to the Father. He says the hour has come and asks the Father to glorify him; he has finished the work the Father gave him and has passed the Father’s words on to those the Father gave him. He asks the Father to keep them, to make them holy and to make them one, and he prays also for those who will come to believe through their word. In the prayer \"you\" is God and \"they\" are the disciples.",
+   "verses": [
+    {
+     "h": "e572d988",
+     "en": "Jesus spoke these things, and lifting up his eyes to heaven he said, “Father, the hour has come; glorify your Son, so that the Son may glorify you,"
+    },
+    {
+     "h": "930012fd",
+     "en": "just as you gave him authority over all flesh, so that to all whom you have given him he may give eternal life."
+    },
+    {
+     "h": "dc0a85b2",
+     "en": "And this is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent."
+    },
+    {
+     "h": "933c4efe",
+     "en": "I glorified you on the earth, having completed the work that you gave me to do;"
+    },
+    {
+     "h": "d1146861",
+     "en": "and now, Father, glorify me in your own presence with the glory that I had with you before the world existed."
+    },
+    {
+     "h": "bd595bf2",
+     "en": "I made your name known to the people whom you gave me out of the world. They were yours and you gave them to me, and they have kept your word."
+    },
+    {
+     "h": "cd12a8f8",
+     "en": "Now they know that everything you have given me is from you;"
+    },
+    {
+     "h": "6873c38b",
+     "en": "for the words that you gave me I have given to them, and they received them and came to know truly that I came out from you, and they believed that you sent me."
+    },
+    {
+     "h": "ed55588e",
+     "en": "I ask on their behalf; I am not asking on behalf of the world but on behalf of those whom you have given me, because they are yours,"
+    },
+    {
+     "h": "140454c8",
+     "en": "and all that is mine is yours, and yours is mine, and I have been glorified in them."
+    },
+    {
+     "h": "2d4eed2a",
+     "en": "And I am no longer in the world, and they are in the world, and I am coming to you. Holy Father, keep them in your name, which you have given me, so that they may be one just as we are."
+    },
+    {
+     "h": "25bf8b4c",
+     "en": "While I was with them, I kept them in your name, which you have given me, and I guarded them, and not one of them was lost except the son of destruction, so that the scripture might be fulfilled."
+    },
+    {
+     "h": "59749812",
+     "en": "But now I am coming to you, and I speak these things in the world so that they may have my joy made full in themselves."
+    },
+    {
+     "h": "2ad66c3a",
+     "en": "I have given them your word, and the world hated them, because they are not of the world, just as I am not of the world."
+    },
+    {
+     "h": "44ddaf49",
+     "en": "I do not ask that you take them out of the world, but that you keep them from the evil one.",
+     "cmp": [
+      {
+       "w": "ek tou ponērou",
+       "note": "原文可以读成「那恶者」（指魔鬼），也可以读成「恶」（坏事）。白话和和合本都取前一种，和《马太福音》6:13 的写法一致。",
+       "en": "The Greek can be read as \"the evil one\" (the devil) or as \"evil\" in general. The plain Chinese and the Union Version both take the first, as at Matthew 6:13."
+      }
+     ]
+    },
+    {
+     "h": "7e3853de",
+     "en": "They are not of the world, just as I am not of the world."
+    },
+    {
+     "h": "7e396f64",
+     "en": "Sanctify them in the truth; your word is truth."
+    },
+    {
+     "h": "01a187dc",
+     "en": "Just as you sent me into the world, I also sent them into the world;"
+    },
+    {
+     "h": "6fcf727a",
+     "en": "and for their sake I sanctify myself, so that they also may be sanctified in truth."
+    },
+    {
+     "h": "8b093e5c",
+     "en": "I do not ask on behalf of these only, but also on behalf of those who believe in me through their word,"
+    },
+    {
+     "h": "7ff003e3",
+     "en": "that they may all be one, just as you, Father, are in me and I in you, that they also may be in us, so that the world may believe that you sent me."
+    },
+    {
+     "h": "936c6403",
+     "en": "The glory that you have given me I have given to them, so that they may be one just as we are one,"
+    },
+    {
+     "h": "4a8e3785",
+     "en": "I in them and you in me, that they may be perfected into one, so that the world may know that you sent me and loved them just as you loved me."
+    },
+    {
+     "h": "2f042c00",
+     "en": "Father, I desire that those whom you have given me may be with me where I am, so that they may see my glory, which you have given me because you loved me before the foundation of the world."
+    },
+    {
+     "h": "f6e485e9",
+     "en": "Righteous Father, the world has not known you, but I have known you, and these have known that you sent me;"
+    },
+    {
+     "h": "634c3634",
+     "en": "and I made your name known to them, and will make it known, so that the love with which you loved me may be in them, and I in them.”"
+    }
+   ]
+  },
+  {
+   "title": "Chapter 18 · The Arrest, Annas, Peter’s Denials, Before Pilate",
+   "no": 18,
+   "intro": "Jesus and his disciples go to a garden across the Kidron, and Judas arrives with soldiers and officers to arrest him; Peter draws a sword and strikes, and Jesus stops him. Jesus is taken first to Annas and questioned, while in the courtyard Peter says three times that he is not one of his disciples. Early in the morning he is brought to the Roman governor Pilate, who asks whether he is a king and says he finds no case against him; but the crowd outside asks for the robber Barabbas to be released instead.",
+   "verses": [
+    {
+     "h": "deca15e9",
+     "en": "Having said these things, Jesus went out with his disciples across the brook Kidron, where there was a garden, which he and his disciples entered."
+    },
+    {
+     "h": "1aeba4cd",
+     "en": "Now Judas, who was handing him over, also knew the place, because Jesus had often gathered there with his disciples."
+    },
+    {
+     "h": "fd49608f",
+     "en": "So Judas, having taken the cohort and officers from the chief priests and from the Pharisees, comes there with lanterns and torches and weapons.",
+     "cmp": [
+      {
+       "w": "tēn speiran",
+       "note": "原文 speira 是罗马军队的一个营，满编约六百人；这里指一队罗马兵，人数经文没有说。和合本译「一队兵」，白话照此。",
+       "en": "Greek speira is a Roman cohort, about six hundred men at full strength; here it means a detachment of Roman soldiers, and the text gives no number. The Union Version has 一队兵 (yí duì bīng, \"a squad of soldiers\"), which the plain Chinese follows."
+      }
+     ]
+    },
+    {
+     "h": "c29c26f6",
+     "en": "So Jesus, knowing all the things that were coming upon him, went out and says to them, “Whom are you seeking?”"
+    },
+    {
+     "h": "b02563c7",
+     "en": "They answered him, “Jesus the Nazarene.” He says to them, “I am.” And Judas, who was handing him over, was also standing with them.",
+     "cmp": [
+      {
+       "w": "Egō eimi",
+       "note": "原文只有「我是」两个字，可以就是平常说的「是我」。同样两个字的说法在这卷书里出现过好几次（8:24、8:28、8:58、13:19）。",
+       "en": "The Greek is just two words, \"I am,\" which can simply mean \"It is I.\" The same two-word phrase occurs several times earlier in this Gospel (8:24, 8:28, 8:58; 13:19)."
+      }
+     ]
+    },
+    {
+     "h": "96a11e9d",
+     "en": "So when he said to them, “I am,” they drew back and fell to the ground."
+    },
+    {
+     "h": "7bda8e59",
+     "en": "So he asked them again, “Whom are you seeking?” And they said, “Jesus the Nazarene.”"
+    },
+    {
+     "h": "08f68d33",
+     "en": "Jesus answered, “I told you that I am; so if you are seeking me, let these men go.”"
+    },
+    {
+     "h": "607cde1e",
+     "en": "This was so that the word he had spoken might be fulfilled: “Of those whom you have given me I have lost not one.”"
+    },
+    {
+     "h": "541c6d26",
+     "en": "So Simon Peter, having a sword, drew it and struck the high priest’s slave and cut off his right ear. And the slave’s name was Malchus."
+    },
+    {
+     "h": "e5be865b",
+     "en": "So Jesus said to Peter, “Put the sword into its sheath; the cup that the Father has given me, shall I not drink it?”"
+    },
+    {
+     "h": "2a6730eb",
+     "en": "So the cohort and the commander and the officers of the Jews seized Jesus and bound him"
+    },
+    {
+     "h": "55ea4b0e",
+     "en": "and led him first to Annas; for he was the father-in-law of Caiaphas, who was high priest that year."
+    },
+    {
+     "h": "4ce0f5e7",
+     "en": "Now Caiaphas was the one who had advised the Jews that it was expedient for one man to die for the people."
+    },
+    {
+     "h": "9518b72d",
+     "en": "Now Simon Peter was following Jesus, and so was another disciple. And that disciple was known to the high priest, and he went with Jesus into the courtyard of the high priest,"
+    },
+    {
+     "h": "ae8a2a3c",
+     "en": "but Peter was standing at the door outside. So the other disciple, who was known to the high priest, went out and spoke to the woman who kept the door, and brought Peter in."
+    },
+    {
+     "h": "78f188ff",
+     "en": "So the servant girl who kept the door says to Peter, “You are not also one of this man’s disciples, are you?” He says, “I am not.”"
+    },
+    {
+     "h": "f190b7a1",
+     "en": "Now the slaves and the officers were standing there, having made a charcoal fire, because it was cold, and they were warming themselves; and Peter also was with them, standing and warming himself."
+    },
+    {
+     "h": "3ed4a7e2",
+     "en": "So the high priest questioned Jesus about his disciples and about his teaching."
+    },
+    {
+     "h": "417d0415",
+     "en": "Jesus answered him, “I have spoken openly to the world; I always taught in a synagogue and in the temple, where all the Jews come together, and I spoke nothing in secret."
+    },
+    {
+     "h": "0c9e59ac",
+     "en": "Why do you question me? Question those who have heard what I spoke to them; look, these know what I said.”"
+    },
+    {
+     "h": "c9ad16fa",
+     "en": "And when he had said these things, one of the officers standing by gave Jesus a slap, saying, “Is that how you answer the high priest?”"
+    },
+    {
+     "h": "1e73d6ac",
+     "en": "Jesus answered him, “If I spoke wrongly, testify about the wrong; but if rightly, why do you strike me?”"
+    },
+    {
+     "h": "7d047caf",
+     "en": "So Annas sent him bound to Caiaphas the high priest."
+    },
+    {
+     "h": "4c3ca93b",
+     "en": "Now Simon Peter was standing and warming himself. So they said to him, “You are not also one of his disciples, are you?” He denied it and said, “I am not.”"
+    },
+    {
+     "h": "015fda05",
+     "en": "One of the slaves of the high priest, a relative of the man whose ear Peter had cut off, says, “Did I not see you in the garden with him?”"
+    },
+    {
+     "h": "8f21f5ab",
+     "en": "So Peter denied it again, and immediately a rooster crowed."
+    },
+    {
+     "h": "c216cfb8",
+     "en": "So they lead Jesus from Caiaphas to the praetorium. Now it was early morning. And they themselves did not enter the praetorium, so that they would not be defiled but might eat the Passover."
+    },
+    {
+     "h": "aa20d0d7",
+     "en": "So Pilate went outside to them and says, “What accusation do you bring against this man?”"
+    },
+    {
+     "h": "888fb0db",
+     "en": "They answered and said to him, “If this man were not doing evil, we would not have handed him over to you.”"
+    },
+    {
+     "h": "e7fb9587",
+     "en": "So Pilate said to them, “Take him yourselves and judge him according to your law.” The Jews said to him, “It is not lawful for us to put anyone to death.”"
+    },
+    {
+     "h": "da3a9b2e",
+     "en": "This was so that the word of Jesus might be fulfilled which he spoke, signifying by what kind of death he was going to die."
+    },
+    {
+     "h": "588a924e",
+     "en": "So Pilate entered the praetorium again and called Jesus and said to him, “Are you the King of the Jews?”"
+    },
+    {
+     "h": "fb982a53",
+     "en": "Jesus answered, “Do you say this of yourself, or did others tell you about me?”"
+    },
+    {
+     "h": "cdefdff2",
+     "en": "Pilate answered, “Am I a Jew? Your own nation and the chief priests handed you over to me; what did you do?”"
+    },
+    {
+     "h": "3bf02077",
+     "en": "Jesus answered, “My kingdom is not of this world; if my kingdom were of this world, my servants would be fighting, so that I would not be handed over to the Jews; but as it is, my kingdom is not from here.”"
+    },
+    {
+     "h": "c2e09d8c",
+     "en": "So Pilate said to him, “So you are a king?” Jesus answered, “You say that I am a king. For this I was born, and for this I have come into the world, to testify to the truth; everyone who is of the truth hears my voice.”",
+     "cmp": [
+      {
+       "w": "Sy legeis hoti basileus eimi",
+       "note": "和另外三卷福音书里的「这是你说的」一样，这句话既不是直接承认，也不是否认。",
+       "en": "Like \"You say so\" in the other three Gospels, this is neither a plain yes nor a denial."
+      }
+     ]
+    },
+    {
+     "h": "5d8e4c08",
+     "en": "Pilate says to him, “What is truth?” And having said this, he went out again to the Jews and says to them, “I find no ground for a charge against him."
+    },
+    {
+     "h": "f54962b0",
+     "en": "But you have a custom that I release one man to you at the Passover; so do you want me to release to you the King of the Jews?”"
+    },
+    {
+     "h": "465b07e0",
+     "en": "So they cried out again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 19 · The Sentence, the Crucifixion, the Burial",
+   "no": 19,
+   "intro": "Pilate has Jesus flogged, and the soldiers mock him with a crown of thorns. Pilate says more than once that he finds no case against him and tries to release him, but the cry outside is for crucifixion, and Pilate hands him over. Jesus is crucified at Golgotha; he entrusts his mother to the disciple whom he loved, says \"It is finished,\" and dies. Joseph and Nicodemus bury him in a new tomb in a garden.",
+   "verses": [
+    {
+     "h": "519dc2db",
+     "en": "So then Pilate took Jesus and had him flogged."
+    },
+    {
+     "h": "94599c23",
+     "en": "And the soldiers, having woven a crown out of thorns, put it on his head, and threw a purple robe around him,"
+    },
+    {
+     "h": "4587a044",
+     "en": "and they kept coming up to him and saying, “Hail, King of the Jews!” and they gave him slaps."
+    },
+    {
+     "h": "f45e8c5d",
+     "en": "And Pilate went outside again and says to them, “Look, I am bringing him out to you, so that you may know that I find no ground for a charge against him.”"
+    },
+    {
+     "h": "3d87f06f",
+     "en": "So Jesus came outside, wearing the thorn crown and the purple robe. And he says to them, “Behold, the man!”"
+    },
+    {
+     "h": "15174273",
+     "en": "So when the chief priests and the officers saw him, they cried out, saying, “Crucify, crucify!” Pilate says to them, “Take him yourselves and crucify him, for I find no ground for a charge against him.”"
+    },
+    {
+     "h": "dd27020c",
+     "en": "The Jews answered him, “We have a law, and according to that law he ought to die, because he made himself the Son of God.”"
+    },
+    {
+     "h": "8999c93b",
+     "en": "So when Pilate heard this word, he was more afraid,"
+    },
+    {
+     "h": "57789fd9",
+     "en": "and he entered the praetorium again and says to Jesus, “Where are you from?” But Jesus gave him no answer."
+    },
+    {
+     "h": "46aa3d29",
+     "en": "So Pilate says to him, “Do you not speak to me? Do you not know that I have authority to release you and I have authority to crucify you?”"
+    },
+    {
+     "h": "771e6a56",
+     "en": "Jesus answered him, “You would have no authority over me at all unless it had been given to you from above; therefore the one who handed me over to you has the greater sin.”"
+    },
+    {
+     "h": "e80787b1",
+     "en": "From then on Pilate was seeking to release him; but the Jews cried out, saying, “If you release this man, you are not a friend of Caesar; everyone who makes himself a king opposes Caesar.”"
+    },
+    {
+     "h": "51f4775c",
+     "en": "So when Pilate heard these words, he brought Jesus outside and sat down on the judgment seat at a place called the Stone Pavement, and in Hebrew, Gabbatha."
+    },
+    {
+     "h": "5a397973",
+     "en": "Now it was the day of Preparation of the Passover; it was about the sixth hour. And he says to the Jews, “Behold, your King!”"
+    },
+    {
+     "h": "373be17a",
+     "en": "So they cried out, “Away with him, away with him, crucify him!” Pilate says to them, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.”"
+    },
+    {
+     "h": "9d482726",
+     "en": "So then he handed him over to them to be crucified. So they took Jesus;"
+    },
+    {
+     "h": "15dacf51",
+     "en": "and carrying the cross by himself, he went out to what is called the Place of a Skull, which in Hebrew is called Golgotha,"
+    },
+    {
+     "h": "f852675a",
+     "en": "where they crucified him, and with him two others, one on either side, and Jesus in the middle."
+    },
+    {
+     "h": "740b3613",
+     "en": "And Pilate also wrote a notice and put it on the cross; and it was written, “Jesus the Nazarene, the King of the Jews.”"
+    },
+    {
+     "h": "7e010a8a",
+     "en": "So many of the Jews read this notice, because the place where Jesus was crucified was near the city; and it was written in Hebrew, in Latin, in Greek."
+    },
+    {
+     "h": "bb7e3a26",
+     "en": "So the chief priests of the Jews were saying to Pilate, “Do not write, ‘The King of the Jews,’ but that he said, ‘I am King of the Jews.’”"
+    },
+    {
+     "h": "838dc289",
+     "en": "Pilate answered, “What I have written, I have written.”"
+    },
+    {
+     "h": "1daf8227",
+     "en": "So the soldiers, when they had crucified Jesus, took his garments and made four parts, a part for each soldier, and also the tunic. Now the tunic was seamless, woven from the top throughout;"
+    },
+    {
+     "h": "a48436d3",
+     "en": "so they said to one another, “Let us not tear it, but cast lots for it, to see whose it will be.” This was so that the scripture might be fulfilled which says, “They divided my garments among themselves, and for my clothing they cast lots.” So the soldiers did these things.",
+     "cmp": [
+      {
+       "w": "Diemerisanto ta himatia mou",
+       "note": "引的是旧约《诗篇》22:18。那里两句是同一个意思说两遍；这里把它读成两件事：外面的衣服分了，里衣抽签。",
+       "en": "Quoted from Psalm 22:18. There the two lines say the same thing twice; here they are read as two acts: the outer garments divided, the tunic gambled for."
+      }
+     ]
+    },
+    {
+     "h": "f08c9dd6",
+     "en": "Now there were standing by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.",
+     "cmp": [
+      {
+       "w": "Maria hē tou Klōpa",
+       "note": "原文只写「革罗罢的马利亚」，「妻子」是照通行的理解补的。「他母亲的姐妹」和「革罗罢的马利亚」中间没有连词，可以是两个人（一共四位妇女），也可以是同一个人（一共三位）。",
+       "en": "The Greek says only \"Mary of Clopas\"; \"wife\" is supplied on the usual understanding. There is no conjunction between \"his mother’s sister\" and \"Mary of Clopas,\" so they may be two women (four in all) or the same woman (three in all)."
+      }
+     ]
+    },
+    {
+     "h": "31d06091",
+     "en": "So Jesus, seeing his mother and the disciple whom he loved standing by, says to his mother, “Woman, behold, your son.”"
+    },
+    {
+     "h": "49fc0cf2",
+     "en": "Then he says to the disciple, “Behold, your mother.” And from that hour the disciple took her into his own home."
+    },
+    {
+     "h": "8c7082bb",
+     "en": "After this, Jesus, knowing that all things had now been finished, so that the scripture might be fulfilled, says, “I thirst.”"
+    },
+    {
+     "h": "e1636271",
+     "en": "A jar full of sour wine was standing there; so they put a sponge full of the sour wine on a hyssop branch and brought it to his mouth."
+    },
+    {
+     "h": "30e2dca5",
+     "en": "So when Jesus had received the sour wine, he said, “It is finished,” and bowing his head, he gave up his spirit."
+    },
+    {
+     "h": "54212765",
+     "en": "So the Jews, since it was the day of Preparation, so that the bodies would not remain on the cross on the Sabbath, for that Sabbath was a great day, asked Pilate that their legs be broken and that they be taken away."
+    },
+    {
+     "h": "77055d16",
+     "en": "So the soldiers came and broke the legs of the first, and of the other who had been crucified with him;"
+    },
+    {
+     "h": "8b5f7ac9",
+     "en": "but coming to Jesus, when they saw that he was already dead, they did not break his legs,"
+    },
+    {
+     "h": "077370bf",
+     "en": "but one of the soldiers pierced his side with a spear, and immediately blood and water came out."
+    },
+    {
+     "h": "5d063df1",
+     "en": "And the one who has seen has testified, and his testimony is true, and he knows that he is telling the truth, so that you also may believe."
+    },
+    {
+     "h": "0de4cc9e",
+     "en": "For these things happened so that the scripture might be fulfilled: “Not a bone of him shall be broken.”",
+     "cmp": [
+      {
+       "w": "Ostoun ou syntribēsetai autou",
+       "note": "一般认为引的是旧约里关于逾越节羊羔的规定（《出埃及记》12:46、《民数记》9:12：羊羔的骨头一根也不可折断），也有人认为是《诗篇》34:20。",
+       "en": "Generally taken as quoting the Old Testament rule for the Passover lamb (Exodus 12:46; Numbers 9:12: none of its bones is to be broken); some point instead to Psalm 34:20."
+      }
+     ]
+    },
+    {
+     "h": "cef22fad",
+     "en": "And again another scripture says, “They will look on him whom they pierced.”",
+     "cmp": [
+      {
+       "w": "Opsontai eis hon exekentēsan",
+       "note": "引的是旧约《撒迦利亚书》12:10。",
+       "en": "Quoted from Zechariah 12:10."
+      }
+     ]
+    },
+    {
+     "h": "9731ba1e",
+     "en": "Now after these things Joseph of Arimathea, being a disciple of Jesus, but a secret one for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave permission. So he came and took away his body."
+    },
+    {
+     "h": "22063b03",
+     "en": "And Nicodemus also came, who had first come to him by night, bringing a mixture of myrrh and aloes, about a hundred pounds."
+    },
+    {
+     "h": "8cfe3b6b",
+     "en": "So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews."
+    },
+    {
+     "h": "a85beddc",
+     "en": "Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid."
+    },
+    {
+     "h": "7455b2d1",
+     "en": "So there, because of the Jewish day of Preparation, since the tomb was near, they laid Jesus."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 20 · The Empty Tomb; Mary, the Disciples, and Thomas",
+   "no": 20,
+   "intro": "Early on the first day of the week Mary Magdalene finds the stone moved from the tomb and runs to tell Peter and the disciple whom Jesus loved; the two run there and find only the linen cloths. Mary stays outside weeping, and Jesus appears to her. That evening he comes to the disciples behind shut doors; Thomas, who was absent, refuses to believe, and eight days later Jesus comes again and shows him his hands and side. The last two verses state why the book was written.",
+   "verses": [
+    {
+     "h": "a515afe3",
+     "en": "Now on the first day of the week Mary Magdalene comes to the tomb early, while it was still dark, and sees the stone taken away from the tomb."
+    },
+    {
+     "h": "e356cc39",
+     "en": "So she runs and comes to Simon Peter and to the other disciple, whom Jesus loved, and says to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.”"
+    },
+    {
+     "h": "424ac095",
+     "en": "So Peter and the other disciple went out, and they were going to the tomb."
+    },
+    {
+     "h": "b36c7d3a",
+     "en": "And the two were running together; and the other disciple ran ahead, faster than Peter, and came to the tomb first,"
+    },
+    {
+     "h": "64788c6a",
+     "en": "and stooping to look in, he sees the linen cloths lying there; yet he did not go in."
+    },
+    {
+     "h": "ef1aaf63",
+     "en": "So Simon Peter also comes, following him, and went into the tomb; and he sees the linen cloths lying there,"
+    },
+    {
+     "h": "e22483a2",
+     "en": "and the face cloth, which had been on his head, not lying with the linen cloths but rolled up in a place by itself."
+    },
+    {
+     "h": "8d59dd3d",
+     "en": "So then the other disciple, who had come to the tomb first, also went in, and he saw and believed;"
+    },
+    {
+     "h": "05715eea",
+     "en": "for as yet they did not understand the scripture, that he must rise from the dead."
+    },
+    {
+     "h": "e2181477",
+     "en": "So the disciples went away again to their own homes."
+    },
+    {
+     "h": "8f93fa70",
+     "en": "But Mary was standing outside at the tomb, weeping. So as she wept, she stooped to look into the tomb,"
+    },
+    {
+     "h": "a9e9ea59",
+     "en": "and she sees two angels in white sitting, one at the head and one at the feet, where the body of Jesus had been lying."
+    },
+    {
+     "h": "bda4bea1",
+     "en": "And they say to her, “Woman, why are you weeping?” She says to them, “They have taken away my Lord, and I do not know where they have laid him.”"
+    },
+    {
+     "h": "6746fad5",
+     "en": "Having said this, she turned around and sees Jesus standing there, and she did not know that it was Jesus."
+    },
+    {
+     "h": "9bccca7c",
+     "en": "Jesus says to her, “Woman, why are you weeping? Whom are you seeking?” Supposing him to be the gardener, she says to him, “Sir, if you have carried him away, tell me where you have laid him, and I will take him away.”"
+    },
+    {
+     "h": "d7cf4ff3",
+     "en": "Jesus says to her, “Mary.” She turned and says to him in Hebrew, “Rabbouni”—which means Teacher.",
+     "cmp": [
+      {
+       "w": "Rabbouni",
+       "note": "这个词是亚兰话，意思是「我的老师」；经文说的「希伯来话」泛指当时犹太人说的话。后面那句解释是经文原有的（底本放在括号里），不是本站补的，所以白话用破折号隔开。和合本的「夫子」就是老师。",
+       "en": "The word is Aramaic, \"my teacher\"; \"Hebrew\" in the text is a loose term for the language Jews then spoke. The explanation that follows belongs to the text itself (the edition prints it in parentheses) and is not supplied by this site, so the translations set it off with a dash. The Union Version’s 夫子 (fūzǐ, \"master\") means teacher."
+      }
+     ]
+    },
+    {
+     "h": "7d80f1c4",
+     "en": "Jesus says to her, “Do not hold on to me, for I have not yet ascended to the Father; but go to my brothers and say to them, ‘I am ascending to my Father and your Father, and my God and your God.’”",
+     "cmp": [
+      {
+       "w": "Mē mou haptou",
+       "note": "原文是现在时的禁令，通常理解为「不要一直拉着我」；和合本译「不要摸我」。",
+       "en": "The Greek is a present-tense prohibition, usually understood as \"stop clinging to me\"; the Union Version has 不要摸我 (búyào mō wǒ, \"do not touch me\")."
+      }
+     ]
+    },
+    {
+     "h": "2f0b633e",
+     "en": "Mary Magdalene comes, announcing to the disciples, “I have seen the Lord,” and that he had said these things to her."
+    },
+    {
+     "h": "4f587e39",
+     "en": "So when it was evening on that day, the first day of the week, and the doors were shut where the disciples were for fear of the Jews, Jesus came and stood in the midst and says to them, “Peace to you.”"
+    },
+    {
+     "h": "cbcc3e5f",
+     "en": "And having said this, he showed them his hands and his side. So the disciples rejoiced when they saw the Lord."
+    },
+    {
+     "h": "8e3b09f8",
+     "en": "So Jesus said to them again, “Peace to you; just as the Father has sent me, I also send you.”"
+    },
+    {
+     "h": "2b8666e3",
+     "en": "And having said this, he breathed on them and says to them, “Receive the Holy Spirit."
+    },
+    {
+     "h": "a9376f34",
+     "en": "If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.”"
+    },
+    {
+     "h": "1d3dfaf2",
+     "en": "Now Thomas, one of the twelve, the one called Didymus, was not with them when Jesus came."
+    },
+    {
+     "h": "9d3a8a3d",
+     "en": "So the other disciples were saying to him, “We have seen the Lord.” But he said to them, “Unless I see in his hands the mark of the nails, and put my finger into the mark of the nails, and put my hand into his side, I will certainly not believe.”"
+    },
+    {
+     "h": "590214eb",
+     "en": "And after eight days his disciples were again inside, and Thomas with them. Jesus comes, the doors having been shut, and stood in the midst and said, “Peace to you.”"
+    },
+    {
+     "h": "54bcc3f1",
+     "en": "Then he says to Thomas, “Bring your finger here and see my hands, and bring your hand and put it into my side; and do not be unbelieving, but believing.”"
+    },
+    {
+     "h": "043d0f0c",
+     "en": "Thomas answered and said to him, “My Lord and my God!”"
+    },
+    {
+     "h": "aca2b556",
+     "en": "Jesus says to him, “Because you have seen me, have you believed? Blessed are those who have not seen and yet have believed.”"
+    },
+    {
+     "h": "016c63cf",
+     "en": "Now Jesus did many other signs in the presence of the disciples, which are not written in this book;"
+    },
+    {
+     "h": "fd164035",
+     "en": "but these are written so that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 21 · Breakfast by the Sea; Peter; the Disciple Jesus Loved",
+   "no": 21,
+   "intro": "The end of the previous chapter already reads like the close of the book; this chapter continues after it. Jesus shows himself to seven disciples by the Sea of Tiberias: after a night of catching nothing they cast the net where he tells them and take a hundred and fifty-three large fish, and then eat breakfast with him. Three times Jesus asks Peter, \"Do you love me?\" and tells him to tend his sheep; then the talk turns to the disciple whom Jesus loved. The last two verses close the book a second time.",
+   "verses": [
+    {
+     "h": "260c8cce",
+     "en": "After these things Jesus showed himself again to the disciples by the Sea of Tiberias; and he showed himself in this way."
+    },
+    {
+     "h": "9dc4979c",
+     "en": "Simon Peter, and Thomas called Didymus, and Nathanael from Cana of Galilee, and the sons of Zebedee, and two others of his disciples were together."
+    },
+    {
+     "h": "f36b18ef",
+     "en": "Simon Peter says to them, “I am going fishing.” They say to him, “We are coming with you too.” They went out and got into the boat, and during that night they caught nothing."
+    },
+    {
+     "h": "aa9b9b9d",
+     "en": "Now when early morning had already come, Jesus stood on the shore; yet the disciples did not know that it was Jesus."
+    },
+    {
+     "h": "0cd027e5",
+     "en": "So Jesus says to them, “Children, you do not have any fish to eat, do you?” They answered him, “No.”"
+    },
+    {
+     "h": "3a0ab502",
+     "en": "And he said to them, “Cast the net on the right side of the boat, and you will find some.” So they cast it, and they were no longer able to haul it in because of the great number of fish."
+    },
+    {
+     "h": "72cea075",
+     "en": "So that disciple whom Jesus loved says to Peter, “It is the Lord.” So Simon Peter, hearing that it was the Lord, tied his outer garment around him, for he was stripped for work, and threw himself into the sea;",
+     "cmp": [
+      {
+       "w": "ēn gar gymnos",
+       "note": "原文 gymnos 可以指一丝不挂，也可以指只穿贴身的衣服；这里说的是打鱼干活时的样子。",
+       "en": "Greek gymnos can mean naked or wearing only an undergarment; here it describes how he was dressed for fishing."
+      }
+     ]
+    },
+    {
+     "h": "5f0ce6a9",
+     "en": "but the other disciples came in the little boat, for they were not far from the land, only about two hundred cubits away, dragging the net of fish."
+    },
+    {
+     "h": "b0ac9105",
+     "en": "So when they got out on the land, they see a charcoal fire laid there, and fish lying on it, and bread."
+    },
+    {
+     "h": "a56cdc4a",
+     "en": "Jesus says to them, “Bring some of the fish that you have just caught.”"
+    },
+    {
+     "h": "cfe71601",
+     "en": "So Simon Peter went aboard and hauled the net to land, full of large fish, a hundred and fifty-three; and although there were so many, the net was not torn."
+    },
+    {
+     "h": "6f5213ac",
+     "en": "Jesus says to them, “Come, have breakfast.” Now none of the disciples dared to ask him, “Who are you?” knowing that it was the Lord."
+    },
+    {
+     "h": "0117d373",
+     "en": "Jesus comes and takes the bread and gives it to them, and the fish likewise."
+    },
+    {
+     "h": "cd9eba92",
+     "en": "This was now the third time that Jesus was shown to the disciples after he was raised from the dead."
+    },
+    {
+     "h": "3a4e6771",
+     "en": "So when they had eaten breakfast, Jesus says to Simon Peter, “Simon, son of John, do you love me more than these?” He says to him, “Yes, Lord; you know that I love you.” He says to him, “Feed my lambs.”",
+     "cmp": [
+      {
+       "w": "agapais me … philō se",
+       "note": "这段对话里「爱」原文用了两个动词：耶稣前两次问用 agapaō，彼得三次回答都用 phileō，耶稣第三次问也改用 phileō。这两个词在这卷书里常常通用，这里有没有意思上的分别，看法不一。白话、英文和和合本都只写一个「爱」字。「比这些更深」的「这些」指什么（别的门徒，还是渔船和网），原文也没有说明。",
+       "en": "In this exchange the Greek uses two verbs for \"love\": Jesus asks with agapaō the first two times, Peter answers with phileō all three times, and Jesus’s third question switches to phileō. The two are often used interchangeably in this Gospel, and whether a difference is meant here is disputed. The Chinese versions and the English all write one word. What \"these\" refers to in \"more than these\" (the other disciples, or the boats and nets) the text does not say either."
+      }
+     ]
+    },
+    {
+     "h": "4f071e2f",
+     "en": "He says to him again a second time, “Simon, son of John, do you love me?” He says to him, “Yes, Lord; you know that I love you.” He says to him, “Shepherd my sheep.”"
+    },
+    {
+     "h": "c6185060",
+     "en": "He says to him the third time, “Simon, son of John, do you love me?” Peter was grieved because he said to him the third time, “Do you love me?” and he said to him, “Lord, you know all things; you know that I love you.” Jesus says to him, “Feed my sheep."
+    },
+    {
+     "h": "686194e7",
+     "en": "Truly, truly, I say to you, when you were younger, you used to gird yourself and walk where you wished; but when you grow old, you will stretch out your hands, and another will gird you and carry you where you do not wish to go.”"
+    },
+    {
+     "h": "d298b465",
+     "en": "Now this he said, signifying by what kind of death he would glorify God. And having said this, he says to him, “Follow me.”"
+    },
+    {
+     "h": "d9d947ce",
+     "en": "Peter, turning around, sees the disciple whom Jesus loved following, the one who also had leaned back on his chest at the supper and said, “Lord, who is it that is handing you over?”"
+    },
+    {
+     "h": "123fac33",
+     "en": "So Peter, seeing him, says to Jesus, “Lord, and what about this man?”"
+    },
+    {
+     "h": "67e7975d",
+     "en": "Jesus says to him, “If I want him to remain until I come, what is that to you? You follow me.”"
+    },
+    {
+     "h": "0009f16e",
+     "en": "So this saying went out among the brothers, that that disciple would not die. Yet Jesus did not say to him that he would not die, but, “If I want him to remain until I come, what is that to you?”"
+    },
+    {
+     "h": "d42b6900",
+     "en": "This is the disciple who is testifying about these things and who wrote these things, and we know that his testimony is true."
+    },
+    {
+     "h": "0f9a8f75",
+     "en": "Now there are also many other things that Jesus did, which if they were written one by one, I suppose that not even the world itself would hold the books that would be written."
+    }
+   ]
+  }
+ ],
+ "title": "The Gospel according to John",
+ "summary": "The fourth Gospel, and the one most unlike the other three: fewer stories and long conversations, in which Jesus, whom Christians hold to be the deliverer sent by God, speaks of who he is and how he is related to the Father, from the opening poem about the Word to his death and resurrection. 21 chapters.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "基督教圣经的新约开头有四卷「福音书」，各自把耶稣的事讲了一遍，《约翰福音》是第四卷，也和前三卷最不一样：前三卷讲过的事这里大多没有，这里的事前三卷也大多没有；故事少，长篇的对话和讲话多。一般认为它是四卷里最晚写成的，大约在公元 90 到 100 年前后，用的是当时通行的希腊文。书里没有写作者的名字，只说是「耶稣所爱的那个门徒」作的见证；传统上说这个门徒是约翰，耶稣十二个门徒之一。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "全书是一个讲故事的人在叙述，他常常停下来替读者解释一句（「拉比翻出来就是老师」「犹太人和撒玛利亚人不来往」），这些解释是原文就有的。引号里的话是故事里的人说的，其中耶稣的话特别长：他讲自己是谁、从哪里来、和上帝是什么关系。耶稣称上帝为「父」，称自己为「子」；叙述里的「他」，大多数时候指耶稣。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "故事发生在大约公元 30 年前后，地点是地中海东岸的犹太人地区（今天的以色列、巴勒斯坦一带），当时归罗马帝国管。犹太人只拜一位上帝，照着祖先摩西传下来的律法过日子，一年里有几个大节期要上耶路撒冷的圣殿去：这卷书的故事就是跟着这些节期走的，耶稣几次上耶路撒冷。很多人在盼望上帝派一位救主来，这位救主希伯来话叫「弥赛亚」，希腊话叫「基督」。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是开头十八节像一首诗，讲「道」「光」「生命」，很抽象；读不进去可以先从第 1 章第 19 节读起，回头再看。二是耶稣的话里常有一层字面、一层别的意思（重生、活水、粮、光、葡萄树），听的人常常只听懂字面，他再往下讲；书里并不都解释。三是很多话翻来覆去地说，同一个词一章里出现十几次，原文就是这样。四是书里常说「犹太人」怎样怎样：耶稣和门徒自己也都是犹太人，这个词在这卷书里很多时候指的是耶路撒冷那些反对他的人和首领，本站照原文写「犹太人」，没有改。五是有一段（第 7 章第 53 节到第 8 章第 11 节，行淫被捉的妇人）最早的抄本没有，本站照底本译出并在那里写明。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在书里反复出现，先认一下。",
+   "terms": [
+    [
+     "道",
+     "原文是「话」「言语」的意思。书的开头用它称呼那位后来成为人的耶稣。"
+    ],
+    [
+     "父、子",
+     "耶稣称上帝为「父」，称自己为「子」。"
+    ],
+    [
+     "永生",
+     "永远的生命。书里说它不只是死后的事，信的人现在就有。"
+    ],
+    [
+     "世界",
+     "有时指上帝所造、所爱的全人类，有时指不认识上帝、与他作对的那一面，要看上下文。"
+    ],
+    [
+     "光、黑暗",
+     "书里用「光」说上帝和耶稣带来的东西，用「黑暗」说与之相反的一面。"
+    ],
+    [
+     "神迹",
+     "原文是「记号」。这卷书把耶稣做的奇事叫作记号：意思是它们指向他是谁。"
+    ],
+    [
+     "荣耀",
+     "上帝的光辉和尊贵。书里常说耶稣「得荣耀」，多半指他被钉十字架和复活那件事。"
+    ],
+    [
+     "信",
+     "相信、信靠。书里几乎不用名词「信心」，总是用动词。"
+    ],
+    [
+     "帮助者",
+     "耶稣说他离开以后，父要另派一位来和门徒同在，书里说就是圣灵。和合本译「保惠师」。"
+    ],
+    [
+     "犹太人",
+     "见上一条「读的时候会卡住的地方」第四点。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "全书 21 章。顺着读的话：第 1 章是序诗和最早的几个门徒；第 2–12 章讲耶稣做的七件神迹和围绕它们的长篇对话；第 13–17 章是最后那顿晚饭上，他对门徒说的话和一篇祷告；第 18–21 章是被捕、钉十字架、复活。只想先读一段的话，读第 9 章（一个生来瞎眼的人被治好之后的一连串问话），或者第 11 章（拉撒路）。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What kind of book this is",
+   "a": "The New Testament of the Christian Bible opens with four \"Gospels,\" each telling the story of Jesus. John is the fourth and the most unlike the others: most of what the first three tell is absent here, and most of what is here is absent from them; there are fewer stories and many long conversations and speeches. It is generally thought to be the latest of the four, written around 90 to 100 CE in the common Greek of the time. The book does not name its author; it says only that it rests on the testimony of \"the disciple whom Jesus loved.\" By tradition that disciple was John, one of the twelve."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "A narrator tells the whole story, and often pauses to explain something to the reader (\"Rabbi, which translated means Teacher\"; \"Jews have no dealings with Samaritans\"). Those explanations are part of the original. Words in quotation marks are spoken by people in the story, and Jesus’s speeches are especially long: he talks about who he is, where he comes from, and how he is related to God. Jesus calls God \"the Father\" and himself \"the Son.\" \"He\" in the narration is usually Jesus."
+  },
+  {
+   "q": "The setting",
+   "a": "The story takes place around 30 CE in the Jewish lands on the eastern shore of the Mediterranean (today’s Israel and Palestine), then under the Roman Empire. Jews worshiped one God and lived by the law handed down from their ancestor Moses, and several times a year went up to the temple in Jerusalem for the great festivals. This book’s story follows those festivals, with Jesus going up to Jerusalem several times. Many were waiting for God to send a deliverer, called \"Messiah\" in Hebrew and \"Christ\" in Greek."
+  },
+  {
+   "q": "Where you may get stuck",
+   "a": "First, the opening eighteen verses read like a poem about \"the Word,\" \"light\" and \"life,\" and are very abstract; if they do not go in, start at 1:19 and come back. Second, Jesus’s words often carry a plain sense and another sense (being born again, living water, bread, light, the vine); his hearers usually catch only the plain one and he goes on from there. The book does not always explain. Third, much is said over and over, with the same word a dozen times in a chapter; the original is like that. Fourth, the book often says \"the Jews\" did this or that. Jesus and his disciples were Jews too; in this book the phrase very often means the people and leaders in Jerusalem who opposed him. This site translates it as it stands. Fifth, one passage (7:53–8:11, the woman caught in adultery) is missing from the earliest manuscripts; this site translates it as its edition prints it and says so there."
+  },
+  {
+   "q": "Words that keep coming up",
+   "a": "These words recur throughout the book.",
+   "terms": [
+    [
+     "The Word",
+     "Greek logos, \"word\" or \"speech.\" The opening of the book uses it for the one who later became human as Jesus."
+    ],
+    [
+     "Father, Son",
+     "Jesus calls God \"the Father\" and himself \"the Son.\""
+    ],
+    [
+     "Eternal life",
+     "Life that lasts forever. The book says it is not only for after death: those who believe have it now."
+    ],
+    [
+     "The world",
+     "Sometimes all humanity, made and loved by God; sometimes the side of it that does not know God and resists him. The context decides."
+    ],
+    [
+     "Light, darkness",
+     "The book uses \"light\" for what God and Jesus bring and \"darkness\" for its opposite."
+    ],
+    [
+     "Signs",
+     "This book’s word for the wonders Jesus does: they point to who he is."
+    ],
+    [
+     "Glory",
+     "The splendor and honor of God. When the book says Jesus is \"glorified,\" it mostly means his crucifixion and resurrection."
+    ],
+    [
+     "Believe",
+     "To trust. The book almost never uses the noun \"faith,\" always the verb."
+    ],
+    [
+     "Helper",
+     "Jesus says that after he leaves, the Father will send another to be with the disciples; the book says this is the Holy Spirit."
+    ],
+    [
+     "The Jews",
+     "See the fourth point under \"Where you may get stuck.\""
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "The book has 21 chapters. Read straight through: chapter 1 is the opening poem and the first disciples; chapters 2–12 tell seven signs Jesus does and the long conversations around them; chapters 13–17 are what he says to his disciples at their last supper, ending in a prayer; chapters 18–21 are the arrest, crucifixion and resurrection. If you want just one stretch, read chapter 9 (the questioning that follows the healing of a man born blind) or chapter 11 (Lazarus)."
+  }
+ ],
+ "compare": [
+  "希腊文原文用 SBL Greek New Testament（SBLGNT），只去掉了底本里的校勘符号，经文本身没有动；罗马转写是本站按通行规则机械生成的，不标重音。底本里用双方括号 ⟦ ⟧ 括起来的（7:53–8:11），是编者认为后来才加进这卷书的文字。",
+  "白话是写给完全没接触过圣经的人看的：用平常说话的词，把谁在对谁说写清楚。原文没有、但不补就看不懂的字，一律放在圆括号（）里；括号里是通行的解释，不是经文本身。英文版贴着字面译，不加括号，两版对着看就知道哪些是补的。白话、英文和所有说明都是 AI 从希腊文译写的，没有经过圣经学者或教会审阅。",
+  "对照栏是 1919 年出版的官话和合译本（和合本），录文取自维基文库，繁体转成简体，几个异体字改成了通行写法，原书的旧式标点照录。维基文库录的是称「神」的版本；本站的白话写「上帝」。人名、地名跟和合本走，只有几处用了今天更常见的写法：约旦河、撒旦、凯撒；和合本的「夫子」本站写「老师」，「保惠师」写「帮助者」。",
+  "和合本当年依据的希腊文底本和 SBLGNT 不完全一样，所以有的地方三栏对不上，不是译错。第 5 章第 4 节底本没有、和合本印成小字注，本站留着节号，原文栏放一个「—」。第 7 章第 53 节和合本没有单独编号，那一句在它的第 8 章第 1 节开头，所以这一节的和合本栏是空的。这些地方都在那一节下面写明。",
+  "这卷书的希腊文用词很少、句子很短，同一个词反复出现（信、知道、看见、世界、住在……里面）。白话和英文都尽量一个词一种译法，原文重复的地方照样重复，没有为了文字变化换说法。原文里叙述者替读者加的解释（如「翻出来就是……」），是经文本身的话，没有放进圆括号。"
+ ],
+ "compareEn": [
+  "The Greek is the SBL Greek New Testament (SBLGNT) with its text-critical sigla removed and nothing else changed; the romanization is generated mechanically by this site under the usual conventions, without accents. Text in double square brackets ⟦ ⟧ (7:53–8:11) is what the editors judge to be a later addition to this Gospel.",
+  "The Chinese is written for readers who have never opened a Bible: everyday words, with who is speaking to whom made explicit. Words that are not in the Greek but are needed to follow it are put in parentheses; they give the usual explanation and are not part of the text. The English stays close to the wording and adds no parentheses, so reading the two side by side shows what was supplied. The Chinese, the English and all the notes were translated and written by AI from the Greek and have not been reviewed by biblical scholars or by any church.",
+  "The older Chinese version shown alongside is the Mandarin Union Version of 1919, taken from Chinese Wikisource, converted to simplified characters with a few variant characters normalized and its original punctuation kept. Wikisource carries the edition that calls God 神 (Shén); this site’s plain Chinese writes 上帝 (Shàngdì). Names follow the Union Version, except for a few now more commonly written another way: the Jordan, Satan and Caesar.",
+  "The Union Version was made from a Greek text that differs in places from SBLGNT, so where the columns disagree it is not always a mistranslation. Verse 5:4 is a small-print note in the Union Version and absent from this edition; the verse number is kept, with a dash in the Greek column. Verse 7:53 has no number of its own in the Union Version, which puts that sentence at the start of 8:1, so nothing is shown beside it. Each such place is explained under that verse.",
+  "This Gospel’s Greek uses few words and short sentences, with the same words returning again and again (believe, know, see, world, abide in). Both translations try to keep one rendering per word and to repeat where the Greek repeats, rather than varying for style. The narrator’s own explanations to the reader (\"which translated means…\") are part of the text and are not put in parentheses."
+ ]
+}
