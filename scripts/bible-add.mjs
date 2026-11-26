@@ -4,7 +4,9 @@
 // 译稿.json：{ id 面板书 id（grc-mark）, slug, index 面板目录条目（title、cover、author 原文书名的转写、era、shelf、note）,
 //   part 栏目名（「白话 · 和合本对照 · 希腊文」）, oldWho 对照栏的译本名, en { title, summary, primer, primerEn, compare, compareEn },
 //   chapters: [{ no, title, en, intro, enIntro, verses: [{ zh, en, notes?: [[词, 注]], cmp?: [[原词, 中文注, 英文注]] }] }] }
-// 原文与和合本.json：一章一份，[{ v 节号, grc 希腊文（SBLGNT，已去掉校勘符号）, cuv 和合本（已转简体） }]，逐节照底本，不在这里改字。
+// 原文与和合本.json：一章一份，[{ v 节号, grc 希腊文（SBLGNT，已去掉校勘符号）, cuv 和合本（已转简体）, omitted? }]，逐节照底本，不在这里改字。
+//   底本没有、和合本有的节（马可福音 7:16、9:44、9:46、11:26、15:28）带 omitted: true，原文栏放一个「—」占位，节号才不会错开；
+//   这样的节白话写明「底本没有这一节」，并在对照注里说明较晚的抄本这里有什么。
 //   希腊文取自 https://github.com/LogosBible/SBLGNT（CC BY 4.0），和合本取自维基文库《聖經 (和合本)》（1919 年，公有领域）。
 // 罗马转写由 scripts/grc-translit.mjs 从希腊文机械生成。跑完接着跑 node scripts/import-dashboard.mjs。
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
@@ -26,8 +28,9 @@ for (let i = 0; i < argv.length; i += 1) {
 if (!draftFile) throw new Error('用法：node scripts/bible-add.mjs <译稿.json> --rows <章号>=<原文与和合本.json>');
 
 // 和合本录文里的几个异体字改成通行写法（1919 年原书的字形，简体里不用）；别的字不动
-const VARIANTS = { 汚: '污', 徧: '遍', 痲: '麻', 愼: '慎' };
-const normalizeOld = (s) => s.replace(/[汚徧痲愼]/g, (c) => VARIANTS[c]);
+// 「䍁」是转换工具给「繸」（衣裳的穗子）配的罕用简体，多数字体没有，改回原字
+const VARIANTS = { 汚: '污', 徧: '遍', 痲: '麻', 愼: '慎', 䍁: '繸' };
+const normalizeOld = (s) => s.replace(/[汚徧痲愼䍁]/g, (c) => VARIANTS[c]);
 
 const draft = JSON.parse(readFileSync(draftFile, 'utf8'));
 const readJson = (file, fallback) => (existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : fallback);
@@ -57,7 +60,7 @@ for (const ch of draft.chapters) {
     if (row.v !== i + 1) throw new Error(`${at} 原文的节号是 ${row.v}`);
     if (!v.zh?.trim() || !v.en?.trim()) throw new Error(`${at} 缺白话或英译`);
     if (/[⸀-⸅]/.test(row.grc)) throw new Error(`${at} 希腊文里还有校勘符号`);
-    const sa = { t: 'sa', text: row.grc.normalize('NFC'), tr: grcTranslit(row.grc) };
+    const sa = row.omitted ? { t: 'sa', text: '—', tr: '—' } : { t: 'sa', text: row.grc.normalize('NFC'), tr: grcTranslit(row.grc) };
     if (/[Ͱ-Ͽἀ-῿]/.test(sa.tr)) throw new Error(`${at} 转写里还有希腊字母：${sa.tr}`);
     blocks.push({ t: 'p', text: v.zh.trim() });
     blocks.push({ t: 'old', who: draft.oldWho, text: normalizeOld(row.cuv), plain: '', notes: (v.notes ?? []).map(([w, note]) => ({ w, note })) });

@@ -63,9 +63,9 @@ const BOOKS = [
       old: { name: '维基文库《古蘭經譯解》（王静斋 1946 年丙种本，只录了前两章）', url: 'https://zh.wikisource.org/wiki/古蘭經譯解', license: '公有领域', label: '旧译' },
       notice: 'Tanzil Quran Text (Uthmani, Version 1.1). Copyright (C) 2007-2026 Tanzil Project. License: Creative Commons Attribution 3.0. Permission is granted to copy and distribute verbatim copies of this text, but changing it is not allowed. This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes. This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.',
     }],
-  // 圣经分卷、分批做：2026-11-26 先做马可福音第 1 章当样板（用户看过口气再铺开），章号写在每章的 no 上。
+  // 圣经分卷做：2026-11-26 第一卷是马可福音（先做第 1 章当样板，用户看过口气后做完 16 章），章号写在每章的 no 上。
   // 原文是 SBLGNT（CC BY 4.0），只去掉校勘符号；对照栏是 1919 年的和合本（公有领域，维基文库录文，繁转简）。
-  ['grc-mark', 'mark', 'christianity', '新约四卷福音书里最短的一卷，讲耶稣（基督徒相信他是上帝派来的救主）做了什么、说了什么、怎样被钉死又复活。故事讲得很快，一件接一件。这里先收第 1 章：约翰在约旦河给人施洗，耶稣受洗后开始在加利利传道、治病、赶鬼。',
+  ['grc-mark', 'mark', 'christianity', '新约四卷福音书里最短的一卷，讲耶稣（基督徒相信他是上帝派来的救主）做了什么、说了什么、怎样被钉死又复活。故事讲得很快，一件接一件，共 16 章：从他在约旦河受洗，到加利利传道、治病、赶鬼，再到耶路撒冷的最后一个星期和空了的坟墓。',
     {
       orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
       old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
