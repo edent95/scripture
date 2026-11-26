@@ -1333,6 +1333,24 @@ function john(P, A) {
   return { frame: { seeds: false, rays: false }, body: water(P, A, { reflect: 18 }) + vine(-1) + vine(1) + halo + lamp + flame };
 }
 
+/** 使徒行传:焦点处一朵火焰,下面一弧十一朵小火焰(五旬节);地面是一段地球的弧线,一条金色虚线从这头走到那头(「直到地极」) —— 不画人 */
+function acts(P, A) {
+  const flameAt = (x, y, s, w) => `<path d="M${f(x)} ${f(y - 9 * s)}C${f(x + 6 * s)} ${f(y - 2 * s)} ${f(x + 5 * s)} ${f(y + 6 * s)} ${f(x)} ${f(y + 8 * s)}C${f(x - 5 * s)} ${f(y + 6 * s)} ${f(x - 6 * s)} ${f(y - 2 * s)} ${f(x)} ${f(y - 9 * s)}Z" fill="${P.paper}" stroke="${P.foil}" stroke-width="${w}"/>`;
+  const big = `<g>${A ? '<animateTransform attributeName="transform" type="translate" values="0 0;0 -1.6;0 0" dur="2.6s" repeatCount="indefinite"/>' : ''}${flameAt(0, FY, 1.7, 0.95)}</g>`;
+  const small = range(11)
+    .map((i) => {
+      const a = ((200 + (140 * i) / 10) * Math.PI) / 180;
+      return flameAt(RADII[4] * 0.86 * Math.cos(a), FY + 46 - RADII[4] * 0.86 * Math.sin(a) * -1 * 0.55, 0.62, 0.6);
+    })
+    .join('');
+  // 地球的一段弧:一个很大的圆只露出顶上一截,上面几条经线
+  const R = 260;
+  const cy = GY + R - 6;
+  const globe = `<path d="M-170 ${f(GY + 54)}A${R} ${R} 0 0 1 170 ${f(GY + 54)}" stroke="${P.ink}" stroke-width="0.75"/>${[-110, -55, 0, 55, 110].map((x) => `<path d="M${f(x)} ${f(cy - Math.sqrt(R * R - x * x))}Q${f(x * 0.82)} ${f(GY + 70)} ${f(x * 0.7)} 190" stroke="${P.faint}" stroke-width="0.4"/>`).join('')}`;
+  const route = `<path d="M-150 ${f(GY + 40)}C-90 ${f(GY - 6)} -30 ${f(GY + 22)} 30 ${f(GY - 2)}C76 ${f(GY - 20)} 116 ${f(GY + 14)} 152 ${f(GY + 38)}" stroke="${P.foil}" stroke-width="0.9" stroke-dasharray="5 4">${A ? '<animate attributeName="stroke-dashoffset" values="0;-18" dur="2.8s" repeatCount="indefinite"/>' : ''}</path>${[[-150, 40], [30, -2], [152, 38]].map(([x, y]) => `<circle cx="${x}" cy="${f(GY + y)}" r="2.4" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.55"/>`).join('')}`;
+  return { frame: { seeds: false }, body: globe + route + small + big };
+}
+
 /** 罗马书:一卷摊开的信(两根轴、几行字用短线表示),轴上一枚圆印;信的上方焦点处一个空的圆,一条虚线从信走到圆 —— 不画人 */
 function romans(P, A) {
   const top = GY - 78;
@@ -1381,6 +1399,7 @@ const SUBJECTS = {
   matthew,
   luke,
   john,
+  acts,
   romans,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);

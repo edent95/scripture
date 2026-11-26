@@ -39,6 +39,7 @@ export const EMBLEMS = {
   matthew: ['hypo:14,3,6', 'epi:7,2,2', 6], // 家谱三个十四代
   luke: ['rose:12,5', 'hypo:8,3,3', 6], // 七十二人:十二的倍数
   john: ['maurer:7,29', 'epi:7,1,2', 6], // 七件神迹
+  acts: ['epi:12,5,7', 'hypo:9,2,4', 6], // 十二使徒;火焰一样向外
   romans: ['hypo:16,5,7', 'epi:8,3,2', 6], // 十六章
 };
 

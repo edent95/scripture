@@ -82,6 +82,12 @@ const BOOKS = [
       orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
       old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
     }],
+  // 圣经第五卷：使徒行传 28 章（2026-11-27）。路加福音的下集；底本、对照栏、做法同前四卷。
+  ['grc-acts', 'acts', 'christianity', '新约里接在四卷福音书后面的一卷，是《路加福音》的下集：耶稣离开以后，最早一批信他的人从耶路撒冷一路把这个信仰传到罗马。前半卷主要讲彼得，后半卷讲保罗三次出门传道、被捕、受审，最后在海上遇难、被押到罗马。共 28 章。',
+    {
+      orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
+      old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
   // 圣经：罗马书 16 章（2026-11-27）。第一封书信：全篇是保罗一个人在说话，译文整篇不加引号。底本、对照栏同前几卷。
   ['grc-romans', 'romans', 'christianity', '新约里的第一封书信，也是保罗最长的一封信，写给他还没见过面的罗马信徒。它不讲故事，讲道理：人凭什么在上帝面前算为对（凭着信，不是凭着守律法），这对犹太人和外族人意味着什么，信的人又该怎样过日子。共 16 章。',
     {

@@ -185,6 +185,7 @@ const EN_SEARCH_NAME = {
   matthew: 'Gospel of Matthew',
   luke: 'Gospel of Luke',
   john: 'Gospel of John',
+  acts: 'Acts of the Apostles',
   romans: 'Romans (Letter to the Romans)',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
