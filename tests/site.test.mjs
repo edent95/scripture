@@ -89,7 +89,7 @@ test('一图看懂：每个母题都画得出来，没有文字节点、没有�
       const html = readFileSync(join(OUT, chapterPath(quran, i, lang), 'index.html'), 'utf8');
       assert.equal(html.split('class="scene-art scene-art--wide"').length - 1, 1, `第 ${ch.no} 章 ${lang} 缺大图`);
       assert.equal(html.split('class="story-no"').length - 1, ch.points.length, `第 ${ch.no} 章 ${lang} 图下说明条数不对`);
-      assert.ok(html.includes(`href="${bookPath(quran, lang)}#primer"`), `第 ${ch.no} 章 ${lang} 缺「先看这几件事」的入口`);
+      assert.ok(html.includes('data-guide') && html.includes('<dialog class="guide"'), `第 ${ch.no} 章 ${lang} 缺「导读」按钮或面板`);
     }
   });
 });
@@ -364,7 +364,9 @@ test('导读：每部书有「读之前先知道这几件事」，多章书每�
     for (const lang of ['zh', 'en']) {
       const toc = readFileSync(join(OUT, bookPath(b, lang), 'index.html'), 'utf8');
       assert.equal(toc.split('id="primer"').length - 1, 1, `${b.slug} ${lang} 目录页（单章书是经文页）要有一块导读`);
-      assert.ok(toc.indexOf('id="primer"') < toc.indexOf(single ? 'class="verses"' : 'class="chapter-list"'), `${b.slug} ${lang} 导读要排在正文前面`);
+      // 多章书：导读在目录页、章节列表前面。单章书的目录页就是经文页：导读收在「导读」面板里，不压在经文前面
+      if (single) assert.ok(toc.indexOf('class="verses"') < toc.indexOf('<dialog class="guide"') && toc.indexOf('<dialog class="guide"') < toc.indexOf('id="primer"'), `${b.slug} ${lang} 导读要收在面板里、排在经文后面`);
+      else assert.ok(toc.indexOf('id="primer"') < toc.indexOf('class="chapter-list"'), `${b.slug} ${lang} 导读要排在章节列表前面`);
     }
     if (single) continue;
     const seen = new Set();
@@ -376,8 +378,12 @@ test('导读：每部书有「读之前先知道这几件事」，多章书每�
       seen.add(ch.intro);
       for (const lang of ['zh', 'en']) {
         const html = readFileSync(join(OUT, chapterPath(b, i, lang), 'index.html'), 'utf8');
-        assert.ok(html.includes('class="ch-intro"'), `${b.slug} 第 ${i + 1} 章 ${lang} 页面没显示导读`);
-        assert.ok(html.includes(`href="${bookPath(b, lang)}#primer"`), `${b.slug} 第 ${i + 1} 章 ${lang} 缺「先看这几件事」的入口`);
+        // 读经页：经文前面不放导读（用户 2026-11-27）；章导读和书的导读都在「导读」面板里，工具条上有按钮
+        const at = html.indexOf('<dialog class="guide"');
+        assert.ok(at > html.indexOf('class="verses"'), `${b.slug} 第 ${i + 1} 章 ${lang} 导读面板要排在经文后面`);
+        assert.ok(!html.includes('class="ch-intro"') && !html.slice(0, html.indexOf('class="verses"')).includes('id="primer"'), `${b.slug} 第 ${i + 1} 章 ${lang} 经文前面不该有导读`);
+        assert.ok(html.slice(at).includes('class="ch-intro-text"') && html.slice(at).includes('id="primer"'), `${b.slug} 第 ${i + 1} 章 ${lang} 面板里缺章导读或书的导读`);
+        assert.ok(html.slice(0, at).includes('data-guide'), `${b.slug} 第 ${i + 1} 章 ${lang} 工具条上缺「导读」按钮`);
       }
     });
   }

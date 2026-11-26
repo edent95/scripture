@@ -322,14 +322,49 @@ body[data-lang='en'] .en-text { font-size: 1.12rem; line-height: 1.8; }
   .primer summary { grid-template-columns: 1.9rem 1fr 14px; }
 }
 /* 这一章在讲什么:经文前面的一张导读卡,左边一道这本书的金线;下面是回到「读之前先知道」的入口 */
-.ch-intro { display: grid; gap: 6px 24px; margin: 20px 0 10px; padding: clamp(18px, 2.2vw, 26px) clamp(18px, 2.4vw, 30px); border-left: 2px solid var(--cover-foil, var(--line)); background: var(--soft); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
+/* 导读面板:读经页的「这一章在讲什么」和「读之前先知道这几件事」不放在经文前面,点工具条上的「导读」才从侧边(窄屏从底部)出来 */
+.guide-open { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px; border-radius: 999px; color: var(--muted); font-size: 0.82rem; font-weight: 600; }
+.guide-open::before { content: ''; width: 7px; height: 7px; border-radius: 50%; background: var(--cover-foil, var(--action)); }
+.guide-open:hover { color: var(--ink); }
+.guide-open:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
+.guide { margin: 0 0 0 auto; padding: 0; border: 0; width: min(520px, 100vw); max-width: none; height: 100dvh; max-height: none; background: var(--paper); color: var(--ink); box-shadow: -24px 0 64px rgba(0, 0, 0, 0.2); overflow-y: auto; overscroll-behavior: contain; }
+.guide::backdrop { background: rgba(0, 0, 0, 0.42); }
+.guide[open] { animation: guide-in 320ms cubic-bezier(0.2, 0.8, 0.2, 1); }
+.guide[open]::backdrop { animation: guide-fade 320ms ease-out; }
+@keyframes guide-in { from { transform: translateX(28px); opacity: 0; } }
+@keyframes guide-up { from { transform: translateY(28px); opacity: 0; } }
+@keyframes guide-fade { from { opacity: 0; } }
+html:has(.guide[open]) { overflow: hidden; }
+.guide-sheet { padding: 0 clamp(20px, 4vw, 34px) 40px; }
+.guide-bar { position: sticky; top: 0; z-index: 1; display: flex; align-items: center; justify-content: space-between; margin: 0 calc(-1 * clamp(20px, 4vw, 34px)); padding: 10px clamp(12px, 3vw, 22px) 10px clamp(20px, 4vw, 34px); background: var(--paper); border-bottom: 1px solid var(--line); }
+.guide-title { margin: 0; color: var(--muted); font-size: 0.82rem; font-weight: 700; letter-spacing: 0.1em; }
+.guide-close { width: 44px; height: 44px; border: 0; border-radius: 50%; background: transparent; color: var(--muted); font-size: 1.5rem; line-height: 1; cursor: pointer; }
+.guide-close:hover { background: var(--soft); color: var(--ink); }
+.guide-close:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
+.guide-intro { display: grid; gap: 8px; padding: 26px 0 28px; }
+.guide-intro .ch-intro-text { font-size: 1.04rem; }
+.guide .primer { display: block; margin: 0; padding: 26px 0 0; background: none; border-radius: 0; border-top: 1px solid var(--line); }
+.guide .guide-bar + .primer { border-top: 0; }
+.guide .primer::before, .guide .primer-emblem { display: none; }
+.guide .primer-head { position: static; margin-bottom: 14px; }
+.guide .primer h2 { font-size: 1.3rem; }
+.guide .primer-a { padding-left: 0; }
+.guide .primer-terms { grid-template-columns: 1fr; }
+/* 没有脚本时:#guide 被点到就原地展开在页面末尾 */
+dialog.guide:target:not([open]) { display: block; position: static; width: auto; height: auto; margin: 40px 0 0; box-shadow: none; border-top: 1px solid var(--line); }
+@media (max-width: 640px) {
+  .guide { width: 100vw; height: auto; max-height: 88dvh; margin: auto 0 0; border-radius: 22px 22px 0 0; box-shadow: 0 -18px 50px rgba(0, 0, 0, 0.22); }
+  .guide[open] { animation-name: guide-up; }
+  .guide-bar { border-radius: 22px 22px 0 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .guide[open], .guide[open]::backdrop { animation: none; }
+}
+
 .ch-intro-label { margin: 0; color: var(--muted); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; }
 .ch-intro-text { margin: 0; max-width: 52rem; font-size: 1.08rem; line-height: 1.9; }
-.ch-intro-link { display: inline-flex; align-items: center; justify-self: start; min-height: 44px; margin-top: 4px; color: var(--action); font-size: 0.92rem; font-weight: 600; }
-.ch-intro-link span { display: inline-block; margin-left: 4px; transition: transform 200ms cubic-bezier(0.2, 0.8, 0.2, 1); }
-.ch-intro-link:hover span { transform: translateX(3px); }
 @media (prefers-reduced-motion: reduce) {
-  .primer summary::after, .ch-intro-link span { transition: none; }
+  .primer summary::after { transition: none; }
   .primer details[open] .primer-a { animation: none; }
 }
 
