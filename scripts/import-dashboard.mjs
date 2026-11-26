@@ -70,6 +70,12 @@ const BOOKS = [
       orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
       old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
     }],
+  // 圣经第二卷：马太福音 28 章（2026-11-27）。底本、对照栏、做法同马可福音。
+  ['grc-matthew', 'matthew', 'christianity', '新约的第一卷，从耶稣（基督徒相信他是上帝派来的救主）的家谱和出生讲起，到他被钉死、复活为止，共 28 章。里面有大段的教导，最有名的是第 5–7 章的「登山宝训」；书里一再引旧约的话，说耶稣身上发生的事经上早就写了。',
+    {
+      orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
+      old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
 ];
 
 /** 面板 prose 格式 -> 本站的 chapters[]。导入和 check-dashboard-book.mjs 共用。 */

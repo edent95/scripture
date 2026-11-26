@@ -180,6 +180,7 @@ const EN_SEARCH_NAME = {
   'tao-te-ching': 'Tao Te Ching (Dao De Jing)',
   quran: 'Quran',
   mark: 'Gospel of Mark',
+  matthew: 'Gospel of Matthew',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
