@@ -13,7 +13,7 @@ for (const file of process.argv.slice(2)) {
     if (data.kind !== 'prose') throw new Error('kind 必须是 "prose"');
     if (!data.parts?.[0]?.name) throw new Error('缺 parts[0].name(如「直译 · 玄奘本对照 · 梵文」)');
     const chapters = convertChapters(data, id);
-    validateBook({ slug: 'x', tradition: 'buddhism', ...(id.startsWith('lzh-') ? { origLang: 'lzh' } : {}), title: 't', sanskrit: 's', summary: 's', chapters }, 'x.json');
+    validateBook({ slug: 'x', tradition: 'buddhism', ...(id.startsWith('lzh-') ? { origLang: 'lzh' } : id.startsWith('grc-') ? { origLang: 'grc' } : {}), title: 't', sanskrit: 's', summary: 's', chapters }, 'x.json');
     const n = chapters.reduce((s, ch) => s + ch.verses.length, 0);
     const withOld = chapters.reduce((s, ch) => s + ch.verses.filter((v) => v.old).length, 0);
     console.log(`✓ ${id}: ${chapters.length} 章 · ${n} 段 · ${withOld} 段有古译对照 · 古译者 ${oldTranslatorOf(data) ?? '(无)'}`);

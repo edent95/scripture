@@ -1,4 +1,4 @@
-// 从个人面板书库导入：<面板>/client/public/books/local/sa-*.json（梵文）、pi-*.json（巴利文）、ar-*.json（阿拉伯文） -> content/<slug>.json
+// 从个人面板书库导入：<面板>/client/public/books/local/sa-*.json（梵文）、pi-*.json（巴利文）、lzh-*.json（文言）、grc-*.json（希腊文）、ar-*.json（阿拉伯文） -> content/<slug>.json
 // 面板那边是 prose 格式（p 白话直译 → old 古译对照 → sa 梵文，一段一组），这里转成本站的 verses。
 // 用法：node scripts/import-dashboard.mjs [面板书库目录]
 import { readFileSync, writeFileSync, rmSync, readdirSync } from 'node:fs';
@@ -63,6 +63,13 @@ const BOOKS = [
       old: { name: '维基文库《古蘭經譯解》（王静斋 1946 年丙种本，只录了前两章）', url: 'https://zh.wikisource.org/wiki/古蘭經譯解', license: '公有领域', label: '旧译' },
       notice: 'Tanzil Quran Text (Uthmani, Version 1.1). Copyright (C) 2007-2026 Tanzil Project. License: Creative Commons Attribution 3.0. Permission is granted to copy and distribute verbatim copies of this text, but changing it is not allowed. This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes. This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.',
     }],
+  // 圣经分卷做：2026-11-26 第一卷是马可福音（先做第 1 章当样板，用户看过口气后做完 16 章），章号写在每章的 no 上。
+  // 原文是 SBLGNT（CC BY 4.0），只去掉校勘符号；对照栏是 1919 年的和合本（公有领域，维基文库录文，繁转简）。
+  ['grc-mark', 'mark', 'christianity', '新约四卷福音书里最短的一卷，讲耶稣（基督徒相信他是上帝派来的救主）做了什么、说了什么、怎样被钉死又复活。故事讲得很快，一件接一件，共 16 章：从他在约旦河受洗，到加利利传道、治病、赶鬼，再到耶路撒冷的最后一个星期和空了的坟墓。',
+    {
+      orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
+      old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
 ];
 
 /** 面板 prose 格式 -> 本站的 chapters[]。导入和 check-dashboard-book.mjs 共用。 */
@@ -109,7 +116,7 @@ BOOKS.forEach(([id, slug, tradition, summary, source], order) => {
     slug,
     order,
     tradition,
-    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('ar-') ? { origLang: 'ar' } : id.startsWith('lzh-') ? { origLang: 'lzh' } : {}),
+    ...(id.startsWith('pi-') ? { origLang: 'pi' } : id.startsWith('ar-') ? { origLang: 'ar' } : id.startsWith('lzh-') ? { origLang: 'lzh' } : id.startsWith('grc-') ? { origLang: 'grc' } : {}),
     title: meta.title.replace(/^《(.+?)》.*$/, '$1'),
     sanskrit: meta.author.trim(),
     ...(oldTranslator ? { oldTranslator } : {}),
