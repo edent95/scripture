@@ -7,14 +7,15 @@ import { validateBook, loadBooks, mergeEnglish, verseKey } from '../scripts/cont
 
 process.env.OUT_DIR = mkdtempSync(join(tmpdir(), 'scripture-dist-'));
 const OUT = process.env.OUT_DIR;
-const { build, bookPath, chapterPath, chNo } = await import('../scripts/build.mjs');
+const { build, bookPath, chapterPath, chNo, isSingle } = await import('../scripts/build.mjs');
 const { arTranslit } = await import('../scripts/ar-translit.mjs');
+const { grcTranslit } = await import('../scripts/grc-translit.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
 const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
-test('梵文、巴利文、阿拉伯文书架二十五部全部通过校验', () => {
+test('梵文、巴利文、文言、希腊文、阿拉伯文书架二十七部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 26);
+  assert.equal(books.length, 27);
 });
 
 test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {
@@ -35,6 +36,21 @@ test('阿拉伯文罗马转写：冠词同化、连读 alif、安拉、长元音
   assert.equal(arTranslit('وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ'), 'walal-ʾākhiratu khayrun laka mina al-ʾūlā');
   assert.equal(arTranslit('وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ'), 'walā anā ʿābidun mā ʿabadtum');
   assert.equal(arTranslit('أُولَـٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ ۖ وَاللَّهُ'), 'ulāʾika hum khayru al-bariyyati wallāhu');
+});
+
+test('希腊文罗马转写：粗气号写 h（双元音的也在最前）、鼻音 γ、双元音里的 υ、下标 ι、分音符、标点', () => {
+  assert.equal(grcTranslit('Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ χριστοῦ.'), 'Archē tou euangeliou Iēsou christou.');
+  assert.equal(grcTranslit('ὁ υἱός μου ὁ ἀγαπητός'), 'ho huios mou ho agapētos');
+  assert.equal(grcTranslit('οἱ Ἱεροσολυμῖται'), 'hoi Hierosolymitai');
+  assert.equal(grcTranslit('ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ·'), 'en tōi Ēsaïāi tōi prophētēi;');
+  assert.equal(grcTranslit('Τί ἐστιν τοῦτο; εὗρον Μωϋσῆς ῥῆμα'), 'Ti estin touto? heuron Mōÿsēs rhēma');
+});
+
+test('带章号的书只收了一章时也照多章书排：有目录页，章节页在 /<slug>/<章号>/', () => {
+  const one = { slug: 'x', chapters: [{ no: 1 }] };
+  assert.equal(isSingle(one), false);
+  assert.equal(chapterPath(one, 0), '/x/1/');
+  assert.equal(isSingle({ slug: 'x', chapters: [{}] }), true);
 });
 
 test('只收了一部分章的书：章号决定网址，章号必须每章都有且递增', () => {
@@ -223,7 +239,7 @@ test('书里面的设计：目录页和读经页用这本书在首页的同一�
     const bg = new RegExp(`data-book="${b.slug}"[^>]*>\\s*<div class="feed-art"[^>]*--cover-bg:(#[0-9a-f]{6})`).exec(home)?.[1];
     assert.ok(bg, `${b.slug} 首页封面没找到底色`);
     const pages = b.chapters.map((_, i) => chapterPath(b, i));
-    if (b.chapters.length > 1) pages.push(`/${b.slug}/`);
+    if (!isSingle(b)) pages.push(`/${b.slug}/`);
     for (const p of pages) {
       const html = readFileSync(join(OUT, p, 'index.html'), 'utf8');
       assert.ok(html.includes(`<div class="book-page" style="--cover-bg:${bg};`), `${p} 颜色和首页封面不一致`);
@@ -233,7 +249,7 @@ test('书里面的设计：目录页和读经页用这本书在首页的同一�
     b.chapters.forEach((ch, i) => {
       const html = readFileSync(join(OUT, chapterPath(b, i), 'index.html'), 'utf8');
       assert.ok(html.includes('class="read-count"') && html.includes('class="read-bar"'), `${chapterPath(b, i)} 缺阅读进度位`);
-      const next = b.chapters[i + 1] ? chapterPath(b, i + 1) : b.chapters.length > 1 ? `/${b.slug}/` : '/';
+      const next = b.chapters[i + 1] ? chapterPath(b, i + 1) : !isSingle(b) ? `/${b.slug}/` : '/';
       assert.ok(html.includes(`<a class="next-card"${b.chapters[i + 1] ? ' rel="next"' : ''} href="${next}">`), `${chapterPath(b, i)} 章末的卡没指向 ${next}`);
     });
   }
@@ -344,7 +360,7 @@ test('导读：每部书有「读之前先知道这几件事」，多章书每�
     assert.ok(b.primer && b.primer.zh.length >= 4 && b.primer.zh.length <= 8, `${b.slug} 要有 4 到 8 条「读之前先知道」`);
     assert.equal(b.primer.en.length, b.primer.zh.length, `${b.slug} 导读中英条数不一样`);
     assert.ok(!/[\u4e00-\u9fff]/.test(JSON.stringify(b.primer.en)), `${b.slug} 英文导读里有中文`);
-    const single = b.chapters.length === 1;
+    const single = isSingle(b);
     for (const lang of ['zh', 'en']) {
       const toc = readFileSync(join(OUT, bookPath(b, lang), 'index.html'), 'utf8');
       assert.equal(toc.split('id="primer"').length - 1, 1, `${b.slug} ${lang} 目录页（单章书是经文页）要有一块导读`);

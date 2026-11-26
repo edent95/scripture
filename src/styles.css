@@ -753,6 +753,8 @@ main { overflow-x: clip; }
 }
 .book-page .deva { font-size: 1.16rem; color: color-mix(in srgb, var(--ink) 78%, var(--muted)); }
 /* 阿拉伯文原文:从右到左,字要大、行要松,读音符号才不挤 */
+/* 希腊文原文:MiSans 没有带气号、重音的希腊字母,用已经在加载的 Inter(转写那一行也是它) */
+.deva[lang='grc'], .book-page .deva[lang='grc'] { font-family: var(--latn); font-size: 1.14rem; line-height: 1.85; overflow-wrap: anywhere; }
 .deva[lang='ar'], .book-page .deva[lang='ar'] { direction: rtl; text-align: start; font-family: var(--arabic); font-size: 1.7rem; line-height: 2.5; color: var(--ink); overflow-wrap: anywhere; }
 /* 第一段的第一个字放大(只中文、英文正文) */
 .verse:first-child .zh-text::first-letter, body[data-lang='en'] .verse:first-child .en-text::first-letter {

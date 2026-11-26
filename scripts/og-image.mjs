@@ -21,14 +21,14 @@ const books = loadBooks().length;
 const COPY = {
   zh: {
     lang: 'zh-Hans',
-    kicker: `梵文 · 巴利文 · 文言 · 阿拉伯文 / ${books} 部`,
+    kicker: `梵文 · 巴利文 · 文言 · 希腊文 · 阿拉伯文 / ${books} 部`,
     title: '经书白话直译',
     names: '心经 · 金刚经 · 道德经 · 薄伽梵歌 · 古兰经',
     line: '逐段对照：白话 · 古代汉译 · 原文',
   },
   en: {
     lang: 'en',
-    kicker: `Sanskrit · Pali · Chinese · Arabic / ${books} classics`,
+    kicker: `Sanskrit · Pali · Chinese · Greek · Arabic / ${books} classics`,
     title: 'Scriptures, Plainly',
     names: 'Heart Sutra · Bhagavad Gita · Tao Te Ching · Quran',
     line: 'Passage by passage, beside the original',

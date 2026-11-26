@@ -1,0 +1,547 @@
+{
+ "slug": "mark",
+ "order": 26,
+ "tradition": "christianity",
+ "origLang": "grc",
+ "title": "马可福音",
+ "sanskrit": "Kata Markon",
+ "oldTranslator": "和合",
+ "summary": "新约四卷福音书里最短的一卷，讲耶稣（基督徒相信他是上帝派来的救主）做了什么、说了什么、怎样被钉死又复活。故事讲得很快，一件接一件。这里先收第 1 章：约翰在约旦河给人施洗，耶稣受洗后开始在加利利传道、治病、赶鬼。",
+ "source": {
+  "orig": {
+   "name": "SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）",
+   "en": "SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)",
+   "url": "https://sblgnt.com/",
+   "license": "CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software",
+   "licenseEn": "CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software"
+  },
+  "old": {
+   "name": "维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）",
+   "url": "https://zh.wikisource.org/wiki/聖經_(和合本)",
+   "license": "公有领域；录文 CC BY-SA 4.0",
+   "label": "旧译"
+  }
+ },
+ "chapters": [
+  {
+   "title": "第 1 章 · 约翰施洗，耶稣开始传道",
+   "no": 1,
+   "intro": "约翰在约旦河边给人施洗，说有一位比他更有能力的就要来。耶稣受了洗，在荒野受试探，然后回加利利宣讲「上帝的国近了」。他叫四个打鱼的人跟着他，在迦百农赶走污灵，治好许多病人和一个麻风病人。「他」在开头几节指约翰，第 9 节起大多指耶稣。",
+   "verses": [
+    {
+     "zh": "耶稣基督（基督：上帝选立的那一位）的福音（好消息），从这里开始。",
+     "old": {
+      "who": "和合本",
+      "text": "神的儿子、耶稣基督福音的起头、"
+     },
+     "sa": {
+      "text": "Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ χριστοῦ.",
+      "tr": "Archē tou euangeliou Iēsou christou."
+     }
+    },
+    {
+     "zh": "正如先知（替上帝传话的人）以赛亚的书上写着：「看，我派我的使者走在你前面，他要为你把路预备好。",
+     "old": {
+      "who": "和合本",
+      "text": "正如先知以赛亚书上记着说、『看哪、我要差遣我的使者在你前面、豫备道路．"
+     },
+     "sa": {
+      "text": "Καθὼς γέγραπται ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ· Ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου·",
+      "tr": "Kathōs gegraptai en tōi Ēsaïāi tōi prophētēi; Idou apostellō ton angelon mou pro prosōpou sou, hos kataskeuasei tēn hodon sou;"
+     }
+    },
+    {
+     "zh": "有一个声音在荒野里喊：『把主的路预备好，把他要走的小路修直。』」",
+     "old": {
+      "who": "和合本",
+      "text": "在旷野有人声喊着说、豫备主的道、修直他的路。』"
+     },
+     "sa": {
+      "text": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ,",
+      "tr": "phōnē boōntos en tēi erēmōi; Hetoimasate tēn hodon kyriou, eutheias poieite tas tribous autou,"
+     }
+    },
+    {
+     "zh": "施洗的约翰在荒野里出现了。他宣讲：人要悔改（回头，不再照旧过）并受洗（浸到水里的仪式），好让罪得到赦免。",
+     "old": {
+      "who": "和合本",
+      "text": "照这话、约翰来了、在旷野施洗、传悔改的洗礼、使罪得赦。",
+      "notes": [
+       {
+        "w": "照这话",
+        "note": "「照这话」三个字是和合本译者补的，原文没有；和合本原书在这几个字旁边加小点，表示是补的。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "ἐγένετο Ἰωάννης ὁ βαπτίζων ἐν τῇ ἐρήμῳ κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν.",
+      "tr": "egeneto Iōannēs ho baptizōn en tēi erēmōi kēryssōn baptisma metanoias eis aphesin hamartiōn."
+     }
+    },
+    {
+     "zh": "犹太全地的人和耶路撒冷所有的人，都出来到他那里去，承认自己的罪，在约旦河里受他的洗。",
+     "old": {
+      "who": "和合本",
+      "text": "犹太全地、和耶路撒冷的人、都出去到约翰那里、承认他们的罪、在约但河里受他的洗。"
+     },
+     "sa": {
+      "text": "καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμῖται πάντες, καὶ ἐβαπτίζοντο ὑπʼ αὐτοῦ ἐν τῷ Ἰορδάνῃ ποταμῷ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν.",
+      "tr": "kai exeporeueto pros auton pasa hē Ioudaia chōra kai hoi Hierosolymitai pantes, kai ebaptizonto hypʼ autou en tōi Iordanēi potamōi exomologoumenoi tas hamartias autōn."
+     }
+    },
+    {
+     "zh": "约翰穿的是骆驼毛的衣服，腰上束着皮带，吃的是蝗虫和野蜂蜜。",
+     "old": {
+      "who": "和合本",
+      "text": "约翰穿骆驼毛的衣服、腰束皮带、吃的是蝗虫野蜜。"
+     },
+     "sa": {
+      "text": "καὶ ἦν ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, καὶ ἔσθων ἀκρίδας καὶ μέλι ἄγριον.",
+      "tr": "kai ēn ho Iōannēs endedymenos trichas kamēlou kai zōnēn dermatinēn peri tēn osphyn autou, kai esthōn akridas kai meli agrion."
+     }
+    },
+    {
+     "zh": "他宣讲说：「有一位比我更有能力的，在我后面来。我连弯下腰替他解鞋带都不配。",
+     "old": {
+      "who": "和合本",
+      "text": "他传道说、有一位在我以后来的、能力比我更大、我就是弯腰给他解鞋带、也是不配的。"
+     },
+     "sa": {
+      "text": "καὶ ἐκήρυσσεν λέγων· Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου, οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ·",
+      "tr": "kai ekēryssen legōn; Erchetai ho ischyroteros mou opisō mou, hou ouk eimi hikanos kypsas lysai ton himanta tōn hypodēmatōn autou;"
+     }
+    },
+    {
+     "zh": "我用水给你们施洗，他却要用圣灵（上帝的灵）给你们施洗。」",
+     "old": {
+      "who": "和合本",
+      "text": "我是用水给你们施洗、他却要用圣灵给你们施洗。"
+     },
+     "sa": {
+      "text": "ἐγὼ ἐβάπτισα ὑμᾶς ὕδατι, αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ.",
+      "tr": "egō ebaptisa hymas hydati, autos de baptisei hymas en pneumati hagiōi."
+     }
+    },
+    {
+     "zh": "就在那些日子，耶稣从加利利（北部的一个地区）的拿撒勒来，在约旦河里受了约翰的洗。",
+     "old": {
+      "who": "和合本",
+      "text": "那时、耶稣从加利利的拿撒勒来、在约但河里受了约翰的洗。"
+     },
+     "sa": {
+      "text": "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη εἰς τὸν Ἰορδάνην ὑπὸ Ἰωάννου.",
+      "tr": "Kai egeneto en ekeinais tais hēmerais ēlthen Iēsous apo Nazaret tēs Galilaias kai ebaptisthē eis ton Iordanēn hypo Iōannou."
+     }
+    },
+    {
+     "zh": "他一从水里上来，就看见天裂开了，（圣）灵像鸽子一样降到他身上。",
+     "old": {
+      "who": "和合本",
+      "text": "他从水里一上来、就看见天裂开了、圣灵仿佛鸽子、降在他身上。"
+     },
+     "sa": {
+      "text": "καὶ εὐθὺς ἀναβαίνων ἐκ τοῦ ὕδατος εἶδεν σχιζομένους τοὺς οὐρανοὺς καὶ τὸ πνεῦμα ὡς περιστερὰν καταβαῖνον εἰς αὐτόν·",
+      "tr": "kai euthys anabainōn ek tou hydatos eiden schizomenous tous ouranous kai to pneuma hōs peristeran katabainon eis auton;"
+     }
+    },
+    {
+     "zh": "又有声音从天上传来：「你是我亲爱的儿子，我喜欢你。」",
+     "old": {
+      "who": "和合本",
+      "text": "又有声音从天上来说、你是我的爱子、我喜悦你。"
+     },
+     "sa": {
+      "text": "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν· Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα.",
+      "tr": "kai phōnē egeneto ek tōn ouranōn; Sy ei ho huios mou ho agapētos, en soi eudokēsa."
+     }
+    },
+    {
+     "zh": "（圣）灵立刻把耶稣赶到荒野里去。",
+     "old": {
+      "who": "和合本",
+      "text": "圣灵就把耶稣催到旷野里去。"
+     },
+     "sa": {
+      "text": "Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον.",
+      "tr": "Kai euthys to pneuma auton ekballei eis tēn erēmon."
+     }
+    },
+    {
+     "zh": "他在荒野里待了四十天，受撒旦（引人作恶的魔鬼）的试探。他和野兽在一起，又有天使（上帝的使者）伺候他。",
+     "old": {
+      "who": "和合本",
+      "text": "他在旷野四十天受撒但的试探．并与野兽同在一处．且有天使来伺候他。"
+     },
+     "sa": {
+      "text": "καὶ ἦν ἐν τῇ ἐρήμῳ τεσσεράκοντα ἡμέρας πειραζόμενος ὑπὸ τοῦ Σατανᾶ, καὶ ἦν μετὰ τῶν θηρίων, καὶ οἱ ἄγγελοι διηκόνουν αὐτῷ.",
+      "tr": "kai ēn en tēi erēmōi tesserakonta hēmeras peirazomenos hypo tou Satana, kai ēn meta tōn thēriōn, kai hoi angeloi diēkonoun autōi."
+     }
+    },
+    {
+     "zh": "约翰被抓起来以后，耶稣来到加利利，宣讲上帝的好消息，",
+     "old": {
+      "who": "和合本",
+      "text": "约翰下监以后、耶稣来到加利利、宣传神的福音、"
+     },
+     "sa": {
+      "text": "Καὶ μετὰ τὸ παραδοθῆναι τὸν Ἰωάννην ἦλθεν ὁ Ἰησοῦς εἰς τὴν Γαλιλαίαν κηρύσσων τὸ εὐαγγέλιον τοῦ θεοῦ",
+      "tr": "Kai meta to paradothēnai ton Iōannēn ēlthen ho Iēsous eis tēn Galilaian kēryssōn to euangelion tou theou"
+     }
+    },
+    {
+     "zh": "他说：「时候到了，上帝的国（上帝亲自作王的日子）近了。你们要悔改，相信这好消息。」",
+     "old": {
+      "who": "和合本",
+      "text": "说、日期满了、神的国近了．你们当悔改、信福音。"
+     },
+     "sa": {
+      "text": "καὶ λέγων ὅτι Πεπλήρωται ὁ καιρὸς καὶ ἤγγικεν ἡ βασιλεία τοῦ θεοῦ· μετανοεῖτε καὶ πιστεύετε ἐν τῷ εὐαγγελίῳ.",
+      "tr": "kai legōn hoti Peplērōtai ho kairos kai ēngiken hē basileia tou theou; metanoeite kai pisteuete en tōi euangeliōi."
+     }
+    },
+    {
+     "zh": "耶稣沿着加利利海（其实是一个大湖）的岸边走，看见西门和西门的兄弟安得烈正往湖里撒网，因为他们是打鱼的。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣顺着加利利的海边走、看见西门、和西门的兄弟安得烈、在海里撒网．他们本是打鱼的。"
+     },
+     "sa": {
+      "text": "Καὶ παράγων παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν Σίμωνα καὶ Ἀνδρέαν τὸν ἀδελφὸν Σίμωνος ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ, ἦσαν γὰρ ἁλιεῖς·",
+      "tr": "Kai paragōn para tēn thalassan tēs Galilaias eiden Simōna kai Andrean ton adelphon Simōnos amphiballontas en tēi thalassēi, ēsan gar halieis;"
+     }
+    },
+    {
+     "zh": "耶稣对他们说：「来，跟着我，我要让你们成为得人的渔夫（像打鱼那样把人带来）。」",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣对他们说、来跟从我、我要叫你们得人如得鱼一样。",
+      "notes": [
+       {
+        "w": "得人如得鱼一样",
+        "note": "原文只有「成为人的渔夫」几个字，和合本把这个比方展开来说了。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς γενέσθαι ἁλιεῖς ἀνθρώπων.",
+      "tr": "kai eipen autois ho Iēsous; Deute opisō mou, kai poiēsō hymas genesthai halieis anthrōpōn."
+     }
+    },
+    {
+     "zh": "他们立刻丢下网，跟从了他。",
+     "old": {
+      "who": "和合本",
+      "text": "他们就立刻舍了网、跟从了他。"
+     },
+     "sa": {
+      "text": "καὶ εὐθὺς ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ.",
+      "tr": "kai euthys aphentes ta diktya ēkolouthēsan autōi."
+     }
+    },
+    {
+     "zh": "耶稣往前走了一小段，又看见西庇太的儿子雅各和雅各的兄弟约翰（不是施洗的那位约翰），他们在船上整理网。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣稍往前走、又见西庇太的儿子雅各、和雅各的兄弟约翰、在船上补网。"
+     },
+     "sa": {
+      "text": "καὶ προβὰς ὀλίγον εἶδεν Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,",
+      "tr": "kai probas oligon eiden Iakōbon ton tou Zebedaiou kai Iōannēn ton adelphon autou, kai autous en tōi ploiōi katartizontas ta diktya,"
+     }
+    },
+    {
+     "zh": "耶稣立刻叫他们。他们就把父亲西庇太和雇工留在船上，跟着耶稣走了。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣随即招呼他们．他们就把父亲西庇太、和雇工人留在船上、跟从耶稣去了。"
+     },
+     "sa": {
+      "text": "καὶ εὐθὺς ἐκάλεσεν αὐτούς. καὶ ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω αὐτοῦ.",
+      "tr": "kai euthys ekalesen autous. kai aphentes ton patera autōn Zebedaion en tōi ploiōi meta tōn misthōtōn apēlthon opisō autou."
+     }
+    },
+    {
+     "zh": "他们进了迦百农（加利利湖边的一个镇）。一到安息日（每周停工敬拜上帝的那一天），耶稣就在会堂（犹太人聚会读经的地方）里教导人。",
+     "old": {
+      "who": "和合本",
+      "text": "到了迦百农、耶稣就在安息日进了会堂教训人。"
+     },
+     "sa": {
+      "text": "Καὶ εἰσπορεύονται εἰς Καφαρναούμ. καὶ εὐθὺς τοῖς σάββασιν ἐδίδασκεν εἰς τὴν συναγωγήν.",
+      "tr": "Kai eisporeuontai eis Kapharnaoum. kai euthys tois sabbasin edidasken eis tēn synagōgēn."
+     }
+    },
+    {
+     "zh": "大家听了他的教导都很惊奇，因为他教导他们，像一个自己有权柄的人，不像那些文士（讲解犹太律法的学者）。",
+     "old": {
+      "who": "和合本",
+      "text": "众人很希奇他的教训．因为他教训他们、正像有权柄的人、不像文士。"
+     },
+     "sa": {
+      "text": "καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ, ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων καὶ οὐχ ὡς οἱ γραμματεῖς.",
+      "tr": "kai exeplēssonto epi tēi didachēi autou, ēn gar didaskōn autous hōs exousian echōn kai ouch hōs hoi grammateis."
+     }
+    },
+    {
+     "zh": "就在那时，他们的会堂里有一个被污灵（附在人身上的邪灵）附着的人，他喊叫起来，",
+     "old": {
+      "who": "和合本",
+      "text": "在会堂里有一个人、被污鬼附着．他喊叫说、",
+      "notes": [
+       {
+        "w": "污鬼",
+        "note": "原文是「不洁净的灵」。和合本译「污鬼」，本站的白话写「污灵」；这一章后面说的「鬼」（原文 daimonion）指的是同一类东西。"
+       }
+      ]
+     },
+     "sa": {
+      "text": "καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ καὶ ἀνέκραξεν",
+      "tr": "kai euthys ēn en tēi synagōgēi autōn anthrōpos en pneumati akathartōi kai anekraxen"
+     }
+    },
+    {
+     "zh": "说：「拿撒勒人耶稣，我们跟你有什么相干？你是来消灭我们的吗？我知道你是谁，你是上帝的圣者。」",
+     "old": {
+      "who": "和合本",
+      "text": "拿撒勒人耶稣、我们与你有甚么相干、你来灭我们么．我知道你是谁、乃是神的圣者。"
+     },
+     "sa": {
+      "text": "λέγων· Τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ.",
+      "tr": "legōn; Ti hēmin kai soi, Iēsou Nazarēne? ēlthes apolesai hēmas? oida se tis ei, ho hagios tou theou."
+     }
+    },
+    {
+     "zh": "耶稣斥责它说：「住口，从这人身上出来！」",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣责备他说、不要作声、从这人身上出来罢。"
+     },
+     "sa": {
+      "text": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ.",
+      "tr": "kai epetimēsen autōi ho Iēsous legōn; Phimōthēti kai exelthe ex autou."
+     }
+    },
+    {
+     "zh": "污灵让那人抽搐了一阵，大叫一声，就从他身上出来了。",
+     "old": {
+      "who": "和合本",
+      "text": "污鬼叫那人抽了一阵疯、大声喊叫、就出来了。"
+     },
+     "sa": {
+      "text": "καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ.",
+      "tr": "kai sparaxan auton to pneuma to akatharton kai phōnēsan phōnēi megalēi exēlthen ex autou."
+     }
+    },
+    {
+     "zh": "大家都吓了一跳，互相议论说：「这是怎么回事？是新的教导！他凭着权柄，连污灵也命令，它们竟然听他的。」",
+     "old": {
+      "who": "和合本",
+      "text": "众人都惊讶、以致彼此对问说、这是甚么事、是个新道理阿．他用权柄吩咐污鬼、连污鬼也听从了他。"
+     },
+     "sa": {
+      "text": "καὶ ἐθαμβήθησαν ἅπαντες, ὥστε συζητεῖν πρὸς ἑαυτοὺς λέγοντας· Τί ἐστιν τοῦτο; διδαχὴ καινή· κατʼ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.",
+      "tr": "kai ethambēthēsan hapantes, hōste syzētein pros heautous legontas; Ti estin touto? didachē kainē; katʼ exousian kai tois pneumasi tois akathartois epitassei, kai hypakouousin autōi."
+     }
+    },
+    {
+     "zh": "耶稣的名声立刻传遍了加利利周围的整个地区。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣的名声、就传遍了加利利的四方。"
+     },
+     "sa": {
+      "text": "καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς πανταχοῦ εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας.",
+      "tr": "kai exēlthen hē akoē autou euthys pantachou eis holēn tēn perichōron tēs Galilaias."
+     }
+    },
+    {
+     "zh": "他们一出会堂，就同雅各和约翰一起，进了西门和安得烈的家。",
+     "old": {
+      "who": "和合本",
+      "text": "他们一出会堂、就同着雅各约翰、进了西门和安得烈的家。"
+     },
+     "sa": {
+      "text": "Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου μετὰ Ἰακώβου καὶ Ἰωάννου.",
+      "tr": "Kai euthys ek tēs synagōgēs exelthontes ēlthon eis tēn oikian Simōnos kai Andreou meta Iakōbou kai Iōannou."
+     }
+    },
+    {
+     "zh": "西门的岳母正发着烧躺在床上，他们立刻把她的事告诉耶稣。",
+     "old": {
+      "who": "和合本",
+      "text": "西门的岳母、正害热病躺着．就有人告诉耶稣。"
+     },
+     "sa": {
+      "text": "ἡ δὲ πενθερὰ Σίμωνος κατέκειτο πυρέσσουσα, καὶ εὐθὺς λέγουσιν αὐτῷ περὶ αὐτῆς.",
+      "tr": "hē de penthera Simōnos katekeito pyressousa, kai euthys legousin autōi peri autēs."
+     }
+    },
+    {
+     "zh": "耶稣走上前，拉着她的手扶她起来。烧就退了，她便招待他们。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣进前拉着他的手、扶他起来、热就退了、他就服事他们。"
+     },
+     "sa": {
+      "text": "καὶ προσελθὼν ἤγειρεν αὐτὴν κρατήσας τῆς χειρός· καὶ ἀφῆκεν αὐτὴν ὁ πυρετός, καὶ διηκόνει αὐτοῖς.",
+      "tr": "kai proselthōn ēgeiren autēn kratēsas tēs cheiros; kai aphēken autēn ho pyretos, kai diēkonei autois."
+     }
+    },
+    {
+     "zh": "到了傍晚，太阳下山以后，人们把所有生病的和被鬼附的人，都带到耶稣那里。",
+     "old": {
+      "who": "和合本",
+      "text": "天晚日落的时候、有人带着一切害病的、和被鬼附的、来到耶稣跟前。"
+     },
+     "sa": {
+      "text": "Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους·",
+      "tr": "Opsias de genomenēs, hote edy ho hēlios, epheron pros auton pantas tous kakōs echontas kai tous daimonizomenous;"
+     }
+    },
+    {
+     "zh": "全城的人都聚在门口。",
+     "old": {
+      "who": "和合本",
+      "text": "合城的人都聚集在门前。"
+     },
+     "sa": {
+      "text": "καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη πρὸς τὴν θύραν.",
+      "tr": "kai ēn holē hē polis episynēgmenē pros tēn thyran."
+     }
+    },
+    {
+     "zh": "耶稣治好了许多患各种病的人，又赶出许多鬼。他不许鬼说话，因为鬼认得他是谁。",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣治好了许多害各样病的人、又赶出许多鬼、不许鬼说话、因为鬼认识他。"
+     },
+     "sa": {
+      "text": "καὶ ἐθεράπευσεν πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις, καὶ δαιμόνια πολλὰ ἐξέβαλεν, καὶ οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν.",
+      "tr": "kai etherapeusen pollous kakōs echontas poikilais nosois, kai daimonia polla exebalen, kai ouk ēphien lalein ta daimonia, hoti ēideisan auton."
+     }
+    },
+    {
+     "zh": "（第二天）清早，天还很黑，耶稣就起来，出门到一个没有人的地方，在那里祷告。",
+     "old": {
+      "who": "和合本",
+      "text": "次日早晨、天未亮的时候、耶稣起来、到旷野地方去、在那里祷告。"
+     },
+     "sa": {
+      "text": "Καὶ πρωῒ ἔννυχα λίαν ἀναστὰς ἐξῆλθεν καὶ ἀπῆλθεν εἰς ἔρημον τόπον κἀκεῖ προσηύχετο.",
+      "tr": "Kai prōï ennycha lian anastas exēlthen kai apēlthen eis erēmon topon kakei prosēucheto."
+     }
+    },
+    {
+     "zh": "西门和跟他在一起的人追着去找耶稣，",
+     "old": {
+      "who": "和合本",
+      "text": "西门和同伴追了他去。"
+     },
+     "sa": {
+      "text": "καὶ κατεδίωξεν αὐτὸν Σίμων καὶ οἱ μετʼ αὐτοῦ,",
+      "tr": "kai katediōxen auton Simōn kai hoi metʼ autou,"
+     }
+    },
+    {
+     "zh": "找到了，就对他说：「大家都在找你。」",
+     "old": {
+      "who": "和合本",
+      "text": "遇见了就对他说、众人都找你。"
+     },
+     "sa": {
+      "text": "καὶ εὗρον αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι Πάντες ζητοῦσίν σε.",
+      "tr": "kai heuron auton kai legousin autōi hoti Pantes zētousin se."
+     }
+    },
+    {
+     "zh": "耶稣对他们说：「我们到别处去，到附近的村镇去，我也好在那里宣讲，因为我就是为这件事出来的。」",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣对他们说、我们可以往别处去、到邻近的乡村、我也好在那里传道．因为我是为这事出来的。"
+     },
+     "sa": {
+      "text": "καὶ λέγει αὐτοῖς· Ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις, ἵνα καὶ ἐκεῖ κηρύξω, εἰς τοῦτο γὰρ ἐξῆλθον.",
+      "tr": "kai legei autois; Agōmen allachou eis tas echomenas kōmopoleis, hina kai ekei kēryxō, eis touto gar exēlthon."
+     }
+    },
+    {
+     "zh": "于是他走遍加利利全地，在他们的会堂里宣讲，并且赶鬼。",
+     "old": {
+      "who": "和合本",
+      "text": "于是在加利利全地、进了会堂、传道赶鬼。"
+     },
+     "sa": {
+      "text": "καὶ ἦλθεν κηρύσσων εἰς τὰς συναγωγὰς αὐτῶν εἰς ὅλην τὴν Γαλιλαίαν καὶ τὰ δαιμόνια ἐκβάλλων.",
+      "tr": "kai ēlthen kēryssōn eis tas synagōgas autōn eis holēn tēn Galilaian kai ta daimonia ekballōn."
+     }
+    },
+    {
+     "zh": "有一个患麻风（当时泛指严重的皮肤病）的人来求耶稣，跪下对他说：「只要你肯，你就能让我洁净（病好，能回到人群里）。」",
+     "old": {
+      "who": "和合本",
+      "text": "有一个长大麻疯的、来求耶稣、向他跪下说、你若肯、必能叫我洁净了。"
+     },
+     "sa": {
+      "text": "Καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν λέγων αὐτῷ ὅτι Ἐὰν θέλῃς δύνασαί με καθαρίσαι.",
+      "tr": "Kai erchetai pros auton lepros parakalōn auton kai gonypetōn legōn autōi hoti Ean thelēis dynasai me katharisai."
+     }
+    },
+    {
+     "zh": "耶稣动了怒，伸手摸他，对他说：「我肯，你洁净了吧！」",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣动了慈心、就伸手摸他、说、我肯、你洁净了罢。"
+     },
+     "sa": {
+      "text": "καὶ ὀργισθεὶς ἐκτείνας τὴν χεῖρα αὐτοῦ ἥψατο καὶ λέγει αὐτῷ· Θέλω, καθαρίσθητι·",
+      "tr": "kai orgistheis ekteinas tēn cheira autou hēpsato kai legei autōi; Thelō, katharisthēti;"
+     }
+    },
+    {
+     "zh": "麻风立刻离开了他，他就洁净了。",
+     "old": {
+      "who": "和合本",
+      "text": "大麻疯即时离开他、他就洁净了。"
+     },
+     "sa": {
+      "text": "καὶ εὐθὺς ἀπῆλθεν ἀπʼ αὐτοῦ ἡ λέπρα, καὶ ἐκαθαρίσθη.",
+      "tr": "kai euthys apēlthen apʼ autou hē lepra, kai ekatharisthē."
+     }
+    },
+    {
+     "zh": "耶稣严厉地叮嘱他，立刻打发他走，",
+     "old": {
+      "who": "和合本",
+      "text": "耶稣严严的嘱咐他、就打发他走、"
+     },
+     "sa": {
+      "text": "καὶ ἐμβριμησάμενος αὐτῷ εὐθὺς ἐξέβαλεν αὐτόν,",
+      "tr": "kai embrimēsamenos autōi euthys exebalen auton,"
+     }
+    },
+    {
+     "zh": "对他说：「小心，什么都不要对人说。你只要去让祭司（在圣殿主持献祭的人）检查你的身体，再为你得了洁净，献上摩西（传下犹太律法的人）规定的祭物，给大家作个证明。」",
+     "old": {
+      "who": "和合本",
+      "text": "对他说、你要谨慎、甚么话都不可告诉人．只要去把身体给祭司察看、又因为你洁净了、献上摩西所吩咐的礼物、对众人作证据。"
+     },
+     "sa": {
+      "text": "καὶ λέγει αὐτῷ· Ὅρα μηδενὶ μηδὲν εἴπῃς, ἀλλὰ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου ἃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.",
+      "tr": "kai legei autōi; Hora mēdeni mēden eipēis, alla hypage seauton deixon tōi hierei kai prosenenke peri tou katharismou sou ha prosetaxen Mōÿsēs eis martyrion autois."
+     }
+    },
+    {
+     "zh": "那人出去以后，却到处讲，把这件事传开了，结果耶稣不能再公开进城，只好留在城外没有人的地方。人们还是从各处到他那里来。",
+     "old": {
+      "who": "和合本",
+      "text": "那人出去、倒说许多的话、把这件事传扬开了、叫耶稣以后不得再明明的进城、只好在外边旷野地方．人从各处都就了他来。"
+     },
+     "sa": {
+      "text": "ὁ δὲ ἐξελθὼν ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον, ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς εἰς πόλιν εἰσελθεῖν, ἀλλὰ ἔξω ἐπʼ ἐρήμοις τόποις ἦν· καὶ ἤρχοντο πρὸς αὐτὸν πάντοθεν.",
+      "tr": "ho de exelthōn ērxato kēryssein polla kai diaphēmizein ton logon, hōste mēketi auton dynasthai phanerōs eis polin eiselthein, alla exō epʼ erēmois topois ēn; kai ērchonto pros auton pantothen."
+     }
+    }
+   ]
+  }
+ ]
+}

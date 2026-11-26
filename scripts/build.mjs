@@ -49,7 +49,7 @@ const T = {
     siteSub: '',
     home: '首页',
     sitemap: '网站地图',
-    footer: '梵文、巴利文、文言原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；古兰经的阿拉伯文原文取自 Tanzil 项目（tanzil.net，CC BY 3.0），逐字照录、没有改动；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
+    footer: '梵文、巴利文、文言原文与古代汉译（玄奘、鸠摩罗什、真谛、维祇难等）都是公有领域；古兰经的阿拉伯文原文取自 Tanzil 项目（tanzil.net，CC BY 3.0），逐字照录、没有改动；圣经的希腊文原文取自 SBL Greek New Testament（sblgnt.com，CC BY 4.0），只去掉校勘符号，对照的和合本（1919 年）是公有领域；白话直译、英译、古译今译与注释是本站整理，以 CC BY 4.0 授权：注明出处（Eden Tan · scripture.eden-tan.com）即可自由使用、转载、改编。',
     notFound: '找不到这一页',
     backHome: '回到首页',
     cols: '显示哪几栏',
@@ -89,7 +89,7 @@ const T = {
     siteSub: '',
     home: 'Home',
     sitemap: 'Sitemap',
-    footer: 'The Sanskrit, Pali and Classical Chinese texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The Arabic text of the Quran is the Tanzil Project’s (tanzil.net, CC BY 3.0), reproduced verbatim. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
+    footer: 'The Sanskrit, Pali and Classical Chinese texts and the classical Chinese translations (Xuanzang, Kumarajiva, Paramartha, Zhi Qian and others) are in the public domain. The Arabic text of the Quran is the Tanzil Project’s (tanzil.net, CC BY 3.0), reproduced verbatim. The Greek text of the Bible is the SBL Greek New Testament (sblgnt.com, CC BY 4.0) with its text-critical sigla removed. The English and plain-Chinese translations and all notes are this site’s own work, licensed under CC BY 4.0: free to use, share and adapt with credit to Eden Tan · scripture.eden-tan.com.',
     notFound: 'Page not found',
     backHome: 'Back to home',
     cols: 'Columns to show',
@@ -130,7 +130,9 @@ const clip = (s, n) => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
 export const bookPath = (b, lang = 'zh') => `${T[lang].prefix}/${b.slug}/`;
 // 章号：只收了一部分章的书（古兰经先收第 1、78–114 章）每章自己带 no，网址和阅读进度都按它走，以后补上别的章也不会变
 export const chNo = (b, i) => b.chapters[i].no ?? i + 1;
-export const chapterPath = (b, i, lang = 'zh') => (b.chapters.length === 1 ? bookPath(b, lang) : `${T[lang].prefix}/${b.slug}/${chNo(b, i)}/`);
+// 单章的书：只有一章、而且这一章不带章号。带章号的书是分批做的（古兰经、圣经各卷），哪怕现在只收了一章也照多章书排，网址以后不变。
+export const isSingle = (b) => b.chapters.length === 1 && b.chapters[0].no === undefined;
+export const chapterPath = (b, i, lang = 'zh') => (isSingle(b) ? bookPath(b, lang) : `${T[lang].prefix}/${b.slug}/${chNo(b, i)}/`);
 const homePath = (lang) => `${T[lang].prefix}/`;
 const verseCount = (b) => b.chapters.reduce((n, ch) => n + ch.verses.length, 0);
 const hasEn = (b) => Boolean(b.en);
@@ -140,19 +142,21 @@ const ORIG = {
   pi: { zh: '巴利文', en: 'Pali', short: '巴' },
   lzh: { zh: '文言', en: 'Classical Chinese', short: '文' },
   ar: { zh: '阿拉伯文', en: 'Arabic', short: '阿' },
+  grc: { zh: '希腊文', en: 'Greek', short: '希' },
 };
 // 原文是汉字的书：没有天城体，也没有罗马转写那一行
 const isHan = (b) => origCode(b) === 'lzh';
-// 原文栏放的是什么：梵文、巴利文是天城体 + 罗马转写；阿拉伯文是阿拉伯文原文 + 罗马转写；文言只有原文
+// 原文栏放的是什么：梵文、巴利文是天城体 + 罗马转写；阿拉伯文、希腊文是原文 + 罗马转写；文言只有原文
+const ownScript = (b) => ['ar', 'grc'].includes(origCode(b));
 const scriptNote = (b, lang) =>
-  origCode(b) === 'ar'
-    ? lang === 'en' ? 'the Arabic text and a romanization' : '附阿拉伯文原文与罗马转写'
+  ownScript(b)
+    ? lang === 'en' ? `the ${orig(b, 'en')} text and a romanization` : `附${orig(b, 'zh')}原文与罗马转写`
     : isHan(b)
       ? lang === 'en' ? 'the Classical Chinese original' : '附文言原文'
       : lang === 'en' ? `the ${orig(b, 'en')} in Devanagari and romanization` : `附${orig(b, 'zh')}天城体与罗马转写`;
 const origCode = (b) => b?.origLang ?? 'sa';
 const orig = (b, lang) => ORIG[origCode(b)][lang];
-const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi', 'lzh', 'ar']);
+const langs = (lang, b) => (b ? [T[lang].htmlLang, origCode(b)] : [T[lang].htmlLang, 'sa', 'pi', 'lzh', 'ar', 'grc']);
 
 const title = (b, lang) => (lang === 'en' ? b.en.title : b.title);
 // 英文版 <title> 与 description 用的「大家搜的名字」。页面上的书名照旧用直译名（The Heart of the Perfection of Wisdom），
@@ -175,6 +179,7 @@ const EN_SEARCH_NAME = {
   upanishads: 'Isha, Mandukya and Katha Upanishads',
   'tao-te-ching': 'Tao Te Ching (Dao De Jing)',
   quran: 'Quran',
+  mark: 'Gospel of Mark',
 };
 export const enSearchName = (b) => EN_SEARCH_NAME[b.slug] ?? b.en.title.replace(/^The /, '');
 // 梵文书名里带的中文注（如「(小本)」）在英文版换成英文
@@ -329,7 +334,7 @@ function titleSize(text, lang) {
   if (lang === 'zh') return text.length <= 3 ? 23 : text.length <= 4 ? 19.5 : text.length <= 5 ? 16 : 13.5;
   return text.length <= 16 ? 12.5 : text.length <= 28 ? 10.5 : text.length <= 44 ? 8.8 : 7.2;
 }
-const SEAL = { zh: { sa: '梵', pi: '巴', lzh: '文', ar: '阿' }, en: { sa: 'SKT', pi: 'PALI', lzh: 'CHN', ar: 'ARAB' } };
+const SEAL = { zh: { sa: '梵', pi: '巴', lzh: '文', ar: '阿', grc: '希' }, en: { sa: 'SKT', pi: 'PALI', lzh: 'CHN', ar: 'ARAB', grc: 'GRK' } };
 
 function bookCard(b, lang, n, pending = false) {
   const t = T[lang];
@@ -350,7 +355,7 @@ function bookCard(b, lang, n, pending = false) {
       </div>
       <span class="sa-name" lang="${origCode(b)}-Latn">${esc(saName(b, lang))}</span>
       <p>${esc(blurb)}</p>
-      <small>${b.chapters.length > 1 ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${tail}</small>
+      <small>${!isSingle(b) ? `${t.chapters(b.chapters.length)} · ` : ''}${t.verses(verseCount(b))} · ${tail}</small>
     </a></li>`;
 }
 
@@ -375,7 +380,7 @@ function homePage(books, lang) {
     lang === 'en'
       ? `<p class="kicker">Scripture / ${shown.length} classics in English</p>
     <h1>Read the scriptures straight from the original</h1>`
-      : `<p class="kicker">梵文 · 巴利文 · 文言 · 阿拉伯文经典 / ${books.length} 部</p>
+      : `<p class="kicker">梵文 · 巴利文 · 文言 · 希腊文 · 阿拉伯文经典 / ${books.length} 部</p>
     <h1>从原文直接读懂经书</h1>`;
   const body = `
 <section class="hero hero--art">
@@ -423,8 +428,8 @@ ${shelf('done', t.shelfDone)}`;
         : `${t.siteName}：心经、金刚经、大悲咒等 ${books.length} 部原文对照`,
     description:
       lang === 'en'
-        ? `${books.length} classics translated straight from Sanskrit, Pali and Classical Chinese into plain English: Heart Sutra, Bhagavad Gita, Tao Te Ching and more.`
-        : `${books.length} 部经典的白话直译，从梵文、巴利文、文言原文译出，每段对照原文。有心经、金刚经、大悲咒、法句经、薄伽梵歌、道德经等。`,
+        ? `${books.length} classics translated straight from Sanskrit, Pali, Classical Chinese, Greek and Arabic into plain English: Heart Sutra, Bhagavad Gita, Tao Te Ching and more.`
+        : `${books.length} 部经典的白话直译，从梵文、巴利文、文言、希腊文、阿拉伯文原文译出，每段对照原文。有心经、金刚经、大悲咒、法句经、薄伽梵歌、道德经等。`,
     body,
     jsonLd: {
       '@context': 'https://schema.org',
@@ -585,7 +590,7 @@ function sourceNote(b, lang, ch) {
 // 以前直接截第一段经文，「嗡！礼敬……」看不出这页是干什么的。
 export function chapterDescription(b, i, lang) {
   const ch = b.chapters[i];
-  const single = b.chapters.length === 1;
+  const single = isSingle(b);
   const n = ch.verses.length;
   if (lang === 'en') {
     const name = single ? enSearchName(b) : `${enSearchName(b)}, ${ch.en.split(' · ')[0]}`;
@@ -595,7 +600,7 @@ export function chapterDescription(b, i, lang) {
   }
   const name = single ? `《${b.title}》` : `《${b.title}》${ch.title}：`;
   const old = b.oldTranslator ? `，对照${b.oldTranslator}译本` : '';
-  const lead = isHan(b) ? `${name}文言原文逐段译成白话，共 ${n} 段。` : `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附${origCode(b) === 'ar' ? '' : '天城体与'}罗马转写。`;
+  const lead = isHan(b) ? `${name}文言原文逐段译成白话，共 ${n} 段。` : `${name}${orig(b, 'zh')}原文逐段直译成白话${old}，共 ${n} 段，附${ownScript(b) ? '' : '天城体与'}罗马转写。`;
   const tail = single ? b.summary : (ch.intro ?? `开头：${ch.verses[0].zh}`);
   return clip(lead + tail, 140);
 }
@@ -617,7 +622,7 @@ function storyHtml(ch, lang) {
 function chapterPage(b, i, lang) {
   const t = T[lang];
   const ch = b.chapters[i];
-  const single = b.chapters.length === 1;
+  const single = isSingle(b);
   const prev = b.chapters[i - 1];
   const next = b.chapters[i + 1];
   const heading = single ? title(b, lang) : `${title(b, lang)} · ${chTitle(ch, lang)}`;
@@ -711,7 +716,7 @@ export function build() {
     pages.push([homePath(lang), homePage(books, lang)]);
     for (const b of books) {
       if (lang === 'en' && !hasEn(b)) continue;
-      if (b.chapters.length > 1) pages.push([bookPath(b, lang), bookIndexPage(b, lang)]);
+      if (!isSingle(b)) pages.push([bookPath(b, lang), bookIndexPage(b, lang)]);
       b.chapters.forEach((_, i) => pages.push([chapterPath(b, i, lang), chapterPage(b, i, lang)]));
     }
   }

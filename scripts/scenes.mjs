@@ -1274,6 +1274,24 @@ function daodejing(P, A) {
   return { frame: { seeds: false }, body: water(P, A, { reflect: 20 }) + hills + stream + empty };
 }
 
+/** 马可福音:加利利湖上一条小船,船尾一张撒下去的网(「得人的渔夫」);天在焦点处裂开,一道光落到桅顶 —— 不画人 */
+function mark(P, A) {
+  const deck = GY - 9;
+  const hull = `M-50 ${f(deck)}C-34 ${f(GY + 7)} 30 ${f(GY + 7)} 46 ${f(deck)}Z`;
+  const boat = `<path d="${hull}" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.8"/><path d="M-40 ${f(deck + 5)}H38" stroke="${P.faint}" stroke-width="0.45"/><path d="M-4 ${f(deck)}V${f(FY + RADII[2])}M-4 ${f(FY + RADII[2] + 6)}L-30 ${f(deck - 12)}M-4 ${f(FY + RADII[2] + 6)}L24 ${f(deck - 12)}" stroke="${P.ink}" stroke-width="0.6"/>`;
+  // 网:从船尾撒出去的一把扇形线,两道横弧收住
+  const net = `<g stroke="${P.ink}" stroke-width="0.45">${range(7)
+    .map((i) => `<path d="M46 ${f(deck)}L${f(62 + i * 9)} ${f(GY + 4 + (i % 2) * 3)}"/>`)
+    .join('')}</g><path d="M58 ${f(GY - 3)}Q88 ${f(GY - 12)} 118 ${f(GY - 1)}M54 ${f(GY - 6)}Q76 ${f(GY - 13)} 100 ${f(GY - 8)}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  // 裂开的天:两道向上分开的弧,中间一个空的圆,一道虚线的光落到桅顶
+  const sky = [-1, 1]
+    .map((s) => `<path d="M${f(s * 5)} ${f(FY - RADII[1])}C${f(s * 14)} ${f(FY - 58)} ${f(s * 46)} ${f(FY - 92)} ${f(s * 96)} ${f(FY - 118)}" stroke="${P.ink}" stroke-width="0.6"/><path d="M${f(s * 12)} ${f(FY - RADII[1] + 2)}C${f(s * 26)} ${f(FY - 46)} ${f(s * 62)} ${f(FY - 72)} ${f(s * 118)} ${f(FY - 88)}" stroke="${P.faint}" stroke-width="0.4"/>`)
+    .join('');
+  const light = `<path d="M-4 ${f(FY + RADII[1])}V${f(FY + RADII[2])}" stroke="${P.foil}" stroke-width="0.95" stroke-dasharray="4 3">${A ? '<animate attributeName="stroke-dashoffset" values="0;-14" dur="2.4s" repeatCount="indefinite"/>' : ''}</path>`;
+  const opening = `<circle cx="0" cy="${f(FY)}" r="${f(RADII[1])}" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.95"/><circle cx="0" cy="${f(FY)}" r="${f(RADII[0])}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  return { frame: { seeds: false }, body: water(P, A, { reflect: 22 }) + sky + light + opening + net + boat };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1302,6 +1320,7 @@ const SUBJECTS = {
   upanishads,
   'tao-te-ching': daodejing,
   quran,
+  mark,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 

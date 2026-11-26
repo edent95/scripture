@@ -1,0 +1,400 @@
+{
+ "slug": "mark",
+ "chapters": [
+  {
+   "title": "Chapter 1 · John the Baptizer; Jesus Begins in Galilee",
+   "no": 1,
+   "intro": "The story opens in the wilderness: a man named John is baptizing people in the Jordan River and saying that someone stronger than he is about to come. Jesus is baptized, is tested in the wilderness, and then goes back north to Galilee announcing that the kingdom of God has come near. He calls four fishermen to follow him, drives an unclean spirit out of a man in the synagogue at Capernaum, heals Simon’s mother-in-law and many others, and finally heals a man with a skin disease. “He” in the first verses is John; from verse 9 on it is mostly Jesus.",
+   "verses": [
+    {
+     "h": "69ca4583",
+     "en": "The beginning of the good news of Jesus Christ.",
+     "cmp": [
+      {
+       "w": "huiou theou",
+       "note": "和合本这里多「神的儿子」几个字。许多古抄本有这几个字（huiou theou），也有几份重要的古抄本没有；本站的底本取了没有的读法，所以白话和英文里都没有。",
+       "en": "The 1919 Chinese Union Version adds 神的儿子 (Shén de érzi, \"the Son of God\") here. Many ancient manuscripts have the words (huiou theou) and a few important ones lack them; the edition this site follows prints the shorter reading, so neither translation has them."
+      }
+     ]
+    },
+    {
+     "h": "e40faab6",
+     "en": "As it is written in Isaiah the prophet: “Look, I am sending my messenger ahead of you, who will prepare your way;",
+     "cmp": [
+      {
+       "w": "en tōi Ēsaïāi",
+       "note": "经文说引的是以赛亚，其实这一节的引文出自旧约的《玛拉基书》3:1（并《出埃及记》23:20），下一节才出自《以赛亚书》40:3。较晚的抄本把这里改成了「先知们的书上」。",
+       "en": "The text names Isaiah, but the words quoted in this verse come from Malachi 3:1 (with Exodus 23:20); only the next verse is from Isaiah 40:3. Later manuscripts changed the phrase to \"in the prophets.\""
+      }
+     ]
+    },
+    {
+     "h": "e43f1a00",
+     "en": "a voice of one calling out in the wilderness: ‘Prepare the way of the Lord, make his paths straight,’”"
+    },
+    {
+     "h": "246fdda5",
+     "en": "John the baptizer appeared in the wilderness, proclaiming a baptism of repentance for the forgiveness of sins."
+    },
+    {
+     "h": "88234dc6",
+     "en": "And the whole Judean countryside and all the people of Jerusalem were going out to him, and they were being baptized by him in the Jordan River, confessing their sins."
+    },
+    {
+     "h": "54362b84",
+     "en": "And John was clothed in camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey."
+    },
+    {
+     "h": "ef970fa8",
+     "en": "And he proclaimed, saying, “After me comes one who is stronger than I; I am not fit to stoop down and untie the strap of his sandals."
+    },
+    {
+     "h": "2ece5bc6",
+     "en": "I baptized you with water, but he will baptize you with the Holy Spirit.”"
+    },
+    {
+     "h": "f1dd30ca",
+     "en": "And it happened in those days that Jesus came from Nazareth of Galilee and was baptized in the Jordan by John."
+    },
+    {
+     "h": "e0be7f87",
+     "en": "And immediately, as he was coming up out of the water, he saw the heavens being torn open and the Spirit coming down on him like a dove.",
+     "cmp": [
+      {
+       "w": "schizomenous",
+       "note": "原文是「被撕开」，很用力的一个词，和合本作「裂开了」。同一个动词在这卷书快结尾的地方（15:38）再出现一次：圣殿里的幔子从上到下裂成两半。",
+       "en": "The Greek is \"being torn apart,\" a forceful word; the Union Version has 裂开了 (lièkāi le, \"split open\"). The same verb returns near the end of the book (15:38), when the curtain of the temple is torn in two from top to bottom."
+      }
+     ]
+    },
+    {
+     "h": "582d35aa",
+     "en": "And a voice came from the heavens: “You are my beloved Son; in you I am well pleased.”"
+    },
+    {
+     "h": "5d24932b",
+     "en": "And immediately the Spirit drives him out into the wilderness.",
+     "cmp": [
+      {
+       "w": "ekballei",
+       "note": "原文是「赶出去」，和后面「赶鬼」是同一个动词，而且用的是现在时；和合本作「催」，语气轻一些。",
+       "en": "The Greek is \"throws out,\" the same verb used below for casting out demons, and it is in the present tense; the Union Version softens it to 催 (cuī, \"urged\")."
+      }
+     ]
+    },
+    {
+     "h": "efb427e9",
+     "en": "And he was in the wilderness forty days, being tested by Satan; and he was with the wild animals, and the angels were attending him."
+    },
+    {
+     "h": "1658777f",
+     "en": "And after John was handed over, Jesus came into Galilee, proclaiming the good news of God",
+     "cmp": [
+      {
+       "w": "paradothēnai",
+       "note": "原文是「被交出去」，没有说交给谁；和合本直接写成「下监」。这个动词后面还要用在耶稣自己身上（9:31、14:10：他被交到人手里）。",
+       "en": "The Greek is \"was handed over,\" without saying to whom; the Union Version writes 下监 (xià jiān, \"put in prison\"). The same verb is later used of Jesus himself (9:31; 14:10)."
+      }
+     ]
+    },
+    {
+     "h": "6481b85c",
+     "en": "and saying, “The time is fulfilled, and the kingdom of God has come near; repent and believe in the good news.”"
+    },
+    {
+     "h": "67abcd30",
+     "en": "And passing along by the Sea of Galilee, he saw Simon and Andrew, Simon’s brother, casting nets in the sea, for they were fishermen."
+    },
+    {
+     "h": "643b6697",
+     "en": "And Jesus said to them, “Come after me, and I will make you become fishers of people.”"
+    },
+    {
+     "h": "2cbe3703",
+     "en": "And immediately they left the nets and followed him."
+    },
+    {
+     "h": "faafa605",
+     "en": "And going on a little farther, he saw James the son of Zebedee and John his brother, who were in the boat mending the nets,"
+    },
+    {
+     "h": "d159cda0",
+     "en": "and immediately he called them. And leaving their father Zebedee in the boat with the hired men, they went off after him."
+    },
+    {
+     "h": "8ea64d04",
+     "en": "And they go into Capernaum; and immediately on the Sabbath he was teaching in the synagogue."
+    },
+    {
+     "h": "0b1419ab",
+     "en": "And they were astonished at his teaching, for he was teaching them as one having authority, and not as the scribes."
+    },
+    {
+     "h": "de805838",
+     "en": "And immediately there was in their synagogue a man with an unclean spirit, and he cried out,"
+    },
+    {
+     "h": "d3658dcc",
+     "en": "saying, “What have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are: the Holy One of God.”",
+     "cmp": [
+      {
+       "w": "Ti hēmin kai soi",
+       "note": "字面是「对我们、对你，有什么？」，是从希伯来话来的说法，意思是「我们和你各不相干，你别来管我们」。",
+       "en": "Literally \"What to us and to you?\", an idiom carried over from Hebrew meaning \"we have nothing to do with each other; leave us alone.\""
+      }
+     ]
+    },
+    {
+     "h": "a23a4073",
+     "en": "And Jesus rebuked him, saying, “Be silent, and come out of him.”"
+    },
+    {
+     "h": "3d39f8a8",
+     "en": "And the unclean spirit, convulsing him and crying out with a loud voice, came out of him."
+    },
+    {
+     "h": "49659f0f",
+     "en": "And they were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching! With authority he commands even the unclean spirits, and they obey him.”"
+    },
+    {
+     "h": "72866bac",
+     "en": "And the report about him went out immediately everywhere, into the whole surrounding region of Galilee."
+    },
+    {
+     "h": "f92c6e40",
+     "en": "And immediately, having come out of the synagogue, they came into the house of Simon and Andrew, with James and John."
+    },
+    {
+     "h": "21e64b5e",
+     "en": "Now Simon’s mother-in-law was lying down with a fever, and immediately they tell him about her."
+    },
+    {
+     "h": "31b0234d",
+     "en": "And he came and raised her up, taking her by the hand; and the fever left her, and she began to serve them."
+    },
+    {
+     "h": "19169c8c",
+     "en": "And when evening came, when the sun had set, they were bringing to him all who were sick and those possessed by demons."
+    },
+    {
+     "h": "3b26df3e",
+     "en": "And the whole town was gathered at the door."
+    },
+    {
+     "h": "3cd441bc",
+     "en": "And he healed many who were sick with various diseases, and cast out many demons; and he would not let the demons speak, because they knew him."
+    },
+    {
+     "h": "7c59a7ce",
+     "en": "And very early, while it was still dark, he got up and went out, and went off to a deserted place, and there he was praying."
+    },
+    {
+     "h": "264a21bd",
+     "en": "And Simon and those with him hunted for him,"
+    },
+    {
+     "h": "e97897fb",
+     "en": "and they found him and say to him, “Everyone is looking for you.”"
+    },
+    {
+     "h": "dc0aab05",
+     "en": "And he says to them, “Let us go elsewhere, into the neighboring towns, so that I may proclaim there also; for that is why I came out.”"
+    },
+    {
+     "h": "01341ab2",
+     "en": "And he went throughout all Galilee, proclaiming in their synagogues and casting out the demons."
+    },
+    {
+     "h": "e82a2122",
+     "en": "And a man with a skin disease comes to him, begging him and kneeling and saying to him, “If you are willing, you can make me clean.”",
+     "cmp": [
+      {
+       "w": "lepros",
+       "note": "原文 lepra 在当时指好几种皮肤病，不等于今天医学上说的麻风病。按犹太律法（旧约《利未记》13–14 章），得这种病的人算「不洁净」，要离开人群独自住，所以他求的不只是病好，而是「洁净」。",
+       "en": "Greek lepra covered several skin conditions and is not the same as what medicine now calls leprosy. Under Jewish law (Leviticus 13–14) a person with it was \"unclean\" and had to live apart, which is why he asks not just to be healed but to be made \"clean.\""
+      }
+     ]
+    },
+    {
+     "h": "3eabd314",
+     "en": "And being angered, he stretched out his hand and touched him, and says to him, “I am willing; be made clean.”",
+     "cmp": [
+      {
+       "w": "orgistheis",
+       "note": "本站的底本这里是「发怒」（orgistheis）；绝大多数抄本是「动了怜悯的心」（splanchnistheis），和合本的「动了慈心」跟的是后一种。底本取了少数抄本里这个比较难解的读法。耶稣为什么发怒，经文没有说。",
+       "en": "The edition this site follows reads \"being angered\" (orgistheis); the great majority of manuscripts read \"moved with compassion\" (splanchnistheis), which the Union Version follows with 动了慈心 (dòng le cíxīn, \"was moved to pity\"). The edition chose the harder reading found in a few manuscripts. The text does not say why he was angry."
+      }
+     ]
+    },
+    {
+     "h": "66ce7e2d",
+     "en": "And immediately the skin disease left him, and he was made clean."
+    },
+    {
+     "h": "5cef3db1",
+     "en": "And sternly warning him, he sent him away at once,"
+    },
+    {
+     "h": "3813aa35",
+     "en": "and says to him, “See that you say nothing to anyone; but go, show yourself to the priest, and offer for your cleansing what Moses commanded, as a testimony to them.”"
+    },
+    {
+     "h": "02857e1d",
+     "en": "But he went out and began to proclaim it widely and to spread the word, so that he could no longer enter a town openly, but stayed outside in deserted places; and they kept coming to him from everywhere."
+    }
+   ]
+  }
+ ],
+ "title": "The Gospel according to Mark",
+ "summary": "The shortest of the four Gospels that open the New Testament: what Jesus, whom Christians hold to be the deliverer sent by God, did and said, and how he was crucified and rose. It moves fast, one event after another. Only chapter 1 is here so far: John baptizes in the Jordan, and Jesus, once baptized, begins to teach, heal and cast out demons in Galilee.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "基督教的圣经分成两大部分：旧约（耶稣以前犹太人的经书）和新约（讲耶稣和最早一批信他的人）。新约开头有四卷「福音书」，各自把耶稣的事讲了一遍，《马可福音》是其中最短的一卷，一般认为也是最早写成的，大约在公元 65 到 75 年之间，用的是当时地中海一带通行的希腊文。书里没有写作者的名字；传统上说作者叫马可，是耶稣的门徒彼得身边的人。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "全书是一个讲故事的人在叙述，他自己不出场。引号里的话，是故事里的人说的：耶稣、约翰、门徒、围观的人，有时是附在人身上的鬼。叙述里的「他」，大多数时候指耶稣。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "故事发生在大约公元 30 年前后，地点是地中海东岸的犹太人地区（今天的以色列、巴勒斯坦一带），当时归罗马帝国管。犹太人只拜一位上帝，照着祖先摩西传下来的律法过日子：每周有一天安息日不做工，各地有会堂聚会读经，耶路撒冷有圣殿，由祭司献祭。很多人在盼望上帝派一位救主来，这位救主希伯来话叫「弥赛亚」，希腊话叫「基督」。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是节奏很快：「立刻」这个词在第 1 章就出现了 11 次，全书 41 次，一件事刚说完就接下一件，中间不解释。二是经常引旧约的话，开头第 2、3 节就是。三是耶稣常常不许人、也不许鬼把他是谁说出去，书里没有说明原因。四是「洁净」和「不洁净」：按当时的律法，某些病、某些东西会让人不能参加敬拜、不能和别人来往，所以治病在书里常常说成「洁净了」。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在书里反复出现，先认一下。",
+   "terms": [
+    [
+     "福音",
+     "字面是「好消息」。书里指耶稣带来的消息：上帝的国近了。"
+    ],
+    [
+     "基督",
+     "希腊话，意思是「受膏的人」，就是上帝选立的那一位救主；希伯来话叫弥赛亚。后来成了耶稣的称号。"
+    ],
+    [
+     "上帝的国",
+     "不是一块地方，而是上帝亲自作王、他的心意行得通的局面。"
+    ],
+    [
+     "施洗、受洗",
+     "把人浸到水里（或用水洗）的仪式，表示洗掉过去、重新开始。"
+    ],
+    [
+     "悔改",
+     "回头：承认自己错了，不再照原来的样子过。"
+    ],
+    [
+     "圣灵",
+     "上帝的灵。书里说它降到耶稣身上，带着他行动。"
+    ],
+    [
+     "安息日",
+     "每周的第七天。犹太人这一天不做工，敬拜上帝。"
+    ],
+    [
+     "会堂",
+     "犹太人在各城各镇聚会、读经、祷告的地方。"
+    ],
+    [
+     "文士",
+     "专门抄写、讲解犹太律法的学者。"
+    ],
+    [
+     "污灵、鬼",
+     "书里说会附在人身上、让人生病或发狂的邪灵。"
+    ]
+   ]
+  },
+  {
+   "q": "现在收了哪些，从哪里读起",
+   "a": "全书 16 章，本站现在只收了第 1 章，是试译的样板，其余各章陆续补上。从第 1 章读起就可以：它没有讲耶稣出生和小时候，一开头就是他三十岁左右出来传道。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What kind of book this is",
+   "a": "The Christian Bible has two main parts: the Old Testament (the Jewish scriptures from before Jesus) and the New Testament (about Jesus and the first people who believed in him). The New Testament opens with four \"Gospels,\" each telling the story of Jesus. Mark is the shortest and is generally thought to be the earliest, written around 65 to 75 CE in the everyday Greek of the eastern Mediterranean. The book does not name its author; by tradition he was Mark, a companion of Jesus’s disciple Peter."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "A narrator tells the whole story and never appears in it. Words in quotation marks are spoken by people in the story: Jesus, John, the disciples, the crowds, and sometimes the demons possessing a person. \"He\" in the narration is usually Jesus."
+  },
+  {
+   "q": "The setting",
+   "a": "The story takes place around 30 CE in the Jewish lands on the eastern shore of the Mediterranean (today’s Israel and Palestine), then under the Roman Empire. Jews worshiped one God and lived by the law handed down from their ancestor Moses: a weekly Sabbath with no work, synagogues in every town for gathering and reading scripture, and a temple in Jerusalem where priests offered sacrifices. Many were waiting for God to send a deliverer, called \"Messiah\" in Hebrew and \"Christ\" in Greek."
+  },
+  {
+   "q": "Where you may get stuck",
+   "a": "First, the pace: the word \"immediately\" occurs 11 times in chapter 1 alone and 41 times in the book; one event follows another with no explanation in between. Second, the Old Testament is quoted often, starting in verses 2 and 3. Third, Jesus repeatedly forbids people and demons to say who he is, and the book does not explain why. Fourth, \"clean\" and \"unclean\": under the law of the time, certain illnesses and things barred a person from worship and from contact with others, so a healing is often described as being \"made clean.\""
+  },
+  {
+   "q": "Words that keep coming up",
+   "a": "These words recur throughout the book.",
+   "terms": [
+    [
+     "Good news (gospel)",
+     "In this book, the news Jesus brings: the kingdom of God has come near."
+    ],
+    [
+     "Christ",
+     "Greek for \"anointed one,\" the deliverer chosen by God; \"Messiah\" in Hebrew. It later became a title for Jesus."
+    ],
+    [
+     "Kingdom of God",
+     "Not a territory but the state of affairs in which God himself rules and his will is done."
+    ],
+    [
+     "Baptize, baptism",
+     "A rite of immersing a person in water (or washing with water), marking a break with the past and a new start."
+    ],
+    [
+     "Repent",
+     "To turn around: to admit being wrong and stop living the old way."
+    ],
+    [
+     "Holy Spirit",
+     "The Spirit of God. The book says it came down on Jesus and moved him to act."
+    ],
+    [
+     "Sabbath",
+     "The seventh day of the week, when Jews do no work and worship God."
+    ],
+    [
+     "Synagogue",
+     "The place in each town where Jews gathered to read scripture and pray."
+    ],
+    [
+     "Scribes",
+     "Scholars who copied and explained the Jewish law."
+    ],
+    [
+     "Unclean spirits, demons",
+     "Evil spirits which, the book says, take hold of people and make them ill or frenzied."
+    ]
+   ]
+  },
+  {
+   "q": "What is here so far, and where to start",
+   "a": "The book has 16 chapters. Only chapter 1 is here for now, as a trial sample; the rest will follow. Start at chapter 1: it says nothing about Jesus’s birth or childhood and opens with him, at about thirty, beginning his public work."
+  }
+ ],
+ "compare": [
+  "现在只收了第 1 章，是试译的样板。希腊文原文用 SBL Greek New Testament（SBLGNT），只去掉了底本里的校勘符号，经文本身没有动；罗马转写是本站按通行规则机械生成的，不标重音。",
+  "白话是写给完全没接触过圣经的人看的：用平常说话的词，把谁在对谁说写清楚。原文没有、但不补就看不懂的字，一律放在圆括号（）里；括号里是通行的解释，不是经文本身。英文版贴着字面译，不加括号，两版对着看就知道哪些是补的。白话、英文和所有说明都是 AI 从希腊文译写的，没有经过圣经学者或教会审阅。",
+  "对照栏是 1919 年出版的官话和合译本（和合本），录文取自维基文库，繁体转成简体，几个异体字（汚、徧、痲、愼）改成了通行写法，原书的旧式标点照录。维基文库录的是称「神」的版本；本站的白话写「上帝」。人名、地名跟和合本走（耶稣、西门、安得烈、迦百农），只有两处用了今天更常见的写法：约旦河（和合本作「约但河」）、撒旦（和合本作「撒但」）。",
+  "和合本当年依据的希腊文底本和 SBLGNT 不完全一样，所以有的地方三栏对不上，不是译错：第 1 节和合本多「神的儿子」；第 41 节和合本是「动了慈心」，本站的底本是「动了怒」。这些地方都在那一节下面的「三语对照」里写明。",
+  "这卷书的希腊文很口语：句子几乎都用「然后」（kai）开头，过去的事常用现在时来讲（「他们进了迦百农」原文是「他们进迦百农」），「立刻」（euthys）一再出现。英文保留了这些；白话为了读得顺，省掉了大部分句首的「然后」，「立刻」照译。"
+ ],
+ "compareEn": [
+  "Only chapter 1 is here so far, as a trial sample. The Greek is the SBL Greek New Testament (SBLGNT) with its text-critical sigla removed and nothing else changed; the romanization is generated mechanically by this site under the usual conventions, without accents.",
+  "The Chinese is written for readers who have never opened a Bible: everyday words, with who is speaking to whom made explicit. Words that are not in the Greek but are needed to follow it are put in parentheses; they give the usual explanation and are not part of the text. The English stays close to the wording and adds no parentheses, so reading the two side by side shows what was supplied. The Chinese, the English and all the notes were translated and written by AI from the Greek and have not been reviewed by biblical scholars or by any church.",
+  "The older Chinese version shown alongside is the Mandarin Union Version of 1919, taken from Chinese Wikisource, converted to simplified characters with a few variant characters normalized and its original punctuation kept. Wikisource carries the edition that calls God 神 (Shén); this site’s plain Chinese writes 上帝 (Shàngdì). Names follow the Union Version, except for two that are now more commonly written another way: the Jordan (约旦河 Yuēdàn Hé) and Satan (撒旦 Sādàn).",
+  "The Union Version was made from a Greek text that differs in places from SBLGNT, so where the columns disagree it is not always a mistranslation: in verse 1 the Union Version adds \"the Son of God,\" and in verse 41 it has \"moved with compassion\" where this site’s edition reads \"being angered.\" Each such place is explained in the note under that verse.",
+  "Mark’s Greek is colloquial: nearly every sentence begins with \"and\" (kai), past events are often told in the present tense (\"they go into Capernaum\"), and \"immediately\" (euthys) keeps returning. The English keeps these; the Chinese drops most of the sentence-opening \"and\" to read smoothly but keeps \"immediately.\""
+ ]
+}
