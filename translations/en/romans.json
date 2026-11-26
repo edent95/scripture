@@ -1,0 +1,2662 @@
+{
+ "slug": "romans",
+ "chapters": [
+  {
+   "title": "Chapter 1 · Greeting; the Gospel; Humanity without God",
+   "no": 1,
+   "intro": "Paul introduces himself, greets the believers in Rome, and says he has long wanted to visit them and proclaim the good news there too. He then states the theme of the letter: the gospel is the power of God to save everyone who believes. After that he argues that people could know God from the things he has made, yet did not worship him and turned to idols, and so God gave them over to every kind of wrongdoing.",
+   "verses": [
+    {
+     "h": "6e9f396c",
+     "en": "Paul, a slave of Christ Jesus, called to be an apostle, set apart for the gospel of God,"
+    },
+    {
+     "h": "70fc693e",
+     "en": "which he promised beforehand through his prophets in the holy scriptures,"
+    },
+    {
+     "h": "56d5e4e6",
+     "en": "concerning his Son, who was born of the seed of David according to the flesh,"
+    },
+    {
+     "h": "36188d21",
+     "en": "who was appointed Son of God in power according to the Spirit of holiness by the resurrection from the dead, Jesus Christ our Lord,",
+     "cmp": [
+      {
+       "w": "horisthentos",
+       "note": "这个词可以读成「被立为」，也可以读成「被显明为」；和合本取后一种（「显明是神的儿子」）。白话和英文取前一种。",
+       "en": "The word can be read \"appointed\" or \"declared, shown to be.\" The Union Version takes the second: 显明是神的儿子 (xiǎnmíng shì Shén de érzi, \"shown to be the Son of God\"). The Chinese and English here take the first."
+      }
+     ]
+    },
+    {
+     "h": "fc52f4a7",
+     "en": "through whom we received grace and apostleship to bring about the obedience of faith among all the nations for the sake of his name,",
+     "cmp": [
+      {
+       "w": "eis hypakoēn pisteōs",
+       "note": "字面是「信的顺从」。可以理解成「由信而来的顺从」，也可以理解成「顺从，也就是信」。和合本译「信服真道」。",
+       "en": "Literally \"obedience of faith.\" It can be taken as \"the obedience that comes from faith\" or as \"obedience, that is, faith.\" The Union Version has 信服真道 (xìnfú zhēndào, \"believe and submit to the true way\")."
+      }
+     ]
+    },
+    {
+     "h": "9f9cae00",
+     "en": "among whom you also are called to belong to Jesus Christ,"
+    },
+    {
+     "h": "a7ec628d",
+     "en": "to all who are in Rome, loved by God, called to be saints: grace to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+     "h": "6db9693c",
+     "en": "First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in the whole world."
+    },
+    {
+     "h": "11a18c75",
+     "en": "For God is my witness, whom I serve in my spirit in the gospel of his Son, how unceasingly I make mention of you"
+    },
+    {
+     "h": "6ec1a4b2",
+     "en": "always in my prayers, asking that somehow now at last I may succeed by the will of God in coming to you."
+    },
+    {
+     "h": "eaa7eab1",
+     "en": "For I long to see you, so that I may share with you some spiritual gift to strengthen you,"
+    },
+    {
+     "h": "53bce84f",
+     "en": "that is, to be encouraged together among you through each other’s faith, both yours and mine."
+    },
+    {
+     "h": "a90b48a6",
+     "en": "And I do not want you to be unaware, brothers, that I often planned to come to you, and was hindered until now, so that I might have some fruit among you also, just as among the rest of the nations."
+    },
+    {
+     "h": "c2b58824",
+     "en": "Both to Greeks and to barbarians, both to the wise and to the foolish, I am a debtor;"
+    },
+    {
+     "h": "ef5141ed",
+     "en": "so, for my part, I am eager to proclaim the gospel to you also who are in Rome."
+    },
+    {
+     "h": "eda5c423",
+     "en": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek."
+    },
+    {
+     "h": "19424927",
+     "en": "For in it the righteousness of God is revealed from faith to faith, as it is written, “But the righteous one will live by faith.”",
+     "cmp": [
+      {
+       "w": "dikaiosynē theou",
+       "note": "「上帝的义」是这封信的中心词，历来有两种主要的读法：指上帝自己的公义和守信，或指上帝赐给人、使人在他面前算为对的地位。原文两种都可以，白话照字面写「上帝的义」。",
+       "en": "\"The righteousness of God\" is the central phrase of the letter and has two main readings: God’s own justice and faithfulness, or the standing of being in the right that God gives to people. The Greek allows both; the translations keep the phrase as it stands."
+      },
+      {
+       "w": "ek pisteōs eis pistin",
+       "note": "字面是「出于信，归于信」。常见的理解有：自始至终都靠信；从上帝的信实到人的信；信越来越深。和合本译「本于信、以致于信」。后面引的是旧约《哈巴谷书》2:4，那一句也可以断成「因信而为义的人要活」。",
+       "en": "Literally \"out of faith into faith.\" Common readings: by faith from start to finish; from God’s faithfulness to human faith; from one degree of faith to another. The quotation is Habakkuk 2:4, which can also be construed \"the one who is righteous by faith will live.\""
+      }
+     ]
+    },
+    {
+     "h": "6e43dbb2",
+     "en": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of people who suppress the truth in unrighteousness,"
+    },
+    {
+     "h": "3d24c900",
+     "en": "because what can be known about God is plain among them, for God has made it plain to them."
+    },
+    {
+     "h": "f5e7b4e8",
+     "en": "For his invisible things, namely his eternal power and divinity, have been clearly seen since the creation of the world, being understood through the things that are made, so that they are without excuse;"
+    },
+    {
+     "h": "9f5ccf8f",
+     "en": "because, although they knew God, they did not glorify him as God or give thanks, but became futile in their reasonings, and their senseless heart was darkened."
+    },
+    {
+     "h": "5f274e24",
+     "en": "Claiming to be wise, they became fools,"
+    },
+    {
+     "h": "e8c4a996",
+     "en": "and exchanged the glory of the incorruptible God for the likeness of an image of corruptible man and of birds and four-footed animals and creeping things."
+    },
+    {
+     "h": "bbf7d53b",
+     "en": "Therefore God gave them over in the desires of their hearts to uncleanness, so that their bodies were dishonored among them,",
+     "cmp": [
+      {
+       "w": "paredōken",
+       "note": "字面是「交出去」。这个动词在第 24、26、28 节出现三次，主语都是上帝。和合本译「任凭」，白话也这样写；英文照字面。",
+       "en": "Literally \"handed over.\" The verb occurs three times, in verses 24, 26 and 28, each time with God as subject. The Union Version has 任凭 (rènpíng, \"let them go their way\"), which the Chinese here follows; the English keeps the literal sense."
+      }
+     ]
+    },
+    {
+     "h": "e693b504",
+     "en": "they who exchanged the truth of God for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen."
+    },
+    {
+     "h": "647650ab",
+     "en": "For this reason God gave them over to dishonorable passions; for their females exchanged the natural use for that which is contrary to nature,",
+     "cmp": [
+      {
+       "w": "tēn physikēn chrēsin",
+       "note": "字面是「合乎本性的用法」；chrēsis（用法）在这里指两性之间的交合。和合本译「顺性的用处」。",
+       "en": "Literally \"the natural use\"; chrēsis (\"use\") here refers to sexual relations. The Union Version has 顺性的用处 (shùnxìng de yòngchù, \"the use that follows nature\")."
+      }
+     ]
+    },
+    {
+     "h": "e6aa6f1f",
+     "en": "and likewise also the males, leaving the natural use of the female, were inflamed in their desire for one another, males with males committing what is shameful and receiving in themselves the due penalty of their error."
+    },
+    {
+     "h": "e353e7d1",
+     "en": "And just as they did not see fit to keep God in their knowledge, God gave them over to an unfit mind, to do what is not proper,",
+     "cmp": [
+      {
+       "w": "ouk edokimasan … adokimon",
+       "note": "原文用了同一个词根的两个词：他们「不认可」上帝，上帝就任凭他们存着「不被认可」（经不起检验）的心思。",
+       "en": "The Greek plays on one root: they \"did not approve\" of God, and God gave them over to an \"unapproved\" mind, one that fails the test."
+      }
+     ]
+    },
+    {
+     "h": "c8878a83",
+     "en": "being filled with all unrighteousness, wickedness, greed, malice; full of envy, murder, strife, deceit, malignity; whisperers,"
+    },
+    {
+     "h": "324df169",
+     "en": "slanderers, haters of God, insolent, arrogant, boastful, inventors of evils, disobedient to parents,"
+    },
+    {
+     "h": "7d7e80ec",
+     "en": "senseless, faithless, heartless, merciless;"
+    },
+    {
+     "h": "3d0b36c8",
+     "en": "who, though they know the righteous decree of God, that those who practice such things are worthy of death, not only do them but also approve of those who practice them."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 2 · God’s Impartial Judgment; the Jew and the Law",
+   "no": 2,
+   "intro": "Paul turns to address someone who likes to judge others: you judge them and do the same things yourself, and you will not escape God’s judgment, for God repays each person according to what he has done and shows no partiality. He then speaks to one who calls himself a Jew and has the law: having the law without keeping it is of no use, and real circumcision is a matter of the heart.",
+   "verses": [
+    {
+     "h": "2b4990ef",
+     "en": "Therefore you are without excuse, O man, every one of you who judges; for in what you judge the other, you condemn yourself, for you who judge practice the same things."
+    },
+    {
+     "h": "499b5959",
+     "en": "Now we know that the judgment of God is according to truth against those who practice such things."
+    },
+    {
+     "h": "6a8337e4",
+     "en": "And do you suppose this, O man, you who judge those who practice such things and do them yourself, that you will escape the judgment of God?"
+    },
+    {
+     "h": "3b0a776b",
+     "en": "Or do you despise the riches of his kindness and forbearance and patience, not knowing that the kindness of God leads you to repentance?"
+    },
+    {
+     "h": "2a6ac412",
+     "en": "But according to your hardness and unrepentant heart you are storing up wrath for yourself on the day of wrath and revelation of the righteous judgment of God,"
+    },
+    {
+     "h": "f349a551",
+     "en": "who will repay each one according to his works:",
+     "cmp": [
+      {
+       "w": "apodōsei hekastōi kata ta erga autou",
+       "note": "这一句用的是旧约的话，见《诗篇》62:12、《箴言》24:12。",
+       "en": "The wording comes from the Old Testament: Psalm 62:12 and Proverbs 24:12."
+      }
+     ]
+    },
+    {
+     "h": "9d270502",
+     "en": "to those who by perseverance in good work seek glory and honor and incorruption, eternal life;"
+    },
+    {
+     "h": "090143a6",
+     "en": "but to those who are self-seeking and do not obey the truth but obey unrighteousness, wrath and fury.",
+     "cmp": [
+      {
+       "w": "ex eritheias",
+       "note": "这个词的意思有两种说法：自私图利，或结党纷争。和合本取后一种（「结党」），白话和英文取前一种。",
+       "en": "The word is taken either as \"selfish ambition\" or as \"factiousness.\" The Union Version takes the second: 结党 (jiédǎng, \"forming factions\"); the Chinese and English here take the first."
+      }
+     ]
+    },
+    {
+     "h": "441889cf",
+     "en": "Affliction and distress upon every soul of a human being who works evil, of the Jew first and also of the Greek;"
+    },
+    {
+     "h": "789de5a7",
+     "en": "but glory and honor and peace to everyone who works good, to the Jew first and also to the Greek."
+    },
+    {
+     "h": "2350d86c",
+     "en": "For there is no partiality with God."
+    },
+    {
+     "h": "063b3622",
+     "en": "For as many as sinned without law will also perish without law, and as many as sinned under law will be judged by law;"
+    },
+    {
+     "h": "ceadc36f",
+     "en": "for it is not the hearers of law who are righteous before God, but the doers of law will be justified."
+    },
+    {
+     "h": "41694015",
+     "en": "For when nations who do not have law do by nature the things of the law, these, not having law, are a law to themselves,"
+    },
+    {
+     "h": "45f8ff60",
+     "en": "who show the work of the law written in their hearts, their conscience bearing witness with it and their thoughts among themselves accusing or even defending,"
+    },
+    {
+     "h": "a398604d",
+     "en": "on the day when God judges the secrets of people according to my gospel through Christ Jesus."
+    },
+    {
+     "h": "72af23ac",
+     "en": "But if you call yourself a Jew and rely on law and boast in God"
+    },
+    {
+     "h": "04d80255",
+     "en": "and know his will and approve what is excellent, being instructed out of the law,"
+    },
+    {
+     "h": "364c06c1",
+     "en": "and are confident that you yourself are a guide of the blind, a light of those in darkness,"
+    },
+    {
+     "h": "af233b80",
+     "en": "an instructor of the foolish, a teacher of infants, having in the law the form of knowledge and of truth—"
+    },
+    {
+     "h": "dd6559cc",
+     "en": "you then who teach another, do you not teach yourself? You who proclaim not to steal, do you steal?"
+    },
+    {
+     "h": "76b2eca0",
+     "en": "You who say not to commit adultery, do you commit adultery? You who abhor idols, do you rob temples?"
+    },
+    {
+     "h": "77b2452c",
+     "en": "You who boast in law, do you dishonor God through the transgression of the law?"
+    },
+    {
+     "h": "ffde6ecb",
+     "en": "For “the name of God is blasphemed among the nations because of you,” as it is written.",
+     "cmp": [
+      {
+       "w": "kathōs gegraptai",
+       "note": "引的是旧约《以赛亚书》52:5（古希腊文译本的字句）。原文把「正如经上写着」放在引文后面。",
+       "en": "The quotation is Isaiah 52:5 in the wording of the old Greek version. In the Greek, \"as it is written\" comes after the quotation."
+      }
+     ]
+    },
+    {
+     "h": "d292e002",
+     "en": "For circumcision indeed profits if you practice law; but if you are a transgressor of law, your circumcision has become uncircumcision."
+    },
+    {
+     "h": "e8165903",
+     "en": "If therefore the uncircumcised keeps the requirements of the law, will not his uncircumcision be counted as circumcision?"
+    },
+    {
+     "h": "2e051142",
+     "en": "And the one who is by nature uncircumcised, fulfilling the law, will judge you who with letter and circumcision are a transgressor of law."
+    },
+    {
+     "h": "1758f8c7",
+     "en": "For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh;"
+    },
+    {
+     "h": "5946b3d9",
+     "en": "but he is a Jew who is one inwardly, and circumcision is of the heart, in spirit, not in letter, whose praise is not from people but from God.",
+     "cmp": [
+      {
+       "w": "en pneumati ou grammati",
+       "note": "「灵」可以指上帝的灵，也可以指人的内心（和写下来的「条文」相对）。原文没有说明，白话只写「灵」。",
+       "en": "\"Spirit\" may be God’s Spirit or the inner person, set against the written \"letter.\" The Greek does not say which; the Chinese writes simply 灵 (líng, \"spirit\")."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 3 · All under Sin; Justified by Faith",
+   "no": 3,
+   "intro": "Paul first answers several objections: what advantage does the Jew still have, and if human wrongdoing shows up God’s righteousness, is God wrong to punish? He then strings together scripture to say that Jews and Gentiles alike are under sin and no one is justified by works of the law. Then comes the turn: now God’s righteousness has been made known apart from the law, and people are justified freely, by faith, through Jesus.",
+   "verses": [
+    {
+     "h": "b9a05bfa",
+     "en": "What then is the advantage of the Jew, or what is the benefit of circumcision?"
+    },
+    {
+     "h": "bb53d486",
+     "en": "Much in every way. First of all, that they were entrusted with the oracles of God."
+    },
+    {
+     "h": "ccbc34f7",
+     "en": "For what if some were unfaithful? Will their unfaithfulness nullify the faithfulness of God?"
+    },
+    {
+     "h": "837770ba",
+     "en": "By no means! Let God be true though every human being a liar, as it is written, “That you may be justified in your words and prevail when you are judged.”",
+     "cmp": [
+      {
+       "w": "en tōi krinesthai se",
+       "note": "引的是旧约《诗篇》51:4（古希腊文译本的字句）。末一句可以读成「你受审的时候」，也可以读成「你审判的时候」；和合本译「被人议论的时候」。",
+       "en": "The quotation is Psalm 51:4 in the wording of the old Greek version. The last clause can be read \"when you are judged\" or \"when you judge.\" The Union Version has 被人议论的时候 (bèi rén yìlùn de shíhou, \"when people pass judgment on you\")."
+      }
+     ]
+    },
+    {
+     "h": "2b2f8e15",
+     "en": "But if our unrighteousness demonstrates the righteousness of God, what shall we say? Is God unrighteous who inflicts wrath? I speak in a human way."
+    },
+    {
+     "h": "c81125be",
+     "en": "By no means! For then how will God judge the world?"
+    },
+    {
+     "h": "97f96df2",
+     "en": "But if through my lie the truth of God abounded to his glory, why am I also still judged as a sinner?"
+    },
+    {
+     "h": "e9f29b8f",
+     "en": "And why not say, as we are slanderously reported and as some claim that we say, “Let us do evil that good may come”? Their condemnation is just."
+    },
+    {
+     "h": "e35942b4",
+     "en": "What then? Are we better off? Not at all; for we have already charged that both Jews and Greeks are all under sin,",
+     "cmp": [
+      {
+       "w": "proechometha",
+       "note": "这个词在这里的意思不确定：可以是「我们（犹太人）占上风吗」，也可以是「我们处于下风吗」，还可以是「我们是在找借口吗」。白话取最通行的第一种。",
+       "en": "The meaning of the word here is uncertain: \"do we (Jews) have the advantage?\", \"are we at a disadvantage?\", or \"are we making excuses?\" The Chinese takes the first, the most common reading."
+      }
+     ]
+    },
+    {
+     "h": "e3bfe2c2",
+     "en": "as it is written, “There is none righteous, not even one;",
+     "cmp": [
+      {
+       "w": "kathōs gegraptai",
+       "note": "第 10–18 节是把旧约好几处的话连在一起引：《诗篇》14:1–3、5:9、140:3、10:7，《以赛亚书》59:7–8，《诗篇》36:1。",
+       "en": "Verses 10–18 string together several Old Testament passages: Psalms 14:1–3; 5:9; 140:3; 10:7; Isaiah 59:7–8; Psalm 36:1."
+      }
+     ]
+    },
+    {
+     "h": "ec292a63",
+     "en": "there is none who understands, there is none who seeks God."
+    },
+    {
+     "h": "6a144217",
+     "en": "All have turned aside, together they have become worthless; there is none who does kindness, there is not even one."
+    },
+    {
+     "h": "d34373f4",
+     "en": "Their throat is an opened grave, with their tongues they kept deceiving, the venom of asps is under their lips,"
+    },
+    {
+     "h": "86a3b083",
+     "en": "whose mouth is full of cursing and bitterness."
+    },
+    {
+     "h": "cf1388f1",
+     "en": "Their feet are swift to shed blood,"
+    },
+    {
+     "h": "f1cf41cb",
+     "en": "ruin and misery are in their ways,"
+    },
+    {
+     "h": "a3df6709",
+     "en": "and the way of peace they have not known."
+    },
+    {
+     "h": "f5bf59de",
+     "en": "There is no fear of God before their eyes.”"
+    },
+    {
+     "h": "285b4809",
+     "en": "Now we know that whatever the law says, it speaks to those who are in the law, so that every mouth may be stopped and the whole world may become accountable to God;"
+    },
+    {
+     "h": "8cc3b8db",
+     "en": "because by works of law no flesh will be justified before him, for through law comes knowledge of sin.",
+     "cmp": [
+      {
+       "w": "ex ergōn nomou",
+       "note": "字面是「出于律法的行为」，就是照律法的要求去做的事。前半句化用了旧约《诗篇》143:2。",
+       "en": "Literally \"out of works of law,\" that is, things done because the law requires them. The first half of the verse echoes Psalm 143:2."
+      }
+     ]
+    },
+    {
+     "h": "c7df2ce6",
+     "en": "But now apart from law the righteousness of God has been manifested, being witnessed by the law and the prophets,"
+    },
+    {
+     "h": "e4965eba",
+     "en": "the righteousness of God through faith of Jesus Christ for all who believe, for there is no distinction.",
+     "cmp": [
+      {
+       "w": "dia pisteōs Iēsou Christou",
+       "note": "字面是「借着耶稣基督的信」。历来有两种读法：「人对耶稣基督的信」，或「耶稣基督自己的信实（忠心）」。白话取前一种，和合本也是（「因信耶稣基督」）；英文照字面留着。第 26 节同。",
+       "en": "Literally \"through faith of Jesus Christ.\" Two readings are long established: \"faith in Jesus Christ,\" or \"the faithfulness of Jesus Christ\" himself. The Chinese takes the first, as does the Union Version; the English keeps the literal phrase. The same applies in verse 26."
+      }
+     ]
+    },
+    {
+     "h": "70bf994f",
+     "en": "for all sinned and fall short of the glory of God,"
+    },
+    {
+     "h": "55405b58",
+     "en": "being justified freely by his grace through the redemption that is in Christ Jesus,"
+    },
+    {
+     "h": "789e7bf1",
+     "en": "whom God put forward as a means of atonement through faith in his blood, for a demonstration of his righteousness because of the passing over of the sins previously committed",
+     "cmp": [
+      {
+       "w": "hilastērion",
+       "note": "这个词有两种主要的读法：一是「除罪（或平息愤怒）的祭」，和合本译「挽回祭」；二是指圣殿里约柜的盖子，每年赎罪的血就洒在那上面（《希伯来书》9:5 是这个意思）。白话写「除罪的祭」。",
+       "en": "The word has two main readings: a sacrifice that removes sin or turns away wrath, which the Union Version renders 挽回祭 (wǎnhuí jì, \"sacrifice of propitiation\"); or the cover of the ark in the sanctuary, on which the blood of atonement was sprinkled each year (its sense in Hebrews 9:5)."
+      }
+     ]
+    },
+    {
+     "h": "381c022d",
+     "en": "in the forbearance of God, for the demonstration of his righteousness in the present time, so that he might be righteous and the one who justifies the one who is of the faith of Jesus."
+    },
+    {
+     "h": "c6913780",
+     "en": "Where then is the boasting? It is excluded. Through what kind of law? Of works? No, but through a law of faith.",
+     "cmp": [
+      {
+       "w": "dia poiou nomou",
+       "note": "这里的 nomos 和「律法」是同一个词，多数人理解成「原则、道理」，所以白话写「律」；也有人认为仍然指摩西的律法。和合本译「法」。",
+       "en": "Nomos here is the same word as \"law\"; most take it as \"principle,\" which is why the Chinese writes 律 (lǜ, \"rule\") rather than 律法 (lǜfǎ, \"the law\"); some hold it still means the law of Moses."
+      }
+     ]
+    },
+    {
+     "h": "600ce2b0",
+     "en": "For we reckon that a human being is justified by faith apart from works of law."
+    },
+    {
+     "h": "3c2eb043",
+     "en": "Or is God the God of Jews only? Is he not also of the nations? Yes, also of the nations,"
+    },
+    {
+     "h": "973fbe34",
+     "en": "since God is one, who will justify the circumcised by faith and the uncircumcised through faith."
+    },
+    {
+     "h": "ae6bb381",
+     "en": "Do we then nullify law through faith? By no means! Rather, we uphold law."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 4 · The Faith of Abraham",
+   "no": 4,
+   "intro": "Paul takes the ancestor Abraham as his example: scripture says he believed God and this was counted to him as righteousness, not anything he did. And that was before he was circumcised, so he is the father of all who believe, circumcised or not. The promise God gave him rests on faith, not on the law. These words were written for us too: those who believe in the one who raised Jesus will also be counted righteous.",
+   "verses": [
+    {
+     "h": "445186dc",
+     "en": "What then shall we say that Abraham, our forefather according to the flesh, has found?"
+    },
+    {
+     "h": "7e18ce5a",
+     "en": "For if Abraham was justified by works, he has something to boast about, but not before God."
+    },
+    {
+     "h": "42bbb873",
+     "en": "For what does the scripture say? “And Abraham believed God, and it was reckoned to him as righteousness.”",
+     "cmp": [
+      {
+       "w": "elogisthē",
+       "note": "引的是旧约《创世记》15:6。「算作」这个动词（logizomai，本是记账的用语）在这一章出现十一次，白话一律写「算」。",
+       "en": "The quotation is Genesis 15:6. The verb \"reckon\" (logizomai, a bookkeeping term) occurs eleven times in this chapter; the Chinese renders it 算 (suàn, \"count\") throughout."
+      }
+     ]
+    },
+    {
+     "h": "7cbaf7b7",
+     "en": "Now to the one who works, the wage is not reckoned as grace but as what is owed;"
+    },
+    {
+     "h": "4af0cae6",
+     "en": "but to the one who does not work but believes on him who justifies the ungodly, his faith is reckoned as righteousness,"
+    },
+    {
+     "h": "ce32a5ad",
+     "en": "just as David also speaks of the blessedness of the human being to whom God reckons righteousness apart from works:"
+    },
+    {
+     "h": "504b3462",
+     "en": "“Blessed are those whose lawless deeds were forgiven and whose sins were covered;",
+     "cmp": [
+      {
+       "w": "makarioi",
+       "note": "第 7–8 节引的是旧约《诗篇》32:1–2。",
+       "en": "Verses 7–8 quote Psalm 32:1–2."
+      }
+     ]
+    },
+    {
+     "h": "7d6f9ad6",
+     "en": "blessed is the man whose sin the Lord will by no means reckon.”"
+    },
+    {
+     "h": "8c403afe",
+     "en": "Is this blessedness then upon the circumcision, or also upon the uncircumcision? For we say, “Faith was reckoned to Abraham as righteousness.”"
+    },
+    {
+     "h": "514be377",
+     "en": "How then was it reckoned? When he was in circumcision or in uncircumcision? Not in circumcision but in uncircumcision;"
+    },
+    {
+     "h": "5593d0e1",
+     "en": "and he received the sign of circumcision, a seal of the righteousness of the faith that he had while in uncircumcision, so that he might be the father of all who believe while uncircumcised, so that righteousness might be reckoned to them,"
+    },
+    {
+     "h": "7106e262",
+     "en": "and the father of circumcision to those who are not only of the circumcision but who also walk in the footsteps of the faith that our father Abraham had while in uncircumcision."
+    },
+    {
+     "h": "a217c438",
+     "en": "For the promise to Abraham or to his seed, that he would be heir of the world, was not through law but through the righteousness of faith."
+    },
+    {
+     "h": "8d871b53",
+     "en": "For if those who are of the law are heirs, faith has been emptied and the promise has been nullified;"
+    },
+    {
+     "h": "1883fd0d",
+     "en": "for the law brings about wrath, but where there is no law, neither is there transgression."
+    },
+    {
+     "h": "64a430e0",
+     "en": "For this reason it is of faith, that it may be according to grace, so that the promise may be certain to all the seed, not only to that which is of the law but also to that which is of the faith of Abraham, who is the father of us all,"
+    },
+    {
+     "h": "e3e8c711",
+     "en": "as it is written, “I have made you a father of many nations,” in the presence of him whom he believed, God who gives life to the dead and calls the things that are not as though they were;",
+     "cmp": [
+      {
+       "w": "patera pollōn ethnōn",
+       "note": "引的是旧约《创世记》17:5。「民族」和「外族人」在原文是同一个词（ethnē）。底本把「他是我们所有人的父……许多民族的父」放在一对括号里，和合本把两节的次序调过了。",
+       "en": "The quotation is Genesis 17:5. \"Nations\" and \"Gentiles\" are the same Greek word (ethnē). The edition sets \"who is the father of us all … of many nations\" in parentheses, and the Union Version rearranges the two verses."
+      }
+     ]
+    },
+    {
+     "h": "68fe4fa0",
+     "en": "who against hope believed in hope, so that he became the father of many nations according to what had been spoken, “So shall your seed be.”",
+     "cmp": [
+      {
+       "w": "houtōs estai to sperma sou",
+       "note": "引的是旧约《创世记》15:5，那里上帝叫亚伯拉罕看天上的星，说他的后裔要像星那样多。",
+       "en": "The quotation is Genesis 15:5, where God has Abraham look at the stars and says his descendants will be as many."
+      }
+     ]
+    },
+    {
+     "h": "534c1636",
+     "en": "And not being weak in faith, he considered his own body as already dead, being about a hundred years old, and the deadness of Sarah’s womb,",
+     "cmp": [
+      {
+       "w": "katenoēsen",
+       "note": "本站的底本是「他想到了」；多数较晚的抄本多一个「不」字，成了「他没有去想」。和合本译「虽然想到」。",
+       "en": "The edition this site follows reads \"he considered\"; most later manuscripts add \"not,\" giving \"he did not consider.\" The Union Version has 虽然想到 (suīrán xiǎngdào, \"although he considered\")."
+      }
+     ]
+    },
+    {
+     "h": "d680cb54",
+     "en": "yet with regard to the promise of God he did not waver in unbelief but was strengthened in faith, giving glory to God"
+    },
+    {
+     "h": "476f1b25",
+     "en": "and being fully convinced that what he had promised he was also able to do."
+    },
+    {
+     "h": "934921fb",
+     "en": "Therefore it was also reckoned to him as righteousness."
+    },
+    {
+     "h": "37fb9533",
+     "en": "Now it was not written for his sake alone that it was reckoned to him,"
+    },
+    {
+     "h": "9f74680e",
+     "en": "but also for our sake, to whom it is going to be reckoned, to those who believe on him who raised Jesus our Lord from the dead,"
+    },
+    {
+     "h": "bbee7dd7",
+     "en": "who was handed over for our transgressions and was raised for our justification.",
+     "cmp": [
+      {
+       "w": "dia … dia",
+       "note": "两个「为」在原文是同一个介词，可以读成「因为」，也可以读成「为了」；所以后半句也可以理解成「因为我们已被称为义而复活」。白话两处都写「为」。",
+       "en": "The two \"for\"s are the same preposition, which can mean \"because of\" or \"for the sake of\"; the second half can therefore also be taken as \"raised because of our justification.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 5 · Peace with God; Adam and Christ",
+   "no": 5,
+   "intro": "Paul says that, having been justified by faith, we are at peace with God and have hope even in suffering; Christ died for us while we were still sinners, which shows God’s love all the more. He then sets Adam beside Christ: sin and death entered the world through one man, and grace and life have come to many through one man, with grace outdoing sin.",
+   "verses": [
+    {
+     "h": "38f9572b",
+     "en": "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,",
+     "cmp": [
+      {
+       "w": "eirēnēn echomen",
+       "note": "本站的底本是「我们有和平」（陈述事实）；不少很早的抄本只差一个字母，是「让我们有和平」（劝勉）。和合本译「得与神相和」，跟的是前一种。",
+       "en": "The edition this site follows reads \"we have peace,\" a statement; many very early manuscripts differ by one letter and read \"let us have peace,\" an exhortation. The Union Version follows the first."
+      }
+     ]
+    },
+    {
+     "h": "d241d930",
+     "en": "through whom also we have obtained access by faith into this grace in which we stand, and we boast in hope of the glory of God.",
+     "cmp": [
+      {
+       "w": "kauchōmetha",
+       "note": "这个词是「夸口、引以为荣」，第 2、3、11 节连用三次，和前面责备人「夸口」（2:17、3:27）是同一个词。和合本在这里译「欢欢喜喜」。",
+       "en": "The word is \"boast, glory in,\" used three times here (verses 2, 3 and 11), the same word used earlier of boasting that is ruled out (2:17; 3:27). The Union Version renders it here 欢欢喜喜 (huānhuānxǐxǐ, \"joyfully\")."
+      }
+     ]
+    },
+    {
+     "h": "4fb03332",
+     "en": "And not only that, but we also boast in afflictions, knowing that affliction produces endurance,"
+    },
+    {
+     "h": "12e0c788",
+     "en": "and endurance proven character, and proven character hope;"
+    },
+    {
+     "h": "d4c74f88",
+     "en": "and hope does not put to shame, because the love of God has been poured out in our hearts through the Holy Spirit who was given to us."
+    },
+    {
+     "h": "0a987b1e",
+     "en": "For while we were still weak, at the right time Christ died for the ungodly."
+    },
+    {
+     "h": "b271aefc",
+     "en": "For one will hardly die for a righteous person; though perhaps for the good person someone might even dare to die."
+    },
+    {
+     "h": "772d8883",
+     "en": "But God demonstrates his own love toward us in that while we were still sinners, Christ died for us."
+    },
+    {
+     "h": "10c02c87",
+     "en": "Much more then, having now been justified by his blood, we shall be saved through him from the wrath."
+    },
+    {
+     "h": "973cd828",
+     "en": "For if while we were enemies we were reconciled to God through the death of his Son, much more, having been reconciled, shall we be saved by his life."
+    },
+    {
+     "h": "5865fce4",
+     "en": "And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received the reconciliation."
+    },
+    {
+     "h": "2aa7b596",
+     "en": "Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all people, because all sinned—",
+     "cmp": [
+      {
+       "w": "eph hōi pantes hēmarton",
+       "note": "通行的读法是「因为所有的人都犯了罪」。另一种古老的读法（从拉丁文译本来）是「在他（那一个人）里面所有的人都犯了罪」。原文这句话没有说完，底本用破折号断开，到第 18 节才接上「照样……」。",
+       "en": "The usual reading is \"because all sinned.\" Another old reading, from the Latin version, is \"in whom (the one man) all sinned.\" The sentence is left unfinished in the Greek; the edition breaks it with a dash, and the \"so also\" is only supplied in verse 18."
+      }
+     ]
+    },
+    {
+     "h": "f6343eb3",
+     "en": "for until law sin was in the world, but sin is not charged to one’s account when there is no law."
+    },
+    {
+     "h": "27d862a0",
+     "en": "Nevertheless death reigned from Adam until Moses, even over those who did not sin in the likeness of the transgression of Adam, who is a type of the one who was to come."
+    },
+    {
+     "h": "c79f1e06",
+     "en": "But the free gift is not like the trespass. For if by the trespass of the one the many died, much more did the grace of God and the gift in the grace of the one man, Jesus Christ, abound to the many."
+    },
+    {
+     "h": "5c17b20c",
+     "en": "And the gift is not like what came through the one who sinned; for the judgment came from one to condemnation, but the free gift came from many trespasses to justification."
+    },
+    {
+     "h": "8307d2ac",
+     "en": "For if by the trespass of the one death reigned through the one, much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ."
+    },
+    {
+     "h": "bb59117f",
+     "en": "So then, as through one trespass it came to all people for condemnation, so also through one righteous act it came to all people for justification of life.",
+     "cmp": [
+      {
+       "w": "di henos paraptōmatos",
+       "note": "原文可以读成「借着一次过犯……一次义的行为」，也可以读成「借着一个人的过犯……一个人的义行」。和合本取前一种，白话也是。",
+       "en": "The Greek can be read \"through one trespass … one righteous act\" or \"through the trespass of one … the righteous act of one.\" The Union Version takes the first, as does the Chinese here."
+      }
+     ]
+    },
+    {
+     "h": "2fa41354",
+     "en": "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one the many will be made righteous."
+    },
+    {
+     "h": "246b86c7",
+     "en": "Now law came in alongside so that the trespass might increase; but where sin increased, grace abounded all the more,"
+    },
+    {
+     "h": "725bf87a",
+     "en": "so that, just as sin reigned in death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 6 · Dead to Sin, Alive to God",
+   "no": 6,
+   "intro": "Someone will ask: if grace is so abundant, may we go on sinning? Paul says by no means: those who were baptized have died and been buried with Christ, and are to live a new life as he does, no longer letting sin rule. He then uses the picture of slavery: once slaves of sin, with death as the outcome; now belonging to God, with eternal life as the outcome.",
+   "verses": [
+    {
+     "h": "f202f501",
+     "en": "What then shall we say? Shall we continue in sin so that grace may increase?"
+    },
+    {
+     "h": "a08b1eab",
+     "en": "By no means! We who died to sin, how shall we still live in it?"
+    },
+    {
+     "h": "bf5c6df9",
+     "en": "Or do you not know that as many of us as were baptized into Christ Jesus were baptized into his death?"
+    },
+    {
+     "h": "d5766fdb",
+     "en": "We were therefore buried with him through baptism into death, so that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life."
+    },
+    {
+     "h": "11a0474a",
+     "en": "For if we have become united with him in the likeness of his death, we shall certainly also be in that of his resurrection,"
+    },
+    {
+     "h": "ad0fe4fc",
+     "en": "knowing this, that our old self was crucified with him so that the body of sin might be done away with, so that we would no longer be slaves to sin;"
+    },
+    {
+     "h": "5d043cf9",
+     "en": "for the one who has died has been justified from sin.",
+     "cmp": [
+      {
+       "w": "dedikaiōtai apo tēs hamartias",
+       "note": "字面是「已经被称为义、离开了罪」，用的就是「称义」那个动词。和合本译「脱离了罪」，白话跟和合本；英文照字面。",
+       "en": "Literally \"has been justified from sin,\" the same verb as \"justify.\" The Union Version has 脱离了罪 (tuōlí le zuì, \"has been freed from sin\"), which the Chinese here follows; the English keeps the literal verb."
+      }
+     ]
+    },
+    {
+     "h": "c041f62e",
+     "en": "Now if we died with Christ, we believe that we shall also live with him,"
+    },
+    {
+     "h": "3c868dcc",
+     "en": "knowing that Christ, having been raised from the dead, dies no more; death no longer is master over him."
+    },
+    {
+     "h": "736dfc70",
+     "en": "For the death that he died, he died to sin once for all; but the life that he lives, he lives to God."
+    },
+    {
+     "h": "e652d211",
+     "en": "So you also, reckon yourselves to be dead to sin but alive to God in Christ Jesus."
+    },
+    {
+     "h": "ef70052c",
+     "en": "Therefore do not let sin reign in your mortal body so that you obey its desires,"
+    },
+    {
+     "h": "397fd27c",
+     "en": "and do not present your members to sin as instruments of unrighteousness, but present yourselves to God as those alive from the dead, and your members to God as instruments of righteousness."
+    },
+    {
+     "h": "4031896e",
+     "en": "For sin will not be master over you, for you are not under law but under grace."
+    },
+    {
+     "h": "d23a31ac",
+     "en": "What then? Shall we sin because we are not under law but under grace? By no means!"
+    },
+    {
+     "h": "6cd1ef21",
+     "en": "Do you not know that to whom you present yourselves as slaves for obedience, you are slaves of the one whom you obey, either of sin leading to death or of obedience leading to righteousness?"
+    },
+    {
+     "h": "28c0dbdc",
+     "en": "But thanks be to God that you were slaves of sin, but you obeyed from the heart the pattern of teaching to which you were handed over,"
+    },
+    {
+     "h": "97fdc4a1",
+     "en": "and having been set free from sin, you became slaves to righteousness."
+    },
+    {
+     "h": "f5f1b5f6",
+     "en": "I speak in human terms because of the weakness of your flesh. For just as you presented your members as slaves to uncleanness and to lawlessness leading to lawlessness, so now present your members as slaves to righteousness leading to sanctification."
+    },
+    {
+     "h": "2dc0f19f",
+     "en": "For when you were slaves of sin, you were free in regard to righteousness."
+    },
+    {
+     "h": "ea999f61",
+     "en": "What fruit then did you have at that time from the things of which you are now ashamed? For the end of those things is death."
+    },
+    {
+     "h": "a6849f3a",
+     "en": "But now, having been set free from sin and enslaved to God, you have your fruit leading to sanctification, and the end, eternal life."
+    },
+    {
+     "h": "51bc3298",
+     "en": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 7 · The Law and Sin; the Struggle of “I”",
+   "no": 7,
+   "intro": "Paul begins with a comparison from marriage: when the husband dies, the wife is no longer bound by that law; in the same way believers have died to the law through Christ. Is the law then sin? By no means. The law is good; it is sin that uses the commandment to bring death. He then speaks as “I”: I want to do good and cannot, I do the evil I do not want, and who will rescue me?",
+   "verses": [
+    {
+     "h": "8bc55de5",
+     "en": "Or do you not know, brothers, for I am speaking to those who know law, that the law is master over a person for as long as he lives?"
+    },
+    {
+     "h": "947c3e03",
+     "en": "For the married woman is bound by law to her husband while he lives; but if the husband dies, she is released from the law of the husband."
+    },
+    {
+     "h": "aba38e74",
+     "en": "So then, while her husband lives, she will be called an adulteress if she becomes another man’s; but if the husband dies, she is free from the law, so that she is not an adulteress though she becomes another man’s."
+    },
+    {
+     "h": "7621a4b6",
+     "en": "So, my brothers, you also were put to death to the law through the body of Christ, so that you might belong to another, to him who was raised from the dead, so that we might bear fruit for God."
+    },
+    {
+     "h": "05342dd2",
+     "en": "For when we were in the flesh, the passions of sins that came through the law were at work in our members to bear fruit for death;"
+    },
+    {
+     "h": "01854cca",
+     "en": "but now we have been released from the law, having died to that by which we were held, so that we serve in newness of spirit and not in oldness of letter."
+    },
+    {
+     "h": "b9dff574",
+     "en": "What then shall we say? Is the law sin? By no means! Yet I would not have known sin except through law; for I would not have known coveting if the law had not said, “You shall not covet.”",
+     "cmp": [
+      {
+       "w": "egō",
+       "note": "引的是十诫里的一条（旧约《出埃及记》20:17）。从这一节到章末保罗用「我」来说，这个「我」指谁历来看法不一：保罗自己的经历；泛指在律法之下的人（或亚当、以色列）；又分成是信耶稣以前的光景，还是信了以后仍有的挣扎。原文没有说明。",
+       "en": "The quotation is one of the Ten Commandments (Exodus 20:17). From here to the end of the chapter Paul speaks as \"I,\" and who this \"I\" is has long been debated: Paul’s own experience; anyone under the law (or Adam, or Israel); and, within these, life before believing in Jesus or the struggle that continues afterward. The text does not say."
+      }
+     ]
+    },
+    {
+     "h": "65d48157",
+     "en": "But sin, seizing an opportunity through the commandment, produced in me every kind of coveting; for apart from law sin is dead."
+    },
+    {
+     "h": "a468f6d5",
+     "en": "And I was once alive apart from law; but when the commandment came, sin came to life,"
+    },
+    {
+     "h": "15c84626",
+     "en": "and I died; and the commandment that was for life, this was found for me to be for death;"
+    },
+    {
+     "h": "c7c19f96",
+     "en": "for sin, seizing an opportunity through the commandment, deceived me and through it killed me."
+    },
+    {
+     "h": "171720bb",
+     "en": "So the law is holy, and the commandment is holy and righteous and good."
+    },
+    {
+     "h": "ca1fd059",
+     "en": "Did that which is good then become death to me? By no means! Rather it was sin, in order that it might be shown to be sin by producing death in me through what is good, so that through the commandment sin might become sinful beyond measure."
+    },
+    {
+     "h": "d81f2d4f",
+     "en": "For we know that the law is spiritual; but I am of flesh, sold under sin."
+    },
+    {
+     "h": "34b3d38b",
+     "en": "For what I am doing I do not understand; for what I want, this I do not practice, but what I hate, this I do."
+    },
+    {
+     "h": "a4677294",
+     "en": "But if what I do not want is what I do, I agree with the law that it is good."
+    },
+    {
+     "h": "4d574e05",
+     "en": "So now it is no longer I who do it, but sin that dwells in me."
+    },
+    {
+     "h": "8e52ffbf",
+     "en": "For I know that good does not dwell in me, that is, in my flesh; for the wanting is present with me, but the doing of the good is not."
+    },
+    {
+     "h": "52379dbe",
+     "en": "For the good that I want I do not do, but the evil that I do not want, this I practice."
+    },
+    {
+     "h": "d1ec09be",
+     "en": "But if what I do not want is what I do, it is no longer I who do it, but sin that dwells in me."
+    },
+    {
+     "h": "2357f59b",
+     "en": "So I find the law that when I want to do the good, evil is present with me.",
+     "cmp": [
+      {
+       "w": "ton nomon",
+       "note": "这里和第 23、25 节的 nomos，多数人理解成「规律、原则」，所以白话写「律」，和「上帝的律法」分开；原文是同一个词，也有人认为处处都指摩西的律法。",
+       "en": "Nomos here and in verses 23 and 25 is taken by most as \"principle, rule,\" which is why the Chinese writes 律 (lǜ, \"rule\") to set it apart from 上帝的律法 (Shàngdì de lǜfǎ, \"the law of God\"). It is the same Greek word, and some hold that it means the law of Moses throughout."
+      }
+     ]
+    },
+    {
+     "h": "c1f13726",
+     "en": "For I delight in the law of God according to the inner person,"
+    },
+    {
+     "h": "f867a726",
+     "en": "but I see a different law in my members, waging war against the law of my mind and making me captive to the law of sin that is in my members."
+    },
+    {
+     "h": "6b4d1680",
+     "en": "Wretched man that I am! Who will rescue me from this body of death?"
+    },
+    {
+     "h": "5e3ee442",
+     "en": "Thanks be to God through Jesus Christ our Lord! So then, I myself with the mind serve the law of God, but with the flesh the law of sin."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 8 · Life in the Spirit; Nothing Can Separate",
+   "no": 8,
+   "intro": "Paul says that those who are in Christ Jesus are no longer condemned, because God sent his own Son and did what the law could not do. Those who live by the Spirit are God’s children and may call him “Abba, Father.” Though there is suffering now, and the whole creation groans as it waits, the glory to come is far greater. He ends: nothing can separate us from the love of God.",
+   "verses": [
+    {
+     "h": "da3fabaa",
+     "en": "There is therefore now no condemnation for those who are in Christ Jesus;"
+    },
+    {
+     "h": "f16ff83c",
+     "en": "for the law of the Spirit of life in Christ Jesus set you free from the law of sin and of death.",
+     "cmp": [
+      {
+       "w": "ēleutherōsen se",
+       "note": "本站的底本是「释放了你」；多数抄本是「释放了我」，和合本跟的是后一种。「律」在原文是 nomos，和「律法」同一个词，这里多数人理解成「原则、力量」。",
+       "en": "The edition this site follows reads \"set you free\"; most manuscripts read \"set me free,\" which the Union Version follows. \"Law\" here is nomos, the same word as \"the law,\" taken by most in this verse as \"principle, power.\""
+      }
+     ]
+    },
+    {
+     "h": "31e87192",
+     "en": "For what the law could not do, in that it was weak through the flesh, God did: sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh,",
+     "cmp": [
+      {
+       "w": "peri hamartias",
+       "note": "字面是「为了罪」。这个说法在旧约的古希腊文译本里是「赎罪祭」的固定叫法，所以也可以读成「作了赎罪祭」，和合本就是这样译的。",
+       "en": "Literally \"concerning sin.\" In the old Greek version of the Old Testament the phrase is the set term for the \"sin offering,\" so it can also be read \"as a sin offering,\" which is how the Union Version takes it."
+      }
+     ]
+    },
+    {
+     "h": "5ed00b72",
+     "en": "so that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.",
+     "cmp": [
+      {
+       "w": "kata pneuma",
+       "note": "这一章的 pneuma（灵）出现二十多次，原文大多不带「圣」字。多数地方指上帝的灵，和合本一律写「圣灵」；白话照原文写「灵」，只在第 2 节用括号补了一次「圣」。指人自己的灵的地方（第 10、16 节）见那里的注。",
+       "en": "Pneuma (\"spirit\") occurs more than twenty times in this chapter, mostly without \"holy.\" In most places it means God’s Spirit, and the Union Version writes 圣灵 (Shènglíng, \"Holy Spirit\") throughout; the Chinese here writes simply 灵 (líng, \"spirit\"), supplying 圣 (\"holy\") in parentheses once, in verse 2."
+      }
+     ]
+    },
+    {
+     "h": "dc3d53ba",
+     "en": "For those who are according to the flesh set their minds on the things of the flesh, but those who are according to the Spirit, the things of the Spirit."
+    },
+    {
+     "h": "e83bacfd",
+     "en": "For the mind of the flesh is death, but the mind of the Spirit is life and peace;"
+    },
+    {
+     "h": "366e6bcd",
+     "en": "because the mind of the flesh is hostility toward God, for it does not submit to the law of God, for indeed it cannot;"
+    },
+    {
+     "h": "31ddb0ca",
+     "en": "and those who are in the flesh cannot please God."
+    },
+    {
+     "h": "60ad88e0",
+     "en": "But you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, this one is not his."
+    },
+    {
+     "h": "931deec1",
+     "en": "But if Christ is in you, the body is dead because of sin, but the spirit is life because of righteousness.",
+     "cmp": [
+      {
+       "w": "to de pneuma zōē",
+       "note": "这里的「灵」可以指人自己的灵（和「身体」相对），也可以指上帝的灵。和合本取前一种（「心灵却因义而活」）。原文说的是「灵是生命」，不是「灵活着」。",
+       "en": "\"Spirit\" here may be the human spirit, set against \"the body,\" or God’s Spirit. The Union Version takes the first. The Greek says \"the spirit is life,\" not \"the spirit is alive.\""
+      }
+     ]
+    },
+    {
+     "h": "b1da6eed",
+     "en": "And if the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you."
+    },
+    {
+     "h": "e28a7d8d",
+     "en": "So then, brothers, we are debtors, not to the flesh, to live according to the flesh;"
+    },
+    {
+     "h": "83947418",
+     "en": "for if you live according to the flesh, you are going to die; but if by the Spirit you put to death the deeds of the body, you will live."
+    },
+    {
+     "h": "5463a996",
+     "en": "For as many as are led by the Spirit of God, these are sons of God."
+    },
+    {
+     "h": "8250d016",
+     "en": "For you did not receive a spirit of slavery leading again to fear, but you received a Spirit of adoption, in whom we cry, “Abba, Father!”",
+     "cmp": [
+      {
+       "w": "Abba ho patēr",
+       "note": "「阿爸」是亚兰话的「父亲」，《马可福音》14:36 耶稣祷告时用的就是这个词。「得儿子名分」原文 huiothesia 是「收养为儿子」的意思。和合本把「灵」译成「心」。",
+       "en": "Abba is Aramaic for \"father,\" the word Jesus uses in prayer at Mark 14:36. \"Adoption\" is huiothesia, \"being taken as a son.\" The Union Version renders \"spirit\" here as 心 (xīn, \"heart\")."
+      }
+     ]
+    },
+    {
+     "h": "de83d360",
+     "en": "The Spirit himself bears witness with our spirit that we are children of God."
+    },
+    {
+     "h": "0ec79491",
+     "en": "And if children, also heirs: heirs of God and fellow heirs with Christ, if indeed we suffer with him so that we may also be glorified with him."
+    },
+    {
+     "h": "5f29b724",
+     "en": "For I reckon that the sufferings of the present time are not worthy to be compared with the glory that is going to be revealed to us."
+    },
+    {
+     "h": "cbcf4337",
+     "en": "For the eager expectation of the creation awaits the revelation of the sons of God."
+    },
+    {
+     "h": "f69a74b1",
+     "en": "For the creation was subjected to futility, not willingly but because of him who subjected it, in hope"
+    },
+    {
+     "h": "6df9a512",
+     "en": "that the creation itself also will be set free from the slavery of corruption into the freedom of the glory of the children of God."
+    },
+    {
+     "h": "b807a7c8",
+     "en": "For we know that the whole creation groans together and suffers birth pains together until now."
+    },
+    {
+     "h": "c1c8bf39",
+     "en": "And not only that, but we ourselves also, having the firstfruits of the Spirit, we ourselves groan within ourselves, awaiting adoption, the redemption of our body."
+    },
+    {
+     "h": "eb01b3a7",
+     "en": "For in hope we were saved; but hope that is seen is not hope, for who hopes for what he sees?"
+    },
+    {
+     "h": "bef3c37a",
+     "en": "But if we hope for what we do not see, we await it with endurance."
+    },
+    {
+     "h": "c83ff471",
+     "en": "And likewise the Spirit also helps our weakness; for we do not know what to pray for as we ought, but the Spirit himself intercedes with groanings too deep for words,"
+    },
+    {
+     "h": "8c7d18fe",
+     "en": "and he who searches the hearts knows what the mind of the Spirit is, because he intercedes for the saints according to God."
+    },
+    {
+     "h": "618fd404",
+     "en": "And we know that for those who love God all things work together for good, for those who are called according to purpose.",
+     "cmp": [
+      {
+       "w": "panta synergei eis agathon",
+       "note": "这句话的主语有三种读法：「万事一同效力」；「他（上帝）使万事一同效力」；「灵在万事上一同效力」。有几份很早的抄本明写着「上帝」。白话和和合本取第一种。",
+       "en": "The subject can be read three ways: \"all things work together\"; \"he (God) works all things together\"; or \"the Spirit works in all things.\" A few very early manuscripts write \"God\" explicitly. The Chinese here and the Union Version take the first."
+      }
+     ]
+    },
+    {
+     "h": "c7991d8c",
+     "en": "For those whom he foreknew he also predestined to be conformed to the image of his Son, so that he might be the firstborn among many brothers;"
+    },
+    {
+     "h": "871d5159",
+     "en": "and those whom he predestined, these he also called; and those whom he called, these he also justified; and those whom he justified, these he also glorified."
+    },
+    {
+     "h": "e6e309c2",
+     "en": "What then shall we say to these things? If God is for us, who is against us?"
+    },
+    {
+     "h": "e1a77238",
+     "en": "He who did not spare his own Son but handed him over for us all, how will he not also with him freely give us all things?"
+    },
+    {
+     "h": "604cb5c6",
+     "en": "Who will bring a charge against God’s chosen ones? It is God who justifies;",
+     "cmp": [
+      {
+       "w": "theos ho dikaiōn",
+       "note": "第 33、34 节的后半句，原文也可以断成反问：「难道是称他们为义的上帝吗？」「难道是那死了……的基督吗？」白话照底本的标点读成陈述。",
+       "en": "The second halves of verses 33 and 34 can also be punctuated as questions: \"Is it God, who justifies?\" \"Is it Christ, who died …?\" The translation follows the edition’s punctuation and reads them as statements."
+      }
+     ]
+    },
+    {
+     "h": "043c5452",
+     "en": "who is the one who condemns? It is Christ who died, and more, who was raised, who also is at the right hand of God, who also intercedes for us."
+    },
+    {
+     "h": "b8fbf9cc",
+     "en": "Who will separate us from the love of Christ? Affliction, or distress, or persecution, or famine, or nakedness, or danger, or sword?"
+    },
+    {
+     "h": "324a849e",
+     "en": "As it is written, “For your sake we are being put to death all day long; we were reckoned as sheep for slaughter.”",
+     "cmp": [
+      {
+       "w": "heneken sou",
+       "note": "引的是旧约《诗篇》44:22。",
+       "en": "The quotation is Psalm 44:22."
+      }
+     ]
+    },
+    {
+     "h": "55195982",
+     "en": "But in all these things we more than conquer through him who loved us."
+    },
+    {
+     "h": "27031f39",
+     "en": "For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,"
+    },
+    {
+     "h": "dca56f0d",
+     "en": "nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 9 · Paul’s Sorrow for His People; God’s Choice",
+   "no": 9,
+   "intro": "Paul says he grieves deeply for his own people, the Israelites. He then asks whether God’s word has failed, and answers that not every descendant of Abraham counts: whom God chooses rests with God alone, as he argues from Isaac, Jacob, Pharaoh and a potter with clay. He ends by saying that Gentiles reached righteousness by faith, while Israel, seeking it by works, stumbled.",
+   "verses": [
+    {
+     "h": "a10e9be7",
+     "en": "I am speaking the truth in Christ, I am not lying, my conscience bearing witness with me in the Holy Spirit,"
+    },
+    {
+     "h": "7928f510",
+     "en": "that I have great sorrow and unceasing anguish in my heart."
+    },
+    {
+     "h": "a328006a",
+     "en": "For I could wish that I myself were accursed, cut off from Christ, for the sake of my brothers, my kinsmen according to the flesh,"
+    },
+    {
+     "h": "f5785c2e",
+     "en": "who are Israelites; theirs are the adoption and the glory and the covenants and the giving of the law and the worship and the promises;"
+    },
+    {
+     "h": "df1f7bda",
+     "en": "theirs are the fathers, and from them, according to the flesh, is the Christ, who is over all, God blessed forever. Amen.",
+     "cmp": [
+      {
+       "w": "ho ōn epi pantōn theos eulogētos",
+       "note": "这一句原文没有标点，历来有两种断法。一种读成说基督的话：「他是在万有之上的上帝，永远当受称颂」，底本的逗号、和合本和白话都是这样。另一种在「基督」后面断句，后半另起，是对上帝的颂词：「愿那在万有之上的上帝永远受称颂」。两种在文法上都读得通。",
+       "en": "The Greek has no punctuation here, and two ways of dividing the sentence are long established. One takes it as said of Christ: \"who is over all, God blessed forever,\" as in the comma of this edition, the Union Version and the translations here. The other puts a full stop after \"the Christ\" and reads the rest as a separate doxology to God: \"May God who is over all be blessed forever.\" Both are grammatically possible."
+      }
+     ]
+    },
+    {
+     "h": "0f807611",
+     "en": "But it is not as though the word of God has failed. For not all who are descended from Israel are Israel,"
+    },
+    {
+     "h": "c981c47b",
+     "en": "nor because they are Abraham’s seed are they all children, but: “In Isaac shall your seed be called.”",
+     "cmp": [
+      {
+       "w": "En Isaak klēthēsetai soi sperma",
+       "note": "引自旧约《创世记》21:12。",
+       "en": "Quoted from Genesis 21:12."
+      }
+     ]
+    },
+    {
+     "h": "9fba2bf7",
+     "en": "That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as seed."
+    },
+    {
+     "h": "447372cd",
+     "en": "For this is the word of promise: “At this time I will come, and Sarah shall have a son.”",
+     "cmp": [
+      {
+       "w": "Kata ton kairon touton eleusomai",
+       "note": "引自旧约《创世记》18:10、18:14。",
+       "en": "Quoted from Genesis 18:10, 14."
+      }
+     ]
+    },
+    {
+     "h": "65e49b5e",
+     "en": "And not only so, but also Rebecca, having conceived by one man, our father Isaac—"
+    },
+    {
+     "h": "1ed2d29b",
+     "en": "for though they were not yet born and had done nothing good or bad, so that the purpose of God according to election might stand,"
+    },
+    {
+     "h": "d749583c",
+     "en": "not from works but from the one who calls, it was said to her, “The older shall serve the younger.”",
+     "cmp": [
+      {
+       "w": "Ho meizōn douleusei tōi elassoni",
+       "note": "引自旧约《创世记》25:23。",
+       "en": "Quoted from Genesis 25:23."
+      }
+     ]
+    },
+    {
+     "h": "b800c9b8",
+     "en": "as it is written, “Jacob I loved, but Esau I hated.”",
+     "cmp": [
+      {
+       "w": "Ton Iakōb ēgapēsa, ton de Ēsau emisēsa",
+       "note": "引自旧约《玛拉基书》1:2–3。",
+       "en": "Quoted from Malachi 1:2–3."
+      }
+     ]
+    },
+    {
+     "h": "ce399d64",
+     "en": "What then shall we say? Is there injustice with God? By no means!"
+    },
+    {
+     "h": "4ee83ec4",
+     "en": "For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”",
+     "cmp": [
+      {
+       "w": "Eleēsō hon an eleō",
+       "note": "引自旧约《出埃及记》33:19。",
+       "en": "Quoted from Exodus 33:19."
+      }
+     ]
+    },
+    {
+     "h": "498f8fa6",
+     "en": "So then it does not depend on the one who wills or on the one who runs, but on God who has mercy."
+    },
+    {
+     "h": "d196f82d",
+     "en": "For the scripture says to Pharaoh, “For this very purpose I raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth.”",
+     "cmp": [
+      {
+       "w": "Eis auto touto exēgeira se",
+       "note": "引自旧约《出埃及记》9:16。",
+       "en": "Quoted from Exodus 9:16."
+      }
+     ]
+    },
+    {
+     "h": "26c5782e",
+     "en": "So then he has mercy on whom he wills, and he hardens whom he wills."
+    },
+    {
+     "h": "29890da5",
+     "en": "You will say to me then, “Why does he still find fault? For who has resisted his will?”"
+    },
+    {
+     "h": "e04f9b0b",
+     "en": "O man, who indeed are you to answer back to God? Will what is molded say to the one who molded it, “Why did you make me like this?”",
+     "cmp": [
+      {
+       "w": "mē erei to plasma tōi plasanti",
+       "note": "这一句化用了旧约《以赛亚书》29:16、45:9 的话。",
+       "en": "This sentence echoes Isaiah 29:16 and 45:9."
+      }
+     ]
+    },
+    {
+     "h": "ec311cf8",
+     "en": "Or does the potter not have authority over the clay, to make from the same lump one vessel for honor and another for dishonor?"
+    },
+    {
+     "h": "da382c16",
+     "en": "And what if God, wanting to show his wrath and to make known his power, endured with much patience vessels of wrath prepared for destruction,",
+     "cmp": [
+      {
+       "w": "katērtismena eis apōleian",
+       "note": "「预备好要毁灭」原文没有说是谁预备的；下一节说到蒙怜悯的器皿时，才明说是「他预先预备」。",
+       "en": "The Greek for \"prepared for destruction\" does not say who prepared them; only in the next verse, of the vessels of mercy, does it say outright \"which he prepared beforehand.\""
+      }
+     ]
+    },
+    {
+     "h": "5e9bf2c3",
+     "en": "and in order to make known the riches of his glory upon vessels of mercy, which he prepared beforehand for glory,"
+    },
+    {
+     "h": "e87e144c",
+     "en": "even us whom he also called, not only from the Jews but also from the Gentiles?—",
+     "cmp": [
+      {
+       "w": "ei de … ex ethnōn",
+       "note": "第 22–24 节原文是一个没有说完的「如果」句：只有前半，没有「那又怎样」的后半，底本用破折号表示话停在这里。白话在括号里补了一句；和合本补的是「这有什么不可呢」。",
+       "en": "Verses 22–24 are an unfinished \"what if\" sentence in the Greek: there is only the first half, with no \"then what,\" and this edition marks the break with a dash. The plain Chinese supplies a short clause in parentheses; the Union Version supplies 这有什么不可呢 (zhè yǒu shénme bùkě ne, \"what is wrong with that?\")."
+      }
+     ]
+    },
+    {
+     "h": "8b3bf7e6",
+     "en": "As he also says in Hosea, “I will call those who were not my people ‘my people,’ and her who was not beloved ‘beloved’;",
+     "cmp": [
+      {
+       "w": "Kalesō ton ou laon mou laon mou",
+       "note": "引自旧约《何西阿书》2:23。",
+       "en": "Quoted from Hosea 2:23."
+      }
+     ]
+    },
+    {
+     "h": "ac33f936",
+     "en": "and it shall be that in the place where it was said to them, ‘You are not my people,’ there they shall be called sons of the living God.”",
+     "cmp": [
+      {
+       "w": "kai estai en tōi topōi",
+       "note": "引自旧约《何西阿书》1:10。",
+       "en": "Quoted from Hosea 1:10."
+      }
+     ]
+    },
+    {
+     "h": "8d400e34",
+     "en": "And Isaiah cries out concerning Israel, “Though the number of the sons of Israel be as the sand of the sea, the remnant will be saved;",
+     "cmp": [
+      {
+       "w": "to hypoleimma sōthēsetai",
+       "note": "引自旧约《以赛亚书》10:22–23（到下一节）。",
+       "en": "Quoted from Isaiah 10:22–23 (continuing into the next verse)."
+      }
+     ]
+    },
+    {
+     "h": "e660ae0f",
+     "en": "for the Lord will carry out his word upon the earth, completing it and cutting it short.”"
+    },
+    {
+     "h": "64d905da",
+     "en": "And as Isaiah said beforehand, “If the Lord of hosts had not left us seed, we would have become like Sodom and been made like Gomorrah.”",
+     "cmp": [
+      {
+       "w": "Ei mē kyrios Sabaōth",
+       "note": "引自旧约《以赛亚书》1:9。",
+       "en": "Quoted from Isaiah 1:9."
+      }
+     ]
+    },
+    {
+     "h": "27824a6a",
+     "en": "What then shall we say? That Gentiles who did not pursue righteousness have attained righteousness, a righteousness that is from faith;"
+    },
+    {
+     "h": "c3ead5aa",
+     "en": "but Israel, pursuing a law of righteousness, did not arrive at that law."
+    },
+    {
+     "h": "321ee161",
+     "en": "Why? Because it was not from faith but as though it were from works. They stumbled over the stone of stumbling,"
+    },
+    {
+     "h": "8e6140ce",
+     "en": "as it is written, “Behold, I am laying in Zion a stone of stumbling and a rock of offense, and the one who believes in him will not be put to shame.”",
+     "cmp": [
+      {
+       "w": "Idou tithēmi en Siōn",
+       "note": "这一句把旧约《以赛亚书》28:16 和 8:14 两处的话合在了一起。",
+       "en": "This sentence joins words from Isaiah 28:16 and 8:14."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 10 · The Righteousness from Faith; All May Call on the Lord",
+   "no": 10,
+   "intro": "Paul says he longs for his people to be saved: they are zealous for God but try to set up a righteousness of their own. He says Christ is the end of the law, and that whoever confesses with the mouth that Jesus is Lord and believes in the heart will be saved, with no distinction between Jew and Gentile. He then asks whether they have not heard, and answers from scripture that they heard and did not obey.",
+   "verses": [
+    {
+     "h": "83294f88",
+     "en": "Brothers, my heart’s desire and my prayer to God for them is for their salvation."
+    },
+    {
+     "h": "5c858079",
+     "en": "For I bear them witness that they have a zeal for God, but not according to knowledge."
+    },
+    {
+     "h": "978147cb",
+     "en": "For, being ignorant of the righteousness of God and seeking to establish their own, they did not submit to the righteousness of God."
+    },
+    {
+     "h": "2c2a06a6",
+     "en": "For Christ is the end of the law, for righteousness to everyone who believes.",
+     "cmp": [
+      {
+       "w": "telos nomou",
+       "note": "telos 可以是「终结」，也可以是「目标、所指向的地方」，两种读法都通行。白话写「终点」，两层意思都留着；和合本译「总结」。",
+       "en": "Telos can mean \"termination\" or \"goal, that toward which something points,\" and both readings are common. The plain Chinese writes 终点 (zhōngdiǎn, \"end point\"), which can carry either; the Union Version has 总结 (zǒngjié, \"summing up\")."
+      }
+     ]
+    },
+    {
+     "h": "006d40b5",
+     "en": "For Moses writes that the person who does the righteousness that is from the law shall live by it.",
+     "cmp": [
+      {
+       "w": "ho poiēsas anthrōpos zēsetai en autēi",
+       "note": "这里转述的是旧约《利未记》18:5。",
+       "en": "This paraphrases Leviticus 18:5."
+      }
+     ]
+    },
+    {
+     "h": "771aa472",
+     "en": "But the righteousness that is from faith speaks thus: “Do not say in your heart, ‘Who will ascend into heaven?’”—that is, to bring Christ down—",
+     "cmp": [
+      {
+       "w": "Tis anabēsetai eis ton ouranon",
+       "note": "第 6–8 节引的是旧约《申命记》30:12–14（开头一句见 9:4），那里说的是律法的话并不难找。每引一句，保罗就用「这就是……」加一句自己的说明。",
+       "en": "Verses 6–8 quote Deuteronomy 30:12–14 (the opening words are from 9:4), where the subject is that the commandment is not hard to find. After each phrase Paul adds a comment of his own beginning \"that is.\""
+      }
+     ]
+    },
+    {
+     "h": "da138a4d",
+     "en": "“or, ‘Who will descend into the abyss?’”—that is, to bring Christ up from the dead."
+    },
+    {
+     "h": "3200d174",
+     "en": "But what does it say? “The word is near you, in your mouth and in your heart”—that is, the word of faith that we proclaim:"
+    },
+    {
+     "h": "02ede40c",
+     "en": "that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised him from the dead, you will be saved."
+    },
+    {
+     "h": "8b602930",
+     "en": "For with the heart one believes, unto righteousness, and with the mouth one confesses, unto salvation."
+    },
+    {
+     "h": "c1019769",
+     "en": "For the scripture says, “Everyone who believes in him will not be put to shame.”",
+     "cmp": [
+      {
+       "w": "Pas ho pisteuōn epʼ autōi",
+       "note": "引自旧约《以赛亚书》28:16。",
+       "en": "Quoted from Isaiah 28:16."
+      }
+     ]
+    },
+    {
+     "h": "6cabe57d",
+     "en": "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, being rich toward all who call on him."
+    },
+    {
+     "h": "4ffe9ad9",
+     "en": "For “everyone who calls on the name of the Lord will be saved.”",
+     "cmp": [
+      {
+       "w": "Pas gar hos an epikalesētai",
+       "note": "引自旧约《约珥书》2:32。",
+       "en": "Quoted from Joel 2:32."
+      }
+     ]
+    },
+    {
+     "h": "99aad083",
+     "en": "How then shall they call on him in whom they have not believed? And how shall they believe in him of whom they have not heard? And how shall they hear without someone proclaiming?"
+    },
+    {
+     "h": "e2938cb1",
+     "en": "And how shall they proclaim unless they are sent? As it is written, “How beautiful are the feet of those who bring good news of good things!”",
+     "cmp": [
+      {
+       "w": "Hōs hōraioi hoi podes",
+       "note": "引自旧约《以赛亚书》52:7。",
+       "en": "Quoted from Isaiah 52:7."
+      }
+     ]
+    },
+    {
+     "h": "e86be77f",
+     "en": "But they have not all obeyed the good news; for Isaiah says, “Lord, who has believed what he heard from us?”",
+     "cmp": [
+      {
+       "w": "Kyrie, tis episteusen tēi akoēi hēmōn",
+       "note": "引自旧约《以赛亚书》53:1。",
+       "en": "Quoted from Isaiah 53:1."
+      }
+     ]
+    },
+    {
+     "h": "6f7cc10b",
+     "en": "So faith comes from hearing, and hearing through the word of Christ."
+    },
+    {
+     "h": "a0965423",
+     "en": "But I say, have they not heard? Indeed they have: “Their voice has gone out into all the earth, and their words to the ends of the world.”",
+     "cmp": [
+      {
+       "w": "Eis pasan tēn gēn exēlthen ho phthongos autōn",
+       "note": "引自旧约《诗篇》19:4。",
+       "en": "Quoted from Psalm 19:4."
+      }
+     ]
+    },
+    {
+     "h": "f4fa5496",
+     "en": "But I say, did Israel not know? First Moses says, “I will make you jealous of what is not a nation; with a foolish nation I will make you angry.”",
+     "cmp": [
+      {
+       "w": "Egō parazēlōsō hymas",
+       "note": "引自旧约《申命记》32:21。",
+       "en": "Quoted from Deuteronomy 32:21."
+      }
+     ]
+    },
+    {
+     "h": "d7311f27",
+     "en": "And Isaiah is so bold as to say, “I was found by those who did not seek me; I became manifest to those who did not ask for me.”",
+     "cmp": [
+      {
+       "w": "Heurethēn en tois eme mē zētousin",
+       "note": "引自旧约《以赛亚书》65:1。",
+       "en": "Quoted from Isaiah 65:1."
+      }
+     ]
+    },
+    {
+     "h": "953ba4f2",
+     "en": "But concerning Israel he says, “All day long I have stretched out my hands to a disobedient and contrary people.”",
+     "cmp": [
+      {
+       "w": "Holēn tēn hēmeran exepetasa tas cheiras mou",
+       "note": "引自旧约《以赛亚书》65:2。",
+       "en": "Quoted from Isaiah 65:2."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chapter 11 · God Has Not Rejected His People; the Olive Tree",
+   "no": 11,
+   "intro": "Paul asks whether God has rejected his people and answers, by no means: a remnant remains even now, and through the stumbling of the rest salvation has come to the Gentiles. With the picture of an olive tree and its grafted branches he warns Gentile believers not to boast. He says a hardening has come on part of Israel until the fullness of the Gentiles comes in, and he closes with a hymn of praise.",
+   "verses": [
+    {
+     "h": "ee6ccc9d",
+     "en": "I say then, has God rejected his people? By no means! For I too am an Israelite, of the seed of Abraham, of the tribe of Benjamin."
+    },
+    {
+     "h": "d8af4b86",
+     "en": "God has not rejected his people whom he foreknew. Or do you not know what the scripture says in the passage about Elijah, how he pleads with God against Israel?"
+    },
+    {
+     "h": "07c81258",
+     "en": "“Lord, they have killed your prophets, they have torn down your altars, and I alone am left, and they seek my life.”",
+     "cmp": [
+      {
+       "w": "Kyrie, tous prophētas sou apekteinan",
+       "note": "引自旧约《列王纪上》19:10、19:14。",
+       "en": "Quoted from 1 Kings 19:10, 14."
+      }
+     ]
+    },
+    {
+     "h": "e2bffef4",
+     "en": "But what does the divine reply say to him? “I have kept for myself seven thousand men who have not bowed the knee to Baal.”",
+     "cmp": [
+      {
+       "w": "Katelipon emautōi heptakischilious andras",
+       "note": "引自旧约《列王纪上》19:18。",
+       "en": "Quoted from 1 Kings 19:18."
+      }
+     ]
+    },
+    {
+     "h": "e55bc0b5",
+     "en": "So too at the present time there has come to be a remnant, according to the election of grace."
+    },
+    {
+     "h": "889b0b5d",
+     "en": "But if it is by grace, it is no longer from works; otherwise grace is no longer grace."
+    },
+    {
+     "h": "7155977d",
+     "en": "What then? What Israel is seeking, it did not obtain; but the elect obtained it, and the rest were hardened,"
+    },
+    {
+     "h": "d4999ffc",
+     "en": "as it is written, “God gave them a spirit of stupor, eyes that would not see and ears that would not hear, down to this very day.”",
+     "cmp": [
+      {
+       "w": "Edōken autois ho theos pneuma katanyxeōs",
+       "note": "这一句把旧约《申命记》29:4 和《以赛亚书》29:10 两处的话合在了一起。",
+       "en": "This sentence joins words from Deuteronomy 29:4 and Isaiah 29:10."
+      }
+     ]
+    },
+    {
+     "h": "ce0e0fa5",
+     "en": "And David says, “Let their table become a snare and a trap, and a stumbling block and a retribution for them;",
+     "cmp": [
+      {
+       "w": "Genēthētō hē trapeza autōn eis pagida",
+       "note": "引自旧约《诗篇》69:22–23（到下一节）。",
+       "en": "Quoted from Psalm 69:22–23 (continuing into the next verse)."
+      }
+     ]
+    },
+    {
+     "h": "d3ab1d63",
+     "en": "let their eyes be darkened so that they cannot see, and bend their backs forever.”"
+    },
+    {
+     "h": "9847d68e",
+     "en": "I say then, did they stumble in order that they might fall? By no means! But by their trespass salvation has come to the Gentiles, so as to make them jealous."
+    },
+    {
+     "h": "024531cf",
+     "en": "Now if their trespass is riches for the world and their loss is riches for the Gentiles, how much more will their fullness be!",
+     "cmp": [
+      {
+       "w": "to plērōma autōn",
+       "note": "plērōma 字面是「满」「补满」，可以指人数满了，也可以指完全恢复，两种读法都有；第 25 节讲外族人时用的是同一个词。和合本这里译「丰满」，第 25 节译「数目添满」。",
+       "en": "Plērōma is literally \"fullness, filling up\"; it may mean the full number or a full restoration, and both readings are found. The same word is used of the Gentiles in verse 25. The Union Version has 丰满 (fēngmǎn, \"fullness\") here and 数目添满 (shùmù tiānmǎn, \"the number is made up\") there."
+      }
+     ]
+    },
+    {
+     "h": "7cf5379a",
+     "en": "Now I am speaking to you Gentiles. Inasmuch then as I am an apostle of the Gentiles, I glorify my ministry,"
+    },
+    {
+     "h": "abd63859",
+     "en": "if somehow I may make my own flesh jealous and save some of them."
+    },
+    {
+     "h": "531a9bca",
+     "en": "For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?"
+    },
+    {
+     "h": "36264cfe",
+     "en": "If the firstfruit is holy, so is the lump; and if the root is holy, so are the branches."
+    },
+    {
+     "h": "032cb9a2",
+     "en": "But if some of the branches were broken off, and you, being a wild olive, were grafted in among them and became a sharer in the root of the richness of the olive tree,"
+    },
+    {
+     "h": "85ef6241",
+     "en": "do not boast over the branches. But if you do boast, it is not you who support the root, but the root that supports you."
+    },
+    {
+     "h": "9550af39",
+     "en": "You will say then, “Branches were broken off so that I might be grafted in.”"
+    },
+    {
+     "h": "67cd2f4f",
+     "en": "Well said. They were broken off because of unbelief, but you stand by faith. Do not be haughty, but fear."
+    },
+    {
+     "h": "0bf79954",
+     "en": "For if God did not spare the natural branches, neither will he spare you."
+    },
+    {
+     "h": "eca8c8ca",
+     "en": "See then the kindness and the severity of God: severity toward those who fell, but God’s kindness toward you, if you continue in his kindness; otherwise you too will be cut off."
+    },
+    {
+     "h": "cdca91e8",
+     "en": "And they also, if they do not continue in unbelief, will be grafted in, for God is able to graft them in again."
+    },
+    {
+     "h": "4ad23db7",
+     "en": "For if you were cut from what is by nature a wild olive tree and, contrary to nature, were grafted into a cultivated olive tree, how much more will these, the natural branches, be grafted into their own olive tree."
+    },
+    {
+     "h": "01bbda04",
+     "en": "For I do not want you to be ignorant, brothers, of this mystery, lest you be wise in your own sight: that a hardening has come upon part of Israel until the fullness of the Gentiles has come in,"
+    },
+    {
+     "h": "8dcb5f8b",
+     "en": "and in this way all Israel will be saved, as it is written, “The Deliverer will come from Zion; he will turn away ungodliness from Jacob;",
+     "cmp": [
+      {
+       "w": "kai houtōs pas Israēl sōthēsetai",
+       "note": "kai houtōs 字面是「就这样」，说的是方式；和合本译「于是」，读起来像时间上的「然后」。「全以色列」指谁，历来读法不一，白话照字面写。",
+       "en": "Kai houtōs is literally \"and in this way,\" a statement of manner; the Union Version has 于是 (yúshì, \"thereupon\"), which reads as a sequence in time. Who \"all Israel\" refers to has long been read in different ways; the translation keeps the words as they stand."
+      },
+      {
+       "w": "Hēxei ek Siōn ho rhyomenos",
+       "note": "引文出自旧约《以赛亚书》59:20–21，下一节的后半句出自《以赛亚书》27:9。",
+       "en": "The quotation is from Isaiah 59:20–21; the second half of the next verse is from Isaiah 27:9."
+      }
+     ]
+    },
+    {
+     "h": "e93089a6",
+     "en": "and this will be my covenant with them when I take away their sins.”"
+    },
+    {
+     "h": "c11e9f38",
+     "en": "As regards the good news, they are enemies for your sake; but as regards election, they are beloved for the sake of the fathers."
+    },
+    {
+     "h": "bbaae78f",
+     "en": "For the gifts and the calling of God are irrevocable."
+    },
+    {
+     "h": "1575a22a",
+     "en": "For just as you were once disobedient to God but now have received mercy because of their disobedience,"
+    },
+    {
+     "h": "b0de76c4",
+     "en": "so they too have now been disobedient, in order that by the mercy shown to you they also may now receive mercy."
+    },
+    {
+     "h": "782ae9c5",
+     "en": "For God has shut up all in disobedience, that he may have mercy on all."
+    },
+    {
+     "h": "98900ebc",
+     "en": "O the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how untraceable his ways!"
+    },
+    {
+     "h": "d40dba03",
+     "en": "“For who has known the mind of the Lord? Or who has been his counselor?”",
+     "cmp": [
+      {
+       "w": "Tis gar egnō noun kyriou",
+       "note": "引自旧约《以赛亚书》40:13。",
+       "en": "Quoted from Isaiah 40:13."
+      }
+     ]
+    },
+    {
+     "h": "f383f075",
+     "en": "“Or who has first given to him, that it should be repaid to him?”",
+     "cmp": [
+      {
+       "w": "ē tis proedōken autōi",
+       "note": "这一句和旧约《约伯记》41:11 的话相近。",
+       "en": "This sentence is close to Job 41:11."
+      }
+     ]
+    },
+    {
+     "h": "bd8b9f19",
+     "en": "For from him and through him and to him are all things. To him be the glory forever. Amen."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 12 · A Living Sacrifice; Life in One Body",
+   "no": 12,
+   "intro": "After the argument of the earlier chapters Paul turns to exhortation: offer your bodies to God as a living sacrifice and do not be shaped by this age. Believers, he says, are like the many members of one body, each with a different gift to be used. Then comes a string of short instructions: let love be genuine, bless those who persecute you, do not take revenge, overcome evil with good.",
+   "verses": [
+    {
+     "h": "602d5a2b",
+     "en": "I urge you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy, well-pleasing to God, which is your reasonable worship.",
+     "cmp": [
+      {
+       "w": "tēn logikēn latreian hymōn",
+       "note": "logikos 可以是「合乎理性的」，也可以是「出于内心的、属灵的」，两种读法都通行。和合本译成「你们如此事奉，乃是理所当然的」。",
+       "en": "Logikos can mean \"rational, reasonable\" or \"inward, spiritual,\" and both readings are common. The Union Version turns the phrase into 你们如此事奉，乃是理所当然的 (nǐmen rúcǐ shìfèng, nǎi shì lǐ suǒ dāngrán de, \"that you serve in this way is only right\")."
+      }
+     ]
+    },
+    {
+     "h": "7b5d0c23",
+     "en": "And do not be conformed to this age, but be transformed by the renewing of the mind, so that you may discern what the will of God is, what is good and well-pleasing and perfect."
+    },
+    {
+     "h": "2598d5d6",
+     "en": "For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each as God has apportioned a measure of faith."
+    },
+    {
+     "h": "64e262b2",
+     "en": "For just as in one body we have many members, and the members do not all have the same function,"
+    },
+    {
+     "h": "0c9ae618",
+     "en": "so we, the many, are one body in Christ, and individually members of one another."
+    },
+    {
+     "h": "8841e6a8",
+     "en": "And having gifts that differ according to the grace given to us: if prophecy, according to the proportion of faith;"
+    },
+    {
+     "h": "3d2297ff",
+     "en": "if service, in the serving; or the one who teaches, in the teaching;"
+    },
+    {
+     "h": "93a79c7a",
+     "en": "or the one who exhorts, in the exhortation; the one who gives, with sincerity; the one who leads, with diligence; the one who shows mercy, with cheerfulness."
+    },
+    {
+     "h": "1cf9f979",
+     "en": "Let love be without pretense. Abhor what is evil; cling to what is good."
+    },
+    {
+     "h": "143f9651",
+     "en": "In brotherly love be devoted to one another; in honor, outdoing one another;"
+    },
+    {
+     "h": "7508028b",
+     "en": "not lagging in diligence, fervent in spirit, serving the Lord;"
+    },
+    {
+     "h": "7fa97447",
+     "en": "rejoicing in hope, enduring in affliction, persevering in prayer;"
+    },
+    {
+     "h": "f0880498",
+     "en": "sharing in the needs of the saints, pursuing hospitality."
+    },
+    {
+     "h": "cddda895",
+     "en": "Bless those who persecute you; bless and do not curse."
+    },
+    {
+     "h": "e068ffab",
+     "en": "Rejoice with those who rejoice; weep with those who weep."
+    },
+    {
+     "h": "789ad4ff",
+     "en": "Be of the same mind toward one another; do not set your mind on high things, but associate with the lowly. Do not be wise in your own sight."
+    },
+    {
+     "h": "89aeacc0",
+     "en": "Repay no one evil for evil; take thought for what is honorable in the sight of all people."
+    },
+    {
+     "h": "1396a743",
+     "en": "If possible, so far as it depends on you, live at peace with all people."
+    },
+    {
+     "h": "06c17a01",
+     "en": "Do not avenge yourselves, beloved, but give place to the wrath; for it is written, “Vengeance is mine, I will repay, says the Lord.”",
+     "cmp": [
+      {
+       "w": "Emoi ekdikēsis, egō antapodōsō",
+       "note": "引自旧约《申命记》32:35。",
+       "en": "Quoted from Deuteronomy 32:35."
+      }
+     ]
+    },
+    {
+     "h": "6d432ae1",
+     "en": "But “if your enemy is hungry, feed him; if he is thirsty, give him drink; for by doing this you will heap coals of fire on his head.”",
+     "cmp": [
+      {
+       "w": "anthrakas pyros sōreuseis",
+       "note": "引自旧约《箴言》25:21–22。「把炭火堆在他头上」指什么，历来说法不一，白话照字面写。",
+       "en": "Quoted from Proverbs 25:21–22. What \"heaping coals of fire on his head\" refers to has been explained in more than one way; the translation keeps the words as they stand."
+      }
+     ]
+    },
+    {
+     "h": "b4b935ec",
+     "en": "Do not be overcome by evil, but overcome evil with good."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 13 · The Governing Authorities; Love Fulfills the Law; the Day Is Near",
+   "no": 13,
+   "intro": "Paul first says that everyone is to be subject to the governing authorities: authority, he says, comes from God, and those who hold it are God’s servants, so one must be subject and pay taxes. Next he says to owe no one anything except love for one another, since every commandment is summed up in \"love your neighbor as yourself.\" He ends by saying that the night is far gone and the day is near, so conduct should be as fitting as in daylight.",
+   "verses": [
+    {
+     "h": "ad560f9c",
+     "en": "Let every person be subject to the governing authorities; for there is no authority except from God, and those that exist have been appointed by God."
+    },
+    {
+     "h": "26d3229d",
+     "en": "Therefore whoever resists the authority has opposed the ordinance of God, and those who have opposed will bring judgment on themselves."
+    },
+    {
+     "h": "23e0e573",
+     "en": "For rulers are not a terror to good conduct but to bad. Do you want to have no fear of the authority? Do what is good, and you will have praise from it;"
+    },
+    {
+     "h": "4a06f7ad",
+     "en": "for he is God’s servant for your good. But if you do what is evil, be afraid, for he does not bear the sword in vain; for he is God’s servant, an avenger for wrath on the one who practices evil."
+    },
+    {
+     "h": "612450fc",
+     "en": "Therefore it is necessary to be subject, not only because of the wrath but also because of conscience."
+    },
+    {
+     "h": "2f2177e8",
+     "en": "For because of this you also pay taxes, for they are ministers of God, devoting themselves to this very thing."
+    },
+    {
+     "h": "207f31a1",
+     "en": "Pay to all what is owed: tax to whom tax is owed, toll to whom toll, fear to whom fear, honor to whom honor."
+    },
+    {
+     "h": "2dcd1417",
+     "en": "Owe no one anything, except to love one another; for the one who loves the other has fulfilled the law."
+    },
+    {
+     "h": "e23ce083",
+     "en": "For “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and any other commandment, are summed up in this word: “You shall love your neighbor as yourself.”",
+     "cmp": [
+      {
+       "w": "Agapēseis ton plēsion sou hōs seauton",
+       "note": "前四条引自旧约的十诫（《出埃及记》20:13–17，《申命记》5:17–21），最后一句引自《利未记》19:18。",
+       "en": "The first four are from the Ten Commandments (Exodus 20:13–17; Deuteronomy 5:17–21); the last sentence is from Leviticus 19:18."
+      }
+     ]
+    },
+    {
+     "h": "b70477d5",
+     "en": "Love does no wrong to a neighbor; therefore love is the fulfillment of the law."
+    },
+    {
+     "h": "1b8aad60",
+     "en": "And this, knowing the time, that it is already the hour for you to wake from sleep; for our salvation is nearer now than when we first believed."
+    },
+    {
+     "h": "c3caf18f",
+     "en": "The night is far gone; the day is at hand. Let us then cast off the works of darkness and put on the weapons of light."
+    },
+    {
+     "h": "e74d0320",
+     "en": "Let us walk decently, as in the day, not in revelry and drunkenness, not in sexual immorality and debauchery, not in strife and jealousy."
+    },
+    {
+     "h": "e226c6bd",
+     "en": "But put on the Lord Jesus Christ, and make no provision for the flesh, for its desires."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 14 · Do Not Judge One Another over Food and Days",
+   "no": 14,
+   "intro": "Among the believers some eat anything and some only vegetables; some set certain days apart and some treat every day alike. Paul says neither side is to despise or judge the other, since each acts for the Lord and each will give an account. He adds that nothing is unclean in itself, but that no one should make a brother stumble over food; they are to pursue what makes for peace and for building one another up.",
+   "verses": [
+    {
+     "h": "462f14ab",
+     "en": "Welcome the one who is weak in faith, but not for disputes over opinions."
+    },
+    {
+     "h": "601d1026",
+     "en": "One person believes he may eat all things, but the weak person eats vegetables."
+    },
+    {
+     "h": "6e40b981",
+     "en": "Let not the one who eats despise the one who does not eat, and let not the one who does not eat judge the one who eats, for God has welcomed him."
+    },
+    {
+     "h": "fe2647e8",
+     "en": "Who are you to judge another’s household servant? To his own master he stands or falls; and he will be made to stand, for the Lord is able to make him stand."
+    },
+    {
+     "h": "02d9f0e7",
+     "en": "One person judges one day above another; another judges every day alike. Let each be fully convinced in his own mind."
+    },
+    {
+     "h": "082f93d3",
+     "en": "The one who observes the day observes it to the Lord. And the one who eats, eats to the Lord, for he gives thanks to God; and the one who does not eat, to the Lord he does not eat, and he gives thanks to God."
+    },
+    {
+     "h": "81cdf3c3",
+     "en": "For none of us lives to himself, and none dies to himself."
+    },
+    {
+     "h": "1abaaf7b",
+     "en": "For if we live, we live to the Lord, and if we die, we die to the Lord. So whether we live or whether we die, we are the Lord’s."
+    },
+    {
+     "h": "1c0954b9",
+     "en": "For to this end Christ died and lived, that he might be Lord both of the dead and of the living."
+    },
+    {
+     "h": "695ec680",
+     "en": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of God."
+    },
+    {
+     "h": "bf88ee69",
+     "en": "For it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall give praise to God.”",
+     "cmp": [
+      {
+       "w": "Zō egō, legei kyrios",
+       "note": "引自旧约《以赛亚书》45:23，开头一句「我指着我的生命起誓」见《以赛亚书》49:18。",
+       "en": "Quoted from Isaiah 45:23; the opening words \"As I live\" are found in Isaiah 49:18."
+      }
+     ]
+    },
+    {
+     "h": "c047acb2",
+     "en": "So then each of us will give an account of himself."
+    },
+    {
+     "h": "85b8fffa",
+     "en": "Therefore let us no longer judge one another, but rather decide this: not to put a stumbling block or an obstacle before a brother."
+    },
+    {
+     "h": "1b7365a7",
+     "en": "I know and am persuaded in the Lord Jesus that nothing is unclean in itself; but to the one who considers something to be unclean, to him it is unclean.",
+     "cmp": [
+      {
+       "w": "ouden koinon",
+       "note": "koinos 字面是「普通的、俗的」，这里指按犹太人的规矩算不洁净、不可吃的东西。",
+       "en": "Koinos is literally \"common, profane\"; here it means what counts as unclean and not to be eaten under Jewish practice."
+      }
+     ]
+    },
+    {
+     "h": "cedddefe",
+     "en": "For if your brother is grieved because of food, you are no longer walking according to love. Do not by your food destroy that one for whom Christ died."
+    },
+    {
+     "h": "eb60b5fb",
+     "en": "So do not let your good be spoken of as evil."
+    },
+    {
+     "h": "cf4e4249",
+     "en": "For the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit."
+    },
+    {
+     "h": "08e51d6d",
+     "en": "For the one who serves Christ in this is well-pleasing to God and approved by people."
+    },
+    {
+     "h": "fe2877a2",
+     "en": "So then let us pursue the things of peace and the things of building up one another."
+    },
+    {
+     "h": "b1f572d6",
+     "en": "Do not for the sake of food tear down the work of God. All things indeed are clean, but it is evil for the person who eats with stumbling.",
+     "cmp": [
+      {
+       "w": "tōi dia proskommatos esthionti",
+       "note": "字面是「带着绊跌去吃的人」，可以指吃了使别人绊倒的人，也可以指自己心里过不去还去吃的人。白话取前一种，和合本也是。",
+       "en": "Literally \"the one who eats with stumbling,\" which may mean the person whose eating makes another stumble, or the person who eats against his own conscience. The plain Chinese takes the first, as does the Union Version."
+      }
+     ]
+    },
+    {
+     "h": "dfaddc80",
+     "en": "It is good not to eat meat or drink wine or do anything by which your brother stumbles or is made to fall or is weak."
+    },
+    {
+     "h": "2177a1fa",
+     "en": "The faith that you have, keep to yourself before God. Blessed is the one who does not judge himself in what he approves."
+    },
+    {
+     "h": "b7f6ad6f",
+     "en": "But the one who doubts is condemned if he eats, because it is not from faith; and everything that is not from faith is sin."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 15 · Welcome One Another; Paul’s Plans and Request",
+   "no": 15,
+   "intro": "Continuing from the last chapter, Paul says the strong should bear with the weak and, like Christ, not please themselves, and that they should welcome one another; he quotes four passages of scripture about the Gentiles praising God. Then he speaks of himself: his calling is to bring the good news to the Gentiles, and he plans to take a collection to Jerusalem first and then visit Rome on his way to Spain. He asks them to pray for him.",
+   "verses": [
+    {
+     "h": "42ae6a57",
+     "en": "Now we who are strong ought to bear the weaknesses of those who are not strong, and not to please ourselves."
+    },
+    {
+     "h": "b5abfa00",
+     "en": "Let each of us please his neighbor for his good, for building up."
+    },
+    {
+     "h": "d9095a89",
+     "en": "For Christ also did not please himself, but as it is written, “The reproaches of those who reproach you fell on me.”",
+     "cmp": [
+      {
+       "w": "Hoi oneidismoi tōn oneidizontōn se",
+       "note": "引自旧约《诗篇》69:9。",
+       "en": "Quoted from Psalm 69:9."
+      }
+     ]
+    },
+    {
+     "h": "16299f3d",
+     "en": "For whatever was written beforehand was written for our instruction, so that through endurance and through the encouragement of the scriptures we might have hope."
+    },
+    {
+     "h": "372c4819",
+     "en": "Now may the God of endurance and encouragement grant you to be of the same mind with one another, according to Christ Jesus,"
+    },
+    {
+     "h": "afc514a0",
+     "en": "so that with one accord, with one mouth, you may glorify the God and Father of our Lord Jesus Christ."
+    },
+    {
+     "h": "0e95f65f",
+     "en": "Therefore welcome one another, just as Christ also welcomed you, to the glory of God."
+    },
+    {
+     "h": "13f5eb27",
+     "en": "For I say that Christ has become a servant of the circumcision on behalf of the truth of God, in order to confirm the promises given to the fathers,"
+    },
+    {
+     "h": "05b6b7cd",
+     "en": "and that the Gentiles might glorify God for his mercy; as it is written, “Therefore I will give praise to you among the Gentiles, and sing to your name.”",
+     "cmp": [
+      {
+       "w": "Dia touto exomologēsomai soi en ethnesi",
+       "note": "引自旧约《诗篇》18:49。",
+       "en": "Quoted from Psalm 18:49."
+      }
+     ]
+    },
+    {
+     "h": "ea4c2f23",
+     "en": "And again he says, “Rejoice, O Gentiles, with his people.”",
+     "cmp": [
+      {
+       "w": "Euphranthēte, ethnē, meta tou laou autou",
+       "note": "引自旧约《申命记》32:43。",
+       "en": "Quoted from Deuteronomy 32:43."
+      }
+     ]
+    },
+    {
+     "h": "75828cdb",
+     "en": "And again, “Praise the Lord, all you Gentiles, and let all the peoples praise him.”",
+     "cmp": [
+      {
+       "w": "Aineite, panta ta ethnē, ton kyrion",
+       "note": "引自旧约《诗篇》117:1。",
+       "en": "Quoted from Psalm 117:1."
+      }
+     ]
+    },
+    {
+     "h": "06a61c8a",
+     "en": "And again Isaiah says, “There shall be the root of Jesse, even the one who rises to rule the Gentiles; in him the Gentiles will hope.”",
+     "cmp": [
+      {
+       "w": "Estai hē rhiza tou Iessai",
+       "note": "引自旧约《以赛亚书》11:10。",
+       "en": "Quoted from Isaiah 11:10."
+      }
+     ]
+    },
+    {
+     "h": "9c3affd8",
+     "en": "Now may the God of hope fill you with all joy and peace in believing, so that you may abound in hope by the power of the Holy Spirit."
+    },
+    {
+     "h": "d7125150",
+     "en": "And I myself am persuaded about you, my brothers, that you yourselves are full of goodness, filled with all knowledge, able also to admonish one another."
+    },
+    {
+     "h": "ddfcd7a1",
+     "en": "But I have written to you rather boldly in some parts, as reminding you, because of the grace given to me by God"
+    },
+    {
+     "h": "49048671",
+     "en": "to be a minister of Christ Jesus to the Gentiles, serving the good news of God as a priest, so that the offering of the Gentiles may be acceptable, sanctified in the Holy Spirit."
+    },
+    {
+     "h": "60fd6183",
+     "en": "I have therefore my boasting in Christ Jesus in the things pertaining to God."
+    },
+    {
+     "h": "6e72ead5",
+     "en": "For I will not dare to speak of anything except what Christ has accomplished through me for the obedience of the Gentiles, by word and deed,"
+    },
+    {
+     "h": "db1e926b",
+     "en": "in the power of signs and wonders, in the power of the Spirit; so that from Jerusalem and around as far as Illyricum I have fully proclaimed the good news of Christ,"
+    },
+    {
+     "h": "120fa891",
+     "en": "and so making it my ambition to proclaim the good news not where Christ has been named, lest I build on another’s foundation,"
+    },
+    {
+     "h": "0c9f045e",
+     "en": "but as it is written, “Those who were not told about him will see, and those who have not heard will understand.”",
+     "cmp": [
+      {
+       "w": "Hois ouk anēngelē peri autou opsontai",
+       "note": "引自旧约《以赛亚书》52:15。",
+       "en": "Quoted from Isaiah 52:15."
+      }
+     ]
+    },
+    {
+     "h": "2176fe94",
+     "en": "Therefore also I have been hindered many times from coming to you."
+    },
+    {
+     "h": "a2b03501",
+     "en": "But now, no longer having a place in these regions, and having had for many years a longing to come to you,"
+    },
+    {
+     "h": "0da9c099",
+     "en": "whenever I go to Spain—for I hope to see you as I pass through and to be sent on my way there by you, once I have first enjoyed your company for a while—",
+     "cmp": [
+      {
+       "w": "hōs an poreuōmai eis tēn Spanian",
+       "note": "第 23–24 节原文是一个没有说完的句子：「等我往西班牙去的时候」后面插进一句解释，原来的话就断了，底本用破折号标出。白话照样留着，没有补成完整的句子。",
+       "en": "Verses 23–24 are an unfinished sentence in the Greek: after \"whenever I go to Spain\" an explanation is inserted and the original sentence is never completed, which this edition marks with a dash. The translation leaves it so and does not complete it."
+      }
+     ]
+    },
+    {
+     "h": "0aebe94a",
+     "en": "But now I am going to Jerusalem, serving the saints."
+    },
+    {
+     "h": "266b6b15",
+     "en": "For Macedonia and Achaia have been pleased to make some contribution for the poor among the saints in Jerusalem."
+    },
+    {
+     "h": "6958eb7e",
+     "en": "They were pleased indeed, and they are their debtors; for if the Gentiles have shared in their spiritual things, they ought also to minister to them in material things."
+    },
+    {
+     "h": "6c323f9c",
+     "en": "When therefore I have completed this and have sealed to them this fruit, I will go on by way of you to Spain."
+    },
+    {
+     "h": "08722581",
+     "en": "And I know that when I come to you, I will come in the fullness of the blessing of Christ."
+    },
+    {
+     "h": "41855aa3",
+     "en": "Now I urge you, brothers, through our Lord Jesus Christ and through the love of the Spirit, to strive together with me in your prayers to God on my behalf,"
+    },
+    {
+     "h": "9f65a7f8",
+     "en": "that I may be rescued from those who are disobedient in Judea, and that my service for Jerusalem may be acceptable to the saints,"
+    },
+    {
+     "h": "5d1b2f58",
+     "en": "so that, coming to you in joy through the will of God, I may be refreshed together with you."
+    },
+    {
+     "h": "d00bcbef",
+     "en": "Now the God of peace be with you all. Amen."
+    }
+   ]
+  },
+  {
+   "title": "Chapter 16 · Phoebe Commended; Greetings; the Close",
+   "no": 16,
+   "intro": "Paul commends a sister named Phoebe to the believers in Rome, then greets by name more than twenty people he knows there, warns them to keep away from those who cause divisions, and passes on greetings from his companions. The manuscripts differ at the close: the Greek edition this site follows ends with a single blessing and does not have the three-verse doxology that ends the chapter in the Union Version.",
+   "verses": [
+    {
+     "h": "b1276054",
+     "en": "Now I commend to you Phoebe our sister, who is also a servant of the church in Cenchreae,",
+     "cmp": [
+      {
+       "w": "diakonon tēs ekklēsias",
+       "note": "diakonos 字面是「仆役、服事的人」，和 13:4、15:8 是同一个词，白话和英文在这三处都译成一样。这里可以是泛指她在教会里服事，也可以是一个职分的名称（执事），两种读法都通行；和合本取后一种。",
+       "en": "Diakonos is literally \"servant, one who serves,\" the same word as in 13:4 and 15:8, and it is translated the same way here in both versions. It may mean simply that she serves in the church, or it may be the title of an office (deacon); both readings are common, and the Union Version takes the second."
+      }
+     ]
+    },
+    {
+     "h": "91e60497",
+     "en": "that you may receive her in the Lord in a manner worthy of the saints, and assist her in whatever matter she may need from you, for she herself has been a patron of many, and of me as well.",
+     "cmp": [
+      {
+       "w": "prostatis pollōn",
+       "note": "prostatis 字面是「站在前面的人」，指保护人、出钱出力照应别人的人；和合本译成动词「帮助」。",
+       "en": "Prostatis is literally \"one who stands before,\" a protector or patron who looks after others; the Union Version turns it into a verb, 帮助 (bāngzhù, \"helped\")."
+      }
+     ]
+    },
+    {
+     "h": "a53d44d0",
+     "en": "Greet Prisca and Aquila, my fellow workers in Christ Jesus,"
+    },
+    {
+     "h": "760562df",
+     "en": "who risked their own necks for my life, to whom not only I give thanks but also all the churches of the Gentiles;"
+    },
+    {
+     "h": "95b1f0fc",
+     "en": "greet also the church in their house. Greet Epaenetus my beloved, who is the firstfruit of Asia for Christ."
+    },
+    {
+     "h": "d8cf210a",
+     "en": "Greet Mary, who has labored much for you."
+    },
+    {
+     "h": "efcd7270",
+     "en": "Greet Andronicus and Junia, my kinsmen and my fellow prisoners, who are notable among the apostles, who also were in Christ before me.",
+     "cmp": [
+      {
+       "w": "Iounian … episēmoi en tois apostolois",
+       "note": "这里有两处读法不一。一是名字：原文是宾格，按重音的标法可以是女名「犹尼亚」，也可以是男名「犹尼亚斯」；底本标的是女名。二是后半句：可以读成「在使徒当中有名望」（他们自己也算在使徒里），也可以读成「在使徒眼中有名望」。两处的两种读法都通行，白话和英文照字面写。",
+       "en": "Two things are read differently here. First the name: it stands in the accusative and, depending on the accent, can be the woman’s name Junia or a man’s name Junias; this edition accents it as the woman’s name. Second the phrase that follows: it can mean \"notable among the apostles\" (counting them as apostles) or \"well known to the apostles.\" Both readings of each are common; the translations keep the wording as it stands."
+      }
+     ]
+    },
+    {
+     "h": "8c454338",
+     "en": "Greet Ampliatus, my beloved in the Lord."
+    },
+    {
+     "h": "4d1e7ffd",
+     "en": "Greet Urbanus, our fellow worker in Christ, and Stachys my beloved."
+    },
+    {
+     "h": "75a28755",
+     "en": "Greet Apelles, the approved in Christ. Greet those of the household of Aristobulus."
+    },
+    {
+     "h": "ecc68f8e",
+     "en": "Greet Herodion my kinsman. Greet those of the household of Narcissus who are in the Lord."
+    },
+    {
+     "h": "fa7352b4",
+     "en": "Greet Tryphaena and Tryphosa, who labor in the Lord. Greet Persis the beloved, who has labored much in the Lord."
+    },
+    {
+     "h": "bd974662",
+     "en": "Greet Rufus, the chosen in the Lord, and his mother and mine."
+    },
+    {
+     "h": "99f2da35",
+     "en": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them."
+    },
+    {
+     "h": "a650fad8",
+     "en": "Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them."
+    },
+    {
+     "h": "cfa148c3",
+     "en": "Greet one another with a holy kiss. All the churches of Christ greet you."
+    },
+    {
+     "h": "6ebd92ed",
+     "en": "Now I urge you, brothers, to watch out for those who cause divisions and obstacles contrary to the teaching that you learned, and turn away from them;"
+    },
+    {
+     "h": "64275127",
+     "en": "for such people do not serve our Lord Christ but their own belly, and by smooth talk and flattery they deceive the hearts of the innocent."
+    },
+    {
+     "h": "c109d39e",
+     "en": "For your obedience has become known to all; therefore I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil."
+    },
+    {
+     "h": "6f249c34",
+     "en": "And the God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you."
+    },
+    {
+     "h": "b18093ea",
+     "en": "Timothy my fellow worker greets you, and Lucius and Jason and Sosipater, my kinsmen."
+    },
+    {
+     "h": "b556b6be",
+     "en": "I, Tertius, who wrote down this letter, greet you in the Lord."
+    },
+    {
+     "h": "ad532bf5",
+     "en": "Gaius, host to me and to the whole church, greets you. Erastus, the city treasurer, and Quartus the brother greet you."
+    },
+    {
+     "h": "c8c3cb54",
+     "en": "The grace of our Lord Jesus Christ be with you all. Amen.",
+     "cmp": [
+      {
+       "w": "Hē charis tou kyriou hēmōn",
+       "note": "这句祝福各抄本的位置不一：有的在这里，有的只在第 20 节末尾（那里也有一句相近的话），有的两处都有，有的这里没有。本站的底本两处都有；和合本只有第 20 节那一句。",
+       "en": "The manuscripts differ on where this blessing stands: some have it here, some only at the end of verse 20 (where a similar sentence appears), some in both places, and some not here at all. The edition this site follows has it in both places; the Union Version has only the one in verse 20."
+      }
+     ]
+    },
+    {
+     "h": "1b93795b",
+     "en": "(This verse is not in the Greek edition this site follows.)",
+     "cmp": [
+      {
+       "w": "—",
+       "note": "多数抄本在这里有一段三节的颂词，大意是：愿荣耀借着耶稣基督归给上帝，他能照着保罗所传的福音坚固你们，这福音是把长久隐藏的奥秘显明出来，让万民信而顺从。有的抄本把这段颂词放在第 14 章末尾或第 15 章末尾，有的两处都有，也有的没有。本站依据的校勘本没有收；和合本有，就是旁边那一栏第 25–27 节的文字。",
+       "en": "Most manuscripts have a three-verse doxology here, to this effect: glory be to God through Jesus Christ, who is able to strengthen you according to the good news Paul proclaims, the disclosure of a mystery long kept hidden, made known so that all nations may believe and obey. Some manuscripts place this doxology at the end of chapter 14 or of chapter 15, some have it in two places, and some lack it. The critical edition this site follows does not include it; the Union Version does, as verses 25–27 in the column alongside."
+      }
+     ]
+    },
+    {
+     "h": "1b93795b",
+     "en": "(This verse is not in the Greek edition this site follows.)",
+     "cmp": [
+      {
+       "w": "—",
+       "note": "见第 25 节的说明。",
+       "en": "See the note on verse 25."
+      }
+     ]
+    },
+    {
+     "h": "1b93795b",
+     "en": "(This verse is not in the Greek edition this site follows.)",
+     "cmp": [
+      {
+       "w": "—",
+       "note": "见第 25 节的说明。",
+       "en": "See the note on verse 25."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "title": "The Letter to the Romans",
+ "summary": "Paul’s longest letter, written to the believers in Rome before he had met them: an argument about how a person is put right with God, by faith and not by keeping the law, what that means for Jews and Gentiles alike, and how believers should then live. 16 chapters.",
+ "primer": [
+  {
+   "q": "这是一本什么书",
+   "a": "这不是故事，是一封信。写信的人叫保罗，是最早把对耶稣的信仰传到各地的人之一（他的经历见《使徒行传》后半卷）；收信的是罗马城里信耶稣的人，保罗当时还没去过那里。一般认为这封信写在公元 57 年前后，用的是当时通行的希腊文。新约里保罗的信有十几封，这一封最长，也排在最前面。"
+  },
+  {
+   "q": "是谁在说话",
+   "a": "从头到尾是保罗一个人在说话，所以本站的译文整封信不加引号。「我」是保罗，「你们」是罗马的信徒。他常常自己提一个问题再自己回答（「那么我们要说什么呢？」「绝对不是！」），像在和一个看不见的人辩论；这时候的「你」不是指收信的人，而是他设想出来的反对者。引号只用在他引旧约的话、或替别人说出一句话的地方。"
+  },
+  {
+   "q": "当时的背景",
+   "a": "最早信耶稣的人全是犹太人，照旧守犹太人的律法。后来不是犹太人的外族人也来信了，于是有了争论：外族人要不要先照犹太人的规矩受割礼、守律法；犹太人和外族人在上帝面前是不是一样。罗马的信徒里两种人都有。保罗打算去罗马，再从那里去更西边的西班牙，写这封信是先向他们说明自己传的是什么。"
+  },
+  {
+   "q": "读的时候会卡住的地方",
+   "a": "一是它在讲道理，不在讲故事：一句接一句地推论，「因为」「所以」「那么」特别多，一节常常只是半句话。读不下去时先看每章开头的导读，知道这一章要论证什么再读。二是几个字反复出现而且意思很重：义、信、恩典、律法、罪、肉体、灵。这些词每章第一次出现时括号里有一句说明，但括号说不尽，同一个词在不同地方轻重也不同。三是大段引旧约，有时一连引好几处。四是有几段历来争论很大（第 1 章后半、第 9–11 章讲以色列、第 13 章讲掌权的人），本站照原文译，不缓和、不加强，也不加评论。五是最后一章几乎全是问安的人名，可以跳过。"
+  },
+  {
+   "q": "常见的词",
+   "a": "这些词在信里反复出现，先认一下。括号里的说明只是最短的通行解释。",
+   "terms": [
+    [
+     "义、称义",
+     "「义」是在上帝面前算为对。「称义」是被上帝算为对、被他接纳。这封信的中心问题就是：人凭什么被称为义。"
+    ],
+    [
+     "信",
+     "信靠。信里说人被称为义是凭着信，不是凭着守律法。"
+    ],
+    [
+     "恩典",
+     "上帝白白给的好意，不是人挣来的。"
+    ],
+    [
+     "律法",
+     "上帝通过摩西颁给犹太人的规矩。信里有几处这个词的意思是「规律、原则」，那时本站写「律」。"
+    ],
+    [
+     "罪",
+     "违背上帝的事。信里常把它说成一股辖制人的势力，像一个主人。"
+    ],
+    [
+     "肉体",
+     "在这封信里多半不是指身体，而是指人靠自己、不顺从上帝的那一面。"
+    ],
+    [
+     "灵、圣灵",
+     "上帝的灵。信里把「顺着肉体活」和「顺着灵活」对着说。"
+    ],
+    [
+     "外族人",
+     "不是犹太人的人。信里有时说「希腊人」，也是这个意思。"
+    ],
+    [
+     "割礼",
+     "割去包皮的仪式，是犹太人身份的记号。"
+    ],
+    [
+     "基督",
+     "希腊话，意思是「受膏的人」，就是上帝选立的那一位救主。在这封信里已经是耶稣的称号，常说「在基督里」。"
+    ]
+   ]
+  },
+  {
+   "q": "从哪里读起",
+   "a": "全信 16 章，大致分四段：第 1–8 章讲人怎样在上帝面前被称为义，以及被称为义之后怎样活；第 9–11 章讲犹太人这个民族在这件事里的位置；第 12–15 章讲信的人日常该怎样彼此相待、怎样对待别人；第 16 章是问安。想先读好懂的，从第 12 章读起；想读最有名的一段，读第 8 章。头几章最难，不必强求一遍读懂。"
+  }
+ ],
+ "primerEn": [
+  {
+   "q": "What kind of book this is",
+   "a": "This is not a story but a letter. Its writer, Paul, was one of the first to carry faith in Jesus from place to place (his story is told in the second half of Acts); its readers were the believers in Jesus in the city of Rome, which Paul had not yet visited. It is generally dated to about 57 CE and was written in the common Greek of the time. The New Testament has more than a dozen letters of Paul; this is the longest and stands first."
+  },
+  {
+   "q": "Who is speaking",
+   "a": "Paul speaks from beginning to end, so this site’s translation puts no quotation marks around the letter. \"I\" is Paul; \"you\" (plural) are the believers in Rome. He often asks a question and answers it himself (\"What then shall we say?\" \"By no means!\"), as if arguing with someone unseen; the \"you\" (singular) in those places is not the readers but an objector he imagines. Quotation marks appear only where he quotes the Old Testament or puts words in someone’s mouth."
+  },
+  {
+   "q": "The setting",
+   "a": "The first believers in Jesus were all Jews and went on keeping the Jewish law. Then non-Jews came to believe too, and a dispute arose: must Gentiles first be circumcised and keep the law as Jews do, and do Jews and Gentiles stand alike before God? The believers in Rome included both. Paul planned to come to Rome and go on from there to Spain, farther west; he wrote this letter to set out in advance what it is he preaches."
+  },
+  {
+   "q": "Where you may get stuck",
+   "a": "First, it argues rather than narrates: one inference after another, full of \"for,\" \"therefore\" and \"then,\" and a verse is often only half a sentence. If you lose the thread, read the introduction at the head of each chapter to see what it is trying to show. Second, a few words recur and carry great weight: righteousness, faith, grace, law, sin, flesh, Spirit. Third, the Old Testament is quoted at length, sometimes several passages in a row. Fourth, some passages have long been fiercely disputed (the second half of chapter 1, chapters 9–11 on Israel, chapter 13 on the authorities); this site translates them as they stand, neither softened nor sharpened, and without comment. Fifth, the last chapter is almost all greetings to named people and can be skipped."
+  },
+  {
+   "q": "Words that keep coming up",
+   "a": "These words recur throughout the letter. The glosses are only the shortest common explanations.",
+   "terms": [
+    [
+     "Righteousness, to justify",
+     "\"Righteousness\" is being in the right before God. \"To be justified\" is to be counted right and accepted by him. The letter’s central question is on what basis a person is justified."
+    ],
+    [
+     "Faith",
+     "Trust. The letter says a person is justified by faith, not by keeping the law."
+    ],
+    [
+     "Grace",
+     "God’s freely given favor, not something earned."
+    ],
+    [
+     "The law",
+     "The rules God gave the Jews through Moses. In a few places the word means \"principle\" or \"rule\" instead."
+    ],
+    [
+     "Sin",
+     "What goes against God. The letter often speaks of it as a power that rules people, like a master."
+    ],
+    [
+     "Flesh",
+     "In this letter usually not the body but the side of a person that relies on itself and does not submit to God."
+    ],
+    [
+     "Spirit",
+     "The Spirit of God. The letter sets \"living according to the flesh\" against \"living according to the Spirit.\""
+    ],
+    [
+     "Gentiles",
+     "People who are not Jews. The letter sometimes says \"Greeks\" in the same sense."
+    ],
+    [
+     "Circumcision",
+     "The cutting away of the foreskin, the mark of being a Jew."
+    ],
+    [
+     "Christ",
+     "Greek for \"anointed one,\" the deliverer chosen by God. In this letter it is already a title for Jesus, often in the phrase \"in Christ.\""
+    ]
+   ]
+  },
+  {
+   "q": "Where to start",
+   "a": "The letter has 16 chapters in roughly four parts: chapters 1–8, how a person is justified before God and how to live once justified; chapters 9–11, the place of the Jewish people in all this; chapters 12–15, how believers should treat one another and others day to day; chapter 16, greetings. For the easiest way in, start at chapter 12; for the best-known passage, read chapter 8. The opening chapters are the hardest, and there is no need to grasp them in one reading."
+  }
+ ],
+ "compare": [
+  "希腊文原文用 SBL Greek New Testament（SBLGNT），只去掉了底本里的校勘符号，经文本身没有动；罗马转写是本站按通行规则机械生成的，不标重音。",
+  "白话是写给完全没接触过圣经的人看的：用平常说话的词，长句拆短，但一节对一节，原文有的意思不少、原文没有的不添。原文没有、但不补就看不懂的字，一律放在圆括号（）里；括号里是通行的解释，不是经文本身。这封信里抽象的说法很多（「上帝的义」「信的顺从」「罪的律」），白话照原文的结构译，没有把它们改写成一句解释；有两种通行读法的地方，正文取一种，另一种写在那一节下面。英文版贴着字面译，不加括号。白话、英文和所有说明都是 AI 从希腊文译写的，没有经过圣经学者或教会审阅。",
+  "对照栏是 1919 年出版的官话和合译本（和合本），录文取自维基文库，繁体转成简体，几个异体字改成了通行写法，原书的旧式标点照录。维基文库录的是称「神」的版本；本站的白话写「上帝」。人名跟和合本走；和合本的「外邦人」本站写「外族人」。",
+  "这封信的结尾，本站依据的希腊文底本和和合本排得不一样。底本的第 16 章到第 24 节结束，第 24 节是一句祝福；和合本没有这句祝福，它把第 23 节的问安拆成第 23、24 两节，后面第 25–27 节是一段颂词，底本没有收。本站节号跟底本：第 23 节的对照栏放了和合本的两节，第 24 节的对照栏是空的，第 25–27 节留着节号、原文栏放一个「—」，对照栏照录和合本的颂词。这段颂词在各种古抄本里位置不一，有的在这里，有的在第 14 章末，有的没有。",
+  "这是一封信，全篇是保罗一个人在说话，所以译文整篇不加引号。他设想别人反问的地方、引旧约的地方才用引号。信里引旧约，白话照这封信的希腊文译，和旧约原处的字句常有出入，出处写在对照注里。"
+ ],
+ "compareEn": [
+  "The Greek is the SBL Greek New Testament (SBLGNT) with its text-critical sigla removed and nothing else changed; the romanization is generated mechanically by this site under the usual conventions, without accents.",
+  "The Chinese is written for readers who have never opened a Bible: everyday words and shorter sentences, but verse for verse, with nothing in the Greek left out and nothing added. Words that are not in the Greek but are needed to follow it are put in parentheses; they give the usual explanation and are not part of the text. The letter is full of abstract phrases (\"the righteousness of God,\" \"the obedience of faith,\" \"the law of sin\"); the Chinese keeps their structure rather than rewriting them as explanations, and where there are two common readings it follows one in the text and gives the other under that verse. The English stays close to the wording and adds no parentheses. The Chinese, the English and all the notes were translated and written by AI from the Greek and have not been reviewed by biblical scholars or by any church.",
+  "The older Chinese version shown alongside is the Mandarin Union Version of 1919, taken from Chinese Wikisource, converted to simplified characters with a few variant characters normalized and its original punctuation kept. Wikisource carries the edition that calls God 神 (Shén); this site’s plain Chinese writes 上帝 (Shàngdì). Names follow the Union Version.",
+  "At the end of the letter the Greek edition this site follows and the Union Version are arranged differently. The edition’s chapter 16 ends at verse 24, a blessing. The Union Version lacks that blessing; it splits the greetings of verse 23 into verses 23 and 24, and then has a doxology as verses 25–27, which the edition does not include. This site follows the edition’s numbering: both Union Version verses are shown beside verse 23, nothing beside verse 24, and verses 25–27 keep their numbers with a dash in the Greek column and the Union Version’s doxology alongside. In the ancient manuscripts this doxology stands in different places: here, at the end of chapter 14, or nowhere.",
+  "This is a letter, Paul speaking throughout, so the translation puts no quotation marks around it; they appear only where he imagines an objection or quotes the Old Testament. Those quotations are translated from this letter’s Greek, so the wording often differs from the Old Testament passage itself, whose reference is given in the notes."
+ ]
+}

@@ -13,9 +13,9 @@ const { grcTranslit } = await import('../scripts/grc-translit.mjs');
 const { startServer } = await import('../scripts/serve.mjs');
 const { iastToDeva } = await import('../scripts/iast-to-deva.mjs');
 
-test('梵文、巴利文、文言、希腊文、阿拉伯文书架三十一部全部通过校验', () => {
+test('梵文、巴利文、文言、希腊文、阿拉伯文书架三十二部全部通过校验', () => {
   const books = loadBooks();
-  assert.equal(books.length, 31);
+  assert.equal(books.length, 32);
 });
 
 test('罗马转写转天城体：复合词连字符不断开、词间保留半音符、句读转成 । ॥', () => {

@@ -1351,6 +1351,22 @@ function acts(P, A) {
   return { frame: { seeds: false }, body: globe + route + small + big };
 }
 
+/** 罗马书:一卷摊开的信(两根轴、几行字用短线表示),轴上一枚圆印;信的上方焦点处一个空的圆,一条虚线从信走到圆 —— 不画人 */
+function romans(P, A) {
+  const top = GY - 78;
+  const bot = GY - 6;
+  const sheet = `<path d="M-64 ${f(top)}H64V${f(bot)}H-64Z" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.75"/>`;
+  const rod = (y) => `<path d="M-74 ${f(y)}H74" stroke="${P.ink}" stroke-width="0.9"/><circle cx="-76" cy="${f(y)}" r="3.2" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.6"/><circle cx="76" cy="${f(y)}" r="3.2" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.6"/>`;
+  const lines = range(7)
+    .map((i) => `<path d="M-50 ${f(top + 12 + i * 8.6)}H${f(50 - ((i * 37) % 26))}" stroke="${i === 3 ? P.foil : P.faint}" stroke-width="${i === 3 ? 0.7 : 0.45}"/>`)
+    .join('');
+  const seal = `<circle cx="44" cy="${f(bot - 12)}" r="7" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.8"/><circle cx="44" cy="${f(bot - 12)}" r="3.4" stroke="${P.foil}" stroke-width="0.5"/>`;
+  const ground = `<path d="M-170 ${f(GY)}H170" stroke="${P.ink}" stroke-width="0.55"/><path d="M-120 ${f(GY + 14)}H120M-84 ${f(GY + 30)}H84" stroke="${P.faint}" stroke-width="0.4"/>`;
+  const ring = `<circle cx="0" cy="${f(FY)}" r="${f(RADII[1])}" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.95"/><circle cx="0" cy="${f(FY)}" r="${f(RADII[0])}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  const thread = `<path d="M0 ${f(top - 6)}V${f(FY + RADII[1] + 3)}" stroke="${P.foil}" stroke-width="0.9" stroke-dasharray="4 3">${A ? '<animate attributeName="stroke-dashoffset" values="0;14" dur="2.6s" repeatCount="indefinite"/>' : ''}</path>`;
+  return { frame: { seeds: false }, body: ground + sheet + lines + seal + rod(top) + rod(bot) + thread + ring };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1384,6 +1400,7 @@ const SUBJECTS = {
   luke,
   john,
   acts,
+  romans,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 

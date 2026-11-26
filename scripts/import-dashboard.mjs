@@ -88,6 +88,12 @@ const BOOKS = [
       orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
       old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
     }],
+  // 圣经：罗马书 16 章（2026-11-27）。第一封书信：全篇是保罗一个人在说话，译文整篇不加引号。底本、对照栏同前几卷。
+  ['grc-romans', 'romans', 'christianity', '新约里的第一封书信，也是保罗最长的一封信，写给他还没见过面的罗马信徒。它不讲故事，讲道理：人凭什么在上帝面前算为对（凭着信，不是凭着守律法），这对犹太人和外族人意味着什么，信的人又该怎样过日子。共 16 章。',
+    {
+      orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
+      old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
   // 古兰经分批做：2026-11-21 第一批是开端章 + 第 30 卷（第 78–114 章），章号写在每章的 no 上。
   // 原文是 Tanzil 的 Uthmani 本（逐字照抄，授权不许改动）；王静斋译本只有维基文库录了第一、二章，别的章没有可靠录文，先不放。
   ['ar-quran', 'quran', 'islam', '伊斯兰教的经典，也叫可兰经，穆斯林相信是真主通过天使降给先知穆罕默德的话，共 114 章。这里先收每天礼拜都念的开端章，和最后一卷（第 78–114 章）：都是早期在麦加降下的短章，讲真主独一、末日清算、善待孤儿和穷人。',
