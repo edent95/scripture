@@ -1303,6 +1303,20 @@ function matthew(P, A) {
   return { frame: { seeds: false }, body: mount + light + star };
 }
 
+/** 路加福音:一条路弯弯曲曲走向地平线上的一座城门(「往耶路撒冷去」),焦点处一轮日头,路面一道金色虚线 —— 不画人 */
+function luke(P, A) {
+  const hx = 0;
+  const hy = GY - 2;
+  const edge = (s) => `M${f(s * 120)} 190C${f(s * 70)} ${f(GY + 96)} ${f(s * 96)} ${f(GY + 52)} ${f(s * 34)} ${f(GY + 30)}C${f(s * 6)} ${f(GY + 20)} ${f(s * 16)} ${f(GY + 8)} ${f(hx + s * 5)} ${f(hy)}`;
+  const road = `<path d="${edge(-1)}" stroke="${P.ink}" stroke-width="0.7"/><path d="${edge(1)}" stroke="${P.ink}" stroke-width="0.7"/><path d="M0 188C-18 ${f(GY + 96)} 24 ${f(GY + 52)} 4 ${f(GY + 30)}C-6 ${f(GY + 20)} 6 ${f(GY + 8)} ${f(hx)} ${f(hy + 1)}" stroke="${P.foil}" stroke-width="0.9" stroke-dasharray="6 5">${A ? '<animate attributeName="stroke-dashoffset" values="0;-22" dur="3s" repeatCount="indefinite"/>' : ''}</path>`;
+  const ground = `<path d="M-170 ${f(GY)}H170" stroke="${P.ink}" stroke-width="0.55"/>${range(4).map((k) => `<path d="M${f(-150 + k * 14)} ${f(GY + 22 + k * 26)}H${f(-60 - k * 10)}M${f(60 + k * 10)} ${f(GY + 22 + k * 26)}H${f(150 - k * 14)}" stroke="${P.faint}" stroke-width="0.4"/>`).join('')}`;
+  // 城:一道墙、一座拱门、两边几级高低不同的方块
+  const wall = [-58, -40, -24, 24, 40, 58].map((x, i) => `<rect x="${f(x - 7)}" y="${f(GY - 14 - (i % 3) * 5)}" width="14" height="${f(14 + (i % 3) * 5)}" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.55"/>`).join('');
+  const gate = `<path d="M-13 ${f(GY)}V${f(GY - 20)}A13 13 0 0 1 13 ${f(GY - 20)}V${f(GY)}" fill="${P.paper}" stroke="${P.ink}" stroke-width="0.75"/><path d="M-6 ${f(GY)}V${f(GY - 13)}A6 6 0 0 1 6 ${f(GY - 13)}V${f(GY)}" stroke="${P.foil}" stroke-width="0.6"/>`;
+  const sun = `<circle cx="0" cy="${f(FY)}" r="${f(RADII[1])}" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.95"/><circle cx="0" cy="${f(FY)}" r="${f(RADII[0])}" stroke="${P.faint}" stroke-width="0.4"/>`;
+  return { frame: { seeds: false }, body: ground + road + wall + gate + sun };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1333,6 +1347,7 @@ const SUBJECTS = {
   quran,
   mark,
   matthew,
+  luke,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 
