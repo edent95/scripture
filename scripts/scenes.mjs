@@ -1292,6 +1292,17 @@ function mark(P, A) {
   return { frame: { seeds: false }, body: water(P, A, { reflect: 22 }) + sky + light + opening + net + boat };
 }
 
+/** 马太福音:一座山(登山宝训),山顶上方焦点处一颗八芒的星(东方的星),星光一道虚线落到山顶;山脚几级台阶似的等高线 —— 不画人 */
+function matthew(P, A) {
+  const peak = FY + RADII[2] + 4;
+  const ridge = (k) => `M${f(-150 * k)} ${f(GY)}C${f(-92 * k)} ${f(GY - 20 * k)} ${f(-44 * k)} ${f(peak + (1 - k) * 60 + 26)} 0 ${f(peak + (1 - k) * 60)}C${f(44 * k)} ${f(peak + (1 - k) * 60 + 26)} ${f(92 * k)} ${f(GY - 20 * k)} ${f(150 * k)} ${f(GY)}`;
+  const mount = `<path d="${ridge(1)}Z" fill="${P.paper}" stroke="none"/><path d="${ridge(1)}" stroke="${P.ink}" stroke-width="0.8"/><path d="${ridge(0.72)}" stroke="${P.faint}" stroke-width="0.45"/><path d="${ridge(0.46)}" stroke="${P.faint}" stroke-width="0.4"/><path d="M-170 ${f(GY)}H170" stroke="${P.ink}" stroke-width="0.55"/>`;
+  const pt = (r, deg) => `${f(r * Math.cos((deg * Math.PI) / 180))} ${f(FY + r * Math.sin((deg * Math.PI) / 180))}`;
+  const star = `<g>${spin(300, 1, A)}<path d="M${range(16).map((i) => pt(i % 2 ? RADII[0] * 0.42 : RADII[1], -90 + 22.5 * i)).join('L')}Z" fill="${P.paper}" stroke="${P.foil}" stroke-width="0.9"/></g><circle cx="0" cy="${f(FY)}" r="2.4" stroke="${P.foil}" stroke-width="0.6"/>`;
+  const light = `<path d="M0 ${f(FY + RADII[1] + 3)}V${f(peak - 3)}" stroke="${P.foil}" stroke-width="0.95" stroke-dasharray="4 3">${A ? '<animate attributeName="stroke-dashoffset" values="0;-14" dur="2.4s" repeatCount="indefinite"/>' : ''}</path>`;
+  return { frame: { seeds: false }, body: mount + light + star };
+}
+
 const SUBJECTS = {
   lotus,
   'heart-sutra': heart,
@@ -1321,6 +1332,7 @@ const SUBJECTS = {
   'tao-te-ching': daodejing,
   quran,
   mark,
+  matthew,
 };
 export const SCENE_NAMES = Object.keys(SUBJECTS);
 
