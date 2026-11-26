@@ -55,14 +55,8 @@ const BOOKS = [
     { orig: { name: 'GRETIL（伊莎：Kāṇva 本；蛙氏：Samuels 录入；羯陀：据 Olivelle 1998 校本）', en: 'GRETIL (Īśā: Kāṇva recension; Māṇḍūkya: input by Samuels; Kaṭha: after Olivelle 1998)', url: GRETIL, license: NC } }],
   ['lzh-daodejing', 'tao-te-ching', 'chinese', '老子五千字，八十一章：讲「道」是什么，人怎样顺着它过日子、治理国家：不争、处下、少一点干预。',
     { orig: { name: '维基文库《道德經 (王弼本)》', en: 'Chinese Wikisource, Daodejing (Wang Bi edition)', url: 'https://zh.wikisource.org/wiki/道德經_(王弼本)', license: '公有领域；录文 CC BY-SA 4.0', licenseEn: 'public domain text; transcription CC BY-SA 4.0' } }],
-  // 古兰经分批做：2026-11-21 第一批是开端章 + 第 30 卷（第 78–114 章），章号写在每章的 no 上。
-  // 原文是 Tanzil 的 Uthmani 本（逐字照抄，授权不许改动）；王静斋译本只有维基文库录了第一、二章，别的章没有可靠录文，先不放。
-  ['ar-quran', 'quran', 'islam', '伊斯兰教的经典，也叫可兰经，穆斯林相信是真主通过天使降给先知穆罕默德的话，共 114 章。这里先收每天礼拜都念的开端章，和最后一卷（第 78–114 章）：都是早期在麦加降下的短章，讲真主独一、末日清算、善待孤儿和穷人。',
-    {
-      orig: { name: 'Tanzil Project（Uthmani 本 1.1）', en: 'Tanzil Project (Uthmani text 1.1)', url: 'https://tanzil.net/', license: 'CC BY 3.0，原样转载、不得改动', licenseEn: 'CC BY 3.0, verbatim copies only' },
-      old: { name: '维基文库《古蘭經譯解》（王静斋 1946 年丙种本，只录了前两章）', url: 'https://zh.wikisource.org/wiki/古蘭經譯解', license: '公有领域', label: '旧译' },
-      notice: 'Tanzil Quran Text (Uthmani, Version 1.1). Copyright (C) 2007-2026 Tanzil Project. License: Creative Commons Attribution 3.0. Permission is granted to copy and distribute verbatim copies of this text, but changing it is not allowed. This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes. This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.',
-    }],
+  // 登记顺序要和首页分组的顺序一致（基督教经典排在伊斯兰经典前面）：封面的颜色和版式按这里的序号轮流取，
+  // 顺序和首页不一致时，首页上相邻的两本序号会差很多，可能撞色或撞版式（2026-11-27 加到第 30 本时撞过）。
   // 圣经分卷做：2026-11-26 第一卷是马可福音（先做第 1 章当样板，用户看过口气后做完 16 章），章号写在每章的 no 上。
   // 原文是 SBLGNT（CC BY 4.0），只去掉校勘符号；对照栏是 1919 年的和合本（公有领域，维基文库录文，繁转简）。
   ['grc-mark', 'mark', 'christianity', '新约四卷福音书里最短的一卷，讲耶稣（基督徒相信他是上帝派来的救主）做了什么、说了什么、怎样被钉死又复活。故事讲得很快，一件接一件，共 16 章：从他在约旦河受洗，到加利利传道、治病、赶鬼，再到耶路撒冷的最后一个星期和空了的坟墓。',
@@ -81,6 +75,20 @@ const BOOKS = [
     {
       orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
       old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
+  // 圣经第四卷：约翰福音 21 章（2026-11-27）。底本、对照栏、做法同前三卷；四卷福音书到这里齐了。
+  ['grc-john', 'john', 'christianity', '新约第四卷福音书，和前三卷很不一样：故事少，长篇的对话多。耶稣（基督徒相信他是上帝派来的救主）在里面一再讲自己是谁、和上帝是什么关系。从开头那首讲「道」的诗，到他被钉死、复活，共 21 章。',
+    {
+      orig: { name: 'SBL Greek New Testament（SBLGNT 1.2，去掉校勘符号）', en: 'SBL Greek New Testament (SBLGNT 1.2, text-critical sigla removed)', url: 'https://sblgnt.com/', license: 'CC BY 4.0，© 2010 Society of Biblical Literature 与 Logos Bible Software', licenseEn: 'CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software' },
+      old: { name: '维基文库《聖經 (和合本)》（1919 年官话和合译本，繁转简）', url: 'https://zh.wikisource.org/wiki/聖經_(和合本)', license: '公有领域；录文 CC BY-SA 4.0', label: '旧译' },
+    }],
+  // 古兰经分批做：2026-11-21 第一批是开端章 + 第 30 卷（第 78–114 章），章号写在每章的 no 上。
+  // 原文是 Tanzil 的 Uthmani 本（逐字照抄，授权不许改动）；王静斋译本只有维基文库录了第一、二章，别的章没有可靠录文，先不放。
+  ['ar-quran', 'quran', 'islam', '伊斯兰教的经典，也叫可兰经，穆斯林相信是真主通过天使降给先知穆罕默德的话，共 114 章。这里先收每天礼拜都念的开端章，和最后一卷（第 78–114 章）：都是早期在麦加降下的短章，讲真主独一、末日清算、善待孤儿和穷人。',
+    {
+      orig: { name: 'Tanzil Project（Uthmani 本 1.1）', en: 'Tanzil Project (Uthmani text 1.1)', url: 'https://tanzil.net/', license: 'CC BY 3.0，原样转载、不得改动', licenseEn: 'CC BY 3.0, verbatim copies only' },
+      old: { name: '维基文库《古蘭經譯解》（王静斋 1946 年丙种本，只录了前两章）', url: 'https://zh.wikisource.org/wiki/古蘭經譯解', license: '公有领域', label: '旧译' },
+      notice: 'Tanzil Quran Text (Uthmani, Version 1.1). Copyright (C) 2007-2026 Tanzil Project. License: Creative Commons Attribution 3.0. Permission is granted to copy and distribute verbatim copies of this text, but changing it is not allowed. This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes. This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.',
     }],
 ];
 
